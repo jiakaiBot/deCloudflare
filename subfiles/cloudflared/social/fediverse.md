@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,049 |
 | social | 4,684 |
-| net | 3,963 |
+| net | 3,964 |
 | org | 2,660 |
 | de | 2,509 |
 
@@ -7732,6 +7732,7 @@ Here's a list of public Fediverse services.
 | `click.ba.it` | Yes |
 | `clickomania.ch` | No |
 | `cliff.social` | Yes |
+| `cliffhouse.app` | Yes |
 | `cliffmccarthy.net` | No |
 | `clifmo.com` | Yes |
 | `climate.dance` | No |
@@ -14899,6 +14900,7 @@ Here's a list of public Fediverse services.
 | `forum.fail` | Yes |
 | `forumanalogue.fr` | No |
 | `forummuenchen.org` | No |
+| `foruq.ir` | No |
 | `forwriter.homes` | Yes |
 | `forza7.jp` | No |
 | `fosfor.dev` | No |
@@ -15940,6 +15942,7 @@ Here's a list of public Fediverse services.
 | `gamedevalliance.fr` | No |
 | `gamedevpals.com` | No |
 | `gamedevsocial.uk` | No |
+| `gameguard.moe` | No |
 | `gameing.zone` | No |
 | `gamejam.site` | No |
 | `gamelan.social` | No |
@@ -27483,6 +27486,7 @@ Here's a list of public Fediverse services.
 | `mcnas.tk` | Yes |
 | `mcncraftodon.site` | No |
 | `mcnesium.com` | No |
+| `mcodev.net` | Yes |
 | `mcoorlim.com` | No |
 | `mcphail.uk` | No |
 | `mcqn.com` | No |
@@ -27907,6 +27911,7 @@ Here's a list of public Fediverse services.
 | `metaldon.com` | No |
 | `metalhead.club` | No |
 | `metalhearf.fr` | Yes |
+| `metalinux.info` | No |
 | `metalmatze.de` | No |
 | `metalsha.re` | No |
 | `metalslime.ink` | No |
@@ -50936,8 +50941,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,474 |
-| Normal | 36,414 |
+| Cloudflare | 14,476 |
+| Normal | 36,417 |
 
 
 </details>
