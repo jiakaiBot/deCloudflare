@@ -22289,7 +22289,7 @@ Here's a list of public Fediverse services.
 | `kazuha.kr` | Yes |
 | `kazuki.xyz` | Yes |
 | `kazv.moe` | No |
-| `kazvam.com` | Yes |
+| `kazvam.com` | No |
 | `kb3lyb.com` | Yes |
 | `kb9orn.org` | No |
 | `kbec.dev` | No |
@@ -40332,6 +40332,7 @@ Here's a list of public Fediverse services.
 | `siliconfilter.com` | Yes |
 | `siliconvalley.social` | No |
 | `silicorn.social` | No |
+| `siljaxylia.moe` | No |
 | `silkhe.art` | Yes |
 | `silkky.cloud` | Yes |
 | `silkky.dev` | Yes |
@@ -50932,8 +50933,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,474 |
-| Normal | 36,410 |
+| Cloudflare | 14,473 |
+| Normal | 36,412 |
 
 
 </details>
