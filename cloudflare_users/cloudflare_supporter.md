@@ -3182,6 +3182,7 @@ Do not create new issue or we will close it as duplicate.
 | [DigitalSoftwar9@twitter](https://twitter.com/DigitalSoftwar9/status/1437033725141860357) | advertise |
 | [digital_khabar@twitter](https://twitter.com/digital_khabar/status/1443868273901146114) | advertise |
 | [digital_pig@twitter](https://twitter.com/digital_pig/status/1384777161383432192) | advertise |
+| [digreggorio@twitter](https://twitter.com/digreggorio/status/1729548194097275140) | advertise |
 | [dikalaode@twitter](https://twitter.com/dikalaode/status/1614277470936784897) | advertise |
 | [Dikshan85958870@twitter](https://twitter.com/Dikshan85958870/status/1671495095122632707) | advertise |
 | [dilba52785508@twitter](https://twitter.com/dilba52785508/status/1564590268371836930) | advertise |
@@ -4027,6 +4028,7 @@ Do not create new issue or we will close it as duplicate.
 | [foreverfIawless@twitter](https://twitter.com/foreverfIawless/status/1612795011480838146) | advertise |
 | [ForHad42656837@twitter](https://twitter.com/ForHad42656837/status/1700956407036842444) | advertise |
 | [ForidUd69936856@twitter](https://twitter.com/ForidUd69936856/status/1402253597501362182) | advertise |
+| [foritoan1122@twitter](https://twitter.com/foritoan1122/status/1729540451311718560) | advertise |
 | [Forms_Ge@twitter](https://twitter.com/Forms_Ge/status/1413774450676453384) | advertise |
 | [For_joyce1@twitter](https://twitter.com/For_joyce1/status/1710657161271955679) | advertise |
 | [fouaadbarcha@twitter](https://twitter.com/fouaadbarcha/status/1636104214572335104) | advertise |
@@ -4524,6 +4526,7 @@ Do not create new issue or we will close it as duplicate.
 | [HajajHsjsj@twitter](https://twitter.com/HajajHsjsj/status/1695087154568085556) | advertise |
 | [HajiDawood200@twitter](https://twitter.com/HajiDawood200/status/1597334326638653440) | advertise |
 | [HajiKha39541085@twitter](https://twitter.com/HajiKha39541085/status/1379155176917991429) | advertise |
+| [HAJI____KHAN@twitter](https://twitter.com/HAJI____KHAN/status/1729541042582806991) | advertise |
 | [HakamaKasumi@twitter](https://twitter.com/HakamaKasumi/status/1402166214814621696) | advertise |
 | [hakamaletoom@twitter](https://twitter.com/hakamaletoom/status/1627195860269367296) | advertise |
 | [Hakeem29285036@twitter](https://twitter.com/Hakeem29285036/status/1394288578314838023) | advertise |
