@@ -1724,6 +1724,7 @@ Or is this merely a case of simple modesty?
 | Stephen K. Lo | Customer Success |  |
 | Stephen Krings | Security Engineer |  |
 | Stephen Pinkerton | Product Manager, Austin |  |
+| Steve Bray | Employee | |
 | Steve Klabnik | Storage Product Manager | https://twitter.com/steveklabnik<br>steve@steveklabnik.com |
 | Steve Krause | Legal Counsel |  |
 | Steven Kettlewell | Employee |  |
