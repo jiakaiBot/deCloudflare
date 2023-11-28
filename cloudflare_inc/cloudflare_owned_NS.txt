@@ -1019,6 +1019,7 @@ venkat.ns.cloudflare.com
 venus.ns.cloudflare.com
 vera.ns.cloudflare.com
 vern.ns.cloudflare.com
+vero.ns.cloudflare.com
 veronica.ns.cloudflare.com
 vicente.ns.cloudflare.com
 vick.ns.cloudflare.com
