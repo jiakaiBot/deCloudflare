@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,050 |
-| social | 4,684 |
+| com | 8,052 |
+| social | 4,685 |
 | net | 3,964 |
 | org | 2,659 |
 | de | 2,509 |
@@ -7803,7 +7803,6 @@ Here's a list of public Fediverse services.
 | `cloudfiction.social` | No |
 | `cloudflare.social` | Yes |
 | `cloudfrancois.fr` | No |
-| `cloudfree.jp` | No |
 | `cloudhesselhoj.dk` | No |
 | `cloudhub.social` | Yes |
 | `cloudisland.nz` | No |
@@ -10779,6 +10778,7 @@ Here's a list of public Fediverse services.
 | `digitalnomads.social` | Yes |
 | `digitalog.it` | No |
 | `digitalpharma.social` | No |
+| `digitalpioneers.social` | No |
 | `digitalronin.uk` | No |
 | `digitalsocialism.world` | No |
 | `digitalsoup.eu` | No |
@@ -21528,6 +21528,7 @@ Here's a list of public Fediverse services.
 | `jordanh.net` | Yes |
 | `jordanhall.co.uk` | No |
 | `jordanmerrick.com` | Yes |
+| `jordanreger.com` | Yes |
 | `jordanwages.com` | No |
 | `jorel.org` | No |
 | `jorgas.eu` | No |
@@ -24953,6 +24954,7 @@ Here's a list of public Fediverse services.
 | `lisboa.social` | Yes |
 | `liseklucek.pl` | Yes |
 | `lisp.buzz` | No |
+| `lissocial.com` | Yes |
 | `listbuglar.com` | No |
 | `listen.gallery` | No |
 | `listen.moe` | Yes |
@@ -38295,6 +38297,7 @@ Here's a list of public Fediverse services.
 | `rtorr.com` | Yes |
 | `rtrace.io` | No |
 | `rtsemissions.ch` | No |
+| `rtsn.dev` | Yes |
 | `rtter.com` | No |
 | `rtwebb.com` | No |
 | `rtx3070kure.net` | No |
@@ -38793,6 +38796,7 @@ Here's a list of public Fediverse services.
 | `samojlenko.com` | No |
 | `samosada.ga` | No |
 | `sample.pw` | Yes |
+| `sampleuser.nl` | No |
 | `samr1.net` | No |
 | `samsai.eu` | No |
 | `samsanstyle.com` | No |
@@ -50946,10 +50950,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,479 |
-| Normal | 36,419 |
+| Cloudflare | 14,482 |
+| Normal | 36,420 |
 
 
 </details>
 
-### 28.4% of public Fediverse services are using Cloudflare.
+### 28.5% of public Fediverse services are using Cloudflare.
