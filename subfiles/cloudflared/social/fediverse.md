@@ -7803,6 +7803,7 @@ Here's a list of public Fediverse services.
 | `cloudfiction.social` | No |
 | `cloudflare.social` | Yes |
 | `cloudfrancois.fr` | No |
+| `cloudfree.jp` | No |
 | `cloudhesselhoj.dk` | No |
 | `cloudhub.social` | Yes |
 | `cloudisland.nz` | No |
@@ -15993,6 +15994,7 @@ Here's a list of public Fediverse services.
 | `gaminginthe.cloud` | Yes |
 | `gamingjp.org` | No |
 | `gaminglinux.fr` | No |
+| `gamma-cephei-ab.eu` | No |
 | `gamma-x.net` | No |
 | `gammalab.net` | No |
 | `gammon.club` | No |
@@ -17807,6 +17809,7 @@ Here's a list of public Fediverse services.
 | `halfey.moe` | Yes |
 | `halfling13.com` | No |
 | `halfmemories.com` | Yes |
+| `halfmoon.jp` | No |
 | `halfpastfour.club` | No |
 | `halfrealm.com` | No |
 | `halfstreet.social` | No |
@@ -50953,9 +50956,9 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,483 |
-| Normal | 36,421 |
+| Normal | 36,424 |
 
 
 </details>
 
-### 28.5% of public Fediverse services are using Cloudflare.
+### 28.4% of public Fediverse services are using Cloudflare.
