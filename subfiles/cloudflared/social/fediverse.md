@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,054 |
+| com | 8,055 |
 | social | 4,685 |
 | net | 3,964 |
 | org | 2,659 |
@@ -4250,7 +4250,7 @@ Here's a list of public Fediverse services.
 | `beatles.chat` | No |
 | `beatles.social` | No |
 | `beatrice.wtf` | No |
-| `beatsaber.jp` | No |
+| `beatsaber.jp` | Yes |
 | `beatty.family` | No |
 | `beaulieu.social` | No |
 | `beaumonts.me` | Yes |
@@ -40763,6 +40763,7 @@ Here's a list of public Fediverse services.
 | `sleepy.tube` | No |
 | `sleepybear.dev` | Yes |
 | `sleepybois.social` | No |
+| `sleepycatz.com` | No |
 | `sleepycrew.social` | No |
 | `sleepyfox.social` | No |
 | `sleepygremlin.online` | No |
@@ -50956,10 +50957,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,483 |
+| Cloudflare | 14,484 |
 | Normal | 36,425 |
 
 
 </details>
 
-### 28.4% of public Fediverse services are using Cloudflare.
+### 28.5% of public Fediverse services are using Cloudflare.
