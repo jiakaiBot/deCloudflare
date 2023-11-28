@@ -5969,6 +5969,7 @@ Do not create new issue or we will close it as duplicate.
 | [jenjira1958@twitter](https://twitter.com/jenjira1958/status/1386021576714317826) | advertise |
 | [Jennife02145345@twitter](https://twitter.com/Jennife02145345/status/1584704770610442241) | advertise |
 | [Jennife66243167@twitter](https://twitter.com/Jennife66243167/status/1685991582061809664) | advertise |
+| [jens_knabe@twitter](https://twitter.com/jens_knabe/status/1729506995785417135) | advertise |
 | [Jeongperth@twitter](https://twitter.com/Jeongperth/status/1384190962499416071) | advertise |
 | [JeonHnin@twitter](https://twitter.com/JeonHnin/status/1396070462728204289) | advertise |
 | [jeon_taeguk@twitter](https://twitter.com/jeon_taeguk/status/1398449609018540034) | advertise |
@@ -9399,6 +9400,7 @@ Do not create new issue or we will close it as duplicate.
 | [NayNay55853077@twitter](https://twitter.com/NayNay55853077/status/1387380849742520325) | advertise |
 | [NayOoHlaing16@twitter](https://twitter.com/NayOoHlaing16/status/1396814322962112517) | advertise |
 | [Naythakhin3@twitter](https://twitter.com/Naythakhin3/status/1395624195514454019) | advertise |
+| [NayThu770654@twitter](https://twitter.com/NayThu770654/status/1729512269833187564) | advertise |
 | [NayThur05225332@twitter](https://twitter.com/NayThur05225332/status/1394343408542523394) | advertise |
 | [NayThuR85997991@twitter](https://twitter.com/NayThuR85997991/status/1395283796115607555) | advertise |
 | [NayThuraZaw4@twitter](https://twitter.com/NayThuraZaw4/status/1393467197096448000) | advertise |
@@ -14668,6 +14670,7 @@ Do not create new issue or we will close it as duplicate.
 | [WestDutton@twitter](https://twitter.com/WestDutton/status/1665889148937306113) | advertise |
 | [wesvalderama@twitter](https://twitter.com/wesvalderama/status/1386386480717729792) | advertise |
 | [we_saas@twitter](https://twitter.com/we_saas/status/1492116460310781952) | advertise |
+| [WGorseh@twitter](https://twitter.com/WGorseh/status/1729498482229281106) | advertise |
 | [WH1SbAtn0BPa5UI@twitter](https://twitter.com/WH1SbAtn0BPa5UI/status/1377862606266961924) | advertise |
 | [wha7QdpBYxFiy7h@twitter](https://twitter.com/wha7QdpBYxFiy7h/status/1633396102874685440) | advertise |
 | [WhatGoo68019989@twitter](https://twitter.com/WhatGoo68019989/status/1683493649810612226) | advertise |
