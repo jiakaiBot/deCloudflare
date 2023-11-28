@@ -32145,6 +32145,7 @@ Here's a list of public Fediverse services.
 | `nullisland.social` | No |
 | `nullnet.us` | No |
 | `nullnummern.de` | No |
+| `nullnyat.house` | Yes |
 | `nullob.si` | Yes |
 | `nulloctet.com` | Yes |
 | `nullopt.net` | No |
@@ -50944,7 +50945,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,477 |
+| Cloudflare | 14,478 |
 | Normal | 36,419 |
 
 
