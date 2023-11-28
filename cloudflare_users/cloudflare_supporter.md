@@ -2902,6 +2902,7 @@ Do not create new issue or we will close it as duplicate.
 | [Danish111930617@twitter](https://twitter.com/Danish111930617/status/1560183361636683776) | advertise |
 | [danishfaizal20@twitter](https://twitter.com/danishfaizal20/status/1567192300438302720) | advertise |
 | [DanishK38071094@twitter](https://twitter.com/DanishK38071094/status/1679197767661654016) | advertise |
+| [danis_adri27111@twitter](https://twitter.com/danis_adri27111/status/1729296541599289503) | advertise |
 | [DankCheeseMemes@twitter](https://twitter.com/DankCheeseMemes/status/1622991806026727424) | advertise |
 | [dannwaneri@twitter](https://twitter.com/dannwaneri/status/1627759174967873539) | advertise |
 | [DannyEs75974205@twitter](https://twitter.com/DannyEs75974205/status/1637654047749550080) | advertise |
@@ -11541,6 +11542,7 @@ Do not create new issue or we will close it as duplicate.
 | [roukaf25@twitter](https://twitter.com/roukaf25/status/1421110855517736964) | advertise |
 | [Rounakr94@twitter](https://twitter.com/Rounakr94/status/1671043109948649472) | advertise |
 | [Roungroat493802@twitter](https://twitter.com/Roungroat493802/status/1723986179258007935) | advertise |
+| [Rowland9Brayden@twitter](https://twitter.com/Rowland9Brayden/status/1729437996234244134) | advertise |
 | [rowzalen@twitter](https://twitter.com/rowzalen/status/1675610715078422535) | advertise |
 | [roxannexmars@twitter](https://twitter.com/roxannexmars/status/1380404984211152896) | advertise |
 | [Roy29428239@twitter](https://twitter.com/Roy29428239/status/1475497369147949066) | advertise |
@@ -12111,6 +12113,7 @@ Do not create new issue or we will close it as duplicate.
 | [SharMyatthu3@twitter](https://twitter.com/SharMyatthu3/status/1390642880444715009) | advertise |
 | [sharoar_shojib@twitter](https://twitter.com/sharoar_shojib/status/1611407762365509634) | advertise |
 | [SharrXtet@twitter](https://twitter.com/SharrXtet/status/1390380850793959426) | advertise |
+| [Shartner3107W@twitter](https://twitter.com/Shartner3107W/status/1729386941307670752) | advertise |
 | [shashalee52@twitter](https://twitter.com/shashalee52/status/1397848541930962948) | advertise |
 | [Shashan45861422@twitter](https://twitter.com/Shashan45861422/status/1401462291397181441) | advertise |
 | [Shashik19575790@twitter](https://twitter.com/Shashik19575790/status/1384458463896477698) | advertise |
@@ -15036,6 +15039,7 @@ Do not create new issue or we will close it as duplicate.
 | [YcSQYLmX56wkzI3@twitter](https://twitter.com/YcSQYLmX56wkzI3/status/1404774248778973186) | advertise |
 | [Ye11929027@twitter](https://twitter.com/Ye11929027/status/1392452962803277833) | advertise |
 | [YeAkash@twitter](https://twitter.com/YeAkash/status/1397130824672112641) | advertise |
+| [YEarth70314@twitter](https://twitter.com/YEarth70314/status/1729397897274523715) | advertise |
 | [yedtoodchan@twitter](https://twitter.com/yedtoodchan/status/1711156075263897803) | advertise |
 | [YeeMon15929845@twitter](https://twitter.com/YeeMon15929845/status/1391579636736270336) | advertise |
 | [Yeet17075954@twitter](https://twitter.com/Yeet17075954/status/1395175412569882628) | advertise |
