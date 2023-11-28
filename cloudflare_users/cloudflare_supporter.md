@@ -5711,6 +5711,7 @@ Do not create new issue or we will close it as duplicate.
 | [iswampa@twitter](https://twitter.com/iswampa/status/1575178856813985792) | advertise |
 | [Is_Dia_li@twitter](https://twitter.com/Is_Dia_li/status/1390245219795279878) | advertise |
 | [is_ovy@twitter](https://twitter.com/is_ovy/status/1689714840150118400) | advertise |
+| [It0X82@twitter](https://twitter.com/It0X82/status/1729573799794766086) | advertise |
 | [Itachi10737586@twitter](https://twitter.com/Itachi10737586/status/1389877556866740229) | advertise |
 | [Itami971@twitter](https://twitter.com/Itami971/status/1390672676910288896) | advertise |
 | [itgyani@twitter](https://twitter.com/itgyani/status/1527643316267155464) | advertise |
@@ -10019,6 +10020,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nuri7hussainy@twitter](https://twitter.com/Nuri7hussainy/status/1660419418944425986) | advertise |
 | [NurseSmit@twitter](https://twitter.com/NurseSmit/status/1549786161442332673) | advertise |
 | [nurunnabi56@twitter](https://twitter.com/nurunnabi56/status/1560217013288861696) | advertise |
+| [nuruwellness@twitter](https://twitter.com/nuruwellness/status/1729564172814291451) | advertise |
 | [nut62139@twitter](https://twitter.com/nut62139/status/1713591194956275978) | advertise |
 | [nuttawoot33150@twitter](https://twitter.com/nuttawoot33150/status/1557336093254569984) | advertise |
 | [NuwajunaJustus@twitter](https://twitter.com/NuwajunaJustus/status/1588943780883095553) | advertise |
