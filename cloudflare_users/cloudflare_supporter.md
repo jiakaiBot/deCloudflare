@@ -1747,6 +1747,7 @@ Do not create new issue or we will close it as duplicate.
 | [Beast29769840@twitter](https://twitter.com/Beast29769840/status/1396382427304521728) | advertise |
 | [BeastHunter696@twitter](https://twitter.com/BeastHunter696/status/1405569905613701122) | advertise |
 | [bebak_subba@twitter](https://twitter.com/bebak_subba/status/1392571390956478464) | advertise |
+| [bebo6792@twitter](https://twitter.com/bebo6792/status/1729557181144719447) | advertise |
 | [bebon2002@twitter](https://twitter.com/bebon2002/status/1717960532408307953) | advertise |
 | [becks2999@twitter](https://twitter.com/becks2999/status/1391064532403982336) | advertise |
 | [bedesqui@twitter](https://twitter.com/bedesqui/status/1579487581380968449) | advertise |
@@ -9325,6 +9326,7 @@ Do not create new issue or we will close it as duplicate.
 | [narajantima@twitter](https://twitter.com/narajantima/status/1553226573574090753) | advertise |
 | [Narendr93556275@twitter](https://twitter.com/Narendr93556275/status/1384445226274594824) | advertise |
 | [naringuyen0808@twitter](https://twitter.com/naringuyen0808/status/1545254657102336002) | advertise |
+| [narin_mana46328@twitter](https://twitter.com/narin_mana46328/status/1729556108719628618) | advertise |
 | [narkarsarkie@twitter](https://twitter.com/narkarsarkie/status/1379118031050141697) | advertise |
 | [narumirinq@twitter](https://twitter.com/narumirinq/status/1674828938449940480) | advertise |
 | [nas00831184@twitter](https://twitter.com/nas00831184/status/1401008152036790277) | advertise |
@@ -13344,6 +13346,7 @@ Do not create new issue or we will close it as duplicate.
 | [thient_ei@twitter](https://twitter.com/thient_ei/status/1398644633836539907) | advertise |
 | [ThiepVu4@twitter](https://twitter.com/ThiepVu4/status/1635128311130259457) | advertise |
 | [Thierie9@twitter](https://twitter.com/Thierie9/status/1391758445947228161) | advertise |
+| [ThiHa0080235777@twitter](https://twitter.com/ThiHa0080235777/status/1729548249743175962) | advertise |
 | [ThiHa14913251@twitter](https://twitter.com/ThiHa14913251/status/1619160601057689637) | advertise |
 | [ThiHa16740611@twitter](https://twitter.com/ThiHa16740611/status/1394156796235767809) | advertise |
 | [Thiha30623324@twitter](https://twitter.com/Thiha30623324/status/1391901312950878210) | advertise |
