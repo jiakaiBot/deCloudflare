@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare D1 Adapter support](https://github.com/Hebilicious/authjs-nuxt/issues/138)
 - [object_store: Allow 403 Forbidden for copy_if_not_exists S3 status code](https://github.com/apache/arrow-rs/issues/5132)
 - [port 53 conflict](https://github.com/hamannju/docker-dns-server/issues/1)
 - [Chapter 2: Semantic Search Pinecone index.upsert() throws 'Unable to prepare type Embedding for serialization' exception](https://github.com/sinanuozdemir/quick-start-guide-to-llms/issues/10)
