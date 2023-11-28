@@ -32263,6 +32263,7 @@ Here's a list of public Fediverse services.
 | `nyahyun.com` | Yes |
 | `nyaight.me` | Yes |
 | `nyan.cafe` | No |
+| `nyan.click` | Yes |
 | `nyan.im` | Yes |
 | `nyan.in` | Yes |
 | `nyan.lgbt` | Yes |
@@ -50945,7 +50946,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,478 |
+| Cloudflare | 14,479 |
 | Normal | 36,419 |
 
 
