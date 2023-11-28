@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: no schema available for cloudflare_ip_list while reading state](https://github.com/hashicorp/terraform/issues/34307)
 - [Cloudflare D1 Adapter support](https://github.com/Hebilicious/authjs-nuxt/issues/138)
 - [object_store: Allow 403 Forbidden for copy_if_not_exists S3 status code](https://github.com/apache/arrow-rs/issues/5132)
 - [port 53 conflict](https://github.com/hamannju/docker-dns-server/issues/1)
