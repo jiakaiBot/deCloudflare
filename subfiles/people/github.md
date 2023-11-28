@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error adding new digitalocean_record ("id is invalid because cannot be less than 1")](https://github.com/digitalocean/terraform-provider-digitalocean/issues/1084)
 - [Error: no schema available for cloudflare_ip_list while reading state](https://github.com/hashicorp/terraform/issues/34307)
 - [Cloudflare D1 Adapter support](https://github.com/Hebilicious/authjs-nuxt/issues/138)
 - [object_store: Allow 403 Forbidden for copy_if_not_exists S3 status code](https://github.com/apache/arrow-rs/issues/5132)
