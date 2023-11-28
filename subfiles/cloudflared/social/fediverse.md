@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,684 |
 | net | 3,963 |
 | org | 2,660 |
-| de | 2,508 |
+| de | 2,509 |
 
 
 - Mastodon, Pleroma, etc
@@ -15488,6 +15488,7 @@ Here's a list of public Fediverse services.
 | `fsociety.social` | Yes |
 | `fsphub.org` | No |
 | `fstab.sh` | No |
+| `fstab.xyz` | Yes |
 | `fstop.social` | No |
 | `fstube.net` | No |
 | `fsu-snuipp.fr` | Yes |
@@ -28285,7 +28286,7 @@ Here's a list of public Fediverse services.
 | `millcrick.social` | No |
 | `millefeuilles.cloud` | No |
 | `milleiro.com` | No |
-| `millenium.red` | Yes |
+| `millenium.red` | No |
 | `millennial.space` | No |
 | `millennials.social` | No |
 | `miller.cm` | Yes |
@@ -32405,6 +32406,7 @@ Here's a list of public Fediverse services.
 | `occitanie-decroissance.info` | No |
 | `occitanie.social` | No |
 | `occm.cc` | Yes |
+| `occommu.xyz` | No |
 | `occult-zuki.com` | No |
 | `occult.camp` | No |
 | `occult.institute` | No |
@@ -44392,6 +44394,7 @@ Here's a list of public Fediverse services.
 | `thenet.social` | No |
 | `thenets.org` | Yes |
 | `theneuromantics.net` | No |
+| `thenewgaming.de` | Yes |
 | `thenewleafjournal.com` | No |
 | `thenewoil.org` | Yes |
 | `thenewoil.xyz` | No |
@@ -50933,8 +50936,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,473 |
-| Normal | 36,412 |
+| Cloudflare | 14,474 |
+| Normal | 36,414 |
 
 
 </details>
