@@ -19423,7 +19423,7 @@ Here's a list of public Fediverse services.
 | `iamschulz.com` | Yes |
 | `iamtakagi.net` | Yes |
 | `iamtalon.me` | No |
-| `iamterminally.online` | Yes |
+| `iamterminally.online` | No |
 | `iamveryti.red` | Yes |
 | `ian.mn` | Yes |
 | `ian.sh` | No |
@@ -22727,7 +22727,7 @@ Here's a list of public Fediverse services.
 | `kinney.tax` | No |
 | `kino.ma` | No |
 | `kinocow.com` | No |
-| `kinoko.pw` | No |
+| `kinoko.pw` | Yes |
 | `kinowolnosc.pl` | No |
 | `kinsta.cloud` | Yes |
 | `kintsugi-lab.com` | Yes |
@@ -34962,6 +34962,7 @@ Here's a list of public Fediverse services.
 | `plasticmodels.tokyo` | No |
 | `plataformess.org` | No |
 | `platanito.org` | No |
+| `platanus.top` | Yes |
 | `plateia.org` | Yes |
 | `platformgoblin.com` | No |
 | `platformonomics.com` | Yes |
@@ -48428,7 +48429,7 @@ Here's a list of public Fediverse services.
 | `webtoo.ls` | Yes |
 | `webunknownperson.com` | No |
 | `webunraveling.com` | No |
-| `weburbanists.com` | Yes |
+| `weburbanists.com` | No |
 | `weburn.ru` | No |
 | `webvsn.com` | Yes |
 | `webwizard.uk` | Yes |
@@ -50930,7 +50931,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,472 |
-| Normal | 36,409 |
+| Normal | 36,410 |
 
 
 </details>
