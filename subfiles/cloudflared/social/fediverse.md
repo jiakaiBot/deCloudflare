@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,052 |
+| com | 8,054 |
 | social | 4,685 |
 | net | 3,964 |
 | org | 2,659 |
@@ -30762,6 +30762,7 @@ Here's a list of public Fediverse services.
 | `neon.jp.net` | No |
 | `neon.moe` | No |
 | `neonballoon.de` | No |
+| `neonbubble.com` | No |
 | `neondemons.net` | No |
 | `neonflux.city` | No |
 | `neongarden.life` | No |
@@ -31176,6 +31177,7 @@ Here's a list of public Fediverse services.
 | `nicecrew.us` | No |
 | `nicede.xyz` | No |
 | `nicehat.lol` | Yes |
+| `niceparfait.com` | No |
 | `nicepeople.social` | No |
 | `niceview.club` | No |
 | `nicfab.eu` | No |
@@ -49772,7 +49774,7 @@ Here's a list of public Fediverse services.
 | `xnop.yt` | No |
 | `xnor.in` | No |
 | `xnor.work` | No |
-| `xnu.kr` | No |
+| `xnu.kr` | Yes |
 | `xo.se` | No |
 | `xoddark.com` | No |
 | `xoddiel.net` | No |
@@ -50950,8 +50952,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,482 |
-| Normal | 36,420 |
+| Cloudflare | 14,483 |
+| Normal | 36,421 |
 
 
 </details>
