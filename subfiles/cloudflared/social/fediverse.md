@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,049 |
+| com | 8,050 |
 | social | 4,684 |
 | net | 3,964 |
-| org | 2,660 |
+| org | 2,659 |
 | de | 2,509 |
 
 
@@ -2066,6 +2066,7 @@ Here's a list of public Fediverse services.
 | `ameci.org` | Yes |
 | `amecomidon.com` | No |
 | `amedcalf.com` | No |
+| `amefrea.space` | No |
 | `amefur.asia` | No |
 | `amemiya.work` | No |
 | `amencarini.com` | No |
@@ -8165,6 +8166,7 @@ Here's a list of public Fediverse services.
 | `comam.es` | No |
 | `comame.xyz` | Yes |
 | `combatbahai.com` | No |
+| `combinehonnete.com` | No |
 | `combiner.team` | No |
 | `come-together.nl` | No |
 | `comedyclub.social` | No |
@@ -31506,6 +31508,7 @@ Here's a list of public Fediverse services.
 | `nnnuu.de` | No |
 | `nnrt.site` | No |
 | `nnt.space` | No |
+| `nnyx.xyz` | Yes |
 | `no-ip.biz` | No |
 | `no-ip.bizfriendica` | No |
 | `no-ip.info` | No |
@@ -46034,7 +46037,6 @@ Here's a list of public Fediverse services.
 | `tsukihi.moe` | Yes |
 | `tsukim.io` | Yes |
 | `tsukimi.club` | Yes |
-| `tsukimio.org` | Yes |
 | `tsukiyo.dev` | Yes |
 | `tsukiyono.blue` | Yes |
 | `tsukuba.io` | Yes |
@@ -50942,7 +50944,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,476 |
-| Normal | 36,417 |
+| Normal | 36,419 |
 
 
 </details>
