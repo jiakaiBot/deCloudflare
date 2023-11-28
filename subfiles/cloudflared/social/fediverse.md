@@ -4510,7 +4510,7 @@ Here's a list of public Fediverse services.
 | `bertha.social` | No |
 | `berton.me` | No |
 | `bertshouse.social` | No |
-| `beru.co` | No |
+| `beru.co` | Yes |
 | `berwa.re` | Yes |
 | `berwanger-and-kin.com` | No |
 | `berzerk.pl` | No |
@@ -7801,6 +7801,7 @@ Here's a list of public Fediverse services.
 | `cloudfiction.social` | No |
 | `cloudflare.social` | Yes |
 | `cloudfrancois.fr` | No |
+| `cloudfree.jp` | No |
 | `cloudhesselhoj.dk` | No |
 | `cloudhub.social` | Yes |
 | `cloudisland.nz` | No |
@@ -50931,7 +50932,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,473 |
+| Cloudflare | 14,474 |
 | Normal | 36,410 |
 
 
