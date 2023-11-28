@@ -19463,6 +19463,7 @@ Here's a list of public Fediverse services.
 | `ibbtown.com` | No |
 | `ibe.social` | No |
 | `ibenot.com` | Yes |
+| `ibesocial.space` | No |
 | `ibex.social` | No |
 | `ibexpert.info` | No |
 | `ibh.social` | No |
@@ -50956,7 +50957,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,483 |
-| Normal | 36,424 |
+| Normal | 36,425 |
 
 
 </details>
