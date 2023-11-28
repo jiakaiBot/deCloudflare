@@ -43341,6 +43341,7 @@ Here's a list of public Fediverse services.
 | `tandlers.de` | No |
 | `tane.codes` | No |
 | `tanelpoder.com` | Yes |
+| `tangel.me` | Yes |
 | `tangentbordet.se` | No |
 | `tangentfox.com` | No |
 | `tangentideas.info` | No |
@@ -50943,7 +50944,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,476 |
+| Cloudflare | 14,477 |
 | Normal | 36,419 |
 
 
