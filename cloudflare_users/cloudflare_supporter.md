@@ -1917,6 +1917,7 @@ Do not create new issue or we will close it as duplicate.
 | [birt_isaac@twitter](https://twitter.com/birt_isaac/status/1377936339212062725) | advertise |
 | [BishalK59489606@twitter](https://twitter.com/BishalK59489606/status/1536094886596079616) | advertise |
 | [BisterHope@twitter](https://twitter.com/BisterHope/status/1597713288959524864) | advertise |
+| [BiswajitBa143@twitter](https://twitter.com/BiswajitBa143/status/1729531263151976633) | advertise |
 | [BiswasAgnick@twitter](https://twitter.com/BiswasAgnick/status/1684237350765834248) | advertise |
 | [BiT92126616@twitter](https://twitter.com/BiT92126616/status/1664816473137876992) | advertise |
 | [bitclaw@twitter](https://twitter.com/bitclaw/status/1650887501479829505) | advertise |
