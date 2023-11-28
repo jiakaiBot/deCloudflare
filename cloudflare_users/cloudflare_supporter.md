@@ -9897,6 +9897,7 @@ Do not create new issue or we will close it as duplicate.
 | [NnguyenUy@twitter](https://twitter.com/NnguyenUy/status/1389091092331597824) | advertise |
 | [NnmhBgoMy@twitter](https://twitter.com/NnmhBgoMy/status/1398200094818668546) | advertise |
 | [nnnnn5437@twitter](https://twitter.com/nnnnn5437/status/1507002698205327360) | advertise |
+| [NnonzNoora@twitter](https://twitter.com/NnonzNoora/status/1729580423301247054) | advertise |
 | [no72541887@twitter](https://twitter.com/no72541887/status/1610785285045977091) | advertise |
 | [noahhuntersmith@twitter](https://twitter.com/noahhuntersmith/status/1515008532571111424) | advertise |
 | [NoahLiptrap@twitter](https://twitter.com/NoahLiptrap/status/1508131762177654784) | advertise |
@@ -10176,6 +10177,7 @@ Do not create new issue or we will close it as duplicate.
 | [omarco91@twitter](https://twitter.com/omarco91/status/1603537286813171713) | advertise |
 | [OmarElgahri@twitter](https://twitter.com/OmarElgahri/status/1430736423838158851) | advertise |
 | [OmarOmarahmedkr@twitter](https://twitter.com/OmarOmarahmedkr/status/1559481116934938625) | advertise |
+| [omarsulaiman85@twitter](https://twitter.com/omarsulaiman85/status/1729580429294850116) | advertise |
 | [Omary52022014@twitter](https://twitter.com/Omary52022014/status/1541496884065345537) | advertise |
 | [omar_ibrahim_28@twitter](https://twitter.com/omar_ibrahim_28/status/1533075831781834753) | advertise |
 | [omergulenn@twitter](https://twitter.com/omergulenn/status/1678193232767754240) | advertise |
