@@ -21839,6 +21839,7 @@ Here's a list of public Fediverse services.
 | `jvyden.xyz` | Yes |
 | `jw.be` | No |
 | `jws.app` | Yes |
+| `jws.dev` | Yes |
 | `jws.news` | No |
 | `jxm.ca` | No |
 | `jxmsocial.xyz` | No |
@@ -50930,7 +50931,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,472 |
+| Cloudflare | 14,473 |
 | Normal | 36,410 |
 
 
