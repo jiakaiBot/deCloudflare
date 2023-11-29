@@ -3927,6 +3927,7 @@ Do not create new issue or we will close it as duplicate.
 | [Fazian47524484@twitter](https://twitter.com/Fazian47524484/status/1400881570408394753) | advertise |
 | [Fazrul1990@twitter](https://twitter.com/Fazrul1990/status/1726928929964065187) | advertise |
 | [FbworlNews@twitter](https://twitter.com/FbworlNews/status/1401094204743372800) | advertise |
+| [FckDinh@twitter](https://twitter.com/FckDinh/status/1729688550482866455) | advertise |
 | [fdc_tuna2134@twitter](https://twitter.com/fdc_tuna2134/status/1612577796903272450) | advertise |
 | [Fearles81577944@twitter](https://twitter.com/Fearles81577944/status/1393607641335668737) | advertise |
 | [fear_mywrath@twitter](https://twitter.com/fear_mywrath/status/1440283106301202432) | advertise |
