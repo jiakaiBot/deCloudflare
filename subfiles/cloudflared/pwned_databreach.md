@@ -213,6 +213,7 @@ Here's a list of breached sites.
 | Epik | 15,003,961 | Yes |
 | Eroticy | 1,370,175 | No |
 | Eskimi | 1,197,620 | Yes |
+| EstanteVirtual (Estante Virtual) | 5,412,603 | Yes |
 | Ethereum | 16,431 | Yes |
 | EuropaJobs (europa.jobs) | 226,095 | Yes |
 | Evermotion | 435,510 | No |
@@ -716,10 +717,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 407 | 4,517,810,094 |
+| Cloudflare | 408 | 4,523,222,697 |
 | Normal | 288 | 4,531,575,438 |
 
 
 
 ### 58.6% of breached sites (pwned sites) are using Cloudflare.
-### 49.9% of leaked accounts are on Cloudflare sites.
+### 50% of leaked accounts are on Cloudflare sites.
