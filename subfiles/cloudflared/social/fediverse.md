@@ -9846,7 +9846,6 @@ Here's a list of public Fediverse services.
 | `daveking.app` | No |
 | `davepeck.org` | No |
 | `davesnider.com` | No |
-| `davewinter.dev` | Yes |
 | `davewinter.info` | Yes |
 | `david.garden` | Yes |
 | `davidanaxagoras.com` | No |
@@ -44902,7 +44901,6 @@ Here's a list of public Fediverse services.
 | `tmi.fyi` | No |
 | `tmi.pics` | No |
 | `tmichellemoore.com` | No |
-| `tmight.work` | Yes |
 | `tmin.cf` | No |
 | `tmin.ml` | No |
 | `tmint.social` | Yes |
@@ -50785,7 +50783,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,434 |
+| Cloudflare | 14,432 |
 | Normal | 36,303 |
 
 
