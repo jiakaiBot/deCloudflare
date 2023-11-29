@@ -1899,6 +1899,7 @@ Here's a list of public Fediverse services.
 | `alonely.space` | Yes |
 | `aloneroid.one` | No |
 | `alongtheray.social` | Yes |
+| `aloysius.best` | No |
 | `alpa.social` | Yes |
 | `alpaca.gold` | Yes |
 | `alpacaverse.games` | No |
@@ -50983,7 +50984,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,492 |
-| Normal | 36,442 |
+| Normal | 36,443 |
 
 
 </details>
