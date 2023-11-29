@@ -8158,7 +8158,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9355,6 +9355,7 @@ Here's a list of public Fediverse services.
 | `cybre.gg` | No |
 | `cybre.ninja` | No |
 | `cybre.space` | No |
+| `cybre.stream` | No |
 | `cybre.town` | No |
 | `cybrewitch.es` | No |
 | `cybrkyd.com` | No |
@@ -36146,6 +36147,7 @@ Here's a list of public Fediverse services.
 | `putz.space` | No |
 | `puuhr.nl` | No |
 | `puyo.jp` | No |
+| `puyopuyotetr.is` | Yes |
 | `puyosuki.com` | Yes |
 | `puz.fun` | No |
 | `puzich.social` | No |
@@ -40543,6 +40545,7 @@ Here's a list of public Fediverse services.
 | `sisu.social` | Yes |
 | `sisulink.com` | Yes |
 | `sisulink.social` | Yes |
+| `site.co.il` | No |
 | `site.nz` | No |
 | `site404containment.zone` | No |
 | `sitedethib.com` | No |
@@ -50979,8 +50982,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,490 |
-| Normal | 36,441 |
+| Cloudflare | 14,492 |
+| Normal | 36,442 |
 
 
 </details>
