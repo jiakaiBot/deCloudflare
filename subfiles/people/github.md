@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'self'](https://github.com/freescout-helpdesk/freescout/issues/3552)
 - [Unable to handle 404 errors via src/pages/404.astro](https://github.com/storyblok/storyblok-astro/issues/574)
 - [🔍 API: Is Response spec compliant ?](https://github.com/trilitech/jstz/issues/221)
 - [Error adding new digitalocean_record ("id is invalid because cannot be less than 1")](https://github.com/digitalocean/terraform-provider-digitalocean/issues/1084)
