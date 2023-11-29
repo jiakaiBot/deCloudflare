@@ -12739,6 +12739,7 @@ Do not create new issue or we will close it as duplicate.
 | [Supmate20@twitter](https://twitter.com/Supmate20/status/1404358730683199492) | advertise |
 | [Supplescores@twitter](https://twitter.com/Supplescores/status/1403680949917913092) | advertise |
 | [supportman@twitter](https://twitter.com/supportman/status/1535763295797493760) | advertise |
+| [SupromChat87001@twitter](https://twitter.com/SupromChat87001/status/1729710397739929675) | advertise |
 | [Supultr4@twitter](https://twitter.com/Supultr4/status/1663975647545311241) | advertise |
 | [supzis7plus@twitter](https://twitter.com/supzis7plus/status/1649073867854315520) | advertise |
 | [suraj_choube@twitter](https://twitter.com/suraj_choube/status/1487436176567193602) | advertise |
