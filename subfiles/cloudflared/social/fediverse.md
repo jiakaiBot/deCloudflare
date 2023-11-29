@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,056 |
+| com | 8,057 |
 | social | 4,686 |
 | net | 3,966 |
 | org | 2,660 |
@@ -20445,6 +20445,7 @@ Here's a list of public Fediverse services.
 | `isalman.dev` | Yes |
 | `isamp.com` | Yes |
 | `isarzwo.com` | No |
+| `isbrill.com` | No |
 | `ischool.social` | No |
 | `iscurrently.live` | Yes |
 | `iscute.moe` | No |
@@ -50984,7 +50985,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,492 |
-| Normal | 36,443 |
+| Normal | 36,444 |
 
 
 </details>
