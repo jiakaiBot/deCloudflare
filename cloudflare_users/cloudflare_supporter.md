@@ -9441,6 +9441,7 @@ Do not create new issue or we will close it as duplicate.
 | [necromungrel@twitter](https://twitter.com/necromungrel/status/1382410058735054850) | advertise |
 | [ned61103443@twitter](https://twitter.com/ned61103443/status/1401817912399130628) | advertise |
 | [nedladdning2728@twitter](https://twitter.com/nedladdning2728/status/1625851458481684484) | advertise |
+| [NeedleJuice13@twitter](https://twitter.com/NeedleJuice13/status/1729735581549142311) | advertise |
 | [neerajberi01@twitter](https://twitter.com/neerajberi01/status/1407986671929331713) | advertise |
 | [NEERAJGAUT40681@twitter](https://twitter.com/NEERAJGAUT40681/status/1705728126435901574) | advertise |
 | [NegashNegeso@twitter](https://twitter.com/NegashNegeso/status/1681707193156902912) | advertise |
@@ -10626,6 +10627,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhongPh40212236@twitter](https://twitter.com/PhongPh40212236/status/1627037472243978241) | advertise |
 | [phongsachai@twitter](https://twitter.com/phongsachai/status/1382869842181558273) | advertise |
 | [Phongsiri_17@twitter](https://twitter.com/Phongsiri_17/status/1490200452851703809) | advertise |
+| [Phongvlog14@twitter](https://twitter.com/Phongvlog14/status/1729743922300162320) | advertise |
 | [phoone_pyae_@twitter](https://twitter.com/phoone_pyae_/status/1394996486010589187) | advertise |
 | [Phoopwintoo12@twitter](https://twitter.com/Phoopwintoo12/status/1392148944772210690) | advertise |
 | [photu98@twitter](https://twitter.com/photu98/status/1479103551590711296) | advertise |
