@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,058 |
-| social | 4,686 |
+| social | 4,688 |
 | net | 3,966 |
 | org | 2,660 |
 | de | 2,510 |
@@ -209,6 +209,7 @@ Here's a list of public Fediverse services.
 | `1037.pub` | No |
 | `1040.casa` | No |
 | `1042.info` | Yes |
+| `1066.social` | No |
 | `1069-3.com` | No |
 | `10daidon.net` | No |
 | `10don.xyz` | No |
@@ -12347,6 +12348,7 @@ Here's a list of public Fediverse services.
 | `elbmatsch.de` | No |
 | `elbullazul.com` | Yes |
 | `elchtransformer.de` | No |
+| `elcofre.social` | No |
 | `elcuadernodigital.com` | No |
 | `eldoom.me` | No |
 | `eldraeverse.com` | No |
@@ -12592,6 +12594,7 @@ Here's a list of public Fediverse services.
 | `empathytree.org` | No |
 | `emperorofmars.org` | No |
 | `emphisia.nl` | No |
+| `empod.cat` | No |
 | `empoer.li` | No |
 | `emprendedon.network` | Yes |
 | `empresszyra.com` | No |
@@ -30250,6 +30253,7 @@ Here's a list of public Fediverse services.
 | `n8e.dev` | Yes |
 | `n8h.eu` | No |
 | `n8vsi.com` | No |
+| `na-prostem.si` | No |
 | `na13.co.uk` | No |
 | `na2na.dev` | Yes |
 | `na2na.website` | No |
@@ -50262,6 +50266,7 @@ Here's a list of public Fediverse services.
 | `yourshit.rocks` | No |
 | `yousack.net` | No |
 | `youshallnotpass.com` | Yes |
+| `youtaite.xyz` | No |
 | `youten.xyz` | No |
 | `youth.social` | No |
 | `youthdon.com` | No |
@@ -50987,9 +50992,9 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,493 |
-| Normal | 36,445 |
+| Normal | 36,450 |
 
 
 </details>
 
-### 28.5% of public Fediverse services are using Cloudflare.
+### 28.4% of public Fediverse services are using Cloudflare.
