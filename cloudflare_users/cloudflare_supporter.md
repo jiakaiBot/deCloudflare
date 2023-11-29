@@ -2784,6 +2784,7 @@ Do not create new issue or we will close it as duplicate.
 | [CuongNg94540234@twitter](https://twitter.com/CuongNg94540234/status/1705549366185042245) | advertise |
 | [cuongsu07@twitter](https://twitter.com/cuongsu07/status/1391607509027213317) | advertise |
 | [cuongtr55309221@twitter](https://twitter.com/cuongtr55309221/status/1399068157692694529) | advertise |
+| [Cuong_Diu_Dang@twitter](https://twitter.com/Cuong_Diu_Dang/status/1729891607917597130) | advertise |
 | [cupidcuteman@twitter](https://twitter.com/cupidcuteman/status/1398102057890959362) | advertise |
 | [curiousartem@twitter](https://twitter.com/curiousartem/status/1677599119722913792) | advertise |
 | [currentlyi55@twitter](https://twitter.com/currentlyi55/status/1539214340770910211) | advertise |
@@ -5422,6 +5423,7 @@ Do not create new issue or we will close it as duplicate.
 | [HyLe1995@twitter](https://twitter.com/HyLe1995/status/1497884402172395523) | advertise |
 | [HypDye@twitter](https://twitter.com/HypDye/status/1388834208286715905) | advertise |
 | [hyperflesh@twitter](https://twitter.com/hyperflesh/status/1665889160337453059) | advertise |
+| [HyperLapse122@twitter](https://twitter.com/HyperLapse122/status/1729893527822455169) | advertise |
 | [Hyper_gaming007@twitter](https://twitter.com/Hyper_gaming007/status/1386460589770293250) | advertise |
 | [hyuckbear66@twitter](https://twitter.com/hyuckbear66/status/1394926538173206533) | advertise |
 | [Hyxep@twitter](https://twitter.com/Hyxep/status/1569378693239418885) | advertise |
