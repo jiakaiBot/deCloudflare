@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-11-29: [Issue with Pages builds](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yc5k7sfvbhpy)
 - 2023-11-25: [Elevated number of 502 Error in Ashburn](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jt2r1t2s8gfh)
 - 2023-11-23: [Cloudflare R2 and Cache issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qj0n9j5rqrhm)
 - 2023-11-21: [Network Performance Issues in Delhi](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5fdtnz63fd6s)
