@@ -11035,6 +11035,7 @@ Do not create new issue or we will close it as duplicate.
 | [QTED52@twitter](https://twitter.com/QTED52/status/1619330406364610560) | advertise |
 | [qtsleepz@twitter](https://twitter.com/qtsleepz/status/1684812219136012288) | advertise |
 | [Qu99898489@twitter](https://twitter.com/Qu99898489/status/1397203398479556612) | advertise |
+| [quad_exe@twitter](https://twitter.com/quad_exe/status/1729801275196198972) | advertise |
 | [QuaiRau@twitter](https://twitter.com/QuaiRau/status/1387606927006322692) | advertise |
 | [quan02587035@twitter](https://twitter.com/quan02587035/status/1404362231333023755) | advertise |
 | [Quan54816922@twitter](https://twitter.com/Quan54816922/status/1379702665437802498) | advertise |
