@@ -4344,7 +4344,7 @@ Here's a list of public Fediverse services.
 | `beispieltext.net` | No |
 | `beiting.io` | Yes |
 | `beiting.org` | No |
-| `beitmenotyou.com` | Yes |
+| `beitmenotyou.com` | No |
 | `beiunsdaham.de` | No |
 | `bejinariu.eu` | No |
 | `bekesi.org` | No |
@@ -9874,6 +9874,7 @@ Here's a list of public Fediverse services.
 | `daveking.app` | No |
 | `davepeck.org` | No |
 | `davesnider.com` | No |
+| `davewinter.dev` | Yes |
 | `davewinter.info` | Yes |
 | `david.garden` | Yes |
 | `davidanaxagoras.com` | No |
@@ -39784,6 +39785,7 @@ Here's a list of public Fediverse services.
 | `seriphap.com` | No |
 | `seritude.com` | Yes |
 | `serkozh.me` | No |
+| `sernik.tech` | No |
 | `serotonin.party` | No |
 | `serotoninpower.club` | No |
 | `serpent.skin` | No |
@@ -45063,6 +45065,7 @@ Here's a list of public Fediverse services.
 | `tmi.fyi` | No |
 | `tmi.pics` | No |
 | `tmichellemoore.com` | No |
+| `tmight.work` | Yes |
 | `tmin.cf` | No |
 | `tmin.ml` | No |
 | `tmint.social` | Yes |
@@ -50958,8 +50961,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,483 |
-| Normal | 36,427 |
+| Cloudflare | 14,484 |
+| Normal | 36,429 |
 
 
 </details>
