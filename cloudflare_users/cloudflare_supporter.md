@@ -6326,6 +6326,7 @@ Do not create new issue or we will close it as duplicate.
 | [KaiNgo8@twitter](https://twitter.com/KaiNgo8/status/1506138093937561607) | advertise |
 | [kainusaga@twitter](https://twitter.com/kainusaga/status/1380078279546167299) | advertise |
 | [Kaipa51@twitter](https://twitter.com/Kaipa51/status/1657678533060349954) | advertise |
+| [KaiShoron@twitter](https://twitter.com/KaiShoron/status/1729633326036607003) | advertise |
 | [kaitimo2911@twitter](https://twitter.com/kaitimo2911/status/1552079274395697152) | advertise |
 | [Kaito685719351@twitter](https://twitter.com/Kaito685719351/status/1553905651524460544) | advertise |
 | [KAITOKU39855874@twitter](https://twitter.com/KAITOKU39855874/status/1382939010385907714) | advertise |
@@ -11534,6 +11535,7 @@ Do not create new issue or we will close it as duplicate.
 | [rookies87949021@twitter](https://twitter.com/rookies87949021/status/1389072539935076352) | advertise |
 | [roomonfireera@twitter](https://twitter.com/roomonfireera/status/1665858518241640448) | advertise |
 | [ropangkrimbat@twitter](https://twitter.com/ropangkrimbat/status/1539175227368030209) | advertise |
+| [Rophe_Omega007@twitter](https://twitter.com/Rophe_Omega007/status/1729606454435332322) | advertise |
 | [ropoxdev@twitter](https://twitter.com/ropoxdev/status/1641107305054842881) | advertise |
 | [roroiraqea@twitter](https://twitter.com/roroiraqea/status/1407298625563136003) | advertise |
 | [Rory10087298@twitter](https://twitter.com/Rory10087298/status/1394270961046753285) | advertise |
@@ -12845,6 +12847,7 @@ Do not create new issue or we will close it as duplicate.
 | [TaDuy12@twitter](https://twitter.com/TaDuy12/status/1601377920790179840) | advertise |
 | [Taehyun21314560@twitter](https://twitter.com/Taehyun21314560/status/1394203615284240384) | advertise |
 | [Taejas3@twitter](https://twitter.com/Taejas3/status/1398096510802268160) | advertise |
+| [taekook_959@twitter](https://twitter.com/taekook_959/status/1729642677723967904) | advertise |
 | [TaeniaSaginata7@twitter](https://twitter.com/TaeniaSaginata7/status/1380026644589473793) | advertise |
 | [taetaewonderla1@twitter](https://twitter.com/taetaewonderla1/status/1401205775628832776) | advertise |
 | [Taeyeon47077149@twitter](https://twitter.com/Taeyeon47077149/status/1624347311735447552) | advertise |
