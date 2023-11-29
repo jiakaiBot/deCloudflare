@@ -100,6 +100,7 @@ Here's a list of breached sites.
 | BlackHatWorld (Black Hat World) | 777,387 | Yes |
 | BlackSpigotMC | 140,029 | Yes |
 | BlankMediaGames | 7,633,234 | Yes |
+| BleachAnime (Bleach Anime Forum) | 143,711 | No |
 | BlueSnapRegpack (Regpack) | 104,977 | Yes |
 | Bolt | 995,274 | No |
 | BombujEu (Bombuj.eu) | 575,437 | Yes |
@@ -716,7 +717,7 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 407 | 4,517,810,094 |
-| Normal | 287 | 4,531,431,727 |
+| Normal | 288 | 4,531,575,438 |
 
 
 
