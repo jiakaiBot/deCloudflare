@@ -18,9 +18,9 @@ Here's the result.
 | [EasyList](https://easylist.to/easylist/easylist.txt) | 42,206 | 11,858 | 28.1% |
 | [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) | 23,035 | 8,600 | 37.3% |
 | [Annoyance](https://secure.fanboy.co.nz/fanboy-annoyance.txt) | 21,192 | 8,784 | 41.4% |
-| [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 54,373 | 10,949 | 20.1% |
+| [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 54,373 | 10,950 | 20.1% |
 | [AdAway](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | 1,957 | 808 | 41.3% |
-| Total | 97,168 | 29,459 | 30.3% |
+| Total | 97,168 | 29,460 | 30.3% |
 
 
 ### 30.3% of adverts and trackers are using Cloudflare.
