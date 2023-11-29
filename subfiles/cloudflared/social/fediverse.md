@@ -10749,6 +10749,7 @@ Here's a list of public Fediverse services.
 | `digitalnomads.social` | Yes |
 | `digitalog.it` | No |
 | `digitalpharma.social` | No |
+| `digitalpioneers.club` | No |
 | `digitalpioneers.social` | No |
 | `digitalronin.uk` | No |
 | `digitalsocialism.world` | No |
@@ -33472,7 +33473,7 @@ Here's a list of public Fediverse services.
 | `oyd.app` | No |
 | `oyd.social` | No |
 | `oye.social` | No |
-| `oyl.ink` | Yes |
+| `oyl.ink` | No |
 | `oyler.social` | No |
 | `oysta.au` | No |
 | `oyster.red` | Yes |
@@ -48816,6 +48817,7 @@ Here's a list of public Fediverse services.
 | `witchfinder.org` | No |
 | `witchgirls.moe` | No |
 | `witchhat.house` | No |
+| `witchli.eu` | No |
 | `witchlounge.ca` | No |
 | `witchserver.jp` | Yes |
 | `witchy.ink` | Yes |
@@ -50785,8 +50787,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,434 |
-| Normal | 36,303 |
+| Cloudflare | 14,433 |
+| Normal | 36,306 |
 
 
 </details>
