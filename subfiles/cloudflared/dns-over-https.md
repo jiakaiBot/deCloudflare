@@ -124,7 +124,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lonet.org | Yes |
 | masters-of-cloud.de | No |
 | meddy94.de | No |
-| meeo.win | Yes |
 | meganerd.nl | No |
 | mmmalia.com | No |
 | modr.club | Yes |
@@ -216,8 +215,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 91 |
+| Cloudflare | 90 |
 | Normal | 106 |
 
 
-### 46.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 45.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
