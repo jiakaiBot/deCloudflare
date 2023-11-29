@@ -3943,6 +3943,7 @@ Do not create new issue or we will close it as duplicate.
 | [fernandodilland@twitter](https://twitter.com/fernandodilland/status/1603150910657634305) | advertise |
 | [Ferona44304373@twitter](https://twitter.com/Ferona44304373/status/1394530832367370240) | advertise |
 | [FerricMachan@twitter](https://twitter.com/FerricMachan/status/1573051436728197121) | advertise |
+| [fesly44@twitter](https://twitter.com/fesly44/status/1729810925648027800) | advertise |
 | [Fetori95@twitter](https://twitter.com/Fetori95/status/1707032854775951631) | advertise |
 | [fexlars@twitter](https://twitter.com/fexlars/status/1716648061236089010) | advertise |
 | [FeyisaraFashina@twitter](https://twitter.com/FeyisaraFashina/status/1531939614470152193) | advertise |
@@ -4160,6 +4161,7 @@ Do not create new issue or we will close it as duplicate.
 | [GamingLongg@twitter](https://twitter.com/GamingLongg/status/1402190108439191561) | advertise |
 | [GamingSlimstar@twitter](https://twitter.com/GamingSlimstar/status/1565861102696669184) | advertise |
 | [GamingytMalak@twitter](https://twitter.com/GamingytMalak/status/1388083774596988935) | advertise |
+| [Gamrrfleetfan@twitter](https://twitter.com/Gamrrfleetfan/status/1729833891077242894) | advertise |
 | [Gandinarendra2@twitter](https://twitter.com/Gandinarendra2/status/1508000385797341189) | advertise |
 | [Gandu4203@twitter](https://twitter.com/Gandu4203/status/1632126077547192320) | advertise |
 | [gangan262@twitter](https://twitter.com/gangan262/status/1471310803295141890) | advertise |
@@ -5756,6 +5758,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ivam74808040@twitter](https://twitter.com/Ivam74808040/status/1395808335069286400) | advertise |
 | [IvanAmbakisye@twitter](https://twitter.com/IvanAmbakisye/status/1644787131448020993) | advertise |
 | [Ivansai6@twitter](https://twitter.com/Ivansai6/status/1390643649617092618) | advertise |
+| [ivanurrahman1@twitter](https://twitter.com/ivanurrahman1/status/1729817261710405821) | advertise |
 | [IvayloPushkov@twitter](https://twitter.com/IvayloPushkov/status/1641001450481360897) | advertise |
 | [ivexalus@twitter](https://twitter.com/ivexalus/status/1397599340592603137) | advertise |
 | [Ivynguyen98@twitter](https://twitter.com/Ivynguyen98/status/1381083176244707328) | advertise |
