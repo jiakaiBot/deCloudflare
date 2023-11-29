@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,055 |
+| com | 8,056 |
 | social | 4,685 |
 | net | 3,964 |
 | org | 2,659 |
@@ -3293,7 +3293,7 @@ Here's a list of public Fediverse services.
 | `ated.io` | Yes |
 | `atelier-kanata.dev` | Yes |
 | `ateliershiori.moe` | No |
-| `atellier.space` | Yes |
+| `atellier.space` | No |
 | `atemosta.com` | Yes |
 | `atergens.com` | Yes |
 | `aterm.jp` | No |
@@ -8574,7 +8574,7 @@ Here's a list of public Fediverse services.
 | `cosplaygif.com` | Yes |
 | `cosple.world` | Yes |
 | `costablanca.social` | No |
-| `costas.dev` | No |
+| `costas.dev` | Yes |
 | `coste.video` | No |
 | `costmiku.net` | No |
 | `costodon.social` | No |
@@ -27044,7 +27044,7 @@ Here's a list of public Fediverse services.
 | `mastodonien.de` | No |
 | `mastodonindonesia.com` | No |
 | `mastodonium.de` | No |
-| `mastodonkey.online` | Yes |
+| `mastodonkey.online` | No |
 | `mastodonkilledtwitter.tk` | No |
 | `mastodonlibre.ml` | No |
 | `mastodonlist.com` | Yes |
@@ -28091,6 +28091,7 @@ Here's a list of public Fediverse services.
 | `michaelsantillan.com` | Yes |
 | `michaelscotthand.com` | No |
 | `michaelthinks.com` | No |
+| `michaelthomet.com` | No |
 | `michaonline.net` | No |
 | `michaz.de` | No |
 | `michci.ooo` | No |
@@ -50957,10 +50958,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,484 |
-| Normal | 36,425 |
+| Cloudflare | 14,483 |
+| Normal | 36,427 |
 
 
 </details>
 
-### 28.5% of public Fediverse services are using Cloudflare.
+### 28.4% of public Fediverse services are using Cloudflare.
