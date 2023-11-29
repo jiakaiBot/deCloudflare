@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,058 |
+| com | 8,060 |
 | social | 4,688 |
 | net | 3,966 |
-| org | 2,660 |
+| org | 2,661 |
 | de | 2,510 |
 
 
@@ -8980,6 +8980,7 @@ Here's a list of public Fediverse services.
 | `crystalyx.net` | Yes |
 | `cs.social` | Yes |
 | `cs133.net` | Yes |
+| `cs2080.com` | No |
 | `cs59.co` | No |
 | `cs6675.com` | No |
 | `csa.ba` | Yes |
@@ -30474,6 +30475,7 @@ Here's a list of public Fediverse services.
 | `natehn.com` | No |
 | `natehub.com` | Yes |
 | `nateledford.com` | Yes |
+| `nateshivar.com` | No |
 | `natestodon.social` | No |
 | `nathalie.social` | Yes |
 | `nathan.fun` | No |
@@ -31660,6 +31662,7 @@ Here's a list of public Fediverse services.
 | `nogweii.net` | No |
 | `noho.st` | No |
 | `nohomo.gay` | No |
+| `nohopers.xyz` | No |
 | `nohost.me` | No |
 | `nohto.net` | No |
 | `noice.social` | No |
@@ -38048,6 +38051,7 @@ Here's a list of public Fediverse services.
 | `roembol.nl` | Yes |
 | `roerch.de` | No |
 | `roessner-online.de` | No |
+| `rofilis.org` | No |
 | `rofl.im` | Yes |
 | `roflblog.net` | Yes |
 | `roflcopter.fr` | No |
@@ -50992,7 +50996,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,493 |
-| Normal | 36,450 |
+| Normal | 36,454 |
 
 
 </details>
