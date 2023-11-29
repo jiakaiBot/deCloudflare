@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,057 |
+| com | 8,058 |
 | social | 4,686 |
 | net | 3,966 |
 | org | 2,660 |
@@ -7465,6 +7465,7 @@ Here's a list of public Fediverse services.
 | `christianity.business` | Yes |
 | `christianjunk.de` | Yes |
 | `christiankracher.com` | No |
+| `christianpacaud.com` | No |
 | `christianscholz.de` | No |
 | `christiansievers.info` | No |
 | `christianwkaiser.de` | No |
@@ -25544,6 +25545,7 @@ Here's a list of public Fediverse services.
 | `lt3.co.za` | No |
 | `ltch.fr` | No |
 | `ltdk.xyz` | No |
+| `ltgc.cc` | Yes |
 | `lthn.eu` | No |
 | `ltl96.com` | Yes |
 | `ltoi.net` | No |
@@ -50984,8 +50986,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,492 |
-| Normal | 36,444 |
+| Cloudflare | 14,493 |
+| Normal | 36,445 |
 
 
 </details>
