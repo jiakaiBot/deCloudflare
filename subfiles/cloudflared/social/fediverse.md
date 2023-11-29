@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,001 |
 | social | 4,673 |
-| net | 3,951 |
+| net | 3,952 |
 | org | 2,650 |
 | de | 2,505 |
 
@@ -11510,6 +11510,7 @@ Here's a list of public Fediverse services.
 | `drgns.cc` | No |
 | `drgns.org` | Yes |
 | `drgnz.club` | No |
+| `dribdat.cc` | Yes |
 | `drif.moe` | No |
 | `driffaud.fr` | No |
 | `driftless.dev` | No |
@@ -16468,6 +16469,7 @@ Here's a list of public Fediverse services.
 | `giantheart.social` | Yes |
 | `giantpaper.org` | Yes |
 | `giants-club.net` | No |
+| `giatsuki.net` | Yes |
 | `gib.social` | Yes |
 | `gibald.com` | No |
 | `gibbens.dev` | Yes |
@@ -22844,6 +22846,7 @@ Here's a list of public Fediverse services.
 | `klazema.net` | No |
 | `klee-wife.moe` | No |
 | `klein.is` | No |
+| `klein.ruhr` | No |
 | `klein.social` | No |
 | `klein.tl` | No |
 | `kleinbottle.club` | No |
@@ -50798,8 +50801,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,436 |
-| Normal | 36,314 |
+| Cloudflare | 14,438 |
+| Normal | 36,315 |
 
 
 </details>
