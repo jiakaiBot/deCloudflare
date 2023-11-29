@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,001 |
-| social | 4,672 |
+| social | 4,673 |
 | net | 3,951 |
-| org | 2,649 |
-| de | 2,504 |
+| org | 2,650 |
+| de | 2,505 |
 
 
 - Mastodon, Pleroma, etc
@@ -9846,6 +9846,7 @@ Here's a list of public Fediverse services.
 | `daveking.app` | No |
 | `davepeck.org` | No |
 | `davesnider.com` | No |
+| `davewinter.dev` | Yes |
 | `davewinter.info` | Yes |
 | `david.garden` | Yes |
 | `davidanaxagoras.com` | No |
@@ -14378,6 +14379,7 @@ Here's a list of public Fediverse services.
 | `fioverse.zone` | No |
 | `fippies.org` | No |
 | `firc.de` | No |
+| `firchau.de` | No |
 | `fire-detection.de` | No |
 | `fire-studios.tk` | No |
 | `fire9.de` | No |
@@ -14947,6 +14949,7 @@ Here's a list of public Fediverse services.
 | `foxpile.online` | No |
 | `foxsden.xyz` | Yes |
 | `foxsibean.cyou` | Yes |
+| `foxskulk.org` | Yes |
 | `foxstreet.be` | No |
 | `foxtail.ooo` | No |
 | `foxthesystem.space` | No |
@@ -16828,6 +16831,7 @@ Here's a list of public Fediverse services.
 | `goblackcat.net` | Yes |
 | `goblackcat.xyz` | Yes |
 | `goblfc.org` | Yes |
+| `goblin.band` | No |
 | `goblin.camp` | No |
 | `goblin.church` | No |
 | `goblin.expert` | No |
@@ -19603,6 +19607,7 @@ Here's a list of public Fediverse services.
 | `ijustwanttoenjoymy.life` | No |
 | `ik-y.jp` | No |
 | `ika.moe` | No |
+| `ika.social` | Yes |
 | `ikalga.net` | Yes |
 | `ikanago.dev` | Yes |
 | `ikangai.com` | No |
@@ -25561,6 +25566,7 @@ Here's a list of public Fediverse services.
 | `lukesmith.xyz` | No |
 | `lukyan.eu` | No |
 | `lullis.net` | Yes |
+| `lulusworld.art` | No |
 | `lulz.blog` | No |
 | `lulz.foo` | No |
 | `lulz.win` | No |
@@ -33681,6 +33687,7 @@ Here's a list of public Fediverse services.
 | `pantsu.life` | No |
 | `panxatony.net` | No |
 | `panxl.net` | Yes |
+| `panz.online` | No |
 | `panzner.net` | No |
 | `pao.moe` | Yes |
 | `paoloamoroso.com` | No |
@@ -33975,6 +33982,7 @@ Here's a list of public Fediverse services.
 | `peacefrogs.net` | No |
 | `peaceful.social` | No |
 | `peacememori.es` | No |
+| `peaceu.online` | No |
 | `peach.dog` | Yes |
 | `peachgyoza.com` | No |
 | `peacht.art` | Yes |
@@ -35454,6 +35462,7 @@ Here's a list of public Fediverse services.
 | `pp.lu` | No |
 | `pp.social` | Yes |
 | `ppcis.org` | No |
+| `ppiotrr.pl` | Yes |
 | `ppiy.ac` | Yes |
 | `ppl.town` | No |
 | `ppluss.de` | Yes |
@@ -39934,6 +39943,7 @@ Here's a list of public Fediverse services.
 | `shinbunbun.com` | Yes |
 | `shinchanwigulu.net` | No |
 | `shinenelson.com` | No |
+| `shiningcube.top` | No |
 | `shinkai.party` | Yes |
 | `shinkaifan.com` | No |
 | `shinminato.com` | No |
@@ -40084,6 +40094,7 @@ Here's a list of public Fediverse services.
 | `shrimpia.network` | Yes |
 | `shrimply.social` | No |
 | `shrimpposter.club` | No |
+| `shrin.es` | No |
 | `shrine.moe` | Yes |
 | `shrn.co` | Yes |
 | `shroom.party` | No |
@@ -44902,6 +44913,7 @@ Here's a list of public Fediverse services.
 | `tmi.fyi` | No |
 | `tmi.pics` | No |
 | `tmichellemoore.com` | No |
+| `tmight.work` | Yes |
 | `tmin.cf` | No |
 | `tmin.ml` | No |
 | `tmint.social` | Yes |
@@ -46412,6 +46424,7 @@ Here's a list of public Fediverse services.
 | `uhy.ooo` | Yes |
 | `uiae.at` | No |
 | `uibk.ac.at` | No |
+| `uid0.hu` | No |
 | `uile.nl` | No |
 | `uilleann.pizza` | Yes |
 | `uir.org.uk` | No |
@@ -50785,8 +50798,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,431 |
-| Normal | 36,306 |
+| Cloudflare | 14,436 |
+| Normal | 36,314 |
 
 
 </details>
