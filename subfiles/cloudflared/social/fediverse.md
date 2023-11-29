@@ -19479,6 +19479,7 @@ Here's a list of public Fediverse services.
 | `ibbtown.com` | No |
 | `ibe.social` | No |
 | `ibenot.com` | Yes |
+| `ibesocial.online` | No |
 | `ibesocial.space` | No |
 | `ibex.social` | No |
 | `ibexpert.info` | No |
@@ -39184,6 +39185,7 @@ Here's a list of public Fediverse services.
 | `schiessle.org` | No |
 | `schildt.social` | No |
 | `schillinois.com` | No |
+| `schillis.ch` | No |
 | `schinbo.de` | No |
 | `schipper.social` | No |
 | `schirmer.tech` | No |
@@ -50996,7 +50998,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,493 |
-| Normal | 36,454 |
+| Normal | 36,456 |
 
 
 </details>
