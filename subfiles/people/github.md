@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increased Error in North America Region](https://github.com/SecOpsNews/news/issues/21824)
+- [CloudFlare Increased Error in North America Region](https://github.com/hinoshiba/news/issues/6558)
 - [CloudFlare Issue with Workers Durable Objects](https://github.com/SecOpsNews/news/issues/21822)
 - [CloudFlare Issue with Workers Durable Objects](https://github.com/hinoshiba/news/issues/6557)
 - [Given error code when deplying with cloudflare](https://github.com/TerbiumOS/webOS/issues/50)
