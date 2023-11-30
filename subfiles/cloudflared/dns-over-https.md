@@ -201,7 +201,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tu-bs.de | No |
 | twnic.tw | No |
 | unstoppable.io | Yes |
-| uplenk.com | Yes |
 | virga.pp.ua | Yes |
 | waifu.cz | Yes |
 | wang.art | Yes |
@@ -215,8 +214,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 90 |
+| Cloudflare | 89 |
 | Normal | 106 |
 
 
-### 45.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 45.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
