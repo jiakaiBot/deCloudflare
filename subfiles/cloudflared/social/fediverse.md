@@ -5299,6 +5299,7 @@ Here's a list of public Fediverse services.
 | `blugatch.tube` | Yes |
 | `blumensath.com` | Yes |
 | `blumenwie.se` | No |
+| `blumlaut.me` | Yes |
 | `blumpus.com` | No |
 | `blunck.social` | No |
 | `blunet.fr` | No |
@@ -8481,6 +8482,7 @@ Here's a list of public Fediverse services.
 | `copperhead.cloud` | No |
 | `coq.social` | No |
 | `coqui.social` | No |
+| `coralbay.top` | Yes |
 | `coraspect.com` | No |
 | `coraxfm.uk` | No |
 | `corbinnet.com` | Yes |
@@ -41391,6 +41393,7 @@ Here's a list of public Fediverse services.
 | `solvative.social` | Yes |
 | `solvingmaz.es` | No |
 | `solwer.xyz` | No |
+| `somaliland.media` | No |
 | `somamis.it` | Yes |
 | `somanydoors.ca` | Yes |
 | `somaton.com` | No |
@@ -51014,8 +51017,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,500 |
-| Normal | 36,466 |
+| Cloudflare | 14,502 |
+| Normal | 36,467 |
 
 
 </details>
