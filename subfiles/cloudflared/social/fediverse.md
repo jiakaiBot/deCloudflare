@@ -9523,7 +9523,7 @@ Here's a list of public Fediverse services.
 | `dailysouthafrican.co.za` | No |
 | `dailytechnewsshow.com` | Yes |
 | `dailywebthing.com` | No |
-| `dain.moe` | Yes |
+| `dain.moe` | No |
 | `dair-community.social` | Yes |
 | `dair-institute.org` | Yes |
 | `daishouri.moe` | No |
@@ -18282,6 +18282,7 @@ Here's a list of public Fediverse services.
 | `hellcom.live` | No |
 | `hellholesys.gay` | Yes |
 | `hellholesys.tk` | No |
+| `hellhound.cc` | Yes |
 | `hellions.cloud` | Yes |
 | `hellmage.com` | No |
 | `hello-project.org` | No |
@@ -22219,6 +22220,7 @@ Here's a list of public Fediverse services.
 | `kashayokai.com` | Yes |
 | `kashishokunin.com` | No |
 | `kashiwadon.net` | No |
+| `kashiwanoha.ed.jp` | Yes |
 | `kashursido.com` | Yes |
 | `kaskadee.eu` | Yes |
 | `kaskjer.space` | No |
@@ -50997,8 +50999,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,489 |
-| Normal | 36,460 |
+| Cloudflare | 14,490 |
+| Normal | 36,461 |
 
 
 </details>
