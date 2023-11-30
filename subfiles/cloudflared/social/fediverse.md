@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,061 |
+| com | 8,063 |
 | social | 4,688 |
 | net | 3,966 |
-| org | 2,661 |
+| org | 2,662 |
 | de | 2,510 |
 
 
@@ -2569,6 +2569,7 @@ Here's a list of public Fediverse services.
 | `anxioustwit.ch` | No |
 | `any-key.press` | No |
 | `any.dev` | Yes |
+| `anyaforger.art` | No |
 | `anyfrog.net` | Yes |
 | `anyhu.gs` | No |
 | `anymanystreams.cc` | Yes |
@@ -4370,6 +4371,7 @@ Here's a list of public Fediverse services.
 | `belkadan.com` | No |
 | `bell.bz` | Yes |
 | `bellamazz.com` | Yes |
+| `bellcowservices.com` | No |
 | `bellefonte.today` | No |
 | `belligerence.club` | No |
 | `bellingcat.social` | No |
@@ -12671,6 +12673,7 @@ Here's a list of public Fediverse services.
 | `endur4.com` | No |
 | `endurance.racing` | No |
 | `enepippi.com` | No |
+| `energiewende-otzberg.org` | No |
 | `energiewende.social` | No |
 | `energyarxiv.com` | No |
 | `energydon.fi` | No |
@@ -21631,6 +21634,7 @@ Here's a list of public Fediverse services.
 | `journeytotaiwan.asia` | No |
 | `journodao.xyz` | Yes |
 | `journodon.com` | No |
+| `joviandreamstone.com` | Yes |
 | `joyrex.net` | No |
 | `joz.pub` | No |
 | `jp-mastodon.com` | No |
@@ -28930,6 +28934,7 @@ Here's a list of public Fediverse services.
 | `moe.lol` | Yes |
 | `moe.onl` | Yes |
 | `moe.reisen` | No |
+| `moe.team` | Yes |
 | `moe.tips` | Yes |
 | `moea.ca` | Yes |
 | `moeanime.io` | Yes |
@@ -30083,6 +30088,7 @@ Here's a list of public Fediverse services.
 | `mylesbraithwaite.com` | No |
 | `myliberty.social` | No |
 | `mylinux.cz` | No |
+| `mylittle.boutique` | Yes |
 | `mylittlenut.com` | Yes |
 | `myloko.xyz` | No |
 | `mymammoth.ch` | No |
@@ -32094,6 +32100,7 @@ Here's a list of public Fediverse services.
 | `nsobj.com` | No |
 | `nspeaks.xyz` | Yes |
 | `nspes.ca` | No |
+| `nsr.life` | Yes |
 | `nssvc.top` | Yes |
 | `nstr.no` | Yes |
 | `nstr.se` | Yes |
@@ -50072,6 +50079,7 @@ Here's a list of public Fediverse services.
 | `yee.camp` | No |
 | `yeeehaw.club` | Yes |
 | `yeehaw.town` | No |
+| `yeen.exposed` | No |
 | `yeen.info` | No |
 | `yeen.social` | No |
 | `yeet.social` | No |
@@ -50999,8 +51007,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,490 |
-| Normal | 36,461 |
+| Cloudflare | 14,494 |
+| Normal | 36,465 |
 
 
 </details>
