@@ -6333,6 +6333,7 @@ Do not create new issue or we will close it as duplicate.
 | [kahwh83613@twitter](https://twitter.com/kahwh83613/status/1682140664665088002) | advertise |
 | [KAI10505564@twitter](https://twitter.com/KAI10505564/status/1391967142015164417) | advertise |
 | [Kaif88678916@twitter](https://twitter.com/Kaif88678916/status/1378248726020456451) | advertise |
+| [KaifeeGour7@twitter](https://twitter.com/KaifeeGour7/status/1730196318180557139) | advertise |
 | [kaikophyo@twitter](https://twitter.com/kaikophyo/status/1399295110282571776) | advertise |
 | [KaiNgo8@twitter](https://twitter.com/KaiNgo8/status/1506138093937561607) | advertise |
 | [kainusaga@twitter](https://twitter.com/kainusaga/status/1380078279546167299) | advertise |
