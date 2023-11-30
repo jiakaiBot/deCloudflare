@@ -10556,6 +10556,7 @@ Do not create new issue or we will close it as duplicate.
 | [phat_soc@twitter](https://twitter.com/phat_soc/status/1381112315865485314) | advertise |
 | [Phc06049735@twitter](https://twitter.com/Phc06049735/status/1618973586714398722) | advertise |
 | [Phc35455556@twitter](https://twitter.com/Phc35455556/status/1403747366549606404) | advertise |
+| [Phc39843938@twitter](https://twitter.com/Phc39843938/status/1730160652780749202) | advertise |
 | [phc50518173@twitter](https://twitter.com/phc50518173/status/1552572949785624576) | advertise |
 | [phcastroalves@twitter](https://twitter.com/phcastroalves/status/1505924208035041282) | advertise |
 | [PhD_Blood@twitter](https://twitter.com/PhD_Blood/status/1483835015373139968) | advertise |
@@ -14808,6 +14809,7 @@ Do not create new issue or we will close it as duplicate.
 | [wint_wo@twitter](https://twitter.com/wint_wo/status/1405087654862016513) | advertise |
 | [WinZaw30156509@twitter](https://twitter.com/WinZaw30156509/status/1716846143911661858) | advertise |
 | [winzawmoemoe1@twitter](https://twitter.com/winzawmoemoe1/status/1377558724198363140) | advertise |
+| [wiphacichu@twitter](https://twitter.com/wiphacichu/status/1730162284235006247) | advertise |
 | [Wirjil@twitter](https://twitter.com/Wirjil/status/1665874509642203136) | advertise |
 | [wirut60803gmai1@twitter](https://twitter.com/wirut60803gmai1/status/1379932785226391552) | advertise |
 | [Wisdom5150@twitter](https://twitter.com/Wisdom5150/status/1688496490564452352) | advertise |
