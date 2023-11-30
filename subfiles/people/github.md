@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Improve Cloudflare provider 'registry_errors_total' metric](https://github.com/kubernetes-sigs/external-dns/issues/4081)
+- [digitalocean_cdn resource with custom domain stopped working](https://github.com/digitalocean/terraform-provider-digitalocean/issues/1086)
 - [issue: 522 error when building the project](https://github.com/react-hook-form/react-hook-form/issues/11248)
 - [CloudFlare Increased Error in North America Region](https://github.com/SecOpsNews/news/issues/21824)
 - [CloudFlare Increased Error in North America Region](https://github.com/hinoshiba/news/issues/6558)
