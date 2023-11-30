@@ -12531,6 +12531,7 @@ Here's a list of public Fediverse services.
 | `elysian.space` | No |
 | `elysians.social` | No |
 | `elytra15.com` | Yes |
+| `em.id.lv` | Yes |
 | `emacs.ch` | No |
 | `emacs.li` | No |
 | `emacsen.net` | No |
@@ -42231,7 +42232,7 @@ Here's a list of public Fediverse services.
 | `stephenbasile.com` | Yes |
 | `stephencorwin.com` | Yes |
 | `stephenfirth.co.uk` | No |
-| `stephenking.club` | No |
+| `stephenking.club` | Yes |
 | `stephenkinsella.net` | No |
 | `stephenpieper.blog` | No |
 | `stephenpieper.net` | No |
@@ -51007,8 +51008,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,494 |
-| Normal | 36,465 |
+| Cloudflare | 14,496 |
+| Normal | 36,464 |
 
 
 </details>
