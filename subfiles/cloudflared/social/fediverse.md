@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,064 |
+| com | 8,065 |
 | social | 4,688 |
 | net | 3,966 |
 | org | 2,662 |
@@ -7597,6 +7597,7 @@ Here's a list of public Fediverse services.
 | `circle.lt` | Yes |
 | `circlebasti.at` | No |
 | `circlelinego.com` | Yes |
+| `circleofamber.com` | No |
 | `circles.fi` | No |
 | `circletocqueville.no` | No |
 | `circlez.social` | No |
@@ -8165,7 +8166,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -51011,7 +51012,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,498 |
+| Cloudflare | 14,499 |
 | Normal | 36,465 |
 
 
