@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,065 |
+| com | 8,066 |
 | social | 4,688 |
 | net | 3,966 |
 | org | 2,662 |
-| de | 2,510 |
+| de | 2,511 |
 
 
 - Mastodon, Pleroma, etc
@@ -8874,6 +8874,7 @@ Here's a list of public Fediverse services.
 | `crooksandliars.com` | No |
 | `croplee.com` | No |
 | `cross-area.com` | No |
+| `cross-solution.de` | No |
 | `cross.net.uk` | No |
 | `crossdon.com` | No |
 | `crossdressing.rocks` | No |
@@ -44162,7 +44163,7 @@ Here's a list of public Fediverse services.
 | `theantshill.co.uk` | Yes |
 | `theapex.social` | No |
 | `theaquario.com` | No |
-| `thearcanum.net` | No |
+| `thearcanum.net` | Yes |
 | `thearch.social` | No |
 | `thearchitects.world` | No |
 | `theartsquirrel.com` | No |
@@ -48721,6 +48722,7 @@ Here's a list of public Fediverse services.
 | `what.if.ua` | No |
 | `what.re` | No |
 | `what.tf` | No |
+| `whatdoiknowjr.com` | No |
 | `whatever.cat` | No |
 | `whatever.cz` | Yes |
 | `whatif.org.uk` | Yes |
@@ -51012,10 +51014,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,499 |
-| Normal | 36,465 |
+| Cloudflare | 14,500 |
+| Normal | 36,466 |
 
 
 </details>
 
-### 28.4% of public Fediverse services are using Cloudflare.
+### 28.5% of public Fediverse services are using Cloudflare.
