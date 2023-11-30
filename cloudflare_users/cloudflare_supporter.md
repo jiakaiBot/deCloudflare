@@ -2917,6 +2917,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dansang1103@twitter](https://twitter.com/Dansang1103/status/1473317056019775490) | advertise |
 | [dansstuff32@twitter](https://twitter.com/dansstuff32/status/1631862272338345985) | advertise |
 | [DANTALAKAA@twitter](https://twitter.com/DANTALAKAA/status/1575479199640723456) | advertise |
+| [dantedacin@twitter](https://twitter.com/dantedacin/status/1730115957048389879) | advertise |
 | [DanTran09071985@twitter](https://twitter.com/DanTran09071985/status/1390363471179489282) | advertise |
 | [danvice639s@twitter](https://twitter.com/danvice639s/status/1610309573570592772) | advertise |
 | [Danxity@twitter](https://twitter.com/Danxity/status/1521653614816956416) | advertise |
@@ -8447,6 +8448,7 @@ Do not create new issue or we will close it as duplicate.
 | [michael92579770@twitter](https://twitter.com/michael92579770/status/1605178753277124611) | advertise |
 | [MichaelJGant1@twitter](https://twitter.com/MichaelJGant1/status/1388453082317606914) | advertise |
 | [MichaelMassman5@twitter](https://twitter.com/MichaelMassman5/status/1657923061398614017) | advertise |
+| [Michaelmicky_@twitter](https://twitter.com/Michaelmicky_/status/1730025381040681224) | advertise |
 | [michaelostwin@twitter](https://twitter.com/michaelostwin/status/1665874398245539840) | advertise |
 | [michaelrocz@twitter](https://twitter.com/michaelrocz/status/1521728615582416896) | advertise |
 | [MichaelTlayt@twitter](https://twitter.com/MichaelTlayt/status/1455463683639943170) | advertise |
@@ -8691,6 +8693,7 @@ Do not create new issue or we will close it as duplicate.
 | [MmadMmad1054554@twitter](https://twitter.com/MmadMmad1054554/status/1686392179277832193) | advertise |
 | [MMARMY98815463@twitter](https://twitter.com/MMARMY98815463/status/1383095144606441473) | advertise |
 | [MMassman87993@twitter](https://twitter.com/MMassman87993/status/1722472643943608641) | advertise |
+| [Mmd1252159@twitter](https://twitter.com/Mmd1252159/status/1730096841981931920) | advertise |
 | [mmfootballmm@twitter](https://twitter.com/mmfootballmm/status/1380215958082441218) | advertise |
 | [mmi123456@twitter](https://twitter.com/mmi123456/status/1572690037120143363) | advertise |
 | [MMK22797499@twitter](https://twitter.com/MMK22797499/status/1391278481300938752) | advertise |
@@ -11288,6 +11291,7 @@ Do not create new issue or we will close it as duplicate.
 | [ravipinto@twitter](https://twitter.com/ravipinto/status/1550083945727143938) | advertise |
 | [ravirjj27@twitter](https://twitter.com/ravirjj27/status/1679076023944744961) | advertise |
 | [RayanIs76488967@twitter](https://twitter.com/RayanIs76488967/status/1552751155872399364) | advertise |
+| [RayChas52@twitter](https://twitter.com/RayChas52/status/1730066965731979455) | advertise |
 | [rayklanderman@twitter](https://twitter.com/rayklanderman/status/1461680590873317377) | advertise |
 | [Raymond09739398@twitter](https://twitter.com/Raymond09739398/status/1379876402128822276) | advertise |
 | [Razaini9@twitter](https://twitter.com/Razaini9/status/1391507226221682690) | advertise |
