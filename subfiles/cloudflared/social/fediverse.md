@@ -8161,7 +8161,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -19096,7 +19096,7 @@ Here's a list of public Fediverse services.
 | `hoxsie.org` | Yes |
 | `hoyer.xyz` | No |
 | `hoyle.me.uk` | Yes |
-| `hoyle.social` | Yes |
+| `hoyle.social` | No |
 | `hp-gauster.name` | No |
 | `hpadm.de` | No |
 | `hpc.social` | No |
@@ -22181,7 +22181,7 @@ Here's a list of public Fediverse services.
 | `karl.guru` | No |
 | `karlender.net` | No |
 | `karlmarx.social` | No |
-| `karlnotcarl.com` | Yes |
+| `karlnotcarl.com` | No |
 | `karloskar.org` | No |
 | `karlrolson.com` | No |
 | `karlskron-politik.info` | No |
@@ -22779,7 +22779,6 @@ Here's a list of public Fediverse services.
 | `kiraako.work` | No |
 | `kiracollie.dog` | Yes |
 | `kirakiratter.com` | Yes |
-| `kirameki.cafe` | Yes |
 | `kiran.dog` | Yes |
 | `kirangaikwad.com` | No |
 | `kiranshila.com` | No |
@@ -40209,7 +40208,7 @@ Here's a list of public Fediverse services.
 | `shoreupthe.vote` | No |
 | `shork.online` | No |
 | `shork.space` | No |
-| `shorkpit.xyz` | Yes |
+| `shorkpit.xyz` | No |
 | `shoro.no` | No |
 | `shortbus.fail` | No |
 | `shortcord.com` | Yes |
@@ -50997,8 +50996,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,493 |
-| Normal | 36,456 |
+| Cloudflare | 14,488 |
+| Normal | 36,460 |
 
 
 </details>
