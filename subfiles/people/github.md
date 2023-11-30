@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Issue with Workers Durable Objects](https://github.com/SecOpsNews/news/issues/21822)
+- [CloudFlare Issue with Workers Durable Objects](https://github.com/hinoshiba/news/issues/6557)
 - [Given error code when deplying with cloudflare](https://github.com/TerbiumOS/webOS/issues/50)
 - [Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'self'](https://github.com/freescout-helpdesk/freescout/issues/3552)
 - [Unable to handle 404 errors via src/pages/404.astro](https://github.com/storyblok/storyblok-astro/issues/574)
