@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [issue: 522 error when building the project](https://github.com/react-hook-form/react-hook-form/issues/11248)
 - [CloudFlare Increased Error in North America Region](https://github.com/SecOpsNews/news/issues/21824)
 - [CloudFlare Increased Error in North America Region](https://github.com/hinoshiba/news/issues/6558)
 - [CloudFlare Issue with Workers Durable Objects](https://github.com/SecOpsNews/news/issues/21822)
