@@ -35406,7 +35406,7 @@ Here's a list of public Fediverse services.
 | `pony.gallery` | No |
 | `pony.social` | Yes |
 | `pony.style` | Yes |
-| `pony.tube` | No |
+| `pony.tube` | Yes |
 | `ponychord.rocks` | No |
 | `ponyfrance.net` | No |
 | `ponytail.in` | No |
@@ -50997,8 +50997,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,488 |
-| Normal | 36,461 |
+| Cloudflare | 14,489 |
+| Normal | 36,460 |
 
 
 </details>
