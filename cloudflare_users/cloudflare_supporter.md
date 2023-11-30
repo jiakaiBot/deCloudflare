@@ -2188,6 +2188,7 @@ Do not create new issue or we will close it as duplicate.
 | [BuckNewton6@twitter](https://twitter.com/BuckNewton6/status/1560343947616157697) | advertise |
 | [buddingdentist@twitter](https://twitter.com/buddingdentist/status/1386687039525953537) | advertise |
 | [BuffCau@twitter](https://twitter.com/BuffCau/status/1378293971282063363) | advertise |
+| [bufferfrom@twitter](https://twitter.com/bufferfrom/status/1730348768812286442) | advertise |
 | [buidai19@twitter](https://twitter.com/buidai19/status/1498335688454205440) | advertise |
 | [buiduon51013558@twitter](https://twitter.com/buiduon51013558/status/1551952389409607681) | advertise |
 | [Buihuyh06737906@twitter](https://twitter.com/Buihuyh06737906/status/1394529016862756864) | advertise |
