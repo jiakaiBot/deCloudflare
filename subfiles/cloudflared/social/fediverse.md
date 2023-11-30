@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,063 |
+| com | 8,064 |
 | social | 4,688 |
 | net | 3,966 |
 | org | 2,662 |
@@ -2696,6 +2696,7 @@ Here's a list of public Fediverse services.
 | `appliedecon.social` | No |
 | `appliedmachine.app` | No |
 | `appne.com` | No |
+| `approachingutopia.com` | Yes |
 | `approvers.dev` | Yes |
 | `apps4net.eu` | No |
 | `appservice.fr` | No |
@@ -51008,7 +51009,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,496 |
+| Cloudflare | 14,497 |
 | Normal | 36,464 |
 
 
