@@ -162,6 +162,7 @@ Do not create new issue or we will close it as duplicate.
 | [75Central@twitter](https://twitter.com/75Central/status/1630659926509887500) | advertise |
 | [77_naman@twitter](https://twitter.com/77_naman/status/1379437501786456065) | advertise |
 | [78NRC@twitter](https://twitter.com/78NRC/status/1611818270977568768) | advertise |
+| [80JustMe08@twitter](https://twitter.com/80JustMe08/status/1730306597157531905) | advertise |
 | [80x5_jonathan@twitter](https://twitter.com/80x5_jonathan/status/1563428306694729731) | advertise |
 | [82G3eUUY0BFpiFP@twitter](https://twitter.com/82G3eUUY0BFpiFP/status/1393161725579382784) | advertise |
 | [82Thar@twitter](https://twitter.com/82Thar/status/1386958515932106754) | advertise |
