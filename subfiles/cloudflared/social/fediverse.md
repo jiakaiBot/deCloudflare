@@ -23350,6 +23350,7 @@ Here's a list of public Fediverse services.
 | `krackhou.se` | Yes |
 | `kraeuterhexer.com` | No |
 | `kraft.blog` | No |
+| `krafterdev.xyz` | Yes |
 | `krafting.net` | No |
 | `krakatoa.bar` | No |
 | `krake.re` | No |
@@ -51019,7 +51020,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,506 |
+| Cloudflare | 14,507 |
 | Normal | 36,465 |
 
 
