@@ -274,6 +274,7 @@ Here's a list of breached sites.
 | GiveSendGo | 89,966 | Yes |
 | Glofox | 2,330,735 | Yes |
 | GoGames (Go Games) | 3,430,083 | Yes |
+| GoNinja (Go Ninja) | 4,999,001 | No |
 | GoldSilver | 242,715 | Yes |
 | Gravatar | 113,990,759 | No |
 | GunAuction (GunAuction.com) | 565,470 | Yes |
@@ -718,9 +719,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 408 | 4,523,222,697 |
-| Normal | 288 | 4,531,575,438 |
+| Normal | 289 | 4,536,574,439 |
 
 
 
-### 58.6% of breached sites (pwned sites) are using Cloudflare.
-### 50% of leaked accounts are on Cloudflare sites.
+### 58.5% of breached sites (pwned sites) are using Cloudflare.
+### 49.9% of leaked accounts are on Cloudflare sites.
