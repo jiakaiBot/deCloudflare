@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,060 |
+| com | 8,061 |
 | social | 4,688 |
 | net | 3,966 |
 | org | 2,661 |
@@ -10023,6 +10023,7 @@ Here's a list of public Fediverse services.
 | `deadbeef.monster` | Yes |
 | `deadbeef.social` | Yes |
 | `deadbeefcafe.net` | No |
+| `deadbirdsite.com` | No |
 | `deadbolt.social` | Yes |
 | `deadbsd.org` | Yes |
 | `deadbyte.is` | Yes |
@@ -50997,7 +50998,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,488 |
-| Normal | 36,460 |
+| Normal | 36,461 |
 
 
 </details>
