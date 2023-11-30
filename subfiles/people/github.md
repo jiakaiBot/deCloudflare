@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [There is a problem processing outgoing mail queue..](https://github.com/freescout-helpdesk/freescout/issues/3559)
 - [Improve Cloudflare provider 'registry_errors_total' metric](https://github.com/kubernetes-sigs/external-dns/issues/4081)
 - [digitalocean_cdn resource with custom domain stopped working](https://github.com/digitalocean/terraform-provider-digitalocean/issues/1086)
 - [issue: 522 error when building the project](https://github.com/react-hook-form/react-hook-form/issues/11248)
