@@ -9773,6 +9773,7 @@ Here's a list of public Fediverse services.
 | `darrenord.co.uk` | Yes |
 | `darringaming.com` | No |
 | `dartboard.social` | No |
+| `darthj.uno` | No |
 | `darthsidius.net` | No |
 | `darticulate.com` | No |
 | `dartisan.dev` | No |
@@ -46482,6 +46483,7 @@ Here's a list of public Fediverse services.
 | `tylinux.com` | Yes |
 | `tylko.fans` | No |
 | `tylorsweeney.blog` | No |
+| `tyloves.coffee` | No |
 | `tylxr.com` | Yes |
 | `tymch.uk` | No |
 | `tymoon.eu` | Yes |
@@ -51033,9 +51035,9 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,505 |
-| Normal | 36,479 |
+| Normal | 36,481 |
 
 
 </details>
 
-### 28.5% of public Fediverse services are using Cloudflare.
+### 28.4% of public Fediverse services are using Cloudflare.
