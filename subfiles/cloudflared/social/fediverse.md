@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,069 |
+| com | 8,070 |
 | social | 4,689 |
 | net | 3,967 |
 | org | 2,663 |
@@ -1695,7 +1695,7 @@ Here's a list of public Fediverse services.
 | `alessio.cc` | Yes |
 | `aleteoryx.me` | Yes |
 | `alevel.tech` | Yes |
-| `alex-kunz.com` | No |
+| `alex-kunz.com` | Yes |
 | `alex.net` | No |
 | `alex0.net` | Yes |
 | `alex73630.xyz` | Yes |
@@ -22221,6 +22221,7 @@ Here's a list of public Fediverse services.
 | `karp.lol` | No |
 | `karrmedia.com` | Yes |
 | `karsten-voigt.de` | No |
+| `karthikb351.com` | Yes |
 | `karthikbalakrishnan.com` | Yes |
 | `kartoffel.cafe` | No |
 | `kartoffelcheetah.eu` | No |
@@ -36118,7 +36119,7 @@ Here's a list of public Fediverse services.
 | `punchdrunker.org` | No |
 | `punchpresence.social` | No |
 | `pundo.com` | No |
-| `puni.moe` | No |
+| `puni.moe` | Yes |
 | `puniana.icu` | Yes |
 | `puniman.co` | No |
 | `punipuni.eu` | Yes |
@@ -51035,10 +51036,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,505 |
-| Normal | 36,482 |
+| Cloudflare | 14,508 |
+| Normal | 36,480 |
 
 
 </details>
 
-### 28.4% of public Fediverse services are using Cloudflare.
+### 28.5% of public Fediverse services are using Cloudflare.
