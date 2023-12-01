@@ -9775,6 +9775,7 @@ Here's a list of public Fediverse services.
 | `darrenord.co.uk` | Yes |
 | `darringaming.com` | No |
 | `dartboard.social` | No |
+| `darthj.uno` | No |
 | `darthsidius.net` | No |
 | `darticulate.com` | No |
 | `dartisan.dev` | No |
@@ -51039,7 +51040,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,511 |
-| Normal | 36,479 |
+| Normal | 36,480 |
 
 
 </details>
