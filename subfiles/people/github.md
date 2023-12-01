@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot login after enable Cloudflare proxy](https://github.com/osTicket/osTicket/issues/6645)
 - [Cloudflare SSHFP does not detect correctly](https://github.com/ansible-collections/community.general/issues/7652)
 - [network interception with Fetch.enable breaks cloudflare](https://github.com/kaliiiiiiiiii/Selenium-Driverless/issues/123)
 - [There is a problem processing outgoing mail queue..](https://github.com/freescout-helpdesk/freescout/issues/3559)
