@@ -11,7 +11,7 @@ Here's the result.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 22 |
-| Normal | 469 |
+| Normal | 468 |
 
 
 ### 4.5% of WHOIS services are using Cloudflare.
