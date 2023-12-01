@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,070 |
+| com | 8,071 |
 | social | 4,689 |
 | net | 3,967 |
 | org | 2,663 |
@@ -20025,6 +20025,7 @@ Here's a list of public Fediverse services.
 | `info-screen.me` | Yes |
 | `info.tm` | Yes |
 | `infocamp.digital` | No |
+| `infoclog.com` | Yes |
 | `infodocs.eu` | No |
 | `infoheap.com` | No |
 | `infojournal.fr` | No |
@@ -51036,7 +51037,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,508 |
+| Cloudflare | 14,509 |
 | Normal | 36,480 |
 
 
