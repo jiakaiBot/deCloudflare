@@ -15571,6 +15571,7 @@ Here's a list of public Fediverse services.
 | `fugadalcontrollo.org` | No |
 | `fuglies.club` | Yes |
 | `fuguri.site` | No |
+| `fuhbahr.dev` | No |
 | `fuhlbrueck.net` | No |
 | `fujii-yuji.net` | No |
 | `fujimo.top` | No |
@@ -51035,7 +51036,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,505 |
-| Normal | 36,481 |
+| Normal | 36,482 |
 
 
 </details>
