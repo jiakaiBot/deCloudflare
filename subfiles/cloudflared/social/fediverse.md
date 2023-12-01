@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,067 |
+| com | 8,068 |
 | social | 4,689 |
 | net | 3,967 |
 | org | 2,662 |
-| de | 2,511 |
+| de | 2,512 |
 
 
 - Mastodon, Pleroma, etc
@@ -1562,6 +1562,7 @@ Here's a list of public Fediverse services.
 | `akbkuku.org` | Yes |
 | `akcakazarma.tk` | No |
 | `akcjareakcja.pl` | No |
+| `akdub.club` | No |
 | `akebonozo.com` | No |
 | `akerbaek.no` | No |
 | `akhepcat.com` | No |
@@ -16188,6 +16189,7 @@ Here's a list of public Fediverse services.
 | `gctxl.com` | No |
 | `gd.social` | No |
 | `gdamsbo.dk` | No |
+| `gdcm.space` | No |
 | `gddb.ovh` | No |
 | `gddnet.io` | Yes |
 | `gdgd.jp.net` | Yes |
@@ -18541,6 +18543,7 @@ Here's a list of public Fediverse services.
 | `hidupmanis.studio` | Yes |
 | `hidyn.com` | Yes |
 | `hieda.cc` | Yes |
+| `hier-macht-was-auf.de` | No |
 | `hieron.cc` | No |
 | `hieronymusch.net` | No |
 | `hifi.fyi` | No |
@@ -21062,6 +21065,7 @@ Here's a list of public Fediverse services.
 | `jcg.re` | Yes |
 | `jcgurango.com` | Yes |
 | `jckcthbrt.io` | Yes |
+| `jclem.me` | No |
 | `jcloud.es` | No |
 | `jcm.guru` | No |
 | `jcm.re` | No |
@@ -23364,6 +23368,7 @@ Here's a list of public Fediverse services.
 | `kramerc.social` | No |
 | `kramerfeichtfeste.com` | No |
 | `kramersson.com` | No |
+| `kramnorth.com` | Yes |
 | `kramse.org` | No |
 | `kranat.com` | No |
 | `kranzkrone.de` | No |
@@ -35880,6 +35885,7 @@ Here's a list of public Fediverse services.
 | `projectspoint.uk` | No |
 | `projecttyco.net` | Yes |
 | `projectx.fun` | No |
+| `projectyo.network` | No |
 | `projektchaos.network` | No |
 | `projekthafen.net` | No |
 | `projet21.eu` | No |
@@ -41833,6 +41839,7 @@ Here's a list of public Fediverse services.
 | `sportscollecting.social` | No |
 | `sportsfans.social` | No |
 | `sportsfeed.me` | No |
+| `sportshaus.ca` | No |
 | `sportshax.com` | Yes |
 | `sportsmedtwtr.net` | No |
 | `sportsnews.social` | No |
@@ -47067,6 +47074,7 @@ Here's a list of public Fediverse services.
 | `urbalazs.hu` | No |
 | `urban-astronomer.com` | Yes |
 | `urban-radio.com` | No |
+| `urban-ride.ch` | No |
 | `urban.social` | No |
 | `urbandiscount.net` | No |
 | `urbaninversion.com` | Yes |
@@ -50827,7 +50835,7 @@ Here's a list of public Fediverse services.
 | `zn80.net` | No |
 | `znark.us` | No |
 | `znet.li` | No |
-| `znw.social` | Yes |
+| `znw.social` | No |
 | `zoc.me` | Yes |
 | `zocial.ee` | No |
 | `zocradio.info` | No |
@@ -51024,7 +51032,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,502 |
-| Normal | 36,473 |
+| Normal | 36,481 |
 
 
 </details>
