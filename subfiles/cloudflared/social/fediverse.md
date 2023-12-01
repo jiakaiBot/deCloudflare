@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,066 |
+| com | 8,067 |
 | social | 4,689 |
 | net | 3,966 |
 | org | 2,662 |
@@ -32595,7 +32595,7 @@ Here's a list of public Fediverse services.
 | `official.community` | No |
 | `official.jp` | No |
 | `officially.social` | Yes |
-| `officials.social` | Yes |
+| `officials.social` | No |
 | `officiating.rocks` | No |
 | `officiell-info.se` | No |
 | `officiell.info` | No |
@@ -48271,6 +48271,7 @@ Here's a list of public Fediverse services.
 | `wampi.re` | No |
 | `wanadoo.fr` | No |
 | `wanakacommunityworkshop.org.nz` | No |
+| `wananavuoutfitters.com` | No |
 | `wanda.hamburg` | No |
 | `wandaweb.net` | No |
 | `wandel.social` | No |
@@ -51020,8 +51021,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,507 |
-| Normal | 36,465 |
+| Cloudflare | 14,506 |
+| Normal | 36,467 |
 
 
 </details>
