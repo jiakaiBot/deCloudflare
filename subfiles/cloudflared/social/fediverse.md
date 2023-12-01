@@ -4093,7 +4093,7 @@ Here's a list of public Fediverse services.
 | `based.social` | Yes |
 | `based.zone` | Yes |
 | `basedcount.com` | Yes |
-| `basedones.social` | Yes |
+| `basedones.social` | No |
 | `basedship.xyz` | No |
 | `basel.social` | No |
 | `baselab.org` | No |
@@ -8167,7 +8167,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9772,6 +9772,7 @@ Here's a list of public Fediverse services.
 | `darrenord.co.uk` | Yes |
 | `darringaming.com` | No |
 | `dartboard.social` | No |
+| `darthj.uno` | No |
 | `darthsidius.net` | No |
 | `darticulate.com` | No |
 | `dartisan.dev` | No |
@@ -10569,7 +10570,7 @@ Here's a list of public Fediverse services.
 | `devteams.at` | No |
 | `devtools.social` | No |
 | `devtrope.com` | No |
-| `devua.club` | No |
+| `devua.club` | Yes |
 | `devurandom.xyz` | No |
 | `devvul.com` | No |
 | `devweb.dev` | No |
@@ -29543,7 +29544,7 @@ Here's a list of public Fediverse services.
 | `mstdn-bike.net` | Yes |
 | `mstdn-cycle.com` | No |
 | `mstdn-d.info` | No |
-| `mstdn-dystopia.com` | Yes |
+| `mstdn-dystopia.com` | No |
 | `mstdn-east.jp` | No |
 | `mstdn-ff14.jp` | No |
 | `mstdn-football.jp` | No |
@@ -32594,7 +32595,7 @@ Here's a list of public Fediverse services.
 | `official-sounding.com` | No |
 | `official.community` | No |
 | `official.jp` | No |
-| `officially.social` | Yes |
+| `officially.social` | No |
 | `officials.social` | No |
 | `officiating.rocks` | No |
 | `officiell-info.se` | No |
@@ -35716,7 +35717,7 @@ Here's a list of public Fediverse services.
 | `preteengirls.biz` | No |
 | `pretend.fun` | No |
 | `pretendo.network` | Yes |
-| `pretendracecars.net` | Yes |
+| `pretendracecars.net` | No |
 | `pretex.space` | No |
 | `pretix.social` | No |
 | `pretok.tv` | No |
@@ -37760,7 +37761,7 @@ Here's a list of public Fediverse services.
 | `ridernet.org` | No |
 | `ridesskey.net` | Yes |
 | `ridetrans.it` | Yes |
-| `ridgebacks.social` | Yes |
+| `ridgebacks.social` | No |
 | `ridixy.com` | Yes |
 | `riedel.nyc` | No |
 | `riedl.net` | No |
@@ -51021,10 +51022,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,506 |
-| Normal | 36,467 |
+| Cloudflare | 14,501 |
+| Normal | 36,473 |
 
 
 </details>
 
-### 28.5% of public Fediverse services are using Cloudflare.
+### 28.4% of public Fediverse services are using Cloudflare.
