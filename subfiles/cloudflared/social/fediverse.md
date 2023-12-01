@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,071 |
 | social | 4,689 |
-| net | 3,967 |
+| net | 3,968 |
 | org | 2,663 |
 | de | 2,512 |
 
@@ -1012,6 +1012,7 @@ Here's a list of public Fediverse services.
 | `abxy.games` | Yes |
 | `abypom.work` | No |
 | `abyss.fun` | Yes |
+| `abyss.moe` | Yes |
 | `abyss.observer` | No |
 | `abyssdomain.expert` | No |
 | `abyssfriend.club` | No |
@@ -7895,6 +7896,7 @@ Here's a list of public Fediverse services.
 | `cmck.io` | No |
 | `cmd.social` | No |
 | `cmdfoo.com` | No |
+| `cmdln.net` | No |
 | `cmdr.social` | No |
 | `cme-hosting.de` | No |
 | `cmer.fr` | Yes |
@@ -9773,7 +9775,6 @@ Here's a list of public Fediverse services.
 | `darrenord.co.uk` | Yes |
 | `darringaming.com` | No |
 | `dartboard.social` | No |
-| `darthj.uno` | No |
 | `darthsidius.net` | No |
 | `darticulate.com` | No |
 | `dartisan.dev` | No |
@@ -25946,7 +25947,7 @@ Here's a list of public Fediverse services.
 | `machine501.com` | No |
 | `machines.social` | No |
 | `machique.st` | No |
-| `machlis.com` | No |
+| `machlis.com` | Yes |
 | `machne.de` | No |
 | `machspace.org` | No |
 | `machteburch.social` | No |
@@ -51037,8 +51038,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,509 |
-| Normal | 36,480 |
+| Cloudflare | 14,511 |
+| Normal | 36,479 |
 
 
 </details>
