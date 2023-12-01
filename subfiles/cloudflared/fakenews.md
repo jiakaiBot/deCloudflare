@@ -32,8 +32,8 @@ Here's the result.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 556 |
-| Normal | 1,614 |
+| Cloudflare | 558 |
+| Normal | 1,612 |
 
 
-### 25.6% of fake news outlets are using Cloudflare.
+### 25.7% of fake news outlets are using Cloudflare.
