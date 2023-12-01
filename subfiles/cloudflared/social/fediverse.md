@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,067 |
 | social | 4,689 |
-| net | 3,966 |
+| net | 3,967 |
 | org | 2,662 |
 | de | 2,511 |
 
@@ -33589,6 +33589,7 @@ Here's a list of public Fediverse services.
 | `owlsne.st` | No |
 | `own-mail.org` | No |
 | `ownbox.be` | No |
+| `owncast.net` | Yes |
 | `owncast.online` | Yes |
 | `owncast.tv` | No |
 | `owncube.cloud` | No |
@@ -51022,7 +51023,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,501 |
+| Cloudflare | 14,502 |
 | Normal | 36,473 |
 
 
