@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,068 |
+| com | 8,069 |
 | social | 4,689 |
 | net | 3,967 |
 | org | 2,663 |
@@ -39720,6 +39720,7 @@ Here's a list of public Fediverse services.
 | `selent.ca` | No |
 | `seletronic.com.br` | Yes |
 | `selexco.net` | No |
+| `self-down69.com` | Yes |
 | `self-host.site` | No |
 | `self-hosted.site` | No |
 | `self.social` | No |
@@ -51032,7 +51033,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,503 |
+| Cloudflare | 14,504 |
 | Normal | 36,481 |
 
 
