@@ -12142,6 +12142,7 @@ Do not create new issue or we will close it as duplicate.
 | [shamelessasfuck@twitter](https://twitter.com/shamelessasfuck/status/1390875709166350338) | advertise |
 | [ShamoilQ@twitter](https://twitter.com/ShamoilQ/status/1593577119925567488) | advertise |
 | [ShamsHoque1446@twitter](https://twitter.com/ShamsHoque1446/status/1690845896131375107) | advertise |
+| [ShamsTaqwa31936@twitter](https://twitter.com/ShamsTaqwa31936/status/1730629472867786961) | advertise |
 | [ShaneUmayanga@twitter](https://twitter.com/ShaneUmayanga/status/1484075801041842178) | advertise |
 | [Shanilk40518007@twitter](https://twitter.com/Shanilk40518007/status/1401086959989268482) | advertise |
 | [ShanKoKo10@twitter](https://twitter.com/ShanKoKo10/status/1394641850879725569) | advertise |
@@ -12178,6 +12179,7 @@ Do not create new issue or we will close it as duplicate.
 | [shayne2773@twitter](https://twitter.com/shayne2773/status/1674127123546775552) | advertise |
 | [shazbootes89@twitter](https://twitter.com/shazbootes89/status/1673325610414792710) | advertise |
 | [shaziakn@twitter](https://twitter.com/shaziakn/status/1385603154377527297) | advertise |
+| [SheerMordad@twitter](https://twitter.com/SheerMordad/status/1730626178182942738) | advertise |
 | [shehab73896728@twitter](https://twitter.com/shehab73896728/status/1659401901715394560) | advertise |
 | [sheikhsupremacy@twitter](https://twitter.com/sheikhsupremacy/status/1723477350082650552) | advertise |
 | [sheilfer@twitter](https://twitter.com/sheilfer/status/1692309452039545159) | advertise |
