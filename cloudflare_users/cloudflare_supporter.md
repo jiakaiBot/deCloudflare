@@ -9907,6 +9907,7 @@ Do not create new issue or we will close it as duplicate.
 | [nitrojrd@twitter](https://twitter.com/nitrojrd/status/1641175551909019658) | advertise |
 | [nittaione@twitter](https://twitter.com/nittaione/status/1670000343319736320) | advertise |
 | [Niv_mor@twitter](https://twitter.com/Niv_mor/status/1399756042590904325) | advertise |
+| [nixon_kamugisha@twitter](https://twitter.com/nixon_kamugisha/status/1730868490611855601) | advertise |
 | [Nizi113@twitter](https://twitter.com/Nizi113/status/1656242016618188800) | advertise |
 | [njang_zau_mun@twitter](https://twitter.com/njang_zau_mun/status/1380180638804832256) | advertise |
 | [njoolenesia@twitter](https://twitter.com/njoolenesia/status/1503838855765856256) | advertise |
