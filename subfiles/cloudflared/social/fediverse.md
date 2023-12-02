@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,074 |
 | social | 4,691 |
-| net | 3,972 |
+| net | 3,973 |
 | org | 2,664 |
 | de | 2,515 |
 
@@ -22707,6 +22707,7 @@ Here's a list of public Fediverse services.
 | `kijak.co` | No |
 | `kijowski.dev` | No |
 | `kijy.de` | Yes |
+| `kijy.net` | Yes |
 | `kikes.xyz` | No |
 | `kiklhorn.cz` | Yes |
 | `kiko.casa` | Yes |
@@ -33406,7 +33407,6 @@ Here's a list of public Fediverse services.
 | `ostolc.org` | No |
 | `ostrovok.de` | No |
 | `osu.io` | Yes |
-| `osu.si` | No |
 | `osumiakari.jp` | Yes |
 | `osureplayviewer.xyz` | No |
 | `osvoj.ru` | No |
@@ -40247,6 +40247,7 @@ Here's a list of public Fediverse services.
 | `shoko.one` | Yes |
 | `shokujin.jp` | Yes |
 | `shollow.net` | No |
+| `shom.dev` | No |
 | `shoni.town` | No |
 | `shonk.social` | Yes |
 | `shook.rocks` | No |
@@ -51066,7 +51067,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,513 |
+| Cloudflare | 14,514 |
 | Normal | 36,505 |
 
 
