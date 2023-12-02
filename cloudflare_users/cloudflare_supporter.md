@@ -7349,6 +7349,7 @@ Do not create new issue or we will close it as duplicate.
 | [Latto_Creek@twitter](https://twitter.com/Latto_Creek/status/1572909533634363392) | advertise |
 | [LattYar83488543@twitter](https://twitter.com/LattYar83488543/status/1390551081587859456) | advertise |
 | [Laucilos@twitter](https://twitter.com/Laucilos/status/1561809837725720577) | advertise |
+| [lauHang169966@twitter](https://twitter.com/lauHang169966/status/1730824134022901882) | advertise |
 | [Laurabaddie800@twitter](https://twitter.com/Laurabaddie800/status/1526689167081558016) | advertise |
 | [LauriusW@twitter](https://twitter.com/LauriusW/status/1396782819817361408) | advertise |
 | [LawEhMoo2@twitter](https://twitter.com/LawEhMoo2/status/1391000091071160328) | advertise |
@@ -13969,6 +13970,7 @@ Do not create new issue or we will close it as duplicate.
 | [TRUNGG27162668@twitter](https://twitter.com/TRUNGG27162668/status/1553759152765546496) | advertise |
 | [TrungH44154440@twitter](https://twitter.com/TrungH44154440/status/1604870495421468674) | advertise |
 | [TrungHi15300059@twitter](https://twitter.com/TrungHi15300059/status/1553822302546329600) | advertise |
+| [TrungHi89276837@twitter](https://twitter.com/TrungHi89276837/status/1730823625501261945) | advertise |
 | [trunghieu9220@twitter](https://twitter.com/trunghieu9220/status/1552471193936048128) | advertise |
 | [trungho94890895@twitter](https://twitter.com/trungho94890895/status/1634111133245411331) | advertise |
 | [trunglu87@twitter](https://twitter.com/trunglu87/status/1382700817896116227) | advertise |
