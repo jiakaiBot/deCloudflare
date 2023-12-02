@@ -1764,6 +1764,7 @@ Or is this merely a case of simple modesty?
 | Sylvia Kim | Human Resources Administrator |  |
 | Sylvia Kuyel | Customer Success Engineer |  |
 | Sylvie Cosgrove | Head of Information Technology |  |
+| Syona Sarma | Employee | |
 | Sze Chuen Tan | Systems Reliability Engineer | https://twitter.com/sctan |
 | Sze Chuen | Employee |  |
 | Sébastien Pahl | Systems Reliability Engineer |  |
