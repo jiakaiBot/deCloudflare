@@ -220,6 +220,7 @@ Do not create new issue or we will close it as duplicate.
 | [824040toto@twitter](https://twitter.com/824040toto/status/1729188066861166773) | advertise |
 | [32307403hano@twitter](https://twitter.com/32307403hano/status/1562213867593560064) | advertise |
 | [238354129abc@twitter](https://twitter.com/238354129abc/status/1688439305197465601) | advertise |
+| [501502503mozmoz@twitter](https://twitter.com/501502503mozmoz/status/1730945180549910659) | advertise |
 | [@muffinista@botsin.space](https://botsin.space/@muffinista) | Mastodon: account suspension (botsin.space) |
 | [@muffinista@cybre.space](https://cybre.space/@muffinista) | Mastodon: account suspension (botsin.space) |
 | [@tchambers@indieweb.social](https://indieweb.social/@tchambers) | Mastodon: account suspension (black cat) |
