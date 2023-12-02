@@ -4672,6 +4672,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hasrath18@twitter](https://twitter.com/Hasrath18/status/1398681095860748288) | advertise |
 | [hassan91290216@twitter](https://twitter.com/hassan91290216/status/1527183505817579520) | advertise |
 | [HassanR56423746@twitter](https://twitter.com/HassanR56423746/status/1394591822849003521) | advertise |
+| [hassansyr3rd@twitter](https://twitter.com/hassansyr3rd/status/1730668336566894755) | advertise |
 | [Haswand2@twitter](https://twitter.com/Haswand2/status/1378381010832826372) | advertise |
 | [hatedbyelon@twitter](https://twitter.com/hatedbyelon/status/1686981884637519877) | advertise |
 | [hathaisang@twitter](https://twitter.com/hathaisang/status/1715261903033999512) | advertise |
@@ -7635,6 +7636,7 @@ Do not create new issue or we will close it as duplicate.
 | [LNoclass85674@twitter](https://twitter.com/LNoclass85674/status/1719083361401204802) | advertise |
 | [lnspectorRex@twitter](https://twitter.com/lnspectorRex/status/1545829075016732672) | advertise |
 | [LoanHun91363699@twitter](https://twitter.com/LoanHun91363699/status/1643160466737475584) | advertise |
+| [LockaDxb@twitter](https://twitter.com/LockaDxb/status/1730732275980005677) | advertise |
 | [locomoco_28@twitter](https://twitter.com/locomoco_28/status/1630791856131907584) | advertise |
 | [Loctran78766971@twitter](https://twitter.com/Loctran78766971/status/1378360177724776450) | advertise |
 | [loffy2k8@twitter](https://twitter.com/loffy2k8/status/1695490890033435025) | advertise |
@@ -11793,6 +11795,7 @@ Do not create new issue or we will close it as duplicate.
 | [saiwar622715@twitter](https://twitter.com/saiwar622715/status/1701798125403562354) | advertise |
 | [SaiWunn44556066@twitter](https://twitter.com/SaiWunn44556066/status/1394579547975151617) | advertise |
 | [SaiYanN67587097@twitter](https://twitter.com/SaiYanN67587097/status/1533120502646337536) | advertise |
+| [sai_hla54260@twitter](https://twitter.com/sai_hla54260/status/1730740692480372864) | advertise |
 | [sai_lu57@twitter](https://twitter.com/sai_lu57/status/1392941626402643969) | advertise |
 | [sai_zeya@twitter](https://twitter.com/sai_zeya/status/1390399367006277632) | advertise |
 | [sajademaalik@twitter](https://twitter.com/sajademaalik/status/1391848383174770689) | advertise |
@@ -12703,6 +12706,7 @@ Do not create new issue or we will close it as duplicate.
 | [Subigwin223@twitter](https://twitter.com/Subigwin223/status/1609539892190777344) | advertise |
 | [Subin03842148@twitter](https://twitter.com/Subin03842148/status/1630787532752560130) | advertise |
 | [SuccessvisionPr@twitter](https://twitter.com/SuccessvisionPr/status/1393314160625307653) | advertise |
+| [suco1910@twitter](https://twitter.com/suco1910/status/1730674633089949892) | advertise |
 | [sudanindepende1@twitter](https://twitter.com/sudanindepende1/status/1430518977386721280) | advertise |
 | [SUday49665279@twitter](https://twitter.com/SUday49665279/status/1386583498014683137) | advertise |
 | [sudej@twitter](https://twitter.com/sudej/status/1681339983108673536) | advertise |
