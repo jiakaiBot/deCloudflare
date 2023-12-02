@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [nyaasi (testing) Cloudflare 'Verify you are human' button not found on the page loop](https://github.com/FlareSolverr/FlareSolverr/issues/991)
+- [Recipes won't show after update to 1.5.9](https://github.com/TandoorRecipes/recipes/issues/2770)
 - [Error while a variation stock quantity has been finished](https://github.com/woocommerce/woocommerce/issues/41848)
 - [Issue after restarting Docker - Synology NAS](https://github.com/containrrr/watchtower/issues/1866)
 - [Zaraz not working](https://github.com/Baroshem/nuxt-security/issues/308)
