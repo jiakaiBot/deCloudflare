@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issue after restarting Docker - Synology NAS](https://github.com/containrrr/watchtower/issues/1866)
 - [Zaraz not working](https://github.com/Baroshem/nuxt-security/issues/308)
 - [TypeError: Cannot read properties of undefined (reading '_req')](https://github.com/deepgram/deepgram-node-sdk/issues/210)
 - [Update 1.8.109 Pcntl_Signal issue](https://github.com/freescout-helpdesk/freescout/issues/3565)
