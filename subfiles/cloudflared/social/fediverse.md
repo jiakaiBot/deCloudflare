@@ -5989,6 +5989,7 @@ Here's a list of public Fediverse services.
 | `brvy.space` | Yes |
 | `brx.io` | No |
 | `bry.bar` | No |
+| `bry.so` | Yes |
 | `bryanmacmurray.com` | No |
 | `bryanstone.net` | No |
 | `bryce.co` | No |
@@ -27509,6 +27510,7 @@ Here's a list of public Fediverse services.
 | `mcb.today` | No |
 | `mccallig.com` | No |
 | `mccann.social` | No |
+| `mccd.space` | No |
 | `mcchattersons.com` | No |
 | `mcclear.net` | Yes |
 | `mccormick.cx` | No |
@@ -51054,8 +51056,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,507 |
-| Normal | 36,499 |
+| Cloudflare | 14,508 |
+| Normal | 36,500 |
 
 
 </details>
