@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error while a variation stock quantity has been finished](https://github.com/woocommerce/woocommerce/issues/41848)
 - [Issue after restarting Docker - Synology NAS](https://github.com/containrrr/watchtower/issues/1866)
 - [Zaraz not working](https://github.com/Baroshem/nuxt-security/issues/308)
 - [TypeError: Cannot read properties of undefined (reading '_req')](https://github.com/deepgram/deepgram-node-sdk/issues/210)
