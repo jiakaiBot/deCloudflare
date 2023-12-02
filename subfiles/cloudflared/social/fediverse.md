@@ -17907,7 +17907,7 @@ Here's a list of public Fediverse services.
 | `hamzahkhan.com` | Yes |
 | `han.do` | No |
 | `hanashi.dev` | Yes |
-| `handburger.tech` | Yes |
+| `handburger.tech` | No |
 | `handelsfrei.org` | No |
 | `handholding.gay` | No |
 | `handholding.io` | Yes |
@@ -33631,6 +33631,7 @@ Here's a list of public Fediverse services.
 | `owo.rs` | Yes |
 | `owo.sg` | Yes |
 | `owo.town` | No |
+| `owo69.me` | Yes |
 | `owonet.work` | Yes |
 | `owotel.com` | Yes |
 | `owovo.cc` | Yes |
@@ -51057,7 +51058,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,508 |
-| Normal | 36,500 |
+| Normal | 36,501 |
 
 
 </details>
