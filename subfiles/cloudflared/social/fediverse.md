@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,073 |
-| social | 4,689 |
-| net | 3,969 |
+| social | 4,691 |
+| net | 3,970 |
 | org | 2,663 |
 | de | 2,514 |
 
@@ -2448,7 +2448,7 @@ Here's a list of public Fediverse services.
 | `anonlabs.org` | No |
 | `anonq.com` | No |
 | `anonsys.net` | No |
-| `anontown.com` | No |
+| `anontown.com` | Yes |
 | `anonworld.de` | No |
 | `anonworld.us` | Yes |
 | `anonyme-atheisten.ga` | No |
@@ -23921,6 +23921,7 @@ Here's a list of public Fediverse services.
 | `lanciano.it` | Yes |
 | `lancianoblog.it` | Yes |
 | `landbox.info` | No |
+| `lander.social` | Yes |
 | `landileshembebook.com` | No |
 | `landkreis.social` | No |
 | `landlords.social` | Yes |
@@ -29933,6 +29934,7 @@ Here's a list of public Fediverse services.
 | `muskodon.social` | No |
 | `musksocial.com` | No |
 | `musktodon.de` | Yes |
+| `muslim.social` | No |
 | `muslims.net.in` | No |
 | `muso.social` | No |
 | `musson.uk` | Yes |
@@ -34375,6 +34377,7 @@ Here's a list of public Fediverse services.
 | `perkins.pub` | Yes |
 | `perktold.xyz` | Yes |
 | `perl.social` | Yes |
+| `permanenttourist.ch` | Yes |
 | `permaweb.io` | No |
 | `permi.in` | Yes |
 | `perorin.jp` | No |
@@ -49847,7 +49850,7 @@ Here's a list of public Fediverse services.
 | `xn--transposes-i7a.eu` | No |
 | `xn--trt-tna.eu` | No |
 | `xn--twttr-7raz.com` | No |
-| `xn--u8j4c2560b.site` | No |
+| `xn--u8j4c2560b.site` | Yes |
 | `xn--uiq450e.club` | No |
 | `xn--undsk-jra.se` | Yes |
 | `xn--videogames-bo3g.gg` | No |
@@ -50082,6 +50085,7 @@ Here's a list of public Fediverse services.
 | `yaong.org` | No |
 | `yapbreak.fr` | No |
 | `yapka.org` | No |
+| `yapmi.net` | Yes |
 | `yapstreams.com` | No |
 | `yarashee.net` | No |
 | `yargl.com` | No |
@@ -51057,8 +51061,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,508 |
-| Normal | 36,501 |
+| Cloudflare | 14,513 |
+| Normal | 36,500 |
 
 
 </details>
