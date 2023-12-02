@@ -112,9 +112,9 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | kescher.at | No |
 | ketan.dev | Yes |
 | konikoni428.com | Yes |
-| korzhov.dev | No |
 | kpsn.org | Yes |
 | krnl.eu | Yes |
+| kul-lippek.de | No |
 | lacontrevoie.fr | No |
 | lastentarvike.fi | No |
 | lavate.ch | Yes |
@@ -123,6 +123,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lindung.pp.ua | Yes |
 | lonet.org | Yes |
 | masters-of-cloud.de | No |
+| max.net.id | Yes |
 | meddy94.de | No |
 | meganerd.nl | No |
 | mmmalia.com | No |
@@ -202,6 +203,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wang.art | Yes |
 | waringer-atg.de | No |
 | wikimedia-dns.org | No |
+| workfordemo.co.in | Yes |
 | xaoimoon.fr | No |
 | xcom.pro | No |
 | yandex.net | Yes |
@@ -211,8 +213,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 91 |
+| Cloudflare | 93 |
 | Normal | 101 |
 
 
-### 47.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
