@@ -70,7 +70,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dns.pub | No |
 | dns.sb | Yes |
 | dns4all.eu | No |
-| dns8.org | No |
 | dnscry.pt | No |
 | dnsforfamily.com | Yes |
 | dnsforge.de | No |
@@ -131,7 +130,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mullvad.net | No |
 | mydns.network | Yes |
 | myon.lu | No |
-| n0.eu | No |
 | nas-server.ru | Yes |
 | ndo.dev | Yes |
 | nexific.it | Yes |
@@ -146,9 +144,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nolo.ltd | Yes |
 | noridev.moe | No |
 | novali.date | Yes |
-| ns3.com | No |
-| ns3.cx | No |
-| ns3.link | No |
 | ofdoom.net | Yes |
 | onedns.cc | Yes |
 | openbld.net | No |
@@ -215,7 +210,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 89 |
-| Normal | 106 |
+| Normal | 101 |
 
 
-### 45.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
