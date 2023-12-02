@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,073 |
+| com | 8,074 |
 | social | 4,691 |
-| net | 3,970 |
-| org | 2,663 |
+| net | 3,971 |
+| org | 2,664 |
 | de | 2,514 |
 
 
@@ -5390,6 +5390,7 @@ Here's a list of public Fediverse services.
 | `bodybag.zip` | Yes |
 | `bodybuilding.im` | No |
 | `boeck.social` | No |
+| `boeckli.net` | No |
 | `boehmer.tech` | Yes |
 | `boehmke.net` | No |
 | `boelz.eu` | No |
@@ -8257,7 +8258,7 @@ Here's a list of public Fediverse services.
 | `comofas.org` | No |
 | `comomo.biz` | No |
 | `comopiensodigo.com` | No |
-| `comori.info` | Yes |
+| `comori.info` | No |
 | `comorichico.com` | No |
 | `compactbyte.com` | Yes |
 | `compadres.social` | No |
@@ -20548,6 +20549,7 @@ Here's a list of public Fediverse services.
 | `isosceles.monster` | No |
 | `ispark.social` | No |
 | `ispv-7.com` | No |
+| `israelmemories.com` | No |
 | `israelmgo.es` | No |
 | `israely.xyz` | Yes |
 | `issizler.club` | Yes |
@@ -22896,6 +22898,7 @@ Here's a list of public Fediverse services.
 | `kittenme.ws` | No |
 | `kittenpanic.io` | No |
 | `kitties.gay` | No |
+| `kittinterns.org` | No |
 | `kitty.church` | No |
 | `kitty.haus` | No |
 | `kitty.observer` | No |
@@ -41136,7 +41139,7 @@ Here's a list of public Fediverse services.
 | `snowdrop.cloud` | Yes |
 | `snowfrost.garden` | No |
 | `snowgoons.ro` | Yes |
-| `snowii.moe` | No |
+| `snowii.moe` | Yes |
 | `snowinning.com` | Yes |
 | `snowleopard.run` | Yes |
 | `snowmans.land` | Yes |
@@ -51062,7 +51065,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,513 |
-| Normal | 36,500 |
+| Normal | 36,503 |
 
 
 </details>
