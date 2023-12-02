@@ -33964,6 +33964,7 @@ Here's a list of public Fediverse services.
 | `partecipa.digital` | No |
 | `parti-science.africa` | No |
 | `partiarazem.pl` | Yes |
+| `partidopirata.com.ar` | No |
 | `partipirate.org` | No |
 | `partizle.com` | Yes |
 | `partnerskapetloft.se` | No |
@@ -51043,7 +51044,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,504 |
-| Normal | 36,490 |
+| Normal | 36,491 |
 
 
 </details>
