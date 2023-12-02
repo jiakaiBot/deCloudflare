@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,691 |
 | net | 3,973 |
 | org | 2,664 |
-| de | 2,515 |
+| de | 2,516 |
 
 
 - Mastodon, Pleroma, etc
@@ -356,6 +356,7 @@ Here's a list of public Fediverse services.
 | `223308.xyz` | Yes |
 | `2248.live` | Yes |
 | `22decembre.eu` | No |
+| `230029.xyz` | Yes |
 | `238c.org` | No |
 | `23h42.com` | No |
 | `23th.day` | No |
@@ -8174,7 +8175,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -14577,7 +14578,7 @@ Here's a list of public Fediverse services.
 | `flanintheface.com` | No |
 | `flark.me` | Yes |
 | `flashfic.stream` | No |
-| `flashist.art` | No |
+| `flashist.art` | Yes |
 | `flashist.health` | Yes |
 | `flashist.live` | Yes |
 | `flashist.vip` | Yes |
@@ -25744,6 +25745,7 @@ Here's a list of public Fediverse services.
 | `lunaticducks.com` | Yes |
 | `lunaticgeek.com` | Yes |
 | `lunaticsproject.org` | No |
+| `lunatiki.de` | No |
 | `lunaverse.blog` | No |
 | `lunax.dev` | Yes |
 | `lunchlurkers.com` | No |
@@ -42577,7 +42579,7 @@ Here's a list of public Fediverse services.
 | `stuffbets.com` | No |
 | `stuffingyourfaceasusual.lol` | Yes |
 | `stuffmaker.club` | No |
-| `stufftoread.com` | No |
+| `stufftoread.com` | Yes |
 | `stuible.cloud` | Yes |
 | `stuifbergen.com` | No |
 | `stuipd.cloud` | No |
@@ -51067,10 +51069,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,514 |
-| Normal | 36,505 |
+| Cloudflare | 14,518 |
+| Normal | 36,503 |
 
 
 </details>
 
-### 28.4% of public Fediverse services are using Cloudflare.
+### 28.5% of public Fediverse services are using Cloudflare.
