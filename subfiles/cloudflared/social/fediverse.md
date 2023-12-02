@@ -8170,7 +8170,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9761,7 +9761,7 @@ Here's a list of public Fediverse services.
 | `darmstadt.social` | Yes |
 | `darn.fish` | Yes |
 | `darn.is` | Yes |
-| `darn.social` | Yes |
+| `darn.social` | No |
 | `darndt.de` | Yes |
 | `darnell.app` | No |
 | `darnell.day` | No |
@@ -18390,7 +18390,7 @@ Here's a list of public Fediverse services.
 | `heraut.eu` | No |
 | `herballemon.com` | No |
 | `herbimarquez.com` | No |
-| `herbivores.online` | Yes |
+| `herbivores.online` | No |
 | `herbstschild.de` | No |
 | `hercsi.com` | No |
 | `herd.works` | Yes |
@@ -26722,7 +26722,7 @@ Here's a list of public Fediverse services.
 | `masto.haus` | Yes |
 | `masto.host` | No |
 | `masto.hr` | No |
-| `masto.id` | Yes |
+| `masto.id` | No |
 | `masto.io` | No |
 | `masto.la` | No |
 | `masto.land` | No |
@@ -26906,7 +26906,7 @@ Here's a list of public Fediverse services.
 | `mastodon.flights` | No |
 | `mastodon.floripa.br` | No |
 | `mastodon.fo` | No |
-| `mastodon.football` | Yes |
+| `mastodon.football` | No |
 | `mastodon.forsale` | No |
 | `mastodon.frl` | No |
 | `mastodon.fun` | Yes |
@@ -29647,7 +29647,7 @@ Here's a list of public Fediverse services.
 | `mstdn.jp.net` | No |
 | `mstdn.kyoto` | No |
 | `mstdn.life` | Yes |
-| `mstdn.live` | Yes |
+| `mstdn.live` | No |
 | `mstdn.lol` | Yes |
 | `mstdn.love` | Yes |
 | `mstdn.lt` | Yes |
@@ -32335,7 +32335,7 @@ Here's a list of public Fediverse services.
 | `nyan.network` | No |
 | `nyan.systems` | No |
 | `nyanako.com` | Yes |
-| `nyanbinary.club` | No |
+| `nyanbinary.club` | Yes |
 | `nyanide.com` | No |
 | `nyanlout.re` | No |
 | `nyanshell.com` | Yes |
@@ -33447,7 +33447,7 @@ Here's a list of public Fediverse services.
 | `otsuka.haus` | No |
 | `otsumami.bar` | Yes |
 | `otta.world` | No |
-| `ottawa.party` | Yes |
+| `ottawa.party` | No |
 | `ottawa.place` | No |
 | `ottawaks.us` | Yes |
 | `otter.buzz` | No |
@@ -35165,7 +35165,7 @@ Here's a list of public Fediverse services.
 | `plueschmoors.de` | No |
 | `pluffy.monster` | No |
 | `pluginip.com` | Yes |
-| `plugsuit.club` | Yes |
+| `plugsuit.club` | No |
 | `plumbob.social` | No |
 | `plume.ink` | No |
 | `plume.social` | No |
@@ -41054,7 +41054,7 @@ Here's a list of public Fediverse services.
 | `sneaka.stream` | No |
 | `sneakernet.social` | No |
 | `sneakerwave.net` | Yes |
-| `sneaky.computer` | Yes |
+| `sneaky.computer` | No |
 | `sneakycrow.io` | No |
 | `sneakymonkey.io` | No |
 | `sneed.live` | Yes |
@@ -46289,7 +46289,7 @@ Here's a list of public Fediverse services.
 | `tusker.social` | Yes |
 | `tuskodon.com` | No |
 | `tusks.co` | No |
-| `tusks.lol` | Yes |
+| `tusks.lol` | No |
 | `tuskular.com` | Yes |
 | `tusky.pink` | No |
 | `tusky.town` | No |
@@ -49830,6 +49830,7 @@ Here's a list of public Fediverse services.
 | `xn--transposes-i7a.eu` | No |
 | `xn--trt-tna.eu` | No |
 | `xn--twttr-7raz.com` | No |
+| `xn--u8j4c2560b.site` | No |
 | `xn--uiq450e.club` | No |
 | `xn--undsk-jra.se` | Yes |
 | `xn--videogames-bo3g.gg` | No |
@@ -51039,10 +51040,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,511 |
-| Normal | 36,480 |
+| Cloudflare | 14,502 |
+| Normal | 36,490 |
 
 
 </details>
 
-### 28.5% of public Fediverse services are using Cloudflare.
+### 28.4% of public Fediverse services are using Cloudflare.
