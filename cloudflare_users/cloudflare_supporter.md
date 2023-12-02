@@ -12199,6 +12199,7 @@ Do not create new issue or we will close it as duplicate.
 | [SherifMKhattab1@twitter](https://twitter.com/SherifMKhattab1/status/1403105134972837893) | advertise |
 | [shhrwin@twitter](https://twitter.com/shhrwin/status/1380867620811857922) | advertise |
 | [ShiFuInuX1000@twitter](https://twitter.com/ShiFuInuX1000/status/1696913565339578675) | advertise |
+| [shihabiiuc@twitter](https://twitter.com/shihabiiuc/status/1730815382678843400) | advertise |
 | [Shimi061203@twitter](https://twitter.com/Shimi061203/status/1539426706880012288) | advertise |
 | [shimolak6163@twitter](https://twitter.com/shimolak6163/status/1648234319977017345) | advertise |
 | [Shin59257259@twitter](https://twitter.com/Shin59257259/status/1402899703218409476) | advertise |
@@ -15584,6 +15585,7 @@ Do not create new issue or we will close it as duplicate.
 | [_c_s_504@twitter](https://twitter.com/_c_s_504/status/1643776491417661441) | advertise |
 | [_DepvaOTP_@twitter](https://twitter.com/_DepvaOTP_/status/1399004303788888067) | advertise |
 | [_ejlazaro@twitter](https://twitter.com/_ejlazaro/status/1600045438387691525) | advertise |
+| [_Function___@twitter](https://twitter.com/_Function___/status/1730804639463772378) | advertise |
 | [_G_RR_@twitter](https://twitter.com/_G_RR_/status/1688042550144217089) | advertise |
 | [_haibala_@twitter](https://twitter.com/_haibala_/status/1623057255519358976) | advertise |
 | [_hermanto@twitter](https://twitter.com/_hermanto/status/1676635911608750080) | advertise |
