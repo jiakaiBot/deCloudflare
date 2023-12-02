@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,074 |
 | social | 4,691 |
-| net | 3,971 |
+| net | 3,972 |
 | org | 2,664 |
-| de | 2,514 |
+| de | 2,515 |
 
 
 - Mastodon, Pleroma, etc
@@ -2408,6 +2408,7 @@ Here's a list of public Fediverse services.
 | `aniy.jp` | No |
 | `aniyomechan.jp` | No |
 | `anizumin.com` | Yes |
+| `anja-fahrner.de` | No |
 | `anjara.eu` | No |
 | `anji.nl` | No |
 | `anjos.red` | No |
@@ -47375,6 +47376,7 @@ Here's a list of public Fediverse services.
 | `vamuki.club` | No |
 | `van-de-weerd.net` | No |
 | `van-der-boom.nl` | No |
+| `van-der-velde.net` | No |
 | `van-hemmen.com` | Yes |
 | `van-ransbeeck.be` | No |
 | `van.blue` | Yes |
@@ -51065,7 +51067,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,513 |
-| Normal | 36,503 |
+| Normal | 36,505 |
 
 
 </details>
