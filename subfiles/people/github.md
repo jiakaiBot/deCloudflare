@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [openai api doesn't seem to work correctly](https://github.com/LostRuins/koboldcpp/issues/546)
+- [isServer() Is Incorrect if Frontend Adds Global process Var](https://github.com/deepgram/deepgram-node-sdk/issues/211)
 - [nyaasi (testing) Cloudflare 'Verify you are human' button not found on the page loop](https://github.com/FlareSolverr/FlareSolverr/issues/991)
 - [Recipes won't show after update to 1.5.9](https://github.com/TandoorRecipes/recipes/issues/2770)
 - [Error while a variation stock quantity has been finished](https://github.com/woocommerce/woocommerce/issues/41848)
