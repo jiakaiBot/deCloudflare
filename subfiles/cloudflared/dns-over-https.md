@@ -22,6 +22,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 5ososea.com | Yes |
 | 8888.google | No |
 | aa.net.uk | No |
+| abpvn.com | Yes |
 | absolight.net | No |
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
@@ -203,14 +204,15 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wikimedia-dns.org | No |
 | xaoimoon.fr | No |
 | xcom.pro | No |
+| yandex.net | Yes |
 
 
 ----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 89 |
+| Cloudflare | 91 |
 | Normal | 101 |
 
 
-### 46.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
