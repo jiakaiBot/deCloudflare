@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,071 |
+| com | 8,073 |
 | social | 4,689 |
-| net | 3,968 |
+| net | 3,969 |
 | org | 2,663 |
-| de | 2,512 |
+| de | 2,514 |
 
 
 - Mastodon, Pleroma, etc
@@ -5809,6 +5809,7 @@ Here's a list of public Fediverse services.
 | `breizh.pm` | No |
 | `breizh.social` | No |
 | `brembs.net` | No |
+| `bremen-social-sciences.de` | No |
 | `bremen.digital` | No |
 | `bremen.social` | No |
 | `bremen.team` | No |
@@ -8992,6 +8993,7 @@ Here's a list of public Fediverse services.
 | `cs.social` | Yes |
 | `cs133.net` | Yes |
 | `cs2080.com` | No |
+| `cs30.de` | Yes |
 | `cs59.co` | No |
 | `cs6675.com` | No |
 | `csa.ba` | Yes |
@@ -11843,6 +11845,7 @@ Here's a list of public Fediverse services.
 | `dwe.ng` | Yes |
 | `dwell.pub` | No |
 | `dwin.link` | No |
+| `dwmc-16.net` | No |
 | `dwntr.xyz` | No |
 | `dwscdv3.com` | Yes |
 | `dwx.social` | Yes |
@@ -11856,6 +11859,7 @@ Here's a list of public Fediverse services.
 | `dydx.moe` | No |
 | `dygytally.academy` | No |
 | `dyke.space` | No |
+| `dylanabbott.com` | No |
 | `dylanh.dev` | Yes |
 | `dylanjava.com` | Yes |
 | `dylanon.com` | Yes |
@@ -17310,6 +17314,7 @@ Here's a list of public Fediverse services.
 | `greyarea.one` | Yes |
 | `greydog.blog` | No |
 | `greyduck.social` | No |
+| `greylife.link` | Yes |
 | `greylog.ru` | No |
 | `greyopossum.net` | No |
 | `greys.place` | No |
@@ -26186,6 +26191,7 @@ Here's a list of public Fediverse services.
 | `makary.online` | No |
 | `makegame.run` | No |
 | `makegames.social` | No |
+| `makegayfriends.com` | Yes |
 | `makemake.site` | No |
 | `makemusic.social` | Yes |
 | `makemysarcophagus.com` | No |
@@ -36536,6 +36542,7 @@ Here's a list of public Fediverse services.
 | `quod.pl` | No |
 | `quodlibet.social` | No |
 | `quodverum.com` | No |
+| `quoi.xyz` | No |
 | `quokk.au` | No |
 | `quokka.run` | No |
 | `quoli.bet` | No |
@@ -41937,6 +41944,7 @@ Here's a list of public Fediverse services.
 | `squid.kids` | No |
 | `squiddev.cc` | Yes |
 | `squidnet.net` | No |
+| `squig.link` | No |
 | `squiggly.club` | No |
 | `squirefamily.uk` | No |
 | `squirrel.photography` | No |
@@ -45292,6 +45300,7 @@ Here's a list of public Fediverse services.
 | `tomcasavant.com` | No |
 | `tomcat.one` | Yes |
 | `tomcat.onefriendica` | No |
+| `tomczak.se` | No |
 | `tomd.org` | No |
 | `tomfinley.co` | Yes |
 | `tomfinley.com` | Yes |
@@ -48102,6 +48111,7 @@ Here's a list of public Fediverse services.
 | `vucica.net` | No |
 | `vudjun.com` | Yes |
 | `vue.land` | No |
+| `vuillaume.ovh` | No |
 | `vuju.com` | No |
 | `vulcantv.net` | No |
 | `vulgarisation-informatique.fr` | No |
@@ -49596,6 +49606,7 @@ Here's a list of public Fediverse services.
 | `xconomy.com` | Yes |
 | `xcoolgroup.com` | No |
 | `xcore.social` | No |
+| `xcreeper.xyz` | No |
 | `xcsdm.com` | Yes |
 | `xcsv.tv` | No |
 | `xd0.de` | No |
@@ -51043,8 +51054,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,504 |
-| Normal | 36,491 |
+| Cloudflare | 14,507 |
+| Normal | 36,499 |
 
 
 </details>
