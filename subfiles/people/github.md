@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Zaraz not working](https://github.com/Baroshem/nuxt-security/issues/308)
 - [TypeError: Cannot read properties of undefined (reading '_req')](https://github.com/deepgram/deepgram-node-sdk/issues/210)
 - [Update 1.8.109 Pcntl_Signal issue](https://github.com/freescout-helpdesk/freescout/issues/3565)
 - [Cannot login after enable Cloudflare proxy](https://github.com/osTicket/osTicket/issues/6645)
