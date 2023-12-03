@@ -21485,6 +21485,7 @@ Here's a list of public Fediverse services.
 | `johns-blog.de` | Yes |
 | `johns-casa.de` | Yes |
 | `johnson.gg` | No |
+| `johntheserg.al` | Yes |
 | `johntrain.org` | Yes |
 | `johnwarne.com` | Yes |
 | `johnwrogers.co.uk` | No |
@@ -51072,7 +51073,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,514 |
+| Cloudflare | 14,515 |
 | Normal | 36,510 |
 
 
