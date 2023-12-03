@@ -8181,7 +8181,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -29327,6 +29327,7 @@ Here's a list of public Fediverse services.
 | `mortzu.de` | Yes |
 | `moruorange.com` | No |
 | `morwud.cz` | No |
+| `mosasa.dog` | Yes |
 | `moseisley.club` | No |
 | `moseskaranja.com` | No |
 | `moseswynn.com` | Yes |
@@ -51085,8 +51086,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,521 |
-| Normal | 36,516 |
+| Cloudflare | 14,523 |
+| Normal | 36,515 |
 
 
 </details>
