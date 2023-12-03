@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,075 |
+| com | 8,076 |
 | social | 4,692 |
 | net | 3,976 |
 | org | 2,665 |
-| de | 2,519 |
+| de | 2,520 |
 
 
 - Mastodon, Pleroma, etc
@@ -4506,6 +4506,7 @@ Here's a list of public Fediverse services.
 | `berkeley.edu` | Yes |
 | `berkeleynoise.com` | No |
 | `berkough.com` | No |
+| `berlin-berlin.de` | No |
 | `berlin.blue` | No |
 | `berlin.social` | No |
 | `berliner-hoerspielfestival.de` | No |
@@ -12523,6 +12524,7 @@ Here's a list of public Fediverse services.
 | `eloquer.de` | No |
 | `elouworld.org` | No |
 | `eloyou.online` | Yes |
+| `elpiskey.com` | No |
 | `elpiskey.xyz` | No |
 | `elqhost.net` | No |
 | `elreino.online` | Yes |
@@ -17606,6 +17608,7 @@ Here's a list of public Fediverse services.
 | `gxtech.social` | Yes |
 | `gxvwb.dev` | No |
 | `gy.gl` | No |
+| `gyahunkoubou.biz` | No |
 | `gyara.moe` | Yes |
 | `gyhost.icu` | No |
 | `gymnastics.town` | No |
@@ -18617,7 +18620,7 @@ Here's a list of public Fediverse services.
 | `hillexplorer.com` | No |
 | `hillion.co.uk` | Yes |
 | `hilltown.studio` | No |
-| `hilmarp.com` | No |
+| `hilmarp.com` | Yes |
 | `hilmarp.social` | No |
 | `hilot06.com` | Yes |
 | `hilsbos.ch` | No |
@@ -22823,6 +22826,7 @@ Here's a list of public Fediverse services.
 | `kiraako.work` | No |
 | `kiracollie.dog` | Yes |
 | `kirakiratter.com` | Yes |
+| `kirameki.cafe` | Yes |
 | `kiran.dog` | Yes |
 | `kirangaikwad.com` | No |
 | `kiranshila.com` | No |
@@ -25105,7 +25109,7 @@ Here's a list of public Fediverse services.
 | `livelaughlove.social` | No |
 | `livelaughnude.com` | No |
 | `livellosegreto.it` | No |
-| `livem.de` | No |
+| `livem.de` | Yes |
 | `liveplatform.ca` | No |
 | `livepods.eu` | No |
 | `liverpoolfootballclub.social` | Yes |
@@ -51089,8 +51093,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,524 |
-| Normal | 36,517 |
+| Cloudflare | 14,527 |
+| Normal | 36,518 |
 
 
 </details>
