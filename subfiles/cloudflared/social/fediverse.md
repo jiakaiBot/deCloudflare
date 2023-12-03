@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,076 |
-| social | 4,694 |
+| social | 4,693 |
 | net | 3,976 |
 | org | 2,665 |
 | de | 2,520 |
@@ -12213,7 +12213,7 @@ Here's a list of public Fediverse services.
 | `eenoog.org` | No |
 | `eenyoe.net` | No |
 | `eepy.cloud` | No |
-| `eepy.moe` | No |
+| `eepy.moe` | Yes |
 | `eepy.space` | No |
 | `eepy.zone` | Yes |
 | `eepygirls.tech` | Yes |
@@ -13680,7 +13680,6 @@ Here's a list of public Fediverse services.
 | `fart.wang` | No |
 | `farted.net` | Yes |
 | `farthinghalearms.com` | No |
-| `farting.lol` | Yes |
 | `fartmail.me` | No |
 | `farts.club` | No |
 | `farts.social` | No |
@@ -19300,7 +19299,6 @@ Here's a list of public Fediverse services.
 | `hunterjozwiak.com` | No |
 | `hunterlife.net` | No |
 | `huntsvillain.com` | No |
-| `huo.me` | Yes |
 | `hupel.info` | No |
 | `hurgen.com` | No |
 | `hurley.page` | No |
@@ -27287,7 +27285,6 @@ Here's a list of public Fediverse services.
 | `mateuaguilo.com` | No |
 | `mateyko.email` | No |
 | `math.moe` | No |
-| `math.social` | No |
 | `mathan.org` | No |
 | `mathdacloud.ovh` | No |
 | `mathematicon.com` | No |
@@ -28519,7 +28516,6 @@ Here's a list of public Fediverse services.
 | `mint-nrw.social` | No |
 | `mint.lgbt` | No |
 | `mintcream.blue` | Yes |
-| `minte.ar` | Yes |
 | `minter.uno` | No |
 | `minuit.xyz` | No |
 | `minuscule.space` | Yes |
@@ -40990,7 +40986,6 @@ Here's a list of public Fediverse services.
 | `smekal.at` | No |
 | `smelly.today` | No |
 | `smenttech.com` | Yes |
-| `smevog.no` | No |
 | `smgalante.com` | Yes |
 | `smgle.com` | No |
 | `smglive.org` | No |
@@ -44131,6 +44126,7 @@ Here's a list of public Fediverse services.
 | `tgxn.net` | Yes |
 | `th-pape.de` | No |
 | `th23.org` | No |
+| `th3rdsergeevich.xyz` | No |
 | `th4music.net` | No |
 | `tha-adm.eu` | No |
 | `tha.social` | Yes |
@@ -51094,8 +51090,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,527 |
-| Normal | 36,519 |
+| Cloudflare | 14,525 |
+| Normal | 36,517 |
 
 
 </details>
