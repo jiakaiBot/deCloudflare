@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,076 |
-| social | 4,692 |
+| social | 4,694 |
 | net | 3,976 |
 | org | 2,665 |
 | de | 2,520 |
@@ -6809,6 +6809,7 @@ Here's a list of public Fediverse services.
 | `catmargue.org` | No |
 | `catnest.net` | Yes |
 | `catnip.ee` | Yes |
+| `catodon.social` | No |
 | `catona.cloud` | No |
 | `catonmat.net` | No |
 | `catoptric.com` | No |
@@ -10009,7 +10010,6 @@ Here's a list of public Fediverse services.
 | `dd-dns.de` | No |
 | `dd.works` | No |
 | `dd0s.lol` | No |
-| `ddaodan.cn` | Yes |
 | `ddcloud.info` | No |
 | `ddddd.red` | No |
 | `dddug.in` | No |
@@ -13690,6 +13690,7 @@ Here's a list of public Fediverse services.
 | `fashionsocial.host` | No |
 | `fashionviz.xyz` | No |
 | `fasil.cloud` | No |
+| `faso.social` | No |
 | `fasol.nl` | No |
 | `fasol.org` | No |
 | `fast-break.de` | No |
@@ -26455,7 +26456,7 @@ Here's a list of public Fediverse services.
 | `marchgenso.me` | No |
 | `marchingband.social` | No |
 | `marci.one` | No |
-| `marcin-lis.pl` | No |
+| `marcin-lis.pl` | Yes |
 | `marcinmalecki.pl` | No |
 | `marckalmes.com` | No |
 | `marcleroi.be` | No |
@@ -51094,7 +51095,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,527 |
-| Normal | 36,518 |
+| Normal | 36,519 |
 
 
 </details>
