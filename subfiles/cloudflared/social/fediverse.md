@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,075 |
 | social | 4,692 |
 | net | 3,976 |
-| org | 2,664 |
+| org | 2,665 |
 | de | 2,519 |
 
 
@@ -6740,6 +6740,7 @@ Here's a list of public Fediverse services.
 | `catboi.party` | No |
 | `catboomer.net` | No |
 | `catboy.agency` | No |
+| `catboy.airforce` | No |
 | `catboy.baby` | Yes |
 | `catboy.cafe` | No |
 | `catboyindustries.co` | Yes |
@@ -35578,6 +35579,7 @@ Here's a list of public Fediverse services.
 | `postear.xyz` | No |
 | `poster.place` | Yes |
 | `posterdati.it` | No |
+| `postfixnotation.org` | No |
 | `posthat.ca` | Yes |
 | `posting.institute` | No |
 | `posting.party` | Yes |
@@ -37142,6 +37144,7 @@ Here's a list of public Fediverse services.
 | `rdam.tools` | No |
 | `rdan.net` | No |
 | `rdbt.no` | No |
+| `rdcl.dev` | No |
 | `rddw.eu` | No |
 | `rdela.com` | No |
 | `rdfrn.net` | No |
@@ -51088,7 +51091,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,524 |
-| Normal | 36,515 |
+| Normal | 36,518 |
 
 
 </details>
