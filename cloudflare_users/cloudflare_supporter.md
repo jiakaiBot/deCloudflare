@@ -3406,6 +3406,7 @@ Do not create new issue or we will close it as duplicate.
 | [DroneSingh3@twitter](https://twitter.com/DroneSingh3/status/1674476180953505796) | advertise |
 | [Drop20Rain@twitter](https://twitter.com/Drop20Rain/status/1396304228126183429) | advertise |
 | [Drppc1@twitter](https://twitter.com/Drppc1/status/1594998582905802752) | advertise |
+| [DrSadiqPLAST@twitter](https://twitter.com/DrSadiqPLAST/status/1731362381714829518) | advertise |
 | [drugs1195@twitter](https://twitter.com/drugs1195/status/1399717280108318720) | advertise |
 | [DrUmarOffical@twitter](https://twitter.com/DrUmarOffical/status/1563328360780288002) | advertise |
 | [DrunkPanda31@twitter](https://twitter.com/DrunkPanda31/status/1561437014133596161) | advertise |
@@ -5614,6 +5615,7 @@ Do not create new issue or we will close it as duplicate.
 | [Imtiyaz17794109@twitter](https://twitter.com/Imtiyaz17794109/status/1388483545459351553) | advertise |
 | [imTyleri@twitter](https://twitter.com/imTyleri/status/1470833408905519107) | advertise |
 | [imveeed@twitter](https://twitter.com/imveeed/status/1671224284973236225) | advertise |
+| [imvolkankaban@twitter](https://twitter.com/imvolkankaban/status/1731387924569034835) | advertise |
 | [imwind2311@twitter](https://twitter.com/imwind2311/status/1636390314905829377) | advertise |
 | [ImxAfg@twitter](https://twitter.com/ImxAfg/status/1640840166532161542) | advertise |
 | [ImZiso@twitter](https://twitter.com/ImZiso/status/1552377179643584512) | advertise |
@@ -7993,6 +7995,7 @@ Do not create new issue or we will close it as duplicate.
 | [maiykael@twitter](https://twitter.com/maiykael/status/1402267022659104779) | advertise |
 | [MajeEmmanuel@twitter](https://twitter.com/MajeEmmanuel/status/1727869253930623455) | advertise |
 | [Majembe_boy@twitter](https://twitter.com/Majembe_boy/status/1554719903516868609) | advertise |
+| [majician_@twitter](https://twitter.com/majician_/status/1731362729003549004) | advertise |
 | [majid10485233@twitter](https://twitter.com/majid10485233/status/1583392173814616067) | advertise |
 | [majid47457865@twitter](https://twitter.com/majid47457865/status/1599085514589552640) | advertise |
 | [Majid661594081@twitter](https://twitter.com/Majid661594081/status/1401410937631002632) | advertise |
@@ -12027,6 +12030,7 @@ Do not create new issue or we will close it as duplicate.
 | [Scrimzy_@twitter](https://twitter.com/Scrimzy_/status/1380087112993632257) | advertise |
 | [ScrivHull@twitter](https://twitter.com/ScrivHull/status/1665858099272351745) | advertise |
 | [sdemanett@twitter](https://twitter.com/sdemanett/status/1396239812076638208) | advertise |
+| [sd_tks7462@twitter](https://twitter.com/sd_tks7462/status/1731377146252124548) | advertise |
 | [Sea30177376Sea@twitter](https://twitter.com/Sea30177376Sea/status/1685289378287853568) | advertise |
 | [seacles@twitter](https://twitter.com/seacles/status/1673703189760344064) | advertise |
 | [sean404052@twitter](https://twitter.com/sean404052/status/1723802433560715449) | advertise |
