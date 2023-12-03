@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Not able to download from readcomicsonline.li](https://github.com/Xonshiz/comic-dl/issues/347)
 - [HELP: struggling here with basic setup/access](https://github.com/azukaar/Cosmos-Server/issues/157)
 - [CORS Issue with Fonts Loading from a Different CDN Hostname](https://github.com/photoprism/photoprism/issues/3931)
 - [Ant Media server does't work with Cloudflare when Nginx Reverse Proxy is enabled](https://github.com/ant-media/Ant-Media-Server/issues/5877)
