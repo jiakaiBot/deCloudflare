@@ -46693,6 +46693,7 @@ Here's a list of public Fediverse services.
 | `uile.nl` | No |
 | `uilleann.pizza` | Yes |
 | `uir.org.uk` | No |
+| `uit-flix.live` | No |
 | `uitrope.com` | Yes |
 | `uitsmijter.io` | No |
 | `uiuxdev.social` | Yes |
@@ -48739,7 +48740,7 @@ Here's a list of public Fediverse services.
 | `westen.xyz` | No |
 | `westend61.de` | No |
 | `westend61.social` | No |
-| `westergaard.social` | No |
+| `westergaard.social` | Yes |
 | `westernconnect.org` | No |
 | `westmids.social` | No |
 | `westrad.de` | No |
@@ -51086,7 +51087,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,523 |
+| Cloudflare | 14,524 |
 | Normal | 36,515 |
 
 
