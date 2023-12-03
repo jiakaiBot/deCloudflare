@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,075 |
 | social | 4,691 |
-| net | 3,973 |
+| net | 3,974 |
 | org | 2,664 |
 | de | 2,516 |
 
@@ -765,6 +765,7 @@ Here's a list of public Fediverse services.
 | `82procent.nl` | No |
 | `8350x.net` | No |
 | `843.pl` | No |
+| `84bami.net` | No |
 | `850mb.net` | Yes |
 | `8633.pm` | No |
 | `868.social` | Yes |
@@ -51072,7 +51073,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,513 |
-| Normal | 36,510 |
+| Normal | 36,511 |
 
 
 </details>
