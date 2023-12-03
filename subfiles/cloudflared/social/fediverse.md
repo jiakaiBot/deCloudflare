@@ -11980,7 +11980,7 @@ Here's a list of public Fediverse services.
 | `earthseed.live` | No |
 | `earthstream.social` | No |
 | `earthsucks.com` | No |
-| `easfrq.live` | No |
+| `easfrq.live` | Yes |
 | `east17.org` | No |
 | `eastback.co.jp` | No |
 | `easter.fr` | No |
@@ -14015,6 +14015,7 @@ Here's a list of public Fediverse services.
 | `fedisocial.net` | No |
 | `fedisonic.cloud` | Yes |
 | `fedispace.de` | No |
+| `fedispace.eu` | No |
 | `fedispace.fr` | No |
 | `fedispace.ml` | No |
 | `fedisphere.net` | No |
@@ -34700,7 +34701,7 @@ Here's a list of public Fediverse services.
 | `pictclip.com` | Yes |
 | `pictic.nl` | Yes |
 | `pictochat.net` | No |
-| `pictogram.social` | No |
+| `pictogram.social` | Yes |
 | `pictureofreality.com` | No |
 | `picverse.am` | No |
 | `pid1.sh` | Yes |
@@ -36010,6 +36011,7 @@ Here's a list of public Fediverse services.
 | `prtl.cc` | No |
 | `prude.party` | No |
 | `prudent.studio` | Yes |
+| `prutsclub.nl` | No |
 | `prutser.lol` | Yes |
 | `prvcy.eu` | No |
 | `prvcy.page` | Yes |
@@ -51083,10 +51085,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,519 |
+| Cloudflare | 14,521 |
 | Normal | 36,516 |
 
 
 </details>
 
-### 28.4% of public Fediverse services are using Cloudflare.
+### 28.5% of public Fediverse services are using Cloudflare.
