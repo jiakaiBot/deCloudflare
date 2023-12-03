@@ -1199,6 +1199,7 @@ Do not create new issue or we will close it as duplicate.
 | [ArtistXoder@twitter](https://twitter.com/ArtistXoder/status/1541830277936332801) | advertise |
 | [Artur37280914@twitter](https://twitter.com/Artur37280914/status/1719067317605159139) | advertise |
 | [Arulnithish777@twitter](https://twitter.com/Arulnithish777/status/1391730535290925057) | advertise |
+| [arun0945357881@twitter](https://twitter.com/arun0945357881/status/1731397023382007891) | advertise |
 | [ArunAR46303075@twitter](https://twitter.com/ArunAR46303075/status/1387955082105290754) | advertise |
 | [ArunodManohara@twitter](https://twitter.com/ArunodManohara/status/1727693973945450499) | advertise |
 | [ArunRk28334808@twitter](https://twitter.com/ArunRk28334808/status/1395434616828268546) | advertise |
@@ -7527,6 +7528,7 @@ Do not create new issue or we will close it as duplicate.
 | [LilienthalKaleb@twitter](https://twitter.com/LilienthalKaleb/status/1622878151767650306) | advertise |
 | [Lillii412@twitter](https://twitter.com/Lillii412/status/1395707127176458243) | advertise |
 | [lilMonst4@twitter](https://twitter.com/lilMonst4/status/1577680492257755139) | advertise |
+| [lilTNlvsnPWNdXQ@twitter](https://twitter.com/lilTNlvsnPWNdXQ/status/1731397865811972217) | advertise |
 | [lily10891@twitter](https://twitter.com/lily10891/status/1681868617821081600) | advertise |
 | [LiLy19600218@twitter](https://twitter.com/LiLy19600218/status/1394904381653356544) | advertise |
 | [lil_book_of_sin@twitter](https://twitter.com/lil_book_of_sin/status/1665889040275480578) | advertise |
