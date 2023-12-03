@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,075 |
-| social | 4,691 |
-| net | 3,974 |
+| social | 4,692 |
+| net | 3,976 |
 | org | 2,664 |
-| de | 2,516 |
+| de | 2,519 |
 
 
 - Mastodon, Pleroma, etc
@@ -325,6 +325,7 @@ Here's a list of public Fediverse services.
 | `1oku.net` | No |
 | `1password.social` | No |
 | `1person.me` | No |
+| `1ppm.de` | No |
 | `1rl.social` | Yes |
 | `1stva.mp` | No |
 | `1uca.com` | No |
@@ -1477,6 +1478,7 @@ Here's a list of public Fediverse services.
 | `aikoumasanobu.com` | No |
 | `aillust.fun` | Yes |
 | `aimeee.site` | Yes |
+| `aincrad.lol` | Yes |
 | `ains-no-misskey.com` | Yes |
 | `ainsophaur.it` | No |
 | `ainyataovi.net` | No |
@@ -2547,6 +2549,7 @@ Here's a list of public Fediverse services.
 | `anton-tartz.de` | No |
 | `antonengelhardt.de` | No |
 | `antonimaroto.com` | No |
+| `antonioaugusto.net` | No |
 | `antonkovalyov.com` | No |
 | `antonlehmus.me` | No |
 | `antonovich.me` | No |
@@ -5889,6 +5892,7 @@ Here's a list of public Fediverse services.
 | `brioco.live` | No |
 | `brioco.net` | No |
 | `brioco.social` | No |
+| `bris.to` | Yes |
 | `brisingr.uk` | Yes |
 | `bristol.social` | No |
 | `bristow.ch` | Yes |
@@ -7639,6 +7643,7 @@ Here's a list of public Fediverse services.
 | `citizensgaming.com` | No |
 | `citizensoasis.com` | No |
 | `citringo.net` | No |
+| `citroen2cv.net` | No |
 | `citrouille.ch` | No |
 | `citrus.farm` | No |
 | `citrussocial.uk` | No |
@@ -17599,6 +17604,7 @@ Here's a list of public Fediverse services.
 | `gxtech.social` | Yes |
 | `gxvwb.dev` | No |
 | `gy.gl` | No |
+| `gyahunkoubou.biz` | No |
 | `gyara.moe` | Yes |
 | `gyhost.icu` | No |
 | `gymnastics.town` | No |
@@ -40479,6 +40485,7 @@ Here's a list of public Fediverse services.
 | `silverseams.com` | No |
 | `silverspine.net` | Yes |
 | `silversword.online` | Yes |
+| `silviadiessner.de` | No |
 | `silye-nielsen.cloud` | Yes |
 | `sim.onl` | No |
 | `sim.show` | Yes |
@@ -42841,6 +42848,7 @@ Here's a list of public Fediverse services.
 | `superpets.social` | No |
 | `superpromoplus.com` | No |
 | `superrad.dev` | Yes |
+| `superrad.social` | Yes |
 | `superradinternetbase.social` | Yes |
 | `supersandro.de` | Yes |
 | `superseriousbusiness.org` | No |
@@ -47715,6 +47723,7 @@ Here's a list of public Fediverse services.
 | `videosafehaven.com` | No |
 | `videosdulib.re` | No |
 | `videoshare.cc` | No |
+| `videospielgeschichten.de` | No |
 | `videotape.me` | No |
 | `videotoaster.ga` | No |
 | `videotoblin.me` | No |
@@ -50874,6 +50883,7 @@ Here's a list of public Fediverse services.
 | `zmon.tech` | Yes |
 | `zmtdn.de` | No |
 | `zmuuf.org` | No |
+| `zn.rs` | Yes |
 | `zn80.net` | No |
 | `znark.us` | No |
 | `znet.li` | No |
@@ -51073,8 +51083,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,515 |
-| Normal | 36,510 |
+| Cloudflare | 14,519 |
+| Normal | 36,516 |
 
 
 </details>
