@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CORS Issue with Fonts Loading from a Different CDN Hostname](https://github.com/photoprism/photoprism/issues/3931)
 - [Ant Media server does't work with Cloudflare when Nginx Reverse Proxy is enabled](https://github.com/ant-media/Ant-Media-Server/issues/5877)
 - [openai api doesn't seem to work correctly](https://github.com/LostRuins/koboldcpp/issues/546)
 - [isServer() Is Incorrect if Frontend Adds Global process Var](https://github.com/deepgram/deepgram-node-sdk/issues/211)
