@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,074 |
+| com | 8,075 |
 | social | 4,691 |
 | net | 3,973 |
 | org | 2,664 |
@@ -8175,7 +8175,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -35310,7 +35310,7 @@ Here's a list of public Fediverse services.
 | `pogge.rs` | Yes |
 | `poggerinos.ml` | No |
 | `poggers.lgbt` | Yes |
-| `poggers.social` | Yes |
+| `poggers.social` | No |
 | `poggersinc.com` | Yes |
 | `pogging.fish` | Yes |
 | `poggiolo.org` | No |
@@ -44265,6 +44265,7 @@ Here's a list of public Fediverse services.
 | `thecat.fish` | Yes |
 | `thecave.social` | No |
 | `thecelticsyndicate.com` | No |
+| `thecentralfinitecurve.com` | Yes |
 | `thechad.zone` | No |
 | `thechairman.info` | No |
 | `thechangebook.org` | No |
@@ -51070,8 +51071,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,514 |
-| Normal | 36,508 |
+| Cloudflare | 14,513 |
+| Normal | 36,510 |
 
 
 </details>
