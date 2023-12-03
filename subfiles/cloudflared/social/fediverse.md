@@ -17606,7 +17606,6 @@ Here's a list of public Fediverse services.
 | `gxtech.social` | Yes |
 | `gxvwb.dev` | No |
 | `gy.gl` | No |
-| `gyahunkoubou.biz` | No |
 | `gyara.moe` | Yes |
 | `gyhost.icu` | No |
 | `gymnastics.town` | No |
@@ -51091,7 +51090,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,524 |
-| Normal | 36,518 |
+| Normal | 36,517 |
 
 
 </details>
