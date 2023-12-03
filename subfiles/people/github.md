@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Using Shrine with Cloudflare R2 causes error Aws::S3::Errors::NotImplemented - x-amz-tagging](https://github.com/shrinerb/shrine/issues/662)
 - [Not able to download from readcomicsonline.li](https://github.com/Xonshiz/comic-dl/issues/347)
 - [HELP: struggling here with basic setup/access](https://github.com/azukaar/Cosmos-Server/issues/157)
 - [CORS Issue with Fonts Loading from a Different CDN Hostname](https://github.com/photoprism/photoprism/issues/3931)
