@@ -17115,7 +17115,7 @@ Here's a list of public Fediverse services.
 | `gourmetkater.com` | No |
 | `gourry.zip` | Yes |
 | `gouttedeau.space` | Yes |
-| `gouwo.dev` | Yes |
+| `gouwo.dev` | No |
 | `gov.casa` | Yes |
 | `govanify.com` | No |
 | `govegan.today` | Yes |
@@ -32187,7 +32187,7 @@ Here's a list of public Fediverse services.
 | `nuevo.jp` | No |
 | `nufu.social` | No |
 | `nugen.me` | Yes |
-| `nugget.social` | Yes |
+| `nugget.social` | No |
 | `nugol.net` | No |
 | `nuisance.site` | Yes |
 | `nuka.tech` | No |
@@ -32427,7 +32427,7 @@ Here's a list of public Fediverse services.
 | `oak.social` | No |
 | `oakfire.com` | No |
 | `oaks.rocks` | No |
-| `oakver.online` | Yes |
+| `oakver.online` | No |
 | `oalm.gub.uy` | No |
 | `oar-online.uk` | No |
 | `oark.org` | No |
@@ -44356,6 +44356,7 @@ Here's a list of public Fediverse services.
 | `theflyingjustice.net` | No |
 | `thefolklore.cafe` | No |
 | `thefooty.club` | Yes |
+| `theformer.faith` | No |
 | `thefourthdev.work` | No |
 | `thefoxandalien.club` | No |
 | `thefoxon.ru` | Yes |
@@ -50200,7 +50201,7 @@ Here's a list of public Fediverse services.
 | `yiff.life` | Yes |
 | `yiff.nz` | No |
 | `yiff.rocks` | Yes |
-| `yiff.social` | Yes |
+| `yiff.social` | No |
 | `yiffit.net` | Yes |
 | `yiffyfosque.com` | No |
 | `yihangho.com` | Yes |
@@ -51069,10 +51070,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,518 |
-| Normal | 36,503 |
+| Cloudflare | 14,514 |
+| Normal | 36,508 |
 
 
 </details>
 
-### 28.5% of public Fediverse services are using Cloudflare.
+### 28.4% of public Fediverse services are using Cloudflare.
