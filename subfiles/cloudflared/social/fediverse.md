@@ -4917,6 +4917,7 @@ Here's a list of public Fediverse services.
 | `bitcointv.net` | No |
 | `bitdepth.org` | No |
 | `bitdown.net` | No |
+| `bitdrift.io` | Yes |
 | `bitflip.jetzt` | No |
 | `bitfolk.com` | No |
 | `bitfroest.cloud` | No |
@@ -32344,7 +32345,7 @@ Here's a list of public Fediverse services.
 | `nyaa.app` | Yes |
 | `nyaa.io` | No |
 | `nyaa.place` | No |
-| `nyaa.social` | No |
+| `nyaa.social` | Yes |
 | `nyaa.tech` | Yes |
 | `nyaaa.net` | No |
 | `nyaafire.com` | No |
@@ -51091,8 +51092,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,515 |
-| Normal | 36,528 |
+| Cloudflare | 14,517 |
+| Normal | 36,527 |
 
 
 </details>
