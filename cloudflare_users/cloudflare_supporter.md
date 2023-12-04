@@ -4313,6 +4313,7 @@ Do not create new issue or we will close it as duplicate.
 | [GLIZZY49306620@twitter](https://twitter.com/GLIZZY49306620/status/1393570520843493382) | advertise |
 | [global354921@twitter](https://twitter.com/global354921/status/1393984954078400513) | advertise |
 | [globalgamerguy@twitter](https://twitter.com/globalgamerguy/status/1658526706687148049) | advertise |
+| [GlobeTechnologi@twitter](https://twitter.com/GlobeTechnologi/status/1731577384921698673) | advertise |
 | [GloriaThein2022@twitter](https://twitter.com/GloriaThein2022/status/1723751000799056355) | advertise |
 | [GLsaisai@twitter](https://twitter.com/GLsaisai/status/1394137969024401410) | advertise |
 | [GMinzolt@twitter](https://twitter.com/GMinzolt/status/1516134801056575491) | advertise |
