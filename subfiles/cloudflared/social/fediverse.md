@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,080 |
 | social | 4,693 |
-| net | 3,979 |
+| net | 3,980 |
 | org | 2,666 |
 | de | 2,520 |
 
@@ -7910,6 +7910,7 @@ Here's a list of public Fediverse services.
 | `cm-social.com` | Yes |
 | `cmails.de` | No |
 | `cmars.tech` | No |
+| `cmccullough.net` | No |
 | `cmck.io` | No |
 | `cmd.social` | No |
 | `cmdfoo.com` | No |
@@ -51110,7 +51111,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,525 |
-| Normal | 36,536 |
+| Normal | 36,537 |
 
 
 </details>
