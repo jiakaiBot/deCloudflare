@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,076 |
 | social | 4,693 |
-| net | 3,977 |
+| net | 3,978 |
 | org | 2,665 |
 | de | 2,520 |
 
@@ -14717,7 +14717,7 @@ Here's a list of public Fediverse services.
 | `flowersound.social` | No |
 | `flowertea.uk` | Yes |
 | `flowinho.com` | Yes |
-| `flowinho.de` | No |
+| `flowinho.de` | Yes |
 | `flowlab5.social` | No |
 | `flownative.social` | No |
 | `flownet.fr` | No |
@@ -48501,6 +48501,7 @@ Here's a list of public Fediverse services.
 | `wearejust.men` | No |
 | `weareluck.org` | No |
 | `wearemastodon.com` | No |
+| `weareprolife.net` | No |
 | `weaselshit.com` | No |
 | `weatherby2378.social` | No |
 | `weatherishappening.network` | No |
@@ -51092,7 +51093,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,517 |
+| Cloudflare | 14,518 |
 | Normal | 36,527 |
 
 
