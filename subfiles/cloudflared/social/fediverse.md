@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,076 |
+| com | 8,079 |
 | social | 4,693 |
-| net | 3,978 |
-| org | 2,665 |
+| net | 3,979 |
+| org | 2,666 |
 | de | 2,520 |
 
 
@@ -2879,6 +2879,7 @@ Here's a list of public Fediverse services.
 | `arion.social` | No |
 | `ariona.fr` | No |
 | `ariscard.eu` | Yes |
+| `arisskey.net` | No |
 | `ariste.info` | No |
 | `arisu.fr` | No |
 | `ariswanto.web.id` | Yes |
@@ -3097,6 +3098,7 @@ Here's a list of public Fediverse services.
 | `asciisnowman.yachts` | Yes |
 | `ascll.net` | No |
 | `ascorcluj.com` | No |
+| `ascosilinux.com` | No |
 | `ascraeus.org` | No |
 | `ascyltos.social` | No |
 | `asdf.cafe` | Yes |
@@ -14260,6 +14262,7 @@ Here's a list of public Fediverse services.
 | `feshiba.me` | No |
 | `fesse.pet` | No |
 | `feste-ip.net` | No |
+| `festinalente.earth` | No |
 | `festival.tf` | No |
 | `festivalparminous.org` | No |
 | `festland.social` | No |
@@ -14997,6 +15000,7 @@ Here's a list of public Fediverse services.
 | `four-nine.club` | No |
 | `fourbrickstall.com` | Yes |
 | `fourhappylions.com` | No |
+| `fournieit.com` | Yes |
 | `fouroclockfarms.club` | No |
 | `fourth-brigade.jp` | No |
 | `fourthestate.social` | No |
@@ -24097,6 +24101,7 @@ Here's a list of public Fediverse services.
 | `lavraievie.social` | No |
 | `law-and-politics.online` | No |
 | `law.builders` | No |
+| `law03.com` | No |
 | `lawanalysis.org` | No |
 | `lawfam.cloud` | No |
 | `lawfedi.blue` | Yes |
@@ -25120,6 +25125,7 @@ Here's a list of public Fediverse services.
 | `livespins.com` | Yes |
 | `livespins.social` | Yes |
 | `livester.net` | Yes |
+| `livestream.watch` | No |
 | `livetube.cc` | Yes |
 | `liveunix.org` | No |
 | `liveview.cf` | No |
@@ -33612,6 +33618,7 @@ Here's a list of public Fediverse services.
 | `ovo.blue` | No |
 | `ovo.pink` | Yes |
 | `ovo.st` | Yes |
+| `ovr.today` | No |
 | `ovrtn.com` | Yes |
 | `ow3.cn` | No |
 | `owari.nl` | No |
@@ -33650,6 +33657,7 @@ Here's a list of public Fediverse services.
 | `owo.monster` | No |
 | `owo.rs` | Yes |
 | `owo.sg` | Yes |
+| `owo.solutions` | Yes |
 | `owo.town` | No |
 | `owo69.me` | Yes |
 | `owonet.work` | Yes |
@@ -45051,6 +45059,7 @@ Here's a list of public Fediverse services.
 | `timon.sh` | No |
 | `timotheejulien.fr` | No |
 | `timothychambers.net` | No |
+| `timothyhay.org` | Yes |
 | `timowens.io` | No |
 | `timowensby.com` | No |
 | `timprobst.com` | No |
@@ -45822,6 +45831,7 @@ Here's a list of public Fediverse services.
 | `transliminal.space` | No |
 | `translunar.academy` | No |
 | `transmas.cyou` | No |
+| `transmit.love` | No |
 | `transmit.social` | No |
 | `transmitter.social` | No |
 | `transmom.love` | No |
@@ -51093,8 +51103,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,518 |
-| Normal | 36,527 |
+| Cloudflare | 14,521 |
+| Normal | 36,534 |
 
 
 </details>
