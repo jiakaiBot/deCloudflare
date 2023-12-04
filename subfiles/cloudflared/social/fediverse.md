@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,080 |
 | social | 4,693 |
 | net | 3,980 |
-| org | 2,666 |
+| org | 2,667 |
 | de | 2,520 |
 
 
@@ -14123,6 +14123,7 @@ Here's a list of public Fediverse services.
 | `fedposting.site` | No |
 | `fedre.land` | No |
 | `fedspace.online` | No |
+| `fedward.org` | No |
 | `fedyya.net` | No |
 | `fee.org` | Yes |
 | `feed.casa` | No |
@@ -22398,6 +22399,7 @@ Here's a list of public Fediverse services.
 | `kbt.social` | No |
 | `kc4kqe.org` | Yes |
 | `kc8jc.com` | No |
+| `kc9unz.me` | No |
 | `kcdon.jp` | No |
 | `kcl.academy` | No |
 | `kclc.us` | No |
@@ -51111,7 +51113,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,525 |
-| Normal | 36,537 |
+| Normal | 36,539 |
 
 
 </details>
