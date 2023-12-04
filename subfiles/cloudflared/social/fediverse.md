@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,076 |
 | social | 4,693 |
-| net | 3,976 |
+| net | 3,977 |
 | org | 2,665 |
 | de | 2,520 |
 
@@ -794,7 +794,7 @@ Here's a list of public Fediverse services.
 | `8th.world` | No |
 | `8tracks.com` | Yes |
 | `8w.ee` | Yes |
-| `9-5.online` | Yes |
+| `9-5.online` | No |
 | `9021007.xyz` | Yes |
 | `906070809.com` | No |
 | `907.life` | No |
@@ -24133,7 +24133,7 @@ Here's a list of public Fediverse services.
 | `lazybitfield.me` | No |
 | `lazycats.xyz` | No |
 | `lazydog.blog` | No |
-| `lazygamers.club` | Yes |
+| `lazygamers.club` | No |
 | `lazyhoge.foo` | No |
 | `lazyone.fr` | No |
 | `lazysoci.al` | Yes |
@@ -27168,7 +27168,7 @@ Here's a list of public Fediverse services.
 | `mastodonte.me` | Yes |
 | `mastodonte.ml` | No |
 | `mastodonte.online` | Yes |
-| `mastodonte.org` | Yes |
+| `mastodonte.org` | No |
 | `mastodonte.quebec` | No |
 | `mastodonte.red` | Yes |
 | `mastodonte.social` | Yes |
@@ -27298,7 +27298,7 @@ Here's a list of public Fediverse services.
 | `mathstodon.xyz` | No |
 | `mathtod.online` | Yes |
 | `mathtodon.com` | No |
-| `mathtodon.social` | Yes |
+| `mathtodon.social` | No |
 | `mathys.io` | Yes |
 | `mathys.social` | No |
 | `matias49.eu` | No |
@@ -28049,7 +28049,7 @@ Here's a list of public Fediverse services.
 | `meu.space` | No |
 | `meuschke.cloud` | No |
 | `meutel.net` | No |
-| `mevideo.host` | Yes |
+| `mevideo.host` | No |
 | `mevo.xyz` | No |
 | `mew.cat` | Yes |
 | `mew.lgbt` | No |
@@ -40044,7 +40044,7 @@ Here's a list of public Fediverse services.
 | `shanecav.net` | Yes |
 | `shanet.ie` | No |
 | `shanghaifantasy.com` | Yes |
-| `shanghaifantasy.social` | Yes |
+| `shanghaifantasy.social` | No |
 | `shangri-la.cloud` | No |
 | `shangtai.net` | No |
 | `shannonmcmaster.com` | No |
@@ -42357,7 +42357,7 @@ Here's a list of public Fediverse services.
 | `stimky.one` | No |
 | `stiniog.social` | No |
 | `stinkt.online` | No |
-| `stinkytoot.social` | Yes |
+| `stinkytoot.social` | No |
 | `stiripeweb.xyz` | No |
 | `stix.top` | No |
 | `stkr.dev` | Yes |
@@ -47628,6 +47628,7 @@ Here's a list of public Fediverse services.
 | `verr.cc` | No |
 | `verse.jp` | No |
 | `versionfeeds.com` | Yes |
+| `versme.net` | Yes |
 | `verstandlxs.com` | Yes |
 | `verteiltegedanken.de` | No |
 | `vertexspew.social` | No |
@@ -47762,7 +47763,7 @@ Here's a list of public Fediverse services.
 | `vignette.cloud` | No |
 | `viid.ga` | No |
 | `viidalepp.me` | No |
-| `viisphere.me` | Yes |
+| `viisphere.me` | No |
 | `vijf.life` | Yes |
 | `vikavo.lt` | No |
 | `viking-gaming.community` | No |
@@ -50089,7 +50090,7 @@ Here's a list of public Fediverse services.
 | `yambo.social` | No |
 | `yampp.de` | No |
 | `yamr.cc` | No |
-| `yams.lol` | Yes |
+| `yams.lol` | No |
 | `yan.io` | No |
 | `yancya.club` | No |
 | `yandere.cc` | Yes |
@@ -51090,10 +51091,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,525 |
-| Normal | 36,517 |
+| Cloudflare | 14,517 |
+| Normal | 36,526 |
 
 
 </details>
 
-### 28.5% of public Fediverse services are using Cloudflare.
+### 28.4% of public Fediverse services are using Cloudflare.
