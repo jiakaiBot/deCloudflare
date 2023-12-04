@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Docs: How to use Cache API in cloudflare module worker with nitro](https://github.com/unjs/nitro/issues/1982)
 - [Using Shrine with Cloudflare R2 causes error Aws::S3::Errors::NotImplemented - x-amz-tagging](https://github.com/shrinerb/shrine/issues/662)
 - [Not able to download from readcomicsonline.li](https://github.com/Xonshiz/comic-dl/issues/347)
 - [HELP: struggling here with basic setup/access](https://github.com/azukaar/Cosmos-Server/issues/157)
