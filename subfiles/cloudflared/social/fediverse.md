@@ -23291,6 +23291,7 @@ Here's a list of public Fediverse services.
 | `koppermann-itk.de` | No |
 | `koprulu.me` | No |
 | `korako.me` | Yes |
+| `korange.work` | Yes |
 | `koray.al` | Yes |
 | `korber.fr` | No |
 | `korbip.de` | No |
@@ -51112,7 +51113,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,525 |
+| Cloudflare | 14,526 |
 | Normal | 36,539 |
 
 
