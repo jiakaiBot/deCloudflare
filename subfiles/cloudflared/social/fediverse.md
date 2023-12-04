@@ -2485,7 +2485,7 @@ Here's a list of public Fediverse services.
 | `antani.pm` | No |
 | `antanst.com` | No |
 | `antarctic.ga` | No |
-| `antaresph.dev` | No |
+| `antaresph.dev` | Yes |
 | `antaresx.ch` | No |
 | `antelopelovefan.com` | No |
 | `antemeridiem.xyz` | No |
@@ -18567,6 +18567,7 @@ Here's a list of public Fediverse services.
 | `hidemyfap.com` | No |
 | `hideo54.com` | Yes |
 | `hideout.dk` | No |
+| `hideouts.space` | No |
 | `hidupku.info` | Yes |
 | `hidupmanis.studio` | Yes |
 | `hidyn.com` | Yes |
@@ -19044,6 +19045,7 @@ Here's a list of public Fediverse services.
 | `hoshipaso.info` | No |
 | `hoshipaso.net` | Yes |
 | `hoshisaki-h.com` | Yes |
+| `hoshito.dev` | Yes |
 | `hosimati.net` | Yes |
 | `hosnet.fr` | No |
 | `hosszu.social` | No |
@@ -51103,7 +51105,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,521 |
+| Cloudflare | 14,523 |
 | Normal | 36,534 |
 
 
