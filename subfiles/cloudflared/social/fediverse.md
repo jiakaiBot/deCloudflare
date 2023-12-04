@@ -10984,6 +10984,7 @@ Here's a list of public Fediverse services.
 | `distantends.net` | No |
 | `distilled.pm` | Yes |
 | `distilled.pub` | No |
+| `distinctivestatic.me` | No |
 | `distnode.com` | No |
 | `distopico.info` | No |
 | `distortions.net` | No |
@@ -51114,7 +51115,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,526 |
-| Normal | 36,539 |
+| Normal | 36,540 |
 
 
 </details>
