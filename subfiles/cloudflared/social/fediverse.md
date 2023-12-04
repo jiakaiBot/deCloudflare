@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,079 |
+| com | 8,080 |
 | social | 4,693 |
 | net | 3,979 |
 | org | 2,666 |
@@ -9790,6 +9790,7 @@ Here's a list of public Fediverse services.
 | `darnell.tv` | No |
 | `darosaweb.com.br` | No |
 | `darpsindustries.com` | No |
+| `darrenhester.com` | No |
 | `darrenord.co.uk` | Yes |
 | `darringaming.com` | No |
 | `dartboard.social` | No |
@@ -19495,6 +19496,7 @@ Here's a list of public Fediverse services.
 | `iamtakagi.net` | Yes |
 | `iamtalon.me` | No |
 | `iamterminally.online` | No |
+| `iamthecookie.monster` | No |
 | `iamveryti.red` | Yes |
 | `ian.mn` | Yes |
 | `ian.sh` | No |
@@ -25965,6 +25967,7 @@ Here's a list of public Fediverse services.
 | `macbeth.cc` | Yes |
 | `macbury.ninja` | Yes |
 | `macchinar.io` | No |
+| `macconsultant.nl` | No |
 | `mace.au` | Yes |
 | `mace.lol` | Yes |
 | `mace.social` | No |
@@ -44752,7 +44755,7 @@ Here's a list of public Fediverse services.
 | `thewinter.space` | No |
 | `thewired.link` | Yes |
 | `thewired.ml` | No |
-| `thewired.online` | No |
+| `thewired.online` | Yes |
 | `thewired.wtf` | No |
 | `thewired.xyz` | No |
 | `thewired.zone` | Yes |
@@ -51106,8 +51109,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,524 |
-| Normal | 36,534 |
+| Cloudflare | 14,525 |
+| Normal | 36,536 |
 
 
 </details>
