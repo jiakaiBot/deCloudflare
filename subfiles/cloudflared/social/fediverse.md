@@ -23802,6 +23802,7 @@ Here's a list of public Fediverse services.
 | `lac.one` | No |
 | `laca.dev` | No |
 | `lacajita.es` | No |
+| `lacalligramme.fr` | No |
 | `lacan.net` | No |
 | `lacasa.ovh` | Yes |
 | `lacaveatonton.ovh` | No |
@@ -49969,7 +49970,7 @@ Here's a list of public Fediverse services.
 | `xst.cl` | No |
 | `xsteadfastx.org` | No |
 | `xsukax.com` | No |
-| `xsukax.net` | No |
+| `xsukax.net` | Yes |
 | `xtaldave.net` | No |
 | `xtendxbox.com` | Yes |
 | `xtenz.xyz` | No |
@@ -51105,7 +51106,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,523 |
+| Cloudflare | 14,524 |
 | Normal | 36,534 |
 
 
