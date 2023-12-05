@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,086 |
+| com | 8,088 |
 | social | 4,695 |
 | net | 3,982 |
 | org | 2,667 |
@@ -30455,6 +30455,7 @@ Here's a list of public Fediverse services.
 | `namknat.win` | No |
 | `namok.be` | No |
 | `namt.uk` | Yes |
+| `namtao.com` | No |
 | `namtari.com` | Yes |
 | `namtsui.com` | No |
 | `namwen.me` | No |
@@ -37315,6 +37316,7 @@ Here's a list of public Fediverse services.
 | `redcook.social` | No |
 | `redcry.eu` | No |
 | `redd.live` | Yes |
+| `reddeet.com` | Yes |
 | `reddeth.com` | No |
 | `reddrefuge.com` | Yes |
 | `reddthat.com` | Yes |
@@ -51135,8 +51137,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,521 |
-| Normal | 36,566 |
+| Cloudflare | 14,522 |
+| Normal | 36,567 |
 
 
 </details>
