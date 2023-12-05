@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,082 |
+| com | 8,084 |
 | social | 4,695 |
 | net | 3,982 |
 | org | 2,667 |
@@ -9553,6 +9553,7 @@ Here's a list of public Fediverse services.
 | `daiko.fr` | No |
 | `daily.surf` | No |
 | `dailydoseofpony.com` | No |
+| `dailymiscellany.com` | No |
 | `dailysouthafrican.co.za` | No |
 | `dailytechnewsshow.com` | Yes |
 | `dailywebthing.com` | No |
@@ -10964,6 +10965,7 @@ Here's a list of public Fediverse services.
 | `displ.eu` | No |
 | `displaced.social` | No |
 | `displayeurope.social` | No |
+| `displayeurope.video` | No |
 | `disputemag.com` | No |
 | `disqordia.space` | No |
 | `disquette.top` | No |
@@ -35516,6 +35518,7 @@ Here's a list of public Fediverse services.
 | `poorlifechoices.moe` | No |
 | `poorlyrendered.com` | Yes |
 | `pop-in-don.com` | No |
+| `pop.eu.com` | No |
 | `pop.zone` | No |
 | `pop42.net` | No |
 | `popagandhi.com` | No |
@@ -51130,7 +51133,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,519 |
-| Normal | 36,562 |
+| Normal | 36,565 |
 
 
 </details>
