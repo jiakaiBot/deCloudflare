@@ -25340,6 +25340,7 @@ Here's a list of public Fediverse services.
 | `loli.exposed` | No |
 | `loli.mk` | Yes |
 | `loli.pizza` | Yes |
+| `loli.vodka` | No |
 | `lolibox.dev` | No |
 | `lolic.at` | Yes |
 | `lolicon.rocks` | No |
@@ -47761,6 +47762,7 @@ Here's a list of public Fediverse services.
 | `videotoaster.ga` | No |
 | `videotoblin.me` | No |
 | `videotry.de` | No |
+| `videovortex.tv` | Yes |
 | `vidicon.org` | Yes |
 | `viditube.site` | Yes |
 | `vidja.social` | No |
@@ -51117,8 +51119,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,514 |
-| Normal | 36,555 |
+| Cloudflare | 14,515 |
+| Normal | 36,556 |
 
 
 </details>
