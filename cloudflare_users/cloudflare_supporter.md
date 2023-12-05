@@ -259,6 +259,7 @@ Do not create new issue or we will close it as duplicate.
 | [aarontexas123@twitter](https://twitter.com/aarontexas123/status/1520027136425226240) | advertise |
 | [aartibsin@twitter](https://twitter.com/aartibsin/status/1503035800153432070) | advertise |
 | [Aarush82908218@twitter](https://twitter.com/Aarush82908218/status/1383700007111467012) | advertise |
+| [AAshater@twitter](https://twitter.com/AAshater/status/1732119166088270040) | advertise |
 | [AashirBg@twitter](https://twitter.com/AashirBg/status/1411697775406837764) | moral (advertise) |
 | [AAunghteik@twitter](https://twitter.com/AAunghteik/status/1391426267321442310) | advertise |
 | [aayuspi@twitter](https://twitter.com/aayuspi/status/1654062572126044172) | advertise |
@@ -10863,6 +10864,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pond0912@twitter](https://twitter.com/Pond0912/status/1479250773233975297) | advertise |
 | [pongpetxima@twitter](https://twitter.com/pongpetxima/status/1412884176534048769) | moral (advertise) |
 | [Pongsak25990264@twitter](https://twitter.com/Pongsak25990264/status/1390733516778864640) | advertise |
+| [Pongsat23712437@twitter](https://twitter.com/Pongsat23712437/status/1732124484369514794) | advertise |
 | [pongtiwat_blue@twitter](https://twitter.com/pongtiwat_blue/status/1399366953886752771) | advertise |
 | [PONKUNGS2@twitter](https://twitter.com/PONKUNGS2/status/1608478951802044416) | advertise |
 | [pontakorn322@twitter](https://twitter.com/pontakorn322/status/1559225662363144193) | advertise |
