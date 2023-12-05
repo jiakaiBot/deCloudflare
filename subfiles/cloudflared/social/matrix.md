@@ -30,6 +30,7 @@ Here's a list of public Matrix services.
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
 | breeze.town | No |
+| matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -73,7 +74,7 @@ Here's a list of public Matrix services.
 | mtrx.nz | No |
 | nitro.chat | No |
 | nope.chat | No |
-| matrix.norge.chat | Yes |
+| matrix.oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
 | matrix.perthchat.org | Yes |
@@ -109,8 +110,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 19 |
-| Normal | 63 |
+| Cloudflare | 18 |
+| Normal | 65 |
 
 
-### 23.2% of public Matrix services are using Cloudflare.
+### 21.7% of public Matrix services are using Cloudflare.
