@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,088 |
 | social | 4,695 |
-| net | 3,982 |
+| net | 3,983 |
 | org | 2,667 |
 | de | 2,522 |
 
@@ -2117,6 +2117,7 @@ Here's a list of public Fediverse services.
 | `amitgawande.com` | No |
 | `amity.zone` | No |
 | `amiva.cc` | No |
+| `amiverse.net` | No |
 | `amk.ie` | Yes |
 | `amk.pub` | No |
 | `aml.ink` | Yes |
@@ -2907,7 +2908,7 @@ Here's a list of public Fediverse services.
 | `arkmag.rocks` | No |
 | `arkproject.io` | Yes |
 | `arkros.net` | No |
-| `arks.cafe` | No |
+| `arks.cafe` | Yes |
 | `arks.social` | No |
 | `arktos.social` | No |
 | `arkunkel.de` | No |
@@ -18682,6 +18683,7 @@ Here's a list of public Fediverse services.
 | `hinter.bayern` | No |
 | `hintersphere.com` | No |
 | `hintertomb.net` | Yes |
+| `hintertupf.ing` | No |
 | `hintz.social` | Yes |
 | `hinzundcode.social` | No |
 | `hip-hop.social` | No |
@@ -51141,8 +51143,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,522 |
-| Normal | 36,571 |
+| Cloudflare | 14,523 |
+| Normal | 36,572 |
 
 
 </details>
