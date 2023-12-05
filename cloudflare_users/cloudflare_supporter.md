@@ -555,6 +555,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aiman9485805893@twitter](https://twitter.com/Aiman9485805893/status/1580871351073935360) | advertise |
 | [Aimanfi96226499@twitter](https://twitter.com/Aimanfi96226499/status/1397104510128975872) | advertise |
 | [AimanPatwary@twitter](https://twitter.com/AimanPatwary/status/1469638121310461959) | advertise |
+| [AimArafat@twitter](https://twitter.com/AimArafat/status/1732079262088474877) | advertise |
 | [AimzBryan@twitter](https://twitter.com/AimzBryan/status/1387214969381560321) | advertise |
 | [aintcoolman@twitter](https://twitter.com/aintcoolman/status/1640371599802273792) | advertise |
 | [airand20@twitter](https://twitter.com/airand20/status/1636835507878633472) | advertise |
@@ -2596,6 +2597,7 @@ Do not create new issue or we will close it as duplicate.
 | [CJhaykal@twitter](https://twitter.com/CJhaykal/status/1612443718010966016) | advertise |
 | [cjmjapay@twitter](https://twitter.com/cjmjapay/status/1657305227962499073) | advertise |
 | [Ck30553721@twitter](https://twitter.com/Ck30553721/status/1392149231826133005) | advertise |
+| [CKemetao83419@twitter](https://twitter.com/CKemetao83419/status/1732081057695138155) | advertise |
 | [ckm98qqw2r1@twitter](https://twitter.com/ckm98qqw2r1/status/1586021227667525633) | advertise |
 | [Cky03556663@twitter](https://twitter.com/Cky03556663/status/1391966836149809159) | advertise |
 | [cL97120100@twitter](https://twitter.com/cL97120100/status/1629013636718170112) | advertise |
@@ -11469,6 +11471,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ricky87282850@twitter](https://twitter.com/Ricky87282850/status/1397162246476754945) | advertise |
 | [rickyhuy9x@twitter](https://twitter.com/rickyhuy9x/status/1385638174790098950) | advertise |
 | [ricojames92@twitter](https://twitter.com/ricojames92/status/1380005971439710208) | advertise |
+| [ricoonola@twitter](https://twitter.com/ricoonola/status/1732077628327092382) | advertise |
 | [ricstackz@twitter](https://twitter.com/ricstackz/status/1549458641056681984) | advertise |
 | [Riddh19@twitter](https://twitter.com/Riddh19/status/1383476535806423054) | advertise |
 | [riddle_raye@twitter](https://twitter.com/riddle_raye/status/1485703504194908162) | advertise |
@@ -12485,6 +12488,7 @@ Do not create new issue or we will close it as duplicate.
 | [snowbunnymother@twitter](https://twitter.com/snowbunnymother/status/1399210217276162052) | advertise |
 | [snowy182017@twitter](https://twitter.com/snowy182017/status/1392724631753150467) | advertise |
 | [SnowYati@twitter](https://twitter.com/SnowYati/status/1575097077277003777) | advertise |
+| [snud17533170@twitter](https://twitter.com/snud17533170/status/1732082107206467752) | advertise |
 | [SnXn39618151@twitter](https://twitter.com/SnXn39618151/status/1500447892665823233) | advertise |
 | [sn_bsb@twitter](https://twitter.com/sn_bsb/status/1664284881843806211) | advertise |
 | [soangtwt@twitter](https://twitter.com/soangtwt/status/1519443593572020224) | advertise |
