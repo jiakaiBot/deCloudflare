@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,695 |
 | net | 3,982 |
 | org | 2,667 |
-| de | 2,520 |
+| de | 2,521 |
 
 
 - Mastodon, Pleroma, etc
@@ -12950,6 +12950,7 @@ Here's a list of public Fediverse services.
 | `ericwalk.net` | No |
 | `ericwbailey.website` | No |
 | `eridi.us` | No |
+| `erik365.blog` | No |
 | `erikkemp.eu` | No |
 | `erikxxon.se` | No |
 | `erin.lgbt` | No |
@@ -37277,6 +37278,7 @@ Here's a list of public Fediverse services.
 | `recherche-et-cie.org` | No |
 | `recht.social` | No |
 | `rechthervormers.nl` | No |
+| `rechtscafe.de` | No |
 | `rechtsehippies.nl` | No |
 | `recipes.exchange` | No |
 | `reck.dk` | Yes |
@@ -49502,6 +49504,7 @@ Here's a list of public Fediverse services.
 | `wsvn.com` | No |
 | `wt21.de` | No |
 | `wtal.social` | No |
+| `wtchwtch.boo` | No |
 | `wtf.sh` | No |
 | `wtf.social` | Yes |
 | `wtfayla.net` | No |
@@ -51138,7 +51141,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,522 |
-| Normal | 36,567 |
+| Normal | 36,570 |
 
 
 </details>
