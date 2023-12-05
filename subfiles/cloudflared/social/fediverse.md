@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,082 |
 | social | 4,695 |
-| net | 3,981 |
+| net | 3,982 |
 | org | 2,667 |
 | de | 2,520 |
 
@@ -2788,6 +2788,7 @@ Here's a list of public Fediverse services.
 | `archandle.net` | No |
 | `archereon.link` | No |
 | `archeron.eu` | No |
+| `archexart.net` | No |
 | `archfiend.org` | Yes |
 | `archi.pp.ua` | No |
 | `archie.party` | No |
@@ -51129,7 +51130,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,519 |
-| Normal | 36,561 |
+| Normal | 36,562 |
 
 
 </details>
