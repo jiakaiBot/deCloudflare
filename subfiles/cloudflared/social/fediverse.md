@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,082 |
-| social | 4,693 |
+| social | 4,694 |
 | net | 3,980 |
 | org | 2,667 |
 | de | 2,520 |
@@ -3672,6 +3672,7 @@ Here's a list of public Fediverse services.
 | `ayano.jp` | No |
 | `ayatovr.com` | No |
 | `ayatovr.dev` | No |
+| `ayatovr.jp` | No |
 | `ayco.io` | No |
 | `ayden.life` | Yes |
 | `ayeri.de` | No |
@@ -48901,6 +48902,7 @@ Here's a list of public Fediverse services.
 | `whoseknowledge.social` | No |
 | `whovian.social` | Yes |
 | `whoz.me` | No |
+| `whut.social` | Yes |
 | `whydoesntmycode.work` | No |
 | `whymark.net` | Yes |
 | `whymark.social` | Yes |
@@ -51119,8 +51121,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,515 |
-| Normal | 36,556 |
+| Cloudflare | 14,516 |
+| Normal | 36,557 |
 
 
 </details>
