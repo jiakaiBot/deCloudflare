@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,080 |
+| com | 8,081 |
 | social | 4,693 |
 | net | 3,980 |
 | org | 2,667 |
@@ -754,7 +754,7 @@ Here's a list of public Fediverse services.
 | `7thmagic.net` | No |
 | `7z.pm` | No |
 | `8030a0.social` | No |
-| `805.social` | Yes |
+| `805.social` | No |
 | `8086.net` | Yes |
 | `8086.org` | No |
 | `80chars.io` | No |
@@ -8188,7 +8188,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11898,7 +11898,7 @@ Here's a list of public Fediverse services.
 | `dynlinux.io` | No |
 | `dynu.com` | No |
 | `dynu.net` | No |
-| `dynv6.net` | No |
+| `dynv6.net` | Yes |
 | `dyomedea.com` | No |
 | `dyox.in` | No |
 | `dyselon.com` | No |
@@ -13780,7 +13780,7 @@ Here's a list of public Fediverse services.
 | `featherless.design` | Yes |
 | `feathers.link` | No |
 | `feathertrail.fun` | Yes |
-| `featyre.xyz` | Yes |
+| `featyre.xyz` | No |
 | `february.social` | No |
 | `fed-it.nu` | No |
 | `fed.contact` | No |
@@ -13881,7 +13881,7 @@ Here's a list of public Fediverse services.
 | `fedi.fun` | No |
 | `fedi.gal` | Yes |
 | `fedi.games` | No |
-| `fedi.gay` | Yes |
+| `fedi.gay` | No |
 | `fedi.io` | No |
 | `fedi.lat` | No |
 | `fedi.li` | No |
@@ -18236,6 +18236,7 @@ Here's a list of public Fediverse services.
 | `hebcloud.de` | No |
 | `heberge.fr` | No |
 | `hebsocial.uk` | No |
+| `hecanjog.com` | Yes |
 | `hecatoncheir.net` | No |
 | `hechtinsgefecht.de` | Yes |
 | `heck.ooo` | Yes |
@@ -24671,7 +24672,7 @@ Here's a list of public Fediverse services.
 | `lgbtqfaces.co.uk` | Yes |
 | `lgbtqia.is` | No |
 | `lgbtqia.space` | Yes |
-| `lgbtqiaplus.eu` | Yes |
+| `lgbtqiaplus.eu` | No |
 | `lgbtqplus.social` | Yes |
 | `lgm.ltd` | Yes |
 | `lgnt.eu` | Yes |
@@ -30727,7 +30728,7 @@ Here's a list of public Fediverse services.
 | `neets.work` | No |
 | `neevt.com` | Yes |
 | `nefixestrada.com` | No |
-| `nefl.social` | Yes |
+| `nefl.social` | No |
 | `neg9.org` | Yes |
 | `negative.social` | No |
 | `negativezero.link` | No |
@@ -40647,7 +40648,7 @@ Here's a list of public Fediverse services.
 | `siskinsocial.me` | No |
 | `sissom.net` | No |
 | `sisters.pink` | No |
-| `sisu.social` | Yes |
+| `sisu.social` | No |
 | `sisulink.com` | Yes |
 | `sisulink.social` | Yes |
 | `site.co.il` | No |
@@ -42357,7 +42358,7 @@ Here's a list of public Fediverse services.
 | `steviebobbins.com` | No |
 | `stevijo.me` | Yes |
 | `stezen.de` | Yes |
-| `stfu.social` | Yes |
+| `stfu.social` | No |
 | `stgraber.org` | No |
 | `stgt.social` | No |
 | `sthlm.social` | No |
@@ -51115,8 +51116,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,519 |
-| Normal | 36,548 |
+| Cloudflare | 14,513 |
+| Normal | 36,555 |
 
 
 </details>
