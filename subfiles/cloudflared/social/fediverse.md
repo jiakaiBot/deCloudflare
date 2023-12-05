@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,695 |
 | net | 3,982 |
 | org | 2,667 |
-| de | 2,521 |
+| de | 2,522 |
 
 
 - Mastodon, Pleroma, etc
@@ -6213,6 +6213,7 @@ Here's a list of public Fediverse services.
 | `bushu-denno.com` | No |
 | `business.blog` | No |
 | `businessinsider.com` | Yes |
+| `bussela.de` | No |
 | `busshi.moe` | No |
 | `bussmann.social` | No |
 | `bussy.gallery` | No |
@@ -51141,7 +51142,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,522 |
-| Normal | 36,570 |
+| Normal | 36,571 |
 
 
 </details>
