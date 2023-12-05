@@ -503,6 +503,7 @@ Here's a list of breached sites.
 | R2-2017 (R2 (2017 forum breach)) | 1,023,466 | No |
 | R2Games | 22,281,337 | No |
 | RaidForums | 478,604 | Yes |
+| RailYatri | 23,209,732 | No |
 | Rambler | 91,436,280 | No |
 | Rankwatch (RankWatch) | 7,445,067 | Yes |
 | Raychat | 938,981 | No |
@@ -720,9 +721,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 409 | 4,527,997,142 |
-| Normal | 289 | 4,536,574,439 |
+| Normal | 290 | 4,559,784,171 |
 
 
 
-### 58.6% of breached sites (pwned sites) are using Cloudflare.
-### 50% of leaked accounts are on Cloudflare sites.
+### 58.5% of breached sites (pwned sites) are using Cloudflare.
+### 49.8% of leaked accounts are on Cloudflare sites.
