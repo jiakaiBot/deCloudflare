@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,082 |
-| social | 4,694 |
-| net | 3,980 |
+| social | 4,695 |
+| net | 3,981 |
 | org | 2,667 |
 | de | 2,520 |
 
@@ -15030,6 +15030,7 @@ Here's a list of public Fediverse services.
 | `foxfire.dev` | No |
 | `foxgirl.eu` | Yes |
 | `foxgirl.land` | No |
+| `foxgirl.social` | Yes |
 | `foxgirlsat.work` | No |
 | `foxgl.ovh` | No |
 | `foxhillyer.org` | No |
@@ -16868,6 +16869,7 @@ Here's a list of public Fediverse services.
 | `gnome.town` | Yes |
 | `gnomehead.ch` | No |
 | `gnomos.org` | No |
+| `gnomvid.se` | No |
 | `gnosia.info` | No |
 | `gnosis.systems` | No |
 | `gnot.club` | Yes |
@@ -17199,6 +17201,7 @@ Here's a list of public Fediverse services.
 | `granatapet.io` | Yes |
 | `grand-duchy.net` | No |
 | `grand.im` | No |
+| `grandcoeff.bzh` | No |
 | `grande-cache.ca` | No |
 | `grandma.space` | No |
 | `granford.uk` | No |
@@ -31208,6 +31211,7 @@ Here's a list of public Fediverse services.
 | `nextinnonprofits.com` | Yes |
 | `nextme.tk` | No |
 | `nextpayge.social` | Yes |
+| `nextpi.net` | No |
 | `nextstepventures.org` | No |
 | `nexum.hu` | No |
 | `nexus8.cf` | No |
@@ -37856,6 +37860,7 @@ Here's a list of public Fediverse services.
 | `rights.ninja` | Yes |
 | `rightto.repair` | No |
 | `rigolo.fun` | No |
+| `rigoplay.it` | No |
 | `riichi.me` | Yes |
 | `riin.fr` | No |
 | `riinakw.net` | No |
@@ -51122,8 +51127,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,516 |
-| Normal | 36,558 |
+| Cloudflare | 14,517 |
+| Normal | 36,562 |
 
 
 </details>
