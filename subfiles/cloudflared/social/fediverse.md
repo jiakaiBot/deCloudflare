@@ -3823,7 +3823,7 @@ Here's a list of public Fediverse services.
 | `bachmann.wtf` | No |
 | `backbord.net` | No |
 | `backert.net` | No |
-| `backlight.social` | Yes |
+| `backlight.social` | No |
 | `backlog.dk` | No |
 | `backpacklife.social` | No |
 | `backpawn.com` | No |
@@ -8188,7 +8188,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8473,7 +8473,7 @@ Here's a list of public Fediverse services.
 | `coolmathgames.tech` | Yes |
 | `coolmemes.biz` | No |
 | `coolpenguins.nl` | Yes |
-| `coolshit.social` | Yes |
+| `coolshit.social` | No |
 | `coolsite.win` | No |
 | `coolsma.com` | No |
 | `coolsocial.club` | No |
@@ -10479,7 +10479,7 @@ Here's a list of public Fediverse services.
 | `desta.cc` | No |
 | `destabled.com` | Yes |
 | `destinovate.com` | Yes |
-| `destituent.social` | Yes |
+| `destituent.social` | No |
 | `destrocodpiece.wtf` | No |
 | `destroyallmachines.net` | No |
 | `destroythe.world` | No |
@@ -13784,7 +13784,7 @@ Here's a list of public Fediverse services.
 | `february.social` | No |
 | `fed-it.nu` | No |
 | `fed.contact` | No |
-| `fed.fan` | Yes |
+| `fed.fan` | No |
 | `fed.im` | Yes |
 | `fed.sh` | Yes |
 | `fed.social` | Yes |
@@ -19089,7 +19089,7 @@ Here's a list of public Fediverse services.
 | `hotelbaghdad.net` | No |
 | `hoteldaan.nl` | No |
 | `hoteltoday.tokyo` | No |
-| `hotfemboy.pics` | Yes |
+| `hotfemboy.pics` | No |
 | `hotfreshporn.com` | No |
 | `hotgarbage.zone` | No |
 | `hotman78.com` | Yes |
@@ -19228,6 +19228,7 @@ Here's a list of public Fediverse services.
 | `hubzilla.pl` | No |
 | `hubzilla.ru` | No |
 | `hubzilla.social` | No |
+| `hubzillator.tk` | No |
 | `hubzion.net` | No |
 | `huck.social` | No |
 | `huck.website` | No |
@@ -27901,7 +27902,7 @@ Here's a list of public Fediverse services.
 | `meo.ws` | Yes |
 | `meow-corp.xyz` | Yes |
 | `meow.academy` | No |
-| `meow.beauty` | Yes |
+| `meow.beauty` | No |
 | `meow.camp` | No |
 | `meow.church` | Yes |
 | `meow.cloud` | No |
@@ -40775,7 +40776,7 @@ Here's a list of public Fediverse services.
 | `skri.be` | No |
 | `skri.ga` | No |
 | `skribeworks.com` | No |
-| `skriffle.social` | Yes |
+| `skriffle.social` | No |
 | `skrimmage.com` | Yes |
 | `skrivel.se` | No |
 | `skrlet13.cl` | No |
@@ -48682,7 +48683,7 @@ Here's a list of public Fediverse services.
 | `welance.cn` | No |
 | `weldin.social` | No |
 | `welford.me` | Yes |
-| `welford.social` | Yes |
+| `welford.social` | No |
 | `welhaba.mx` | No |
 | `welivesecurity.com` | No |
 | `well-known.social` | No |
@@ -51114,8 +51115,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,526 |
-| Normal | 36,540 |
+| Cloudflare | 14,519 |
+| Normal | 36,548 |
 
 
 </details>
