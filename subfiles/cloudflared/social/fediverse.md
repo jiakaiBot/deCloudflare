@@ -6331,6 +6331,7 @@ Here's a list of public Fediverse services.
 | `c0de.works` | Yes |
 | `c0debabe.com` | No |
 | `c0ffee.net` | No |
+| `c0tt0n.world` | No |
 | `c11um.de` | No |
 | `c1710.de` | No |
 | `c18l.com` | Yes |
@@ -51122,7 +51123,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,516 |
-| Normal | 36,557 |
+| Normal | 36,558 |
 
 
 </details>
