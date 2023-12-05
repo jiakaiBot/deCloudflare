@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,084 |
+| com | 8,086 |
 | social | 4,695 |
 | net | 3,982 |
 | org | 2,667 |
@@ -13000,6 +13000,7 @@ Here's a list of public Fediverse services.
 | `esadhar.net` | No |
 | `esamecar.net` | No |
 | `esavara.social` | No |
+| `esbenrahbek.eu` | No |
 | `escapebigtech.info` | Yes |
 | `escaperooms.social` | No |
 | `escapism.work` | Yes |
@@ -35416,6 +35417,7 @@ Here's a list of public Fediverse services.
 | `politicaconciencia.org` | No |
 | `political.icu` | No |
 | `politicalscience.social` | No |
+| `politicalwire.com` | Yes |
 | `politicianslast.com` | Yes |
 | `politics.rip` | Yes |
 | `politidon.com` | No |
@@ -47259,6 +47261,7 @@ Here's a list of public Fediverse services.
 | `usocial.fr` | No |
 | `usokkey.club` | No |
 | `usounds.work` | Yes |
+| `uspictures.com` | Yes |
 | `usr.cloud` | Yes |
 | `usrlocal.net` | No |
 | `ussr.win` | No |
@@ -51132,8 +51135,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,519 |
-| Normal | 36,565 |
+| Cloudflare | 14,521 |
+| Normal | 36,566 |
 
 
 </details>
