@@ -2620,6 +2620,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cloudffvii@twitter](https://twitter.com/Cloudffvii/status/1620029576150913025) | advertise |
 | [Cloudflare@twitter](https://twitter.com/Cloudflare/status/1665856098086146050) | advertise |
 | [cloudflarearc@twitter](https://twitter.com/cloudflarearc/status/1598677194938941440) | advertise |
+| [CloudImpactSol@twitter](https://twitter.com/CloudImpactSol/status/1732168326841856415) | advertise |
 | [clovdfloat@twitter](https://twitter.com/clovdfloat/status/1519032167426310144) | advertise |
 | [clube90ssx@twitter](https://twitter.com/clube90ssx/status/1480719840436310016) | advertise |
 | [clubside@twitter](https://twitter.com/clubside/status/1548729768593563648) | advertise |
