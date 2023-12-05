@@ -1439,7 +1439,7 @@ Here's a list of public Fediverse services.
 | `ahlers.space` | No |
 | `ahlers.xyz` | No |
 | `ahlo.club` | No |
-| `ahlosclub.com` | No |
+| `ahlosclub.com` | Yes |
 | `ahlroos.me` | No |
 | `ahmadhaghighi.com` | Yes |
 | `ahmedsaad.xyz` | Yes |
@@ -32976,6 +32976,7 @@ Here's a list of public Fediverse services.
 | `oniros.eu` | No |
 | `onisoc.xyz` | Yes |
 | `onitato.com` | No |
+| `onjann.club` | Yes |
 | `onjase.quebec` | No |
 | `onkeldanny.com` | Yes |
 | `online-erfolg.ch` | No |
@@ -51127,8 +51128,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,517 |
-| Normal | 36,562 |
+| Cloudflare | 14,519 |
+| Normal | 36,561 |
 
 
 </details>
