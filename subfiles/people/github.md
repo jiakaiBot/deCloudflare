@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Problem if ALPN set as h2](https://github.com/SagerNet/sing-box/issues/1190)
 - [Cannot install via Wabbajack](https://github.com/hitmantb/skvrmo/issues/4)
 - [Installation Hanlab Website with Wheels Down](https://github.com/mit-han-lab/torchsparse/issues/275)
 - [CloudflareKVPlugin: Incompatible types when passing in argument for kv](https://github.com/n1ru4l/envelop/issues/2104)
