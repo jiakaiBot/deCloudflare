@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,695 |
 | net | 3,983 |
 | org | 2,667 |
-| de | 2,522 |
+| de | 2,523 |
 
 
 - Mastodon, Pleroma, etc
@@ -3045,6 +3045,7 @@ Here's a list of public Fediverse services.
 | `artsandculture.social` | No |
 | `artsculture.media` | No |
 | `artsek.com` | Yes |
+| `artsepiphany.de` | No |
 | `artsio.com` | No |
 | `artsocial.boston` | No |
 | `artsytype.com` | No |
@@ -51144,7 +51145,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,523 |
-| Normal | 36,572 |
+| Normal | 36,573 |
 
 
 </details>
