@@ -56,6 +56,7 @@ Do not create new issue or we will close it as duplicate.
 | [05Tuns@twitter](https://twitter.com/05Tuns/status/1395807741583585281) | advertise |
 | [07_phcanh1@twitter](https://twitter.com/07_phcanh1/status/1678412267514216459) | advertise |
 | [08l739@twitter](https://twitter.com/08l739/status/1561689134648934400) | advertise |
+| [1Bhats@twitter](https://twitter.com/1Bhats/status/1731812346425905251) | advertise |
 | [1CristalHeart@twitter](https://twitter.com/1CristalHeart/status/1473671613144920067) | advertise |
 | [1fRaSz22dPfUrsv@twitter](https://twitter.com/1fRaSz22dPfUrsv/status/1542540824759656451) | advertise |
 | [1gNmgWczBahf9Je@twitter](https://twitter.com/1gNmgWczBahf9Je/status/1577351663244951570) | advertise |
@@ -5877,6 +5878,7 @@ Do not create new issue or we will close it as duplicate.
 | [JamalKaksouri@twitter](https://twitter.com/JamalKaksouri/status/1417143011771928581) | advertise |
 | [jamallovred@twitter](https://twitter.com/jamallovred/status/1714642536223088688) | advertise |
 | [Jambazi14@twitter](https://twitter.com/Jambazi14/status/1550803302350299143) | advertise |
+| [Jame23617147@twitter](https://twitter.com/Jame23617147/status/1731759700272898133) | advertise |
 | [JameHaru@twitter](https://twitter.com/JameHaru/status/1381285784913727492) | advertise |
 | [jamehpor@twitter](https://twitter.com/jamehpor/status/1576812219903668224) | advertise |
 | [JAMENT16@twitter](https://twitter.com/JAMENT16/status/1718066956992217510) | advertise |
@@ -9991,6 +9993,7 @@ Do not create new issue or we will close it as duplicate.
 | [Noriboy_j@twitter](https://twitter.com/Noriboy_j/status/1671471085081055238) | advertise |
 | [Nori_kurd@twitter](https://twitter.com/Nori_kurd/status/1705853061137064399) | advertise |
 | [normalisa2244@twitter](https://twitter.com/normalisa2244/status/1508101082907832322) | advertise |
+| [NormalYiw50904@twitter](https://twitter.com/NormalYiw50904/status/1731946206421791110) | advertise |
 | [NoruzzamanNahid@twitter](https://twitter.com/NoruzzamanNahid/status/1588197771278192640) | advertise |
 | [NOsheeennn@twitter](https://twitter.com/NOsheeennn/status/1394946949963415555) | advertise |
 | [noshereyno@twitter](https://twitter.com/noshereyno/status/1570718460736409600) | advertise |
@@ -15346,6 +15349,7 @@ Do not create new issue or we will close it as duplicate.
 | [zahrafarouq1@twitter](https://twitter.com/zahrafarouq1/status/1401092958972166147) | advertise |
 | [ZAHRSAEED@twitter](https://twitter.com/ZAHRSAEED/status/1494523655556059137) | advertise |
 | [zaid3413@twitter](https://twitter.com/zaid3413/status/1643359354106818560) | advertise |
+| [zaidaccold@twitter](https://twitter.com/zaidaccold/status/1731940426175615036) | advertise |
 | [zaiddddm@twitter](https://twitter.com/zaiddddm/status/1689972068706611200) | advertise |
 | [zaidi97406@twitter](https://twitter.com/zaidi97406/status/1697384697452785850) | advertise |
 | [ZaidihabibH@twitter](https://twitter.com/ZaidihabibH/status/1701772205460529305) | advertise |
