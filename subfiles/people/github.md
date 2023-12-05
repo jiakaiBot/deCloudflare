@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudflareKVPlugin: Incompatible types when passing in argument for kv](https://github.com/n1ru4l/envelop/issues/2104)
 - [Show error toast when getCollectionTokenInfo returns error](https://github.com/airswap/airswap-marketplace/issues/170)
 - [Server Mappings help](https://github.com/LunarClient/ServerMappings/issues/1229)
 - [Q How do I force gost to connect using IPv6 when both are available?](https://github.com/go-gost/gost/issues/359)
