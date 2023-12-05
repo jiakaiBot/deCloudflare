@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot install via Wabbajack](https://github.com/hitmantb/skvrmo/issues/4)
+- [Installation Hanlab Website with Wheels Down](https://github.com/mit-han-lab/torchsparse/issues/275)
 - [CloudflareKVPlugin: Incompatible types when passing in argument for kv](https://github.com/n1ru4l/envelop/issues/2104)
 - [Show error toast when getCollectionTokenInfo returns error](https://github.com/airswap/airswap-marketplace/issues/170)
 - [Server Mappings help](https://github.com/LunarClient/ServerMappings/issues/1229)
