@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,081 |
+| com | 8,082 |
 | social | 4,693 |
 | net | 3,980 |
 | org | 2,667 |
@@ -42773,6 +42773,7 @@ Here's a list of public Fediverse services.
 | `sukebeneko.com` | No |
 | `sukebepacos.com` | No |
 | `sukino.xyz` | Yes |
+| `sukisukichu.com` | Yes |
 | `sukiyaki.fr` | No |
 | `sulairris.com` | No |
 | `sulegna.de` | Yes |
@@ -51116,7 +51117,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,513 |
+| Cloudflare | 14,514 |
 | Normal | 36,555 |
 
 
