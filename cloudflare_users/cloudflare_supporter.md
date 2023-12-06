@@ -8408,6 +8408,7 @@ Do not create new issue or we will close it as duplicate.
 | [Meowmeow9339@twitter](https://twitter.com/Meowmeow9339/status/1589495016954957826) | advertise |
 | [MEOWsama1802@twitter](https://twitter.com/MEOWsama1802/status/1544339586607747072) | advertise |
 | [Meo_Captainnnm@twitter](https://twitter.com/Meo_Captainnnm/status/1607387376300724224) | advertise |
+| [Merajul362818@twitter](https://twitter.com/Merajul362818/status/1732305208372596803) | advertise |
 | [meran0maruf@twitter](https://twitter.com/meran0maruf/status/1397979741173469186) | advertise |
 | [MercuryKIInG91@twitter](https://twitter.com/MercuryKIInG91/status/1398250256794624005) | advertise |
 | [mercytown918@twitter](https://twitter.com/mercytown918/status/1558387091171590145) | advertise |
@@ -10983,6 +10984,7 @@ Do not create new issue or we will close it as duplicate.
 | [ProgrammerRDAI@twitter](https://twitter.com/ProgrammerRDAI/status/1531626215013879810) | advertise |
 | [prohdhn@twitter](https://twitter.com/prohdhn/status/1721918759827623994) | advertise |
 | [ProjectPiper@twitter](https://twitter.com/ProjectPiper/status/1690839848880427008) | advertise |
+| [promchaiwo76515@twitter](https://twitter.com/promchaiwo76515/status/1732303314178744593) | advertise |
 | [promo_brimo2022@twitter](https://twitter.com/promo_brimo2022/status/1593675240743137280) | advertise |
 | [ProteinPink@twitter](https://twitter.com/ProteinPink/status/1522848358548873217) | advertise |
 | [ProZar3@twitter](https://twitter.com/ProZar3/status/1503979856882769922) | advertise |
