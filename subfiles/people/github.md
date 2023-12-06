@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when trying to install @astrojs/netlify@v3.1.0 with astro@v4.0.3](https://github.com/withastro/adapters/issues/99)
 - [ZodOpenAPI errors after 3.10.5 and 0.9x](https://github.com/honojs/hono/issues/1784)
 - [Netbird behind Cloudflare: stream terminated by RST_STREAM](https://github.com/netbirdio/netbird/issues/1357)
 - [Handshake status 403 Forbidden](https://github.com/SantiiRepair/quotexpy/issues/45)
