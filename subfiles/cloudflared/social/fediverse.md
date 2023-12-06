@@ -3738,7 +3738,7 @@ Here's a list of public Fediverse services.
 | `azyobuzi.net` | No |
 | `b--n.net` | No |
 | `b-ark.ca` | No |
-| `b-ark.online` | Yes |
+| `b-ark.online` | No |
 | `b-c.social` | No |
 | `b-root-force.de` | No |
 | `b-shock.org` | No |
@@ -8788,7 +8788,7 @@ Here's a list of public Fediverse services.
 | `creativegamer.net` | Yes |
 | `creativepassport.net` | No |
 | `creativeramblings.com` | No |
-| `creatives.host` | Yes |
+| `creatives.host` | No |
 | `creativesocial.link` | No |
 | `creativetech.social` | No |
 | `creativewriting.social` | No |
@@ -13233,7 +13233,7 @@ Here's a list of public Fediverse services.
 | `everydayedward.com` | Yes |
 | `everydayimshuflin.com` | No |
 | `everydev.com` | Yes |
-| `everydev.social` | Yes |
+| `everydev.social` | No |
 | `everydon.com` | No |
 | `everynothing.org` | No |
 | `everynothing.social` | No |
@@ -13487,7 +13487,7 @@ Here's a list of public Fediverse services.
 | `facil.services` | No |
 | `facorazza.com` | Yes |
 | `factelves.com` | No |
-| `factland.social` | Yes |
+| `factland.social` | No |
 | `factline.org` | Yes |
 | `factorial.io` | No |
 | `factsonthegroundshow.com` | No |
@@ -31299,7 +31299,7 @@ Here's a list of public Fediverse services.
 | `nicecrew.tv` | Yes |
 | `nicecrew.us` | No |
 | `nicede.xyz` | No |
-| `nicehat.lol` | Yes |
+| `nicehat.lol` | No |
 | `niceparfait.com` | No |
 | `nicepeople.social` | No |
 | `niceview.club` | No |
@@ -38989,7 +38989,7 @@ Here's a list of public Fediverse services.
 | `sandervandam2.nl` | Yes |
 | `sandervandamme.com` | Yes |
 | `sandhill.social` | No |
-| `sandiegan.social` | Yes |
+| `sandiegan.social` | No |
 | `sandiegourbanists.com` | No |
 | `sandlot.club` | Yes |
 | `sandm.cc` | Yes |
@@ -45963,6 +45963,7 @@ Here's a list of public Fediverse services.
 | `trekkies.social` | No |
 | `trelegal.com` | No |
 | `trendcreate.net` | No |
+| `trender.net.au` | Yes |
 | `trendless.ca` | Yes |
 | `trenkner.net` | No |
 | `tresmos.wtf` | Yes |
@@ -51145,8 +51146,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,518 |
-| Normal | 36,579 |
+| Cloudflare | 14,513 |
+| Normal | 36,585 |
 
 
 </details>
