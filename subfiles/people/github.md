@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fails on default branch](https://github.com/py-cov-action/python-coverage-comment-action/issues/305)
 - [Together CloudFront errors](https://github.com/stanford-crfm/helm/issues/2094)
 - [Problem if ALPN set as h2](https://github.com/SagerNet/sing-box/issues/1190)
 - [Cannot install via Wabbajack](https://github.com/hitmantb/skvrmo/issues/4)
