@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ZodOpenAPI errors after 3.10.5 and 0.9x](https://github.com/honojs/hono/issues/1784)
 - [Netbird behind Cloudflare: stream terminated by RST_STREAM](https://github.com/netbirdio/netbird/issues/1357)
 - [Handshake status 403 Forbidden](https://github.com/SantiiRepair/quotexpy/issues/45)
 - [Swap jsonwebtoken for jose to offer edge compatibility](https://github.com/matthewvolk/bigrequest/issues/123)
