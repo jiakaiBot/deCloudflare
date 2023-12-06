@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,091 |
 | social | 4,695 |
-| net | 3,983 |
+| net | 3,985 |
 | org | 2,667 |
 | de | 2,525 |
 
@@ -3675,7 +3675,7 @@ Here's a list of public Fediverse services.
 | `ayaka.social` | Yes |
 | `ayano.jp` | No |
 | `ayatovr.com` | No |
-| `ayatovr.dev` | No |
+| `ayatovr.dev` | Yes |
 | `ayatovr.jp` | No |
 | `ayco.io` | No |
 | `ayden.life` | Yes |
@@ -6339,7 +6339,7 @@ Here's a list of public Fediverse services.
 | `c0de.works` | Yes |
 | `c0debabe.com` | No |
 | `c0ffee.net` | No |
-| `c0tt0n.world` | No |
+| `c0tt0n.world` | Yes |
 | `c11um.de` | No |
 | `c1710.de` | No |
 | `c18l.com` | Yes |
@@ -6528,7 +6528,7 @@ Here's a list of public Fediverse services.
 | `canadianveggie.com` | No |
 | `canal.social` | No |
 | `canalsidecoach.app` | Yes |
-| `canard.club` | No |
+| `canard.club` | Yes |
 | `canard.tube` | No |
 | `canary.city` | Yes |
 | `canarygateway.com` | No |
@@ -12115,7 +12115,7 @@ Here's a list of public Fediverse services.
 | `economicsfromthetopdown.com` | No |
 | `econresear.ch` | No |
 | `econresearch.org` | Yes |
-| `econtwitter.net` | No |
+| `econtwitter.net` | Yes |
 | `econudes.org` | No |
 | `ecorp.host` | No |
 | `ecosteader.com` | No |
@@ -25939,6 +25939,7 @@ Here's a list of public Fediverse services.
 | `m1ch.eu` | Yes |
 | `m1k.cloud` | Yes |
 | `m1n1ster.com` | Yes |
+| `m1nto.net` | Yes |
 | `m1x.app` | Yes |
 | `m1zuu.net` | Yes |
 | `m2.nz` | No |
@@ -45222,6 +45223,7 @@ Here's a list of public Fediverse services.
 | `tlf.pw` | Yes |
 | `tlfoxhuman.net` | No |
 | `tli.io` | No |
+| `tlmb.net` | No |
 | `tlmstdn.de` | No |
 | `tlo.xyz` | Yes |
 | `tlpbro.nl` | No |
@@ -51160,8 +51162,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,515 |
-| Normal | 36,597 |
+| Cloudflare | 14,520 |
+| Normal | 36,594 |
 
 
 </details>
