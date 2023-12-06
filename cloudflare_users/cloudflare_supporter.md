@@ -2562,6 +2562,7 @@ Do not create new issue or we will close it as duplicate.
 | [CHRLM_14@twitter](https://twitter.com/CHRLM_14/status/1683969432098308097) | advertise |
 | [chrlsbldv@twitter](https://twitter.com/chrlsbldv/status/1566145345758715905) | advertise |
 | [Chromepanda37@twitter](https://twitter.com/Chromepanda37/status/1408075106144854022) | advertise |
+| [chronark_@twitter](https://twitter.com/chronark_/status/1732368836823822359) | advertise |
 | [Chu2131@twitter](https://twitter.com/Chu2131/status/1389883781776039939) | advertise |
 | [chuanawa@twitter](https://twitter.com/chuanawa/status/1708859511522607580) | advertise |
 | [chubbyfraddy27@twitter](https://twitter.com/chubbyfraddy27/status/1399261063200321537) | advertise |
