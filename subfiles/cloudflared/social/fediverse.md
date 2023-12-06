@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,091 |
+| com | 8,092 |
 | social | 4,696 |
 | net | 3,986 |
 | org | 2,668 |
@@ -14714,6 +14714,7 @@ Here's a list of public Fediverse services.
 | `floppy.tokyo` | No |
 | `floraguilleries.cat` | No |
 | `floral.town` | No |
+| `florentcurk.com` | No |
 | `floressencia.social` | No |
 | `florian-brinker.de` | No |
 | `florian.ec` | Yes |
@@ -18572,6 +18573,7 @@ Here's a list of public Fediverse services.
 | `hi-low.social` | No |
 | `hi-na.org` | No |
 | `hi.ls` | Yes |
+| `hi6.io` | No |
 | `hiauntie.com` | No |
 | `hibi-tsumo.com` | Yes |
 | `hibi-tsumo.net` | Yes |
@@ -51172,7 +51174,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,522 |
-| Normal | 36,601 |
+| Normal | 36,603 |
 
 
 </details>
