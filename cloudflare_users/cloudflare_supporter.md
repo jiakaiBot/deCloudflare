@@ -2589,6 +2589,7 @@ Do not create new issue or we will close it as duplicate.
 | [cindy_htwe@twitter](https://twitter.com/cindy_htwe/status/1390406528524447744) | advertise |
 | [cinemakhoonegi@twitter](https://twitter.com/cinemakhoonegi/status/1576947090986766336) | advertise |
 | [Cine_Ward@twitter](https://twitter.com/Cine_Ward/status/1391183622074290178) | advertise |
+| [CinnyTech@twitter](https://twitter.com/CinnyTech/status/1732239976517996776) | advertise |
 | [CircleOnCircles@twitter](https://twitter.com/CircleOnCircles/status/1473203051871703042) | advertise |
 | [citasweetieee@twitter](https://twitter.com/citasweetieee/status/1391727785274654725) | advertise |
 | [CitiBE@twitter](https://twitter.com/CitiBE/status/1665889152234029057) | advertise |
@@ -2973,6 +2974,7 @@ Do not create new issue or we will close it as duplicate.
 | [darrinW00699755@twitter](https://twitter.com/darrinW00699755/status/1563340945717727232) | advertise |
 | [darthkay0@twitter](https://twitter.com/darthkay0/status/1504205557720403976) | advertise |
 | [Daruoos73932665@twitter](https://twitter.com/Daruoos73932665/status/1588305781702955010) | advertise |
+| [Darwan111@twitter](https://twitter.com/Darwan111/status/1732278479427936282) | advertise |
 | [dasith_vidanage@twitter](https://twitter.com/dasith_vidanage/status/1386590411515305984) | advertise |
 | [daskeyencoded@twitter](https://twitter.com/daskeyencoded/status/1509951324871401491) | advertise |
 | [dat36275840@twitter](https://twitter.com/dat36275840/status/1553072312714272768) | advertise |
@@ -4218,6 +4220,7 @@ Do not create new issue or we will close it as duplicate.
 | [GaziSarama@twitter](https://twitter.com/GaziSarama/status/1526025726138494981) | advertise |
 | [GBARJ9mXVV94FKx@twitter](https://twitter.com/GBARJ9mXVV94FKx/status/1723503398098805039) | advertise |
 | [GD47666468@twitter](https://twitter.com/GD47666468/status/1403799656115539971) | advertise |
+| [GDiscod@twitter](https://twitter.com/GDiscod/status/1732256387454103668) | advertise |
 | [GDNAVsTJpschYop@twitter](https://twitter.com/GDNAVsTJpschYop/status/1628573227286167554) | advertise |
 | [gdnunites@twitter](https://twitter.com/gdnunites/status/1425544488487899137) | advertise |
 | [Geetharbtr4@twitter](https://twitter.com/Geetharbtr4/status/1391301352949620740) | advertise |
@@ -13828,6 +13831,7 @@ Do not create new issue or we will close it as duplicate.
 | [TopMan84177559@twitter](https://twitter.com/TopMan84177559/status/1380097459976736769) | advertise |
 | [Torentinobros@twitter](https://twitter.com/Torentinobros/status/1618066065275375618) | advertise |
 | [ToreyHill4@twitter](https://twitter.com/ToreyHill4/status/1577841660293222400) | advertise |
+| [torikultonmoy@twitter](https://twitter.com/torikultonmoy/status/1732249502499955021) | advertise |
 | [TorpidTech@twitter](https://twitter.com/TorpidTech/status/1608465800364711936) | advertise |
 | [torproject.org](https://www.torproject.org/) | [HISTORY.md](../HISTORY.md), [README.md](README.md) |
 | [Torrekie@twitter](https://twitter.com/Torrekie/status/1449973586664595458) | advertise |
@@ -14926,6 +14930,7 @@ Do not create new issue or we will close it as duplicate.
 | [WunPhnmpey@twitter](https://twitter.com/WunPhnmpey/status/1689877625387552769) | advertise |
 | [wutingsi2903@twitter](https://twitter.com/wutingsi2903/status/1664981555922583554) | advertise |
 | [WuttYeeKyaw5@twitter](https://twitter.com/WuttYeeKyaw5/status/1395568627630309376) | advertise |
+| [WwnKhan@twitter](https://twitter.com/WwnKhan/status/1732289495968690493) | advertise |
 | [wwwsai12345@twitter](https://twitter.com/wwwsai12345/status/1386903798124212232) | advertise |
 | [wwww77410139@twitter](https://twitter.com/wwww77410139/status/1389250450302537735) | advertise |
 | [wxf13515@twitter](https://twitter.com/wxf13515/status/1684029163928428544) | advertise |
