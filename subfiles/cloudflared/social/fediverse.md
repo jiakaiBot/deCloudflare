@@ -183,7 +183,7 @@ Here's a list of public Fediverse services.
 | `0xfb.xyz` | No |
 | `0xfeedc0.de` | No |
 | `0xff.cafe` | No |
-| `0xff.social` | Yes |
+| `0xff.social` | No |
 | `0xspace.social` | No |
 | `0xv.eu` | No |
 | `10-reasons.com` | Yes |
@@ -5169,6 +5169,7 @@ Here's a list of public Fediverse services.
 | `blip.cf` | Yes |
 | `blipdrifter.com` | No |
 | `blips2.club` | Yes |
+| `bliry.fr` | No |
 | `blisscampus.com` | No |
 | `blisses.org` | No |
 | `blizzard.systems` | No |
@@ -12254,7 +12255,7 @@ Here's a list of public Fediverse services.
 | `efg-ober-ramstadt.de` | No |
 | `efir.red` | No |
 | `efnet.rip` | No |
-| `efnet.social` | Yes |
+| `efnet.social` | No |
 | `efournie.com` | No |
 | `efradaphi.de` | No |
 | `efrainmartinezfigueroa.com` | No |
@@ -27060,7 +27061,7 @@ Here's a list of public Fediverse services.
 | `mastodon.rocks` | Yes |
 | `mastodon.run` | No |
 | `mastodon.saarland` | No |
-| `mastodon.salon` | Yes |
+| `mastodon.salon` | No |
 | `mastodon.sbs` | No |
 | `mastodon.schule` | No |
 | `mastodon.scot` | Yes |
@@ -47533,7 +47534,7 @@ Here's a list of public Fediverse services.
 | `vaultliberty.us` | No |
 | `vaush.ml` | No |
 | `vavoom.uk` | No |
-| `vaxodon.com` | Yes |
+| `vaxodon.com` | No |
 | `vayena.club` | No |
 | `vbrandl.net` | No |
 | `vbrlabs.io` | No |
@@ -50535,7 +50536,7 @@ Here's a list of public Fediverse services.
 | `yurax2.dev` | Yes |
 | `yurec.online` | No |
 | `yuri.bond` | No |
-| `yuri.camp` | Yes |
+| `yuri.camp` | No |
 | `yuri.garden` | Yes |
 | `yuri.mom` | No |
 | `yuri.place` | No |
@@ -51144,8 +51145,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,523 |
-| Normal | 36,573 |
+| Cloudflare | 14,518 |
+| Normal | 36,579 |
 
 
 </details>
