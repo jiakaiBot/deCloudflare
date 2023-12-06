@@ -77,7 +77,7 @@ Here's a list of breached sites.
 | BTCAlpha (BTC-Alpha) | 362,426 | Yes |
 | BTCE (BTC-E) | 568,340 | No |
 | BTSec (Bitcoin Security Forum Gmail Dump) | 4,789,599 | No |
-| BVD (Bureau van Dijk) | 27,917,714 | Yes |
+| BVD (Public Business Data) | 27,917,714 | Yes |
 | BabyNames (Baby Names) | 846,742 | No |
 | Badoo | 112,005,531 | Yes |
 | BannerBit | 213,415 | Yes |
