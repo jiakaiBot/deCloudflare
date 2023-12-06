@@ -43631,6 +43631,7 @@ Here's a list of public Fediverse services.
 | `tastybugs.club` | Yes |
 | `tastypi.social` | No |
 | `tastytea.de` | No |
+| `tata.casa` | No |
 | `tatakaibo.xyz` | Yes |
 | `tatapa.org` | No |
 | `tatchanka.fr` | No |
@@ -51166,7 +51167,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,521 |
-| Normal | 36,596 |
+| Normal | 36,597 |
 
 
 </details>
