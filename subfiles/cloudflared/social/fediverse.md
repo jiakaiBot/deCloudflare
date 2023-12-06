@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,091 |
+| com | 8,092 |
 | social | 4,695 |
 | net | 3,985 |
 | org | 2,668 |
@@ -37223,6 +37223,7 @@ Here's a list of public Fediverse services.
 | `re-medium.com` | No |
 | `react.town` | No |
 | `read-read.net` | No |
+| `readalongaudiobible.com` | No |
 | `readerupdated.com` | No |
 | `readit.buzz` | Yes |
 | `readme.is` | Yes |
@@ -51165,7 +51166,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,521 |
-| Normal | 36,595 |
+| Normal | 36,596 |
 
 
 </details>
