@@ -10,8 +10,11 @@
 
 ### 1a. Set up API for `Are links vulnerable to MITM attack?`(isMM)
 
+Pick A or B.
+
+> Type A: download JSON files and use them locally
 1. Copy [ismm.php](ismm.php) to your website directory.<br>
-    e.g. `/api/ismm.php`
+    e.g. `/api/ismm.php` (you can rename it)
 2. Create `listdata` directory.<br>
     e.g. `/api/listdata/`
 3. Download JSON files (*.json) from [/cloudflare_users/domains](../../cloudflare_users/domains) and save them to dir above.<br>
@@ -19,6 +22,12 @@
     (you can use [cfdomains --dl](../cfdomains/README.md) to download JSON)
 4. Open your API. It should say `OK`.<br>
     e.g. `http://localhost/api/ismm.php`
+
+> Type B: Use KarmaAPI online service
+1. Copy [ismm_online.php](ismm_online.php) to your website directory.<br>
+    e.g. `/api/ismm_online.php` (you can rename it)
+2. Open your API. It should say `OK`.<br>
+    e.g. `http://localhost/api/ismm_online.php`
 
 
 ### 1b. Set up API for `Will these links block Tor user?`(isAT)
