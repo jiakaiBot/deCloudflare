@@ -6373,6 +6373,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kaif88678916@twitter](https://twitter.com/Kaif88678916/status/1378248726020456451) | advertise |
 | [KaifeeGour7@twitter](https://twitter.com/KaifeeGour7/status/1730196318180557139) | advertise |
 | [kaikophyo@twitter](https://twitter.com/kaikophyo/status/1399295110282571776) | advertise |
+| [KailaylaD@twitter](https://twitter.com/KailaylaD/status/1732435572202070098) | advertise |
 | [KaiNgo8@twitter](https://twitter.com/KaiNgo8/status/1506138093937561607) | advertise |
 | [kainusaga@twitter](https://twitter.com/kainusaga/status/1380078279546167299) | advertise |
 | [Kaipa51@twitter](https://twitter.com/Kaipa51/status/1657678533060349954) | advertise |
@@ -6382,6 +6383,7 @@ Do not create new issue or we will close it as duplicate.
 | [KAITOKU39855874@twitter](https://twitter.com/KAITOKU39855874/status/1382939010385907714) | advertise |
 | [kaitozent@twitter](https://twitter.com/kaitozent/status/1538926813682204672) | advertise |
 | [kaitran_94@twitter](https://twitter.com/kaitran_94/status/1643702411230588928) | advertise |
+| [KAITYOY123@twitter](https://twitter.com/KAITYOY123/status/1732455022821261450) | advertise |
 | [Kaiy47997228@twitter](https://twitter.com/Kaiy47997228/status/1382748637629845510) | advertise |
 | [KaiZarK1@twitter](https://twitter.com/KaiZarK1/status/1392407912182599684) | advertise |
 | [kaizawa97@twitter](https://twitter.com/kaizawa97/status/1593885124176752640) | advertise |
@@ -6776,6 +6778,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhusaeniDeni@twitter](https://twitter.com/KhusaeniDeni/status/1393612284992245761) | advertise |
 | [Khushi75673773@twitter](https://twitter.com/Khushi75673773/status/1378980700389396483) | advertise |
 | [khuuvandoan@twitter](https://twitter.com/khuuvandoan/status/1485933839138824193) | advertise |
+| [Khwaay@twitter](https://twitter.com/Khwaay/status/1732455513059979351) | advertise |
 | [KhyingMyo@twitter](https://twitter.com/KhyingMyo/status/1396790741024743429) | advertise |
 | [Ki90981977@twitter](https://twitter.com/Ki90981977/status/1504373972762173440) | advertise |
 | [kiakam1998@twitter](https://twitter.com/kiakam1998/status/1545653881035640832) | advertise |
@@ -7612,6 +7615,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lin_Jaiant@twitter](https://twitter.com/Lin_Jaiant/status/1377974149759475712) | advertise |
 | [lionel_lwin@twitter](https://twitter.com/lionel_lwin/status/1475844957214625793) | advertise |
 | [Lipanba@twitter](https://twitter.com/Lipanba/status/1581667167959150594) | advertise |
+| [lipsigipsi@twitter](https://twitter.com/lipsigipsi/status/1732470293375885741) | advertise |
 | [LiquiditySwap@twitter](https://twitter.com/LiquiditySwap/status/1455310349893308420) | advertise |
 | [liquidman257@twitter](https://twitter.com/liquidman257/status/1557792965296361474) | advertise |
 | [liran7771@twitter](https://twitter.com/liran7771/status/1379709126905901061) | advertise |
