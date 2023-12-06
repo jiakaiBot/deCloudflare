@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 8,091 |
 | social | 4,695 |
 | net | 3,985 |
-| org | 2,667 |
-| de | 2,525 |
+| org | 2,668 |
+| de | 2,526 |
 
 
 - Mastodon, Pleroma, etc
@@ -14824,6 +14824,7 @@ Here's a list of public Fediverse services.
 | `fnm0.loan` | Yes |
 | `fnord.net.au` | No |
 | `fnordica.de` | No |
+| `fnordkollektiv.de` | No |
 | `fnordon.de` | No |
 | `fnukhosting.net` | No |
 | `fnwl.uk` | No |
@@ -24573,7 +24574,7 @@ Here's a list of public Fediverse services.
 | `lesateliersphv.net` | No |
 | `lesbean.cloud` | No |
 | `lesbi.in` | No |
-| `lesbiab.space` | No |
+| `lesbiab.space` | Yes |
 | `lesbiab.town` | No |
 | `lesbian.energy` | Yes |
 | `lesbian.farm` | No |
@@ -35983,6 +35984,7 @@ Here's a list of public Fediverse services.
 | `projekthafen.net` | No |
 | `projet21.eu` | No |
 | `projetretro.io` | No |
+| `projets-libres.org` | No |
 | `proko.ovh` | No |
 | `prolatio.xyz` | No |
 | `prolegom.com` | No |
@@ -51162,8 +51164,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,520 |
-| Normal | 36,594 |
+| Cloudflare | 14,521 |
+| Normal | 36,595 |
 
 
 </details>
