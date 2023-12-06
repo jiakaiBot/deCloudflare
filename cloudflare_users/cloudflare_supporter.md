@@ -4364,6 +4364,7 @@ Do not create new issue or we will close it as duplicate.
 | [goldenboi199@twitter](https://twitter.com/goldenboi199/status/1619012118401134593) | advertise |
 | [GoldenK45835342@twitter](https://twitter.com/GoldenK45835342/status/1574048018084425728) | advertise |
 | [GoldenT73523612@twitter](https://twitter.com/GoldenT73523612/status/1387635147965485061) | advertise |
+| [goldkung_Th@twitter](https://twitter.com/goldkung_Th/status/1732485104415764917) | advertise |
 | [GoldMic324209@twitter](https://twitter.com/GoldMic324209/status/1691711336378483020) | advertise |
 | [golf22110@twitter](https://twitter.com/golf22110/status/1606992184791937024) | advertise |
 | [golignews@twitter](https://twitter.com/golignews/status/1601520818466717696) | advertise |
@@ -14804,6 +14805,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wheezypit_@twitter](https://twitter.com/Wheezypit_/status/1665874524917624834) | advertise |
 | [whendietya@twitter](https://twitter.com/whendietya/status/1570095466783866880) | advertise |
 | [whinsche_CF@twitter](https://twitter.com/whinsche_CF/status/1528805265579057152) | advertise |
+| [whitesharkbgmi@twitter](https://twitter.com/whitesharkbgmi/status/1732478405634048094) | advertise |
 | [whitezomYT@twitter](https://twitter.com/whitezomYT/status/1597056863442726912) | advertise |
 | [Whoahheywhoah@twitter](https://twitter.com/Whoahheywhoah/status/1662024953770786816) | advertise |
 | [whoami3d@twitter](https://twitter.com/whoami3d/status/1629629582344069130) | advertise |
