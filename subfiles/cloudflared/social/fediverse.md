@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,088 |
+| com | 8,091 |
 | social | 4,695 |
 | net | 3,983 |
 | org | 2,667 |
-| de | 2,523 |
+| de | 2,525 |
 
 
 - Mastodon, Pleroma, etc
@@ -1754,6 +1754,7 @@ Here's a list of public Fediverse services.
 | `alexwlchan.net` | No |
 | `alexx.ml` | Yes |
 | `alexyang.me` | Yes |
+| `alexzeecomedy.com` | No |
 | `alfalfa.social` | No |
 | `alfazema.club` | No |
 | `alfebelow.com` | No |
@@ -3908,6 +3909,7 @@ Here's a list of public Fediverse services.
 | `bah.io` | Yes |
 | `bahamutsoft.net` | No |
 | `bahanurisabroad.com` | No |
+| `bahn.love` | No |
 | `bahn.social` | No |
 | `bahnhof.cz` | No |
 | `bahuma.io` | No |
@@ -4344,6 +4346,7 @@ Here's a list of public Fediverse services.
 | `beets.social` | No |
 | `beevibes.net` | No |
 | `before.dog` | No |
+| `beforethefuture.space` | No |
 | `begbie.party` | No |
 | `beginnerl.xyz` | No |
 | `begoo.bar` | No |
@@ -7731,6 +7734,7 @@ Here's a list of public Fediverse services.
 | `classifiedcosmos.com` | No |
 | `clatter.eu` | Yes |
 | `clatza.dev` | No |
+| `claudia-knit.com` | No |
 | `claudio.asia` | No |
 | `claudon.me` | No |
 | `clausgames.com` | Yes |
@@ -8195,7 +8199,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8301,6 +8305,7 @@ Here's a list of public Fediverse services.
 | `complexityweekend.xyz` | No |
 | `complifiction.net` | No |
 | `compositecomputer.club` | Yes |
+| `compost.digital` | No |
 | `compostintraining.club` | No |
 | `compound.social` | No |
 | `comprac.info` | No |
@@ -16421,6 +16426,7 @@ Here's a list of public Fediverse services.
 | `gentoo.live` | Yes |
 | `genuineparts.org` | No |
 | `genuinepet.rocks` | No |
+| `genxer.nz` | No |
 | `genxp.net` | No |
 | `genya0407.link` | No |
 | `genzedong.net` | No |
@@ -16505,6 +16511,7 @@ Here's a list of public Fediverse services.
 | `getpterotype.com` | No |
 | `getradicaldu.de` | No |
 | `getsummary.tech` | Yes |
+| `gettuph.com` | No |
 | `geturl.net` | No |
 | `getwild.online` | No |
 | `geveze.social` | No |
@@ -20848,6 +20855,7 @@ Here's a list of public Fediverse services.
 | `jacobandersen.dev` | Yes |
 | `jacobcovell.com` | No |
 | `jacobhaddon.com` | No |
+| `jacobi-bs.de` | No |
 | `jacobian.org` | Yes |
 | `jacobneplokh.com` | Yes |
 | `jacobpa.com` | Yes |
@@ -26688,6 +26696,7 @@ Here's a list of public Fediverse services.
 | `masonbee.nz` | No |
 | `masonx.ca` | Yes |
 | `masost.one` | Yes |
+| `masq.run` | No |
 | `masq.world` | No |
 | `masr.social` | No |
 | `masrahi.win` | Yes |
@@ -30423,6 +30432,7 @@ Here's a list of public Fediverse services.
 | `nakadashi.mobi` | No |
 | `nakadashi.rocks` | No |
 | `nakamoto.social` | Yes |
+| `nakamura.io` | No |
 | `nakano-suginami.click` | Yes |
 | `nakanod.net` | No |
 | `nakapol.com` | Yes |
@@ -31609,6 +31619,7 @@ Here's a list of public Fediverse services.
 | `nlgcuba.org` | No |
 | `nlhiphop.nl` | No |
 | `nlmakers.ca` | No |
+| `nlnet.nl` | No |
 | `nlogic.systems` | No |
 | `nlpagan.net` | No |
 | `nlpaige.me` | No |
@@ -38236,6 +38247,7 @@ Here's a list of public Fediverse services.
 | `romneko.net` | Yes |
 | `rompe.org` | No |
 | `roms4mame.com` | No |
+| `romu.casa` | No |
 | `ronaldoussoren.net` | No |
 | `ronbronson.com` | No |
 | `rondheim.haus` | No |
@@ -48559,6 +48571,7 @@ Here's a list of public Fediverse services.
 | `weatherishappening.network` | No |
 | `weaviate.community` | No |
 | `web-dev.social` | No |
+| `web-fellow.de` | No |
 | `web-kotobuki.net` | Yes |
 | `web-of-us.com` | No |
 | `web-optimierer.ch` | No |
@@ -51147,8 +51160,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,514 |
-| Normal | 36,585 |
+| Cloudflare | 14,515 |
+| Normal | 36,597 |
 
 
 </details>
