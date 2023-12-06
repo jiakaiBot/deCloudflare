@@ -1834,6 +1834,7 @@ Do not create new issue or we will close it as duplicate.
 | [BFTHUSA@twitter](https://twitter.com/BFTHUSA/status/1698707537015566487) | advertise |
 | [Bg9Ghost@twitter](https://twitter.com/Bg9Ghost/status/1545570473819488259) | advertise |
 | [bgdg51116685@twitter](https://twitter.com/bgdg51116685/status/1619154473603170305) | advertise |
+| [bghkhtv79698@twitter](https://twitter.com/bghkhtv79698/status/1732324279113670849) | advertise |
 | [BGirlMM4444@twitter](https://twitter.com/BGirlMM4444/status/1601186821139927041) | advertise |
 | [BGomez77@twitter](https://twitter.com/BGomez77/status/1377795873955049472) | advertise |
 | [BGSG45998073@twitter](https://twitter.com/BGSG45998073/status/1396751243352084487) | advertise |
@@ -15291,6 +15292,7 @@ Do not create new issue or we will close it as duplicate.
 | [YoungHo02960237@twitter](https://twitter.com/YoungHo02960237/status/1391691366099570689) | advertise |
 | [Youngking25555@twitter](https://twitter.com/Youngking25555/status/1536301530193743872) | advertise |
 | [youngmao89@twitter](https://twitter.com/youngmao89/status/1478019085409533955) | advertise |
+| [young_adai@twitter](https://twitter.com/young_adai/status/1732324570131288414) | advertise |
 | [YourDad50670613@twitter](https://twitter.com/YourDad50670613/status/1404477486487019527) | advertise |
 | [yourkshitij@twitter](https://twitter.com/yourkshitij/status/1564977033435705344) | advertise |
 | [yourmomszn@twitter](https://twitter.com/yourmomszn/status/1632759129491095555) | advertise |
