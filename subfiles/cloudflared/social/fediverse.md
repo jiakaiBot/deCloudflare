@@ -28319,6 +28319,7 @@ Here's a list of public Fediverse services.
 | `miipub.com` | Yes |
 | `miisu.net` | No |
 | `mijninternet.info` | No |
+| `mijukey.work` | Yes |
 | `mik.cloud` | No |
 | `mika.xyz` | No |
 | `mikado-city.jp` | No |
@@ -51146,7 +51147,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,513 |
+| Cloudflare | 14,514 |
 | Normal | 36,585 |
 
 
