@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [URLs whose paths begin with /data/ do not work](https://github.com/microbiomedata/nmdc-server/issues/1094)
+- [getActiveConfig() returns null](https://github.com/evanderkoogh/otel-cf-workers/issues/76)
 - [width from useResizeDetector() sometimes is undefined and thus <Page/> component doesnt render](https://github.com/joschan21/quill/issues/49)
 - [Error when trying to install @astrojs/netlify@v3.1.0 with astro@v4.0.3](https://github.com/withastro/adapters/issues/99)
 - [ZodOpenAPI errors after 3.10.5 and 0.9x](https://github.com/honojs/hono/issues/1784)
