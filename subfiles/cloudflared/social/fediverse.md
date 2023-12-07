@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,092 |
 | social | 4,696 |
-| net | 3,986 |
+| net | 3,987 |
 | org | 2,668 |
 | de | 2,526 |
 
@@ -20624,6 +20624,7 @@ Here's a list of public Fediverse services.
 | `isurf.ca` | No |
 | `isv.social` | No |
 | `iswleuven.be` | No |
+| `it-arts.net` | No |
 | `it-blogger.dk` | No |
 | `it-dengler.de` | No |
 | `it-freelancer.hamburg` | No |
@@ -35265,6 +35266,7 @@ Here's a list of public Fediverse services.
 | `plumey.com` | Yes |
 | `plumino.xyz` | Yes |
 | `plural.cafe` | No |
+| `plural.city` | Yes |
 | `plural.lol` | Yes |
 | `plus.com` | No |
 | `plus.st` | No |
@@ -45824,7 +45826,7 @@ Here's a list of public Fediverse services.
 | `trace-and-traceability.org` | No |
 | `trachsel.org` | No |
 | `trackball.love` | Yes |
-| `trackmania.social` | Yes |
+| `trackmania.social` | No |
 | `trackside.blog` | No |
 | `traction.jp` | No |
 | `tracydurnell.com` | No |
@@ -51174,7 +51176,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,522 |
-| Normal | 36,603 |
+| Normal | 36,605 |
 
 
 </details>
