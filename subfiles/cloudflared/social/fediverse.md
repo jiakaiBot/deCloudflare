@@ -6580,6 +6580,7 @@ Here's a list of public Fediverse services.
 | `cantor.cloud` | No |
 | `cantordust.social` | No |
 | `cantos.social` | No |
+| `cantrika.id` | Yes |
 | `canuck.blog` | No |
 | `canucks.social` | Yes |
 | `canzan.chat` | No |
@@ -8198,7 +8199,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -13061,7 +13062,7 @@ Here's a list of public Fediverse services.
 | `espeweb.net` | No |
 | `espial.me` | No |
 | `espinha.net` | No |
-| `espod.social` | Yes |
+| `espod.social` | No |
 | `espodcast.net` | Yes |
 | `espr.moe` | Yes |
 | `esprath.page` | No |
@@ -48986,7 +48987,7 @@ Here's a list of public Fediverse services.
 | `wiegehts.cloud` | No |
 | `wien.rocks` | Yes |
 | `wienermobile.rentals` | No |
-| `wieners.lol` | Yes |
+| `wieners.lol` | No |
 | `wierenga.net` | No |
 | `wierlemann.net` | No |
 | `wiesbaden.social` | Yes |
@@ -51175,8 +51176,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,522 |
-| Normal | 36,605 |
+| Cloudflare | 14,520 |
+| Normal | 36,608 |
 
 
 </details>
