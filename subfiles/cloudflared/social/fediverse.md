@@ -21243,6 +21243,7 @@ Here's a list of public Fediverse services.
 | `jeremybaker.nz` | No |
 | `jeremybelcher.co` | Yes |
 | `jeremydormitzer.com` | No |
+| `jeremykidwell.info` | Yes |
 | `jeremykun.com` | No |
 | `jeremyrenner.app` | No |
 | `jeremyrenner.club` | No |
@@ -49463,6 +49464,7 @@ Here's a list of public Fediverse services.
 | `wovensoup.com` | No |
 | `wovs.tk` | Yes |
 | `wowana.me` | No |
+| `wowne.ro` | Yes |
 | `wowsdon.xyz` | No |
 | `woyala.com` | Yes |
 | `wp-devil.com` | No |
@@ -51186,7 +51188,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,523 |
+| Cloudflare | 14,525 |
 | Normal | 36,615 |
 
 
