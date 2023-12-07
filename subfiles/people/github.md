@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to parse WarpPolicy: "exclude" field is missing.](https://github.com/poscat0x04/wgcf-teams/issues/7)
 - [Demo Website Bad Gateway](https://github.com/AzuraCast/AzuraCast/issues/6782)
 - [URLs whose paths begin with /data/ do not work](https://github.com/microbiomedata/nmdc-server/issues/1094)
 - [getActiveConfig() returns null](https://github.com/evanderkoogh/otel-cf-workers/issues/76)
