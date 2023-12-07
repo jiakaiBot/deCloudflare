@@ -1416,6 +1416,7 @@ Here's a list of public Fediverse services.
 | `agoranet.info` | No |
 | `agori.dev` | Yes |
 | `agorism.blog` | No |
+| `agostinelli.eu` | No |
 | `agouritin.fr` | No |
 | `agrico.la` | Yes |
 | `agroecologymap.org` | No |
@@ -51189,7 +51190,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,525 |
-| Normal | 36,615 |
+| Normal | 36,616 |
 
 
 </details>
