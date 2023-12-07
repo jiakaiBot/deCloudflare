@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't use focal points or cropping in 2.4.0 with plugin-cloud-storage](https://github.com/payloadcms/payload/issues/4422)
 - [CloudFlare Increased 500 errors for Cloudflare Workers API](https://github.com/hinoshiba/news/issues/6909)
 - [CloudFlare Increased 500 errors for Cloudflare Workers API](https://github.com/SecOpsNews/news/issues/22171)
 - [Error when overriding c.res field of a fetch response object in custom middleware using Hono (Can't modify immutable headers)](https://github.com/honojs/hono/issues/1789)
