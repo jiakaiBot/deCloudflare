@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,095 |
 | social | 4,696 |
-| net | 3,989 |
+| net | 3,990 |
 | org | 2,669 |
 | de | 2,526 |
 
@@ -43995,6 +43995,7 @@ Here's a list of public Fediverse services.
 | `television.social` | No |
 | `teleyal.blog` | No |
 | `tellco.ca` | Yes |
+| `telleverybody.net` | No |
 | `tellytips.com` | No |
 | `telmina.com` | No |
 | `telmo.club` | No |
@@ -51193,7 +51194,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,525 |
-| Normal | 36,619 |
+| Normal | 36,620 |
 
 
 </details>
