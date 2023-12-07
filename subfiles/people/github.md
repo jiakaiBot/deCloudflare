@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increased 500 errors for Cloudflare Workers API](https://github.com/hinoshiba/news/issues/6909)
+- [CloudFlare Increased 500 errors for Cloudflare Workers API](https://github.com/SecOpsNews/news/issues/22171)
+- [Error when overriding c.res field of a fetch response object in custom middleware using Hono (Can't modify immutable headers)](https://github.com/honojs/hono/issues/1789)
 - [Failed to parse WarpPolicy: "exclude" field is missing.](https://github.com/poscat0x04/wgcf-teams/issues/7)
 - [Demo Website Bad Gateway](https://github.com/AzuraCast/AzuraCast/issues/6782)
 - [URLs whose paths begin with /data/ do not work](https://github.com/microbiomedata/nmdc-server/issues/1094)
