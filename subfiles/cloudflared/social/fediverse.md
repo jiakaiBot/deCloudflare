@@ -37226,6 +37226,7 @@ Here's a list of public Fediverse services.
 | `rdfrn.net` | No |
 | `rdfrn.social` | No |
 | `rdg.world` | No |
+| `rdgx.fr` | No |
 | `rdh27785.net` | No |
 | `rdis.dev` | No |
 | `rdl.ph` | Yes |
@@ -51190,7 +51191,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,525 |
-| Normal | 36,616 |
+| Normal | 36,617 |
 
 
 </details>
