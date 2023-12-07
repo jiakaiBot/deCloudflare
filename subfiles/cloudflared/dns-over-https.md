@@ -114,7 +114,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | konikoni428.com | Yes |
 | kpsn.org | Yes |
 | krnl.eu | Yes |
-| kul-lippek.de | No |
 | lacontrevoie.fr | No |
 | lastentarvike.fi | No |
 | lavate.ch | Yes |
@@ -159,7 +158,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | quad9.net | Yes |
 | qwer.pw | Yes |
 | r0cket.net | No |
-| rayneau.fr | No |
 | reckoningslug.name | Yes |
 | restena.lu | No |
 | rethinkdns.com | Yes |
@@ -214,7 +212,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 93 |
-| Normal | 101 |
+| Normal | 99 |
 
 
-### 47.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
