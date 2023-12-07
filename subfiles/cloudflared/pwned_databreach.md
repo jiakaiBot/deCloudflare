@@ -325,6 +325,7 @@ Here's a list of breached sites.
 | JobStreet | 3,883,455 | Yes |
 | Jobzone | 29,708 | No |
 | JoomlArt | 22,477 | Yes |
+| JoyGames | 4,461,787 | Yes |
 | JukinMedia | 314,290 | Yes |
 | JustDate (Justdate.com) | 24,451,312 | No |
 | KMRU (KM.RU) | 1,476,783 | Yes |
@@ -720,10 +721,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 409 | 4,527,997,142 |
+| Cloudflare | 410 | 4,532,458,929 |
 | Normal | 290 | 4,559,784,171 |
 
 
 
-### 58.5% of breached sites (pwned sites) are using Cloudflare.
+### 58.6% of breached sites (pwned sites) are using Cloudflare.
 ### 49.8% of leaked accounts are on Cloudflare sites.
