@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,094 |
 | social | 4,696 |
-| net | 3,988 |
+| net | 3,989 |
 | org | 2,668 |
 | de | 2,526 |
 
@@ -8199,7 +8199,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11234,6 +11234,7 @@ Here's a list of public Fediverse services.
 | `dogsex.org` | Yes |
 | `dogspin.xyz` | Yes |
 | `dogsports.social` | No |
+| `dogtyping.net` | No |
 | `dogwhipping.day` | No |
 | `dogwonder.co.uk` | Yes |
 | `doherty.social` | Yes |
@@ -20071,6 +20072,7 @@ Here's a list of public Fediverse services.
 | `inferiorlattice.com` | No |
 | `infernal.garden` | No |
 | `infernalerror.com` | Yes |
+| `infini.fr` | No |
 | `infinimatix.net` | Yes |
 | `infinit7even.it` | Yes |
 | `infinite.jetzt` | No |
@@ -51184,8 +51186,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,522 |
-| Normal | 36,614 |
+| Cloudflare | 14,523 |
+| Normal | 36,615 |
 
 
 </details>
