@@ -1589,6 +1589,7 @@ Do not create new issue or we will close it as duplicate.
 | [azwaliz71775384@twitter](https://twitter.com/azwaliz71775384/status/1717493141367120217) | advertise |
 | [AzyOppa@twitter](https://twitter.com/AzyOppa/status/1389876605426671616) | advertise |
 | [Azzam95_@twitter](https://twitter.com/Azzam95_/status/1504244848743833604) | advertise |
+| [AzzamAh62871974@twitter](https://twitter.com/AzzamAh62871974/status/1732874323809988713) | advertise |
 | [A_Aleem_Baig@twitter](https://twitter.com/A_Aleem_Baig/status/1531714345117294600) | advertise |
 | [A_As12091@twitter](https://twitter.com/A_As12091/status/1571243872180633605) | advertise |
 | [A_Foxy_Lady@twitter](https://twitter.com/A_Foxy_Lady/status/1665874049908482048) | advertise |
@@ -8753,6 +8754,7 @@ Do not create new issue or we will close it as duplicate.
 | [MMARMY98815463@twitter](https://twitter.com/MMARMY98815463/status/1383095144606441473) | advertise |
 | [MMassman87993@twitter](https://twitter.com/MMassman87993/status/1722472643943608641) | advertise |
 | [Mmd1252159@twitter](https://twitter.com/Mmd1252159/status/1730096841981931920) | advertise |
+| [mmdly112482@twitter](https://twitter.com/mmdly112482/status/1732881524494577842) | advertise |
 | [mmfootballmm@twitter](https://twitter.com/mmfootballmm/status/1380215958082441218) | advertise |
 | [mmi123456@twitter](https://twitter.com/mmi123456/status/1572690037120143363) | advertise |
 | [MMK22797499@twitter](https://twitter.com/MMK22797499/status/1391278481300938752) | advertise |
