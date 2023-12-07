@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,092 |
+| com | 8,093 |
 | social | 4,696 |
 | net | 3,987 |
 | org | 2,668 |
@@ -16078,6 +16078,7 @@ Here's a list of public Fediverse services.
 | `gamphi.com` | No |
 | `gamt.tech` | No |
 | `ganba.re` | No |
+| `ganbarefullmoon.com` | No |
 | `gancio.org` | No |
 | `gandhithedergrawr.com` | No |
 | `gandi.net` | Yes |
@@ -51179,7 +51180,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,521 |
-| Normal | 36,609 |
+| Normal | 36,610 |
 
 
 </details>
