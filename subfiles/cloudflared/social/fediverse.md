@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,093 |
+| com | 8,094 |
 | social | 4,696 |
-| net | 3,987 |
+| net | 3,988 |
 | org | 2,668 |
 | de | 2,526 |
 
@@ -15938,6 +15938,7 @@ Here's a list of public Fediverse services.
 | `gabosh.net` | No |
 | `gabrielcornish.com` | No |
 | `gabrieldebonis.es` | Yes |
+| `gabrielfelipe.com` | No |
 | `gabrielsirilan.com` | Yes |
 | `gabrielwilson.me` | No |
 | `gabskent.de` | Yes |
@@ -26613,6 +26614,7 @@ Here's a list of public Fediverse services.
 | `marsupialgurgle.com` | Yes |
 | `mart-e.be` | No |
 | `marte.city` | Yes |
+| `martelleur.online` | No |
 | `marthaburtis.net` | No |
 | `martiabernathey.com` | No |
 | `martian.social` | No |
@@ -39872,6 +39874,7 @@ Here's a list of public Fediverse services.
 | `sembei.net` | Yes |
 | `semblanceoffunctionality.com` | No |
 | `semcensura.xyz` | No |
+| `semendemon.net` | No |
 | `semente.io` | No |
 | `sementerrori.st` | No |
 | `semicharmed.net` | No |
@@ -45448,6 +45451,7 @@ Here's a list of public Fediverse services.
 | `tomstu.art` | No |
 | `tomtau.be` | No |
 | `tomtaylor.co.uk` | Yes |
+| `tomtom.bio` | No |
 | `tomtom.space` | No |
 | `tomw.net` | No |
 | `tomw.social` | No |
@@ -49263,6 +49267,7 @@ Here's a list of public Fediverse services.
 | `wkfg.me` | No |
 | `wkly.ws` | No |
 | `wkspcloud.com` | Yes |
+| `wku.edu` | Yes |
 | `wkwk.land` | Yes |
 | `wkwkwk.fun` | Yes |
 | `wlabs.de` | No |
@@ -51179,8 +51184,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,521 |
-| Normal | 36,610 |
+| Cloudflare | 14,522 |
+| Normal | 36,614 |
 
 
 </details>
