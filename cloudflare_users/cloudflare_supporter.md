@@ -1210,6 +1210,7 @@ Do not create new issue or we will close it as duplicate.
 | [ArunShah1997@twitter](https://twitter.com/ArunShah1997/status/1401586641794342914) | advertise |
 | [ArunSharma948@twitter](https://twitter.com/ArunSharma948/status/1682340078645813249) | advertise |
 | [Arunvlondhe1@twitter](https://twitter.com/Arunvlondhe1/status/1394094384560230403) | advertise |
+| [ARUN_MADSEE@twitter](https://twitter.com/ARUN_MADSEE/status/1732732931867865194) | advertise |
 | [arvind_sh0108@twitter](https://twitter.com/arvind_sh0108/status/1386913767473090570) | advertise |
 | [arvinvxiii@twitter](https://twitter.com/arvinvxiii/status/1377549061314772998) | advertise |
 | [Aryan281684@twitter](https://twitter.com/Aryan281684/status/1632116552836296709) | advertise |
@@ -6553,6 +6554,7 @@ Do not create new issue or we will close it as duplicate.
 | [kd2qqv@twitter](https://twitter.com/kd2qqv/status/1449891246479130625) | advertise |
 | [Kdah6FO5yD5H0UH@twitter](https://twitter.com/Kdah6FO5yD5H0UH/status/1383204544495063041) | advertise |
 | [KDarbak@twitter](https://twitter.com/KDarbak/status/1634116951063535624) | advertise |
+| [kdrlmy1@twitter](https://twitter.com/kdrlmy1/status/1732746479624970698) | advertise |
 | [kea4nu@twitter](https://twitter.com/kea4nu/status/1532442400831901698) | advertise |
 | [KeartisakP1998K@twitter](https://twitter.com/KeartisakP1998K/status/1505614174239354883) | advertise |
 | [kebaihong3@twitter](https://twitter.com/kebaihong3/status/1684749481945001984) | advertise |
@@ -6702,6 +6704,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhantThuraZaw9@twitter](https://twitter.com/KhantThuraZaw9/status/1397237559722381313) | advertise |
 | [KhantZi92121217@twitter](https://twitter.com/KhantZi92121217/status/1391575857693483010) | advertise |
 | [KhanZad82079366@twitter](https://twitter.com/KhanZad82079366/status/1547071287473963009) | advertise |
+| [KhasanP49667@twitter](https://twitter.com/KhasanP49667/status/1732736480668442889) | advertise |
 | [KhashifTalks@twitter](https://twitter.com/KhashifTalks/status/1681067446911004672) | advertise |
 | [khat4455@twitter](https://twitter.com/khat4455/status/1395265578454159362) | advertise |
 | [KhaTrng20145851@twitter](https://twitter.com/KhaTrng20145851/status/1684632431759081472) | advertise |
@@ -13541,6 +13544,7 @@ Do not create new issue or we will close it as duplicate.
 | [thomasselvaraj4@twitter](https://twitter.com/thomasselvaraj4/status/1486340242789470212) | advertise |
 | [ThomasW18140614@twitter](https://twitter.com/ThomasW18140614/status/1523140461493309440) | advertise |
 | [thomas_n_hogh@twitter](https://twitter.com/thomas_n_hogh/status/1560917291335929863) | advertise |
+| [thomous20@twitter](https://twitter.com/thomous20/status/1732739992676622664) | advertise |
 | [thone20208234@twitter](https://twitter.com/thone20208234/status/1388498430025105408) | advertise |
 | [thongda80417861@twitter](https://twitter.com/thongda80417861/status/1387699659456528386) | advertise |
 | [ThongTruongVan2@twitter](https://twitter.com/ThongTruongVan2/status/1711059322007089571) | advertise |
