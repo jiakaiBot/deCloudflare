@@ -46,7 +46,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | blahdns.com | Yes |
 | blokada.org | Yes |
 | boje8.me | Yes |
-| bosco.ovh | No |
 | brahma.world | Yes |
 | c-dns.com | No |
 | carson-family.com | Yes |
@@ -212,7 +211,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 93 |
-| Normal | 99 |
+| Normal | 98 |
 
 
-### 48.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
