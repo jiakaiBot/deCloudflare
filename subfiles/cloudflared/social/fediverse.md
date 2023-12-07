@@ -15559,6 +15559,7 @@ Here's a list of public Fediverse services.
 | `fsi.rocks` | No |
 | `fsimonetti.info` | Yes |
 | `fsinf.at` | No |
+| `fsk.im` | No |
 | `fslhome.org` | No |
 | `fslurs.gay` | No |
 | `fsmeets.nl` | No |
@@ -32796,6 +32797,7 @@ Here's a list of public Fediverse services.
 | `oita-pikapika.net` | No |
 | `ojamajo.moe` | No |
 | `ojitabi.club` | No |
+| `ojodojo.casa` | Yes |
 | `ojour.de` | No |
 | `ojousama-tea.party` | Yes |
 | `ok1bt.cz` | No |
@@ -51176,8 +51178,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,520 |
-| Normal | 36,608 |
+| Cloudflare | 14,521 |
+| Normal | 36,609 |
 
 
 </details>
