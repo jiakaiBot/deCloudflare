@@ -10092,6 +10092,7 @@ Here's a list of public Fediverse services.
 | `deaf.group` | No |
 | `deaf.rocks` | No |
 | `deafblind.social` | No |
+| `deafmute.online` | No |
 | `deafpirate.com` | Yes |
 | `deafpros.com` | No |
 | `deagle.club` | No |
@@ -51198,7 +51199,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,518 |
-| Normal | 36,631 |
+| Normal | 36,632 |
 
 
 </details>
