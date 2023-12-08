@@ -3579,6 +3579,7 @@ Do not create new issue or we will close it as duplicate.
 | [Eainzonn@twitter](https://twitter.com/Eainzonn/status/1399198586072551426) | advertise |
 | [Eakruthaicc@twitter](https://twitter.com/Eakruthaicc/status/1468811322716352512) | advertise |
 | [EAlisow@twitter](https://twitter.com/EAlisow/status/1592966401152913408) | advertise |
+| [EangKeat2319@twitter](https://twitter.com/EangKeat2319/status/1732922356069232955) | advertise |
 | [EarlMur88577933@twitter](https://twitter.com/EarlMur88577933/status/1534644631996096515) | advertise |
 | [Earth57933455@twitter](https://twitter.com/Earth57933455/status/1392991054819856384) | advertise |
 | [EarthX43@twitter](https://twitter.com/EarthX43/status/1552745720192864257) | advertise |
@@ -4609,6 +4610,7 @@ Do not create new issue or we will close it as duplicate.
 | [hamolll@twitter](https://twitter.com/hamolll/status/1487817397415333888) | advertise |
 | [Hampton1Solena@twitter](https://twitter.com/Hampton1Solena/status/1644553626826809345) | advertise |
 | [hampus374@twitter](https://twitter.com/hampus374/status/1574337433482698754) | advertise |
+| [Hamzahp15@twitter](https://twitter.com/Hamzahp15/status/1732919915391099001) | advertise |
 | [hana66669@twitter](https://twitter.com/hana66669/status/1379180701921148929) | advertise |
 | [Hanafi49043301@twitter](https://twitter.com/Hanafi49043301/status/1574824619655110656) | advertise |
 | [hanas001@twitter](https://twitter.com/hanas001/status/1535270131479224321) | advertise |
@@ -8367,6 +8369,7 @@ Do not create new issue or we will close it as duplicate.
 | [md_Ab_farhan5@twitter](https://twitter.com/md_Ab_farhan5/status/1590401641299447808) | advertise |
 | [md_mamun123456@twitter](https://twitter.com/md_mamun123456/status/1567851861889413120) | advertise |
 | [Me3nDDbGmrDw9Lw@twitter](https://twitter.com/Me3nDDbGmrDw9Lw/status/1407391634812293121) | advertise |
+| [MeanderingWonk@twitter](https://twitter.com/MeanderingWonk/status/1732950271041614008) | advertise |
 | [measakid4030@twitter](https://twitter.com/measakid4030/status/1538259167776886784) | advertise |
 | [Measillife@twitter](https://twitter.com/Measillife/status/1578481781246144512) | advertise |
 | [med61883332@twitter](https://twitter.com/med61883332/status/1439010726480420871) | advertise |
@@ -9572,6 +9575,7 @@ Do not create new issue or we will close it as duplicate.
 | [NextAds1@twitter](https://twitter.com/NextAds1/status/1555508312602722304) | advertise |
 | [NextGenTechLLC@twitter](https://twitter.com/NextGenTechLLC/status/1680687533523337216) | advertise |
 | [nextsolusindo@twitter](https://twitter.com/nextsolusindo/status/1705786461944205527) | advertise |
+| [NezukoK76711099@twitter](https://twitter.com/NezukoK76711099/status/1732969862186856489) | advertise |
 | [ne_____34r@twitter](https://twitter.com/ne_____34r/status/1655191577684242433) | advertise |
 | [NftfunmadeX@twitter](https://twitter.com/NftfunmadeX/status/1611882239977000960) | advertise |
 | [NFTsMintMarket@twitter](https://twitter.com/NFTsMintMarket/status/1508599297839104003) | advertise |
@@ -14325,6 +14329,7 @@ Do not create new issue or we will close it as duplicate.
 | [urbanmagazine@twitter](https://twitter.com/urbanmagazine/status/1660352600259141633) | advertise |
 | [uriodav81@twitter](https://twitter.com/uriodav81/status/1647503643757649920) | advertise |
 | [URkar3@twitter](https://twitter.com/URkar3/status/1395564448207704066) | advertise |
+| [urmom0690@twitter](https://twitter.com/urmom0690/status/1732899216970637345) | advertise |
 | [us5bowling@twitter](https://twitter.com/us5bowling/status/1598492947045031938) | advertise |
 | [usaexpress24@twitter](https://twitter.com/usaexpress24/status/1696983540754469019) | advertise |
 | [USai01177352@twitter](https://twitter.com/USai01177352/status/1395520546037592064) | advertise |
