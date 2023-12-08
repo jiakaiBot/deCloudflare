@@ -20709,6 +20709,7 @@ Here's a list of public Fediverse services.
 | `itsmy.social` | Yes |
 | `itsnero.com` | Yes |
 | `itsneversunnyinnd.com` | No |
+| `itsnot.online` | No |
 | `itsnotjusttheflu.org` | No |
 | `itsover.cyou` | No |
 | `itsroberta.com` | No |
@@ -51212,7 +51213,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,528 |
-| Normal | 36,635 |
+| Normal | 36,636 |
 
 
 </details>
