@@ -4109,6 +4109,7 @@ Do not create new issue or we will close it as duplicate.
 | [FShetf@twitter](https://twitter.com/FShetf/status/1595169853568126995) | advertise |
 | [FsoIndustries@twitter](https://twitter.com/FsoIndustries/status/1509979654941204482) | advertise |
 | [ftoukhi@twitter](https://twitter.com/ftoukhi/status/1552612050836373506) | advertise |
+| [ftservice77@twitter](https://twitter.com/ftservice77/status/1733092333233860639) | advertise |
 | [fuad_farooq@twitter](https://twitter.com/fuad_farooq/status/1708893140609098001) | advertise |
 | [fuchiy0902@twitter](https://twitter.com/fuchiy0902/status/1606384363389980672) | advertise |
 | [Fuck72226954255@twitter](https://twitter.com/Fuck72226954255/status/1679519144029323266) | advertise |
@@ -5142,6 +5143,7 @@ Do not create new issue or we will close it as duplicate.
 | [hossain888@twitter](https://twitter.com/hossain888/status/1380730493172215812) | advertise |
 | [hosscold@twitter](https://twitter.com/hosscold/status/1576568924576960512) | advertise |
 | [hossein7118ab@twitter](https://twitter.com/hossein7118ab/status/1578508824386076674) | advertise |
+| [Hossein21783538@twitter](https://twitter.com/Hossein21783538/status/1733079670944415876) | advertise |
 | [HOSSEIN27903189@twitter](https://twitter.com/HOSSEIN27903189/status/1384450683731169280) | advertise |
 | [hossein61292200@twitter](https://twitter.com/hossein61292200/status/1579539812528578561) | advertise |
 | [Hossein79119589@twitter](https://twitter.com/Hossein79119589/status/1573030896655273985) | advertise |
@@ -5841,6 +5843,7 @@ Do not create new issue or we will close it as duplicate.
 | [jAbdullahMughal@twitter](https://twitter.com/jAbdullahMughal/status/1477590087437279232) | advertise |
 | [jaberalipur@twitter](https://twitter.com/jaberalipur/status/1580619614689824768) | advertise |
 | [Jabinhossain@twitter](https://twitter.com/Jabinhossain/status/1541025396141232128) | advertise |
+| [jabuaho@twitter](https://twitter.com/jabuaho/status/1733087899988488344) | advertise |
 | [jack14606576@twitter](https://twitter.com/jack14606576/status/1581391167974821890) | advertise |
 | [Jack21896821@twitter](https://twitter.com/Jack21896821/status/1538019802752913408) | advertise |
 | [JACK63552523@twitter](https://twitter.com/JACK63552523/status/1400836452087255041) | advertise |
@@ -11270,6 +11273,7 @@ Do not create new issue or we will close it as duplicate.
 | [rahimifafa@twitter](https://twitter.com/rahimifafa/status/1380971241629229064) | advertise |
 | [rahimSh63377554@twitter](https://twitter.com/rahimSh63377554/status/1639028396322701320) | advertise |
 | [Rahman555666@twitter](https://twitter.com/Rahman555666/status/1681227042270990337) | advertise |
+| [Rahman87299461@twitter](https://twitter.com/Rahman87299461/status/1733079819326296093) | advertise |
 | [rahmat3769@twitter](https://twitter.com/rahmat3769/status/1389475547445616644) | advertise |
 | [RahmatRasoly@twitter](https://twitter.com/RahmatRasoly/status/1520311985862320133) | advertise |
 | [rahul05ranjan@twitter](https://twitter.com/rahul05ranjan/status/1497685840428146688) | advertise |
@@ -12991,6 +12995,7 @@ Do not create new issue or we will close it as duplicate.
 | [takn12262883@twitter](https://twitter.com/takn12262883/status/1380791412078206978) | advertise |
 | [TAKUMIM26464450@twitter](https://twitter.com/TAKUMIM26464450/status/1390850611499831299) | advertise |
 | [takungsaplod@twitter](https://twitter.com/takungsaplod/status/1625170203016560642) | advertise |
+| [talalbinaziz@twitter](https://twitter.com/talalbinaziz/status/1733087042437857787) | advertise |
 | [talamon100@twitter](https://twitter.com/talamon100/status/1474838382211571713) | advertise |
 | [TalbizleScott@twitter](https://twitter.com/TalbizleScott/status/1684950258453786625) | advertise |
 | [TalebAbuGhaith@twitter](https://twitter.com/TalebAbuGhaith/status/1403284520623824903) | advertise |
