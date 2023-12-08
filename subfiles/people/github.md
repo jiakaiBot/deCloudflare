@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't get single certificate for both DOMAIN.com and *.DOMAIN.com](https://github.com/go-acme/lego/issues/2068)
 - [Cloudflare WARP+ Changing with Bot](https://github.com/hiddify/Hiddify-Manager/issues/3458)
 - [Can't use focal points or cropping in 2.4.0 with plugin-cloud-storage](https://github.com/payloadcms/payload/issues/4422)
 - [CloudFlare Increased 500 errors for Cloudflare Workers API](https://github.com/hinoshiba/news/issues/6909)
