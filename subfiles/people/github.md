@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ["The owner of this website has banned your access based on your browser's signature"](https://github.com/atauenis/webone/issues/109)
 - [Can't get single certificate for both DOMAIN.com and *.DOMAIN.com](https://github.com/go-acme/lego/issues/2068)
 - [Cloudflare WARP+ Changing with Bot](https://github.com/hiddify/Hiddify-Manager/issues/3458)
 - [Can't use focal points or cropping in 2.4.0 with plugin-cloud-storage](https://github.com/payloadcms/payload/issues/4422)
