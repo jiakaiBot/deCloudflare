@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,095 |
-| social | 4,696 |
+| social | 4,697 |
 | net | 3,990 |
 | org | 2,669 |
 | de | 2,526 |
@@ -29044,6 +29044,7 @@ Here's a list of public Fediverse services.
 | `moe.lol` | Yes |
 | `moe.onl` | Yes |
 | `moe.reisen` | No |
+| `moe.social` | Yes |
 | `moe.team` | Yes |
 | `moe.tips` | Yes |
 | `moea.ca` | Yes |
@@ -51198,7 +51199,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,518 |
+| Cloudflare | 14,519 |
 | Normal | 36,632 |
 
 
