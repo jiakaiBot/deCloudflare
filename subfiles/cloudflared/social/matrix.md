@@ -81,7 +81,6 @@ Here's a list of public Matrix services.
 | pcriot.org | Yes |
 | matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
-| matrix.plus.st | No |
 | www.privacytools.io | Yes |
 | matrix.pub.solar | No |
 | radiowarnerd.org | No |
@@ -113,7 +112,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 19 |
-| Normal | 66 |
+| Normal | 65 |
 
 
-### 22.4% of public Matrix services are using Cloudflare.
+### 22.6% of public Matrix services are using Cloudflare.
