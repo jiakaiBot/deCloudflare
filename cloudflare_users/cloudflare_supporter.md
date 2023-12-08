@@ -13094,6 +13094,7 @@ Do not create new issue or we will close it as duplicate.
 | [TeamAZSoftware@twitter](https://twitter.com/TeamAZSoftware/status/1455916086197727233) | advertise |
 | [TeamLHZa@twitter](https://twitter.com/TeamLHZa/status/1525937400060465153) | advertise |
 | [Teammmmmmmmm3@twitter](https://twitter.com/Teammmmmmmmm3/status/1398780432074743810) | advertise |
+| [team_sales54327@twitter](https://twitter.com/team_sales54327/status/1733035674394087752) | advertise |
 | [tech97519794@twitter](https://twitter.com/tech97519794/status/1406477104200310788) | advertise |
 | [TecharoApp@twitter](https://twitter.com/TecharoApp/status/1401984338472931330) | advertise |
 | [techaurahelp@twitter](https://twitter.com/techaurahelp/status/1602214203703824384) | advertise |
