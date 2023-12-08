@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,098 |
 | social | 4,697 |
 | net | 3,989 |
-| org | 2,671 |
+| org | 2,672 |
 | de | 2,526 |
 
 
@@ -17722,6 +17722,7 @@ Here's a list of public Fediverse services.
 | `hachune.net` | No |
 | `hachyderm.io` | No |
 | `hachyderm.me` | No |
+| `hachyderm.org` | No |
 | `hachyderm.wtf` | No |
 | `haciendacourts.com` | Yes |
 | `hack13.me` | Yes |
@@ -24175,6 +24176,7 @@ Here's a list of public Fediverse services.
 | `layer02.net` | Yes |
 | `layer08.com` | No |
 | `layer7.space` | Yes |
+| `layer8.nexus` | No |
 | `layer8.org` | Yes |
 | `layer8.space` | No |
 | `layer9.online` | Yes |
@@ -38605,7 +38607,7 @@ Here's a list of public Fediverse services.
 | `rusadam.hu` | No |
 | `rushon.xyz` | No |
 | `rusingh.com` | No |
-| `rusk.app` | No |
+| `rusk.app` | Yes |
 | `ruslo.pro` | No |
 | `rusoc.xyz` | No |
 | `russ.green` | Yes |
@@ -51206,8 +51208,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,525 |
-| Normal | 36,633 |
+| Cloudflare | 14,526 |
+| Normal | 36,634 |
 
 
 </details>
