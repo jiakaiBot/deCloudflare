@@ -49352,6 +49352,7 @@ Here's a list of public Fediverse services.
 | `wolfgirl.engineering` | No |
 | `wolfhaus.me` | Yes |
 | `wolfhowl.me` | Yes |
+| `wolfi.ee` | Yes |
 | `wolfie.pw` | No |
 | `wolflab.net` | Yes |
 | `wolfpaw.kr` | No |
@@ -51208,7 +51209,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,526 |
+| Cloudflare | 14,527 |
 | Normal | 36,634 |
 
 
