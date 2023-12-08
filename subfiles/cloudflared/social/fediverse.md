@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,097 |
+| com | 8,098 |
 | social | 4,697 |
 | net | 3,989 |
 | org | 2,671 |
@@ -4931,7 +4931,7 @@ Here's a list of public Fediverse services.
 | `bitdrift.io` | Yes |
 | `bitflip.jetzt` | No |
 | `bitfolk.com` | No |
-| `bitforged.space` | No |
+| `bitforged.space` | Yes |
 | `bitfroest.cloud` | No |
 | `bitfrost.gg` | No |
 | `bitfudge.com` | Yes |
@@ -5526,7 +5526,7 @@ Here's a list of public Fediverse services.
 | `booknetwork.ca` | No |
 | `bookofadamz.com` | No |
 | `bookrastinating.com` | No |
-| `books-lighthouse.com` | No |
+| `books-lighthouse.com` | Yes |
 | `bookshelf.quest` | No |
 | `bookstodon.com` | No |
 | `bookstodon.net` | No |
@@ -8204,7 +8204,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9566,6 +9566,7 @@ Here's a list of public Fediverse services.
 | `dahlstrand.net` | Yes |
 | `daichan.club` | No |
 | `daiko.fr` | No |
+| `daily-twerk.com` | No |
 | `daily.surf` | No |
 | `dailydoseofpony.com` | No |
 | `dailymiscellany.com` | No |
@@ -31615,7 +31616,7 @@ Here's a list of public Fediverse services.
 | `nixnet.xyz` | No |
 | `nixorigin.one` | Yes |
 | `nixos.paris` | No |
-| `nixphere.chat` | No |
+| `nixphere.chat` | Yes |
 | `nixphere.org` | No |
 | `nixre.net` | No |
 | `nixslave.xyz` | No |
@@ -38999,7 +39000,7 @@ Here's a list of public Fediverse services.
 | `samsai.eu` | No |
 | `samsanstyle.com` | No |
 | `samschmitt.com` | Yes |
-| `samschmitt.social` | No |
+| `samschmitt.social` | Yes |
 | `samsteiner.net` | No |
 | `samstodon.net` | No |
 | `samsunginter.net` | Yes |
@@ -42497,7 +42498,7 @@ Here's a list of public Fediverse services.
 | `stonerclub.tk` | No |
 | `stonerivermountain.com` | No |
 | `stonerkitty.monster` | No |
-| `stoners.social` | No |
+| `stoners.social` | Yes |
 | `stoners.space` | No |
 | `stonestagsa.ga` | No |
 | `stonewall.social` | No |
@@ -51205,8 +51206,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,519 |
-| Normal | 36,638 |
+| Cloudflare | 14,525 |
+| Normal | 36,633 |
 
 
 </details>
