@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,095 |
+| com | 8,096 |
 | social | 4,697 |
 | net | 3,990 |
 | org | 2,669 |
@@ -2883,6 +2883,7 @@ Here's a list of public Fediverse services.
 | `ariona.fr` | No |
 | `ariscard.eu` | Yes |
 | `arisskey.net` | No |
+| `arisskey2.com` | No |
 | `ariste.info` | No |
 | `arisu.fr` | No |
 | `ariswanto.web.id` | Yes |
@@ -51200,7 +51201,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,519 |
-| Normal | 36,632 |
+| Normal | 36,633 |
 
 
 </details>
