@@ -6857,6 +6857,7 @@ Here's a list of public Fediverse services.
 | `cau.se` | Yes |
 | `caucus.social` | No |
 | `causa-arcana.com` | Yes |
+| `causette.wiki` | No |
 | `causticretail.org` | No |
 | `cavac.at` | No |
 | `cavalca.name` | Yes |
@@ -7797,7 +7798,7 @@ Here's a list of public Fediverse services.
 | `cliq.social` | No |
 | `cliqr.org` | No |
 | `clique.vip` | No |
-| `cliterati.club` | Yes |
+| `cliterati.club` | No |
 | `clj.social` | Yes |
 | `cllctv.net` | No |
 | `clmyzy.co` | Yes |
@@ -8200,7 +8201,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -16043,7 +16044,7 @@ Here's a list of public Fediverse services.
 | `gamerr.cyou` | No |
 | `gamers-pub.de` | No |
 | `gamers.exposed` | No |
-| `gamers.rip` | Yes |
+| `gamers.rip` | No |
 | `gamers.social` | No |
 | `gamersandgeeks.net` | No |
 | `gamerscharisma.social` | No |
@@ -29617,7 +29618,7 @@ Here's a list of public Fediverse services.
 | `msm.moe` | Yes |
 | `msmprojects.com` | No |
 | `msng.info` | Yes |
-| `msnic.jp` | Yes |
+| `msnic.jp` | No |
 | `msocial.top` | No |
 | `mspa.social` | No |
 | `msps.io` | Yes |
@@ -31820,7 +31821,7 @@ Here's a list of public Fediverse services.
 | `nokok.net` | No |
 | `nokotaro.com` | Yes |
 | `nokotaro.work` | Yes |
-| `nola.actor` | Yes |
+| `nola.actor` | No |
 | `nolabooks.social` | No |
 | `nolanfans.com` | Yes |
 | `nolani.academy` | Yes |
@@ -34602,6 +34603,7 @@ Here's a list of public Fediverse services.
 | `ph3j.com` | No |
 | `pha.one` | Yes |
 | `phal.io` | No |
+| `phan.li` | No |
 | `phanisvara.com` | No |
 | `phantanews.de` | No |
 | `phantasma.cloud` | Yes |
@@ -47659,6 +47661,7 @@ Here's a list of public Fediverse services.
 | `velveteen.one` | No |
 | `ven.pm` | No |
 | `vencabot.com` | No |
+| `vendicated.dev` | Yes |
 | `vending-machine.xyz` | No |
 | `venera.social` | No |
 | `vengalath.com` | Yes |
@@ -51193,8 +51196,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,525 |
-| Normal | 36,620 |
+| Cloudflare | 14,521 |
+| Normal | 36,627 |
 
 
 </details>
