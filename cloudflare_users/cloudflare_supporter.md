@@ -4179,6 +4179,7 @@ Do not create new issue or we will close it as duplicate.
 | [galleonxv@twitter](https://twitter.com/galleonxv/status/1552994969937657856) | advertise |
 | [GamblingBrownie@twitter](https://twitter.com/GamblingBrownie/status/1659353600735191042) | advertise |
 | [Game080941@twitter](https://twitter.com/Game080941/status/1396440640028692489) | advertise |
+| [gamekokoz@twitter](https://twitter.com/gamekokoz/status/1732993731689922965) | advertise |
 | [gameonwe@twitter](https://twitter.com/gameonwe/status/1606358816584515584) | advertise |
 | [GamerBoy1789@twitter](https://twitter.com/GamerBoy1789/status/1549586329901535234) | advertise |
 | [Gameski65226328@twitter](https://twitter.com/Gameski65226328/status/1394977499864576006) | advertise |
@@ -12362,6 +12363,7 @@ Do not create new issue or we will close it as duplicate.
 | [SiKyaw5@twitter](https://twitter.com/SiKyaw5/status/1536604838925959168) | advertise |
 | [Silencelencom@twitter](https://twitter.com/Silencelencom/status/1614165314010492928) | advertise |
 | [silenceTVB@twitter](https://twitter.com/silenceTVB/status/1603396682498150402) | advertise |
+| [SILENT2HEART@twitter](https://twitter.com/SILENT2HEART/status/1732998259671437328) | advertise |
 | [Silent37889316@twitter](https://twitter.com/Silent37889316/status/1393149289711300609) | advertise |
 | [Sillyangel3_@twitter](https://twitter.com/Sillyangel3_/status/1494451360930177032) | advertise |
 | [sillyc0ffin@twitter](https://twitter.com/sillyc0ffin/status/1400653906410020876) | advertise |
