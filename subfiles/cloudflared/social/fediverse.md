@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,098 |
+| com | 8,099 |
 | social | 4,697 |
 | net | 3,989 |
 | org | 2,673 |
@@ -4120,6 +4120,7 @@ Here's a list of public Fediverse services.
 | `bash-street-boys-and-girls.com` | No |
 | `bashell.com` | Yes |
 | `bashgeek.net` | No |
+| `bashynx.com` | Yes |
 | `basic-domain.com` | Yes |
 | `basil.quest` | Yes |
 | `basilisk.dev` | Yes |
@@ -51210,7 +51211,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,527 |
+| Cloudflare | 14,528 |
 | Normal | 36,635 |
 
 
