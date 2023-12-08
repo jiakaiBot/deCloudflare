@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,096 |
 | social | 4,697 |
-| net | 3,990 |
+| net | 3,989 |
 | org | 2,669 |
 | de | 2,526 |
 
@@ -4101,6 +4101,7 @@ Here's a list of public Fediverse services.
 | `bas.tn` | No |
 | `bascht.com` | No |
 | `bascht.space` | No |
+| `bascules.blog` | No |
 | `base.lc` | No |
 | `base52.net` | No |
 | `base6.dev` | No |
@@ -25956,7 +25957,6 @@ Here's a list of public Fediverse services.
 | `m1ch.eu` | Yes |
 | `m1k.cloud` | Yes |
 | `m1n1ster.com` | Yes |
-| `m1nto.net` | Yes |
 | `m1x.app` | Yes |
 | `m1zuu.net` | Yes |
 | `m2.nz` | No |
@@ -51200,8 +51200,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,519 |
-| Normal | 36,633 |
+| Cloudflare | 14,518 |
+| Normal | 36,634 |
 
 
 </details>
