@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,098 |
 | social | 4,697 |
 | net | 3,989 |
-| org | 2,672 |
+| org | 2,673 |
 | de | 2,526 |
 
 
@@ -50422,6 +50422,7 @@ Here's a list of public Fediverse services.
 | `yopo.work` | Yes |
 | `yopp.me` | Yes |
 | `yord.social` | Yes |
+| `yorglemedia.org` | No |
 | `yorha.club` | No |
 | `yorha.social` | Yes |
 | `yorishiro.space` | No |
@@ -51210,7 +51211,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,527 |
-| Normal | 36,634 |
+| Normal | 36,635 |
 
 
 </details>
