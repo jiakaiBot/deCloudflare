@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare R2 Increased 5xx Errors](https://github.com/SecOpsNews/news/issues/22242)
+- [CloudFlare Cloudflare R2 Increased 5xx Errors](https://github.com/hinoshiba/news/issues/6980)
 - ["The owner of this website has banned your access based on your browser's signature"](https://github.com/atauenis/webone/issues/109)
 - [Can't get single certificate for both DOMAIN.com and *.DOMAIN.com](https://github.com/go-acme/lego/issues/2068)
 - [Cloudflare WARP+ Changing with Bot](https://github.com/hiddify/Hiddify-Manager/issues/3458)
