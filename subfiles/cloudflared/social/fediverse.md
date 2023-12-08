@@ -975,7 +975,7 @@ Here's a list of public Fediverse services.
 | `aboutchromebooks.com` | Yes |
 | `abouthere.uk` | Yes |
 | `abpe.org` | Yes |
-| `abq.actor` | Yes |
+| `abq.actor` | No |
 | `abraham.social` | Yes |
 | `abraham.su` | No |
 | `abrahamson.family` | No |
@@ -3382,7 +3382,7 @@ Here's a list of public Fediverse services.
 | `atwab.ca` | No |
 | `atwistedsystem.com` | No |
 | `atwood.name` | No |
-| `atx.actor` | Yes |
+| `atx.actor` | No |
 | `atx.pub` | No |
 | `atx.social` | No |
 | `atxcoop.club` | No |
@@ -8057,7 +8057,7 @@ Here's a list of public Fediverse services.
 | `codice-rosso.net` | No |
 | `codigoaberto.pt` | Yes |
 | `codigoparallevar.com` | No |
-| `codingbear.live` | Yes |
+| `codingbear.live` | No |
 | `codingbots.hu` | No |
 | `codingdoodles.com` | No |
 | `codingfield.com` | No |
@@ -34630,6 +34630,7 @@ Here's a list of public Fediverse services.
 | `phenomenon.space` | No |
 | `phereph.one` | No |
 | `phfactor.net` | Yes |
+| `phh.me` | No |
 | `phicode.de` | No |
 | `phie.fi` | No |
 | `phie.ovh` | No |
@@ -51196,8 +51197,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,521 |
-| Normal | 36,627 |
+| Cloudflare | 14,518 |
+| Normal | 36,631 |
 
 
 </details>
