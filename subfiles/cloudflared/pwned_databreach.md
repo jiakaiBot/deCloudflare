@@ -411,6 +411,7 @@ Here's a list of breached sites.
 | Moneycontrol | 762,874 | No |
 | MoreleNet (Morele.net) | 2,467,304 | Yes |
 | MortalOnline (Mortal Online) | 606,637 | Yes |
+| MovieForums (Movie Forums) | 39,914 | Yes |
 | MrExcel | 366,140 | No |
 | MuslimDirectory (Muslim Directory) | 37,784 | No |
 | MuslimMatch (Muslim Match) | 149,830 | Yes |
@@ -721,7 +722,7 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 410 | 4,532,458,929 |
+| Cloudflare | 411 | 4,532,498,843 |
 | Normal | 290 | 4,559,784,171 |
 
 
