@@ -1590,6 +1590,7 @@ Do not create new issue or we will close it as duplicate.
 | [AzyOppa@twitter](https://twitter.com/AzyOppa/status/1389876605426671616) | advertise |
 | [Azzam95_@twitter](https://twitter.com/Azzam95_/status/1504244848743833604) | advertise |
 | [AzzamAh62871974@twitter](https://twitter.com/AzzamAh62871974/status/1732874323809988713) | advertise |
+| [Azzitude@twitter](https://twitter.com/Azzitude/status/1733167633355194403) | advertise |
 | [A_Aleem_Baig@twitter](https://twitter.com/A_Aleem_Baig/status/1531714345117294600) | advertise |
 | [A_As12091@twitter](https://twitter.com/A_As12091/status/1571243872180633605) | advertise |
 | [A_Foxy_Lady@twitter](https://twitter.com/A_Foxy_Lady/status/1665874049908482048) | advertise |
