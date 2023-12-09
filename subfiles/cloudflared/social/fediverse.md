@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,102 |
 | social | 4,701 |
-| net | 3,992 |
+| net | 3,993 |
 | org | 2,675 |
-| de | 2,526 |
+| de | 2,527 |
 
 
 - Mastodon, Pleroma, etc
@@ -9889,6 +9889,7 @@ Here's a list of public Fediverse services.
 | `datapulp.de` | No |
 | `datarek.nl` | No |
 | `datasci.social` | No |
+| `dataseal.de` | No |
 | `datashaman.com` | Yes |
 | `datashax.com` | No |
 | `datastory.cz` | Yes |
@@ -25468,6 +25469,7 @@ Here's a list of public Fediverse services.
 | `lookbusy.org` | No |
 | `lookingatnothing.com` | No |
 | `lookits.me` | No |
+| `lookslikenew.net` | No |
 | `loom.nyc` | Yes |
 | `loomchild.net` | No |
 | `loomcom.com` | No |
@@ -51232,7 +51234,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,528 |
-| Normal | 36,655 |
+| Normal | 36,657 |
 
 
 </details>
