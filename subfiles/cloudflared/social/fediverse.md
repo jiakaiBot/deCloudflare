@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,100 |
 | social | 4,697 |
-| net | 3,990 |
+| net | 3,991 |
 | org | 2,673 |
 | de | 2,526 |
 
@@ -2117,6 +2117,7 @@ Here's a list of public Fediverse services.
 | `amisuke.com` | Yes |
 | `amit.wtf` | Yes |
 | `amitgawande.com` | No |
+| `amity.gay` | No |
 | `amity.zone` | No |
 | `amiva.cc` | No |
 | `amk.ie` | Yes |
@@ -18553,6 +18554,7 @@ Here's a list of public Fediverse services.
 | `hexe.net` | No |
 | `hexix.de` | No |
 | `hexolve.com` | No |
+| `hexside.net` | No |
 | `hexsix.me` | Yes |
 | `hextcraft.dev` | No |
 | `hexthedragon.net` | No |
@@ -51216,7 +51218,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,522 |
-| Normal | 36,645 |
+| Normal | 36,647 |
 
 
 </details>
