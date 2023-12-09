@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,099 |
+| com | 8,100 |
 | social | 4,697 |
 | net | 3,989 |
 | org | 2,673 |
@@ -16140,7 +16140,7 @@ Here's a list of public Fediverse services.
 | `garriguv.io` | No |
 | `garrison.beer` | No |
 | `garrlab.it` | No |
-| `garro.moe` | Yes |
+| `garro.moe` | No |
 | `garrya.moe` | No |
 | `garudalinux.org` | Yes |
 | `garver.social` | Yes |
@@ -21672,6 +21672,7 @@ Here's a list of public Fediverse services.
 | `joscomputing.space` | No |
 | `josefsson.org` | No |
 | `joseli.to` | Yes |
+| `josemurilo.com` | No |
 | `josephburnett.social` | No |
 | `josephcizek.com` | Yes |
 | `josephgruber.space` | No |
@@ -23514,6 +23515,7 @@ Here's a list of public Fediverse services.
 | `kristoffer-strube.dk` | No |
 | `krisztianfekete.org` | No |
 | `krivokuca.dev` | Yes |
+| `krivosik.cz` | No |
 | `kriwil.net` | No |
 | `krkrkr.org` | No |
 | `krlk.me` | Yes |
@@ -51212,8 +51214,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,528 |
-| Normal | 36,636 |
+| Cloudflare | 14,527 |
+| Normal | 36,639 |
 
 
 </details>
