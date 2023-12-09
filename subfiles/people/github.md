@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [/sign-up error when running on CloudFlare](https://github.com/vendure-ecommerce/storefront-remix-starter/issues/60)
 - [CloudFlare Cloudflare R2 Increased 5xx Errors](https://github.com/SecOpsNews/news/issues/22242)
 - [CloudFlare Cloudflare R2 Increased 5xx Errors](https://github.com/hinoshiba/news/issues/6980)
 - ["The owner of this website has banned your access based on your browser's signature"](https://github.com/atauenis/webone/issues/109)
