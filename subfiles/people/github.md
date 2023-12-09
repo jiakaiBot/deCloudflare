@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Some Cloudflare Pages sites returning errors](https://github.com/SecOpsNews/news/issues/22266)
+- [CloudFlare Some Cloudflare Pages sites returning errors](https://github.com/hinoshiba/news/issues/7003)
 - [No sourcemaps when using Sentry middleware](https://github.com/honojs/middleware/issues/296)
 - [site: copy code button copies type errors](https://github.com/sveltejs/kit/issues/11247)
 - ["The script will never generate a response" failures on Cloudflare Worker's runtime](https://github.com/najamelan/ws_stream_wasm/issues/14)
