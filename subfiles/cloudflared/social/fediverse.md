@@ -16213,6 +16213,7 @@ Here's a list of public Fediverse services.
 | `gaygroup.chat` | No |
 | `gayhorse.club` | No |
 | `gayjb.cc` | No |
+| `gaykitty.lol` | No |
 | `gaymedmastadon.social` | No |
 | `gaymer.social` | Yes |
 | `gaymers.me` | No |
@@ -22044,6 +22045,7 @@ Here's a list of public Fediverse services.
 | `kabadesu.ch` | No |
 | `kabadesu.tv` | No |
 | `kabedon.space` | Yes |
+| `kabela.family` | Yes |
 | `kabelkollektiv.social` | Yes |
 | `kabelsalat.ch` | No |
 | `kabeuchi.monster` | Yes |
@@ -51229,8 +51231,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,527 |
-| Normal | 36,654 |
+| Cloudflare | 14,528 |
+| Normal | 36,655 |
 
 
 </details>
