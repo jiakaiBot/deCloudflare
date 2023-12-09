@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,100 |
+| com | 8,101 |
 | social | 4,697 |
 | net | 3,991 |
 | org | 2,673 |
@@ -10855,6 +10855,7 @@ Here's a list of public Fediverse services.
 | `digitalwatchmen.com` | No |
 | `digitan.cf` | No |
 | `digitan.ga` | No |
+| `digittante.com` | No |
 | `digityser.org` | No |
 | `digivonity.nl` | No |
 | `digiwake.net` | No |
@@ -30217,6 +30218,7 @@ Here's a list of public Fediverse services.
 | `mylinux.cz` | No |
 | `mylittle.boutique` | Yes |
 | `mylittlenut.com` | Yes |
+| `mylocalnet.xyz` | Yes |
 | `myloko.xyz` | No |
 | `mymammoth.ch` | No |
 | `mymastadon.link` | No |
@@ -51218,8 +51220,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,523 |
-| Normal | 36,647 |
+| Cloudflare | 14,524 |
+| Normal | 36,648 |
 
 
 </details>
