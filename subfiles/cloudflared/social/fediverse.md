@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,101 |
+| com | 8,102 |
 | social | 4,701 |
-| net | 3,993 |
-| org | 2,676 |
-| de | 2,528 |
+| net | 3,994 |
+| org | 2,677 |
+| de | 2,529 |
 
 
 - Mastodon, Pleroma, etc
@@ -12305,6 +12305,7 @@ Here's a list of public Fediverse services.
 | `egotrip.me` | No |
 | `egroc.de` | No |
 | `egyptianhistorypodcast.com` | No |
+| `eh3.ca` | No |
 | `eh5.me` | Yes |
 | `eh6gac4.work` | Yes |
 | `ehe.ovh` | No |
@@ -14624,6 +14625,7 @@ Here's a list of public Fediverse services.
 | `flairy.de` | No |
 | `flaki.hu` | No |
 | `flaki.social` | No |
+| `flakm.com` | Yes |
 | `flal.net` | No |
 | `flamewar.social` | No |
 | `flanigan.engineering` | Yes |
@@ -21523,6 +21525,7 @@ Here's a list of public Fediverse services.
 | `joelvim.net` | Yes |
 | `joelving.dk` | Yes |
 | `joelwatts.com` | No |
+| `joerg-jaeckel.de` | No |
 | `joerger.us` | Yes |
 | `joergmorbitzer.rocks` | No |
 | `joeross.me` | No |
@@ -26186,6 +26189,7 @@ Here's a list of public Fediverse services.
 | `magicfedi.su` | No |
 | `magicflashystring.net` | No |
 | `magick.tech` | No |
+| `magicka.org` | No |
 | `magickal.club` | No |
 | `magicstone.dev` | No |
 | `magicvampirepirates.com` | No |
@@ -43323,6 +43327,7 @@ Here's a list of public Fediverse services.
 | `syui.cf` | Yes |
 | `syui.ml` | No |
 | `syuilo.dev` | Yes |
+| `syukuma.net` | Yes |
 | `syum.ai` | Yes |
 | `syundo.org` | No |
 | `syuneci.am` | Yes |
@@ -47998,6 +48003,7 @@ Here's a list of public Fediverse services.
 | `vishnurajeevan.com` | No |
 | `visible.pictures` | No |
 | `visionel.de` | No |
+| `visionhubireland.eu` | Yes |
 | `visionofearth.org` | No |
 | `visionon.tv` | No |
 | `visionroot.org` | No |
@@ -51236,8 +51242,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,530 |
-| Normal | 36,658 |
+| Cloudflare | 14,533 |
+| Normal | 36,661 |
 
 
 </details>
