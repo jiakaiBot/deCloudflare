@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 8,102 |
 | social | 4,701 |
 | net | 3,993 |
-| org | 2,675 |
-| de | 2,527 |
+| org | 2,676 |
+| de | 2,528 |
 
 
 - Mastodon, Pleroma, etc
@@ -9420,6 +9420,7 @@ Here's a list of public Fediverse services.
 | `cybtex.fr` | No |
 | `cybur.nl` | Yes |
 | `cycles.network` | No |
+| `cyclingguide.org` | No |
 | `cyclismespandelles.com` | No |
 | `cyclodon.net` | No |
 | `cyclry.com` | No |
@@ -12550,6 +12551,7 @@ Here's a list of public Fediverse services.
 | `elmarsa.net` | No |
 | `elmau.net` | No |
 | `elmit.com` | No |
+| `elmoecho.de` | Yes |
 | `elmoncho.cc` | Yes |
 | `elmund.io` | No |
 | `elodiebouchet.fr` | No |
@@ -47171,6 +47173,7 @@ Here's a list of public Fediverse services.
 | `unshaped.space` | No |
 | `unsigned.cc` | No |
 | `unsociable.social` | Yes |
+| `unsocial.dev` | Yes |
 | `unsquare.com` | No |
 | `unstable.icu` | Yes |
 | `unstable.systems` | Yes |
@@ -50106,6 +50109,7 @@ Here's a list of public Fediverse services.
 | `xtk.es` | No |
 | `xtom.social` | Yes |
 | `xtra.nu` | Yes |
+| `xtrap.app` | Yes |
 | `xtremely.online` | No |
 | `xttech.top` | Yes |
 | `xtux.org` | No |
@@ -51233,8 +51237,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,528 |
-| Normal | 36,657 |
+| Cloudflare | 14,531 |
+| Normal | 36,658 |
 
 
 </details>
