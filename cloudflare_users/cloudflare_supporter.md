@@ -7763,6 +7763,7 @@ Do not create new issue or we will close it as duplicate.
 | [LorenzoNolberto@twitter](https://twitter.com/LorenzoNolberto/status/1505933975545597956) | advertise |
 | [loren_pezo@twitter](https://twitter.com/loren_pezo/status/1541324581708992512) | advertise |
 | [lostboygill@twitter](https://twitter.com/lostboygill/status/1641822384960294919) | advertise |
+| [lostinsurin@twitter](https://twitter.com/lostinsurin/status/1725921953100505474) | advertise |
 | [lostiris_@twitter](https://twitter.com/lostiris_/status/1585837501478240257) | advertise |
 | [LostMys83196587@twitter](https://twitter.com/LostMys83196587/status/1646377085047386114) | advertise |
 | [lostnaga@twitter](https://twitter.com/lostnaga/status/1699042429113143365) | advertise |
