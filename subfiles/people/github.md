@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [the tailscale funnel in a container can't be access, tlsv1 error](https://github.com/tailscale/tailscale/issues/10539)
 - [/sign-up error when running on CloudFlare](https://github.com/vendure-ecommerce/storefront-remix-starter/issues/60)
 - [CloudFlare Cloudflare R2 Increased 5xx Errors](https://github.com/SecOpsNews/news/issues/22242)
 - [CloudFlare Cloudflare R2 Increased 5xx Errors](https://github.com/hinoshiba/news/issues/6980)
