@@ -10973,6 +10973,7 @@ Do not create new issue or we will close it as duplicate.
 | [prabodhaonline@twitter](https://twitter.com/prabodhaonline/status/1602193762255446016) | advertise |
 | [pracas@twitter](https://twitter.com/pracas/status/1489507217745530882) | advertise |
 | [practiceacc3@twitter](https://twitter.com/practiceacc3/status/1384126713404084224) | advertise |
+| [prajyotpro@twitter](https://twitter.com/prajyotpro/status/1733496225037680860) | advertise |
 | [prakash_prajwal@twitter](https://twitter.com/prakash_prajwal/status/1518651138551128064) | advertise |
 | [pranjalsoni_@twitter](https://twitter.com/pranjalsoni_/status/1419024238070038532) | advertise |
 | [Prasant84597643@twitter](https://twitter.com/Prasant84597643/status/1377798977483984896) | advertise |
