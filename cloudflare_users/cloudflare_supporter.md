@@ -48,6 +48,7 @@ Do not create new issue or we will close it as duplicate.
 | [0xym0r022@twitter](https://twitter.com/0xym0r022/status/1379045277588279301) | advertise |
 | [0x__0@twitter](https://twitter.com/0x__0/status/1582075153676005376) | advertise |
 | [00pugsly@twitter](https://twitter.com/00pugsly/status/1665858501044781059) | advertise |
+| [007Baloshi1@twitter](https://twitter.com/007Baloshi1/status/1733560015343206834) | advertise |
 | [01Soivn@twitter](https://twitter.com/01Soivn/status/1660816985557712898) | advertise |
 | [0111_wwanz@twitter](https://twitter.com/0111_wwanz/status/1622585998235553792) | advertise |
 | [01227770316min2@twitter](https://twitter.com/01227770316min2/status/1385909202766508032) | advertise |
@@ -6021,6 +6022,7 @@ Do not create new issue or we will close it as duplicate.
 | [jeattoo@twitter](https://twitter.com/jeattoo/status/1390214402243108864) | advertise |
 | [JebrtinJ@twitter](https://twitter.com/JebrtinJ/status/1704429426165915910) | advertise |
 | [jechosu@twitter](https://twitter.com/jechosu/status/1668782007751528450) | advertise |
+| [jecooooool@twitter](https://twitter.com/jecooooool/status/1733541742115475583) | advertise |
 | [jeebearbae@twitter](https://twitter.com/jeebearbae/status/1569617345357938688) | advertise |
 | [jeepinjeepin@twitter](https://twitter.com/jeepinjeepin/status/1557058497166073856) | advertise |
 | [Jeerawa38868336@twitter](https://twitter.com/Jeerawa38868336/status/1399151884649172992) | advertise |
@@ -7472,6 +7474,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lee__12@twitter](https://twitter.com/Lee__12/status/1393279848462884865) | advertise |
 | [Legendbeast19@twitter](https://twitter.com/Legendbeast19/status/1515865675432136716) | advertise |
 | [LegendofPirates@twitter](https://twitter.com/LegendofPirates/status/1686336218974281728) | advertise |
+| [Leggo07324395@twitter](https://twitter.com/Leggo07324395/status/1733557788058775736) | advertise |
 | [legionleo6862@twitter](https://twitter.com/legionleo6862/status/1390643796421922817) | advertise |
 | [lehehe217991462@twitter](https://twitter.com/lehehe217991462/status/1709190716583457064) | advertise |
 | [Lehoai1703@twitter](https://twitter.com/Lehoai1703/status/1552324707252576257) | advertise |
@@ -9471,6 +9474,7 @@ Do not create new issue or we will close it as duplicate.
 | [Navylover07@twitter](https://twitter.com/Navylover07/status/1511182368102838272) | advertise |
 | [nawalBadu@twitter](https://twitter.com/nawalBadu/status/1582370989455077377) | advertise |
 | [nawazbitone@twitter](https://twitter.com/nawazbitone/status/1563582579449614337) | advertise |
+| [Naweed1368@twitter](https://twitter.com/Naweed1368/status/1733545034447044741) | advertise |
 | [nawid36470428@twitter](https://twitter.com/nawid36470428/status/1721083742171848810) | advertise |
 | [nawinth1991@twitter](https://twitter.com/nawinth1991/status/1723761413217562974) | advertise |
 | [NawYamin5@twitter](https://twitter.com/NawYamin5/status/1394208976900739074) | advertise |
