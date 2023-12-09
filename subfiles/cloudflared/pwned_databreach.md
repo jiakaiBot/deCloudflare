@@ -330,6 +330,7 @@ Here's a list of breached sites.
 | JukinMedia | 314,290 | Yes |
 | JustDate (Justdate.com) | 24,451,312 | No |
 | KMRU (KM.RU) | 1,476,783 | Yes |
+| Kaneva | 3,901,179 | No |
 | Kickstarter | 5,176,463 | Yes |
 | Kimsufi | 504,565 | No |
 | KitchenPal | 98,726 | No |
@@ -724,7 +725,7 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 411 | 4,532,498,843 |
-| Normal | 291 | 4,564,347,337 |
+| Normal | 292 | 4,568,248,516 |
 
 
 
