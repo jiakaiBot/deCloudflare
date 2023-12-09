@@ -26493,7 +26493,7 @@ Here's a list of public Fediverse services.
 | `maple.social` | No |
 | `maplecrew.org` | No |
 | `maplelawn.net` | No |
-| `maples.dev` | No |
+| `maples.dev` | Yes |
 | `mapleshrine.eu` | No |
 | `mapmerch.shop` | Yes |
 | `mapolist.com` | No |
@@ -46435,6 +46435,7 @@ Here's a list of public Fediverse services.
 | `turtle.pizza` | No |
 | `turtleapparel.eu` | No |
 | `turtleisland.art` | No |
+| `turtleisland.rocks` | No |
 | `turtleisland.social` | No |
 | `turtleisland.video` | No |
 | `turtletoot.us` | No |
@@ -51217,7 +51218,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,522 |
+| Cloudflare | 14,523 |
 | Normal | 36,647 |
 
 
