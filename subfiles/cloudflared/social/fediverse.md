@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,102 |
-| social | 4,700 |
-| net | 3,991 |
-| org | 2,674 |
+| social | 4,701 |
+| net | 3,992 |
+| org | 2,675 |
 | de | 2,526 |
 
 
@@ -7560,6 +7560,7 @@ Here's a list of public Fediverse services.
 | `chth85.ovh` | No |
 | `chtisurel.net` | No |
 | `chtn.uk` | No |
+| `chtourou.net` | Yes |
 | `chu.jp` | No |
 | `chubbears.com` | No |
 | `chubbs.rip` | No |
@@ -14419,6 +14420,7 @@ Here's a list of public Fediverse services.
 | `fightthis.net` | Yes |
 | `fightxing.com` | No |
 | `fignuts.net` | No |
+| `figucarolina.org` | No |
 | `figureskating.online` | Yes |
 | `fihlon.swiss` | No |
 | `fika.moe` | No |
@@ -23360,6 +23362,7 @@ Here's a list of public Fediverse services.
 | `korfmann.xyz` | Yes |
 | `korgen.xyz` | Yes |
 | `korhonen.cc` | Yes |
+| `korhonen.social` | Yes |
 | `korio.me` | Yes |
 | `kormi.hu` | No |
 | `korosuke.xyz` | Yes |
@@ -51226,8 +51229,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,525 |
-| Normal | 36,653 |
+| Cloudflare | 14,527 |
+| Normal | 36,654 |
 
 
 </details>
