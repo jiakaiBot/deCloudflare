@@ -85,7 +85,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | extrawdw.net | Yes |
 | fancyorg.at | No |
 | fdn.fr | No |
-| feldy.my.id | Yes |
 | ff0x.ca | Yes |
 | ffmuc.net | Yes |
 | flm9.net | No |
@@ -111,7 +110,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | kescher.at | No |
 | ketan.dev | Yes |
 | konikoni428.com | Yes |
-| kpsn.org | Yes |
 | krnl.eu | Yes |
 | lacontrevoie.fr | No |
 | lastentarvike.fi | No |
@@ -210,8 +208,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 93 |
+| Cloudflare | 91 |
 | Normal | 98 |
 
 
-### 48.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
