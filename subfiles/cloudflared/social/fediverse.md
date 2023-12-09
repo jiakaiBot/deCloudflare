@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,102 |
+| com | 8,101 |
 | social | 4,701 |
 | net | 3,993 |
 | org | 2,676 |
@@ -11870,7 +11870,6 @@ Here's a list of public Fediverse services.
 | `dutchxs.com` | No |
 | `duti.tech` | No |
 | `dutka-is.de` | No |
-| `duuuck.com` | Yes |
 | `duwa.ng` | No |
 | `duxez.dev` | No |
 | `duxie.xyz` | No |
@@ -51237,7 +51236,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,531 |
+| Cloudflare | 14,530 |
 | Normal | 36,658 |
 
 
