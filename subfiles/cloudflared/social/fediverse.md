@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,100 |
 | social | 4,697 |
-| net | 3,989 |
+| net | 3,990 |
 | org | 2,673 |
 | de | 2,526 |
 
@@ -3887,7 +3887,7 @@ Here's a list of public Fediverse services.
 | `bados.win` | Yes |
 | `badpacman.io` | Yes |
 | `badpixels.be` | No |
-| `badposts.net` | Yes |
+| `badposts.net` | No |
 | `badprocess.me` | No |
 | `badsysadm.com` | No |
 | `bae.city` | No |
@@ -8205,7 +8205,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11945,7 +11945,7 @@ Here's a list of public Fediverse services.
 | `dzerom.space` | No |
 | `dzindzik.com` | Yes |
 | `dzle125.stream` | Yes |
-| `dzmastodon.com` | Yes |
+| `dzmastodon.com` | No |
 | `dznr.org` | No |
 | `dzworks.net` | No |
 | `e-ait.de` | No |
@@ -15859,7 +15859,7 @@ Here's a list of public Fediverse services.
 | `fuzzlesoft.ca` | No |
 | `fuzznet.xyz` | Yes |
 | `fuzzy.click` | No |
-| `fuzzy.social` | Yes |
+| `fuzzy.social` | No |
 | `fuzzy.systems` | No |
 | `fuzzy.zone` | No |
 | `fuzzyand.gay` | No |
@@ -49665,7 +49665,7 @@ Here's a list of public Fediverse services.
 | `wyrms.de` | No |
 | `wyrmsign.org` | No |
 | `wyshy.net` | No |
-| `wysterialane.net` | Yes |
+| `wysterialane.net` | No |
 | `wysteriary.art` | No |
 | `wytch.space` | No |
 | `wytchmourne.com` | No |
@@ -50906,6 +50906,7 @@ Here's a list of public Fediverse services.
 | `zesh.club` | No |
 | `zestysoft.com` | No |
 | `zesummen.online` | No |
+| `zetamc.net` | No |
 | `zetamu.club` | No |
 | `zetamu.love` | No |
 | `zetaphor.com` | No |
@@ -51214,8 +51215,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,527 |
-| Normal | 36,639 |
+| Cloudflare | 14,522 |
+| Normal | 36,645 |
 
 
 </details>
