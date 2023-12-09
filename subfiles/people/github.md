@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ["The script will never generate a response" failures on Cloudflare Worker's runtime](https://github.com/najamelan/ws_stream_wasm/issues/14)
 - [the tailscale funnel in a container can't be access, tlsv1 error](https://github.com/tailscale/tailscale/issues/10539)
 - [/sign-up error when running on CloudFlare](https://github.com/vendure-ecommerce/storefront-remix-starter/issues/60)
 - [CloudFlare Cloudflare R2 Increased 5xx Errors](https://github.com/SecOpsNews/news/issues/22242)
