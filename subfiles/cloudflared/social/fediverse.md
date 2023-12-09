@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,101 |
-| social | 4,697 |
+| com | 8,102 |
+| social | 4,700 |
 | net | 3,991 |
-| org | 2,673 |
+| org | 2,674 |
 | de | 2,526 |
 
 
@@ -4933,6 +4933,7 @@ Here's a list of public Fediverse services.
 | `bitdrift.io` | Yes |
 | `bitflip.jetzt` | No |
 | `bitfolk.com` | No |
+| `bitforged.social` | No |
 | `bitforged.space` | Yes |
 | `bitfroest.cloud` | No |
 | `bitfrost.gg` | No |
@@ -17598,6 +17599,7 @@ Here's a list of public Fediverse services.
 | `gultsch.video` | No |
 | `gumbercules.net` | No |
 | `gumifox.eu` | No |
+| `gummersbach.social` | No |
 | `gummipunkt.eu` | Yes |
 | `gumonji.live` | No |
 | `gundan.es` | No |
@@ -20035,6 +20037,7 @@ Here's a list of public Fediverse services.
 | `indiegameskey.net` | Yes |
 | `indiegrab.net` | No |
 | `indiehackers.social` | Yes |
+| `indiehost.org` | No |
 | `indiepocalypse.social` | No |
 | `indiepop.band` | No |
 | `indietz.icu` | Yes |
@@ -32999,6 +33002,7 @@ Here's a list of public Fediverse services.
 | `ondioline.org` | Yes |
 | `ondrugs.org` | Yes |
 | `onecha.net` | No |
+| `oneforthecode.com` | Yes |
 | `oneill.stream` | No |
 | `oneiris.me` | No |
 | `oneisall.one` | Yes |
@@ -40613,6 +40617,7 @@ Here's a list of public Fediverse services.
 | `simcha.pics` | Yes |
 | `simcop2387.info` | Yes |
 | `simcu.com` | No |
+| `simden.fr` | No |
 | `simeckuv.cloud` | No |
 | `simian.rodeo` | Yes |
 | `simio.us` | Yes |
@@ -44701,6 +44706,7 @@ Here's a list of public Fediverse services.
 | `thepixelproject.com` | Yes |
 | `theplace.social` | Yes |
 | `theplanet.rocks` | No |
+| `theplant.social` | No |
 | `theplattform.net` | Yes |
 | `theplatypus.ca` | Yes |
 | `thepocolips.com` | No |
@@ -51220,8 +51226,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,524 |
-| Normal | 36,648 |
+| Cloudflare | 14,525 |
+| Normal | 36,653 |
 
 
 </details>
