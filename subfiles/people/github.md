@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unexpected token 'e', "error code: 1003" is not valid JSON](https://github.com/triggerdotdev/examples/issues/6)
 - [CloudFlare Some Cloudflare Pages sites returning errors](https://github.com/SecOpsNews/news/issues/22266)
 - [CloudFlare Some Cloudflare Pages sites returning errors](https://github.com/hinoshiba/news/issues/7003)
 - [No sourcemaps when using Sentry middleware](https://github.com/honojs/middleware/issues/296)
