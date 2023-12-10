@@ -12129,6 +12129,7 @@ Here's a list of public Fediverse services.
 | `ecoli.pink` | No |
 | `ecologie.bzh` | No |
 | `ecologie.social` | Yes |
+| `econ.lol` | No |
 | `econoalchemist.com` | No |
 | `economiasocial.org` | No |
 | `economicsfromthetopdown.com` | No |
@@ -26543,6 +26544,7 @@ Here's a list of public Fediverse services.
 | `marbleck.eu` | Yes |
 | `marbledfennec.net` | No |
 | `marc1307.de` | Yes |
+| `marcel-waldvogel.ch` | No |
 | `marcel.io` | No |
 | `marcelweiss.de` | No |
 | `marcg.pizza` | No |
@@ -51262,7 +51264,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,536 |
-| Normal | 36,677 |
+| Normal | 36,679 |
 
 
 </details>
