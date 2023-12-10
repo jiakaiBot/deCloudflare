@@ -3329,6 +3329,7 @@ Do not create new issue or we will close it as duplicate.
 | [DoctorVadarWho@twitter](https://twitter.com/DoctorVadarWho/status/1504056932218568704) | advertise |
 | [doctorzlai@twitter](https://twitter.com/doctorzlai/status/1666906236170665984) | advertise |
 | [docuwerx@twitter](https://twitter.com/docuwerx/status/1645164837335441411) | advertise |
+| [dodotdot@twitter](https://twitter.com/dodotdot/status/1733804481689932062) | advertise |
 | [dogeminercoin@twitter](https://twitter.com/dogeminercoin/status/1670757160131731458) | advertise |
 | [Doge_FBI_Agent@twitter](https://twitter.com/Doge_FBI_Agent/status/1690900215706877952) | advertise |
 | [doggiesflix@twitter](https://twitter.com/doggiesflix/status/1398852820250497030) | advertise |
