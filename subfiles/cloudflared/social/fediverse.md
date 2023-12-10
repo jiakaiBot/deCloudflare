@@ -12702,6 +12702,7 @@ Here's a list of public Fediverse services.
 | `enby.city` | No |
 | `enby.club` | No |
 | `enby.life` | No |
+| `enby.me` | No |
 | `enby.site` | Yes |
 | `enby.space` | No |
 | `enby.town` | No |
@@ -51261,7 +51262,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,536 |
-| Normal | 36,676 |
+| Normal | 36,677 |
 
 
 </details>
