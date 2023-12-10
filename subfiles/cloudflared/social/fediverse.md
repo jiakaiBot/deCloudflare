@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,103 |
+| com | 8,104 |
 | social | 4,701 |
 | net | 3,994 |
 | org | 2,677 |
@@ -9076,6 +9076,7 @@ Here's a list of public Fediverse services.
 | `cthulhu.rocks` | No |
 | `cthulhu.social` | No |
 | `ctmiller.net` | No |
+| `ctms.me` | No |
 | `ctrl-shift.net` | No |
 | `ctrlaltdog.xyz` | No |
 | `ctrlaltelite.xyz` | Yes |
@@ -39948,6 +39949,7 @@ Here's a list of public Fediverse services.
 | `senggol.in` | No |
 | `sengotta.net` | No |
 | `senigallia.one` | Yes |
+| `senil888.com` | No |
 | `seniorenakademie-digital.de` | No |
 | `senka.space` | No |
 | `senkitahara.com` | No |
@@ -49356,6 +49358,7 @@ Here's a list of public Fediverse services.
 | `woefdram.social` | No |
 | `woehl.social` | Yes |
 | `woem.cat` | No |
+| `woem.men` | No |
 | `woem.space` | No |
 | `wogan.im` | No |
 | `wohlbrecht.eu` | No |
@@ -51248,7 +51251,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,532 |
-| Normal | 36,667 |
+| Normal | 36,670 |
 
 
 </details>
