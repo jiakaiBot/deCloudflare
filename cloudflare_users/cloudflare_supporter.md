@@ -421,6 +421,7 @@ Do not create new issue or we will close it as duplicate.
 | [AdmMatasa@twitter](https://twitter.com/AdmMatasa/status/1507215006818918404) | advertise |
 | [adnanhosseiniii@twitter](https://twitter.com/adnanhosseiniii/status/1575411513107644417) | advertise |
 | [AdnanIAQader@twitter](https://twitter.com/AdnanIAQader/status/1549794017423962112) | advertise |
+| [AdnoorAhmad@twitter](https://twitter.com/AdnoorAhmad/status/1733918581065404683) | advertise |
 | [adock12345@twitter](https://twitter.com/adock12345/status/1382531067207421953) | advertise |
 | [adora3021@twitter](https://twitter.com/adora3021/status/1390581418401484801) | advertise |
 | [adrenalinehooks@twitter](https://twitter.com/adrenalinehooks/status/1665888991416033281) | advertise |
@@ -4439,6 +4440,7 @@ Do not create new issue or we will close it as duplicate.
 | [GreatPurchaser@twitter](https://twitter.com/GreatPurchaser/status/1392901780535595008) | advertise |
 | [GreenboyTm@twitter](https://twitter.com/GreenboyTm/status/1390219893262327813) | advertise |
 | [greenmoon55@twitter](https://twitter.com/greenmoon55/status/1507778212234858496) | advertise |
+| [grefefa23965@twitter](https://twitter.com/grefefa23965/status/1733919972446122365) | advertise |
 | [greghuntdev@twitter](https://twitter.com/greghuntdev/status/1596147748394487814) | advertise |
 | [Gregorworld1606@twitter](https://twitter.com/Gregorworld1606/status/1588410166558756864) | advertise |
 | [GregoryCollins@twitter](https://twitter.com/GregoryCollins/status/1530717094743920640) | advertise |
