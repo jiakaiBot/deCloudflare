@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,104 |
+| com | 8,105 |
 | social | 4,701 |
-| net | 3,994 |
+| net | 3,995 |
 | org | 2,677 |
 | de | 2,530 |
 
@@ -6023,6 +6023,7 @@ Here's a list of public Fediverse services.
 | `bryla.tk` | Yes |
 | `brytonlacquement.com` | No |
 | `brz9.dev` | No |
+| `brzozka.tv` | No |
 | `brzozow.xyz` | No |
 | `bs-x.org` | No |
 | `bs10081.com` | Yes |
@@ -9971,6 +9972,7 @@ Here's a list of public Fediverse services.
 | `davidpeach.co.uk` | Yes |
 | `davidpeach.me` | No |
 | `davidriederer.com` | No |
+| `davidroessli.com` | Yes |
 | `davidrudolf.nl` | No |
 | `davids.social` | Yes |
 | `davidseah.com` | Yes |
@@ -17732,6 +17734,7 @@ Here's a list of public Fediverse services.
 | `hablo.cc` | No |
 | `hacc.media` | No |
 | `hacdias.com` | Yes |
+| `hach.chat` | Yes |
 | `hach.re` | Yes |
 | `hachiue.net` | No |
 | `hachune.net` | No |
@@ -31454,6 +31457,7 @@ Here's a list of public Fediverse services.
 | `nigger.tax` | No |
 | `niggers.auction` | No |
 | `night.coffee` | No |
+| `nightbulb.net` | No |
 | `nightcity.bar` | No |
 | `nightcord.de` | Yes |
 | `nightcord.live` | Yes |
@@ -51250,8 +51254,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,532 |
-| Normal | 36,670 |
+| Cloudflare | 14,534 |
+| Normal | 36,672 |
 
 
 </details>
