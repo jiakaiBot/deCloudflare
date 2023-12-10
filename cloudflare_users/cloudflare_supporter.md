@@ -1039,6 +1039,7 @@ Do not create new issue or we will close it as duplicate.
 | [Anonymous96K@twitter](https://twitter.com/Anonymous96K/status/1701622542128279625) | advertise |
 | [anonymous26296@twitter](https://twitter.com/anonymous26296/status/1718358463238283302) | advertise |
 | [AnonymousVideo@twitter](https://twitter.com/AnonymousVideo/status/1552591858248843264) | advertise |
+| [anonymus_niggas@twitter](https://twitter.com/anonymus_niggas/status/1733814000993837236) | advertise |
 | [AnoshGeddam@twitter](https://twitter.com/AnoshGeddam/status/1393448106365095939) | advertise |
 | [anotherkappug@twitter](https://twitter.com/anotherkappug/status/1517655414753705988) | advertise |
 | [anounym05023893@twitter](https://twitter.com/anounym05023893/status/1552502473696296960) | advertise |
@@ -4163,6 +4164,7 @@ Do not create new issue or we will close it as duplicate.
 | [F_92sd@twitter](https://twitter.com/F_92sd/status/1596878185144414209) | advertise |
 | [f_karimio@twitter](https://twitter.com/f_karimio/status/1618964178135560192) | advertise |
 | [f_shanea@twitter](https://twitter.com/f_shanea/status/1625648517162356736) | advertise |
+| [g0ce1KO3ld6E1Gh@twitter](https://twitter.com/g0ce1KO3ld6E1Gh/status/1733785350005510207) | advertise |
 | [g02M1Rjo2WJvITL@twitter](https://twitter.com/g02M1Rjo2WJvITL/status/1402969073282027525) | advertise |
 | [G7OAH_Ken@twitter](https://twitter.com/G7OAH_Ken/status/1544335505235517441) | advertise |
 | [g7Vsqme2nATL3G6@twitter](https://twitter.com/g7Vsqme2nATL3G6/status/1400850162675716096) | advertise |
@@ -4298,6 +4300,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ghostri94806311@twitter](https://twitter.com/Ghostri94806311/status/1638138457137504256) | advertise |
 | [GhostSlayeri@twitter](https://twitter.com/GhostSlayeri/status/1445450768836743171) | advertise |
 | [Ghost_dragon_VN@twitter](https://twitter.com/Ghost_dragon_VN/status/1497163614540603394) | advertise |
+| [ghtoot@twitter](https://twitter.com/ghtoot/status/1733822328872566868) | advertise |
 | [GhulamJaved@twitter](https://twitter.com/GhulamJaved/status/1380050148135378944) | advertise |
 | [Gh_Kaychez@twitter](https://twitter.com/Gh_Kaychez/status/1575893615527616513) | advertise |
 | [gia12_bo@twitter](https://twitter.com/gia12_bo/status/1644990077372874752) | advertise |
@@ -14314,6 +14317,7 @@ Do not create new issue or we will close it as duplicate.
 | [ulaxx0@twitter](https://twitter.com/ulaxx0/status/1504320449018224640) | advertise |
 | [ULay99705792@twitter](https://twitter.com/ULay99705792/status/1394445652147404802) | advertise |
 | [ulaygyi245@twitter](https://twitter.com/ulaygyi245/status/1389821983290892290) | advertise |
+| [umar_pama@twitter](https://twitter.com/umar_pama/status/1733798149502697872) | advertise |
 | [UMinthu84921464@twitter](https://twitter.com/UMinthu84921464/status/1381438301366747136) | advertise |
 | [UmmahNewsTV@twitter](https://twitter.com/UmmahNewsTV/status/1625906513113141248) | advertise |
 | [UmSaldanha@twitter](https://twitter.com/UmSaldanha/status/1586835109298192385) | advertise |
