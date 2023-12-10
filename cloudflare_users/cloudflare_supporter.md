@@ -12731,6 +12731,7 @@ Do not create new issue or we will close it as duplicate.
 | [StarLig29535606@twitter](https://twitter.com/StarLig29535606/status/1689211854437126144) | advertise |
 | [starpratama@twitter](https://twitter.com/starpratama/status/1409534516167806978) | moral (advertise) |
 | [starwalker89@twitter](https://twitter.com/starwalker89/status/1391244115917033478) | advertise |
+| [Stas_YKR0906_55@twitter](https://twitter.com/Stas_YKR0906_55/status/1733896658792910891) | advertise |
 | [Staywitme10@twitter](https://twitter.com/Staywitme10/status/1490936001363021831) | advertise |
 | [StefanJack9@twitter](https://twitter.com/StefanJack9/status/1400858676550725637) | advertise |
 | [Steferine4eva@twitter](https://twitter.com/Steferine4eva/status/1377275017172373506) | advertise |
