@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issues with Script Contents and Durable Objects in Miniflare Local Development](https://github.com/withastro/adapters/issues/102)
 - [Issues with Script Contents and Durable Objects in Miniflare Local Development](https://github.com/withastro/astro/issues/9396)
 - [JSON response can't contain Dates](https://github.com/honojs/hono/issues/1800)
 - [Setting up cron trigger?](https://github.com/kwhitley/itty-router/issues/203)
