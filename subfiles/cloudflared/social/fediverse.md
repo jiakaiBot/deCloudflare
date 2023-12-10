@@ -48958,6 +48958,7 @@ Here's a list of public Fediverse services.
 | `what.if.ua` | No |
 | `what.re` | No |
 | `what.tf` | No |
+| `whatco.me` | No |
 | `whatdoiknowjr.com` | No |
 | `whatever.cat` | No |
 | `whatever.cz` | Yes |
@@ -51264,7 +51265,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,536 |
-| Normal | 36,679 |
+| Normal | 36,680 |
 
 
 </details>
