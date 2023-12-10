@@ -14095,6 +14095,7 @@ Here's a list of public Fediverse services.
 | `fediverse.date` | No |
 | `fediverse.events` | No |
 | `fediverse.express` | No |
+| `fediverse.fun` | No |
 | `fediverse.gay` | Yes |
 | `fediverse.info` | Yes |
 | `fediverse.land` | Yes |
@@ -45915,7 +45916,7 @@ Here's a list of public Fediverse services.
 | `transaltar.com` | No |
 | `transcortex.social` | No |
 | `transden.lgbt` | No |
-| `transfem.org` | No |
+| `transfem.org` | Yes |
 | `transfem.social` | Yes |
 | `transformacion.social` | No |
 | `transforthe.win` | Yes |
@@ -51218,7 +51219,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,524 |
+| Cloudflare | 14,525 |
 | Normal | 36,646 |
 
 
