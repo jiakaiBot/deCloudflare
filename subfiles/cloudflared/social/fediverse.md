@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,105 |
 | social | 4,701 |
-| net | 3,995 |
+| net | 3,996 |
 | org | 2,677 |
-| de | 2,530 |
+| de | 2,531 |
 
 
 - Mastodon, Pleroma, etc
@@ -6872,6 +6872,7 @@ Here's a list of public Fediverse services.
 | `cavanholi.com` | No |
 | `cavestri.net` | Yes |
 | `cavestrihome.com` | Yes |
+| `caviala.de` | No |
 | `caw.ai` | Yes |
 | `cawfee.club` | No |
 | `caxyz.org` | No |
@@ -26347,6 +26348,7 @@ Here's a list of public Fediverse services.
 | `makotoworkshop.org` | No |
 | `makrgroup.com` | No |
 | `makrobytes.eu` | No |
+| `maksales.dev` | Yes |
 | `maksales.su` | Yes |
 | `makzan.blog` | No |
 | `mal-richtig.de` | No |
@@ -36869,6 +36871,7 @@ Here's a list of public Fediverse services.
 | `radiolunetta.casa` | No |
 | `radiomind.com` | No |
 | `radionlya.casa` | No |
+| `radiooostwest.be` | No |
 | `radiopatio.social` | No |
 | `radiorandom.org` | No |
 | `radiorfa.com` | Yes |
@@ -38688,6 +38691,7 @@ Here's a list of public Fediverse services.
 | `rvmathy.net` | No |
 | `rvn.ovh` | No |
 | `rvnomadphotos.com` | Yes |
+| `rvrsys.net` | No |
 | `rw-net.de` | No |
 | `rw501.de` | No |
 | `rwb.io` | No |
@@ -44691,7 +44695,7 @@ Here's a list of public Fediverse services.
 | `theo546.fr` | No |
 | `theoccasionoctopus.net` | No |
 | `theocevaer.fr` | No |
-| `theocourt.com` | No |
+| `theocourt.com` | Yes |
 | `theoerzetic.fr` | No |
 | `theokadas.com` | No |
 | `theoks.net` | Yes |
@@ -51254,8 +51258,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,534 |
-| Normal | 36,672 |
+| Cloudflare | 14,536 |
+| Normal | 36,674 |
 
 
 </details>
