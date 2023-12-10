@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issues with Script Contents and Durable Objects in Miniflare Local Development](https://github.com/withastro/astro/issues/9396)
 - [JSON response can't contain Dates](https://github.com/honojs/hono/issues/1800)
 - [Setting up cron trigger?](https://github.com/kwhitley/itty-router/issues/203)
 - [Unexpected token 'e', "error code: 1003" is not valid JSON](https://github.com/triggerdotdev/examples/issues/6)
