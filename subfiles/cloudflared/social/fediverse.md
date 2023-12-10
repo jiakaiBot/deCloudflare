@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,097 |
+| com | 8,098 |
 | social | 4,701 |
 | net | 3,991 |
 | org | 2,675 |
@@ -3918,7 +3918,7 @@ Here's a list of public Fediverse services.
 | `bainroom.info` | Yes |
 | `baiqinglyu.com` | No |
 | `baird.club` | Yes |
-| `baird.social` | Yes |
+| `baird.social` | No |
 | `bairwell.com` | Yes |
 | `baixllobregat.social` | No |
 | `bajax.us` | No |
@@ -13929,7 +13929,7 @@ Here's a list of public Fediverse services.
 | `fedi.site` | Yes |
 | `fedi.software` | No |
 | `fedi.space` | No |
-| `fedi.surf` | Yes |
+| `fedi.surf` | No |
 | `fedi.tax` | No |
 | `fedi.tech` | No |
 | `fedi.tools` | No |
@@ -47230,6 +47230,7 @@ Here's a list of public Fediverse services.
 | `upwind.xyz` | No |
 | `upx.moe` | No |
 | `upyum.com` | No |
+| `uqiantu.com` | No |
 | `ur-mom.gay` | Yes |
 | `ur.gs` | No |
 | `ura-mstdn.com` | No |
@@ -51217,8 +51218,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,526 |
-| Normal | 36,643 |
+| Cloudflare | 14,524 |
+| Normal | 36,646 |
 
 
 </details>
