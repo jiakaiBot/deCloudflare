@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [JSON response can't contain Dates](https://github.com/honojs/hono/issues/1800)
 - [Setting up cron trigger?](https://github.com/kwhitley/itty-router/issues/203)
 - [Unexpected token 'e', "error code: 1003" is not valid JSON](https://github.com/triggerdotdev/examples/issues/6)
 - [CloudFlare Some Cloudflare Pages sites returning errors](https://github.com/SecOpsNews/news/issues/22266)
