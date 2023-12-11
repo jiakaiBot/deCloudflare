@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,107 |
-| social | 4,702 |
+| social | 4,703 |
 | net | 3,998 |
 | org | 2,677 |
 | de | 2,531 |
@@ -17170,6 +17170,7 @@ Here's a list of public Fediverse services.
 | `gotosan.jp` | Yes |
 | `gotosoc.tk` | No |
 | `gotosocial.org` | Yes |
+| `gotosocial.social` | Yes |
 | `gotosolar.org` | No |
 | `gots9713.xyz` | No |
 | `gott.social` | Yes |
@@ -37172,6 +37173,7 @@ Here's a list of public Fediverse services.
 | `rather.social` | Yes |
 | `ratherbemaking.games` | No |
 | `rathersafe.space` | No |
+| `rathur.eu` | No |
 | `ratingen.social` | No |
 | `rational-racoon.de` | Yes |
 | `ratliff.space` | No |
@@ -51271,8 +51273,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,535 |
-| Normal | 36,688 |
+| Cloudflare | 14,536 |
+| Normal | 36,689 |
 
 
 </details>
