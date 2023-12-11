@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Invalid set format error when trying to set deeply nested value](https://github.com/getsops/sops/issues/1375)
 - [cloudflare fail: error zones/***** invalid domain Error add txt for domain:_acme-challenge.misakamikototech.xyz](https://github.com/acmesh-official/acme.sh/issues/4908)
 - [NotImplemented: ListBuckets search parameter x-id not implemented](https://github.com/aws/aws-sdk-js-v3/issues/5565)
 - [Issues with Script Contents and Durable Objects in Miniflare Local Development](https://github.com/withastro/adapters/issues/102)
