@@ -21697,7 +21697,7 @@ Here's a list of public Fediverse services.
 | `joscomputing.space` | No |
 | `josefsson.org` | No |
 | `joseli.to` | Yes |
-| `josemurilo.com` | No |
+| `josemurilo.com` | Yes |
 | `josephburnett.social` | No |
 | `josephcizek.com` | Yes |
 | `josephgruber.space` | No |
@@ -32681,6 +32681,7 @@ Here's a list of public Fediverse services.
 | `odd.af` | No |
 | `odd.blog` | No |
 | `odd.town` | Yes |
+| `oddballs.online` | No |
 | `oddballs.vip` | No |
 | `odditycentral.com` | Yes |
 | `oddly-influenced.dev` | No |
@@ -51268,7 +51269,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,532 |
+| Cloudflare | 14,533 |
 | Normal | 36,688 |
 
 
