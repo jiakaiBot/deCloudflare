@@ -43463,6 +43463,7 @@ Here's a list of public Fediverse services.
 | `taffy.cafe` | Yes |
 | `tafo.co` | No |
 | `tage.tech` | No |
+| `tagessch.eu` | No |
 | `taggit.me` | Yes |
 | `taglar.net` | Yes |
 | `tagpro.lol` | No |
@@ -51280,7 +51281,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,537 |
-| Normal | 36,694 |
+| Normal | 36,695 |
 
 
 </details>
