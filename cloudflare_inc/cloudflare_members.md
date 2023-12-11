@@ -682,6 +682,7 @@ Or is this merely a case of simple modesty?
 | Gideon Redelinghuys | Systems Reliability Engineer |  |
 | Gift Egwuenu | Employee | |
 | Gigi Chiu | Employee |  |
+| Giovanni Pereira Zantedeschi | Employee | |
 | Giuliana DeAngelis | Customer Success Manager |  |
 | Glen Maddern | Employee |  |
 | Gloria Marcu | Support Engineer |  |
@@ -1010,6 +1011,7 @@ Or is this merely a case of simple modesty?
 | Keefe Tang | Employee |  |
 | Keenan Koizumi | Business Development |  |
 | Keeran Marquis | Engineer |  |
+| Keith Adler | Employee | |
 | Kelby Balson | Customer Development |  |
 | Kelleen O'Toole | People Ops Coordinator |  |
 | Kelley Welsh | Recruiting |  |
@@ -1377,6 +1379,7 @@ Or is this merely a case of simple modesty?
 | Nina Wang | Head of Tax |  |
 | Nitin Bantwal Rao | Head of Global Infrastructure | nitin.rao@sloan.mit.edu<br>https://twitter.com/NitinBRao<br>https://leverageddabbler.com/<br>http://www.linkedin.com/in/nitinrao<br>http://www.facebook.com/nitin.rao |
 | Nitin Rao | Employee |  |
+| Nnamdi Ajah | Employee | |
 | Noah Garrett Wallach | Network Engineer |  |
 | Noah Maxwell Kennedy | Employee | |
 | Noah Neuman | Enterprise Account Executive |  |
@@ -1546,6 +1549,7 @@ Or is this merely a case of simple modesty?
 | Riddhi Milind | Employee |  |
 | Rika Niekzad | Customer Development |  |
 | Rina Yates | Employee |  |
+| Rio Harapan Pangihutan | Employee | |
 | Rio Pesino | Senior Account Executive |  |
 | Rishabh Bector | Big Data Engineer |  |
 | Rita Giran | Business Development |  |
