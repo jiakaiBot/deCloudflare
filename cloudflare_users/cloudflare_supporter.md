@@ -1765,6 +1765,7 @@ Do not create new issue or we will close it as duplicate.
 | [bdksd3b@twitter](https://twitter.com/bdksd3b/status/1384384819270979586) | advertise |
 | [Bdnzjjendkdndne@twitter](https://twitter.com/Bdnzjjendkdndne/status/1182422221253427201) | advertise |
 | [bds_hoangnhh@twitter](https://twitter.com/bds_hoangnhh/status/1571556199933554688) | advertise |
+| [BD_RMA@twitter](https://twitter.com/BD_RMA/status/1734048079152894371) | advertise |
 | [beachmelon@twitter](https://twitter.com/beachmelon/status/1726269488394346890) | advertise |
 | [Bearguysan20@twitter](https://twitter.com/Bearguysan20/status/1595127683901403136) | advertise |
 | [Beast29769840@twitter](https://twitter.com/Beast29769840/status/1396382427304521728) | advertise |
@@ -9139,6 +9140,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mujaheedsahib1@twitter](https://twitter.com/Mujaheedsahib1/status/1730619869484220593) | advertise |
 | [mujeeb66760396@twitter](https://twitter.com/mujeeb66760396/status/1608920812450631680) | advertise |
 | [Mujeebk99995403@twitter](https://twitter.com/Mujeebk99995403/status/1402529388168724485) | advertise |
+| [mujib_zafari000@twitter](https://twitter.com/mujib_zafari000/status/1734068741523263968) | advertise |
 | [mujib_zafari@twitter](https://twitter.com/mujib_zafari/status/1711750090744840436) | advertise |
 | [Mujtaba288289@twitter](https://twitter.com/Mujtaba288289/status/1546276421009637379) | advertise |
 | [MuktarUdan@twitter](https://twitter.com/MuktarUdan/status/1550450929069162497) | advertise |
@@ -14564,6 +14566,7 @@ Do not create new issue or we will close it as duplicate.
 | [VirgilShelton@twitter](https://twitter.com/VirgilShelton/status/1409998073040756738) | moral (advertise) |
 | [virotoovox@twitter](https://twitter.com/virotoovox/status/1685257750215790593) | advertise |
 | [virtualtwit@twitter](https://twitter.com/virtualtwit/status/1532222794020581376) | advertise |
+| [Virus3334@twitter](https://twitter.com/Virus3334/status/1734067340520648961) | advertise |
 | [Virus49868336@twitter](https://twitter.com/Virus49868336/status/1394191569666723840) | advertise |
 | [VishalB67584671@twitter](https://twitter.com/VishalB67584671/status/1398920445437505542) | advertise |
 | [vishalmajumdar_@twitter](https://twitter.com/vishalmajumdar_/status/1563810788376055808) | advertise |
@@ -15308,6 +15311,7 @@ Do not create new issue or we will close it as duplicate.
 | [yibi@twitter](https://twitter.com/yibi/status/1459115266013466629) | advertise |
 | [YiingMingg@twitter](https://twitter.com/YiingMingg/status/1721212922410733694) | advertise |
 | [YiKi21821263@twitter](https://twitter.com/YiKi21821263/status/1393997906147901440) | advertise |
+| [Yinduv@twitter](https://twitter.com/Yinduv/status/1734007566361923813) | advertise |
 | [Ying792@twitter](https://twitter.com/Ying792/status/1405533573654872071) | advertise |
 | [YingQunSu1@twitter](https://twitter.com/YingQunSu1/status/1376963946230521861) | advertise |
 | [YingTai33818131@twitter](https://twitter.com/YingTai33818131/status/1395159227769962503) | advertise |
