@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Venta DeviceType: 500 (models AH550/AH555/AH510/AH515)](https://github.com/Michsior14/ha-venta/issues/1)
 - [XTLS Vision not working with many inbounds](https://github.com/XTLS/Xray-core/issues/2797)
 - [Network Error when downloading large files from huggingface](https://github.com/3Kmfi6HP/EDtunnel/issues/74)
 - [Invalid set format error when trying to set deeply nested value](https://github.com/getsops/sops/issues/1375)
