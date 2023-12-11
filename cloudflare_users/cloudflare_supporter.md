@@ -3408,6 +3408,7 @@ Do not create new issue or we will close it as duplicate.
 | [dragonkevin27@twitter](https://twitter.com/dragonkevin27/status/1576117526643474435) | advertise |
 | [dragonplatimum@twitter](https://twitter.com/dragonplatimum/status/1588509354839666688) | advertise |
 | [DragonTechIT@twitter](https://twitter.com/DragonTechIT/status/1437804344682893321) | advertise |
+| [Dragon_10101990@twitter](https://twitter.com/Dragon_10101990/status/1734165027199057957) | advertise |
 | [drAhlawy@twitter](https://twitter.com/drAhlawy/status/1389690659188191234) | advertise |
 | [Drake7989@twitter](https://twitter.com/Drake7989/status/1495757039532146691) | advertise |
 | [DrAPSone@twitter](https://twitter.com/DrAPSone/status/1388524225166602240) | advertise |
@@ -7765,6 +7766,7 @@ Do not create new issue or we will close it as duplicate.
 | [Long_way_to_die@twitter](https://twitter.com/Long_way_to_die/status/1552020406210441216) | advertise |
 | [looker123456789@twitter](https://twitter.com/looker123456789/status/1548154140848599041) | advertise |
 | [loooom9999@twitter](https://twitter.com/loooom9999/status/1571392847823118336) | advertise |
+| [LooseerD36819@twitter](https://twitter.com/LooseerD36819/status/1734150740262916578) | advertise |
 | [lopezzfuyoooo@twitter](https://twitter.com/lopezzfuyoooo/status/1701812329439166940) | advertise |
 | [LoppoZ@twitter](https://twitter.com/LoppoZ/status/1377122374617681922) | advertise |
 | [lordcurtis@twitter](https://twitter.com/lordcurtis/status/1479481798061027328) | advertise |
