@@ -6137,6 +6137,7 @@ Do not create new issue or we will close it as duplicate.
 | [jjhpjsnjm@twitter](https://twitter.com/jjhpjsnjm/status/1552018320475299840) | advertise |
 | [jjj95783480@twitter](https://twitter.com/jjj95783480/status/1395094462431481857) | advertise |
 | [JJKArabic@twitter](https://twitter.com/JJKArabic/status/1689613958632689665) | advertise |
+| [jjng06884755481@twitter](https://twitter.com/jjng06884755481/status/1734220244619796903) | advertise |
 | [JJoe40040378@twitter](https://twitter.com/JJoe40040378/status/1391669669115752455) | advertise |
 | [JJohnny54131423@twitter](https://twitter.com/JJohnny54131423/status/1724765450884837526) | advertise |
 | [JJoker918976181@twitter](https://twitter.com/JJoker918976181/status/1718988113304060139) | advertise |
@@ -7892,6 +7893,7 @@ Do not create new issue or we will close it as duplicate.
 | [LuonglamVan1992@twitter](https://twitter.com/LuonglamVan1992/status/1563424906070466561) | advertise |
 | [luongng59787247@twitter](https://twitter.com/luongng59787247/status/1612442148447870978) | advertise |
 | [luongquochuy@twitter](https://twitter.com/luongquochuy/status/1717426474293289418) | advertise |
+| [luon_ok@twitter](https://twitter.com/luon_ok/status/1734216799502381078) | advertise |
 | [Luph96507624@twitter](https://twitter.com/Luph96507624/status/1392188259661320193) | advertise |
 | [LuralMay@twitter](https://twitter.com/LuralMay/status/1384873233158115328) | advertise |
 | [luscalopez@twitter](https://twitter.com/luscalopez/status/1650653434750590979) | advertise |
@@ -8884,6 +8886,7 @@ Do not create new issue or we will close it as duplicate.
 | [MohammadAlkabbi@twitter](https://twitter.com/MohammadAlkabbi/status/1378114531164049410) | advertise |
 | [Mohammadmil79@twitter](https://twitter.com/Mohammadmil79/status/1472592229357297667) | advertise |
 | [MohammadRefaa17@twitter](https://twitter.com/MohammadRefaa17/status/1594697391474900992) | advertise |
+| [mohammadss70@twitter](https://twitter.com/mohammadss70/status/1734216402683240872) | advertise |
 | [Mohammadzandi71@twitter](https://twitter.com/Mohammadzandi71/status/1594584095245602817) | advertise |
 | [mohammad_12180@twitter](https://twitter.com/mohammad_12180/status/1595016962471608323) | advertise |
 | [mohammad_inanll@twitter](https://twitter.com/mohammad_inanll/status/1582429173695401985) | advertise |
