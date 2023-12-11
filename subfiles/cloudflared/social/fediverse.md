@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,108 |
 | social | 4,703 |
-| net | 3,998 |
+| net | 3,999 |
 | org | 2,677 |
 | de | 2,531 |
 
@@ -29306,6 +29306,7 @@ Here's a list of public Fediverse services.
 | `moodle.net` | Yes |
 | `moodoo.org` | Yes |
 | `moody.name` | No |
+| `moodywarlock.net` | No |
 | `moog.social` | No |
 | `moogle.place` | No |
 | `moogle.social` | No |
@@ -51279,7 +51280,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,537 |
-| Normal | 36,693 |
+| Normal | 36,694 |
 
 
 </details>
