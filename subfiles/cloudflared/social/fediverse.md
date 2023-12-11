@@ -32262,7 +32262,7 @@ Here's a list of public Fediverse services.
 | `nsnw.ca` | No |
 | `nso.group` | Yes |
 | `nsobj.com` | No |
-| `nspeaks.xyz` | Yes |
+| `nspeaks.xyz` | No |
 | `nspes.ca` | No |
 | `nsr.life` | Yes |
 | `nssvc.top` | Yes |
@@ -45309,6 +45309,7 @@ Here's a list of public Fediverse services.
 | `tlbflush.org` | Yes |
 | `tldr.tk` | No |
 | `tlef.social` | No |
+| `tlespace.xyz` | No |
 | `tlf.pw` | Yes |
 | `tlfoxhuman.net` | No |
 | `tli.io` | No |
@@ -45409,6 +45410,7 @@ Here's a list of public Fediverse services.
 | `todon.fr` | No |
 | `todon.in` | Yes |
 | `todon.nl` | No |
+| `todon.rocks` | No |
 | `todon.site` | No |
 | `todon.uk` | No |
 | `todor.cc` | No |
@@ -51266,8 +51268,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,533 |
-| Normal | 36,685 |
+| Cloudflare | 14,532 |
+| Normal | 36,688 |
 
 
 </details>
