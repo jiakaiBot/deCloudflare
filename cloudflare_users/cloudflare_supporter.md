@@ -3207,6 +3207,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dianna36873922@twitter](https://twitter.com/Dianna36873922/status/1586735803514093569) | advertise |
 | [DiariesLara@twitter](https://twitter.com/DiariesLara/status/1569545171716431872) | advertise |
 | [dican_adcorp@twitter](https://twitter.com/dican_adcorp/status/1570807498210422785) | advertise |
+| [dickson_imoh@twitter](https://twitter.com/dickson_imoh/status/1734314966369657138) | advertise |
 | [DickWhimsy@twitter](https://twitter.com/DickWhimsy/status/1384051581373468672) | advertise |
 | [DickWon23449512@twitter](https://twitter.com/DickWon23449512/status/1711674437286969560) | advertise |
 | [DickyAdirachman@twitter](https://twitter.com/DickyAdirachman/status/1552680441706323968) | advertise |
