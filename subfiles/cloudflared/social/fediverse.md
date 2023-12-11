@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,106 |
-| social | 4,701 |
+| com | 8,107 |
+| social | 4,702 |
 | net | 3,996 |
 | org | 2,677 |
 | de | 2,531 |
@@ -3376,6 +3376,7 @@ Here's a list of public Fediverse services.
 | `attentionphilippelepara.pet` | No |
 | `atth.ca` | Yes |
 | `atticstudios.be` | No |
+| `attksthdrknss.com` | No |
 | `atto.town` | Yes |
 | `attoch.org` | Yes |
 | `attractive.space` | No |
@@ -8850,7 +8851,7 @@ Here's a list of public Fediverse services.
 | `crimedad.work` | No |
 | `crimes.consulting` | No |
 | `crimethink.top` | No |
-| `crimetime.online` | Yes |
+| `crimetime.online` | No |
 | `crimew.gay` | No |
 | `criminallycute.fi` | No |
 | `criminallycute.stream` | No |
@@ -15227,7 +15228,7 @@ Here's a list of public Fediverse services.
 | `freebird.gdn` | No |
 | `freebird.in` | Yes |
 | `freebird.social` | No |
-| `freebirds.live` | Yes |
+| `freebirds.live` | No |
 | `freebnc.net` | Yes |
 | `freebot.dev` | No |
 | `freeboxos.fr` | No |
@@ -44687,7 +44688,7 @@ Here's a list of public Fediverse services.
 | `thenintendo.shop` | Yes |
 | `thenks.social` | No |
 | `thenobody.club` | No |
-| `thenomads.social` | Yes |
+| `thenomads.social` | No |
 | `thenormalpeople.xyz` | No |
 | `thenorth.social` | Yes |
 | `thenowhere.men` | Yes |
@@ -49239,6 +49240,7 @@ Here's a list of public Fediverse services.
 | `wireless-iot.social` | No |
 | `wireless.community` | No |
 | `wires.gg` | Yes |
+| `wires.social` | No |
 | `wirhackendeinen.club` | No |
 | `wirnify.de` | No |
 | `wirnity.de` | No |
@@ -51264,8 +51266,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,536 |
-| Normal | 36,680 |
+| Cloudflare | 14,533 |
+| Normal | 36,685 |
 
 
 </details>
