@@ -357,6 +357,7 @@ Here's a list of public Fediverse services.
 | `223308.xyz` | Yes |
 | `2248.live` | Yes |
 | `22decembre.eu` | No |
+| `22x22.ru` | Yes |
 | `230029.xyz` | Yes |
 | `238c.org` | No |
 | `23h42.com` | No |
@@ -7831,6 +7832,7 @@ Here's a list of public Fediverse services.
 | `close-air.support` | No |
 | `closebang.de` | No |
 | `closed.social` | Yes |
+| `closedcircle.io` | No |
 | `closedless.xyz` | Yes |
 | `closednetwork.social` | Yes |
 | `closetoya.com` | Yes |
@@ -51279,8 +51281,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,536 |
-| Normal | 36,695 |
+| Cloudflare | 14,537 |
+| Normal | 36,696 |
 
 
 </details>
