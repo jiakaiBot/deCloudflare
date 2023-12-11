@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,107 |
 | social | 4,702 |
-| net | 3,996 |
+| net | 3,998 |
 | org | 2,677 |
 | de | 2,531 |
 
@@ -23685,6 +23685,7 @@ Here's a list of public Fediverse services.
 | `kuroan.co` | No |
 | `kurofu.com` | No |
 | `kuroharu.xyz` | No |
+| `kuromame048.net` | Yes |
 | `kuropen.me` | Yes |
 | `kuropen.org` | Yes |
 | `kuropon.dev` | No |
@@ -28807,6 +28808,7 @@ Here's a list of public Fediverse services.
 | `mist.so` | No |
 | `mistah-v.com` | No |
 | `mistbow.xyz` | Yes |
+| `misteli.in.net` | Yes |
 | `mistelske.com` | No |
 | `mister.computer` | No |
 | `misterbanal.net` | No |
@@ -51269,7 +51271,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,533 |
+| Cloudflare | 14,535 |
 | Normal | 36,688 |
 
 
