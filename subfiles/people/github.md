@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Network Error when downloading large files from huggingface](https://github.com/3Kmfi6HP/EDtunnel/issues/74)
 - [Invalid set format error when trying to set deeply nested value](https://github.com/getsops/sops/issues/1375)
 - [cloudflare fail: error zones/***** invalid domain Error add txt for domain:_acme-challenge.misakamikototech.xyz](https://github.com/acmesh-official/acme.sh/issues/4908)
 - [NotImplemented: ListBuckets search parameter x-id not implemented](https://github.com/aws/aws-sdk-js-v3/issues/5565)
