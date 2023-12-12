@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [用第三方 API 好像报错，不能用](https://github.com/lobehub/lobe-chat/issues/626)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/hinoshiba/news/issues/7077)
 - [CloudFlare Cloudflare Durable Objects Issues](https://github.com/SecOpsNews/news/issues/22337)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/SecOpsNews/news/issues/22336)
