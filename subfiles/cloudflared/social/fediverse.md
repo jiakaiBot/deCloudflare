@@ -9213,7 +9213,7 @@ Here's a list of public Fediverse services.
 | `curta.red` | Yes |
 | `curtin.cool` | Yes |
 | `curtisjewell.website` | Yes |
-| `curtismchale.ca` | No |
+| `curtismchale.ca` | Yes |
 | `curttech.com` | No |
 | `cusae.com` | No |
 | `cuscuz.in` | Yes |
@@ -40367,6 +40367,7 @@ Here's a list of public Fediverse services.
 | `shiptoaster.xyz` | No |
 | `shiro.dog` | No |
 | `shiro.ink` | Yes |
+| `shirogal.xyz` | Yes |
 | `shiroganedon.net` | No |
 | `shirokurostone.com` | Yes |
 | `shironeko.pro` | No |
@@ -51296,8 +51297,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,542 |
-| Normal | 36,706 |
+| Cloudflare | 14,544 |
+| Normal | 36,705 |
 
 
 </details>
