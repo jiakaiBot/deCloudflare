@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [【@solid-mediakit/auth】SessionProvider throw Error](https://github.com/solidjs-community/mediakit/issues/10)
 - [用第三方 API 好像报错，不能用](https://github.com/lobehub/lobe-chat/issues/626)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/hinoshiba/news/issues/7077)
 - [CloudFlare Cloudflare Durable Objects Issues](https://github.com/SecOpsNews/news/issues/22337)
