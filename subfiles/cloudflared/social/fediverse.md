@@ -46025,6 +46025,7 @@ Here's a list of public Fediverse services.
 | `transrights.art` | Yes |
 | `transrights.ovh` | No |
 | `transsafety.network` | Yes |
+| `tranvender.site` | No |
 | `trap.lol` | Yes |
 | `trapezial.com` | Yes |
 | `trapped.codes` | No |
@@ -51299,7 +51300,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,545 |
-| Normal | 36,705 |
+| Normal | 36,706 |
 
 
 </details>
