@@ -313,6 +313,7 @@ Here's a list of breached sites.
 | IndiHome | 12,629,245 | No |
 | IndiaMART | 20,154,583 | No |
 | IndianRailways (Indian Railways) | 583,377 | No |
+| InflateVids | 13,405 | Yes |
 | Insanelyi | 104,097 | No |
 | InstantCheckmate (Instant Checkmate) | 11,943,887 | Yes |
 | Intelimost | 3,073,409 | No |
@@ -724,7 +725,7 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 411 | 4,532,498,843 |
+| Cloudflare | 412 | 4,532,512,248 |
 | Normal | 292 | 4,568,248,516 |
 
 
