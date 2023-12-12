@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Bash scripts strange output on Linux agents](https://github.com/amidaware/tacticalrmm/issues/1702)
+- [ModuleNotFoundError No module named 'distutils' with Python312](https://github.com/xtekky/gpt4free/issues/1339)
 - [Issue with large files couldNotUploadFile(underlyingError: TUSKit.TUSAPIError.couldNotRetrieveOffset)](https://github.com/tus/TUSKit/issues/178)
 - [Download times out after 10s when downloading large files through reverse proxy](https://github.com/caddyserver/caddy/issues/5972)
 - [Venta DeviceType: 500 (models AH550/AH555/AH510/AH515)](https://github.com/Michsior14/ha-venta/issues/1)
