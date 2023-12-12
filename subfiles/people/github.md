@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Workers Issues](https://github.com/hinoshiba/news/issues/7077)
 - [CloudFlare Cloudflare Durable Objects Issues](https://github.com/SecOpsNews/news/issues/22337)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/SecOpsNews/news/issues/22336)
 - [CloudFlare Cloudflare Durable Objects Issues](https://github.com/hinoshiba/news/issues/7074)
