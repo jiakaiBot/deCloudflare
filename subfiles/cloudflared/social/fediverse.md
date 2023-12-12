@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,108 |
-| social | 4,703 |
-| net | 4,000 |
-| org | 2,677 |
+| com | 8,109 |
+| social | 4,704 |
+| net | 4,002 |
+| org | 2,676 |
 | de | 2,532 |
 
 
@@ -2167,7 +2167,6 @@ Here's a list of public Fediverse services.
 | `anakmanis.com` | Yes |
 | `anakut.org` | Yes |
 | `analogdreams.blog` | No |
-| `analogmind.org` | No |
 | `analogphoto.social` | No |
 | `analogue.social` | No |
 | `ananace.dev` | No |
@@ -3324,6 +3323,7 @@ Here's a list of public Fediverse services.
 | `atextual.com` | No |
 | `ath.cx` | No |
 | `athaliasoft.com` | No |
+| `atharvaraykar.com` | Yes |
 | `atheatileros.com` | No |
 | `atheistmedianetwork.com` | No |
 | `athemeus.com` | No |
@@ -4208,6 +4208,7 @@ Here's a list of public Fediverse services.
 | `bbdao.dev` | Yes |
 | `bbfactory.it` | No |
 | `bbiz.io` | No |
+| `bblaze.xyz` | No |
 | `bbngh.com` | Yes |
 | `bbq.golf` | No |
 | `bbqmasters.life` | No |
@@ -5989,6 +5990,7 @@ Here's a list of public Fediverse services.
 | `brsu.me` | No |
 | `bru.su` | Yes |
 | `bruceblog.net` | No |
+| `brucehaha.net` | No |
 | `brucknerite.net` | No |
 | `bruder.space` | No |
 | `brudos.net` | Yes |
@@ -13828,6 +13830,7 @@ Here's a list of public Fediverse services.
 | `feathers.link` | No |
 | `feathertrail.fun` | Yes |
 | `featyre.xyz` | No |
+| `feborg.es` | Yes |
 | `february.social` | No |
 | `fed-it.nu` | No |
 | `fed.contact` | No |
@@ -20322,6 +20325,7 @@ Here's a list of public Fediverse services.
 | `inter-mundos.de` | No |
 | `inter21.net` | No |
 | `intercal.top` | No |
+| `intercards.net` | No |
 | `interceptorx.com` | Yes |
 | `interconnected.systems` | No |
 | `interestingtimes.club` | No |
@@ -30719,6 +30723,7 @@ Here's a list of public Fediverse services.
 | `naveen.ink` | No |
 | `navel7.tk` | No |
 | `navinot.com` | No |
+| `navistream.tv` | No |
 | `nay.moe` | No |
 | `nayab.dev` | Yes |
 | `nayukana.info` | No |
@@ -33552,6 +33557,7 @@ Here's a list of public Fediverse services.
 | `oster.social` | No |
 | `ostertag.team` | No |
 | `ostfrie.se` | No |
+| `ostfrieslnd.social` | No |
 | `ostheater.city` | No |
 | `osto.us` | No |
 | `ostolc.org` | No |
@@ -43128,6 +43134,7 @@ Here's a list of public Fediverse services.
 | `svkt.eu` | No |
 | `svltan.at` | No |
 | `svnet.fr` | No |
+| `svoboda.contact` | Yes |
 | `svoron.com` | No |
 | `svp.im` | No |
 | `svpow.com` | No |
@@ -49746,6 +49753,7 @@ Here's a list of public Fediverse services.
 | `wyy.gg` | Yes |
 | `wzf.wtf` | No |
 | `wznmickey.com` | Yes |
+| `wzrds.fun` | No |
 | `x-just-4.fun` | No |
 | `x-serv.ovh` | No |
 | `x0.com` | No |
@@ -49891,6 +49899,7 @@ Here's a list of public Fediverse services.
 | `xi.ht` | No |
 | `xiachong.ltd` | Yes |
 | `xial.xyz` | Yes |
+| `xiam.io` | Yes |
 | `xianlandia.com` | No |
 | `xianon.net` | Yes |
 | `xiaokunlun.com` | No |
@@ -51286,8 +51295,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,537 |
-| Normal | 36,701 |
+| Cloudflare | 14,541 |
+| Normal | 36,706 |
 
 
 </details>
