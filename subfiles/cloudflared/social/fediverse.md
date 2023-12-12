@@ -20560,6 +20560,7 @@ Here's a list of public Fediverse services.
 | `is-here.com` | No |
 | `is-pretty.gay` | Yes |
 | `is-super.moe` | No |
+| `is.horse` | No |
 | `is4.site` | Yes |
 | `isaa.it` | Yes |
 | `isaaccronk.com` | No |
@@ -51284,7 +51285,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,534 |
-| Normal | 36,701 |
+| Normal | 36,702 |
 
 
 </details>
