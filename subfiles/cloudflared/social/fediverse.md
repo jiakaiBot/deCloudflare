@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,108 |
 | social | 4,703 |
-| net | 3,999 |
+| net | 3,997 |
 | org | 2,677 |
-| de | 2,531 |
+| de | 2,532 |
 
 
 - Mastodon, Pleroma, etc
@@ -862,6 +862,7 @@ Here's a list of public Fediverse services.
 | `a2.io` | Yes |
 | `a2mi.social` | No |
 | `a3.pm` | Yes |
+| `a3a-services.de` | No |
 | `a3d8.fr` | No |
 | `a3rd.space` | No |
 | `a3size.com` | No |
@@ -15295,7 +15296,7 @@ Here's a list of public Fediverse services.
 | `freeself.one` | No |
 | `freesewing.social` | No |
 | `freesia.space` | Yes |
-| `freeside.cafe` | Yes |
+| `freeside.cafe` | No |
 | `freeside.online` | No |
 | `freeskate.fr` | No |
 | `freesky.im` | No |
@@ -24217,7 +24218,7 @@ Here's a list of public Fediverse services.
 | `layer8.nexus` | No |
 | `layer8.org` | Yes |
 | `layer8.space` | No |
-| `layer9.online` | Yes |
+| `layer9.online` | No |
 | `layerze.ro` | No |
 | `laylo.nl` | No |
 | `lazar.social` | No |
@@ -28813,7 +28814,6 @@ Here's a list of public Fediverse services.
 | `mist.so` | No |
 | `mistah-v.com` | No |
 | `mistbow.xyz` | Yes |
-| `misteli.in.net` | Yes |
 | `mistelske.com` | No |
 | `mister.computer` | No |
 | `misterbanal.net` | No |
@@ -29308,7 +29308,6 @@ Here's a list of public Fediverse services.
 | `moodle.net` | Yes |
 | `moodoo.org` | Yes |
 | `moody.name` | No |
-| `moodywarlock.net` | No |
 | `moog.social` | No |
 | `moogle.place` | No |
 | `moogle.social` | No |
@@ -37733,7 +37732,7 @@ Here's a list of public Fediverse services.
 | `response4.com` | No |
 | `respublicae.eu` | No |
 | `resrm.com` | Yes |
-| `ressonix.social` | Yes |
+| `ressonix.social` | No |
 | `restall.io` | Yes |
 | `restart.moe` | No |
 | `restis.de` | No |
@@ -51281,8 +51280,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,537 |
-| Normal | 36,696 |
+| Cloudflare | 14,533 |
+| Normal | 36,699 |
 
 
 </details>
