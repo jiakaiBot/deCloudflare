@@ -8476,6 +8476,7 @@ Here's a list of public Fediverse services.
 | `convoca.la` | No |
 | `convoglio.social` | No |
 | `conwayfamily.org` | No |
+| `conways.info` | Yes |
 | `conxtor.com` | No |
 | `coo-ops.space` | No |
 | `coodes-island.com` | No |
@@ -51297,7 +51298,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,544 |
+| Cloudflare | 14,545 |
 | Normal | 36,705 |
 
 
