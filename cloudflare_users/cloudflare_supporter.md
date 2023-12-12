@@ -1049,6 +1049,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnsahEm11089423@twitter](https://twitter.com/AnsahEm11089423/status/1600414671009239040) | advertise |
 | [anshulkmr01@twitter](https://twitter.com/anshulkmr01/status/1441856756288606209) | advertise |
 | [ansi_ansee21282@twitter](https://twitter.com/ansi_ansee21282/status/1685747870010343424) | advertise |
+| [anteku5@twitter](https://twitter.com/anteku5/status/1734353688838197422) | advertise |
 | [Anthonio_de_la_@twitter](https://twitter.com/Anthonio_de_la_/status/1690263890855370752) | advertise |
 | [anthonylucas109@twitter](https://twitter.com/anthonylucas109/status/1701244437815230869) | advertise |
 | [AntohinShulov@twitter](https://twitter.com/AntohinShulov/status/1392227012136239105) | advertise |
