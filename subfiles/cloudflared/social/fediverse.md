@@ -6824,7 +6824,6 @@ Here's a list of public Fediverse services.
 | `catgram.jp` | Yes |
 | `catharsis.cafe` | No |
 | `cathect.net` | No |
-| `cathedral.tokyo` | No |
 | `cathode.church` | No |
 | `cathoderay.tube` | Yes |
 | `catholicchurch.social` | No |
@@ -46461,6 +46460,7 @@ Here's a list of public Fediverse services.
 | `tumelum.de` | No |
 | `tumescent.social` | No |
 | `tumfatig.net` | No |
+| `tummy.town` | No |
 | `tummyacid.net` | No |
 | `tumocs.eu` | No |
 | `tuna.cat` | No |
