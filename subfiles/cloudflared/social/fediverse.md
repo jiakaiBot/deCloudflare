@@ -4937,7 +4937,7 @@ Here's a list of public Fediverse services.
 | `bitdrift.io` | Yes |
 | `bitflip.jetzt` | No |
 | `bitfolk.com` | No |
-| `bitforged.social` | No |
+| `bitforged.social` | Yes |
 | `bitforged.space` | Yes |
 | `bitfroest.cloud` | No |
 | `bitfrost.gg` | No |
@@ -11465,6 +11465,7 @@ Here's a list of public Fediverse services.
 | `dougherty.social` | Yes |
 | `dougiverse.io` | Yes |
 | `douglashill.co` | Yes |
+| `doujin.biz` | No |
 | `doujin.games` | Yes |
 | `dounx.me` | Yes |
 | `douvk.co.uk` | No |
@@ -51282,7 +51283,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,533 |
+| Cloudflare | 14,534 |
 | Normal | 36,701 |
 
 
