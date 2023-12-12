@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Durable Objects Issues](https://github.com/SecOpsNews/news/issues/22337)
+- [CloudFlare Cloudflare Workers Issues](https://github.com/SecOpsNews/news/issues/22336)
+- [CloudFlare Cloudflare Durable Objects Issues](https://github.com/hinoshiba/news/issues/7074)
 - [Bash scripts strange output on Linux agents](https://github.com/amidaware/tacticalrmm/issues/1702)
 - [ModuleNotFoundError No module named 'distutils' with Python312](https://github.com/xtekky/gpt4free/issues/1339)
 - [Issue with large files couldNotUploadFile(underlyingError: TUSKit.TUSAPIError.couldNotRetrieveOffset)](https://github.com/tus/TUSKit/issues/178)
