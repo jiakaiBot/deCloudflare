@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Incorrect error message for during provider resolution](https://github.com/opentofu/opentofu/issues/1002)
+- [proxy.url do not support trailing /](https://github.com/FlareSolverr/FlareSolverr/issues/1001)
+- [whois link in SECURITY.md file returns 404](https://github.com/cisagov/dotgov-data/issues/109)
 - [【@solid-mediakit/auth】SessionProvider throw Error](https://github.com/solidjs-community/mediakit/issues/10)
 - [用第三方 API 好像报错，不能用](https://github.com/lobehub/lobe-chat/issues/626)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/hinoshiba/news/issues/7077)
