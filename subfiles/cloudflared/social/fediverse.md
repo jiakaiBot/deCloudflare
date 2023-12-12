@@ -33040,6 +33040,7 @@ Here's a list of public Fediverse services.
 | `on1000mark.club` | No |
 | `on2it.net` | Yes |
 | `on74th.cloud` | No |
+| `ona.la` | No |
 | `onair.sbs` | Yes |
 | `onboardthefilm.community` | No |
 | `onchangedevie.com` | No |
@@ -51296,7 +51297,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,542 |
-| Normal | 36,705 |
+| Normal | 36,706 |
 
 
 </details>
