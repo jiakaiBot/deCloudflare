@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,108 |
 | social | 4,703 |
-| net | 3,997 |
+| net | 3,999 |
 | org | 2,677 |
 | de | 2,532 |
 
@@ -326,7 +326,7 @@ Here's a list of public Fediverse services.
 | `1password.social` | No |
 | `1person.me` | No |
 | `1ppm.de` | No |
-| `1rl.social` | Yes |
+| `1rl.social` | No |
 | `1stva.mp` | No |
 | `1uca.com` | No |
 | `1up.ninja` | No |
@@ -27463,7 +27463,7 @@ Here's a list of public Fediverse services.
 | `matteozenatti.net` | No |
 | `matteroffact.ca` | No |
 | `matterofti.me` | No |
-| `matters.one` | No |
+| `matters.one` | Yes |
 | `matthaei.cloud` | No |
 | `matthaldane.com` | Yes |
 | `matthauger.com` | Yes |
@@ -28814,6 +28814,7 @@ Here's a list of public Fediverse services.
 | `mist.so` | No |
 | `mistah-v.com` | No |
 | `mistbow.xyz` | Yes |
+| `misteli.in.net` | Yes |
 | `mistelske.com` | No |
 | `mister.computer` | No |
 | `misterbanal.net` | No |
@@ -29308,6 +29309,7 @@ Here's a list of public Fediverse services.
 | `moodle.net` | Yes |
 | `moodoo.org` | Yes |
 | `moody.name` | No |
+| `moodywarlock.net` | No |
 | `moog.social` | No |
 | `moogle.place` | No |
 | `moogle.social` | No |
@@ -37995,7 +37997,7 @@ Here's a list of public Fediverse services.
 | `rikozone.net` | No |
 | `riku1227.social` | No |
 | `rikunagiweb.jp` | Yes |
-| `rikvoj.tech` | Yes |
+| `rikvoj.tech` | No |
 | `rikwithnoc.com` | Yes |
 | `riley-tech.net` | Yes |
 | `riley.lgbt` | No |
@@ -51281,7 +51283,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,533 |
-| Normal | 36,699 |
+| Normal | 36,701 |
 
 
 </details>
