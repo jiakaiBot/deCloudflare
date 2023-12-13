@@ -16343,7 +16343,7 @@ Here's a list of public Fediverse services.
 | `geekingout.online` | No |
 | `geekland.space` | No |
 | `geeklife.com` | No |
-| `geekly.social` | Yes |
+| `geekly.social` | No |
 | `geekmodedad.com` | No |
 | `geekmynerdup.com` | No |
 | `geeknews.chat` | No |
@@ -21536,6 +21536,7 @@ Here's a list of public Fediverse services.
 | `joanathx.com` | Yes |
 | `joanmastodon.blog` | No |
 | `joannetheisen.com` | No |
+| `joaoaguiar.blog.br` | No |
 | `joaocosta.eu` | No |
 | `joaoleitao.org` | Yes |
 | `joat.me` | No |
@@ -51326,8 +51327,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,547 |
-| Normal | 36,731 |
+| Cloudflare | 14,546 |
+| Normal | 36,733 |
 
 
 </details>
