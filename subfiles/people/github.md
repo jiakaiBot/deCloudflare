@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [JS error in preview on initial setup](https://github.com/DLXPlugins/dlx-pmpro-turnstile/issues/3)
 - [Cloudflare data connector broke](https://github.com/Azure/Azure-Sentinel/issues/9601)
 - [feat: Better Support for Environment Configuration in Cloudflare Workers](https://github.com/pingdotgg/uploadthing/issues/515)
 - [newrelic_api_access_key: Recreate resource if removed outside Terraform](https://github.com/newrelic/terraform-provider-newrelic/issues/2519)
