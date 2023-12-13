@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Outage caused by excessive traffic Rails static assets?](https://github.com/sciencehistory/scihist_digicoll/issues/2469)
 - [Getting the following error after installing ngx-trunstile, could you help us on this issue.](https://github.com/verto-health/ngx-turnstile/issues/19)
 - [sif2/sifas/stills broken due to idol.st cloudflare](https://github.com/DemonicSavage/mikan/issues/85)
 - [JS error in preview on initial setup](https://github.com/DLXPlugins/dlx-pmpro-turnstile/issues/3)
