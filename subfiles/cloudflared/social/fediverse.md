@@ -3956,6 +3956,7 @@ Here's a list of public Fediverse services.
 | `balerno.town` | No |
 | `ballantine.family` | No |
 | `ballhaus.community` | No |
+| `ballhaus.dk` | No |
 | `ballhaus.media` | No |
 | `balliauw.dev` | No |
 | `balliauw.net` | No |
@@ -5503,7 +5504,7 @@ Here's a list of public Fediverse services.
 | `bongocats.town` | No |
 | `bongoit.co.uk` | Yes |
 | `bonifacelabs.ca` | No |
-| `bonk.expert` | No |
+| `bonk.expert` | Yes |
 | `bonk.social` | No |
 | `bonn.jetzt` | No |
 | `bonn.jobs` | No |
@@ -21060,6 +21061,7 @@ Here's a list of public Fediverse services.
 | `jantzen.no` | No |
 | `janusweb.org` | No |
 | `janusworx.com` | No |
+| `janvandenberg.blog` | No |
 | `janwillemswane.nl` | No |
 | `janxy.me` | No |
 | `janxy.town` | No |
@@ -35989,7 +35991,7 @@ Here's a list of public Fediverse services.
 | `priva.si` | No |
 | `privacity.org` | No |
 | `privacy-error.it` | No |
-| `privacy.fyi` | No |
+| `privacy.fyi` | Yes |
 | `privacy.org.au` | No |
 | `privacy.tk` | No |
 | `privacyfirst.social` | No |
@@ -45455,7 +45457,7 @@ Here's a list of public Fediverse services.
 | `todon.fr` | No |
 | `todon.in` | Yes |
 | `todon.nl` | No |
-| `todon.rocks` | No |
+| `todon.rocks` | Yes |
 | `todon.site` | No |
 | `todon.uk` | No |
 | `todor.cc` | No |
@@ -51318,8 +51320,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,541 |
-| Normal | 36,729 |
+| Cloudflare | 14,544 |
+| Normal | 36,728 |
 
 
 </details>
