@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,111 |
+| com | 8,112 |
 | social | 4,704 |
 | net | 4,005 |
 | org | 2,677 |
@@ -6735,6 +6735,7 @@ Here's a list of public Fediverse services.
 | `cassilda.house` | Yes |
 | `cassone.social` | No |
 | `cast.garden` | No |
+| `castelia.cafe` | No |
 | `castelodelego.org` | No |
 | `castilla.social` | No |
 | `castironguy.ca` | No |
@@ -11222,6 +11223,7 @@ Here's a list of public Fediverse services.
 | `dodge.me.uk` | No |
 | `dodgson.org` | No |
 | `dodgy.download` | No |
+| `dodies.lv` | Yes |
 | `dodsorf.as` | No |
 | `doenietzomoeilijk.nl` | No |
 | `doern.tech` | No |
@@ -18087,6 +18089,7 @@ Here's a list of public Fediverse services.
 | `harfang.social` | Yes |
 | `harijs.id.lv` | No |
 | `harishpillay.com` | No |
+| `harkonen.pw` | No |
 | `harmandar.co` | No |
 | `harmon.tech` | No |
 | `harmoniescreatives.com` | No |
@@ -20571,7 +20574,7 @@ Here's a list of public Fediverse services.
 | `is-here.com` | No |
 | `is-pretty.gay` | Yes |
 | `is-super.moe` | No |
-| `is.horse` | No |
+| `is.horse` | Yes |
 | `is4.site` | Yes |
 | `isaa.it` | Yes |
 | `isaaccronk.com` | No |
@@ -29146,6 +29149,7 @@ Here's a list of public Fediverse services.
 | `mog.blue` | Yes |
 | `mog.gg` | Yes |
 | `mogeko.moe` | No |
+| `mogeko.monster` | No |
 | `mogenius.io` | Yes |
 | `moggy.xyz` | No |
 | `mogle.social` | No |
@@ -36848,7 +36852,7 @@ Here's a list of public Fediverse services.
 | `rabiy.me` | No |
 | `rabkor.ru` | No |
 | `rac.me.uk` | No |
-| `raccoon.cafe` | No |
+| `raccoon.cafe` | Yes |
 | `raccoon.college` | Yes |
 | `raccoon.community` | Yes |
 | `raccoon.garden` | No |
@@ -49848,6 +49852,7 @@ Here's a list of public Fediverse services.
 | `xayah.net` | No |
 | `xbb.one` | Yes |
 | `xbdm.fun` | Yes |
+| `xbdv.com` | Yes |
 | `xbm.se` | No |
 | `xbon-pvpcompagnies.tk` | No |
 | `xbt0r.com` | No |
@@ -51313,8 +51318,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,537 |
-| Normal | 36,728 |
+| Cloudflare | 14,541 |
+| Normal | 36,729 |
 
 
 </details>
