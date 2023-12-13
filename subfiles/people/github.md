@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare data connector broke](https://github.com/Azure/Azure-Sentinel/issues/9601)
 - [feat: Better Support for Environment Configuration in Cloudflare Workers](https://github.com/pingdotgg/uploadthing/issues/515)
 - [newrelic_api_access_key: Recreate resource if removed outside Terraform](https://github.com/newrelic/terraform-provider-newrelic/issues/2519)
 - [Incorrect error message for during provider resolution](https://github.com/opentofu/opentofu/issues/1002)
