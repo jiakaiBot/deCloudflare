@@ -15561,6 +15561,7 @@ Do not create new issue or we will close it as duplicate.
 | [zeakstweets@twitter](https://twitter.com/zeakstweets/status/1607395769899782145) | advertise |
 | [zed37w9@twitter](https://twitter.com/zed37w9/status/1387696205598105602) | advertise |
 | [zeesuChoudhary@twitter](https://twitter.com/zeesuChoudhary/status/1403254311468011528) | advertise |
+| [ZehabeshaNews@twitter](https://twitter.com/ZehabeshaNews/status/1734831065565683736) | advertise |
 | [zeidcb@twitter](https://twitter.com/zeidcb/status/1382822880942166023) | advertise |
 | [zekerro@twitter](https://twitter.com/zekerro/status/1390724812079702017) | advertise |
 | [zeke_ros@twitter](https://twitter.com/zeke_ros/status/1380544686746607618) | advertise |
