@@ -43897,6 +43897,7 @@ Here's a list of public Fediverse services.
 | `tech-den.xyz` | No |
 | `tech-nico.de` | No |
 | `tech-savvy.social` | No |
+| `tech-tips.ca` | No |
 | `tech.lgbt` | No |
 | `techalignment.com` | No |
 | `techandbeer.social` | No |
@@ -47798,7 +47799,7 @@ Here's a list of public Fediverse services.
 | `veridian.social` | No |
 | `verified-mastodon.org` | No |
 | `verified-staging.net` | No |
-| `verified.af` | Yes |
+| `verified.af` | No |
 | `verified.coop` | No |
 | `veriny.tf` | Yes |
 | `verisimilitudino.us` | No |
@@ -51301,8 +51302,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,535 |
-| Normal | 36,718 |
+| Cloudflare | 14,534 |
+| Normal | 36,720 |
 
 
 </details>
