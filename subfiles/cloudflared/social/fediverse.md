@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,704 |
 | net | 4,002 |
 | org | 2,676 |
-| de | 2,533 |
+| de | 2,534 |
 
 
 - Mastodon, Pleroma, etc
@@ -18198,7 +18198,7 @@ Here's a list of public Fediverse services.
 | `hawco.ca` | No |
 | `hawk-tomy.dev` | Yes |
 | `hawk.life` | Yes |
-| `hawkes.cc` | Yes |
+| `hawkes.cc` | No |
 | `hawkeyes.social` | No |
 | `hawkridges.co.uk` | Yes |
 | `hawks.im` | No |
@@ -18983,7 +18983,7 @@ Here's a list of public Fediverse services.
 | `home.kg` | Yes |
 | `home.social` | No |
 | `home31.pw` | Yes |
-| `homebrewer.social` | Yes |
+| `homebrewer.social` | No |
 | `homebrewserver.club` | No |
 | `homecloud.site` | Yes |
 | `homecomputing.fr` | No |
@@ -26471,6 +26471,7 @@ Here's a list of public Fediverse services.
 | `maneisacutie.club` | No |
 | `manetheren.net` | No |
 | `manfre.net` | No |
+| `manfred-aretz.de` | No |
 | `manga.tokyo` | Yes |
 | `mangadon.biz` | No |
 | `mangadon.info` | No |
@@ -27288,7 +27289,7 @@ Here's a list of public Fediverse services.
 | `mastodonte.club` | No |
 | `mastodonte.me` | Yes |
 | `mastodonte.ml` | No |
-| `mastodonte.online` | Yes |
+| `mastodonte.online` | No |
 | `mastodonte.org` | No |
 | `mastodonte.quebec` | No |
 | `mastodonte.red` | Yes |
@@ -41758,7 +41759,7 @@ Here's a list of public Fediverse services.
 | `southpawsteven.com` | No |
 | `southsea.social` | No |
 | `southtyrol.dev` | No |
-| `southtyrol.social` | Yes |
+| `southtyrol.social` | No |
 | `southware.ir` | Yes |
 | `southwesterly.co` | No |
 | `souverainete-numerique.info` | No |
@@ -50940,7 +50941,7 @@ Here's a list of public Fediverse services.
 | `zenshin.uk` | Yes |
 | `zentea.gay` | No |
 | `zentonic.org` | No |
-| `zentroverse.xyz` | Yes |
+| `zentroverse.xyz` | No |
 | `zentrumderarbeit.net` | No |
 | `zenwillow.website` | No |
 | `zenzone.social` | Yes |
@@ -51300,8 +51301,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,540 |
-| Normal | 36,712 |
+| Cloudflare | 14,535 |
+| Normal | 36,718 |
 
 
 </details>
