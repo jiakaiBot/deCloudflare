@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,109 |
+| com | 8,111 |
 | social | 4,704 |
-| net | 4,003 |
-| org | 2,676 |
-| de | 2,534 |
+| net | 4,005 |
+| org | 2,677 |
+| de | 2,535 |
 
 
 - Mastodon, Pleroma, etc
@@ -1744,6 +1744,7 @@ Here's a list of public Fediverse services.
 | `alexoladele.dev` | Yes |
 | `alexreiner-hosting.de` | No |
 | `alexrio.fr` | No |
+| `alexsaezm.com` | Yes |
 | `alexschreyer.net` | No |
 | `alexschroeder.ch` | No |
 | `alexsirac.com` | No |
@@ -9593,6 +9594,7 @@ Here's a list of public Fediverse services.
 | `dain.moe` | No |
 | `dair-community.social` | Yes |
 | `dair-institute.org` | Yes |
+| `dairydemon.net` | No |
 | `daishouri.moe` | No |
 | `daize.xin` | No |
 | `daizhige.org` | No |
@@ -9895,6 +9897,7 @@ Here's a list of public Fediverse services.
 | `datamol.org` | No |
 | `datanerd.se` | No |
 | `datanom.net` | No |
+| `datanoodles.net` | No |
 | `dataplatform.social` | Yes |
 | `dataplicity.io` | No |
 | `datappl.io` | No |
@@ -16787,6 +16790,7 @@ Here's a list of public Fediverse services.
 | `glasnost.se` | No |
 | `glaspest.nu` | No |
 | `glass-lab.net` | Yes |
+| `glassbeadcollective.org` | Yes |
 | `glasserholdings.eu` | No |
 | `glasses.moe` | Yes |
 | `glasseyeballs.com` | No |
@@ -26117,6 +26121,7 @@ Here's a list of public Fediverse services.
 | `macro.town` | Yes |
 | `macrodd.online` | Yes |
 | `macrofurs.social` | Yes |
+| `macroph.one` | No |
 | `macskatze.art` | No |
 | `macsnet.cz` | No |
 | `macstack.net` | No |
@@ -26683,6 +26688,7 @@ Here's a list of public Fediverse services.
 | `mart-e.be` | No |
 | `marte.city` | Yes |
 | `martelleur.online` | No |
+| `martelleur.shop` | No |
 | `marthaburtis.net` | No |
 | `martiabernathey.com` | No |
 | `martian.social` | No |
@@ -27889,6 +27895,7 @@ Here's a list of public Fediverse services.
 | `mela.de` | No |
 | `melalandia.tk` | No |
 | `melancho.ly` | No |
+| `melanson.ca` | No |
 | `melanson.social` | No |
 | `melatonin.fun` | No |
 | `melb.social` | Yes |
@@ -30313,6 +30320,7 @@ Here's a list of public Fediverse services.
 | `myprivatecloud.uk` | No |
 | `myprostatecancerjourney.us` | No |
 | `mypsx.net` | No |
+| `myqueerevents.de` | No |
 | `myriad.domains` | No |
 | `myriad.social` | Yes |
 | `myrica.cloud` | No |
@@ -41437,6 +41445,7 @@ Here's a list of public Fediverse services.
 | `socialghost.org` | No |
 | `socialgoblins.club` | Yes |
 | `socialhome.network` | No |
+| `socialino.it` | No |
 | `socialinvestmentbuilders.nl` | No |
 | `socialis.me` | No |
 | `socialism.social` | No |
@@ -46616,6 +46625,7 @@ Here's a list of public Fediverse services.
 | `twiddlebang.org` | No |
 | `twiddon.com` | No |
 | `twidon.com` | No |
+| `twigwhite.com` | No |
 | `twilight-creation.com` | No |
 | `twilight.garden` | Yes |
 | `twilightparadox.com` | Yes |
@@ -51303,8 +51313,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,535 |
-| Normal | 36,720 |
+| Cloudflare | 14,537 |
+| Normal | 36,728 |
 
 
 </details>
