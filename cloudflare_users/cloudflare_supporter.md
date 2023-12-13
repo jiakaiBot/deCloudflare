@@ -6722,6 +6722,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhanhKLL@twitter](https://twitter.com/KhanhKLL/status/1552116669967106048) | advertise |
 | [khanhph47188511@twitter](https://twitter.com/khanhph47188511/status/1679199014246547456) | advertise |
 | [KhanhQu29500186@twitter](https://twitter.com/KhanhQu29500186/status/1552998702247452672) | advertise |
+| [KhanhS15165858@twitter](https://twitter.com/KhanhS15165858/status/1734782598852059196) | advertise |
 | [khanlar8@twitter](https://twitter.com/khanlar8/status/1396061782540656641) | advertise |
 | [khanpro1903@twitter](https://twitter.com/khanpro1903/status/1389267563633283073) | advertise |
 | [khant45034632@twitter](https://twitter.com/khant45034632/status/1399752623771635715) | advertise |
