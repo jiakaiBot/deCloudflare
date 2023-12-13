@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,112 |
+| com | 8,115 |
 | social | 4,704 |
 | net | 4,005 |
 | org | 2,677 |
@@ -11890,6 +11890,7 @@ Here's a list of public Fediverse services.
 | `dutchxs.com` | No |
 | `duti.tech` | No |
 | `dutka-is.de` | No |
+| `duuuck.com` | Yes |
 | `duwa.ng` | No |
 | `duxez.dev` | No |
 | `duxie.xyz` | No |
@@ -31482,6 +31483,7 @@ Here's a list of public Fediverse services.
 | `niedersachsen.social` | No |
 | `nieein56.me` | No |
 | `nieein56.xyz` | No |
+| `niefelheim.com` | No |
 | `niel.me` | No |
 | `nielk1.com` | No |
 | `nielniel.net` | No |
@@ -34180,6 +34182,7 @@ Here's a list of public Fediverse services.
 | `pasero.net` | No |
 | `pash.moe` | No |
 | `pashan.social` | No |
+| `pasithee.fr` | No |
 | `paskell.social` | No |
 | `pasokey.net` | Yes |
 | `pass-vault.ru` | No |
@@ -39299,6 +39302,7 @@ Here's a list of public Fediverse services.
 | `savepoint.social` | No |
 | `savga.social` | No |
 | `savikin.me` | Yes |
+| `savitsky.cloud` | No |
 | `savoie.social` | No |
 | `savvas.cloud` | Yes |
 | `savvy.ch` | No |
@@ -47014,6 +47018,7 @@ Here's a list of public Fediverse services.
 | `unasuke.com` | Yes |
 | `unattributed.cc` | No |
 | `unau.edu.ar` | No |
+| `unavitadacinefilo.com` | No |
 | `unbia.st` | Yes |
 | `unbl.ink` | No |
 | `unboiled.info` | No |
@@ -51321,8 +51326,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,546 |
-| Normal | 36,727 |
+| Cloudflare | 14,547 |
+| Normal | 36,731 |
 
 
 </details>
