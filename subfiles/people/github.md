@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [sif2/sifas/stills broken due to idol.st cloudflare](https://github.com/DemonicSavage/mikan/issues/85)
 - [JS error in preview on initial setup](https://github.com/DLXPlugins/dlx-pmpro-turnstile/issues/3)
 - [Cloudflare data connector broke](https://github.com/Azure/Azure-Sentinel/issues/9601)
 - [feat: Better Support for Environment Configuration in Cloudflare Workers](https://github.com/pingdotgg/uploadthing/issues/515)
