@@ -28631,7 +28631,7 @@ Here's a list of public Fediverse services.
 | `ministryofinternet.eu` | No |
 | `minitel.cloud` | No |
 | `minitor.su` | Yes |
-| `minivelo.coffee` | No |
+| `minivelo.coffee` | Yes |
 | `miniverse.social` | No |
 | `miniwa.moe` | No |
 | `minixer.com` | No |
@@ -43381,6 +43381,7 @@ Here's a list of public Fediverse services.
 | `systems.social` | No |
 | `systemsfail.net` | No |
 | `systemswithin.systems` | No |
+| `systemz.pl` | Yes |
 | `systerserver.net` | No |
 | `systerserver.town` | No |
 | `systest.eu` | No |
@@ -51320,8 +51321,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,544 |
-| Normal | 36,728 |
+| Cloudflare | 14,546 |
+| Normal | 36,727 |
 
 
 </details>
