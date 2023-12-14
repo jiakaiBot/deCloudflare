@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Incorrect case in Cloudflare Logpush pipeline](https://github.com/elastic/integrations/issues/8737)
 - [getting an incarnation can fail briefly while a change is being pushed](https://github.com/Roche/foxops/issues/440)
 - [Enhancement: add pagination logic for syncing block headers](https://github.com/Layr-Labs/eigenda/issues/123)
 - ["Error connecting to FlareSolverr server" after running for a while](https://github.com/FlareSolverr/FlareSolverr/issues/1004)
