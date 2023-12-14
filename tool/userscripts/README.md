@@ -6,6 +6,6 @@ However, keep in mind that there may be some limitations due to your browser's r
 If you can use "[Are links vulnerable to MITM attack?](../../subfiles/addon/ismm.md)" add-on, it is **recommended** to use it instead of the script for better protection and performance. 
 
 - The UserScript (use EITHER, not both)
-  - [Remove CF link](dcf.us.remove.js); remove the link
-  - [Color CF link](dcf.us.color.js); mark the link
+  - [Remove CF link](cf.remove.user.js); remove the link
+  - [Color CF link](cf.color.user.js); mark the link
 
