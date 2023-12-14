@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,121 |
+| com | 8,122 |
 | social | 4,706 |
 | net | 4,010 |
 | org | 2,677 |
@@ -42270,6 +42270,7 @@ Here's a list of public Fediverse services.
 | `staf.dev` | Yes |
 | `staffshow.live` | No |
 | `staging.rip` | Yes |
+| `stahlbrandt.com` | No |
 | `stahlstadt.cloud` | No |
 | `staipa.it` | Yes |
 | `stakswipe.com` | No |
@@ -51348,7 +51349,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,551 |
-| Normal | 36,748 |
+| Normal | 36,749 |
 
 
 </details>
