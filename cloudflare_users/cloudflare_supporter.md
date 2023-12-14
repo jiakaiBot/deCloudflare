@@ -5640,6 +5640,7 @@ Do not create new issue or we will close it as duplicate.
 | [ImanBabazadeh@twitter](https://twitter.com/ImanBabazadeh/status/1388441784775286784) | advertise |
 | [Imanmirakhorli@twitter](https://twitter.com/Imanmirakhorli/status/1409632904510984201) | moral (advertise) |
 | [imanus07@twitter](https://twitter.com/imanus07/status/1657733188565848064) | advertise |
+| [imCeko1@twitter](https://twitter.com/imCeko1/status/1735216464318140722) | advertise |
 | [imduyhoang@twitter](https://twitter.com/imduyhoang/status/1503398392902582275) | advertise |
 | [imeplus_tv@twitter](https://twitter.com/imeplus_tv/status/1508088325726429195) | advertise |
 | [ImGlacier92@twitter](https://twitter.com/ImGlacier92/status/1672790558891278338) | advertise |
@@ -11988,6 +11989,7 @@ Do not create new issue or we will close it as duplicate.
 | [samuelibk@twitter](https://twitter.com/samuelibk/status/1404790587375730688) | advertise |
 | [samueljackrtx@twitter](https://twitter.com/samueljackrtx/status/1509751188312391683) | advertise |
 | [samuelll_llll@twitter](https://twitter.com/samuelll_llll/status/1587850198822289408) | advertise |
+| [SamuelPiri2@twitter](https://twitter.com/SamuelPiri2/status/1735211437751177240) | advertise |
 | [samuels1v@twitter](https://twitter.com/samuels1v/status/1660731057480581120) | advertise |
 | [Samurai_Slug@twitter](https://twitter.com/Samurai_Slug/status/1642682467030106113) | advertise |
 | [SaMuSar_org@twitter](https://twitter.com/SaMuSar_org/status/1671382175470718977) | advertise |
