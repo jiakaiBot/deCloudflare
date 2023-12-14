@@ -16047,6 +16047,7 @@ Here's a list of public Fediverse services.
 | `galegale.online` | No |
 | `galenabell.com` | No |
 | `galenzoski.com` | Yes |
+| `galih.me` | Yes |
 | `galileo.news` | No |
 | `gall.family` | Yes |
 | `gallegoiv.com` | Yes |
@@ -51348,7 +51349,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,551 |
+| Cloudflare | 14,552 |
 | Normal | 36,749 |
 
 
