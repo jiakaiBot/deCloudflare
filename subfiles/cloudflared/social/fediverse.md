@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,122 |
+| com | 8,123 |
 | social | 4,706 |
-| net | 4,010 |
+| net | 4,011 |
 | org | 2,677 |
 | de | 2,537 |
 
@@ -20603,6 +20603,7 @@ Here's a list of public Fediverse services.
 | `isalman.dev` | Yes |
 | `isamp.com` | Yes |
 | `isarzwo.com` | No |
+| `isazi.net` | No |
 | `isbrill.com` | No |
 | `ischool.social` | No |
 | `iscurrently.live` | Yes |
@@ -33725,6 +33726,7 @@ Here's a list of public Fediverse services.
 | `out.best` | No |
 | `outadoc.fr` | No |
 | `outaouais.club` | No |
+| `outdoorabruzzo.com` | No |
 | `outdoorenthusiasts.space` | No |
 | `outdoorism.net` | No |
 | `outdoors.lgbt` | No |
@@ -51350,7 +51352,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,552 |
-| Normal | 36,749 |
+| Normal | 36,751 |
 
 
 </details>
