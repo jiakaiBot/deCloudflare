@@ -14196,6 +14196,7 @@ Do not create new issue or we will close it as duplicate.
 | [tukang_keprok@twitter](https://twitter.com/tukang_keprok/status/1697429701835493689) | advertise |
 | [Tuliocalil@twitter](https://twitter.com/Tuliocalil/status/1651675441051103238) | advertise |
 | [TulipLinn@twitter](https://twitter.com/TulipLinn/status/1380883824805081090) | advertise |
+| [Tumz1111@twitter](https://twitter.com/Tumz1111/status/1735204735060484313) | advertise |
 | [tun48678228@twitter](https://twitter.com/tun48678228/status/1391906172450467841) | advertise |
 | [Tun51380741@twitter](https://twitter.com/Tun51380741/status/1388784378503843842) | advertise |
 | [Tun67540385@twitter](https://twitter.com/Tun67540385/status/1610811724231499777) | advertise |
