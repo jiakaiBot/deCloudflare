@@ -9094,6 +9094,7 @@ Do not create new issue or we will close it as duplicate.
 | [mrwavibor@twitter](https://twitter.com/mrwavibor/status/1488530667499667469) | advertise |
 | [Mrwinzaw491@twitter](https://twitter.com/Mrwinzaw491/status/1390187633729425408) | advertise |
 | [MrYeMinTun1@twitter](https://twitter.com/MrYeMinTun1/status/1394660706490806274) | advertise |
+| [mrym_ly19404@twitter](https://twitter.com/mrym_ly19404/status/1735184855204331842) | advertise |
 | [MrZawadIslam1@twitter](https://twitter.com/MrZawadIslam1/status/1726625182750785675) | advertise |
 | [Mrzawmyooo1@twitter](https://twitter.com/Mrzawmyooo1/status/1393509214518005764) | advertise |
 | [MrZero51744009@twitter](https://twitter.com/MrZero51744009/status/1394291132293521421) | advertise |
@@ -14244,6 +14245,7 @@ Do not create new issue or we will close it as duplicate.
 | [TunYinmin@twitter](https://twitter.com/TunYinmin/status/1394984491354148864) | advertise |
 | [TuongNg04097548@twitter](https://twitter.com/TuongNg04097548/status/1482973722265145347) | advertise |
 | [TuranAl73647284@twitter](https://twitter.com/TuranAl73647284/status/1720696901912445065) | advertise |
+| [turashama3@twitter](https://twitter.com/turashama3/status/1735175091934089537) | advertise |
 | [turboroom@twitter](https://twitter.com/turboroom/status/1538608149413998594) | advertise |
 | [TureinKhant@twitter](https://twitter.com/TureinKhant/status/1388471250389983232) | advertise |
 | [TurnKeyMSP@twitter](https://twitter.com/TurnKeyMSP/status/1402797639482187776) | advertise |
@@ -15086,6 +15088,7 @@ Do not create new issue or we will close it as duplicate.
 | [XiaoLin60811591@twitter](https://twitter.com/XiaoLin60811591/status/1661404198435446786) | advertise |
 | [xiaomao85622541@twitter](https://twitter.com/xiaomao85622541/status/1391819655287689221) | advertise |
 | [Xiaoqingxxx1@twitter](https://twitter.com/Xiaoqingxxx1/status/1478846246299189248) | advertise |
+| [xiaoshi448206@twitter](https://twitter.com/xiaoshi448206/status/1735136977408991366) | advertise |
 | [xiaowanggg@twitter](https://twitter.com/xiaowanggg/status/1483352827732717573) | advertise |
 | [XiaoWu92722924@twitter](https://twitter.com/XiaoWu92722924/status/1379035666818990082) | advertise |
 | [xiawanxw@twitter](https://twitter.com/xiawanxw/status/1691157645921783810) | advertise |
