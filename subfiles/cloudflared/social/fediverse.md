@@ -5358,7 +5358,7 @@ Here's a list of public Fediverse services.
 | `bmvs.io` | No |
 | `bmw-and-more.info` | No |
 | `bn4t.me` | Yes |
-| `bna.social` | No |
+| `bna.social` | Yes |
 | `bnamed.social` | No |
 | `bndb.sh` | No |
 | `bne.social` | Yes |
@@ -8220,7 +8220,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -26313,7 +26313,7 @@ Here's a list of public Fediverse services.
 | `mainesocial.xyz` | No |
 | `mainframe.club` | No |
 | `mainframe.community` | No |
-| `mainframesociety.com` | No |
+| `mainframesociety.com` | Yes |
 | `mainichi.social` | No |
 | `mainspitze.social` | No |
 | `maintedor.com` | Yes |
@@ -42920,6 +42920,7 @@ Here's a list of public Fediverse services.
 | `suffocating.org` | No |
 | `suganthan.social` | No |
 | `sugar-free-jazz.com` | No |
+| `sugar.dad` | Yes |
 | `sugar.monster` | No |
 | `sugarashcat.xyz` | No |
 | `sugarcube.pw` | No |
@@ -46055,7 +46056,7 @@ Here's a list of public Fediverse services.
 | `transrights.art` | Yes |
 | `transrights.ovh` | No |
 | `transsafety.network` | Yes |
-| `tranvender.site` | No |
+| `tranvender.site` | Yes |
 | `trap.lol` | Yes |
 | `trapezial.com` | Yes |
 | `trapped.codes` | No |
@@ -51332,8 +51333,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,541 |
-| Normal | 36,743 |
+| Cloudflare | 14,546 |
+| Normal | 36,739 |
 
 
 </details>
