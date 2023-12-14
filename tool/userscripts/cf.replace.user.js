@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name Mark CloudFlare links
-// @description Mark CloudFlare links
-// @namespace deCloudflare_us_color-cf
+// @name Replace CloudFlare links
+// @description Replace CloudFlare links
+// @namespace deCloudflare_us_replace-cf
 // @author Matthew L. Tanner, CrimeFlare
 // @match https://*/*
 // @match http://*/*
@@ -38,6 +38,7 @@ function mark_fqdn(fl) {
                if (x[xx]) {
                   fqdns[xx].forEach(qs => {
                      qs.setAttribute('xcf', 'y');
+                     qs.href = 'https://web.archive.org/web/' + qs.href;
                   });
                } else {
                   fqdns[xx].forEach(qs => {

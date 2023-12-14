@@ -2,7 +2,7 @@
 // @name Remove CloudFlare links
 // @description Remove CloudFlare links
 // @namespace deCloudflare_us_remove-cf
-// @author Matthew L. Tanner
+// @author Matthew L. Tanner, CrimeFlare
 // @match https://*/*
 // @match http://*/*
 // @version 1.0.0.1
@@ -59,7 +59,9 @@ if (!DONT_RUN_FQDNS.includes(fqdn_self) && !/\.crimeflare\.eu\.org$/.test(fqdn_s
             if (fqdns[fqdn] == undefined) {
                fqdns[fqdn] = [];
             }
-            fqdns[fqdn].push(l);
+            if (!/^(|(*.)\.)archive\.org$/.test(fqdn)) {
+               fqdns[fqdn].push(l);
+            }
             l.setAttribute('xcf', 'q');
          }
       } catch (x) {}
