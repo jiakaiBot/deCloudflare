@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,123 |
-| social | 4,706 |
+| com | 8,126 |
+| social | 4,707 |
 | net | 4,011 |
-| org | 2,677 |
+| org | 2,678 |
 | de | 2,537 |
 
 
@@ -1855,6 +1855,7 @@ Here's a list of public Fediverse services.
 | `alliec.at` | No |
 | `alliejp.tv` | No |
 | `alliepa.ca` | No |
+| `allies.rocks` | No |
 | `allies.social` | No |
 | `allison.social` | No |
 | `allistodon.xyz` | Yes |
@@ -17027,6 +17028,7 @@ Here's a list of public Fediverse services.
 | `gochiuma.net` | No |
 | `gochiusa.net` | No |
 | `gock.top` | Yes |
+| `gockandgum.party` | No |
 | `gocloud.fun` | No |
 | `god.fish` | No |
 | `godataflow.com` | Yes |
@@ -17704,6 +17706,7 @@ Here's a list of public Fediverse services.
 | `gxvwb.dev` | No |
 | `gy.gl` | No |
 | `gyahunkoubou.biz` | No |
+| `gyahunkoubou.com` | No |
 | `gyara.moe` | Yes |
 | `gyhost.icu` | No |
 | `gymnastics.town` | No |
@@ -19631,6 +19634,7 @@ Here's a list of public Fediverse services.
 | `ibexpert.info` | No |
 | `ibh.social` | No |
 | `ibicadi.com` | No |
+| `ibict.br` | No |
 | `ibite.lol` | Yes |
 | `ibk-cloud.eu` | No |
 | `ibrokemy.computer` | No |
@@ -23041,6 +23045,7 @@ Here's a list of public Fediverse services.
 | `kittenpanic.io` | No |
 | `kitties.gay` | No |
 | `kittinterns.org` | No |
+| `kittmedia.com` | No |
 | `kitty.church` | No |
 | `kitty.haus` | No |
 | `kitty.observer` | No |
@@ -28387,6 +28392,7 @@ Here's a list of public Fediverse services.
 | `midnight.dance` | No |
 | `midnight.delivery` | No |
 | `midnight.miami` | No |
+| `midnightmoss.space` | No |
 | `midnightride.rs` | No |
 | `midofnowhere.link` | No |
 | `midori-biyori.com` | No |
@@ -32060,6 +32066,7 @@ Here's a list of public Fediverse services.
 | `nore.me` | Yes |
 | `noreboot.org` | No |
 | `noresoft.com` | No |
+| `norfolk.social` | No |
 | `norge.social` | No |
 | `noriade.com` | Yes |
 | `noridev.moe` | No |
@@ -32655,6 +32662,7 @@ Here's a list of public Fediverse services.
 | `obrell.se` | No |
 | `obrien.ws` | No |
 | `obrowne.eu` | No |
+| `obrydd.com` | No |
 | `obscura-px.social` | No |
 | `obscuravpn.io` | No |
 | `obscuritus.ca` | No |
@@ -35782,6 +35790,7 @@ Here's a list of public Fediverse services.
 | `postingbrain.com` | No |
 | `postmarketos.org` | No |
 | `postmastodon.com` | No |
+| `postmeta.se` | No |
 | `postmoderns.info` | No |
 | `postninja.net` | No |
 | `postnstuffds.lol` | No |
@@ -38113,6 +38122,7 @@ Here's a list of public Fediverse services.
 | `rivals.live` | No |
 | `rivals.space` | Yes |
 | `rivendell.cafe` | No |
+| `river.lgbt` | Yes |
 | `riverglide.com` | No |
 | `riverina.live` | No |
 | `riverscape.info` | No |
@@ -45983,6 +45993,7 @@ Here's a list of public Fediverse services.
 | `trace-and-traceability.org` | No |
 | `trachsel.org` | No |
 | `trackball.love` | Yes |
+| `trackers-world.org` | No |
 | `trackmania.social` | No |
 | `trackside.blog` | No |
 | `traction.jp` | No |
@@ -51352,8 +51363,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,552 |
-| Normal | 36,752 |
+| Cloudflare | 14,553 |
+| Normal | 36,762 |
 
 
 </details>
