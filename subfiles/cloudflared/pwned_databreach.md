@@ -161,6 +161,7 @@ Here's a list of breached sites.
 | CrossFire (Cross Fire) | 12,865,609 | Yes |
 | CyberServe | 1,107,034 | Yes |
 | D3scene (D3Scene) | 568,827 | Yes |
+| DCHealth (DC Health Link) | 48,145 | Yes |
 | DDO (Dungeons & Dragons Online) | 1,580,933 | No |
 | DLH (DLH.net) | 3,264,710 | No |
 | DVDShopCH (dvd-shop.ch) | 67,973 | No |
@@ -558,14 +559,14 @@ Here's a list of breached sites.
 | Snail | 1,410,899 | No |
 | Snapchat | 4,609,615 | Yes |
 | SoarGames | 4,774,445 | Yes |
-| SocialEngineered (Social Engineered) | 89,392 | Yes |
+| SocialEngineered (Social Engineered) | 89,392 | No |
 | Solomid (Team SoloMid) | 442,166 | Yes |
 | Sonicbids | 751,700 | Yes |
 | Sony | 37,103 | Yes |
 | Soundwave | 130,705 | No |
 | SpecialKSpamList (Special K Data Feed Spam List) | 30,741,620 | No |
 | Sphero | 832,255 | Yes |
-| Spirol | 55,622 | No |
+| Spirol | 55,622 | Yes |
 | SprashivaiRu (Спрашивай.ру) | 3,474,763 | Yes |
 | SpyFone | 44,109 | Yes |
 | Staminus | 26,815 | No |
@@ -725,10 +726,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 412 | 4,532,512,248 |
-| Normal | 292 | 4,568,248,516 |
+| Cloudflare | 413 | 4,532,526,623 |
+| Normal | 292 | 4,568,282,286 |
 
 
 
-### 58.5% of breached sites (pwned sites) are using Cloudflare.
+### 58.6% of breached sites (pwned sites) are using Cloudflare.
 ### 49.8% of leaked accounts are on Cloudflare sites.
