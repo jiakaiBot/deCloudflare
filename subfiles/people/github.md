@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failure to deploy - D1 bindings require module-format workers. code: 10021](https://github.com/nemphi/hanabicms/issues/2)
+- [Cloudflare challenge loop](https://github.com/FlareSolverr/FlareSolverr/issues/1008)
+- [feat: Helia fetch for dApps](https://github.com/ipfs/helia/issues/348)
 - [YGGTorrent Error solving challenge, timeout](https://github.com/FlareSolverr/FlareSolverr/issues/1006)
 - [Incorrect case in Cloudflare Logpush pipeline](https://github.com/elastic/integrations/issues/8737)
 - [getting an incarnation can fail briefly while a change is being pushed](https://github.com/Roche/foxops/issues/440)
