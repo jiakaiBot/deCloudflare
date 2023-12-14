@@ -330,6 +330,7 @@ Do not create new issue or we will close it as duplicate.
 | [abngpv@twitter](https://twitter.com/abngpv/status/1718588920668295471) | advertise |
 | [abodadas123@twitter](https://twitter.com/abodadas123/status/1473682732354084870) | advertise |
 | [abodd09079727@twitter](https://twitter.com/abodd09079727/status/1689917076725460992) | advertise |
+| [abodmovahed@twitter](https://twitter.com/abodmovahed/status/1735093878485643722) | advertise |
 | [abol9523@twitter](https://twitter.com/abol9523/status/1389172386025574402) | advertise |
 | [abolancer@twitter](https://twitter.com/abolancer/status/1387199448606982159) | advertise |
 | [abolfazl125b@twitter](https://twitter.com/abolfazl125b/status/1577852546378522624) | advertise |
@@ -1255,6 +1256,7 @@ Do not create new issue or we will close it as duplicate.
 | [ashutoshsinghac@twitter](https://twitter.com/ashutoshsinghac/status/1397847733793218560) | advertise |
 | [asia_hippo@twitter](https://twitter.com/asia_hippo/status/1407900933732716545) | advertise |
 | [AsifKha44639814@twitter](https://twitter.com/AsifKha44639814/status/1402506001039851522) | advertise |
+| [Asif_rollins@twitter](https://twitter.com/Asif_rollins/status/1735071259216793981) | advertise |
 | [asikzaman253@twitter](https://twitter.com/asikzaman253/status/1691219028835282944) | advertise |
 | [ASISBusinesses@twitter](https://twitter.com/ASISBusinesses/status/1509318871173505025) | advertise |
 | [asisTmgr@twitter](https://twitter.com/asisTmgr/status/1553900307561807872) | advertise |
@@ -4855,6 +4857,7 @@ Do not create new issue or we will close it as duplicate.
 | [herosoclo@twitter](https://twitter.com/herosoclo/status/1485688186999554048) | advertise |
 | [herrytearjerky@twitter](https://twitter.com/herrytearjerky/status/1687986532211408896) | advertise |
 | [hertles_j@twitter](https://twitter.com/hertles_j/status/1637687935905480705) | advertise |
+| [Hessamg4@twitter](https://twitter.com/Hessamg4/status/1735016283563770197) | advertise |
 | [hetarakawatene1@twitter](https://twitter.com/hetarakawatene1/status/1586135864681279489) | advertise |
 | [Heul032@twitter](https://twitter.com/Heul032/status/1660900528438779904) | advertise |
 | [hexafusion@twitter](https://twitter.com/hexafusion/status/1380335734419156992) | advertise |
@@ -6535,6 +6538,7 @@ Do not create new issue or we will close it as duplicate.
 | [KaungKh76779268@twitter](https://twitter.com/KaungKh76779268/status/1396095077127135240) | advertise |
 | [KaungKh96979194@twitter](https://twitter.com/KaungKh96979194/status/1548163574995902464) | advertise |
 | [KaungKhantWai7@twitter](https://twitter.com/KaungKhantWai7/status/1390703318280794116) | advertise |
+| [kaunglay1741735@twitter](https://twitter.com/kaunglay1741735/status/1735108044156276925) | advertise |
 | [KaungMi09613853@twitter](https://twitter.com/KaungMi09613853/status/1394538296080965634) | advertise |
 | [Kaungmy04721590@twitter](https://twitter.com/Kaungmy04721590/status/1390613674184871936) | advertise |
 | [KaungMy20747771@twitter](https://twitter.com/KaungMy20747771/status/1665017961743282176) | advertise |
@@ -10999,6 +11003,7 @@ Do not create new issue or we will close it as duplicate.
 | [PpTt6450362054@twitter](https://twitter.com/PpTt6450362054/status/1680938882010087432) | advertise |
 | [ppubg221@twitter](https://twitter.com/ppubg221/status/1380101781640900608) | advertise |
 | [PqqRYfrZlaxxTQU@twitter](https://twitter.com/PqqRYfrZlaxxTQU/status/1388389726369972226) | advertise |
+| [PraBDa@twitter](https://twitter.com/PraBDa/status/1735101735402893784) | advertise |
 | [Prabhas024@twitter](https://twitter.com/Prabhas024/status/1397584073204269056) | advertise |
 | [PrabhashShukl18@twitter](https://twitter.com/PrabhashShukl18/status/1400007457410142211) | advertise |
 | [PrabhatSanyal@twitter](https://twitter.com/PrabhatSanyal/status/1388383067299991557) | advertise |
@@ -14396,6 +14401,7 @@ Do not create new issue or we will close it as duplicate.
 | [usebasekart@twitter](https://twitter.com/usebasekart/status/1663351705977667586) | advertise |
 | [usercrt@twitter](https://twitter.com/usercrt/status/1481015598435942401) | advertise |
 | [usernamemone@twitter](https://twitter.com/usernamemone/status/1552668357132165121) | advertise |
+| [Usmanalimu@twitter](https://twitter.com/Usmanalimu/status/1735061565659865435) | advertise |
 | [usoemyi21049252@twitter](https://twitter.com/usoemyi21049252/status/1396746369256222723) | advertise |
 | [USPpanjshiri@twitter](https://twitter.com/USPpanjshiri/status/1716077798547128364) | advertise |
 | [US_Patriot_TX@twitter](https://twitter.com/US_Patriot_TX/status/1689314318452498438) | advertise |
