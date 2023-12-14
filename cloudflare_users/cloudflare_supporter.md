@@ -7150,6 +7150,7 @@ Do not create new issue or we will close it as duplicate.
 | [KRootchild@twitter](https://twitter.com/KRootchild/status/1625654154701012999) | advertise |
 | [KRossi578548@twitter](https://twitter.com/KRossi578548/status/1665889185746542594) | advertise |
 | [krosty@twitter](https://twitter.com/krosty/status/1515216289207312384) | advertise |
+| [krovalanden4@twitter](https://twitter.com/krovalanden4/status/1735250798093766738) | advertise |
 | [krtanev@twitter](https://twitter.com/krtanev/status/1581957025537589248) | advertise |
 | [KrulViper@twitter](https://twitter.com/KrulViper/status/1582399013563027457) | advertise |
 | [krunalp30106666@twitter](https://twitter.com/krunalp30106666/status/1402387067271667713) | advertise |
