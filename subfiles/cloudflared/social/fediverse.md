@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,120 |
+| com | 8,121 |
 | social | 4,706 |
 | net | 4,010 |
 | org | 2,677 |
@@ -9436,7 +9436,7 @@ Here's a list of public Fediverse services.
 | `cybsec.network` | No |
 | `cybt.de` | No |
 | `cybtex.fr` | No |
-| `cybur.nl` | Yes |
+| `cybur.nl` | No |
 | `cycles.network` | No |
 | `cyclingguide.org` | No |
 | `cyclismespandelles.com` | No |
@@ -30894,6 +30894,7 @@ Here's a list of public Fediverse services.
 | `neix.at` | No |
 | `nejati.net` | Yes |
 | `nejiamasi.com` | No |
+| `nejimaki-radio.com` | No |
 | `nek.zone` | Yes |
 | `neka.site` | Yes |
 | `nekit.tk` | No |
@@ -51346,8 +51347,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,552 |
-| Normal | 36,746 |
+| Cloudflare | 14,551 |
+| Normal | 36,748 |
 
 
 </details>
