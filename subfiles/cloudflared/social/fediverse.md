@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,115 |
 | social | 4,704 |
-| net | 4,005 |
+| net | 4,007 |
 | org | 2,677 |
 | de | 2,535 |
 
@@ -4442,7 +4442,7 @@ Here's a list of public Fediverse services.
 | `benehomini.social` | No |
 | `benesh.family` | No |
 | `benetou.fr` | No |
-| `bengaluru.social` | Yes |
+| `bengaluru.social` | No |
 | `bengo.is` | No |
 | `benh.codes` | Yes |
 | `benhr.xyz` | No |
@@ -8220,7 +8220,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12587,7 +12587,7 @@ Here's a list of public Fediverse services.
 | `elpiskey.com` | No |
 | `elpiskey.xyz` | No |
 | `elqhost.net` | No |
-| `elreino.online` | Yes |
+| `elreino.online` | No |
 | `elrod.me` | Yes |
 | `elrubius.fans` | No |
 | `elsacodelcoco.net` | No |
@@ -12688,7 +12688,7 @@ Here's a list of public Fediverse services.
 | `emphisia.nl` | No |
 | `empod.cat` | No |
 | `empoer.li` | No |
-| `emprendedon.network` | Yes |
+| `emprendedon.network` | No |
 | `empresszyra.com` | No |
 | `empty-head.space` | No |
 | `empty.cafe` | No |
@@ -19727,7 +19727,7 @@ Here's a list of public Fediverse services.
 | `idollar.moe` | No |
 | `idolon.club` | No |
 | `idontcare.club` | No |
-| `idontwant.social` | Yes |
+| `idontwant.social` | No |
 | `idpk.net` | No |
 | `idreamof.ryukyu` | No |
 | `idsdt.com` | No |
@@ -26864,7 +26864,7 @@ Here's a list of public Fediverse services.
 | `masto.ai` | Yes |
 | `masto.amsterdam` | No |
 | `masto.bar` | No |
-| `masto.beer` | Yes |
+| `masto.beer` | No |
 | `masto.bg` | No |
 | `masto.bike` | No |
 | `masto.boo` | No |
@@ -27411,6 +27411,7 @@ Here's a list of public Fediverse services.
 | `matchdon.com` | No |
 | `matchu.dev` | No |
 | `matchy.jp` | No |
+| `matchy.net` | Yes |
 | `matdoes.dev` | Yes |
 | `matechan.com` | Yes |
 | `matej-lach.me` | No |
@@ -29590,7 +29591,7 @@ Here's a list of public Fediverse services.
 | `mpg.de` | Yes |
 | `mpgaming.social` | Yes |
 | `mpinet.dev` | Yes |
-| `mpmilestogo.site` | Yes |
+| `mpmilestogo.site` | No |
 | `mpp-service.de` | No |
 | `mpsf.group` | No |
 | `mpthl.ee` | Yes |
@@ -44946,7 +44947,7 @@ Here's a list of public Fediverse services.
 | `thewired.online` | Yes |
 | `thewired.wtf` | No |
 | `thewired.xyz` | No |
-| `thewired.zone` | Yes |
+| `thewired.zone` | No |
 | `thewiring.com` | Yes |
 | `thewizardingworld.com` | No |
 | `thewizardly.com` | Yes |
@@ -45109,6 +45110,7 @@ Here's a list of public Fediverse services.
 | `thrash.club` | No |
 | `thrashzone.org` | Yes |
 | `threadintheweb.com` | No |
+| `threads.net` | No |
 | `threads.social` | No |
 | `threadtree.xyz` | No |
 | `threadup.space` | No |
@@ -46376,7 +46378,7 @@ Here's a list of public Fediverse services.
 | `tsuki.club` | No |
 | `tsuki.network` | Yes |
 | `tsukihi.me` | No |
-| `tsukihi.moe` | Yes |
+| `tsukihi.moe` | No |
 | `tsukim.io` | Yes |
 | `tsukimi.club` | Yes |
 | `tsukiyo.dev` | Yes |
@@ -51327,10 +51329,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,546 |
-| Normal | 36,733 |
+| Cloudflare | 14,538 |
+| Normal | 36,743 |
 
 
 </details>
 
-### 28.4% of public Fediverse services are using Cloudflare.
+### 28.3% of public Fediverse services are using Cloudflare.
