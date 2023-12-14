@@ -30758,6 +30758,7 @@ Here's a list of public Fediverse services.
 | `naveen.ink` | No |
 | `navel7.tk` | No |
 | `navinot.com` | No |
+| `navisocial.club` | No |
 | `navistream.tv` | No |
 | `nay.moe` | No |
 | `nayab.dev` | Yes |
@@ -51352,7 +51353,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,552 |
-| Normal | 36,751 |
+| Normal | 36,752 |
 
 
 </details>
