@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,126 |
+| com | 8,130 |
 | social | 4,707 |
 | net | 4,011 |
 | org | 2,678 |
@@ -19653,6 +19653,7 @@ Here's a list of public Fediverse services.
 | `ice-cream.social` | No |
 | `ice-lolly.social` | No |
 | `ice.camp` | No |
+| `iceblack.coffee` | No |
 | `icedlatte.chat` | No |
 | `icedtux.no` | No |
 | `iceextra.org` | Yes |
@@ -24025,6 +24026,7 @@ Here's a list of public Fediverse services.
 | `laisa.family` | No |
 | `laissez-faire.social` | No |
 | `laisvai.lt` | Yes |
+| `laitinlok.com` | Yes |
 | `laitues.net` | No |
 | `lajaqueria.org` | Yes |
 | `lajna.si` | No |
@@ -28316,6 +28318,7 @@ Here's a list of public Fediverse services.
 | `michaeljdeeb.com` | Yes |
 | `michaelkupietz.com` | Yes |
 | `michaelmissing.com` | No |
+| `michaelmuto.com` | No |
 | `michaelofstjoseph.com` | No |
 | `michaeloldroyd.co.uk` | Yes |
 | `michaelp.info` | No |
@@ -33611,6 +33614,7 @@ Here's a list of public Fediverse services.
 | `ostolc.org` | No |
 | `ostrovok.de` | No |
 | `osu.io` | Yes |
+| `osu.si` | No |
 | `osumiakari.jp` | Yes |
 | `osureplayviewer.xyz` | No |
 | `osvoj.ru` | No |
@@ -36417,6 +36421,7 @@ Here's a list of public Fediverse services.
 | `purr.gq` | No |
 | `purrucker.de` | No |
 | `pusang-ina-mo.ooo` | No |
+| `pushakar.com` | No |
 | `pushingelectrons.net` | No |
 | `pushingrubberdownhill.com` | Yes |
 | `pussyhat.party` | No |
@@ -41011,6 +41016,7 @@ Here's a list of public Fediverse services.
 | `skyarrow.org` | Yes |
 | `skyax.design` | No |
 | `skycademc.com` | No |
+| `skydancingblog.com` | No |
 | `skye.cx` | No |
 | `skye.vg` | Yes |
 | `skyefortresszone.xyz` | No |
@@ -47787,6 +47793,7 @@ Here's a list of public Fediverse services.
 | `veganbtw.net` | No |
 | `veganbyproxy.net` | No |
 | `vegane.schule` | No |
+| `veganhighland.scot` | No |
 | `veganism.social` | Yes |
 | `veganmsp.com` | Yes |
 | `veganunity.me` | No |
@@ -51363,8 +51370,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,553 |
-| Normal | 36,762 |
+| Cloudflare | 14,554 |
+| Normal | 36,768 |
 
 
 </details>
