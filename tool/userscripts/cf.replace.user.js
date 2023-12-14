@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Replace CloudFlare links
-// @description Take action against CloudFlare. Replace CloudFlare links
+// @description Take action against CloudFlare. Replace CloudFlare links.
 // @namespace deCloudflare_us_replace-cf
 // @author Matthew L. Tanner, CrimeFlare
 // @match https://*/*
