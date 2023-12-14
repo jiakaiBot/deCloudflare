@@ -65,7 +65,7 @@ if (!DONT_RUN_FQDNS.includes(fqdn_self) && !/\.crimeflare\.eu\.org$/.test(fqdn_s
             if (fqdns[fqdn] == undefined) {
                fqdns[fqdn] = [];
             }
-            if (!/^(|(*.)\.)archive\.org$/.test(fqdn)) {
+            if (!/^(|(.*)\.)archive\.org$/.test(fqdn)) {
                fqdns[fqdn].push(l);
             }
             l.setAttribute('xcf', 'q');
