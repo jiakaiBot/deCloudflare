@@ -4102,6 +4102,7 @@ Do not create new issue or we will close it as duplicate.
 | [fragile105085@twitter](https://twitter.com/fragile105085/status/1538779032438771712) | advertise |
 | [FrameToFrameBJ@twitter](https://twitter.com/FrameToFrameBJ/status/1574535320133160971) | advertise |
 | [francisbiendan1@twitter](https://twitter.com/francisbiendan1/status/1723128860055888296) | advertise |
+| [FrancoPaDBP@twitter](https://twitter.com/FrancoPaDBP/status/1735299649282449693) | advertise |
 | [frankchen0130@twitter](https://twitter.com/frankchen0130/status/1558029495793160193) | advertise |
 | [Frankie15083281@twitter](https://twitter.com/Frankie15083281/status/1552191447042256896) | advertise |
 | [FrankYanWang@twitter](https://twitter.com/FrankYanWang/status/1647660998353113088) | advertise |
