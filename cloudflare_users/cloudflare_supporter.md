@@ -5654,6 +5654,7 @@ Do not create new issue or we will close it as duplicate.
 | [imeplus_tv@twitter](https://twitter.com/imeplus_tv/status/1508088325726429195) | advertise |
 | [ImGlacier92@twitter](https://twitter.com/ImGlacier92/status/1672790558891278338) | advertise |
 | [imhopeluv@twitter](https://twitter.com/imhopeluv/status/1388275070544535553) | advertise |
+| [imhshiwd1@twitter](https://twitter.com/imhshiwd1/status/1735417138800648600) | advertise |
 | [imhuzeifa@twitter](https://twitter.com/imhuzeifa/status/1540657866222313472) | advertise |
 | [Imiss2302@twitter](https://twitter.com/Imiss2302/status/1404120201159798790) | advertise |
 | [Imluke044389182@twitter](https://twitter.com/Imluke044389182/status/1671034104421421056) | advertise |
@@ -6968,6 +6969,7 @@ Do not create new issue or we will close it as duplicate.
 | [KMammd@twitter](https://twitter.com/KMammd/status/1665957310944931840) | advertise |
 | [kmantecM@twitter](https://twitter.com/kmantecM/status/1422478263440396292) | advertise |
 | [KMHt67762096@twitter](https://twitter.com/KMHt67762096/status/1627645025395048449) | advertise |
+| [kmlbutheph74668@twitter](https://twitter.com/kmlbutheph74668/status/1735411169186414695) | advertise |
 | [KMobydic@twitter](https://twitter.com/KMobydic/status/1398362611859673090) | advertise |
 | [kngslyio@twitter](https://twitter.com/kngslyio/status/1701522986623553867) | advertise |
 | [knn145@twitter](https://twitter.com/knn145/status/1560467875227631616) | advertise |
@@ -7588,6 +7590,7 @@ Do not create new issue or we will close it as duplicate.
 | [lickmygravitas@twitter](https://twitter.com/lickmygravitas/status/1665874510623408128) | advertise |
 | [lickyfail@twitter](https://twitter.com/lickyfail/status/1552306981024964608) | advertise |
 | [lida102046@twitter](https://twitter.com/lida102046/status/1660292055296544768) | advertise |
+| [lidarken56602@twitter](https://twitter.com/lidarken56602/status/1735414586713702445) | advertise |
 | [LiddleBRM@twitter](https://twitter.com/LiddleBRM/status/1405115490016456707) | advertise |
 | [Liein1_@twitter](https://twitter.com/Liein1_/status/1711405703578181932) | advertise |
 | [Liem36155@twitter](https://twitter.com/Liem36155/status/1479395801767899137) | advertise |
