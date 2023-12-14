@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Mark CloudFlare links
-// @description Mark CloudFlare links
+// @description Take action against CloudFlare. Mark CloudFlare links.
 // @namespace deCloudflare_us_color-cf
 // @author Matthew L. Tanner, CrimeFlare
 // @match https://*/*

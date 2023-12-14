@@ -5,7 +5,10 @@ This script can help you gain similar power to identify and take action against 
 However, keep in mind that there may be some limitations due to your browser's restrictions. 
 If you can use "[Are links vulnerable to MITM attack?](../../subfiles/addon/ismm.md)" add-on, it is **recommended** to use it instead of the script for better protection and performance. 
 
-- The UserScript (pick only ONE)
+### The UserScript (pick only ONE)
+
+- From this git (latest)
   - [Remove CF link](cf.remove.user.js); Remove the link
   - [Color CF link](cf.color.user.js); Mark the link
   - [Replace CF link](cf.replace.user.js); Mark & Replace the link to archived page
+- From Greasy Fork (mirror)
