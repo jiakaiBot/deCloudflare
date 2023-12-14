@@ -12,7 +12,7 @@
 // ==/UserScript==
 // this script will not run on those sites
 // e.g. ['www.youtube.com','www.google.com']
-let DONT_RUN_FQDNS = [];
+let DONT_RUN_FQDNS = ['web.archive.org'];
 //-----
 // [Documentation] https://0xacab.org/dCF/deCloudflare/-/blob/master/tool/userscripts/README.md
 // [About API] http://about-karmaapi.go.crimeflare.eu.org
@@ -56,7 +56,7 @@ if (!DONT_RUN_FQDNS.includes(fqdn_self) && !/\.crimeflare\.eu\.org$/.test(fqdn_s
       const style = document.createElement('style');
       document.head.appendChild(style);
       const styleSheet = style.sheet;
-      styleSheet.insertRule("a[xcf='y']{background:#f9ab1d;opacity:0.6}", 0);
+      styleSheet.insertRule("a[xcf='y']{opacity:0.6;text-decoration-line:line-through !important;text-decoration-color:red !important;text-decoration-style:double !important;}", 0);
    } catch (x) {}
    document.querySelectorAll('a[href]:not([xcf])').forEach(l => {
       try {
