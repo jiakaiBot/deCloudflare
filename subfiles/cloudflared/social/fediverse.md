@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,130 |
+| com | 8,131 |
 | social | 4,707 |
 | net | 4,011 |
 | org | 2,678 |
@@ -7678,6 +7678,7 @@ Here's a list of public Fediverse services.
 | `citizen0.online` | No |
 | `citizen4.eu` | No |
 | `citizengkar.com` | No |
+| `citizenjournalism.site` | Yes |
 | `citizenry.social` | No |
 | `citizensgaming.com` | No |
 | `citizensoasis.com` | No |
@@ -9672,6 +9673,7 @@ Here's a list of public Fediverse services.
 | `dangerousminds.net` | Yes |
 | `dangeroutside.com` | No |
 | `dangilbert.eu` | Yes |
+| `dangillmor.com` | No |
 | `dangly.parts` | Yes |
 | `dangomushi.xyz` | Yes |
 | `dangre.de` | No |
@@ -9945,7 +9947,7 @@ Here's a list of public Fediverse services.
 | `davbot.media` | Yes |
 | `davbot.social` | Yes |
 | `davbot.work` | Yes |
-| `davd.io` | No |
+| `davd.io` | Yes |
 | `davduf.net` | No |
 | `dave-vlab.com` | Yes |
 | `dave.moe` | No |
@@ -10953,6 +10955,7 @@ Here's a list of public Fediverse services.
 | `dirtbag.social` | Yes |
 | `dirtkids.social` | No |
 | `dirtyhobby.xyz` | No |
+| `dirtynello.it` | No |
 | `dirtyoldmensclub.com` | No |
 | `dirtytrans.club` | No |
 | `dirus.io` | No |
@@ -41598,7 +41601,7 @@ Here's a list of public Fediverse services.
 | `softwhere.ca` | No |
 | `sogga.top` | No |
 | `sogiecn.com` | Yes |
-| `sogipe.fr` | No |
+| `sogipe.fr` | Yes |
 | `sognensnekkerhaugen.xyz` | Yes |
 | `sogo.la` | Yes |
 | `sohan-tricoire.fr` | No |
@@ -51370,7 +51373,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,554 |
+| Cloudflare | 14,557 |
 | Normal | 36,768 |
 
 
