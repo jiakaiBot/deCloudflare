@@ -286,6 +286,7 @@ Do not create new issue or we will close it as duplicate.
 | [abdennour_saleh@twitter](https://twitter.com/abdennour_saleh/status/1394348804124577798) | advertise |
 | [abderahim_1@twitter](https://twitter.com/abderahim_1/status/1495568771708297217) | advertise |
 | [Abdiazi81253373@twitter](https://twitter.com/Abdiazi81253373/status/1722964384224252141) | advertise |
+| [abdigafarmoham4@twitter](https://twitter.com/abdigafarmoham4/status/1735228885401268441) | advertise |
 | [AbdilatifHusse3@twitter](https://twitter.com/AbdilatifHusse3/status/1571515958606368768) | advertise |
 | [ABDIRAX06711012@twitter](https://twitter.com/ABDIRAX06711012/status/1528761245406482432) | advertise |
 | [Abdlrhmnelhyb@twitter](https://twitter.com/Abdlrhmnelhyb/status/1477260431932669954) | advertise |
@@ -12571,6 +12572,7 @@ Do not create new issue or we will close it as duplicate.
 | [snackpackwayne@twitter](https://twitter.com/snackpackwayne/status/1459543560332746758) | advertise |
 | [SnailDOS@twitter](https://twitter.com/SnailDOS/status/1423436038203076610) | advertise |
 | [snails_on_rails@twitter](https://twitter.com/snails_on_rails/status/1466363602223476743) | advertise |
+| [SNajaan81297@twitter](https://twitter.com/SNajaan81297/status/1735225701660610656) | advertise |
 | [Snake88578323@twitter](https://twitter.com/Snake88578323/status/1395017607909044230) | advertise |
 | [Snakyacidkiss@twitter](https://twitter.com/Snakyacidkiss/status/1389092757881249793) | advertise |
 | [Snap69015522@twitter](https://twitter.com/Snap69015522/status/1393834272092409860) | advertise |
