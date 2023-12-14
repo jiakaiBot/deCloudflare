@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Question: SQLAutoVectorQueryEngine ValueError: Invalid result.ind: -2](https://github.com/run-llama/llama_index/issues/9510)
 - [Outage caused by excessive traffic Rails static assets?](https://github.com/sciencehistory/scihist_digicoll/issues/2469)
 - [Getting the following error after installing ngx-trunstile, could you help us on this issue.](https://github.com/verto-health/ngx-turnstile/issues/19)
 - [sif2/sifas/stills broken due to idol.st cloudflare](https://github.com/DemonicSavage/mikan/issues/85)
