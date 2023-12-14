@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [getting an incarnation can fail briefly while a change is being pushed](https://github.com/Roche/foxops/issues/440)
 - [Enhancement: add pagination logic for syncing block headers](https://github.com/Layr-Labs/eigenda/issues/123)
 - ["Error connecting to FlareSolverr server" after running for a while](https://github.com/FlareSolverr/FlareSolverr/issues/1004)
 - [Question: SQLAutoVectorQueryEngine ValueError: Invalid result.ind: -2](https://github.com/run-llama/llama_index/issues/9510)
