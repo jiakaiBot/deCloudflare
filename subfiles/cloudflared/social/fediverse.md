@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,115 |
+| com | 8,116 |
 | social | 4,704 |
 | net | 4,007 |
 | org | 2,677 |
@@ -5681,7 +5681,7 @@ Here's a list of public Fediverse services.
 | `bounceme.net` | No |
 | `bound4the.icu` | Yes |
 | `boundary.wtf` | No |
-| `boundcovers.com` | No |
+| `boundcovers.com` | Yes |
 | `bounz.net` | Yes |
 | `bouquet.blue` | No |
 | `bourbo.net` | No |
@@ -19643,6 +19643,7 @@ Here's a list of public Fediverse services.
 | `icedtux.no` | No |
 | `iceextra.org` | Yes |
 | `icefish.dev` | Yes |
+| `icemoonprison.com` | No |
 | `iceorchid.net` | No |
 | `iceshrimp.de` | No |
 | `iceshrimp.dev` | No |
@@ -51329,10 +51330,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,538 |
+| Cloudflare | 14,539 |
 | Normal | 36,743 |
 
 
 </details>
 
-### 28.3% of public Fediverse services are using Cloudflare.
+### 28.4% of public Fediverse services are using Cloudflare.
