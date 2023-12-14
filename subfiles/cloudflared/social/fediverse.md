@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,116 |
 | social | 4,704 |
-| net | 4,007 |
+| net | 4,008 |
 | org | 2,677 |
-| de | 2,535 |
+| de | 2,536 |
 
 
 - Mastodon, Pleroma, etc
@@ -27749,6 +27749,7 @@ Here's a list of public Fediverse services.
 | `mdunn.io` | No |
 | `mdx.ac.uk` | Yes |
 | `me.dm` | Yes |
+| `meadandgreed.de` | No |
 | `meadow.social` | No |
 | `meadowlark.cc` | Yes |
 | `mean.engineer` | No |
@@ -28514,7 +28515,7 @@ Here's a list of public Fediverse services.
 | `millcrick.com` | No |
 | `millcrick.org` | No |
 | `millcrick.social` | No |
-| `millefeuilles.cloud` | No |
+| `millefeuilles.cloud` | Yes |
 | `milleiro.com` | No |
 | `millenium.red` | No |
 | `millennial.space` | No |
@@ -42975,7 +42976,7 @@ Here's a list of public Fediverse services.
 | `sunbutt.faith` | No |
 | `suncha.biz` | No |
 | `suncircuit.club` | No |
-| `suncoast.dev` | No |
+| `suncoast.dev` | Yes |
 | `sundark.eu.org` | No |
 | `sundaylight.space` | Yes |
 | `sundaynightfilmclub.com` | No |
@@ -44012,6 +44013,7 @@ Here's a list of public Fediverse services.
 | `techspace.social` | No |
 | `techspresso.cafe` | No |
 | `techstartups.space` | No |
+| `techsupporter.net` | No |
 | `techtea.io` | No |
 | `techthoughts.io` | Yes |
 | `techtodon.com` | Yes |
@@ -51330,7 +51332,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,539 |
+| Cloudflare | 14,541 |
 | Normal | 36,743 |
 
 
