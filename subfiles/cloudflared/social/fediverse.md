@@ -8368,6 +8368,7 @@ Here's a list of public Fediverse services.
 | `comunmedia.com` | No |
 | `comversive.com` | No |
 | `comwork.io` | No |
+| `con-centric.com.au` | No |
 | `con.sh` | Yes |
 | `conan.ooo` | No |
 | `conarro.com` | No |
@@ -44798,6 +44799,7 @@ Here's a list of public Fediverse services.
 | `theoccasionoctopus.net` | No |
 | `theocevaer.fr` | No |
 | `theocourt.com` | Yes |
+| `theodorejones.consulting` | Yes |
 | `theoerzetic.fr` | No |
 | `theokadas.com` | No |
 | `theoks.net` | Yes |
@@ -51374,8 +51376,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,551 |
-| Normal | 36,775 |
+| Cloudflare | 14,552 |
+| Normal | 36,776 |
 
 
 </details>
