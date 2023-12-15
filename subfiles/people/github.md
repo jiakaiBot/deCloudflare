@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [reddit private feed fails](https://github.com/miniflux/v2/issues/2255)
 - [Failure to deploy - D1 bindings require module-format workers. code: 10021](https://github.com/nemphi/hanabicms/issues/2)
 - [Cloudflare challenge loop](https://github.com/FlareSolverr/FlareSolverr/issues/1008)
 - [feat: Helia fetch for dApps](https://github.com/ipfs/helia/issues/348)
