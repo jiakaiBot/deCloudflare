@@ -2216,6 +2216,7 @@ Do not create new issue or we will close it as duplicate.
 | [Btstan73@twitter](https://twitter.com/Btstan73/status/1563332375467008005) | advertise |
 | [BtwSu@twitter](https://twitter.com/BtwSu/status/1398369389783576577) | advertise |
 | [Bu56726390u@twitter](https://twitter.com/Bu56726390u/status/1604165552200900608) | advertise |
+| [Buana761@twitter](https://twitter.com/Buana761/status/1735658652500168863) | advertise |
 | [bubyli_uk@twitter](https://twitter.com/bubyli_uk/status/1527321559286751233) | advertise |
 | [buc69420083@twitter](https://twitter.com/buc69420083/status/1631739142231977984) | advertise |
 | [BuckHun18065742@twitter](https://twitter.com/BuckHun18065742/status/1565605332163887104) | advertise |
@@ -3805,6 +3806,7 @@ Do not create new issue or we will close it as duplicate.
 | [erbuc@twitter](https://twitter.com/erbuc/status/1615971030996226048) | advertise |
 | [Eren41747723@twitter](https://twitter.com/Eren41747723/status/1389218655712448512) | advertise |
 | [ErenAkkus_@twitter](https://twitter.com/ErenAkkus_/status/1592623222113067008) | advertise |
+| [ErenAy52958139@twitter](https://twitter.com/ErenAy52958139/status/1735652188112773575) | advertise |
 | [ererernest@twitter](https://twitter.com/ererernest/status/1402204151765889025) | advertise |
 | [erfan3029@twitter](https://twitter.com/erfan3029/status/1595026944806068227) | advertise |
 | [ERFAN51486585@twitter](https://twitter.com/ERFAN51486585/status/1616009779855368197) | advertise |
@@ -3911,6 +3913,7 @@ Do not create new issue or we will close it as duplicate.
 | [faggot_funny@twitter](https://twitter.com/faggot_funny/status/1683461485450907650) | advertise |
 | [fahad_faraji@twitter](https://twitter.com/fahad_faraji/status/1724833891209650566) | advertise |
 | [fahedrahmani@twitter](https://twitter.com/fahedrahmani/status/1505209723838214152) | advertise |
+| [Fahim_FBA@twitter](https://twitter.com/Fahim_FBA/status/1735659818369650918) | advertise |
 | [fahim_redboy@twitter](https://twitter.com/fahim_redboy/status/1543937436375343104) | advertise |
 | [FahmidKhan14@twitter](https://twitter.com/FahmidKhan14/status/1541104729232908289) | advertise |
 | [Faidzinn@twitter](https://twitter.com/Faidzinn/status/1591669344731561986) | advertise |
@@ -15362,6 +15365,7 @@ Do not create new issue or we will close it as duplicate.
 | [YeZarHtun3@twitter](https://twitter.com/YeZarHtun3/status/1389655617095176198) | advertise |
 | [yF5pkAsv3TLr8AC@twitter](https://twitter.com/yF5pkAsv3TLr8AC/status/1402692804476690435) | advertise |
 | [YfFUjaGBEwSKgwJ@twitter](https://twitter.com/YfFUjaGBEwSKgwJ/status/1398274069175312386) | advertise |
+| [yfng223675@twitter](https://twitter.com/yfng223675/status/1735660662062260514) | advertise |
 | [YGCAT2@twitter](https://twitter.com/YGCAT2/status/1386892481137188867) | advertise |
 | [ygntharlay12345@twitter](https://twitter.com/ygntharlay12345/status/1505510926099030020) | advertise |
 | [yhadce@twitter](https://twitter.com/yhadce/status/1711591590131540320) | advertise |
@@ -15494,6 +15498,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zac4Peter@twitter](https://twitter.com/Zac4Peter/status/1638762895818489856) | advertise |
 | [zacchius32241@twitter](https://twitter.com/zacchius32241/status/1726224190070763973) | advertise |
 | [ZacharyAbdullah@twitter](https://twitter.com/ZacharyAbdullah/status/1521073654955577344) | advertise |
+| [zachbaroh@twitter](https://twitter.com/zachbaroh/status/1735659022878204134) | advertise |
 | [ZachrielStephen@twitter](https://twitter.com/ZachrielStephen/status/1568706820562391041) | advertise |
 | [zachzhao1984@twitter](https://twitter.com/zachzhao1984/status/1647609754980872194) | advertise |
 | [Zack09842097@twitter](https://twitter.com/Zack09842097/status/1391663997229752320) | advertise |
