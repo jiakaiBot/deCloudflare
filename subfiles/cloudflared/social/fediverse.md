@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,135 |
+| com | 8,136 |
 | social | 4,708 |
 | net | 4,011 |
-| org | 2,678 |
+| org | 2,679 |
 | de | 2,539 |
 
 
@@ -3526,7 +3526,7 @@ Here's a list of public Fediverse services.
 | `autonomous-zone.earth` | Yes |
 | `autonomous.zone` | No |
 | `autonomy.earth` | No |
-| `autonomy.ninja` | No |
+| `autonomy.ninja` | Yes |
 | `autonomy.social` | No |
 | `autophagy.io` | Yes |
 | `autothink.co` | No |
@@ -13266,7 +13266,7 @@ Here's a list of public Fediverse services.
 | `evans.cologne` | No |
 | `evansims.com` | Yes |
 | `evanstoner.com` | Yes |
-| `evanv.nl` | No |
+| `evanv.nl` | Yes |
 | `evasboom.com` | No |
 | `evazero.club` | Yes |
 | `eveland.dev` | No |
@@ -22384,6 +22384,7 @@ Here's a list of public Fediverse services.
 | `karo.ly` | No |
 | `karolat.press` | No |
 | `karolwos.com` | No |
+| `karotte.org` | No |
 | `karottenfabrik.net` | No |
 | `karoukin.us` | Yes |
 | `karp.id.au` | No |
@@ -38405,6 +38406,7 @@ Here's a list of public Fediverse services.
 | `rollenspiel.trade` | No |
 | `roller.dog` | No |
 | `rollerderby.social` | No |
+| `rollforcupcakes.com` | No |
 | `rollingcode.org` | Yes |
 | `rollnotice.com` | Yes |
 | `roman.forum` | No |
@@ -51395,7 +51397,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,567 |
+| Cloudflare | 14,569 |
 | Normal | 36,780 |
 
 
