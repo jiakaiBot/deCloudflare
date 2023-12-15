@@ -72,5 +72,5 @@ if (!DONT_RUN_FQDNS.includes(fqdn_self) && !/\.crimeflare\.eu\.org$/.test(fqdn_s
          }
       } catch (x) {}
    });
-   mark_fqdn(Object.keys(fqdns).join(','));
+   mark_fqdn(Object.keys(fqdns).slice(0,200).join(','));
 }
