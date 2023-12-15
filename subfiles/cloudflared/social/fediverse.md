@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,131 |
+| com | 8,132 |
 | social | 4,707 |
 | net | 4,011 |
 | org | 2,678 |
@@ -8225,7 +8225,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8607,7 +8607,7 @@ Here's a list of public Fediverse services.
 | `corticarte.com` | No |
 | `corvids.club` | Yes |
 | `corvidspress.com` | No |
-| `corvus.social` | Yes |
+| `corvus.social` | No |
 | `corzntin.fr` | No |
 | `cos.zone` | No |
 | `cosday.social` | No |
@@ -9268,7 +9268,7 @@ Here's a list of public Fediverse services.
 | `cutiemiku.tk` | No |
 | `cutienaut.club` | No |
 | `cutiepie.at` | No |
-| `cuties.cloud` | No |
+| `cuties.cloud` | Yes |
 | `cuties.social` | No |
 | `cutieverse.social` | Yes |
 | `cutievirus.com` | Yes |
@@ -11128,7 +11128,7 @@ Here's a list of public Fediverse services.
 | `dkl.jp` | Yes |
 | `dkm.cloud` | No |
 | `dkub.dev` | Yes |
-| `dkwall.social` | Yes |
+| `dkwall.social` | No |
 | `dkxpress.dk` | No |
 | `dl10yr.com` | No |
 | `dlants.me` | Yes |
@@ -14999,7 +14999,7 @@ Here's a list of public Fediverse services.
 | `formansbasement.club` | Yes |
 | `formofthought.com` | Yes |
 | `forms.community` | No |
-| `formu.net` | Yes |
+| `formu.net` | No |
 | `formu1a.social` | Yes |
 | `fornaces.com` | No |
 | `fornaxian.tech` | No |
@@ -27036,7 +27036,7 @@ Here's a list of public Fediverse services.
 | `mastodon.boston` | Yes |
 | `mastodon.bot` | Yes |
 | `mastodon.brussels` | No |
-| `mastodon.build` | Yes |
+| `mastodon.build` | No |
 | `mastodon.business` | No |
 | `mastodon.by` | No |
 | `mastodon.cab` | Yes |
@@ -35078,7 +35078,7 @@ Here's a list of public Fediverse services.
 | `piratskep.pet` | No |
 | `piriform.com` | Yes |
 | `piriklub.eu` | No |
-| `pirouz.io` | Yes |
+| `pirouz.io` | No |
 | `pirsamti.com` | Yes |
 | `pirtube.cz` | No |
 | `pirxpilot.me` | Yes |
@@ -36275,7 +36275,7 @@ Here's a list of public Fediverse services.
 | `pta2002.com` | Yes |
 | `ptaah.fr` | No |
 | `ptah-alexs.info` | No |
-| `ptbo.social` | Yes |
+| `ptbo.social` | No |
 | `ptcl.me` | Yes |
 | `pter.it` | No |
 | `pteranodon.net` | No |
@@ -37248,7 +37248,7 @@ Here's a list of public Fediverse services.
 | `ratemycancer.com` | No |
 | `ratfish.net` | No |
 | `rathe.social` | Yes |
-| `rather.social` | Yes |
+| `rather.social` | No |
 | `ratherbemaking.games` | No |
 | `rathersafe.space` | No |
 | `rathur.eu` | No |
@@ -38088,6 +38088,7 @@ Here's a list of public Fediverse services.
 | `ring2.de` | No |
 | `ringed.space` | No |
 | `ringelgebirge.de` | No |
+| `ringonegichikuwa.com` | Yes |
 | `ringtail.chat` | No |
 | `ringtailsoftware.co.uk` | No |
 | `rinkko.moe` | No |
@@ -51373,8 +51374,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,557 |
-| Normal | 36,768 |
+| Cloudflare | 14,551 |
+| Normal | 36,775 |
 
 
 </details>
