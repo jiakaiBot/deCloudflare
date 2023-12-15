@@ -10612,7 +10612,7 @@ Here's a list of public Fediverse services.
 | `devlibre.fr` | No |
 | `devlinzed.com` | No |
 | `devloprog.org` | No |
-| `devnamic.com` | No |
+| `devnamic.com` | Yes |
 | `devnel.blog` | No |
 | `devoe.social` | No |
 | `devol.it` | Yes |
@@ -19513,7 +19513,7 @@ Here's a list of public Fediverse services.
 | `hyperfreedom.org` | No |
 | `hyperfurs.page` | Yes |
 | `hyperion.social` | Yes |
-| `hypermute.com` | No |
+| `hypermute.com` | Yes |
 | `hypernodemedia.com` | No |
 | `hyperpla.net` | Yes |
 | `hyperplex.net` | No |
@@ -21291,7 +21291,7 @@ Here's a list of public Fediverse services.
 | `jellis.co.uk` | No |
 | `jellydonut.me` | No |
 | `jellyosaurus.com` | Yes |
-| `jellystyle.social` | No |
+| `jellystyle.social` | Yes |
 | `jelqing.men` | No |
 | `jemal.contact` | No |
 | `jemp.co` | No |
@@ -47886,6 +47886,7 @@ Here's a list of public Fediverse services.
 | `verl.xyz` | No |
 | `vermelho.xyz` | No |
 | `vermeulen.id.au` | No |
+| `vermilion3.xyz` | Yes |
 | `vermona.com` | No |
 | `vermonters.club` | No |
 | `vermontfarmcam.com` | No |
@@ -51379,10 +51380,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,552 |
-| Normal | 36,779 |
+| Cloudflare | 14,556 |
+| Normal | 36,776 |
 
 
 </details>
 
-### 28.3% of public Fediverse services are using Cloudflare.
+### 28.4% of public Fediverse services are using Cloudflare.
