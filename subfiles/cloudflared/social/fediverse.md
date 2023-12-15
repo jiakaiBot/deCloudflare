@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,132 |
+| com | 8,135 |
 | social | 4,708 |
 | net | 4,011 |
 | org | 2,678 |
-| de | 2,537 |
+| de | 2,539 |
 
 
 - Mastodon, Pleroma, etc
@@ -1032,7 +1032,7 @@ Here's a list of public Fediverse services.
 | `academe.social` | No |
 | `academe.world` | No |
 | `academia.pub` | No |
-| `academic.social` | No |
+| `academic.social` | Yes |
 | `academiccloud.social` | No |
 | `academictalk.org` | Yes |
 | `academist.jp` | No |
@@ -1471,6 +1471,7 @@ Here's a list of public Fediverse services.
 | `aidev.ru` | No |
 | `aidon.club` | No |
 | `aidoru.cafe` | No |
+| `aidoyuzuna.com` | No |
 | `aifeel.top` | No |
 | `aigamo-web.net` | No |
 | `aigency.id` | Yes |
@@ -4696,6 +4697,7 @@ Here's a list of public Fediverse services.
 | `bien-etre.social` | Yes |
 | `bien.ee` | No |
 | `biendeo.com` | Yes |
+| `bieniek-it.de` | No |
 | `bieoos.nl` | No |
 | `bierochs.org` | No |
 | `bierschutzpartei.de` | No |
@@ -8170,6 +8172,7 @@ Here's a list of public Fediverse services.
 | `colegiocontempora.com` | No |
 | `coleman.social` | Yes |
 | `coletivos.org` | No |
+| `coley.au` | Yes |
 | `coley.co` | Yes |
 | `colibris-outilslibres.org` | No |
 | `colinlabs.com` | Yes |
@@ -8934,6 +8937,7 @@ Here's a list of public Fediverse services.
 | `cronenberg.cc` | No |
 | `cronopio.cloud` | No |
 | `cronos.fish` | No |
+| `cronyakatsuki.xyz` | No |
 | `crooklyn.social` | No |
 | `crooks.net` | No |
 | `crooksandliars.com` | No |
@@ -13610,6 +13614,7 @@ Here's a list of public Fediverse services.
 | `fakedevhotel.com` | Yes |
 | `fakematts.space` | No |
 | `fakenewsdaddy.com` | Yes |
+| `fakenham.cc` | Yes |
 | `fakeologist.social` | No |
 | `fakeplastictrees.ee` | No |
 | `fakesteve.net` | No |
@@ -14632,6 +14637,7 @@ Here's a list of public Fediverse services.
 | `fivewords.uk` | No |
 | `fixate.social` | No |
 | `fixermark.com` | Yes |
+| `fixerupper.me` | Yes |
 | `fixflare.com` | Yes |
 | `fixionauta.net` | No |
 | `fixitbear.com` | Yes |
@@ -19631,6 +19637,7 @@ Here's a list of public Fediverse services.
 | `ibb.info` | No |
 | `ibb.plus` | No |
 | `ibb.town` | No |
+| `ibbplus.de` | No |
 | `ibbtown.com` | No |
 | `ibe.social` | No |
 | `ibenot.com` | Yes |
@@ -22369,6 +22376,7 @@ Here's a list of public Fediverse services.
 | `karlsoderstrom.social` | Yes |
 | `karlsruhe-social.de` | No |
 | `karlsruhe.social` | No |
+| `karlsson.xyz` | Yes |
 | `karlvalentin.de` | No |
 | `karlzoller.dev` | No |
 | `karmafunk.xyz` | No |
@@ -33219,6 +33227,7 @@ Here's a list of public Fediverse services.
 | `oof.org` | No |
 | `oogy.club` | Yes |
 | `ooio.org` | No |
+| `oois.xyz` | Yes |
 | `ookami.one` | No |
 | `oomfi.es` | No |
 | `oomfie.city` | Yes |
@@ -36697,7 +36706,7 @@ Here's a list of public Fediverse services.
 | `queers.bike` | No |
 | `queerscience.net` | No |
 | `queersin.space` | Yes |
-| `queerspirituality.social` | No |
+| `queerspirituality.social` | Yes |
 | `queertube.org` | No |
 | `queerwoodworker.com` | No |
 | `quellet.blue` | No |
@@ -38340,6 +38349,7 @@ Here's a list of public Fediverse services.
 | `roelof.info` | No |
 | `roelroscamabbing.nl` | No |
 | `roelwillems.com` | Yes |
+| `roelz.me` | Yes |
 | `roelz.org` | Yes |
 | `roembol.nl` | Yes |
 | `roerch.de` | No |
@@ -40164,6 +40174,7 @@ Here's a list of public Fediverse services.
 | `seti.bzh` | No |
 | `setl.ist` | No |
 | `setofprinciples.com` | No |
+| `setonbrown.com` | Yes |
 | `setouchiexplorer.com` | Yes |
 | `setsetset.space` | No |
 | `setsuna.kr` | No |
@@ -41096,6 +41107,7 @@ Here's a list of public Fediverse services.
 | `sleepi.life` | No |
 | `sleeping.town` | No |
 | `sleepingchild-band.de` | No |
+| `sleepless.cafe` | No |
 | `sleepy.cafe` | No |
 | `sleepy.casa` | No |
 | `sleepy.cool` | No |
@@ -45125,6 +45137,7 @@ Here's a list of public Fediverse services.
 | `thon.kr` | Yes |
 | `thopex.de` | No |
 | `thoresson.social` | No |
+| `thorinklosowski.com` | No |
 | `thorium.cc` | No |
 | `thorjhanson.com` | No |
 | `thorlaksson.com` | No |
@@ -48207,7 +48220,9 @@ Here's a list of public Fediverse services.
 | `vnchich.net` | Yes |
 | `vnecke.social` | No |
 | `vnil.de` | No |
+| `vnshow.cc` | Yes |
 | `vnshow.net` | Yes |
+| `vnshow.xyz` | Yes |
 | `vntoot.social` | No |
 | `vntx.net` | Yes |
 | `vnvie.ws` | No |
@@ -51380,8 +51395,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,556 |
-| Normal | 36,776 |
+| Cloudflare | 14,567 |
+| Normal | 36,780 |
 
 
 </details>
