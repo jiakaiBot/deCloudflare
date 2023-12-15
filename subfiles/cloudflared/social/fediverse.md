@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,132 |
-| social | 4,707 |
+| social | 4,708 |
 | net | 4,011 |
 | org | 2,678 |
 | de | 2,537 |
@@ -7433,6 +7433,7 @@ Here's a list of public Fediverse services.
 | `choirofeyes.social` | No |
 | `choisyjc.social` | No |
 | `chokecherry.cc` | No |
+| `chomechome.jp` | No |
 | `chomp.life` | Yes |
 | `choochoo.social` | No |
 | `choochoo.space` | No |
@@ -14611,6 +14612,7 @@ Here's a list of public Fediverse services.
 | `fishstar.pe.kr` | Yes |
 | `fishtheduck.icu` | No |
 | `fiskur.ru` | No |
+| `fission.social` | No |
 | `fissionator.com` | No |
 | `fisting.social` | No |
 | `fit.ac.jp` | No |
@@ -47541,6 +47543,7 @@ Here's a list of public Fediverse services.
 | `uvcat.com` | No |
 | `uvensys.social` | No |
 | `uviclinux.ca` | No |
+| `uvix.cc` | No |
 | `uvok.de` | No |
 | `uvolante.org` | No |
 | `uwah.moe` | No |
@@ -51377,9 +51380,9 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,552 |
-| Normal | 36,776 |
+| Normal | 36,779 |
 
 
 </details>
 
-### 28.4% of public Fediverse services are using Cloudflare.
+### 28.3% of public Fediverse services are using Cloudflare.
