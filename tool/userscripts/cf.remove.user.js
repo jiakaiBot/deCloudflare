@@ -5,7 +5,7 @@
 // @author Matthew L. Tanner, CrimeFlare
 // @match https://*/*
 // @match http://*/*
-// @version 1.0.0.1
+// @version 1.0.0.2
 // @grant none
 // @run-at document-end
 // @license MIT
@@ -17,17 +17,33 @@ let DONT_RUN_FQDNS = ['web.archive.org'];
 // [Documentation] https://0xacab.org/dCF/deCloudflare/-/blob/master/tool/userscripts/README.md
 // [About API] http://about-karmaapi.go.crimeflare.eu.org
 const api_url = 'https://karma.crimeflare.eu.org/api/is/cloudflare/';
-let fqdns = {},
-   fqdn_self = location.hostname;
-function mark_fqdn(fl) {
+let fqdn_self = location.hostname;
+function scanme() {
+   let fqdns = {};
+   document.querySelectorAll('a[href]:not([xcf])').forEach(l => {
+      try {
+         let u = new URL(l.href);
+         if (u.hostname != fqdn_self && (u.protocol == 'https:' || u.protocol == 'http:')) {
+            l.setAttribute('xcf', 'q');
+            let fqdn = u.hostname;
+            if (fqdns[fqdn] == undefined) {
+               fqdns[fqdn] = [];
+            }
+            if (!/^(|(.*)\.)archive\.org$/.test(fqdn)) {
+               fqdns[fqdn].push(l);
+            }
+         }
+      } catch (x) {}
+   });
+   let ff_str = Object.keys(fqdns).slice(0, 200).join(',');
+   if (ff_str == '') {
+      return;
+   }
    try {
-      if (fl == '') {
-         return;
-      }
       fetch(api_url, {
          method: 'POST',
          mode: 'cors',
-         body: 'ff=' + fl,
+         body: 'ff=' + ff_str,
          referrer: '',
          headers: {
             'Content-Type': 'application/x-www-form-urlencoded'
@@ -44,27 +60,17 @@ function mark_fqdn(fl) {
                      qs.setAttribute('xcf', 'n');
                   });
                }
-               delete fqdns[xx];
             }
          }
       }).catch(x => {});
    } catch (x) {}
 }
 if (!DONT_RUN_FQDNS.includes(fqdn_self) && !/\.crimeflare\.eu\.org$/.test(fqdn_self)) {
-   document.querySelectorAll('a[href]:not([xcf])').forEach(l => {
-      try {
-         let u = new URL(l.href);
-         if (u.hostname != fqdn_self && (u.protocol == 'https:' || u.protocol == 'http:')) {
-            let fqdn = u.hostname;
-            if (fqdns[fqdn] == undefined) {
-               fqdns[fqdn] = [];
-            }
-            if (!/^(|(.*)\.)archive\.org$/.test(fqdn)) {
-               fqdns[fqdn].push(l);
-            }
-            l.setAttribute('xcf', 'q');
-         }
-      } catch (x) {}
+   scanme();
+   (new MutationObserver(scanme)).observe(document, {
+      attributes: true,
+      attributeFilter: ['href'],
+      childList: true,
+      subtree: true
    });
-   mark_fqdn(Object.keys(fqdns).slice(0,200).join(','));
 }
