@@ -14,6 +14,6 @@ If you can use "[Are links vulnerable to MITM attack?](../../subfiles/addon/ismm
   - [Color CF link](cf.color.user.js); Mark the link
   - [Replace CF link](cf.replace.user.js); Mark & Replace the link to archived page
 - From Greasy Fork (mirror)
-  - [Remove CF link](https://greasyfork.org/en/scripts/482160-remove-cloudflare-links)
-  - [Color CF link](https://greasyfork.org/en/scripts/482159-mark-cloudflare-links)
-  - [Replace CF link](https://greasyfork.org/en/scripts/482241-replace-cloudflare-links)
+  - [Remove CF link](https://greasyfork.org/en/scripts/482160)
+  - [Color CF link](https://greasyfork.org/en/scripts/482159)
+  - [Replace CF link](https://greasyfork.org/en/scripts/482241)
