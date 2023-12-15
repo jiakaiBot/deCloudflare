@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to login](https://github.com/etheralm/libpurecool/issues/42)
+- ["Error solving the challenge. Timeout" Verify button not found](https://github.com/FlareSolverr/FlareSolverr/issues/1011)
 - [reddit private feed fails](https://github.com/miniflux/v2/issues/2255)
 - [Failure to deploy - D1 bindings require module-format workers. code: 10021](https://github.com/nemphi/hanabicms/issues/2)
 - [Cloudflare challenge loop](https://github.com/FlareSolverr/FlareSolverr/issues/1008)
