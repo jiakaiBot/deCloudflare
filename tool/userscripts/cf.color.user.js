@@ -26,10 +26,10 @@ function scanme() {
          if (u.hostname != fqdn_self && (u.protocol == 'https:' || u.protocol == 'http:')) {
             l.setAttribute('xcf', 'q');
             let fqdn = u.hostname;
-            if (fqdns[fqdn] == undefined) {
-               fqdns[fqdn] = [];
-            }
             if (!/^(|(.*)\.)archive\.org$/.test(fqdn)) {
+               if (fqdns[fqdn] == undefined) {
+                  fqdns[fqdn] = [];
+               }
                fqdns[fqdn].push(l);
             }
          }
