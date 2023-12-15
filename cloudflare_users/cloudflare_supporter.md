@@ -15052,6 +15052,7 @@ Do not create new issue or we will close it as duplicate.
 | [wtffs69@twitter](https://twitter.com/wtffs69/status/1724926807848222825) | advertise |
 | [Wtfosamay@twitter](https://twitter.com/Wtfosamay/status/1658058011154468866) | advertise |
 | [Wuan21335402@twitter](https://twitter.com/Wuan21335402/status/1387462878307835905) | advertise |
+| [wugongxing@twitter](https://twitter.com/wugongxing/status/1735550032340812190) | advertise |
 | [Wunna17774353@twitter](https://twitter.com/Wunna17774353/status/1390187233764732932) | advertise |
 | [wunnyan7@twitter](https://twitter.com/wunnyan7/status/1732202570318536944) | advertise |
 | [WunPhnmpey@twitter](https://twitter.com/WunPhnmpey/status/1689877625387552769) | advertise |
