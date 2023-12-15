@@ -348,6 +348,7 @@ Do not create new issue or we will close it as duplicate.
 | [abrar31820285@twitter](https://twitter.com/abrar31820285/status/1585631033071783944) | advertise |
 | [Abre74180404@twitter](https://twitter.com/Abre74180404/status/1396704011009413120) | advertise |
 | [abshireto33@twitter](https://twitter.com/abshireto33/status/1638831403281383424) | advertise |
+| [AbubakarrD44884@twitter](https://twitter.com/AbubakarrD44884/status/1735721758664040567) | advertise |
 | [AbuDaudAhmad1@twitter](https://twitter.com/AbuDaudAhmad1/status/1546309538747678720) | advertise |
 | [Abuleen84@twitter](https://twitter.com/Abuleen84/status/1689967069347946496) | advertise |
 | [ABUMUHAMMEDDRA1@twitter](https://twitter.com/ABUMUHAMMEDDRA1/status/1548655532004614144) | advertise |
@@ -11319,6 +11320,7 @@ Do not create new issue or we will close it as duplicate.
 | [r5c_7@twitter](https://twitter.com/r5c_7/status/1598812100985753600) | advertise |
 | [r6gear@twitter](https://twitter.com/r6gear/status/1551510182068461569) | advertise |
 | [R14Delos@twitter](https://twitter.com/R14Delos/status/1672928462074511361) | advertise |
+| [r85501@twitter](https://twitter.com/r85501/status/1735710523293876372) | advertise |
 | [Ra36279199@twitter](https://twitter.com/Ra36279199/status/1395644864587501569) | advertise |
 | [rabieemostafa3@twitter](https://twitter.com/rabieemostafa3/status/1579358487712129024) | advertise |
 | [rabsngrob@twitter](https://twitter.com/rabsngrob/status/1572252767967936518) | advertise |
@@ -11367,6 +11369,7 @@ Do not create new issue or we will close it as duplicate.
 | [RajaOwaisAli2@twitter](https://twitter.com/RajaOwaisAli2/status/1543493764127285248) | advertise |
 | [rajasimon@twitter](https://twitter.com/rajasimon/status/1498410367797530625) | advertise |
 | [RajeevKurmi18@twitter](https://twitter.com/RajeevKurmi18/status/1493246122130755588) | advertise |
+| [rajesh851117962@twitter](https://twitter.com/rajesh851117962/status/1735703320042541415) | advertise |
 | [rajeshghallu@twitter](https://twitter.com/rajeshghallu/status/1706214624180470045) | advertise |
 | [RAJESHK41562643@twitter](https://twitter.com/RAJESHK41562643/status/1665874513995898880) | advertise |
 | [RajeshM85157442@twitter](https://twitter.com/RajeshM85157442/status/1400836759961931777) | advertise |
