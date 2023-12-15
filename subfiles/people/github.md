@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Using google-cloud/vertexai in edge environments](https://github.com/googleapis/nodejs-vertexai/issues/82)
 - [Unable to login](https://github.com/etheralm/libpurecool/issues/42)
 - ["Error solving the challenge. Timeout" Verify button not found](https://github.com/FlareSolverr/FlareSolverr/issues/1011)
 - [reddit private feed fails](https://github.com/miniflux/v2/issues/2255)
