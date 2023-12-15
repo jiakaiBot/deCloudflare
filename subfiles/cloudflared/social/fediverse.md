@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,136 |
+| com | 8,137 |
 | social | 4,708 |
 | net | 4,011 |
 | org | 2,679 |
@@ -3149,6 +3149,7 @@ Here's a list of public Fediverse services.
 | `ashitty.website` | No |
 | `ashka.me` | No |
 | `ashkaijin.com` | No |
+| `ashl.dev` | Yes |
 | `ashlande.rs` | Yes |
 | `ashleystone.me.uk` | Yes |
 | `ashok.ch` | No |
@@ -8353,6 +8354,7 @@ Here's a list of public Fediverse services.
 | `computerhater.club` | No |
 | `computering.pro` | No |
 | `computerlie.be` | No |
+| `computermachin.es` | No |
 | `computermediatedmonologue.com` | Yes |
 | `computermuseum.social` | No |
 | `computerphile.social` | No |
@@ -20979,6 +20981,7 @@ Here's a list of public Fediverse services.
 | `jaekr.dev` | No |
 | `jaekr.sh` | No |
 | `jaen-ho.de` | No |
+| `jaenis.ch` | No |
 | `jaesharp.social` | No |
 | `jago.uk` | No |
 | `jagow15.org` | Yes |
@@ -47293,6 +47296,7 @@ Here's a list of public Fediverse services.
 | `unordentlich.space` | No |
 | `unorder.xyz` | No |
 | `unosw.jp` | Yes |
+| `unover.se` | No |
 | `unperson.us` | No |
 | `unplugd.info` | No |
 | `unpluggedrva.com` | No |
@@ -50773,6 +50777,7 @@ Here's a list of public Fediverse services.
 | `yumetomo.land` | No |
 | `yumisskey.net` | No |
 | `yumk.xyz` | Yes |
+| `yumuhole.com` | No |
 | `yumulab.org` | No |
 | `yunase.com` | No |
 | `yunkuangao.com` | Yes |
@@ -51321,6 +51326,7 @@ Here's a list of public Fediverse services.
 | `zuidbook.com` | No |
 | `zuiho.moe` | Yes |
 | `zuiker.com` | No |
+| `zuikou.dev` | Yes |
 | `zukunpht.de` | No |
 | `zulu6.com` | No |
 | `zum-durstigen-dol.ch` | No |
@@ -51397,8 +51403,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,569 |
-| Normal | 36,780 |
+| Cloudflare | 14,571 |
+| Normal | 36,784 |
 
 
 </details>
