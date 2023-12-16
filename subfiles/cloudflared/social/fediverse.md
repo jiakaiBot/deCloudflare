@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,137 |
+| com | 8,138 |
 | social | 4,708 |
 | net | 4,012 |
 | org | 2,680 |
@@ -704,7 +704,7 @@ Here's a list of public Fediverse services.
 | `683-n03.uk` | Yes |
 | `68kami.ga` | No |
 | `68kmentat.com` | No |
-| `69.mu` | No |
+| `69.mu` | Yes |
 | `6921.space` | No |
 | `6a02.digital` | No |
 | `6bq.de` | No |
@@ -2678,7 +2678,7 @@ Here's a list of public Fediverse services.
 | `apobangpo.website` | No |
 | `apocalypse.crimea.ua` | Yes |
 | `apocalypse.net` | Yes |
-| `apocfury.com` | Yes |
+| `apocfury.com` | No |
 | `apoil.org` | No |
 | `apokrupha.com` | No |
 | `apokrupha.net` | No |
@@ -4850,7 +4850,7 @@ Here's a list of public Fediverse services.
 | `bioxis-server.fr` | No |
 | `bipeds.onl` | No |
 | `bipedsmonitor.com` | No |
-| `biphant.social` | Yes |
+| `biphant.social` | No |
 | `biplus.date` | Yes |
 | `biplus.social` | No |
 | `bipolar.city` | No |
@@ -6061,6 +6061,7 @@ Here's a list of public Fediverse services.
 | `bsrealm.net` | No |
 | `bstly.de` | No |
 | `btbytes.com` | Yes |
+| `btc.cx` | Yes |
 | `btc.gdn` | Yes |
 | `btc21m.net` | No |
 | `btcmb.org` | No |
@@ -8229,7 +8230,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -16336,7 +16337,7 @@ Here's a list of public Fediverse services.
 | `gecekafasi.com` | No |
 | `gecko.network` | No |
 | `gecko20.de` | No |
-| `geckodesigns.social` | Yes |
+| `geckodesigns.social` | No |
 | `gedankenlie.be` | No |
 | `gedankenteiler.blog` | No |
 | `geddit.social` | Yes |
@@ -29915,7 +29916,7 @@ Here's a list of public Fediverse services.
 | `mstdn.vodka` | Yes |
 | `mstdn.voyage` | No |
 | `mstdn.world` | No |
-| `mstdn.ws` | Yes |
+| `mstdn.ws` | No |
 | `mstdn.wtf` | Yes |
 | `mstdn.xn--q9jyb4c` | No |
 | `mstdn18.jp` | No |
@@ -31375,7 +31376,7 @@ Here's a list of public Fediverse services.
 | `nexifyhub.com` | Yes |
 | `nexitally.buzz` | Yes |
 | `nexon.su` | Yes |
-| `nexryai.online` | Yes |
+| `nexryai.online` | No |
 | `nextblock.nl` | No |
 | `nextcloud-music-vault.de` | No |
 | `nextcloud.com` | No |
@@ -32584,7 +32585,7 @@ Here's a list of public Fediverse services.
 | `nyawan.club` | No |
 | `nycity.social` | No |
 | `nycmesh.net` | No |
-| `nycnyne.social` | Yes |
+| `nycnyne.social` | No |
 | `nycr.social` | Yes |
 | `nycu.moe` | Yes |
 | `nye.lol` | No |
@@ -43887,7 +43888,7 @@ Here's a list of public Fediverse services.
 | `tbrnet.de` | No |
 | `tbrnt.ch` | No |
 | `tbs.social` | Yes |
-| `tbt.social` | Yes |
+| `tbt.social` | No |
 | `tbt.wtf` | Yes |
 | `tbully.me` | No |
 | `tc.nz` | No |
@@ -45622,6 +45623,7 @@ Here's a list of public Fediverse services.
 | `tomica.me` | No |
 | `tomica.social` | No |
 | `tomistesting.info` | No |
+| `tomkahe.com` | No |
 | `tomkoid.xyz` | Yes |
 | `tomkrizan.com` | No |
 | `tomlawson.io` | Yes |
@@ -47309,7 +47311,7 @@ Here's a list of public Fediverse services.
 | `unraids.ml` | No |
 | `unrealasia.net` | Yes |
 | `unreality.pink` | No |
-| `unredacted.social` | Yes |
+| `unredacted.social` | No |
 | `unrelated.family` | Yes |
 | `unrelenting.technology` | No |
 | `unrelentingly.online` | No |
@@ -51406,8 +51408,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,574 |
-| Normal | 36,784 |
+| Cloudflare | 14,567 |
+| Normal | 36,793 |
 
 
 </details>
