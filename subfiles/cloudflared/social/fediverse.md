@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,145 |
-| social | 4,710 |
+| social | 4,711 |
 | net | 4,014 |
 | org | 2,682 |
-| de | 2,540 |
+| de | 2,541 |
 
 
 - Mastodon, Pleroma, etc
@@ -3234,6 +3234,7 @@ Here's a list of public Fediverse services.
 | `astaluk.icu` | No |
 | `astar.moe` | No |
 | `astarbia.com` | Yes |
+| `astatide.xyz` | No |
 | `astatu.berlin` | No |
 | `astdn.tokyo` | No |
 | `asteinhaus.de` | No |
@@ -20731,6 +20732,7 @@ Here's a list of public Fediverse services.
 | `istump.net` | Yes |
 | `isurf.ca` | No |
 | `isv.social` | No |
+| `isvu.social` | No |
 | `iswleuven.be` | No |
 | `it-arts.net` | No |
 | `it-blogger.dk` | No |
@@ -42706,6 +42708,7 @@ Here's a list of public Fediverse services.
 | `stoptrackingus.tv` | No |
 | `stopwatchingani.me` | No |
 | `stopwatchingus-heidelberg.de` | Yes |
+| `storage42.de` | No |
 | `storais.org` | No |
 | `storel.li` | No |
 | `storiesnotablog.com` | No |
@@ -50305,6 +50308,7 @@ Here's a list of public Fediverse services.
 | `xtk.es` | No |
 | `xtom.social` | Yes |
 | `xtra.nu` | Yes |
+| `xtrap.app` | Yes |
 | `xtremely.online` | No |
 | `xttech.top` | Yes |
 | `xtux.org` | No |
@@ -51435,8 +51439,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,579 |
-| Normal | 36,808 |
+| Cloudflare | 14,580 |
+| Normal | 36,811 |
 
 
 </details>
