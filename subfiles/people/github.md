@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No content displayed when enabling this extension.](https://github.com/FriendsOfFlarum/byobu/issues/193)
 - [Clicking profile, sometimes show unkown error](https://github.com/dessalines/jerboa/issues/1297)
 - [yggtorrent (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/1013)
 - [ModuleNotFoundError: No module named 'g4f.Provider.NoowAi'](https://github.com/xtekky/gpt4free/issues/1353)
