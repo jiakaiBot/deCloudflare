@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [I love you guys, And this is a misunderstanding](https://github.com/openai/openai-openapi/issues/145)
 - [Endless loop of 401 errors with Remix](https://github.com/clerk/javascript/issues/2381)
 - [Using google-cloud/vertexai in edge environments](https://github.com/googleapis/nodejs-vertexai/issues/82)
 - [Unable to login](https://github.com/etheralm/libpurecool/issues/42)
