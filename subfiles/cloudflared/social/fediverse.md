@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,142 |
+| com | 8,145 |
 | social | 4,710 |
 | net | 4,014 |
-| org | 2,681 |
+| org | 2,682 |
 | de | 2,540 |
 
 
@@ -326,6 +326,7 @@ Here's a list of public Fediverse services.
 | `1password.social` | No |
 | `1person.me` | No |
 | `1ppm.de` | No |
+| `1q43.blog` | No |
 | `1rl.social` | No |
 | `1stva.mp` | No |
 | `1uca.com` | No |
@@ -19013,6 +19014,7 @@ Here's a list of public Fediverse services.
 | `holtslander.ca` | Yes |
 | `holtwick.de` | No |
 | `holy.yokohama` | No |
+| `holyassociates.com` | No |
 | `holybean.net` | Yes |
 | `holybutts.com` | No |
 | `holycarp.org` | No |
@@ -19552,6 +19554,7 @@ Here's a list of public Fediverse services.
 | `hypr.ninja` | No |
 | `hypurrr.net` | Yes |
 | `hyrulecastle.town` | No |
+| `hysd3g.com` | No |
 | `hyss.us` | No |
 | `hyteck.de` | No |
 | `hyuki.net` | Yes |
@@ -38397,6 +38400,7 @@ Here's a list of public Fediverse services.
 | `roguelabs.tech` | No |
 | `rogueofhe.art` | No |
 | `roguerevan.com` | Yes |
+| `roguewave.observer` | No |
 | `rohangrey.net` | No |
 | `rohr.org` | No |
 | `roiarthurb.xyz` | No |
@@ -40205,6 +40209,7 @@ Here's a list of public Fediverse services.
 | `setouchiexplorer.com` | Yes |
 | `setsetset.space` | No |
 | `setsuna.kr` | No |
+| `setsuzokustudio.com` | No |
 | `settgast.org` | Yes |
 | `seungjin.net` | Yes |
 | `seva.rocks` | Yes |
@@ -41614,6 +41619,7 @@ Here's a list of public Fediverse services.
 | `socpeertube.ru` | Yes |
 | `socs.social` | No |
 | `soda-net.com` | Yes |
+| `soda.jp.eu.org` | No |
 | `sodacube.dev` | Yes |
 | `sodajerker.com` | Yes |
 | `soderstrom.social` | No |
@@ -51430,7 +51436,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,579 |
-| Normal | 36,802 |
+| Normal | 36,808 |
 
 
 </details>
