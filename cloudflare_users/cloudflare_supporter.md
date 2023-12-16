@@ -446,6 +446,7 @@ Do not create new issue or we will close it as duplicate.
 | [aed048@twitter](https://twitter.com/aed048/status/1423165022642098177) | advertise |
 | [AeidraMoe@twitter](https://twitter.com/AeidraMoe/status/1392122365429964802) | advertise |
 | [AeiniPouya@twitter](https://twitter.com/AeiniPouya/status/1546545934896603141) | advertise |
+| [AEinstung@twitter](https://twitter.com/AEinstung/status/1736058879937810699) | advertise |
 | [aeiou2224@twitter](https://twitter.com/aeiou2224/status/1398335303782305795) | advertise |
 | [Aekari95@twitter](https://twitter.com/Aekari95/status/1390406061140549633) | advertise |
 | [AekinSla@twitter](https://twitter.com/AekinSla/status/1392548229548417026) | advertise |
@@ -9578,6 +9579,7 @@ Do not create new issue or we will close it as duplicate.
 | [NayZaw72303730@twitter](https://twitter.com/NayZaw72303730/status/1388769231848812545) | advertise |
 | [NayZawAung9@twitter](https://twitter.com/NayZawAung9/status/1394089583281803265) | advertise |
 | [NayZin04331521@twitter](https://twitter.com/NayZin04331521/status/1392442395497697282) | advertise |
+| [nay_techno@twitter](https://twitter.com/nay_techno/status/1736079559253180746) | advertise |
 | [nazar_habieb@twitter](https://twitter.com/nazar_habieb/status/1627995052021800960) | advertise |
 | [Naziba06@twitter](https://twitter.com/Naziba06/status/1534091968661581825) | advertise |
 | [nazneenk873@twitter](https://twitter.com/nazneenk873/status/1640546432473088000) | advertise |
@@ -10628,6 +10630,7 @@ Do not create new issue or we will close it as duplicate.
 | [pemburu_eth@twitter](https://twitter.com/pemburu_eth/status/1389253559103856644) | advertise |
 | [pemilk93@twitter](https://twitter.com/pemilk93/status/1545366726249889792) | advertise |
 | [pemon66928575@twitter](https://twitter.com/pemon66928575/status/1378993033799036928) | advertise |
+| [penandpaypah@twitter](https://twitter.com/penandpaypah/status/1736083591216443753) | advertise |
 | [pengyuc_@twitter](https://twitter.com/pengyuc_/status/1657373775766142981) | advertise |
 | [penikmathoejabi@twitter](https://twitter.com/penikmathoejabi/status/1713595444792889712) | advertise |
 | [PenngXiao@twitter](https://twitter.com/PenngXiao/status/1463457139419086849) | advertise |
@@ -14194,6 +14197,7 @@ Do not create new issue or we will close it as duplicate.
 | [TsYu53290383@twitter](https://twitter.com/TsYu53290383/status/1397966327877292036) | advertise |
 | [TtarZzin@twitter](https://twitter.com/TtarZzin/status/1473115853101039618) | advertise |
 | [TTayblack@twitter](https://twitter.com/TTayblack/status/1553438180581724161) | advertise |
+| [TTeLL3M@twitter](https://twitter.com/TTeLL3M/status/1736081476704252376) | advertise |
 | [Ttleo13@twitter](https://twitter.com/Ttleo13/status/1382004085373595648) | advertise |
 | [TtoGo63141@twitter](https://twitter.com/TtoGo63141/status/1689240251959562240) | advertise |
 | [ttqmanga@twitter](https://twitter.com/ttqmanga/status/1623576776734646272) | advertise |
