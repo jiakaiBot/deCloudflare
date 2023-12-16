@@ -384,6 +384,7 @@ Do not create new issue or we will close it as duplicate.
 | [Adam39171140@twitter](https://twitter.com/Adam39171140/status/1515414463008104464) | advertise |
 | [AdamHakeemi18@twitter](https://twitter.com/AdamHakeemi18/status/1396117339007979526) | advertise |
 | [AdamKha89958233@twitter](https://twitter.com/AdamKha89958233/status/1541880757144240128) | advertise |
+| [adamnguyen19989@twitter](https://twitter.com/adamnguyen19989/status/1736115422527885729) | advertise |
 | [adamov_andre@twitter](https://twitter.com/adamov_andre/status/1593242183284314117) | advertise |
 | [adamscrabble@twitter](https://twitter.com/adamscrabble/status/1547574102533124097) | advertise |
 | [adamtansl@twitter](https://twitter.com/adamtansl/status/1527957253990809600) | advertise |
@@ -2469,6 +2470,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChawThetThet1@twitter](https://twitter.com/ChawThetThet1/status/1516618785402335239) | advertise |
 | [ChDng79664031@twitter](https://twitter.com/ChDng79664031/status/1551712285085016064) | advertise |
 | [CHE43888993@twitter](https://twitter.com/CHE43888993/status/1390611367195942914) | advertise |
+| [cheapmonkey12@twitter](https://twitter.com/cheapmonkey12/status/1736111736296718805) | advertise |
 | [CheckieLtd@twitter](https://twitter.com/CheckieLtd/status/1638088489387405312) | advertise |
 | [cheddarskitchen@twitter](https://twitter.com/cheddarskitchen/status/1665888752177127425) | advertise |
 | [cheeryluvly2@twitter](https://twitter.com/cheeryluvly2/status/1401203225659912192) | advertise |
@@ -4542,6 +4544,7 @@ Do not create new issue or we will close it as duplicate.
 | [h4ck3rkor_ghost@twitter](https://twitter.com/h4ck3rkor_ghost/status/1568312588588695553) | advertise |
 | [h29id@twitter](https://twitter.com/h29id/status/1370211563068551170) | advertise |
 | [H44AI04@twitter](https://twitter.com/H44AI04/status/1728400875129827472) | advertise |
+| [H82HS@twitter](https://twitter.com/H82HS/status/1736111678465491373) | advertise |
 | [h529737@twitter](https://twitter.com/h529737/status/1683136838842847232) | advertise |
 | [h86980052@twitter](https://twitter.com/h86980052/status/1706645469705732603) | advertise |
 | [h95009495@twitter](https://twitter.com/h95009495/status/1606859215884386304) | advertise |
