@@ -12822,6 +12822,7 @@ Do not create new issue or we will close it as duplicate.
 | [steven_rusty@twitter](https://twitter.com/steven_rusty/status/1476304266746810376) | advertise |
 | [steveseu@twitter](https://twitter.com/steveseu/status/1646522106790973446) | advertise |
 | [STEVESYH@twitter](https://twitter.com/STEVESYH/status/1573325435899084802) | advertise |
+| [stevewonghk@twitter](https://twitter.com/stevewonghk/status/1736023814772011234) | advertise |
 | [Steve_wheezy@twitter](https://twitter.com/Steve_wheezy/status/1627096246098751488) | advertise |
 | [sthabiso_iv@twitter](https://twitter.com/sthabiso_iv/status/1596898514885287941) | advertise |
 | [STharaan@twitter](https://twitter.com/STharaan/status/1563651594914148352) | advertise |
