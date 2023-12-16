@@ -12456,6 +12456,7 @@ Here's a list of public Fediverse services.
 | `elchtransformer.de` | No |
 | `elcofre.social` | No |
 | `elcuadernodigital.com` | No |
+| `elderscrolls.space` | Yes |
 | `eldoom.me` | No |
 | `eldraeverse.com` | No |
 | `eldritch.cafe` | No |
@@ -20839,7 +20840,7 @@ Here's a list of public Fediverse services.
 | `iwade.net` | No |
 | `iwalt.com` | No |
 | `iwamidon.tech` | No |
-| `iwanthorror.com` | No |
+| `iwanthorror.com` | Yes |
 | `iwanthorror.social` | No |
 | `iwascoding.com` | No |
 | `iwasea.blue` | Yes |
@@ -32875,7 +32876,7 @@ Here's a list of public Fediverse services.
 | `ofuton.life` | No |
 | `ofuton.work` | No |
 | `ofuton.world` | No |
-| `oga.ninja` | No |
+| `oga.ninja` | Yes |
 | `ogg.social` | No |
 | `ogijima.fr` | Yes |
 | `ogiso.me` | Yes |
@@ -51408,8 +51409,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,567 |
-| Normal | 36,793 |
+| Cloudflare | 14,570 |
+| Normal | 36,791 |
 
 
 </details>
