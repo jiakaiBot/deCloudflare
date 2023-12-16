@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,139 |
-| social | 4,708 |
-| net | 4,012 |
-| org | 2,680 |
-| de | 2,539 |
+| com | 8,142 |
+| social | 4,709 |
+| net | 4,013 |
+| org | 2,681 |
+| de | 2,540 |
 
 
 - Mastodon, Pleroma, etc
@@ -2166,6 +2166,7 @@ Here's a list of public Fediverse services.
 | `an.exchange` | Yes |
 | `an0thr.app` | No |
 | `an6.us` | Yes |
+| `an7s.site` | No |
 | `anacreonte.eu` | No |
 | `anafabula.de` | No |
 | `anakmanis.com` | Yes |
@@ -2814,6 +2815,7 @@ Here's a list of public Fediverse services.
 | `archous.net` | No |
 | `archraspberrypi.tk` | No |
 | `archstonepress.com` | No |
+| `archuser.org` | Yes |
 | `archworks.co` | No |
 | `archybold.com` | No |
 | `arclight.pro` | Yes |
@@ -2955,6 +2957,7 @@ Here's a list of public Fediverse services.
 | `arnold-schiller.de` | No |
 | `arnoldasu.lt` | No |
 | `arnoldhoogerwerf.nl` | No |
+| `arnoldschiller.de` | No |
 | `arnos-vale.net` | No |
 | `arns.lt` | No |
 | `aroace.lgbt` | No |
@@ -6174,6 +6177,7 @@ Here's a list of public Fediverse services.
 | `bunnies.gay` | No |
 | `bunny.blue` | No |
 | `bunny.cafe` | No |
+| `bunny.church` | No |
 | `bunny.cloud` | Yes |
 | `bunny.family` | Yes |
 | `bunny.social` | No |
@@ -9695,6 +9699,7 @@ Here's a list of public Fediverse services.
 | `daniel.digital` | Yes |
 | `daniel.priv.no` | No |
 | `danielbierstedt.de` | No |
+| `danielbowen.com` | Yes |
 | `danieldk.eu` | No |
 | `danielehniss.de` | No |
 | `danielgil.page` | No |
@@ -10889,6 +10894,7 @@ Here's a list of public Fediverse services.
 | `digitalsuccess.dev` | No |
 | `digitalundso.net` | No |
 | `digitalveracity.net` | No |
+| `digitalvisuals.nl` | No |
 | `digitalwasteland.info` | No |
 | `digitalwatchmen.com` | No |
 | `digitan.cf` | No |
@@ -13522,6 +13528,7 @@ Here's a list of public Fediverse services.
 | `faba.icu` | No |
 | `fabbaloo.com` | Yes |
 | `fabean.xyz` | Yes |
+| `fabertech.nl` | No |
 | `fabi.lgbt` | No |
 | `fabianstadler.com` | Yes |
 | `fabien-berini.fr` | No |
@@ -21568,6 +21575,7 @@ Here's a list of public Fediverse services.
 | `jo-dev.xyz` | Yes |
 | `jo3qma.com` | Yes |
 | `joachimweber.name` | No |
+| `joachymstal.cz` | No |
 | `joanathx.com` | Yes |
 | `joanmastodon.blog` | No |
 | `joannetheisen.com` | No |
@@ -29086,6 +29094,7 @@ Here's a list of public Fediverse services.
 | `moahr.de` | No |
 | `moar.wine` | No |
 | `moarrensis.org` | Yes |
+| `moates.blog` | No |
 | `mob-con.com` | No |
 | `mobettadanyosite.com` | No |
 | `mobi.com` | Yes |
@@ -31609,6 +31618,7 @@ Here's a list of public Fediverse services.
 | `nikkasystems.com` | Yes |
 | `nikkel.xyz` | Yes |
 | `nikkisocial.com` | No |
+| `nikkiwordsmith.com` | No |
 | `niklas-meinzer.de` | No |
 | `niklas.life` | Yes |
 | `niklas.network` | No |
@@ -32081,6 +32091,7 @@ Here's a list of public Fediverse services.
 | `nordgedanken.de` | No |
 | `nordgedanken.dev` | No |
 | `nordherz.blog` | No |
+| `nordic-dev.net` | No |
 | `nordic.online` | No |
 | `nordicshutter.com` | No |
 | `nordicvisions.net` | No |
@@ -35624,6 +35635,7 @@ Here's a list of public Fediverse services.
 | `polity.social` | No |
 | `poliversity.it` | No |
 | `poliverso.org` | No |
+| `polizeros.com` | No |
 | `polkadot.blue` | Yes |
 | `polli.social` | No |
 | `pollock.network` | No |
@@ -45242,6 +45254,7 @@ Here's a list of public Fediverse services.
 | `tiepup.com` | No |
 | `tiernanotoole.ie` | Yes |
 | `tierslieux.re` | No |
+| `tietz.social` | No |
 | `tiff.is` | No |
 | `tiffanywhitedev.social` | No |
 | `tiffinfamilynetwork.com` | No |
@@ -50027,7 +50040,7 @@ Here's a list of public Fediverse services.
 | `xiii.ch` | Yes |
 | `xiling.site` | No |
 | `xim.ca` | No |
-| `xin.cat` | No |
+| `xin.cat` | Yes |
 | `xinchronize.com` | Yes |
 | `xindejiayuan.com` | No |
 | `xinghaizhandui.com` | No |
@@ -51411,8 +51424,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,572 |
-| Normal | 36,791 |
+| Cloudflare | 14,575 |
+| Normal | 36,801 |
 
 
 </details>
