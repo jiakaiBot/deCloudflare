@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,138 |
+| com | 8,139 |
 | social | 4,708 |
 | net | 4,012 |
 | org | 2,680 |
@@ -9281,6 +9281,7 @@ Here's a list of public Fediverse services.
 | `cutieverse.social` | Yes |
 | `cutievirus.com` | Yes |
 | `cutls.com` | Yes |
+| `cutls.dev` | No |
 | `cutout.media` | No |
 | `cuttingfree.info` | No |
 | `cuttlefi.sh` | No |
@@ -32955,6 +32956,7 @@ Here's a list of public Fediverse services.
 | `ok310.gq` | No |
 | `oka.no` | No |
 | `okadajp.org` | No |
+| `okakaservice.com` | Yes |
 | `okaminet.xyz` | No |
 | `okapi.website` | No |
 | `okaprog.com` | No |
@@ -33808,7 +33810,7 @@ Here's a list of public Fediverse services.
 | `over9k.tech` | No |
 | `overblue.net` | No |
 | `overbye.dev` | Yes |
-| `overcomplicated.systems` | No |
+| `overcomplicated.systems` | Yes |
 | `overenginerd.org` | No |
 | `overgrown.garden` | Yes |
 | `overheard.social` | No |
@@ -51409,7 +51411,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,570 |
+| Cloudflare | 14,572 |
 | Normal | 36,791 |
 
 
