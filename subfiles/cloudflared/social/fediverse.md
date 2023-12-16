@@ -536,6 +536,7 @@ Here's a list of public Fediverse services.
 | `40two.tube` | No |
 | `41020.social` | No |
 | `412000.xyz` | Yes |
+| `4142.io` | No |
 | `417yuji.net` | No |
 | `418teapot.net` | No |
 | `41kg.com` | Yes |
@@ -1374,6 +1375,7 @@ Here's a list of public Fediverse services.
 | `afront.org` | No |
 | `afroteca.org` | No |
 | `aftbit.com` | No |
+| `after-work-photo.eu` | No |
 | `afternoon.chat` | Yes |
 | `afternoonauthor.online` | No |
 | `afternoonrobot.co.uk` | No |
@@ -35442,6 +35444,7 @@ Here's a list of public Fediverse services.
 | `plswork.tk` | No |
 | `plttn.xyz` | Yes |
 | `plu.wf` | No |
+| `plud.re` | No |
 | `plueschmoors.de` | No |
 | `pluffy.monster` | No |
 | `pluginip.com` | Yes |
@@ -39996,6 +39999,7 @@ Here's a list of public Fediverse services.
 | `seikin.club` | No |
 | `seikora.one` | Yes |
 | `seikowo.tk` | No |
+| `seindal.dk` | No |
 | `seinenrider.com` | No |
 | `seishiono.com` | No |
 | `seistrup-nagel.dk` | Yes |
@@ -41494,6 +41498,7 @@ Here's a list of public Fediverse services.
 | `sociabl.be` | No |
 | `sociable.cafe` | No |
 | `sociables.io` | No |
+| `social-me.online` | No |
 | `social-net.fr` | No |
 | `social-pflege.de` | No |
 | `social-potsdam.space` | No |
@@ -51443,7 +51448,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,579 |
-| Normal | 36,815 |
+| Normal | 36,820 |
 
 
 </details>
