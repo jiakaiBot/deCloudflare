@@ -5596,6 +5596,7 @@ Do not create new issue or we will close it as duplicate.
 | [IdeiasBlah@twitter](https://twitter.com/IdeiasBlah/status/1717217853932253678) | advertise |
 | [ideveloper8@twitter](https://twitter.com/ideveloper8/status/1459107888471941146) | advertise |
 | [idrayt1@twitter](https://twitter.com/idrayt1/status/1584900658699829251) | advertise |
+| [idreshsen50@twitter](https://twitter.com/idreshsen50/status/1736005183463952717) | advertise |
 | [idzyns@twitter](https://twitter.com/idzyns/status/1714471442908381497) | advertise |
 | [id_btc@twitter](https://twitter.com/id_btc/status/1677829095936217088) | advertise |
 | [ieujejer@twitter](https://twitter.com/ieujejer/status/1701306103240229092) | advertise |
@@ -10560,6 +10561,7 @@ Do not create new issue or we will close it as duplicate.
 | [parthasaha_xyz@twitter](https://twitter.com/parthasaha_xyz/status/1399842469924147201) | advertise |
 | [PARTHIBMONDAL11@twitter](https://twitter.com/PARTHIBMONDAL11/status/1389065445047775234) | advertise |
 | [PasanLaksitha@twitter](https://twitter.com/PasanLaksitha/status/1379474666767572994) | advertise |
+| [PascalR85957058@twitter](https://twitter.com/PascalR85957058/status/1736000475873358133) | advertise |
 | [pastorray620@twitter](https://twitter.com/pastorray620/status/1481759595219628038) | advertise |
 | [Patati20@twitter](https://twitter.com/Patati20/status/1577924979663912960) | advertise |
 | [patchrowcester@twitter](https://twitter.com/patchrowcester/status/1534210752780898307) | advertise |
@@ -14059,6 +14061,7 @@ Do not create new issue or we will close it as duplicate.
 | [Triu48585495@twitter](https://twitter.com/Triu48585495/status/1397062708571242496) | advertise |
 | [TrkanLukas@twitter](https://twitter.com/TrkanLukas/status/1383167217907478531) | advertise |
 | [TrmNguynBo19@twitter](https://twitter.com/TrmNguynBo19/status/1684809883877851136) | advertise |
+| [Trn5Mau@twitter](https://twitter.com/Trn5Mau/status/1736004825073238130) | advertise |
 | [Trn10391150Minh@twitter](https://twitter.com/Trn10391150Minh/status/1580722871990878208) | advertise |
 | [TrN94641167@twitter](https://twitter.com/TrN94641167/status/1638074640982740992) | advertise |
 | [TrnBo45752629@twitter](https://twitter.com/TrnBo45752629/status/1722817284001968182) | advertise |
