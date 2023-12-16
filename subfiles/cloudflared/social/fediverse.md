@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,142 |
 | social | 4,709 |
-| net | 4,013 |
+| net | 4,014 |
 | org | 2,681 |
 | de | 2,540 |
 
@@ -20622,6 +20622,7 @@ Here's a list of public Fediverse services.
 | `isaaccronk.com` | No |
 | `isaacsu.com` | Yes |
 | `isaak.ovh` | No |
+| `isabellang.net` | No |
 | `isabelle-santos.space` | No |
 | `isabelroses.live` | Yes |
 | `isacutie.net` | No |
@@ -37641,7 +37642,7 @@ Here's a list of public Fediverse services.
 | `region-bergstrasse.de` | No |
 | `region-bergstrasse.social` | No |
 | `regist.ro` | No |
-| `reglaprimordial.com` | No |
+| `reglaprimordial.com` | Yes |
 | `regret.horse` | No |
 | `regretfully.online` | No |
 | `regrow.earth` | No |
@@ -47605,7 +47606,7 @@ Here's a list of public Fediverse services.
 | `uwuntu.org` | Yes |
 | `uwuwatch.club` | Yes |
 | `uwuzu.net` | No |
-| `uwuzunext.info` | No |
+| `uwuzunext.info` | Yes |
 | `uwyn.net` | No |
 | `uxbrad.com` | No |
 | `uxd.social` | No |
@@ -51424,8 +51425,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,575 |
-| Normal | 36,801 |
+| Cloudflare | 14,577 |
+| Normal | 36,800 |
 
 
 </details>
