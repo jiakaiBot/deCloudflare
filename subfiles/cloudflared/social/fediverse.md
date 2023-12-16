@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,142 |
-| social | 4,709 |
+| social | 4,710 |
 | net | 4,014 |
 | org | 2,681 |
 | de | 2,540 |
@@ -26238,6 +26238,7 @@ Here's a list of public Fediverse services.
 | `madzel.de` | No |
 | `mae.wtf` | Yes |
 | `maechler.cloud` | No |
+| `maeh.social` | No |
 | `maehl.eu` | No |
 | `maelstrom.space` | No |
 | `maengkkongi.site` | No |
@@ -29224,6 +29225,7 @@ Here's a list of public Fediverse services.
 | `moi.ovh` | No |
 | `moien.net` | No |
 | `moin.city` | No |
+| `moin.lol` | Yes |
 | `moirai.cc` | Yes |
 | `moirai.dev` | Yes |
 | `moist.live` | No |
@@ -38121,7 +38123,7 @@ Here's a list of public Fediverse services.
 | `ring0.re` | No |
 | `ring0.space` | No |
 | `ring2.de` | No |
-| `ringed.space` | No |
+| `ringed.space` | Yes |
 | `ringelgebirge.de` | No |
 | `ringonegichikuwa.com` | Yes |
 | `ringtail.chat` | No |
@@ -41487,6 +41489,7 @@ Here's a list of public Fediverse services.
 | `social-pflege.de` | No |
 | `social-potsdam.space` | No |
 | `social-strike.net` | No |
+| `social-systems.space` | No |
 | `social-u.tokyo` | No |
 | `social-video.tk` | No |
 | `social-wahn.de` | No |
@@ -51426,8 +51429,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,577 |
-| Normal | 36,801 |
+| Cloudflare | 14,579 |
+| Normal | 36,802 |
 
 
 </details>
