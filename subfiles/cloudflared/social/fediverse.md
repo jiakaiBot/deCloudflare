@@ -44797,7 +44797,7 @@ Here's a list of public Fediverse services.
 | `themillerslive.com` | Yes |
 | `themimitoof.fr` | Yes |
 | `themindofruss.com` | Yes |
-| `themintfarm.ml` | Yes |
+| `themintfarm.ml` | No |
 | `theminxshow.com` | No |
 | `themisir.com` | Yes |
 | `themondragons.com` | Yes |
@@ -50793,6 +50793,7 @@ Here's a list of public Fediverse services.
 | `yukorabb.it` | Yes |
 | `yume.social` | No |
 | `yumehaki.club` | No |
+| `yumeka.live` | Yes |
 | `yumeka.pw` | Yes |
 | `yumeka.xyz` | Yes |
 | `yumenosora.net` | Yes |
@@ -51426,7 +51427,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,577 |
-| Normal | 36,800 |
+| Normal | 36,801 |
 
 
 </details>
