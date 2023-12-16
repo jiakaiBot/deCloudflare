@@ -6351,6 +6351,7 @@ Do not create new issue or we will close it as duplicate.
 | [JumaJuma2009@twitter](https://twitter.com/JumaJuma2009/status/1405905479260426245) | advertise |
 | [jumdai78368@twitter](https://twitter.com/jumdai78368/status/1727037821016510579) | advertise |
 | [Jumperup2@twitter](https://twitter.com/Jumperup2/status/1537010355938926596) | advertise |
+| [JunaidS66682818@twitter](https://twitter.com/JunaidS66682818/status/1736097877297143887) | advertise |
 | [junaid_ul_hasan@twitter](https://twitter.com/junaid_ul_hasan/status/1570506547754848258) | advertise |
 | [JunAwng@twitter](https://twitter.com/JunAwng/status/1382576021661048832) | advertise |
 | [JunBi65027041@twitter](https://twitter.com/JunBi65027041/status/1606972045061152768) | advertise |
@@ -6751,6 +6752,7 @@ Do not create new issue or we will close it as duplicate.
 | [khanhph47188511@twitter](https://twitter.com/khanhph47188511/status/1679199014246547456) | advertise |
 | [KhanhQu29500186@twitter](https://twitter.com/KhanhQu29500186/status/1552998702247452672) | advertise |
 | [KhanhS15165858@twitter](https://twitter.com/KhanhS15165858/status/1734782598852059196) | advertise |
+| [khanjan837976@twitter](https://twitter.com/khanjan837976/status/1736096783913091137) | advertise |
 | [khanlar8@twitter](https://twitter.com/khanlar8/status/1396061782540656641) | advertise |
 | [khanpro1903@twitter](https://twitter.com/khanpro1903/status/1389267563633283073) | advertise |
 | [khant45034632@twitter](https://twitter.com/khant45034632/status/1399752623771635715) | advertise |
@@ -11889,6 +11891,7 @@ Do not create new issue or we will close it as duplicate.
 | [safasafari3@twitter](https://twitter.com/safasafari3/status/1556833438426177543) | advertise |
 | [SaFaZia10@twitter](https://twitter.com/SaFaZia10/status/1620942287470530560) | advertise |
 | [SafraSaff@twitter](https://twitter.com/SafraSaff/status/1657111438417358848) | advertise |
+| [sagalabdi909@twitter](https://twitter.com/sagalabdi909/status/1736095740357661119) | advertise |
 | [Sagar40471368@twitter](https://twitter.com/Sagar40471368/status/1394306315283959815) | advertise |
 | [SagrJony@twitter](https://twitter.com/SagrJony/status/1378421082592575491) | advertise |
 | [sahand90818531@twitter](https://twitter.com/sahand90818531/status/1584475574302826496) | advertise |
