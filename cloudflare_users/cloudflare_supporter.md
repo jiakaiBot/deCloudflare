@@ -7060,6 +7060,7 @@ Do not create new issue or we will close it as duplicate.
 | [kolinlin887@twitter](https://twitter.com/kolinlin887/status/1390704949839814657) | advertise |
 | [Kolochin1@twitter](https://twitter.com/Kolochin1/status/1390745122166378497) | advertise |
 | [kolyan83373274@twitter](https://twitter.com/kolyan83373274/status/1392739223111835649) | advertise |
+| [kol_phea@twitter](https://twitter.com/kol_phea/status/1736037419911418040) | advertise |
 | [KoMaung90959515@twitter](https://twitter.com/KoMaung90959515/status/1396440877476696064) | advertise |
 | [KoMaw29928193@twitter](https://twitter.com/KoMaw29928193/status/1401517099822944257) | advertise |
 | [KoMawGyi18@twitter](https://twitter.com/KoMawGyi18/status/1389623065131184130) | advertise |
@@ -7443,6 +7444,7 @@ Do not create new issue or we will close it as duplicate.
 | [larenmat1@twitter](https://twitter.com/larenmat1/status/1728469361441054900) | advertise |
 | [Laron_Barca@twitter](https://twitter.com/Laron_Barca/status/1638633774807396358) | advertise |
 | [Larry06951708@twitter](https://twitter.com/Larry06951708/status/1543723562397319170) | advertise |
+| [LaSeng59334810@twitter](https://twitter.com/LaSeng59334810/status/1736038540335841672) | advertise |
 | [Lastavicaaaa@twitter](https://twitter.com/Lastavicaaaa/status/1570320326684188672) | advertise |
 | [LasteventsSpace@twitter](https://twitter.com/LasteventsSpace/status/1550721607030968320) | advertise |
 | [LASXD2@twitter](https://twitter.com/LASXD2/status/1396425725666762752) | advertise |
