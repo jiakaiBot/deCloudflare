@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [yggtorrent (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/1013)
 - [ModuleNotFoundError: No module named 'g4f.Provider.NoowAi'](https://github.com/xtekky/gpt4free/issues/1353)
 - [I love you guys, And this is a misunderstanding](https://github.com/openai/openai-openapi/issues/145)
 - [Endless loop of 401 errors with Remix](https://github.com/clerk/javascript/issues/2381)
