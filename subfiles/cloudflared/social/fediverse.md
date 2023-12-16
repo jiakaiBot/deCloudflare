@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,145 |
+| com | 8,144 |
 | social | 4,711 |
-| net | 4,014 |
-| org | 2,682 |
-| de | 2,541 |
+| net | 4,016 |
+| org | 2,683 |
+| de | 2,542 |
 
 
 - Mastodon, Pleroma, etc
@@ -8236,7 +8236,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9748,6 +9748,7 @@ Here's a list of public Fediverse services.
 | `dansla.tech` | No |
 | `dansleho.st` | No |
 | `danslesbois.info` | No |
+| `danslesbois.net` | No |
 | `dansmith.online` | No |
 | `dansmonorage.blue` | No |
 | `danstodon.com` | No |
@@ -10340,7 +10341,7 @@ Here's a list of public Fediverse services.
 | `deleteyourfacebook.today` | No |
 | `deleuil.studio` | No |
 | `delfinpe.de` | Yes |
-| `deli.st` | Yes |
+| `deli.st` | No |
 | `delic.fi` | No |
 | `delicesbdsm.fr` | Yes |
 | `delire.party` | No |
@@ -15125,6 +15126,7 @@ Here's a list of public Fediverse services.
 | `foxfire.dev` | No |
 | `foxgirl.eu` | Yes |
 | `foxgirl.land` | No |
+| `foxgirl.lol` | No |
 | `foxgirl.social` | Yes |
 | `foxgirlsat.work` | No |
 | `foxgl.ovh` | No |
@@ -30792,6 +30794,7 @@ Here's a list of public Fediverse services.
 | `naturism.social` | No |
 | `naturpartner.org` | Yes |
 | `naturschutz.social` | No |
+| `naturtrunken.de` | No |
 | `naudin.cc` | No |
 | `naughtystallion.com` | No |
 | `naugrim.org` | No |
@@ -32975,7 +32978,6 @@ Here's a list of public Fediverse services.
 | `ok310.gq` | No |
 | `oka.no` | No |
 | `okadajp.org` | No |
-| `okakaservice.com` | Yes |
 | `okaminet.xyz` | No |
 | `okapi.website` | No |
 | `okaprog.com` | No |
@@ -36240,7 +36242,6 @@ Here's a list of public Fediverse services.
 | `protom.eu` | No |
 | `protomolecule.com` | No |
 | `proton.stream` | No |
-| `protopia.tk` | No |
 | `protoxin.net` | Yes |
 | `prou.be` | No |
 | `proud.social` | No |
@@ -41307,6 +41308,7 @@ Here's a list of public Fediverse services.
 | `smoothbrain.top` | No |
 | `smoothdream.me` | No |
 | `smoothdream.online` | Yes |
+| `smoothnet.org` | No |
 | `smop.org` | No |
 | `smores.town` | No |
 | `smseden.com` | Yes |
@@ -51406,6 +51408,7 @@ Here's a list of public Fediverse services.
 | `zxq.co` | Yes |
 | `zy.gy` | Yes |
 | `zy.lc` | No |
+| `zydeo.net` | No |
 | `zyi.io` | Yes |
 | `zyl.se` | Yes |
 | `zylstra.org` | No |
@@ -51439,8 +51442,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,580 |
-| Normal | 36,811 |
+| Cloudflare | 14,579 |
+| Normal | 36,815 |
 
 
 </details>
