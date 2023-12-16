@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Clicking profile, sometimes show unkown error](https://github.com/dessalines/jerboa/issues/1297)
 - [yggtorrent (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/1013)
 - [ModuleNotFoundError: No module named 'g4f.Provider.NoowAi'](https://github.com/xtekky/gpt4free/issues/1353)
 - [I love you guys, And this is a misunderstanding](https://github.com/openai/openai-openapi/issues/145)
