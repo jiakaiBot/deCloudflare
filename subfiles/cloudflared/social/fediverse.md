@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,145 |
-| social | 4,711 |
+| com | 8,148 |
+| social | 4,712 |
 | net | 4,016 |
 | org | 2,683 |
-| de | 2,542 |
+| de | 2,544 |
 
 
 - Mastodon, Pleroma, etc
@@ -238,6 +238,7 @@ Here's a list of public Fediverse services.
 | `122.jp` | No |
 | `1234.as` | Yes |
 | `123abc.tokyo` | No |
+| `123nz.nl` | Yes |
 | `1242.com` | Yes |
 | `127b.nl` | No |
 | `128.ca` | Yes |
@@ -332,7 +333,7 @@ Here's a list of public Fediverse services.
 | `1uca.com` | No |
 | `1up.ninja` | No |
 | `1up2down.social` | Yes |
-| `1w1.in` | Yes |
+| `1w1.in` | No |
 | `1w6.org` | No |
 | `1xx.io` | Yes |
 | `1z2.net` | No |
@@ -1465,6 +1466,7 @@ Here's a list of public Fediverse services.
 | `ahxxm.com` | Yes |
 | `ai-peertube.ch` | No |
 | `ai-tube.ch` | No |
+| `ai-vidence.com` | No |
 | `ai.wiki` | No |
 | `ai6yr.org` | Yes |
 | `aiart.page` | Yes |
@@ -3823,6 +3825,7 @@ Here's a list of public Fediverse services.
 | `babic.dev` | No |
 | `babicz.social` | Yes |
 | `babka.social` | Yes |
+| `babsi.de` | No |
 | `babumenos.com` | No |
 | `babuu.club` | No |
 | `babuu.jp` | No |
@@ -4563,6 +4566,7 @@ Here's a list of public Fediverse services.
 | `besaid.de` | No |
 | `beschoner.net` | No |
 | `besci.network` | No |
+| `beseder.io` | No |
 | `besetzt.org` | No |
 | `beshir.org` | Yes |
 | `beshr.com` | No |
@@ -6606,6 +6610,7 @@ Here's a list of public Fediverse services.
 | `cantabria.social` | No |
 | `cantechnews.ca` | No |
 | `canti.space` | No |
+| `cantinhodoromeo.com.br` | Yes |
 | `cantonia.org` | Yes |
 | `cantor.cloud` | No |
 | `cantordust.social` | No |
@@ -10833,6 +10838,7 @@ Here's a list of public Fediverse services.
 | `digforfire.org` | No |
 | `diggingthedigital.com` | Yes |
 | `diggit.xyz` | No |
+| `digi.geek.nz` | Yes |
 | `digi.rodeo` | No |
 | `digibyte.social` | No |
 | `digic.cloud` | No |
@@ -11687,6 +11693,7 @@ Here's a list of public Fediverse services.
 | `drmandrewtoad.com` | No |
 | `drn1.com` | No |
 | `drnk.ca` | Yes |
+| `drobny.blog` | No |
 | `drobune.nl` | Yes |
 | `drohm.eu` | No |
 | `droidbuilders.uk` | No |
@@ -20570,6 +20577,7 @@ Here's a list of public Fediverse services.
 | `ir31.com` | Yes |
 | `ir5.eu` | No |
 | `iraqtimes.net` | No |
+| `irclocal.com` | Yes |
 | `ircta.lk` | Yes |
 | `irenala.edu.mg` | No |
 | `irgendlink.de` | No |
@@ -21458,6 +21466,7 @@ Here's a list of public Fediverse services.
 | `jidaar.net` | No |
 | `jidong.in` | Yes |
 | `jidoridon.com` | No |
+| `jiejinghe.co` | Yes |
 | `jieke.me` | Yes |
 | `jifish.co.uk` | No |
 | `jigawatt.io` | No |
@@ -22262,6 +22271,7 @@ Here's a list of public Fediverse services.
 | `kaleidos.net` | Yes |
 | `kalenalangford.com` | Yes |
 | `kali.lol` | Yes |
+| `kalico.moe` | Yes |
 | `kaliex.co` | No |
 | `kaliex.space` | No |
 | `kalik.in` | Yes |
@@ -29564,6 +29574,7 @@ Here's a list of public Fediverse services.
 | `mosso.co.uk` | No |
 | `mossou.com` | Yes |
 | `mossrc.me` | Yes |
+| `mosstodon.social` | Yes |
 | `mossy.page` | No |
 | `mossymaker.com` | No |
 | `mosteverywhere.com` | No |
@@ -40756,6 +40767,7 @@ Here's a list of public Fediverse services.
 | `silkyplover.org` | No |
 | `silliness.observer` | No |
 | `silly.business` | No |
+| `silly.land` | Yes |
 | `sillydragon.ca` | No |
 | `sillymo.de` | No |
 | `silsha.me` | No |
@@ -46146,6 +46158,7 @@ Here's a list of public Fediverse services.
 | `transliminal.space` | No |
 | `translunar.academy` | No |
 | `transmas.cyou` | No |
+| `transmissionspodcast.com` | No |
 | `transmit.love` | No |
 | `transmit.social` | No |
 | `transmitter.social` | No |
@@ -46190,6 +46203,7 @@ Here's a list of public Fediverse services.
 | `travel-dealz.de` | Yes |
 | `travel-friends.chat` | No |
 | `travel-japan.group` | No |
+| `travel.geek.nz` | Yes |
 | `travelink.de` | No |
 | `travelling-light.net` | No |
 | `travelodon.net` | No |
@@ -51365,6 +51379,7 @@ Here's a list of public Fediverse services.
 | `zu26.net` | No |
 | `zucchini.guru` | No |
 | `zucker.li` | No |
+| `zuckergeist-welt.de` | No |
 | `zuckless.network` | No |
 | `zuendmasse.de` | No |
 | `zuev.org` | No |
@@ -51454,8 +51469,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,579 |
-| Normal | 36,827 |
+| Cloudflare | 14,587 |
+| Normal | 36,834 |
 
 
 </details>
