@@ -11858,6 +11858,7 @@ Here's a list of public Fediverse services.
 | `dumb.place` | No |
 | `dumbdevelopers.com` | Yes |
 | `dumbfox.net` | Yes |
+| `dumbfuckingweb.site` | No |
 | `dumbgeon.gay` | No |
 | `dumbly.net` | No |
 | `dumbmeme.wtf` | No |
@@ -51475,7 +51476,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,588 |
-| Normal | 36,838 |
+| Normal | 36,839 |
 
 
 </details>
