@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,148 |
 | social | 4,712 |
 | net | 4,016 |
-| org | 2,683 |
+| org | 2,684 |
 | de | 2,544 |
 
 
@@ -1770,6 +1770,7 @@ Here's a list of public Fediverse services.
 | `alfazema.club` | No |
 | `alfebelow.com` | No |
 | `alfheim.ca` | No |
+| `alfheimr.xyz` | No |
 | `alfi.casa` | No |
 | `alfoeldi.social` | No |
 | `alfredbuehler.ch` | No |
@@ -12888,7 +12889,7 @@ Here's a list of public Fediverse services.
 | `entouragemag.net` | No |
 | `entraide-francophone.org` | No |
 | `entrebits.ga` | No |
-| `entreco.net` | No |
+| `entreco.net` | Yes |
 | `entrepreneurlibre.org` | No |
 | `entropy.fans` | No |
 | `entropy.fm` | No |
@@ -15304,6 +15305,7 @@ Here's a list of public Fediverse services.
 | `freeculturist.com` | No |
 | `freecumextremist.com` | No |
 | `freeddns.org` | Yes |
+| `freedica.org` | No |
 | `freediverse.com` | No |
 | `freedom.horse` | No |
 | `freedom.hr` | Yes |
@@ -27754,6 +27756,7 @@ Here's a list of public Fediverse services.
 | `mcewan.io` | No |
 | `mcflash99.de` | No |
 | `mcfood.org` | No |
+| `mcgarity.me` | No |
 | `mcgeo.xyz` | No |
 | `mcgrath.club` | No |
 | `mchel.net` | Yes |
@@ -36444,6 +36447,7 @@ Here's a list of public Fediverse services.
 | `pup.cloud` | No |
 | `pupbrained.xyz` | Yes |
 | `pupmaxx.com` | Yes |
+| `puppet.zone` | No |
 | `puppo.space` | No |
 | `puppy-social.xyz` | No |
 | `puppy.cafe` | No |
@@ -51469,8 +51473,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,587 |
-| Normal | 36,834 |
+| Cloudflare | 14,588 |
+| Normal | 36,837 |
 
 
 </details>
