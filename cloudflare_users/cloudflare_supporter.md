@@ -4202,6 +4202,7 @@ Do not create new issue or we will close it as duplicate.
 | [GabdlrD@twitter](https://twitter.com/GabdlrD/status/1632535721306120192) | advertise |
 | [gabes_hub@twitter](https://twitter.com/gabes_hub/status/1448032264940630023) | advertise |
 | [Gabonftx@twitter](https://twitter.com/Gabonftx/status/1513288879935492100) | advertise |
+| [Gabriel48624625@twitter](https://twitter.com/Gabriel48624625/status/1736236788270932008) | advertise |
 | [gabriel_rhee@twitter](https://twitter.com/gabriel_rhee/status/1467554077777489920) | advertise |
 | [gabutajahehe948@twitter](https://twitter.com/gabutajahehe948/status/1553049848601284608) | advertise |
 | [gad17@twitter](https://twitter.com/gad17/status/1386581003356065793) | advertise |
