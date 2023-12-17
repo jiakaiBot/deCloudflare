@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,145 |
+| com | 8,144 |
 | social | 4,711 |
 | net | 4,016 |
 | org | 2,683 |
@@ -2796,7 +2796,7 @@ Here's a list of public Fediverse services.
 | `arch-linux.cz` | Yes |
 | `archae.me` | No |
 | `archaeme.tech` | No |
-| `archaeo.social` | No |
+| `archaeo.social` | Yes |
 | `archaeology.social` | Yes |
 | `archandle.net` | No |
 | `archereon.link` | No |
@@ -22078,7 +22078,7 @@ Here's a list of public Fediverse services.
 | `jvpiter.net` | No |
 | `jvt.me` | No |
 | `jvyden.xyz` | Yes |
-| `jw.be` | No |
+| `jw.be` | Yes |
 | `jws.app` | Yes |
 | `jws.dev` | Yes |
 | `jws.news` | No |
@@ -33027,7 +33027,6 @@ Here's a list of public Fediverse services.
 | `oldcoder.org` | No |
 | `oldcrap.org` | No |
 | `oldf.uk` | No |
-| `oldfolksadventures.com` | No |
 | `oldfriends.live` | No |
 | `oldgraygamer.com` | Yes |
 | `oldinternet.net` | No |
@@ -51453,8 +51452,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,576 |
-| Normal | 36,829 |
+| Cloudflare | 14,578 |
+| Normal | 36,826 |
 
 
 </details>
