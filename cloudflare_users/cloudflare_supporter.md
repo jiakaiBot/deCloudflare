@@ -597,6 +597,7 @@ Do not create new issue or we will close it as duplicate.
 | [AjiPamu85328045@twitter](https://twitter.com/AjiPamu85328045/status/1553241874751959040) | advertise |
 | [Ajithku52523413@twitter](https://twitter.com/Ajithku52523413/status/1397545056177836034) | advertise |
 | [Ajmal57300251@twitter](https://twitter.com/Ajmal57300251/status/1643647534999404546) | advertise |
+| [ajmalam26882058@twitter](https://twitter.com/ajmalam26882058/status/1736477383774155017) | advertise |
 | [ajsb85@twitter](https://twitter.com/ajsb85/status/1681408537493159966) | advertise |
 | [AKAAD99@twitter](https://twitter.com/AKAAD99/status/1564399506875195392) | advertise |
 | [AKamble89377@twitter](https://twitter.com/AKamble89377/status/1718709113419657720) | advertise |
@@ -6170,6 +6171,7 @@ Do not create new issue or we will close it as duplicate.
 | [ji_004@twitter](https://twitter.com/ji_004/status/1402471443028320257) | advertise |
 | [JJ13329@twitter](https://twitter.com/JJ13329/status/1632759990237941767) | advertise |
 | [jjacobjamess@twitter](https://twitter.com/jjacobjamess/status/1388079841371688964) | advertise |
+| [jjam007@twitter](https://twitter.com/jjam007/status/1736467756957253725) | advertise |
 | [JJCEntrepreneur@twitter](https://twitter.com/JJCEntrepreneur/status/1585340977015042049) | advertise |
 | [jjcm_89@twitter](https://twitter.com/jjcm_89/status/1385139550780116995) | advertise |
 | [jjhpjsnjm@twitter](https://twitter.com/jjhpjsnjm/status/1552018320475299840) | advertise |
