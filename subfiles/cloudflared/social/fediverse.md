@@ -3239,7 +3239,7 @@ Here's a list of public Fediverse services.
 | `astaluk.icu` | No |
 | `astar.moe` | No |
 | `astarbia.com` | Yes |
-| `astatide.xyz` | No |
+| `astatide.xyz` | Yes |
 | `astatu.berlin` | No |
 | `astdn.tokyo` | No |
 | `asteinhaus.de` | No |
@@ -3698,6 +3698,7 @@ Here's a list of public Fediverse services.
 | `ayano.jp` | No |
 | `ayatovr.com` | No |
 | `ayatovr.dev` | Yes |
+| `ayatovr.jp` | No |
 | `ayco.io` | No |
 | `ayden.life` | Yes |
 | `ayeri.de` | No |
@@ -24701,6 +24702,7 @@ Here's a list of public Fediverse services.
 | `leporid.net` | No |
 | `lepouete.fr` | No |
 | `lepoulsdumonde.com` | Yes |
+| `leprette.fr` | No |
 | `lepsir.net` | No |
 | `lepton.work` | No |
 | `leptonics.com` | No |
@@ -36004,7 +36006,7 @@ Here's a list of public Fediverse services.
 | `praze.net` | No |
 | `prazeworks.uk` | No |
 | `prb1.es` | No |
-| `prdg.be` | No |
+| `prdg.be` | Yes |
 | `prealpinux.com` | No |
 | `preceptor.pl` | No |
 | `precious.net` | No |
@@ -38641,6 +38643,7 @@ Here's a list of public Fediverse services.
 | `rpgtable.top` | No |
 | `rpi-virtuell.de` | No |
 | `rpicloud.de` | No |
+| `rpigroup.it` | Yes |
 | `rpix.dk` | No |
 | `rplatonov.com` | Yes |
 | `rplatonov.ru` | No |
@@ -40762,6 +40765,7 @@ Here's a list of public Fediverse services.
 | `silent.stream` | No |
 | `silentfoof.rocks` | No |
 | `silentsilas.com` | No |
+| `silentsummit.co` | No |
 | `silex.me` | Yes |
 | `silicon-dragon.com` | No |
 | `silicon.moe` | Yes |
@@ -51483,8 +51487,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,590 |
-| Normal | 36,845 |
+| Cloudflare | 14,593 |
+| Normal | 36,846 |
 
 
 </details>
