@@ -7148,6 +7148,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoZin75830552@twitter](https://twitter.com/KoZin75830552/status/1392217360921108480) | advertise |
 | [ko_smileko@twitter](https://twitter.com/ko_smileko/status/1393753312239968259) | advertise |
 | [ko_swal@twitter](https://twitter.com/ko_swal/status/1558700094278762498) | advertise |
+| [KPapierowsky@twitter](https://twitter.com/KPapierowsky/status/1736181167773102173) | advertise |
 | [KPauksa@twitter](https://twitter.com/KPauksa/status/1377192007555162112) | advertise |
 | [KPavanvarshith@twitter](https://twitter.com/KPavanvarshith/status/1546156981677092870) | advertise |
 | [KpPhyo7@twitter](https://twitter.com/KpPhyo7/status/1523694614393540610) | advertise |
