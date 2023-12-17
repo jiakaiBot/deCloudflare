@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,150 |
+| com | 8,153 |
 | social | 4,713 |
 | net | 4,017 |
 | org | 2,684 |
@@ -3279,6 +3279,7 @@ Here's a list of public Fediverse services.
 | `astrolovy.com` | No |
 | `astrometrics.xyz` | No |
 | `astronavis.net` | No |
+| `astronomicus.ca` | No |
 | `astronomique.de` | No |
 | `astronomy.city` | No |
 | `astronomy.social` | No |
@@ -10475,6 +10476,7 @@ Here's a list of public Fediverse services.
 | `depth.li` | Yes |
 | `depucelage.xyz` | No |
 | `dequbed.space` | No |
+| `dequevolem.com` | No |
 | `dequis.org` | Yes |
 | `der-gedankenleser.info` | No |
 | `der-postillon.com` | No |
@@ -17836,6 +17838,7 @@ Here's a list of public Fediverse services.
 | `hackadon.space` | Yes |
 | `hackaroun.de` | Yes |
 | `hackbook.org` | No |
+| `hackdefendr.com` | Yes |
 | `hackdezorg.nl` | No |
 | `hackea.org` | No |
 | `hacked.af` | No |
@@ -25497,6 +25500,7 @@ Here's a list of public Fediverse services.
 | `logomancy.net` | No |
 | `logorrhea.online` | Yes |
 | `logoss.eu` | No |
+| `loguvone.com` | No |
 | `logzinga.com` | Yes |
 | `lohia.me` | Yes |
 | `lohn.in` | Yes |
@@ -29855,6 +29859,7 @@ Here's a list of public Fediverse services.
 | `mstdn.ar` | Yes |
 | `mstdn.art` | Yes |
 | `mstdn.at` | No |
+| `mstdn.bar` | Yes |
 | `mstdn.beer` | No |
 | `mstdn.biz` | No |
 | `mstdn.blue` | Yes |
@@ -51487,8 +51492,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,593 |
-| Normal | 36,846 |
+| Cloudflare | 14,595 |
+| Normal | 36,849 |
 
 
 </details>
