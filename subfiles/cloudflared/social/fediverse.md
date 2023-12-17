@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,149 |
-| social | 4,712 |
-| net | 4,016 |
+| com | 8,150 |
+| social | 4,713 |
+| net | 4,017 |
 | org | 2,684 |
-| de | 2,544 |
+| de | 2,545 |
 
 
 - Mastodon, Pleroma, etc
@@ -3506,6 +3506,7 @@ Here's a list of public Fediverse services.
 | `authren.systems` | No |
 | `autism.zone` | No |
 | `autisme.social` | No |
+| `autismus-behandlungen.de` | No |
 | `autisten.club` | No |
 | `autistic.blog` | No |
 | `autistic.id` | Yes |
@@ -12166,6 +12167,7 @@ Here's a list of public Fediverse services.
 | `echty.de` | No |
 | `echus.net` | Yes |
 | `ecitizen.my.id` | Yes |
+| `eckenfels.net` | No |
 | `eckerstar.com` | No |
 | `eclair-nightcord.net` | Yes |
 | `eclectic.gay` | No |
@@ -32971,6 +32973,7 @@ Here's a list of public Fediverse services.
 | `ohno.moe` | No |
 | `ohnoim.online` | No |
 | `ohnomy.rocks` | No |
+| `ohrj.social` | Yes |
 | `ohs.cx` | Yes |
 | `ohsan.cc` | Yes |
 | `ohsb.net` | Yes |
@@ -32999,6 +33002,7 @@ Here's a list of public Fediverse services.
 | `ok310.gq` | No |
 | `oka.no` | No |
 | `okadajp.org` | No |
+| `okakaservice.com` | Yes |
 | `okaminet.xyz` | No |
 | `okapi.website` | No |
 | `okaprog.com` | No |
@@ -45239,6 +45243,7 @@ Here's a list of public Fediverse services.
 | `thrailkill.cloud` | Yes |
 | `thrash.club` | No |
 | `thrashzone.org` | Yes |
+| `threadinburgh.scot` | No |
 | `threadintheweb.com` | No |
 | `threads.net` | No |
 | `threads.social` | No |
@@ -51478,8 +51483,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,588 |
-| Normal | 36,842 |
+| Cloudflare | 14,590 |
+| Normal | 36,845 |
 
 
 </details>
