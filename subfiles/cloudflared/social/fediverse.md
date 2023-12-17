@@ -22327,7 +22327,7 @@ Here's a list of public Fediverse services.
 | `kandr3s.co` | No |
 | `kane-il.us` | No |
 | `kaneproductions.co.uk` | No |
-| `kangaroo.to` | No |
+| `kangaroo.to` | Yes |
 | `kangaroopunch.com` | No |
 | `kangoulya.org` | No |
 | `kanhuji.eu` | No |
@@ -45227,6 +45227,7 @@ Here's a list of public Fediverse services.
 | `thoughtswordsaction.com` | No |
 | `thoughtworks.com` | Yes |
 | `thousand.rocks` | No |
+| `thp.moe` | No |
 | `thpd.io` | No |
 | `thps.tube` | No |
 | `thraeryn.net` | No |
@@ -47578,7 +47579,7 @@ Here's a list of public Fediverse services.
 | `usrlocal.net` | No |
 | `ussr.win` | No |
 | `usstock.love` | No |
-| `ussygussies.wtf` | Yes |
+| `ussygussies.wtf` | No |
 | `ustc.mba` | Yes |
 | `ustim.ru` | No |
 | `usual.biz` | No |
@@ -51474,7 +51475,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,588 |
-| Normal | 36,837 |
+| Normal | 36,838 |
 
 
 </details>
