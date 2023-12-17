@@ -8611,6 +8611,7 @@ Do not create new issue or we will close it as duplicate.
 | [MigabonRica@twitter](https://twitter.com/MigabonRica/status/1608663676646756352) | advertise |
 | [migratingstream@twitter](https://twitter.com/migratingstream/status/1393409904086425600) | advertise |
 | [Miguel96959725@twitter](https://twitter.com/Miguel96959725/status/1619363628637114368) | advertise |
+| [miguelsantiago7@twitter](https://twitter.com/miguelsantiago7/status/1736458618524819690) | advertise |
 | [MihariOyama@twitter](https://twitter.com/MihariOyama/status/1632736342043140096) | advertise |
 | [mikailbayat1252@twitter](https://twitter.com/mikailbayat1252/status/1492272535374680065) | advertise |
 | [MikasaMino@twitter](https://twitter.com/MikasaMino/status/1387209691172728832) | advertise |
