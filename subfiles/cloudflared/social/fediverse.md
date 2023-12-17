@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,144 |
+| com | 8,145 |
 | social | 4,711 |
 | net | 4,016 |
 | org | 2,683 |
@@ -33027,6 +33027,7 @@ Here's a list of public Fediverse services.
 | `oldcoder.org` | No |
 | `oldcrap.org` | No |
 | `oldf.uk` | No |
+| `oldfolksadventures.com` | No |
 | `oldfriends.live` | No |
 | `oldgraygamer.com` | Yes |
 | `oldinternet.net` | No |
@@ -45785,6 +45786,7 @@ Here's a list of public Fediverse services.
 | `toot.is` | Yes |
 | `toot.koeln` | Yes |
 | `toot.la` | Yes |
+| `toot.lat` | No |
 | `toot.lgbt` | Yes |
 | `toot.li` | No |
 | `toot.life` | No |
@@ -51452,7 +51454,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,576 |
-| Normal | 36,827 |
+| Normal | 36,829 |
 
 
 </details>
