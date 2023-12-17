@@ -17207,7 +17207,6 @@ Here's a list of public Fediverse services.
 | `gosocial.au` | Yes |
 | `gosocial.click` | No |
 | `gossler.family` | No |
-| `gostomski.co.uk` | No |
 | `gosuslugi.social` | Yes |
 | `got-tty.org` | No |
 | `gotanno.love` | No |
@@ -33027,6 +33026,7 @@ Here's a list of public Fediverse services.
 | `oldcoder.org` | No |
 | `oldcrap.org` | No |
 | `oldf.uk` | No |
+| `oldfolksadventures.com` | No |
 | `oldfriends.live` | No |
 | `oldgraygamer.com` | Yes |
 | `oldinternet.net` | No |
@@ -33930,7 +33930,6 @@ Here's a list of public Fediverse services.
 | `oyler.social` | No |
 | `oysta.au` | No |
 | `oyster.red` | Yes |
-| `oyundijital.com` | Yes |
 | `oz.hn` | No |
 | `ozar.dev` | No |
 | `ozbustard.social` | No |
@@ -51452,7 +51451,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,578 |
+| Cloudflare | 14,577 |
 | Normal | 36,826 |
 
 
