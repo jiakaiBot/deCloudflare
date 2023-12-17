@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,148 |
+| com | 8,149 |
 | social | 4,712 |
 | net | 4,016 |
 | org | 2,684 |
@@ -21607,6 +21607,7 @@ Here's a list of public Fediverse services.
 | `joaocosta.eu` | No |
 | `joaoleitao.org` | Yes |
 | `joat.me` | No |
+| `jobierre.fr` | No |
 | `jochen-tetzlaff.online` | No |
 | `jockstrap.futbol` | No |
 | `jodh.us` | No |
@@ -36448,6 +36449,7 @@ Here's a list of public Fediverse services.
 | `pup.cloud` | No |
 | `pupbrained.xyz` | Yes |
 | `pupmaxx.com` | Yes |
+| `puppet.town` | No |
 | `puppet.zone` | No |
 | `puppo.space` | No |
 | `puppy-social.xyz` | No |
@@ -37686,6 +37688,7 @@ Here's a list of public Fediverse services.
 | `reijmers.xyz` | No |
 | `reika-smapuri.com` | No |
 | `reil.de` | No |
+| `reilaos.com` | No |
 | `reima.rocks` | No |
 | `reimaginedgirl.com` | No |
 | `reimalab.art` | No |
@@ -51476,7 +51479,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,588 |
-| Normal | 36,839 |
+| Normal | 36,842 |
 
 
 </details>
