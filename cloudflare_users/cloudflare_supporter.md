@@ -690,6 +690,7 @@ Do not create new issue or we will close it as duplicate.
 | [alexchenfeng@twitter](https://twitter.com/alexchenfeng/status/1465564402854207493) | advertise |
 | [alexdolbun@twitter](https://twitter.com/alexdolbun/status/1410279652116029443) | moral (advertise) |
 | [AlexHeaks@twitter](https://twitter.com/AlexHeaks/status/1666682473361838086) | advertise |
+| [alexis_syn15003@twitter](https://twitter.com/alexis_syn15003/status/1736528295951282468) | advertise |
 | [alexla2809@twitter](https://twitter.com/alexla2809/status/1561246966990123008) | advertise |
 | [alexleungch@twitter](https://twitter.com/alexleungch/status/1500726449497460738) | advertise |
 | [AlexNik14448676@twitter](https://twitter.com/AlexNik14448676/status/1404016449262284806) | advertise |
