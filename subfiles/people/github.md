@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CAN ANY BODY FIX THIS ISSUE](https://github.com/upstox/upstox-python/issues/59)
 - [NextCloud not recognising SSL Certificate](https://github.com/truenas/charts/issues/1902)
 - [No content displayed when enabling this extension.](https://github.com/FriendsOfFlarum/byobu/issues/193)
 - [Clicking profile, sometimes show unkown error](https://github.com/dessalines/jerboa/issues/1297)
