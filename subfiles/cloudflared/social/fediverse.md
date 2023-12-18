@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,159 |
 | social | 4,715 |
-| net | 4,017 |
+| net | 4,018 |
 | org | 2,684 |
 | de | 2,545 |
 
@@ -24421,6 +24421,7 @@ Here's a list of public Fediverse services.
 | `least.cool` | No |
 | `leastfixedpoint.com` | No |
 | `leatherdyk.es` | No |
+| `leatherpenguin.net` | Yes |
 | `leathfam.com` | Yes |
 | `leavesunderfoot.com` | Yes |
 | `leavingorbit.de` | No |
@@ -30788,7 +30789,7 @@ Here's a list of public Fediverse services.
 | `natehn.com` | No |
 | `natehub.com` | Yes |
 | `nateledford.com` | Yes |
-| `nateshivar.com` | No |
+| `nateshivar.com` | Yes |
 | `natestodon.social` | No |
 | `nathalie.social` | Yes |
 | `nathan.fun` | No |
@@ -51508,8 +51509,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,595 |
-| Normal | 36,865 |
+| Cloudflare | 14,597 |
+| Normal | 36,864 |
 
 
 </details>
