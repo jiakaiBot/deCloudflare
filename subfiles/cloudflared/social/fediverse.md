@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,159 |
+| com | 8,160 |
 | social | 4,716 |
 | net | 4,018 |
 | org | 2,685 |
-| de | 2,545 |
+| de | 2,546 |
 
 
 - Mastodon, Pleroma, etc
@@ -17891,6 +17891,7 @@ Here's a list of public Fediverse services.
 | `hacking.dk` | No |
 | `hackingand.coffee` | Yes |
 | `hackinglordsutch.co` | No |
+| `hackistliebe.de` | No |
 | `hackjob.solutions` | No |
 | `hacklab.science` | No |
 | `hackliberty.org` | No |
@@ -25911,6 +25912,7 @@ Here's a list of public Fediverse services.
 | `lugonials.social` | No |
 | `lugoweb.es` | No |
 | `luhrck.com` | Yes |
+| `luisito.me` | Yes |
 | `luizpicolo.com.br` | Yes |
 | `lukacern.cz` | No |
 | `lukaprincic.si` | No |
@@ -43644,6 +43646,7 @@ Here's a list of public Fediverse services.
 | `tacostea.net` | No |
 | `tacowolf.net` | Yes |
 | `tactcheck.com` | No |
+| `tacticalpedia.com` | Yes |
 | `tacticaltech.org` | No |
 | `tactiletimes.org` | Yes |
 | `tacty.social` | Yes |
@@ -51514,8 +51517,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,598 |
-| Normal | 36,868 |
+| Cloudflare | 14,600 |
+| Normal | 36,869 |
 
 
 </details>
