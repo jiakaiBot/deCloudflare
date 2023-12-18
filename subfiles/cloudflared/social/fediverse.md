@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,159 |
 | social | 4,716 |
 | net | 4,018 |
-| org | 2,684 |
+| org | 2,685 |
 | de | 2,545 |
 
 
@@ -1399,6 +1399,7 @@ Here's a list of public Fediverse services.
 | `agdersam.no` | No |
 | `aggregation.cafe` | No |
 | `aggronaut.com` | No |
+| `aghd.org` | No |
 | `agilealliance.social` | No |
 | `agilemind.blog` | No |
 | `agilereaction.com` | Yes |
@@ -13657,6 +13658,7 @@ Here's a list of public Fediverse services.
 | `fakesteve.net` | No |
 | `fakru.ch` | No |
 | `fal.moe` | Yes |
+| `falafel.blog` | No |
 | `falafel.win` | No |
 | `falai.se` | No |
 | `falconia.club` | No |
@@ -27873,6 +27875,7 @@ Here's a list of public Fediverse services.
 | `med-mastodon.com` | No |
 | `med-mstdn.com` | No |
 | `mede.family` | Yes |
+| `mederland.nl` | No |
 | `medi-nerd.com` | No |
 | `media-techport.de` | No |
 | `media-trust.com` | No |
@@ -41416,6 +41419,7 @@ Here's a list of public Fediverse services.
 | `snare.cc` | No |
 | `snarfed.org` | No |
 | `snargol.com` | No |
+| `snark.center` | No |
 | `snark.fail` | No |
 | `snarky.club` | No |
 | `snarl.de` | No |
@@ -51511,7 +51515,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,598 |
-| Normal | 36,864 |
+| Normal | 36,868 |
 
 
 </details>
