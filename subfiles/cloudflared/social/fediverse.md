@@ -3235,6 +3235,7 @@ Here's a list of public Fediverse services.
 | `asstodon.social` | No |
 | `assumptioncollege.edu` | No |
 | `ast.my` | No |
+| `asta.lgbt` | Yes |
 | `astaluk.com` | No |
 | `astaluk.icu` | No |
 | `astar.moe` | No |
@@ -51494,7 +51495,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,590 |
+| Cloudflare | 14,591 |
 | Normal | 36,856 |
 
 
