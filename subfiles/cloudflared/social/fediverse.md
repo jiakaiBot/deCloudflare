@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,157 |
+| com | 8,158 |
 | social | 4,715 |
 | net | 4,017 |
 | org | 2,684 |
@@ -5791,6 +5791,7 @@ Here's a list of public Fediverse services.
 | `brainworms.io` | Yes |
 | `braithwaite.dev` | Yes |
 | `brakebill.me` | No |
+| `brakmakern.no` | No |
 | `bram.dev` | No |
 | `bramble.me` | Yes |
 | `bramblepc.net` | No |
@@ -22859,6 +22860,7 @@ Here's a list of public Fediverse services.
 | `khorneflak.es` | Yes |
 | `khpape.blog` | No |
 | `khromatic-myst.com` | No |
+| `khronos-rain.com` | No |
 | `khronosk.xyz` | Yes |
 | `khscc.jp` | Yes |
 | `khsmty.com` | Yes |
@@ -34279,6 +34281,7 @@ Here's a list of public Fediverse services.
 | `partecipa.digital` | No |
 | `parti-science.africa` | No |
 | `partiarazem.pl` | Yes |
+| `particle.lol` | No |
 | `partidopirata.com.ar` | No |
 | `partipirate.org` | No |
 | `partizle.com` | Yes |
@@ -51505,7 +51508,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,595 |
-| Normal | 36,861 |
+| Normal | 36,864 |
 
 
 </details>
