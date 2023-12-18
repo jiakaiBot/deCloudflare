@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-12-18: [Zaraz issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tpw24gx9f6d6)
 - 2023-12-17: [Certificate Transparency Log](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ql4bl3qjv9r8)
 - 2023-12-15: [Increased rates of HTTP 5xx errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/z07jsxj4vvzv)
 - 2023-12-15: [Network connectivity issues in APAC region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/j7y262d3166q)
