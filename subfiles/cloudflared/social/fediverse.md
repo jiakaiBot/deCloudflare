@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,158 |
+| com | 8,159 |
 | social | 4,715 |
 | net | 4,017 |
 | org | 2,684 |
@@ -38159,6 +38159,7 @@ Here's a list of public Fediverse services.
 | `rikmeijer.nl` | No |
 | `rikozone.net` | No |
 | `riku1227.social` | No |
+| `rikukimura.com` | No |
 | `rikunagiweb.jp` | Yes |
 | `rikvoj.tech` | No |
 | `rikwithnoc.com` | Yes |
@@ -51508,7 +51509,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,595 |
-| Normal | 36,864 |
+| Normal | 36,865 |
 
 
 </details>
