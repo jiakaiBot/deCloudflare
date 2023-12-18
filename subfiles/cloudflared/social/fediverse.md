@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,155 |
-| social | 4,713 |
+| com | 8,157 |
+| social | 4,715 |
 | net | 4,017 |
 | org | 2,684 |
 | de | 2,545 |
@@ -1022,6 +1022,7 @@ Here's a list of public Fediverse services.
 | `abyss.fun` | Yes |
 | `abyss.moe` | Yes |
 | `abyss.observer` | No |
+| `abyssal.ninja` | No |
 | `abyssdomain.expert` | No |
 | `abyssfriend.club` | No |
 | `abyx.tech` | No |
@@ -1224,6 +1225,7 @@ Here's a list of public Fediverse services.
 | `adinfinitum.social` | No |
 | `adiquaints.moe` | No |
 | `adistance.tk` | No |
+| `adit.casa` | No |
 | `adju.st` | Yes |
 | `adjutor.xyz` | No |
 | `adkins.coffee` | Yes |
@@ -17508,7 +17510,7 @@ Here's a list of public Fediverse services.
 | `grimace.life` | No |
 | `grimbrook.community` | No |
 | `grimerica.ca` | No |
-| `grimhe.art` | Yes |
+| `grimhe.art` | No |
 | `grimkroton.de` | No |
 | `grimm.link` | No |
 | `grimm.systems` | No |
@@ -18474,6 +18476,7 @@ Here's a list of public Fediverse services.
 | `hellions.cloud` | Yes |
 | `hellmage.com` | No |
 | `hello-project.org` | No |
+| `hellofriend.social` | No |
 | `hellohihi.net` | No |
 | `hellomasto.com` | No |
 | `hellomasto.pl` | No |
@@ -24993,6 +24996,7 @@ Here's a list of public Fediverse services.
 | `libresilicon.com` | No |
 | `libresolutions.network` | No |
 | `librespeak.net` | No |
+| `libretechni.ca` | No |
 | `libreti.net` | No |
 | `libretic.fr` | No |
 | `libretooth.gr` | No |
@@ -34652,6 +34656,7 @@ Here's a list of public Fediverse services.
 | `pepemoss.com` | No |
 | `pepepper.cf` | Yes |
 | `pepepper.net` | Yes |
+| `pepophilia.com` | Yes |
 | `peppers.social` | No |
 | `pepple.us` | No |
 | `peppyfish.com` | Yes |
@@ -44779,6 +44784,7 @@ Here's a list of public Fediverse services.
 | `thehonestdev.com` | Yes |
 | `thehub.su` | No |
 | `thehugoawards.org` | No |
+| `thehyperwave.social` | No |
 | `theiceshelf.com` | No |
 | `theicon.stream` | No |
 | `theidlestate.com` | Yes |
@@ -48161,6 +48167,7 @@ Here's a list of public Fediverse services.
 | `vilcor.org` | No |
 | `vile.zone` | No |
 | `vilette.gay` | Yes |
+| `villa-oita-pikapika.com` | Yes |
 | `villa-straylight.social` | Yes |
 | `villacraft.fr` | Yes |
 | `village.icu` | No |
@@ -51497,8 +51504,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,594 |
-| Normal | 36,855 |
+| Cloudflare | 14,595 |
+| Normal | 36,861 |
 
 
 </details>
