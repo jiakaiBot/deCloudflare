@@ -11468,6 +11468,7 @@ Here's a list of public Fediverse services.
 | `doshi.re` | No |
 | `doshidon.com` | No |
 | `doskel.net` | No |
+| `dostoevsky.work` | Yes |
 | `dostoevsskey.com` | Yes |
 | `dosuto.net` | Yes |
 | `dot.or.at` | No |
@@ -51495,7 +51496,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,591 |
+| Cloudflare | 14,592 |
 | Normal | 36,856 |
 
 
