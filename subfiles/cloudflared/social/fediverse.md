@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,159 |
-| social | 4,715 |
+| social | 4,716 |
 | net | 4,018 |
 | org | 2,684 |
 | de | 2,545 |
@@ -14626,6 +14626,7 @@ Here's a list of public Fediverse services.
 | `fireplace.cafe` | No |
 | `fireplace.social` | No |
 | `firescry.com` | Yes |
+| `fireshark.social` | No |
 | `firesidechat.ca` | Yes |
 | `firetribe.org` | No |
 | `fireturtle.net` | No |
@@ -19131,7 +19132,7 @@ Here's a list of public Fediverse services.
 | `hookii.space` | No |
 | `hoops.chat` | No |
 | `hooray.computer` | No |
-| `hoosier.social` | No |
+| `hoosier.social` | Yes |
 | `hoot-n-tea.art` | No |
 | `hoot.pw` | Yes |
 | `hoot.town` | Yes |
@@ -51509,7 +51510,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,597 |
+| Cloudflare | 14,598 |
 | Normal | 36,864 |
 
 
