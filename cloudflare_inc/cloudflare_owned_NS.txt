@@ -643,6 +643,7 @@ nero.ns.cloudflare.com
 newt.ns.cloudflare.com
 nia.ns.cloudflare.com
 nick.ns.cloudflare.com
+nick.ns.cloudflare.commonroe.ns.cloudflare.com
 nico.ns.cloudflare.com
 nicolas.ns.cloudflare.com
 nicole.ns.cloudflare.com
