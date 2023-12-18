@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,160 |
+| com | 8,159 |
 | social | 4,716 |
-| net | 4,018 |
+| net | 4,019 |
 | org | 2,685 |
-| de | 2,546 |
+| de | 2,547 |
 
 
 - Mastodon, Pleroma, etc
@@ -3703,7 +3703,6 @@ Here's a list of public Fediverse services.
 | `ayano.jp` | No |
 | `ayatovr.com` | No |
 | `ayatovr.dev` | Yes |
-| `ayatovr.jp` | No |
 | `ayco.io` | No |
 | `ayden.life` | Yes |
 | `ayeri.de` | No |
@@ -13963,6 +13962,7 @@ Here's a list of public Fediverse services.
 | `federation.quest` | No |
 | `federation.red` | Yes |
 | `federation.stream` | No |
+| `federator.de` | No |
 | `federicoigne.com` | No |
 | `federotica.com` | No |
 | `fedgram.com` | Yes |
@@ -25478,6 +25478,7 @@ Here's a list of public Fediverse services.
 | `locksport.space` | No |
 | `loclx.io` | No |
 | `locrealloc.de` | No |
+| `locrian.zone` | No |
 | `loctobrerie.fr` | No |
 | `lode.social` | Yes |
 | `lodis.se` | No |
@@ -27985,6 +27986,7 @@ Here's a list of public Fediverse services.
 | `meinbergglobal.com` | No |
 | `meinderink.org` | No |
 | `meinert.life` | No |
+| `meinl.space` | No |
 | `meinmuenster.land` | No |
 | `meinrheinma.in` | No |
 | `meinserver.co` | No |
@@ -33027,7 +33029,6 @@ Here's a list of public Fediverse services.
 | `ok310.gq` | No |
 | `oka.no` | No |
 | `okadajp.org` | No |
-| `okakaservice.com` | Yes |
 | `okaminet.xyz` | No |
 | `okapi.website` | No |
 | `okaprog.com` | No |
@@ -33160,6 +33161,7 @@ Here's a list of public Fediverse services.
 | `omgbbq.party` | No |
 | `omgbe.es` | No |
 | `omglol.fun` | Yes |
+| `omgtldr.net` | No |
 | `omgubuntu.co.uk` | No |
 | `omgwars.com` | No |
 | `omgwtfbbq1337.de` | No |
@@ -50384,7 +50386,6 @@ Here's a list of public Fediverse services.
 | `xtk.es` | No |
 | `xtom.social` | Yes |
 | `xtra.nu` | Yes |
-| `xtrap.app` | Yes |
 | `xtremely.online` | No |
 | `xttech.top` | Yes |
 | `xtux.org` | No |
@@ -51517,8 +51518,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,600 |
-| Normal | 36,869 |
+| Cloudflare | 14,598 |
+| Normal | 36,872 |
 
 
 </details>
