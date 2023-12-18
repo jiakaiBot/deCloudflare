@@ -1071,7 +1071,7 @@ Here's a list of public Fediverse services.
 | `acegiak.net` | No |
 | `aceinpink.social` | No |
 | `aceinteract.social` | No |
-| `acerbo.me` | No |
+| `acerbo.me` | Yes |
 | `acespace.social` | No |
 | `acewebservices.co.uk` | No |
 | `acfus.co` | No |
@@ -23807,6 +23807,7 @@ Here's a list of public Fediverse services.
 | `kurotoshi-cat.me` | No |
 | `kurry.social` | Yes |
 | `kursors.social` | No |
+| `kuru.si` | Yes |
 | `kurumah.dev` | Yes |
 | `kurume-nct.com` | Yes |
 | `kurup.org` | Yes |
@@ -51496,8 +51497,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,592 |
-| Normal | 36,856 |
+| Cloudflare | 14,594 |
+| Normal | 36,855 |
 
 
 </details>
