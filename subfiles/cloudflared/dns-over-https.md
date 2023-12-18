@@ -149,7 +149,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | paesa.es | Yes |
 | pathofgrace.com | No |
 | persiannit.net | Yes |
-| qis.io | Yes |
 | qquack.org | Yes |
 | quad9.net | Yes |
 | qwer.pw | Yes |
@@ -206,8 +205,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 90 |
+| Cloudflare | 89 |
 | Normal | 97 |
 
 
-### 48.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
