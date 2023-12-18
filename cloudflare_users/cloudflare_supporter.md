@@ -7703,6 +7703,7 @@ Do not create new issue or we will close it as duplicate.
 | [linthetpaingltp@twitter](https://twitter.com/linthetpaingltp/status/1390244063987830784) | advertise |
 | [linthitmyowin@twitter](https://twitter.com/linthitmyowin/status/1395258884621668354) | advertise |
 | [LinThu30135420@twitter](https://twitter.com/LinThu30135420/status/1552655372779155456) | advertise |
+| [LinusHornDev@twitter](https://twitter.com/LinusHornDev/status/1736747154218041383) | advertise |
 | [Linya60353656@twitter](https://twitter.com/Linya60353656/status/1643185104918036480) | advertise |
 | [LinzeeFaith@twitter](https://twitter.com/LinzeeFaith/status/1581749163620200449) | advertise |
 | [Lin_Jaiant@twitter](https://twitter.com/Lin_Jaiant/status/1377974149759475712) | advertise |
