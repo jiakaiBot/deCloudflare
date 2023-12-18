@@ -16238,6 +16238,7 @@ Here's a list of public Fediverse services.
 | `garri.us` | No |
 | `garriguv.io` | No |
 | `garrison.beer` | No |
+| `garrison.su` | No |
 | `garrlab.it` | No |
 | `garro.moe` | No |
 | `garrya.moe` | No |
@@ -21286,6 +21287,7 @@ Here's a list of public Fediverse services.
 | `jcs-net.de` | No |
 | `jcs.org` | No |
 | `jcsh.eu` | No |
+| `jcx.nu` | No |
 | `jcx.se` | No |
 | `jczmz.com` | Yes |
 | `jdbsoft.com` | No |
@@ -26683,6 +26685,7 @@ Here's a list of public Fediverse services.
 | `marcgoertz.de` | No |
 | `march42.net` | No |
 | `marcha.me` | No |
+| `marchal.dev` | No |
 | `marchbox.com` | No |
 | `marchera-pas.fr` | No |
 | `marches.social` | No |
@@ -51519,7 +51522,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,598 |
-| Normal | 36,872 |
+| Normal | 36,875 |
 
 
 </details>
