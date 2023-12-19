@@ -13567,6 +13567,7 @@ Here's a list of public Fediverse services.
 | `fabertech.nl` | No |
 | `fabi.lgbt` | No |
 | `fabianstadler.com` | Yes |
+| `fabianvillena.cl` | Yes |
 | `fabien-berini.fr` | No |
 | `fabienphoto.eu` | No |
 | `fabiomanganiello.com` | No |
@@ -18233,6 +18234,7 @@ Here's a list of public Fediverse services.
 | `hashem.social` | No |
 | `hashi.icu` | Yes |
 | `hashi.sbs` | Yes |
+| `hashtag.place` | No |
 | `hashtagueule.fr` | Yes |
 | `hashy-net.de` | No |
 | `haskell.social` | Yes |
@@ -19163,6 +19165,7 @@ Here's a list of public Fediverse services.
 | `hopefullyread.com` | No |
 | `hopeinthefield.net` | Yes |
 | `hopeph.com` | Yes |
+| `hopfenshop.ch` | No |
 | `hopman.nl` | No |
 | `hopmann.xyz` | No |
 | `hoppclan.com` | No |
@@ -38904,7 +38907,7 @@ Here's a list of public Fediverse services.
 | `ruthenic.com` | Yes |
 | `rutile.red` | No |
 | `rutland.org.uk` | No |
-| `ruud.je` | No |
+| `ruud.je` | Yes |
 | `ruud.social` | No |
 | `ruxnor.net` | Yes |
 | `ruz.social` | No |
@@ -50488,6 +50491,7 @@ Here's a list of public Fediverse services.
 | `yaat.org` | Yes |
 | `yabtm.us` | No |
 | `yaddayaddayadda.xyz` | No |
+| `yae.gay` | Yes |
 | `yae.lol` | No |
 | `yaeghs.net` | No |
 | `yael.fun` | No |
@@ -51281,6 +51285,7 @@ Here's a list of public Fediverse services.
 | `zhoushen929.com` | Yes |
 | `zhub.link` | No |
 | `zhukov.al` | No |
+| `zhumeng.win` | No |
 | `zhuravel.bz` | Yes |
 | `zhy.site` | No |
 | `zhz.moe` | Yes |
@@ -51554,8 +51559,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,613 |
-| Normal | 36,893 |
+| Cloudflare | 14,616 |
+| Normal | 36,895 |
 
 
 </details>
