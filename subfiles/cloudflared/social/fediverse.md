@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,164 |
 | social | 4,716 |
 | net | 4,019 |
-| org | 2,685 |
+| org | 2,686 |
 | de | 2,547 |
 
 
@@ -2650,7 +2650,7 @@ Here's a list of public Fediverse services.
 | `apa50.online` | No |
 | `apaphoto.social` | No |
 | `apartmenttherapy.com` | Yes |
-| `apathy.top` | No |
+| `apathy.top` | Yes |
 | `apathy.tv` | No |
 | `apb.me` | Yes |
 | `apc.si` | No |
@@ -23133,6 +23133,7 @@ Here's a list of public Fediverse services.
 | `kittinterns.org` | No |
 | `kittmedia.com` | No |
 | `kitty.church` | No |
+| `kitty.community` | No |
 | `kitty.haus` | No |
 | `kitty.observer` | No |
 | `kitty.photos` | No |
@@ -24625,6 +24626,7 @@ Here's a list of public Fediverse services.
 | `lemmy.ninja` | No |
 | `lemmy.nz` | Yes |
 | `lemmy.one` | Yes |
+| `lemmy.org` | Yes |
 | `lemmy.org.il` | No |
 | `lemmy.org.uk` | No |
 | `lemmy.pro` | No |
@@ -29280,7 +29282,7 @@ Here's a list of public Fediverse services.
 | `mog.blue` | Yes |
 | `mog.gg` | Yes |
 | `mogeko.moe` | No |
-| `mogeko.monster` | No |
+| `mogeko.monster` | Yes |
 | `mogenius.io` | Yes |
 | `moggy.xyz` | No |
 | `mogle.social` | No |
@@ -33984,6 +33986,7 @@ Here's a list of public Fediverse services.
 | `oyasai-jct.net` | No |
 | `oyashirosama.cf` | No |
 | `oyashirosama.tk` | No |
+| `oyasumi.dev` | Yes |
 | `oyasumi.moe` | No |
 | `oyasumi.ski` | Yes |
 | `oyasumi.space` | No |
@@ -51536,8 +51539,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,604 |
-| Normal | 36,884 |
+| Cloudflare | 14,608 |
+| Normal | 36,883 |
 
 
 </details>
