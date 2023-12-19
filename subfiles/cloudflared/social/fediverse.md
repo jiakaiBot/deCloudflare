@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,165 |
+| com | 8,168 |
 | social | 4,716 |
 | net | 4,022 |
 | org | 2,686 |
-| de | 2,547 |
+| de | 2,548 |
 
 
 - Mastodon, Pleroma, etc
@@ -22777,6 +22777,7 @@ Here's a list of public Fediverse services.
 | `kessoku.club` | Yes |
 | `kestrelsnest.social` | No |
 | `kesuek.de` | No |
+| `ketanvijayvargiya.com` | Yes |
 | `ketchupma.io` | No |
 | `ketenburhan.me` | No |
 | `ketr.am` | No |
@@ -29040,6 +29041,7 @@ Here's a list of public Fediverse services.
 | `miyon.org` | Yes |
 | `miyon.pw` | No |
 | `miyukey.club` | Yes |
+| `miyukey.com` | Yes |
 | `mizah.xyz` | No |
 | `mizky.jp` | Yes |
 | `mizo.one` | No |
@@ -30276,6 +30278,7 @@ Here's a list of public Fediverse services.
 | `mv-software.de` | No |
 | `mv2k.com` | No |
 | `mvalente.eu` | No |
+| `mvanmartijn.eu` | No |
 | `mvh.dev` | Yes |
 | `mvion.fr` | No |
 | `mvolfik.com` | Yes |
@@ -34102,6 +34105,7 @@ Here's a list of public Fediverse services.
 | `pagansocial.net` | No |
 | `page.lgbt` | Yes |
 | `pagekite.me` | No |
+| `pagenstedt.de` | No |
 | `pageofwords.com` | Yes |
 | `pages.dev` | Yes |
 | `pagez.co.uk` | No |
@@ -35965,6 +35969,7 @@ Here's a list of public Fediverse services.
 | `pottbayer.de` | No |
 | `potwatcher.ca` | No |
 | `potzdorf.cc` | Yes |
+| `pouchi.ca` | No |
 | `pouet.ca` | No |
 | `pouet.it` | No |
 | `pouet.me` | No |
@@ -49441,6 +49446,7 @@ Here's a list of public Fediverse services.
 | `winblad.io` | Yes |
 | `winchester.social` | Yes |
 | `windbag.org` | Yes |
+| `windchilde.com` | No |
 | `windevsystems.us` | Yes |
 | `windfluechter.org` | No |
 | `windhamcountyvt.gov` | No |
@@ -51543,8 +51549,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,609 |
-| Normal | 36,886 |
+| Cloudflare | 14,611 |
+| Normal | 36,890 |
 
 
 </details>
