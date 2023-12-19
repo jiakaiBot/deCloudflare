@@ -142,6 +142,7 @@ Do not create new issue or we will close it as duplicate.
 | [11BoizChungTinh@twitter](https://twitter.com/11BoizChungTinh/status/1401051583647911936) | advertise |
 | [11Thanh12@twitter](https://twitter.com/11Thanh12/status/1399774221035655168) | advertise |
 | [11Title@twitter](https://twitter.com/11Title/status/1609502512603881472) | advertise |
+| [13hNQCTeneYBr2C@twitter](https://twitter.com/13hNQCTeneYBr2C/status/1737175273723080910) | advertise |
 | [15lminhhiu1@twitter](https://twitter.com/15lminhhiu1/status/1558690009258962945) | advertise |
 | [16thxxxxx@twitter](https://twitter.com/16thxxxxx/status/1517814105855475712) | advertise |
 | [16_kyaw@twitter](https://twitter.com/16_kyaw/status/1393511123639439365) | advertise |
@@ -11106,6 +11107,7 @@ Do not create new issue or we will close it as duplicate.
 | [Princexnxxx@twitter](https://twitter.com/Princexnxxx/status/1566399587056726016) | advertise |
 | [Prince_Simoney@twitter](https://twitter.com/Prince_Simoney/status/1602629814032244738) | advertise |
 | [prinz_frost@twitter](https://twitter.com/prinz_frost/status/1565284943659290631) | advertise |
+| [prite69894@twitter](https://twitter.com/prite69894/status/1737182660592873944) | advertise |
 | [privacydied@twitter](https://twitter.com/privacydied/status/1716022908382859437) | advertise |
 | [PrivateCityX@twitter](https://twitter.com/PrivateCityX/status/1569929036847280129) | advertise |
 | [privatedatesvip@twitter](https://twitter.com/privatedatesvip/status/1431480497364946944) | advertise |
@@ -11839,6 +11841,7 @@ Do not create new issue or we will close it as duplicate.
 | [RussDionne@twitter](https://twitter.com/RussDionne/status/1660107935513731072) | advertise |
 | [ruteesh2@twitter](https://twitter.com/ruteesh2/status/1387396067554205699) | advertise |
 | [RuthAbrham2@twitter](https://twitter.com/RuthAbrham2/status/1660299561930293248) | advertise |
+| [rwglywny187251@twitter](https://twitter.com/rwglywny187251/status/1737182549569380861) | advertise |
 | [Rxchannel123@twitter](https://twitter.com/Rxchannel123/status/1597292640524902400) | advertise |
 | [Ryan2011Angela@twitter](https://twitter.com/Ryan2011Angela/status/1665874397540786177) | advertise |
 | [ryan171197@twitter](https://twitter.com/ryan171197/status/1396728837900099589) | advertise |
