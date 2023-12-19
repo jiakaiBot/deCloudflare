@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,168 |
+| com | 8,169 |
 | social | 4,716 |
 | net | 4,021 |
 | org | 2,686 |
-| de | 2,548 |
+| de | 2,549 |
 
 
 - Mastodon, Pleroma, etc
@@ -8263,7 +8263,6 @@ Here's a list of public Fediverse services.
 | `comacero.com` | No |
 | `comal.app` | Yes |
 | `comam.es` | No |
-| `comame.xyz` | Yes |
 | `combatbahai.com` | No |
 | `combinehonnete.com` | No |
 | `combiner.team` | No |
@@ -9321,6 +9320,7 @@ Here's a list of public Fediverse services.
 | `cwilson.blog` | No |
 | `cwinfo.org` | No |
 | `cwiwie.org` | Yes |
+| `cwoehrl.de` | No |
 | `cwopa.lol` | No |
 | `cwow.ml` | Yes |
 | `cwren.net` | No |
@@ -13061,6 +13061,7 @@ Here's a list of public Fediverse services.
 | `ericwbailey.website` | No |
 | `eridi.us` | No |
 | `erik365.blog` | No |
+| `erikinkinen.fi` | No |
 | `erikkemp.eu` | No |
 | `erikxxon.se` | No |
 | `erin.lgbt` | No |
@@ -30365,6 +30366,7 @@ Here's a list of public Fediverse services.
 | `mydns.jp` | Yes |
 | `myds.me` | No |
 | `myepicserver.de` | Yes |
+| `myeu.cloud` | Yes |
 | `myexp.de` | Yes |
 | `myf.one` | Yes |
 | `myfake.website` | Yes |
@@ -31195,6 +31197,7 @@ Here's a list of public Fediverse services.
 | `nerde.pw` | No |
 | `nerderium.com` | No |
 | `nerderypublic.com` | Yes |
+| `nerdexperience.it` | No |
 | `nerdfest.nl` | No |
 | `nerdfight.online` | Yes |
 | `nerdfoo.dev` | No |
@@ -35421,6 +35424,7 @@ Here's a list of public Fediverse services.
 | `plaxon.social` | Yes |
 | `play-my.video` | No |
 | `playadust.social` | No |
+| `playcomics.com` | No |
 | `playexperience.org` | No |
 | `playgames.jp` | No |
 | `playground.ws` | No |
@@ -37413,7 +37417,7 @@ Here's a list of public Fediverse services.
 | `ravergram.club` | No |
 | `ravetracer.photography` | No |
 | `raviteja.computer` | Yes |
-| `ravoque.com.br` | No |
+| `ravoque.com.br` | Yes |
 | `rawa.io` | No |
 | `rawe.nl` | No |
 | `rawkode.com` | Yes |
@@ -51550,8 +51554,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,612 |
-| Normal | 36,890 |
+| Cloudflare | 14,613 |
+| Normal | 36,893 |
 
 
 </details>
