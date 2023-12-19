@@ -7367,6 +7367,7 @@ Here's a list of public Fediverse services.
 | `chikai.network` | No |
 | `chikichiki.tube` | Yes |
 | `chikorita157.com` | No |
+| `childlabor.company` | Yes |
 | `childlove.space` | No |
 | `childlove.su` | No |
 | `childpawn.shop` | No |
@@ -38588,7 +38589,7 @@ Here's a list of public Fediverse services.
 | `rosafamily.social` | Yes |
 | `rosafluffmoln.nu` | No |
 | `rosaline.systems` | No |
-| `rosania.org` | No |
+| `rosania.org` | Yes |
 | `rosano.ca` | Yes |
 | `rosariotech.com.br` | No |
 | `rosaryfaith.com` | No |
@@ -51523,8 +51524,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,597 |
-| Normal | 36,878 |
+| Cloudflare | 14,599 |
+| Normal | 36,877 |
 
 
 </details>
