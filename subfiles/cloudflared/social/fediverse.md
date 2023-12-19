@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,164 |
+| com | 8,165 |
 | social | 4,716 |
-| net | 4,019 |
+| net | 4,022 |
 | org | 2,686 |
 | de | 2,547 |
 
@@ -8258,7 +8258,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -22801,6 +22801,7 @@ Here's a list of public Fediverse services.
 | `kevindangoor.com` | No |
 | `kevinewalsh.us` | No |
 | `kevinflo.com` | Yes |
+| `kevinfreitas.net` | No |
 | `kevingimbel.de` | No |
 | `kevinianbryan.online` | No |
 | `kevinianbryan.social` | No |
@@ -27087,6 +27088,7 @@ Here's a list of public Fediverse services.
 | `mastodon-il.net` | No |
 | `mastodon-iq.net` | No |
 | `mastodon-japan.net` | Yes |
+| `mastodon-jp.com` | No |
 | `mastodon-lyontech.fr` | No |
 | `mastodon-nagano.info` | No |
 | `mastodon-network.com` | No |
@@ -30939,6 +30941,7 @@ Here's a list of public Fediverse services.
 | `nealta.fr` | No |
 | `neamonitak.is` | No |
 | `near.social` | Yes |
+| `nearearthobject.net` | No |
 | `nearly.social` | No |
 | `neat.computer` | Yes |
 | `neat.pub` | Yes |
@@ -31269,6 +31272,7 @@ Here's a list of public Fediverse services.
 | `net.scot` | Yes |
 | `net2o.de` | No |
 | `net4sw.com` | No |
+| `netafull.net` | No |
 | `netaka.net` | Yes |
 | `netauthority.org` | No |
 | `netcorsoft.de` | No |
@@ -51539,8 +51543,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,608 |
-| Normal | 36,883 |
+| Cloudflare | 14,609 |
+| Normal | 36,886 |
 
 
 </details>
