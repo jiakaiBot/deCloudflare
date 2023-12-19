@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,159 |
+| com | 8,160 |
 | social | 4,716 |
 | net | 4,019 |
 | org | 2,685 |
@@ -14314,7 +14314,7 @@ Here's a list of public Fediverse services.
 | `femboy.city` | No |
 | `femboy.im` | No |
 | `femboy.page` | Yes |
-| `femboy.rent` | Yes |
+| `femboy.rent` | No |
 | `femboy.tokyo` | No |
 | `femboy.world` | Yes |
 | `femboyfor.sale` | No |
@@ -15187,7 +15187,7 @@ Here's a list of public Fediverse services.
 | `fpga.style` | No |
 | `fpl.social` | No |
 | `fpotfk.org` | No |
-| `fpsource.eu` | No |
+| `fpsource.eu` | Yes |
 | `fpsource.info` | No |
 | `fpv.social` | No |
 | `fpvogel.com` | Yes |
@@ -16707,7 +16707,7 @@ Here's a list of public Fediverse services.
 | `giantpaper.org` | Yes |
 | `giants-club.net` | No |
 | `giatsuki.net` | Yes |
-| `gib.social` | Yes |
+| `gib.social` | No |
 | `gibald.com` | No |
 | `gibbens.dev` | Yes |
 | `gibberfish.org` | No |
@@ -30730,7 +30730,7 @@ Here's a list of public Fediverse services.
 | `nanocloud.solutions` | No |
 | `nanodawa.net` | Yes |
 | `nanoscopic.de` | No |
-| `nanosector.nl` | No |
+| `nanosector.nl` | Yes |
 | `nanovim.tk` | No |
 | `nanoyagi.com` | No |
 | `nanoyun.net` | Yes |
@@ -30962,7 +30962,7 @@ Here's a list of public Fediverse services.
 | `nedpool.net` | Yes |
 | `nedson.net` | No |
 | `needs.vodka` | No |
-| `needsmo.re` | No |
+| `needsmo.re` | Yes |
 | `needsmore.pizza` | No |
 | `needspets.gq` | No |
 | `needsushi.com` | No |
@@ -49586,6 +49586,7 @@ Here's a list of public Fediverse services.
 | `wjt.me.uk` | No |
 | `wjtje.dev` | Yes |
 | `wk3.org` | No |
+| `wk30.com` | Yes |
 | `wkf.wtf` | No |
 | `wkfa.org` | No |
 | `wkfg.me` | No |
@@ -51522,8 +51523,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,595 |
-| Normal | 36,879 |
+| Cloudflare | 14,597 |
+| Normal | 36,878 |
 
 
 </details>
