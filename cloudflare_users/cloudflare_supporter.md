@@ -5651,6 +5651,7 @@ Do not create new issue or we will close it as duplicate.
 | [Illustricess@twitter](https://twitter.com/Illustricess/status/1665888692106407936) | advertise |
 | [iLngg0111@twitter](https://twitter.com/iLngg0111/status/1379110919066644480) | advertise |
 | [ilock_nakakun@twitter](https://twitter.com/ilock_nakakun/status/1723351174429209078) | advertise |
+| [ilostmyipad@twitter](https://twitter.com/ilostmyipad/status/1736962317898613097) | advertise |
 | [Ilpeiris@twitter](https://twitter.com/Ilpeiris/status/1558734133899440128) | advertise |
 | [iluciddreaming@twitter](https://twitter.com/iluciddreaming/status/1716934959473324285) | advertise |
 | [IluvMasonWV@twitter](https://twitter.com/IluvMasonWV/status/1571661220159320064) | advertise |
