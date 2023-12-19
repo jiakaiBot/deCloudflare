@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,168 |
 | social | 4,716 |
-| net | 4,022 |
+| net | 4,021 |
 | org | 2,686 |
 | de | 2,548 |
 
@@ -4843,7 +4843,6 @@ Here's a list of public Fediverse services.
 | `binbin.eu.org` | Yes |
 | `binblog.de` | No |
 | `binbou.xyz` | No |
-| `bincat.net` | No |
 | `binch.top` | No |
 | `binchan.xyz` | No |
 | `bindinggenerations.net` | No |
@@ -15776,6 +15775,7 @@ Here's a list of public Fediverse services.
 | `fumisskey.com` | No |
 | `fumo.software` | Yes |
 | `fumufu.xyz` | No |
+| `fun.systems` | No |
 | `fun7.de` | No |
 | `funami.tech` | Yes |
 | `funboy.cyou` | No |
@@ -50416,6 +50416,7 @@ Here's a list of public Fediverse services.
 | `xtk.es` | No |
 | `xtom.social` | Yes |
 | `xtra.nu` | Yes |
+| `xtrap.app` | Yes |
 | `xtremely.online` | No |
 | `xttech.top` | Yes |
 | `xtux.org` | No |
@@ -51549,7 +51550,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,611 |
+| Cloudflare | 14,612 |
 | Normal | 36,890 |
 
 
