@@ -254,7 +254,7 @@ Here's a list of public Fediverse services.
 | `1331.social` | No |
 | `1337.blue` | Yes |
 | `1337.cx` | Yes |
-| `1337.lgbt` | Yes |
+| `1337.lgbt` | No |
 | `1337331.xyz` | Yes |
 | `1337lemmy.com` | No |
 | `1337lounge.de` | No |
@@ -4352,6 +4352,7 @@ Here's a list of public Fediverse services.
 | `beelobby.de` | No |
 | `beelseal.com` | No |
 | `beelzebabes.com` | No |
+| `beep.africa` | No |
 | `beep.computer` | Yes |
 | `beepbeep.social` | No |
 | `beepboop.ga` | No |
@@ -23283,7 +23284,7 @@ Here's a list of public Fediverse services.
 | `known.directory` | Yes |
 | `knowscore.de` | No |
 | `knowscore.social` | No |
-| `knowsima.dog` | Yes |
+| `knowsima.dog` | No |
 | `knoxodon.com` | No |
 | `knoyism.net` | Yes |
 | `knsc.net` | No |
@@ -32903,7 +32904,7 @@ Here's a list of public Fediverse services.
 | `ofadam.com` | Yes |
 | `ofans.site` | Yes |
 | `ofaolain.com` | Yes |
-| `ofbajor.com` | Yes |
+| `ofbajor.com` | No |
 | `ofdan.ca` | Yes |
 | `off-ba.space` | Yes |
 | `off-investigation.fr` | Yes |
@@ -51521,8 +51522,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,598 |
-| Normal | 36,875 |
+| Cloudflare | 14,595 |
+| Normal | 36,879 |
 
 
 </details>
