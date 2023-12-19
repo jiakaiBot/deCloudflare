@@ -76,6 +76,7 @@ Do not create new issue or we will close it as duplicate.
 | [1Undefeatable@twitter](https://twitter.com/1Undefeatable/status/1584515752413253633) | advertise |
 | [1xSlotvn@twitter](https://twitter.com/1xSlotvn/status/1419205739466280960) | advertise |
 | [1yearandhalf@twitter](https://twitter.com/1yearandhalf/status/1380825438105317390) | advertise |
+| [2Art_YT@twitter](https://twitter.com/2Art_YT/status/1737058419473781161) | advertise |
 | [2b_an_angel@twitter](https://twitter.com/2b_an_angel/status/1598726056072155145) | advertise |
 | [2DOkAuz5FGdyO5u@twitter](https://twitter.com/2DOkAuz5FGdyO5u/status/1390639905290792967) | advertise |
 | [2Erykcute@twitter](https://twitter.com/2Erykcute/status/1726605414731767939) | advertise |
