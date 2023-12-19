@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,160 |
+| com | 8,164 |
 | social | 4,716 |
 | net | 4,019 |
 | org | 2,685 |
@@ -303,6 +303,7 @@ Here's a list of public Fediverse services.
 | `1a.pm` | Yes |
 | `1a1a1a.xyz` | No |
 | `1a23.com` | Yes |
+| `1a23.studio` | Yes |
 | `1arry1iu.com` | No |
 | `1being.org` | No |
 | `1bit.se` | No |
@@ -2145,6 +2146,7 @@ Here's a list of public Fediverse services.
 | `amnesiak.org` | No |
 | `amnz.jp` | No |
 | `amodernist.com` | No |
+| `amodernremedy.com` | No |
 | `amok.today` | No |
 | `amongtech.cc` | No |
 | `amongthestones.com` | No |
@@ -2247,6 +2249,7 @@ Here's a list of public Fediverse services.
 | `and-mate.me` | No |
 | `andadinosaur.com` | No |
 | `andalucia.social` | No |
+| `andalys.com` | No |
 | `andalys.fi` | No |
 | `andbutso.net` | No |
 | `anders.dev` | No |
@@ -5289,6 +5292,7 @@ Here's a list of public Fediverse services.
 | `bloomanalytics.net` | No |
 | `bloomfield.social` | Yes |
 | `blooming-land.icu` | Yes |
+| `bloomtype.com` | No |
 | `bloonface.com` | No |
 | `bloor.tw` | No |
 | `blop.social` | No |
@@ -7281,6 +7285,7 @@ Here's a list of public Fediverse services.
 | `cheekibreeki.express` | No |
 | `cheeky.red` | No |
 | `cheeky.wales` | No |
+| `cheeng.xyz` | Yes |
 | `cheerful.chat` | Yes |
 | `cheerful.social` | No |
 | `cheese.beer` | No |
@@ -10990,6 +10995,7 @@ Here's a list of public Fediverse services.
 | `dirk.show` | Yes |
 | `dirkkelly.com` | Yes |
 | `dirkomatik.de` | No |
+| `dirsys.com` | Yes |
 | `dirtbag.social` | Yes |
 | `dirtkids.social` | No |
 | `dirtyhobby.xyz` | No |
@@ -12435,6 +12441,7 @@ Here's a list of public Fediverse services.
 | `eineweltnetz.org` | No |
 | `einfacheswebdesign.de` | No |
 | `einfachmc.de` | No |
+| `einhorn.bar` | No |
 | `einhornher.de` | No |
 | `einmal.jetzt` | No |
 | `einschlafen-podcast.de` | No |
@@ -13492,6 +13499,7 @@ Here's a list of public Fediverse services.
 | `extroic.com` | No |
 | `extropian.net` | No |
 | `extwitriates.com` | No |
+| `exxe.one` | No |
 | `ey.business` | No |
 | `eybubulle.fr` | No |
 | `eyeofthestorm.place` | Yes |
@@ -17356,6 +17364,7 @@ Here's a list of public Fediverse services.
 | `granularperspective.com` | Yes |
 | `granvalenti.art` | No |
 | `grap.coop` | No |
+| `grapevyne.space` | No |
 | `graphe.me` | Yes |
 | `grapheneos.social` | No |
 | `graphics.social` | No |
@@ -20330,7 +20339,7 @@ Here's a list of public Fediverse services.
 | `innernet.link` | Yes |
 | `innernette.social` | Yes |
 | `innerwebs.social` | No |
-| `innkeep.co` | No |
+| `innkeep.co` | Yes |
 | `innkeepergames.com` | No |
 | `inno3.cricket` | No |
 | `innocence.com` | No |
@@ -31429,6 +31438,7 @@ Here's a list of public Fediverse services.
 | `newsie.social` | Yes |
 | `newsinside.org` | No |
 | `newskey.cc` | Yes |
+| `newsmast.community` | No |
 | `newsmast.org` | No |
 | `newsmast.social` | No |
 | `newsmastodon.com` | No |
@@ -48234,6 +48244,7 @@ Here's a list of public Fediverse services.
 | `violetmillie.me` | No |
 | `violoncello.ch` | No |
 | `viorsan.com` | Yes |
+| `viorsan.space` | Yes |
 | `vipgirlfriend.xxx` | No |
 | `vipper.party` | No |
 | `vipra.vip` | No |
@@ -50703,6 +50714,7 @@ Here's a list of public Fediverse services.
 | `yog.wtf` | No |
 | `yoga-prive.de` | No |
 | `yogaruhda.in` | No |
+| `yogasukma.web.id` | No |
 | `yoghurthair.club` | No |
 | `yogibytes.social` | Yes |
 | `yogui.li` | No |
@@ -51524,8 +51536,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,599 |
-| Normal | 36,877 |
+| Cloudflare | 14,604 |
+| Normal | 36,884 |
 
 
 </details>
