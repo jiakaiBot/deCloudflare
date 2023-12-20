@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,717 |
 | net | 4,023 |
 | org | 2,689 |
-| de | 2,549 |
+| de | 2,550 |
 
 
 - Mastodon, Pleroma, etc
@@ -24573,6 +24573,7 @@ Here's a list of public Fediverse services.
 | `leite.dev` | No |
 | `leitsch.org` | No |
 | `leitsinn.de` | No |
+| `leitungsstark.de` | No |
 | `lejaua6.club` | No |
 | `lekangouroo.me` | No |
 | `lekendall.com` | No |
@@ -37585,7 +37586,7 @@ Here's a list of public Fediverse services.
 | `reasonable.world` | No |
 | `reasonably.social` | No |
 | `reasoning.page` | Yes |
-| `reaves.dev` | No |
+| `reaves.dev` | Yes |
 | `reax.work` | Yes |
 | `reb.social` | No |
 | `reba.voyage` | No |
@@ -51593,7 +51594,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,629 |
+| Cloudflare | 14,630 |
 | Normal | 36,916 |
 
 
