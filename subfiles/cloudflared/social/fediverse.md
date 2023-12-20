@@ -8267,6 +8267,7 @@ Here's a list of public Fediverse services.
 | `comacero.com` | No |
 | `comal.app` | Yes |
 | `comam.es` | No |
+| `comame.xyz` | Yes |
 | `combatbahai.com` | No |
 | `combinehonnete.com` | No |
 | `combiner.team` | No |
@@ -9431,6 +9432,7 @@ Here's a list of public Fediverse services.
 | `cyberretards.xyz` | Yes |
 | `cyberrex.jp` | Yes |
 | `cybers.red` | Yes |
+| `cybersamurai.ch` | No |
 | `cybersamurai.digital` | No |
 | `cyberscene.gq` | No |
 | `cybersec.community` | Yes |
@@ -51587,8 +51589,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,628 |
-| Normal | 36,911 |
+| Cloudflare | 14,629 |
+| Normal | 36,912 |
 
 
 </details>
