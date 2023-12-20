@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Image URLs are blocked by CloudFlare](https://github.com/4pii4/piehtvn/issues/3)
+- [Web UI of eBus Adaper "Header fields are too long"](https://github.com/john30/ebusd-esp32/issues/37)
 - [Ffz doesn't work for chat.](https://github.com/FrankerFaceZ/FrankerFaceZ/issues/1443)
 - [Home page load becomes abnormally slow](https://github.com/hunghvu/hungvu.tech/issues/93)
 - [Flaresolver with proxies does not return cookies.](https://github.com/FlareSolverr/FlareSolverr/issues/1018)
