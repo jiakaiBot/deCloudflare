@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Home page load becomes abnormally slow](https://github.com/hunghvu/hungvu.tech/issues/93)
 - [Flaresolver with proxies does not return cookies.](https://github.com/FlareSolverr/FlareSolverr/issues/1018)
 - [Error sending messages](https://github.com/WAppAI/assistant/issues/263)
 - [CAN ANY BODY FIX THIS ISSUE](https://github.com/upstox/upstox-python/issues/59)
