@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,169 |
+| com | 8,171 |
 | social | 4,716 |
 | net | 4,021 |
 | org | 2,686 |
@@ -614,6 +614,7 @@ Here's a list of public Fediverse services.
 | `4tobi.de` | No |
 | `4toot.org` | No |
 | `4ushiyu.jp` | Yes |
+| `4vr.me` | Yes |
 | `4wd.social` | Yes |
 | `4wtf.com` | No |
 | `4xl.co` | No |
@@ -3535,6 +3536,7 @@ Here's a list of public Fediverse services.
 | `autogestioncitoyenne.org` | No |
 | `automa.sh` | Yes |
 | `automagiska.se` | Yes |
+| `automaphoni.ca` | No |
 | `automario.eu` | No |
 | `automat.click` | Yes |
 | `automat.one` | No |
@@ -5045,6 +5047,7 @@ Here's a list of public Fediverse services.
 | `bkgaming.cafe` | No |
 | `bkgrdclrschm.link` | Yes |
 | `bknyc.us` | No |
+| `bkoradio.com` | No |
 | `bkp.sh` | Yes |
 | `bkrdam.social` | No |
 | `bkrn.org` | No |
@@ -8257,7 +8260,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -14176,7 +14179,7 @@ Here's a list of public Fediverse services.
 | `fediver.de` | No |
 | `fediver.se` | No |
 | `fedivers.eu` | No |
-| `fedivers.net` | Yes |
+| `fedivers.net` | No |
 | `fedivers.paris` | No |
 | `fediverse-lite.com` | Yes |
 | `fediverse.asia` | Yes |
@@ -18738,6 +18741,7 @@ Here's a list of public Fediverse services.
 | `hide.li` | Yes |
 | `hidekisaito.com` | Yes |
 | `hidemyfap.com` | No |
+| `hiden.pw` | Yes |
 | `hideo54.com` | Yes |
 | `hideout.dk` | No |
 | `hideouts.space` | No |
@@ -25896,6 +25900,7 @@ Here's a list of public Fediverse services.
 | `luciengheerbrant.com` | Yes |
 | `lucienpuget.fr` | No |
 | `luciferi.st` | No |
+| `lucifers.zone` | Yes |
 | `lucitt.com` | Yes |
 | `lucitt.social` | Yes |
 | `luckow.org` | No |
@@ -29812,7 +29817,7 @@ Here's a list of public Fediverse services.
 | `ms.vg` | No |
 | `ms1.me` | No |
 | `mschmidt-et.de` | No |
-| `msdnaart.net` | Yes |
+| `msdnaart.net` | No |
 | `msdon.net` | No |
 | `msdyn365bc.social` | No |
 | `mserdar.net` | No |
@@ -31975,7 +31980,7 @@ Here's a list of public Fediverse services.
 | `node.pk` | Yes |
 | `node001.net` | No |
 | `node9.org` | No |
-| `nodegray.com` | Yes |
+| `nodegray.com` | No |
 | `nodemixaholic.com` | Yes |
 | `nodenull.com` | Yes |
 | `nodered.org` | Yes |
@@ -44495,6 +44500,7 @@ Here's a list of public Fediverse services.
 | `textasylum.de` | No |
 | `texting.com` | No |
 | `texto-plano.xyz` | No |
+| `textrhet.com` | No |
 | `texttheater.net` | No |
 | `teyvat.cloud` | No |
 | `tezcat.social` | No |
@@ -48455,7 +48461,7 @@ Here's a list of public Fediverse services.
 | `volse.no` | No |
 | `volt.cafe` | No |
 | `volt.social` | Yes |
-| `voltage.nz` | No |
+| `voltage.nz` | Yes |
 | `voltage.vn` | No |
 | `voltagecontrol.com` | Yes |
 | `voltaicforge.com` | Yes |
@@ -51560,7 +51566,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,616 |
-| Normal | 36,895 |
+| Normal | 36,901 |
 
 
 </details>
