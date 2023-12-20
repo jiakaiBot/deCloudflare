@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,176 |
+| com | 8,177 |
 | social | 4,716 |
 | net | 4,023 |
 | org | 2,686 |
@@ -6809,7 +6809,7 @@ Here's a list of public Fediverse services.
 | `catboy.agency` | No |
 | `catboy.airforce` | No |
 | `catboy.baby` | Yes |
-| `catboy.cafe` | No |
+| `catboy.cafe` | Yes |
 | `catboyindustries.co` | Yes |
 | `catboys.org` | No |
 | `catbutts.today` | No |
@@ -18707,7 +18707,7 @@ Here's a list of public Fediverse services.
 | `heythere.cloud` | Yes |
 | `heythere.org` | No |
 | `heywoodlh.tech` | Yes |
-| `hezu.art` | No |
+| `hezu.art` | Yes |
 | `hfranco.dev` | No |
 | `hfrc.de` | No |
 | `hgluv.com` | No |
@@ -19381,6 +19381,7 @@ Here's a list of public Fediverse services.
 | `htcwowdev.com` | No |
 | `html-curiositi.es` | No |
 | `html5accessibility.com` | No |
+| `htmt41.com` | No |
 | `htotw.com` | Yes |
 | `htp.live` | No |
 | `htt.social` | No |
@@ -28603,7 +28604,7 @@ Here's a list of public Fediverse services.
 | `mikeshouse.live` | No |
 | `mikespla.in` | Yes |
 | `mikesplaces.blog` | No |
-| `mikestanley.me` | No |
+| `mikestanley.me` | Yes |
 | `mikestone.me` | No |
 | `mikev.com` | Yes |
 | `mikewells.name` | No |
@@ -43994,7 +43995,7 @@ Here's a list of public Fediverse services.
 | `tatha.studio` | No |
 | `tati.at` | No |
 | `tatmius.tk` | No |
-| `tatooine.club` | No |
+| `tatooine.club` | Yes |
 | `tatooine.space` | No |
 | `tatsuya0902.jp` | Yes |
 | `tatu.la` | Yes |
@@ -46440,6 +46441,7 @@ Here's a list of public Fediverse services.
 | `tristanphillips.xyz` | Yes |
 | `tristansuper.com` | No |
 | `trisweb.com` | No |
+| `trivernis.dev` | Yes |
 | `trivia.to` | No |
 | `trivia.town` | No |
 | `trivial.business` | Yes |
@@ -51583,8 +51585,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,622 |
-| Normal | 36,913 |
+| Cloudflare | 14,627 |
+| Normal | 36,910 |
 
 
 </details>
