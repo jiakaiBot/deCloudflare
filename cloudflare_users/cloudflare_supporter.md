@@ -7008,6 +7008,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ko41120141@twitter](https://twitter.com/Ko41120141/status/1391636326781394945) | advertise |
 | [Ko43429299@twitter](https://twitter.com/Ko43429299/status/1391426962044846083) | advertise |
 | [Ko44353462@twitter](https://twitter.com/Ko44353462/status/1397955514126848005) | advertise |
+| [KoAirNote1@twitter](https://twitter.com/KoAirNote1/status/1737464649099178084) | advertise |
 | [KoAung78616944@twitter](https://twitter.com/KoAung78616944/status/1389536325884432385) | advertise |
 | [koaung83227974@twitter](https://twitter.com/koaung83227974/status/1703622292650315879) | advertise |
 | [KoAungKo10@twitter](https://twitter.com/KoAungKo10/status/1392390778966528003) | advertise |
