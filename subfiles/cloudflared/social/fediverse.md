@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,171 |
+| com | 8,172 |
 | social | 4,716 |
 | net | 4,021 |
 | org | 2,686 |
@@ -8260,7 +8260,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -24522,6 +24522,7 @@ Here's a list of public Fediverse services.
 | `legaltech.social` | No |
 | `legbeard.xyz` | No |
 | `legfr.social` | No |
+| `legionify.com` | Yes |
 | `legionpodcasts.com` | No |
 | `legit.dog` | No |
 | `legitimatesounding.com` | No |
@@ -43832,7 +43833,7 @@ Here's a list of public Fediverse services.
 | `tama.ac.jp` | No |
 | `tama.pro` | No |
 | `tama.social` | Yes |
-| `tamag.org` | No |
+| `tamag.org` | Yes |
 | `tamagotchi.rodeo` | No |
 | `tamai.mobi` | No |
 | `tamakasu.ga` | No |
@@ -50956,7 +50957,7 @@ Here's a list of public Fediverse services.
 | `yuri.mom` | No |
 | `yuri.place` | No |
 | `yuri.quest` | Yes |
-| `yuri.ro` | Yes |
+| `yuri.ro` | No |
 | `yurialbuquerque.dev` | No |
 | `yurikonanao.cloud` | No |
 | `yuriland.xyz` | No |
@@ -51565,8 +51566,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,616 |
-| Normal | 36,901 |
+| Cloudflare | 14,618 |
+| Normal | 36,900 |
 
 
 </details>
