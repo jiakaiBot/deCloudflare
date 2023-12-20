@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,177 |
 | social | 4,716 |
 | net | 4,023 |
-| org | 2,686 |
+| org | 2,687 |
 | de | 2,549 |
 
 
@@ -13424,6 +13424,7 @@ Here's a list of public Fediverse services.
 | `exhibitionstage.com` | Yes |
 | `exianote.work` | No |
 | `exile.social` | No |
+| `exim.org` | No |
 | `eximua.dev` | Yes |
 | `existentialcrisis.link` | No |
 | `existentialdread.com` | No |
@@ -15203,7 +15204,7 @@ Here's a list of public Fediverse services.
 | `fpl.social` | No |
 | `fpotfk.org` | No |
 | `fpsource.eu` | Yes |
-| `fpsource.info` | No |
+| `fpsource.info` | Yes |
 | `fpv.social` | No |
 | `fpvogel.com` | Yes |
 | `fqserv.eu` | No |
@@ -40676,6 +40677,7 @@ Here's a list of public Fediverse services.
 | `shork.online` | No |
 | `shork.space` | No |
 | `shorkpit.xyz` | No |
+| `shorks.gay` | No |
 | `shoro.no` | No |
 | `shortbus.fail` | No |
 | `shortcord.com` | Yes |
@@ -51585,8 +51587,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,627 |
-| Normal | 36,910 |
+| Cloudflare | 14,628 |
+| Normal | 36,911 |
 
 
 </details>
