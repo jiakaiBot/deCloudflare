@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,177 |
-| social | 4,716 |
+| social | 4,717 |
 | net | 4,023 |
-| org | 2,687 |
+| org | 2,689 |
 | de | 2,549 |
 
 
@@ -2969,6 +2969,7 @@ Here's a list of public Fediverse services.
 | `arneson.org` | Yes |
 | `arnip.org` | No |
 | `arnold-schiller.de` | No |
+| `arnold.photos` | Yes |
 | `arnoldasu.lt` | No |
 | `arnoldhoogerwerf.nl` | No |
 | `arnoldschiller.de` | No |
@@ -3641,6 +3642,7 @@ Here's a list of public Fediverse services.
 | `awful.computer` | No |
 | `awful.monster` | Yes |
 | `awful.systems` | No |
+| `awfulrigourswretchedpay.com` | No |
 | `awjeez.help` | No |
 | `awk.is` | No |
 | `awkward.company` | No |
@@ -11952,7 +11954,6 @@ Here's a list of public Fediverse services.
 | `dutchxs.com` | No |
 | `duti.tech` | No |
 | `dutka-is.de` | No |
-| `duuuck.com` | Yes |
 | `duwa.ng` | No |
 | `duxez.dev` | No |
 | `duxie.xyz` | No |
@@ -16124,6 +16125,7 @@ Here's a list of public Fediverse services.
 | `galenabell.com` | No |
 | `galenzoski.com` | Yes |
 | `galih.me` | Yes |
+| `galileivr.org` | No |
 | `galileo.news` | No |
 | `gall.family` | Yes |
 | `gallegoiv.com` | Yes |
@@ -36500,6 +36502,7 @@ Here's a list of public Fediverse services.
 | `pug.ninja` | Yes |
 | `pug.photos` | No |
 | `pug.social` | No |
+| `puget.social` | No |
 | `puggaard-nyborg.dk` | No |
 | `pugly.org` | Yes |
 | `pugmasu.xyz` | No |
@@ -48896,6 +48899,7 @@ Here's a list of public Fediverse services.
 | `wasp.ovh` | Yes |
 | `wasscher.com` | No |
 | `wassim.social` | No |
+| `waste-in-motion.org` | No |
 | `waste-of.space` | No |
 | `waste.social` | No |
 | `wasted.im` | No |
@@ -51590,7 +51594,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,629 |
-| Normal | 36,912 |
+| Normal | 36,916 |
 
 
 </details>
