@@ -41597,6 +41597,7 @@ Here's a list of public Fediverse services.
 | `so-called.life` | No |
 | `so-isser-der-ossi.de` | No |
 | `so.football` | Yes |
+| `so4.us` | Yes |
 | `soa3.net` | No |
 | `soafen.love` | Yes |
 | `soamichel.fr` | No |
@@ -51594,7 +51595,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,630 |
+| Cloudflare | 14,631 |
 | Normal | 36,916 |
 
 
