@@ -23,7 +23,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 8888.google | No |
 | aa.net.uk | No |
 | abpvn.com | Yes |
-| absolight.net | No |
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
@@ -206,7 +205,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 89 |
-| Normal | 97 |
+| Normal | 96 |
 
 
-### 47.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
