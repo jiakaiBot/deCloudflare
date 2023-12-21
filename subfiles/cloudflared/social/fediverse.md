@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,178 |
+| com | 8,180 |
 | social | 4,717 |
 | net | 4,026 |
 | org | 2,689 |
-| de | 2,550 |
+| de | 2,552 |
 
 
 - Mastodon, Pleroma, etc
@@ -10052,6 +10052,7 @@ Here's a list of public Fediverse services.
 | `daviey.com` | Yes |
 | `davigge.com` | No |
 | `davinkevin.fr` | No |
+| `davislv.com` | No |
 | `davisohana.org` | No |
 | `davlin.io` | Yes |
 | `davmik.com` | No |
@@ -15109,6 +15110,7 @@ Here's a list of public Fediverse services.
 | `fosfor.dev` | No |
 | `fosketts.net` | Yes |
 | `fosny.eu` | No |
+| `foss-backstage.de` | No |
 | `foss.al` | No |
 | `foss.gay` | Yes |
 | `foss.guru` | No |
@@ -16188,6 +16190,7 @@ Here's a list of public Fediverse services.
 | `gamesatwork.biz` | No |
 | `gamesfera.com` | No |
 | `gamespirit.eu` | No |
+| `gamesreview.pl` | No |
 | `gamestop.store` | No |
 | `gamestyle.com` | Yes |
 | `gameswithcode.net` | No |
@@ -23654,6 +23657,7 @@ Here's a list of public Fediverse services.
 | `krashboyz.org` | No |
 | `krasovs.ky` | Yes |
 | `krassestegang.social` | Yes |
+| `kratinovi.cz` | No |
 | `kratochvil.eu` | Yes |
 | `kraud.social` | No |
 | `krauser.org` | No |
@@ -23759,6 +23763,7 @@ Here's a list of public Fediverse services.
 | `kuba-orlik.name` | No |
 | `kuberegretes.com` | No |
 | `kubernetes.homes` | Yes |
+| `kubiak.me` | No |
 | `kubiwa.moe` | No |
 | `kubiwahn.de` | No |
 | `kubo.social` | No |
@@ -25143,6 +25148,7 @@ Here's a list of public Fediverse services.
 | `lilomoino.fr` | No |
 | `lily.flowers` | No |
 | `lily.network` | No |
+| `lilyb.it` | No |
 | `lilychan.dev` | No |
 | `lilymagic.com` | Yes |
 | `lilypad.works` | Yes |
@@ -25180,6 +25186,7 @@ Here's a list of public Fediverse services.
 | `lindipravity.be` | No |
 | `lindroth.xyz` | Yes |
 | `lindsaybison.com` | Yes |
+| `lindweiler.de` | Yes |
 | `linekszuka.pl` | Yes |
 | `linenoise.club` | No |
 | `linernotes.club` | No |
@@ -28667,6 +28674,7 @@ Here's a list of public Fediverse services.
 | `milky.coffee` | No |
 | `milkyl.in` | Yes |
 | `millcrick.com` | No |
+| `millcrick.link` | Yes |
 | `millcrick.org` | No |
 | `millcrick.social` | No |
 | `millefeuilles.cloud` | Yes |
@@ -37852,6 +37860,7 @@ Here's a list of public Fediverse services.
 | `remilia.ch` | Yes |
 | `remilia.me` | No |
 | `remilia.world` | No |
+| `remkusdevries.com` | Yes |
 | `remnant.social` | No |
 | `remnantrisingnow.com` | No |
 | `remo.pro` | Yes |
@@ -48896,6 +48905,7 @@ Here's a list of public Fediverse services.
 | `washingtonbeach.online` | No |
 | `washodondc.social` | No |
 | `wasistdasfuer1.club` | No |
+| `waskanndas.at` | No |
 | `waskuisland.com` | Yes |
 | `wasmitnetzen.de` | No |
 | `wasnever.cool` | No |
@@ -51600,8 +51610,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,629 |
-| Normal | 36,923 |
+| Cloudflare | 14,632 |
+| Normal | 36,930 |
 
 
 </details>
