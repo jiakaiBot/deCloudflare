@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,181 |
-| social | 4,718 |
+| com | 8,182 |
+| social | 4,719 |
 | net | 4,027 |
 | org | 2,690 |
 | de | 2,552 |
@@ -5504,6 +5504,7 @@ Here's a list of public Fediverse services.
 | `boles.xyz` | No |
 | `bolesblogs.com` | No |
 | `bolha.blog` | Yes |
+| `bolha.events` | Yes |
 | `bolha.forum` | Yes |
 | `bolha.one` | Yes |
 | `bolha.photos` | Yes |
@@ -11960,6 +11961,7 @@ Here's a list of public Fediverse services.
 | `dutchxs.com` | No |
 | `duti.tech` | No |
 | `dutka-is.de` | No |
+| `duuuck.com` | Yes |
 | `duwa.ng` | No |
 | `duxez.dev` | No |
 | `duxie.xyz` | No |
@@ -28677,6 +28679,7 @@ Here's a list of public Fediverse services.
 | `milky.coffee` | No |
 | `milkyl.in` | Yes |
 | `millcrick.com` | No |
+| `millcrick.link` | Yes |
 | `millcrick.org` | No |
 | `millcrick.social` | No |
 | `millefeuilles.cloud` | Yes |
@@ -30948,7 +30951,7 @@ Here's a list of public Fediverse services.
 | `nc.social` | Yes |
 | `nca10.net` | Yes |
 | `ncaq.net` | Yes |
-| `ncat.dev` | No |
+| `ncat.dev` | Yes |
 | `ncbt.space` | No |
 | `ncc1701.fr` | Yes |
 | `ncc1701e.social` | No |
@@ -36370,6 +36373,7 @@ Here's a list of public Fediverse services.
 | `protom.eu` | No |
 | `protomolecule.com` | No |
 | `proton.stream` | No |
+| `protopia.tk` | No |
 | `protoxin.net` | Yes |
 | `prou.be` | No |
 | `proud.social` | No |
@@ -43729,6 +43733,7 @@ Here's a list of public Fediverse services.
 | `tacowolf.net` | Yes |
 | `tactcheck.com` | No |
 | `tacticalpedia.com` | Yes |
+| `tacticalpedia.social` | No |
 | `tacticaltech.org` | No |
 | `tactiletimes.org` | Yes |
 | `tacty.social` | Yes |
@@ -51616,8 +51621,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,635 |
-| Normal | 36,933 |
+| Cloudflare | 14,639 |
+| Normal | 36,934 |
 
 
 </details>
