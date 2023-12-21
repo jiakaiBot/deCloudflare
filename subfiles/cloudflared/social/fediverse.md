@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,182 |
+| com | 8,183 |
 | social | 4,719 |
-| net | 4,027 |
+| net | 4,028 |
 | org | 2,690 |
-| de | 2,552 |
+| de | 2,553 |
 
 
 - Mastodon, Pleroma, etc
@@ -19945,7 +19945,7 @@ Here's a list of public Fediverse services.
 | `ikasoba.net` | Yes |
 | `ikata.co` | Yes |
 | `ikbenpiraat.nl` | No |
-| `ikcafe.ch` | No |
+| `ikcafe.ch` | Yes |
 | `ikebuku.ro` | Yes |
 | `ikebukuro.city` | No |
 | `ikeji.ma` | No |
@@ -22134,6 +22134,7 @@ Here's a list of public Fediverse services.
 | `justpeace.social` | No |
 | `justporn.cc` | No |
 | `justpotato.net` | Yes |
+| `justsayinnow.com` | No |
 | `justsome.photos` | Yes |
 | `justtact.com` | No |
 | `justtelly.com` | Yes |
@@ -22203,6 +22204,7 @@ Here's a list of public Fediverse services.
 | `k85.de` | No |
 | `k8s.social` | No |
 | `k9.wtf` | Yes |
+| `k9max.de` | Yes |
 | `ka0.co` | No |
 | `kaa.bz` | No |
 | `kaaa.ren` | No |
@@ -32183,6 +32185,7 @@ Here's a list of public Fediverse services.
 | `nop.chat` | Yes |
 | `nop.codes` | Yes |
 | `nop.moe` | No |
+| `noparking.net` | No |
 | `noparticular.place` | No |
 | `nopasaran.red` | No |
 | `nopdev.com` | No |
@@ -43765,6 +43768,7 @@ Here's a list of public Fediverse services.
 | `taidum.space` | Yes |
 | `taifoon.net` | No |
 | `taiha.net` | No |
+| `taihou.website` | No |
 | `tail.dance` | No |
 | `tailburst.me` | No |
 | `tailma.ws` | No |
@@ -51621,8 +51625,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,639 |
-| Normal | 36,934 |
+| Cloudflare | 14,641 |
+| Normal | 36,936 |
 
 
 </details>
