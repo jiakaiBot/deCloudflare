@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,180 |
-| social | 4,717 |
+| social | 4,718 |
 | net | 4,026 |
 | org | 2,689 |
 | de | 2,552 |
@@ -39701,6 +39701,7 @@ Here's a list of public Fediverse services.
 | `schmoove.org` | No |
 | `schmu.se` | No |
 | `schmurian.xyz` | No |
+| `schmus.is` | No |
 | `schmuttermaier.com` | No |
 | `schnaible.cc` | Yes |
 | `schnatter.eu` | No |
@@ -48492,6 +48493,7 @@ Here's a list of public Fediverse services.
 | `volkomorov.ru` | Yes |
 | `volkomorov.rufriendica` | No |
 | `volkskontakte.com` | No |
+| `volksverpetzer.social` | No |
 | `vollans.id.au` | Yes |
 | `vollerlie.be` | No |
 | `vollol.de` | No |
@@ -51610,7 +51612,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,632 |
-| Normal | 36,929 |
+| Normal | 36,931 |
 
 
 </details>
