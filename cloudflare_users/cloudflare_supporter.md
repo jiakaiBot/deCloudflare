@@ -908,6 +908,7 @@ Do not create new issue or we will close it as duplicate.
 | [Amsterd50189884@twitter](https://twitter.com/Amsterd50189884/status/1385391280096628736) | advertise |
 | [amundenvoie@twitter](https://twitter.com/amundenvoie/status/1390120510181167106) | advertise |
 | [AmyKodat@twitter](https://twitter.com/AmyKodat/status/1588092355416047618) | advertise |
+| [am_mer_one@twitter](https://twitter.com/am_mer_one/status/1737784967143285222) | advertise |
 | [am_violin@twitter](https://twitter.com/am_violin/status/1383585441752907782) | advertise |
 | [AN0WA@twitter](https://twitter.com/AN0WA/status/1401240231240679428) | advertise |
 | [an080904@twitter](https://twitter.com/an080904/status/1399258898603724802) | advertise |
