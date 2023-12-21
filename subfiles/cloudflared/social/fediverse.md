@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,178 |
 | social | 4,717 |
-| net | 4,024 |
+| net | 4,026 |
 | org | 2,689 |
 | de | 2,550 |
 
@@ -819,6 +819,7 @@ Here's a list of public Fediverse services.
 | `9chan.lol` | No |
 | `9chen.org` | No |
 | `9fs.net` | No |
+| `9grid.net` | No |
 | `9ineverse.com` | Yes |
 | `9kb.me` | No |
 | `9lab.jp` | No |
@@ -28666,6 +28667,7 @@ Here's a list of public Fediverse services.
 | `milky.coffee` | No |
 | `milkyl.in` | Yes |
 | `millcrick.com` | No |
+| `millcrick.link` | Yes |
 | `millcrick.org` | No |
 | `millcrick.social` | No |
 | `millefeuilles.cloud` | Yes |
@@ -36542,7 +36544,7 @@ Here's a list of public Fediverse services.
 | `punktrash.club` | Yes |
 | `punktube.net` | No |
 | `puntarella.party` | No |
-| `pup.cloud` | No |
+| `pup.cloud` | Yes |
 | `pupbrained.xyz` | Yes |
 | `pupmaxx.com` | Yes |
 | `puppet.town` | No |
@@ -48253,6 +48255,7 @@ Here's a list of public Fediverse services.
 | `vile.zone` | No |
 | `vilette.gay` | Yes |
 | `villa-oita-pikapika.com` | Yes |
+| `villa-oita-pikapika.net` | No |
 | `villa-straylight.social` | Yes |
 | `villacraft.fr` | Yes |
 | `village.icu` | No |
@@ -51598,8 +51601,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,628 |
-| Normal | 36,922 |
+| Cloudflare | 14,630 |
+| Normal | 36,923 |
 
 
 </details>
