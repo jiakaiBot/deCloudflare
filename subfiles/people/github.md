@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [I cant use package in Nextjs 14](https://github.com/wojtekmaj/react-pdf/issues/1682)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/hinoshiba/news/issues/7504)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/SecOpsNews/news/issues/22759)
 - [Blazor My Account Section Does Not Work](https://github.com/abpframework/abp/issues/18535)
