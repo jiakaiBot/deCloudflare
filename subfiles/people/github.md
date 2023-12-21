@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Workers Issues](https://github.com/hinoshiba/news/issues/7504)
+- [CloudFlare Cloudflare Workers Issues](https://github.com/SecOpsNews/news/issues/22759)
 - [Blazor My Account Section Does Not Work](https://github.com/abpframework/abp/issues/18535)
 - [Image URLs are blocked by CloudFlare](https://github.com/4pii4/piehtvn/issues/3)
 - [Web UI of eBus Adaper "Header fields are too long"](https://github.com/john30/ebusd-esp32/issues/37)
