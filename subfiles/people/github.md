@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Secret Key is exposed in error thrown by this module](https://github.com/gettilled/tilled-node/issues/18)
+- [NGINX 500 error after latest Update](https://github.com/btcpayserver/btcpayserver/issues/5589)
 - [I cant use package in Nextjs 14](https://github.com/wojtekmaj/react-pdf/issues/1682)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/hinoshiba/news/issues/7504)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/SecOpsNews/news/issues/22759)
