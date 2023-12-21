@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,181 |
 | social | 4,718 |
-| net | 4,026 |
+| net | 4,027 |
 | org | 2,690 |
 | de | 2,552 |
 
@@ -42046,6 +42046,7 @@ Here's a list of public Fediverse services.
 | `soymas.to` | No |
 | `soymilk.club` | Yes |
 | `soyouzpanda.fr` | Yes |
+| `soyplastic.net` | No |
 | `soysoftware.net` | No |
 | `soyuki.net` | No |
 | `soz.is` | Yes |
@@ -51616,7 +51617,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,635 |
-| Normal | 36,932 |
+| Normal | 36,933 |
 
 
 </details>
