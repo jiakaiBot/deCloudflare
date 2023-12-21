@@ -4098,6 +4098,7 @@ Do not create new issue or we will close it as duplicate.
 | [flythatdude001@twitter](https://twitter.com/flythatdude001/status/1520067790543065089) | advertise |
 | [fof15797974@twitter](https://twitter.com/fof15797974/status/1487706959914565632) | advertise |
 | [Foguzz_narak@twitter](https://twitter.com/Foguzz_narak/status/1405488230351347722) | advertise |
+| [Foisalislambd@twitter](https://twitter.com/Foisalislambd/status/1737876897265225806) | advertise |
 | [fOL4fO7rcKS2YZL@twitter](https://twitter.com/fOL4fO7rcKS2YZL/status/1496746113683968001) | advertise |
 | [FollowBTCNews@twitter](https://twitter.com/FollowBTCNews/status/1524795081743552513) | advertise |
 | [followpots@twitter](https://twitter.com/followpots/status/1393134168721162240) | advertise |
@@ -11935,6 +11936,7 @@ Do not create new issue or we will close it as duplicate.
 | [sahilbagde20@twitter](https://twitter.com/sahilbagde20/status/1391423702001012740) | advertise |
 | [SahilGa84383029@twitter](https://twitter.com/SahilGa84383029/status/1393828677977206787) | advertise |
 | [SahilJa22654031@twitter](https://twitter.com/SahilJa22654031/status/1505073147191914496) | advertise |
+| [sahilsa93886291@twitter](https://twitter.com/sahilsa93886291/status/1737869077635367154) | advertise |
 | [sahil_ohe@twitter](https://twitter.com/sahil_ohe/status/1398971148776337411) | advertise |
 | [Sai63Ko@twitter](https://twitter.com/Sai63Ko/status/1392869126482264064) | advertise |
 | [Sai48087215@twitter](https://twitter.com/Sai48087215/status/1484539415443943426) | advertise |
@@ -12327,6 +12329,7 @@ Do not create new issue or we will close it as duplicate.
 | [shahwal6012@twitter](https://twitter.com/shahwal6012/status/1401074558828826625) | advertise |
 | [Shahzai38914950@twitter](https://twitter.com/Shahzai38914950/status/1531784993311178753) | advertise |
 | [Shah_man83@twitter](https://twitter.com/Shah_man83/status/1381646041498329088) | advertise |
+| [shah_zulkfli@twitter](https://twitter.com/shah_zulkfli/status/1737860925766660332) | advertise |
 | [ShaidaFarizaa@twitter](https://twitter.com/ShaidaFarizaa/status/1562785781953208326) | advertise |
 | [Shaieq_07@twitter](https://twitter.com/Shaieq_07/status/1589912135899189252) | advertise |
 | [ShaikhHaji11959@twitter](https://twitter.com/ShaikhHaji11959/status/1702029672073281951) | advertise |
@@ -13255,9 +13258,11 @@ Do not create new issue or we will close it as duplicate.
 | [tegvr@twitter](https://twitter.com/tegvr/status/1466878430239100929) | advertise |
 | [tej_bo@twitter](https://twitter.com/tej_bo/status/1525166409579483136) | advertise |
 | [tekakenji@twitter](https://twitter.com/tekakenji/status/1378831679356215296) | advertise |
+| [Tekazariyas@twitter](https://twitter.com/Tekazariyas/status/1737879295844905108) | advertise |
 | [teking1909@twitter](https://twitter.com/teking1909/status/1717073439046156400) | advertise |
 | [Tekkenz2@twitter](https://twitter.com/Tekkenz2/status/1400160711297277954) | advertise |
 | [TekTytanMike@twitter](https://twitter.com/TekTytanMike/status/1566249485155680257) | advertise |
+| [Teku@twitter](https://twitter.com/Teku/status/1737864060014629004) | advertise |
 | [tek_aevl@twitter](https://twitter.com/tek_aevl/status/1554915148623757313) | advertise |
 | [tek_kinz@twitter](https://twitter.com/tek_kinz/status/1507790839069777922) | advertise |
 | [Telehein2@twitter](https://twitter.com/Telehein2/status/1395541369725149187) | advertise |
@@ -15761,6 +15766,7 @@ Do not create new issue or we will close it as duplicate.
 | [zohrebayat@twitter](https://twitter.com/zohrebayat/status/1638028465440997376) | advertise |
 | [zokhshop9@twitter](https://twitter.com/zokhshop9/status/1726251953431494876) | advertise |
 | [zoktog@twitter](https://twitter.com/zoktog/status/1501935529188753411) | advertise |
+| [zominak@twitter](https://twitter.com/zominak/status/1737863283489882304) | advertise |
 | [ZomorodiEbi@twitter](https://twitter.com/ZomorodiEbi/status/1585597008437739520) | advertise |
 | [zonezone81@twitter](https://twitter.com/zonezone81/status/1389274249722925058) | advertise |
 | [Zonghong6@twitter](https://twitter.com/Zonghong6/status/1712483883223248960) | advertise |
