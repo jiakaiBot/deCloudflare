@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,180 |
+| com | 8,181 |
 | social | 4,718 |
 | net | 4,026 |
 | org | 2,690 |
@@ -2314,6 +2314,7 @@ Here's a list of public Fediverse services.
 | `andrewscom.net` | No |
 | `andrewstaylor.com` | Yes |
 | `andrewwelch.net` | Yes |
+| `andreybondarenko.com` | No |
 | `andrezieux.de` | No |
 | `andri.dk` | Yes |
 | `andrich.me` | No |
@@ -51615,7 +51616,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,635 |
-| Normal | 36,931 |
+| Normal | 36,932 |
 
 
 </details>
