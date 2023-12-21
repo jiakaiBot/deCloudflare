@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,183 |
+| com | 8,184 |
 | social | 4,719 |
 | net | 4,028 |
 | org | 2,690 |
@@ -30857,6 +30857,7 @@ Here's a list of public Fediverse services.
 | `nate.im` | Yes |
 | `nate601.me` | Yes |
 | `natedickson.com` | No |
+| `nategullion.com` | Yes |
 | `natehiggers.online` | Yes |
 | `natehiggers.org` | Yes |
 | `natehn.com` | No |
@@ -38779,6 +38780,7 @@ Here's a list of public Fediverse services.
 | `rse43.com` | Yes |
 | `rselbach.com` | No |
 | `rsi.social` | No |
+| `rsl.gg` | No |
 | `rsn.io` | No |
 | `rsngrtn.fyi` | No |
 | `rsnstats.com` | No |
@@ -51625,8 +51627,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,641 |
-| Normal | 36,936 |
+| Cloudflare | 14,642 |
+| Normal | 36,937 |
 
 
 </details>
