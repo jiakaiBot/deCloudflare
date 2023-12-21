@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,180 |
 | social | 4,718 |
 | net | 4,026 |
-| org | 2,689 |
+| org | 2,690 |
 | de | 2,552 |
 
 
@@ -3029,6 +3029,7 @@ Here's a list of public Fediverse services.
 | `artemai.art` | No |
 | `artemis.camp` | Yes |
 | `artemisia.systems` | Yes |
+| `artemislena.eu` | No |
 | `artemlab.tk` | No |
 | `artermyss.com` | Yes |
 | `artfusion.social` | No |
@@ -11914,6 +11915,7 @@ Here's a list of public Fediverse services.
 | `dunevent.net` | No |
 | `dungeon-rushers.com` | No |
 | `dungeoncrawler.world` | No |
+| `dungeondaddy.org` | Yes |
 | `dungeonmanager.guide` | No |
 | `dungeons.social` | No |
 | `dunglas.dev` | Yes |
@@ -32901,7 +32903,7 @@ Here's a list of public Fediverse services.
 | `ocw.social` | No |
 | `ocx2.cc` | No |
 | `odakyu.app` | Yes |
-| `odat.xyz` | No |
+| `odat.xyz` | Yes |
 | `oday.net` | No |
 | `odayacres.farm` | Yes |
 | `odd.af` | No |
@@ -51160,6 +51162,7 @@ Here's a list of public Fediverse services.
 | `zarchbox.ovh` | No |
 | `zaremba.me` | No |
 | `zaros.club` | No |
+| `zarrouk.eu` | Yes |
 | `zarrplays.com` | No |
 | `zarth.de` | No |
 | `zasha.style` | No |
@@ -51611,7 +51614,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,632 |
+| Cloudflare | 14,635 |
 | Normal | 36,931 |
 
 
