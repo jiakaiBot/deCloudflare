@@ -22905,7 +22905,7 @@ Here's a list of public Fediverse services.
 | `khorneflak.es` | Yes |
 | `khpape.blog` | No |
 | `khromatic-myst.com` | No |
-| `khronos-rain.com` | No |
+| `khronos-rain.com` | Yes |
 | `khronosk.xyz` | Yes |
 | `khscc.jp` | Yes |
 | `khsmty.com` | Yes |
@@ -28674,7 +28674,6 @@ Here's a list of public Fediverse services.
 | `milky.coffee` | No |
 | `milkyl.in` | Yes |
 | `millcrick.com` | No |
-| `millcrick.link` | Yes |
 | `millcrick.org` | No |
 | `millcrick.social` | No |
 | `millefeuilles.cloud` | Yes |
@@ -51611,7 +51610,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,632 |
-| Normal | 36,930 |
+| Normal | 36,929 |
 
 
 </details>
