@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,177 |
+| com | 8,178 |
 | social | 4,717 |
-| net | 4,023 |
+| net | 4,024 |
 | org | 2,689 |
 | de | 2,550 |
 
@@ -4985,6 +4985,7 @@ Here's a list of public Fediverse services.
 | `bitmycode.com` | No |
 | `bitpage.de` | No |
 | `bitplumber.de` | No |
+| `bitpopart.com` | No |
 | `bitraten.net` | Yes |
 | `bitrot.cafe` | Yes |
 | `bits-und-baeume.org` | No |
@@ -32383,7 +32384,7 @@ Here's a list of public Fediverse services.
 | `noury.ee` | Yes |
 | `noushi.chat` | No |
 | `noussommes.org` | No |
-| `noutori.space` | No |
+| `noutori.space` | Yes |
 | `nov.im` | No |
 | `nov.re` | No |
 | `nov29.one` | No |
@@ -32930,6 +32931,7 @@ Here's a list of public Fediverse services.
 | `odysseus.social` | No |
 | `odyssey346.dev` | No |
 | `oe-doutoku.jp` | No |
+| `oe-doutoku.net` | No |
 | `oe74.net` | No |
 | `oe7drt.com` | Yes |
 | `oedoinfo.com` | Yes |
@@ -51596,8 +51598,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,627 |
-| Normal | 36,921 |
+| Cloudflare | 14,628 |
+| Normal | 36,922 |
 
 
 </details>
