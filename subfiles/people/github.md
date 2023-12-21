@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CNAME Already Exists](https://github.com/aws-amplify/amplify-hosting/issues/3874)
 - [Secret Key is exposed in error thrown by this module](https://github.com/gettilled/tilled-node/issues/18)
 - [NGINX 500 error after latest Update](https://github.com/btcpayserver/btcpayserver/issues/5589)
 - [I cant use package in Nextjs 14](https://github.com/wojtekmaj/react-pdf/issues/1682)
