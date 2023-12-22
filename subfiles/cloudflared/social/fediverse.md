@@ -22925,7 +22925,7 @@ Here's a list of public Fediverse services.
 | `kiarc.win` | Yes |
 | `kiari.com` | No |
 | `kiasyn.com` | Yes |
-| `kibbutz.gay` | No |
+| `kibbutz.gay` | Yes |
 | `kiber-ogur4ik.space` | Yes |
 | `kiberness.xyz` | No |
 | `kibertonija.in` | No |
@@ -26603,7 +26603,7 @@ Here's a list of public Fediverse services.
 | `mammouth.cafe` | No |
 | `mammouth.quebec` | No |
 | `mammut.cyou` | No |
-| `mammut.id` | Yes |
+| `mammut.id` | No |
 | `mammut.moe` | No |
 | `mammut.mx` | No |
 | `mammut.red` | No |
@@ -27032,7 +27032,7 @@ Here's a list of public Fediverse services.
 | `masto.boo` | No |
 | `masto.cafe` | No |
 | `masto.casa` | Yes |
-| `masto.click` | Yes |
+| `masto.click` | No |
 | `masto.cloud` | No |
 | `masto.co` | No |
 | `masto.com` | No |
@@ -28681,6 +28681,7 @@ Here's a list of public Fediverse services.
 | `milky.coffee` | No |
 | `milkyl.in` | Yes |
 | `millcrick.com` | No |
+| `millcrick.link` | Yes |
 | `millcrick.org` | No |
 | `millcrick.social` | No |
 | `millefeuilles.cloud` | Yes |
@@ -51627,7 +51628,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,641 |
-| Normal | 36,937 |
+| Normal | 36,938 |
 
 
 </details>
