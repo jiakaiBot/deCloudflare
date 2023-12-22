@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,199 |
-| social | 4,720 |
+| social | 4,721 |
 | net | 4,033 |
 | org | 2,692 |
-| de | 2,559 |
+| de | 2,560 |
 
 
 - Mastodon, Pleroma, etc
@@ -9531,6 +9531,7 @@ Here's a list of public Fediverse services.
 | `cyrilix.bzh` | No |
 | `cyrille-borne.com` | No |
 | `cyrusbio.com` | Yes |
+| `cysec.social` | No |
 | `cysioland.pl` | Yes |
 | `cytag.nl` | No |
 | `cythin.aero` | No |
@@ -9950,6 +9951,7 @@ Here's a list of public Fediverse services.
 | `dataare.cool` | No |
 | `database.club` | No |
 | `datablob.de` | Yes |
+| `datachimps.eu` | No |
 | `dataclips.com` | No |
 | `datacorner.social` | No |
 | `dataden.gay` | Yes |
@@ -30629,6 +30631,7 @@ Here's a list of public Fediverse services.
 | `n0budget.com` | No |
 | `n0g.de` | No |
 | `n0id.space` | No |
+| `n0m.de` | Yes |
 | `n0mql.com` | Yes |
 | `n0n1337h41.com` | Yes |
 | `n0r1sk.com` | No |
@@ -47829,7 +47832,7 @@ Here's a list of public Fediverse services.
 | `uwunifi.com` | Yes |
 | `uwuntu.org` | Yes |
 | `uwuwatch.club` | Yes |
-| `uwuzu.net` | No |
+| `uwuzu.net` | Yes |
 | `uwuzunext.info` | Yes |
 | `uwyn.net` | No |
 | `uxbrad.com` | No |
@@ -51667,8 +51670,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,647 |
-| Normal | 36,972 |
+| Cloudflare | 14,649 |
+| Normal | 36,973 |
 
 
 </details>
