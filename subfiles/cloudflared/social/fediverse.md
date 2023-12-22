@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,201 |
-| social | 4,721 |
-| net | 4,033 |
+| social | 4,722 |
+| net | 4,034 |
 | org | 2,692 |
 | de | 2,562 |
 
@@ -5384,6 +5384,7 @@ Here's a list of public Fediverse services.
 | `blurts.net` | No |
 | `blustery.day` | Yes |
 | `blyler.cc` | Yes |
+| `bm-recht.ch` | No |
 | `bmaci.me` | No |
 | `bmannconsulting.com` | Yes |
 | `bmbl.fun` | No |
@@ -11377,6 +11378,7 @@ Here's a list of public Fediverse services.
 | `dom.ke` | No |
 | `dom.social` | No |
 | `dom64.xyz` | Yes |
+| `doma-immobilien.ch` | No |
 | `doma.dev` | No |
 | `domain-name.xyz` | Yes |
 | `domain919.net` | No |
@@ -13153,6 +13155,7 @@ Here's a list of public Fediverse services.
 | `escpod.fun` | No |
 | `escribitionist.com` | No |
 | `escritores.social` | No |
+| `escritura.social` | No |
 | `escriu.cat` | No |
 | `esdin.me` | No |
 | `esel.social` | No |
@@ -33320,6 +33323,7 @@ Here's a list of public Fediverse services.
 | `onestackdeep.com` | No |
 | `onestarrynight.com` | No |
 | `onesteprevolution.com` | No |
+| `onethingwell.dev` | Yes |
 | `onetwoseven.one` | Yes |
 | `onetwoxu.de` | No |
 | `onewilshire.la` | Yes |
@@ -41200,6 +41204,7 @@ Here's a list of public Fediverse services.
 | `skippers-bin.com` | Yes |
 | `skippy.org.uk` | Yes |
 | `skiqqy.xyz` | No |
+| `skirmish-dev.net` | No |
 | `skiscratcher.com` | Yes |
 | `skj.ca` | No |
 | `skj.photos` | Yes |
@@ -51676,8 +51681,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,651 |
-| Normal | 36,977 |
+| Cloudflare | 14,652 |
+| Normal | 36,981 |
 
 
 </details>
