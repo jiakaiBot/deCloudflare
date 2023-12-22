@@ -21970,7 +21970,7 @@ Here's a list of public Fediverse services.
 | `jschwab.org` | No |
 | `jseggers.com` | Yes |
 | `jsfamily.in` | No |
-| `jshwlkr.info` | No |
+| `jshwlkr.info` | Yes |
 | `jsirish.social` | No |
 | `jskherman.com` | Yes |
 | `jsna.dev` | Yes |
@@ -28681,7 +28681,6 @@ Here's a list of public Fediverse services.
 | `milky.coffee` | No |
 | `milkyl.in` | Yes |
 | `millcrick.com` | No |
-| `millcrick.link` | Yes |
 | `millcrick.org` | No |
 | `millcrick.social` | No |
 | `millefeuilles.cloud` | Yes |
@@ -45636,7 +45635,7 @@ Here's a list of public Fediverse services.
 | `tlmstdn.de` | No |
 | `tlo.xyz` | Yes |
 | `tlpbro.nl` | No |
-| `tlpfam.com` | Yes |
+| `tlpfam.com` | No |
 | `tls.zone` | Yes |
 | `tlsn.com` | No |
 | `tlsocial.de` | No |
@@ -51627,7 +51626,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,642 |
+| Cloudflare | 14,641 |
 | Normal | 36,937 |
 
 
