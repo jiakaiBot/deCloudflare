@@ -1508,6 +1508,7 @@ Do not create new issue or we will close it as duplicate.
 | [Austynjohnson51@twitter](https://twitter.com/Austynjohnson51/status/1561195515500429312) | advertise |
 | [austynrko21@twitter](https://twitter.com/austynrko21/status/1629608307156451329) | advertise |
 | [AuthenticAMD@twitter](https://twitter.com/AuthenticAMD/status/1665866793900990466) | advertise |
+| [AutoFireGaming1@twitter](https://twitter.com/AutoFireGaming1/status/1738081762071212161) | advertise |
 | [Automati18@twitter](https://twitter.com/Automati18/status/1596582995707977728) | advertise |
 | [autopalvelut@twitter](https://twitter.com/autopalvelut/status/1407036600136126475) | advertise |
 | [auto_tue@twitter](https://twitter.com/auto_tue/status/1513499048569114624) | advertise |
@@ -5148,6 +5149,7 @@ Do not create new issue or we will close it as duplicate.
 | [HoiVVn4@twitter](https://twitter.com/HoiVVn4/status/1623698197347696641) | advertise |
 | [Hoka46241573@twitter](https://twitter.com/Hoka46241573/status/1401380621033771013) | advertise |
 | [Holetenquan@twitter](https://twitter.com/Holetenquan/status/1695559144919748936) | advertise |
+| [HollyHolly83053@twitter](https://twitter.com/HollyHolly83053/status/1738008061309317191) | advertise |
 | [holmeszyx@twitter](https://twitter.com/holmeszyx/status/1379404117936893954) | advertise |
 | [Homa10000@twitter](https://twitter.com/Homa10000/status/1570850952676245504) | advertise |
 | [homing0922@twitter](https://twitter.com/homing0922/status/1389597408489660421) | advertise |
@@ -6681,6 +6683,7 @@ Do not create new issue or we will close it as duplicate.
 | [kentdt01@twitter](https://twitter.com/kentdt01/status/1611614592089882625) | advertise |
 | [Kentoisabento@twitter](https://twitter.com/Kentoisabento/status/1574787986092429316) | advertise |
 | [kenvin_weilion@twitter](https://twitter.com/kenvin_weilion/status/1727205780334710807) | advertise |
+| [kenwolfman1962@twitter](https://twitter.com/kenwolfman1962/status/1738057841892634703) | advertise |
 | [Kenyan_Deportee@twitter](https://twitter.com/Kenyan_Deportee/status/1382022082222039043) | advertise |
 | [KenzKen16705875@twitter](https://twitter.com/KenzKen16705875/status/1380413825988534273) | advertise |
 | [kenzxc864@twitter](https://twitter.com/kenzxc864/status/1711784029341843831) | advertise |
@@ -10417,6 +10420,7 @@ Do not create new issue or we will close it as duplicate.
 | [OoneOone2@twitter](https://twitter.com/OoneOone2/status/1392550303317250050) | advertise |
 | [OoNyi85126110@twitter](https://twitter.com/OoNyi85126110/status/1664532344731217921) | advertise |
 | [oon_solvent@twitter](https://twitter.com/oon_solvent/status/1678962524451143681) | advertise |
+| [OoPhyo788396@twitter](https://twitter.com/OoPhyo788396/status/1738072272496365920) | advertise |
 | [OoShinePyae3@twitter](https://twitter.com/OoShinePyae3/status/1406080647244914695) | advertise |
 | [OoThawLay2@twitter](https://twitter.com/OoThawLay2/status/1391107844292825089) | advertise |
 | [OowEik@twitter](https://twitter.com/OowEik/status/1389821108027727879) | advertise |
