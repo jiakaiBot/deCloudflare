@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,189 |
+| com | 8,190 |
 | social | 4,719 |
 | net | 4,030 |
 | org | 2,690 |
@@ -34676,6 +34676,7 @@ Here's a list of public Fediverse services.
 | `pegelinux.ga` | No |
 | `pegelinux.top` | No |
 | `pegg.net` | Yes |
+| `peggyheinkelwolfe.com` | No |
 | `pehnet.org` | No |
 | `peixe.co` | Yes |
 | `pejookaloo.com` | No |
@@ -51640,7 +51641,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,642 |
-| Normal | 36,949 |
+| Normal | 36,950 |
 
 
 </details>
