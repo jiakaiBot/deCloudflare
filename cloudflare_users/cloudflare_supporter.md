@@ -12801,6 +12801,7 @@ Do not create new issue or we will close it as duplicate.
 | [SpiritoElMuerte@twitter](https://twitter.com/SpiritoElMuerte/status/1527695286545489920) | advertise |
 | [SpiritualJay2k@twitter](https://twitter.com/SpiritualJay2k/status/1496013442985123845) | advertise |
 | [splcher@twitter](https://twitter.com/splcher/status/1436080593775718400) | advertise |
+| [spoobird1@twitter](https://twitter.com/spoobird1/status/1728155013443141695) | advertise |
 | [sporshojitsaha@twitter](https://twitter.com/sporshojitsaha/status/1404116014535647233) | advertise |
 | [SPOTITUSA@twitter](https://twitter.com/SPOTITUSA/status/1553672036652032001) | advertise |
 | [SPSYST3MS@twitter](https://twitter.com/SPSYST3MS/status/1393572067426148354) | advertise |
