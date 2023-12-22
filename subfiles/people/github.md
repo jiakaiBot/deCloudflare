@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No support for Cloudflare Workers](https://github.com/auth0/node-jwks-rsa/issues/392)
 - [Docs: Federation troubleshooting re: Cloudflare](https://github.com/element-hq/synapse/issues/16228)
 - [CNAME Already Exists](https://github.com/aws-amplify/amplify-hosting/issues/3874)
 - [Secret Key is exposed in error thrown by this module](https://github.com/gettilled/tilled-node/issues/18)
