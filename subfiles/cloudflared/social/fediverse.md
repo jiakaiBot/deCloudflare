@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,198 |
+| com | 8,199 |
 | social | 4,720 |
 | net | 4,033 |
 | org | 2,692 |
@@ -9617,6 +9617,7 @@ Here's a list of public Fediverse services.
 | `dados.red` | No |
 | `dadosch.de` | No |
 | `dads.cool` | No |
+| `dadvsvideogames.com` | No |
 | `daebak.fun` | No |
 | `daed.org` | No |
 | `daedal.io` | No |
@@ -51667,7 +51668,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,647 |
-| Normal | 36,971 |
+| Normal | 36,972 |
 
 
 </details>
