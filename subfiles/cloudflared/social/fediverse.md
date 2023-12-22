@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,721 |
 | net | 4,033 |
 | org | 2,692 |
-| de | 2,561 |
+| de | 2,562 |
 
 
 - Mastodon, Pleroma, etc
@@ -5045,6 +5045,7 @@ Here's a list of public Fediverse services.
 | `bjhess.com` | No |
 | `bjmendelson.com` | No |
 | `bjo.my.id` | Yes |
+| `bjoern-tantau.de` | No |
 | `bjones.net` | No |
 | `bjorkbrant.com` | Yes |
 | `bjorkede.no` | No |
@@ -27922,6 +27923,7 @@ Here's a list of public Fediverse services.
 | `md.social` | No |
 | `md.tn` | Yes |
 | `md0.ru` | No |
+| `mdalves.com.br` | No |
 | `mdbenning.de` | Yes |
 | `mdelaunay.fr` | No |
 | `mdg.no` | Yes |
@@ -51675,7 +51677,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,651 |
-| Normal | 36,975 |
+| Normal | 36,977 |
 
 
 </details>
