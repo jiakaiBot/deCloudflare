@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,184 |
+| com | 8,187 |
 | social | 4,719 |
-| net | 4,028 |
+| net | 4,029 |
 | org | 2,690 |
 | de | 2,553 |
 
@@ -18876,6 +18876,7 @@ Here's a list of public Fediverse services.
 | `hirad.it` | No |
 | `hirarira.net` | No |
 | `hirasakain.ninja` | Yes |
+| `hiringlibrarians.com` | No |
 | `hiromi-mi.jp` | Yes |
 | `hiroshimastdn.club` | No |
 | `hiroshimastodon.red` | No |
@@ -28681,7 +28682,6 @@ Here's a list of public Fediverse services.
 | `milky.coffee` | No |
 | `milkyl.in` | Yes |
 | `millcrick.com` | No |
-| `millcrick.link` | Yes |
 | `millcrick.org` | No |
 | `millcrick.social` | No |
 | `millefeuilles.cloud` | Yes |
@@ -32800,6 +32800,7 @@ Here's a list of public Fediverse services.
 | `ob-wahl-freiburg.de` | No |
 | `obak-key.com` | Yes |
 | `obapom.work` | No |
+| `obblogatory.com` | No |
 | `obbs.one` | No |
 | `obco.pro` | Yes |
 | `obdev.at` | No |
@@ -35416,6 +35417,7 @@ Here's a list of public Fediverse services.
 | `plan9.rocks` | No |
 | `planamag.com` | No |
 | `plandemic.icu` | No |
+| `planet-air.net` | No |
 | `planet-geek.com` | No |
 | `planet-vapers.com` | No |
 | `planet.moe` | Yes |
@@ -46198,6 +46200,7 @@ Here's a list of public Fediverse services.
 | `toyamastdon.net` | No |
 | `toyamastodon.info` | No |
 | `toybodon.com` | No |
+| `toyboxcomix.com` | No |
 | `toycode.com` | No |
 | `toyoko.in` | Yes |
 | `toyuzuko.dev` | No |
@@ -51627,8 +51630,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,641 |
-| Normal | 36,938 |
+| Cloudflare | 14,640 |
+| Normal | 36,942 |
 
 
 </details>
