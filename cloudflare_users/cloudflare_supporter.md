@@ -7868,6 +7868,7 @@ Do not create new issue or we will close it as duplicate.
 | [LouLousDen@twitter](https://twitter.com/LouLousDen/status/1568728072572076033) | advertise |
 | [Love40519001@twitter](https://twitter.com/Love40519001/status/1393980142456754178) | advertise |
 | [LoveHun27992161@twitter](https://twitter.com/LoveHun27992161/status/1390758715708608513) | advertise |
+| [loveislines24@twitter](https://twitter.com/loveislines24/status/1738095749114786094) | advertise |
 | [Loveisneverlos1@twitter](https://twitter.com/Loveisneverlos1/status/1397583492762927105) | advertise |
 | [Loveles63732045@twitter](https://twitter.com/Loveles63732045/status/1394978901445726212) | advertise |
 | [LoveLove1399@twitter](https://twitter.com/LoveLove1399/status/1669817590179307520) | advertise |
@@ -10080,6 +10081,7 @@ Do not create new issue or we will close it as duplicate.
 | [njang_zau_mun@twitter](https://twitter.com/njang_zau_mun/status/1380180638804832256) | advertise |
 | [njoolenesia@twitter](https://twitter.com/njoolenesia/status/1503838855765856256) | advertise |
 | [NJTNAS@twitter](https://twitter.com/NJTNAS/status/1702078419385655729) | advertise |
+| [Njumage01@twitter](https://twitter.com/Njumage01/status/1738103961293570151) | advertise |
 | [NkKee1@twitter](https://twitter.com/NkKee1/status/1379528528073433088) | advertise |
 | [NKNRC39@twitter](https://twitter.com/NKNRC39/status/1472029289855918083) | advertise |
 | [NkoliStvnsn@twitter](https://twitter.com/NkoliStvnsn/status/1572962518980792320) | advertise |
