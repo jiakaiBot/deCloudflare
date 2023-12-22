@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-12-22: [Increase in challenges for traffic from Tor exit nodes](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gn7tvw1gk4q6)
 - 2023-12-21: [Zone Versioning errors for some customers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/j7kx9cl4t2yn)
 - 2023-12-20: [Increase in 502 HTTP error rate for a subset of customers using Challenge Platform](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wjbrrkr52z71)
 - 2023-12-20: [Observatory tests failing](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/btgf31hly0p2)
