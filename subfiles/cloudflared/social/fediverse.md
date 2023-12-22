@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,187 |
+| com | 8,189 |
 | social | 4,719 |
-| net | 4,029 |
+| net | 4,030 |
 | org | 2,690 |
-| de | 2,553 |
+| de | 2,558 |
 
 
 - Mastodon, Pleroma, etc
@@ -5472,6 +5472,7 @@ Here's a list of public Fediverse services.
 | `bofhers.es` | No |
 | `bog.life` | No |
 | `bog.social` | No |
+| `bogdan.com.de` | No |
 | `bograham.xyz` | No |
 | `bogus.ee` | No |
 | `bohlenlabs.com` | No |
@@ -7628,6 +7629,7 @@ Here's a list of public Fediverse services.
 | `chud.space` | Yes |
 | `chudbuds.lol` | No |
 | `chudbuds.org` | No |
+| `chudzinski.com.de` | No |
 | `chuggybumba.com` | No |
 | `chumley.io` | No |
 | `chun.pro` | Yes |
@@ -8268,7 +8270,6 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8328,6 +8329,7 @@ Here's a list of public Fediverse services.
 | `commonhouse.social` | No |
 | `commons.tube` | No |
 | `commons.tw` | No |
+| `commonscomputer.com` | Yes |
 | `commonspub.org` | No |
 | `commonworlds.org` | No |
 | `comms.social` | Yes |
@@ -24782,6 +24784,7 @@ Here's a list of public Fediverse services.
 | `leptonics.com` | No |
 | `lequerrec.eu` | No |
 | `ler.jp` | No |
+| `lerchenberg.com.de` | No |
 | `lerchgonzalez.online` | No |
 | `lerebourg.net` | No |
 | `lerelaisdupatriote.fr` | No |
@@ -25726,6 +25729,7 @@ Here's a list of public Fediverse services.
 | `losinski.de` | No |
 | `losk.me` | No |
 | `losno.co` | Yes |
+| `loss.com.de` | No |
 | `lost-angles.im` | No |
 | `lost-frequencies.eu` | No |
 | `lost-in-outer.space` | No |
@@ -26432,6 +26436,7 @@ Here's a list of public Fediverse services.
 | `mahiradon.com` | Yes |
 | `mahjong.fan` | No |
 | `mahler.earth` | Yes |
+| `mahncke.com.de` | No |
 | `mahncke.net` | No |
 | `maho-do.jp` | No |
 | `maho.app` | No |
@@ -27198,6 +27203,7 @@ Here's a list of public Fediverse services.
 | `mastodon.coffee` | Yes |
 | `mastodon.com.au` | No |
 | `mastodon.com.br` | No |
+| `mastodon.com.de` | No |
 | `mastodon.com.pl` | Yes |
 | `mastodon.com.py` | Yes |
 | `mastodon.com.tr` | Yes |
@@ -28267,6 +28273,7 @@ Here's a list of public Fediverse services.
 | `mescl.in` | No |
 | `mesh.party` | No |
 | `mesh.sx` | No |
+| `mesh2.net` | No |
 | `meshed.cloud` | No |
 | `meshedinsights.com` | No |
 | `meshspace.de` | No |
@@ -33184,6 +33191,7 @@ Here's a list of public Fediverse services.
 | `oliviaappleton.com` | No |
 | `olivianet.work` | No |
 | `olivr.me` | No |
+| `oliwierjaszczyszyn.com` | No |
 | `oljo.xyz` | No |
 | `ollien.com` | Yes |
 | `olliespeople.place` | No |
@@ -51630,8 +51638,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,640 |
-| Normal | 36,942 |
+| Cloudflare | 14,641 |
+| Normal | 36,949 |
 
 
 </details>
