@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,199 |
+| com | 8,201 |
 | social | 4,721 |
 | net | 4,033 |
 | org | 2,692 |
@@ -1270,6 +1270,7 @@ Here's a list of public Fediverse services.
 | `adrianperales.com` | No |
 | `adrianwiderski.com` | No |
 | `adrichat.de` | No |
+| `adridoesthings.com` | Yes |
 | `adriel.info` | No |
 | `adrien.run` | No |
 | `adrienlacombe.me` | No |
@@ -36428,6 +36429,7 @@ Here's a list of public Fediverse services.
 | `proyectolanuevatierra.com` | Yes |
 | `proyectosilustrados.es` | No |
 | `proyectozero.org` | Yes |
+| `prplecake.com` | No |
 | `prpr.in` | Yes |
 | `prsk.love` | Yes |
 | `prsm.space` | No |
@@ -51670,8 +51672,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,649 |
-| Normal | 36,973 |
+| Cloudflare | 14,650 |
+| Normal | 36,974 |
 
 
 </details>
