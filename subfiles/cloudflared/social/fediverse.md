@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,190 |
+| com | 8,191 |
 | social | 4,720 |
 | net | 4,030 |
 | org | 2,690 |
@@ -17270,6 +17270,7 @@ Here's a list of public Fediverse services.
 | `gosocial.au` | Yes |
 | `gosocial.click` | No |
 | `gossler.family` | No |
+| `gostomski.co.uk` | No |
 | `gosuslugi.social` | Yes |
 | `got-tty.org` | No |
 | `gotanno.love` | No |
@@ -34063,6 +34064,7 @@ Here's a list of public Fediverse services.
 | `oyler.social` | No |
 | `oysta.au` | No |
 | `oyster.red` | Yes |
+| `oyundijital.com` | Yes |
 | `oz.hn` | No |
 | `ozar.dev` | No |
 | `ozbustard.social` | No |
@@ -51641,8 +51643,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,641 |
-| Normal | 36,952 |
+| Cloudflare | 14,642 |
+| Normal | 36,953 |
 
 
 </details>
