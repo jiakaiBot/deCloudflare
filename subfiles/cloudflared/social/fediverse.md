@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,198 |
 | social | 4,720 |
 | net | 4,033 |
-| org | 2,691 |
+| org | 2,692 |
 | de | 2,559 |
 
 
@@ -22925,6 +22925,7 @@ Here's a list of public Fediverse services.
 | `khpape.blog` | No |
 | `khromatic-myst.com` | No |
 | `khronos-rain.com` | Yes |
+| `khronos-rain.xyz` | No |
 | `khronosk.xyz` | Yes |
 | `khscc.jp` | Yes |
 | `khsmty.com` | Yes |
@@ -34723,7 +34724,7 @@ Here's a list of public Fediverse services.
 | `pengi-san.moe` | Yes |
 | `pengin.club` | No |
 | `pengins.dev` | No |
-| `penguicon.social` | No |
+| `penguicon.social` | Yes |
 | `penguin42.com` | No |
 | `penguinability.net` | No |
 | `penguinhub.org` | Yes |
@@ -36321,6 +36322,7 @@ Here's a list of public Fediverse services.
 | `project-cts.com` | No |
 | `project-disco.org` | Yes |
 | `project-imas.cn` | No |
+| `project-insanity.org` | No |
 | `project-nex.net` | Yes |
 | `project-taco.org` | Yes |
 | `project.social` | No |
@@ -51664,8 +51666,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,646 |
-| Normal | 36,970 |
+| Cloudflare | 14,647 |
+| Normal | 36,971 |
 
 
 </details>
