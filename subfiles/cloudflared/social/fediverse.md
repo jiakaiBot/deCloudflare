@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,190 |
-| social | 4,719 |
+| social | 4,720 |
 | net | 4,030 |
 | org | 2,690 |
 | de | 2,558 |
@@ -17030,6 +17030,7 @@ Here's a list of public Fediverse services.
 | `gndec.ac.in` | No |
 | `gndh.net` | No |
 | `gnethomelinux.com` | No |
+| `gnezdovi.com` | No |
 | `gng.io` | No |
 | `gnidam.at` | No |
 | `gnieh.org` | No |
@@ -17269,7 +17270,6 @@ Here's a list of public Fediverse services.
 | `gosocial.au` | Yes |
 | `gosocial.click` | No |
 | `gossler.family` | No |
-| `gostomski.co.uk` | No |
 | `gosuslugi.social` | Yes |
 | `got-tty.org` | No |
 | `gotanno.love` | No |
@@ -30359,6 +30359,7 @@ Here's a list of public Fediverse services.
 | `mxh.nu` | No |
 | `mxhdr.net` | No |
 | `mxhl.de` | Yes |
+| `mxin.moe` | No |
 | `mxin.org` | Yes |
 | `mxinfo.fr` | No |
 | `mxks.dj` | No |
@@ -34062,7 +34063,6 @@ Here's a list of public Fediverse services.
 | `oyler.social` | No |
 | `oysta.au` | No |
 | `oyster.red` | Yes |
-| `oyundijital.com` | Yes |
 | `oz.hn` | No |
 | `ozar.dev` | No |
 | `ozbustard.social` | No |
@@ -37413,6 +37413,7 @@ Here's a list of public Fediverse services.
 | `rares.cc` | Yes |
 | `raretrack.uk` | No |
 | `rarez.lol` | No |
+| `rarez.social` | No |
 | `rarf.zone` | No |
 | `rarified.online` | No |
 | `raroh73.xyz` | Yes |
@@ -51640,8 +51641,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,642 |
-| Normal | 36,950 |
+| Cloudflare | 14,641 |
+| Normal | 36,952 |
 
 
 </details>
