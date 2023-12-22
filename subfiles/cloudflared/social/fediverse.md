@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,721 |
 | net | 4,033 |
 | org | 2,692 |
-| de | 2,560 |
+| de | 2,561 |
 
 
 - Mastodon, Pleroma, etc
@@ -11863,6 +11863,7 @@ Here's a list of public Fediverse services.
 | `duckchat.me` | No |
 | `duckdns.org` | Yes |
 | `duckie.chat` | Yes |
+| `duckpon.de` | Yes |
 | `duckpond.social` | No |
 | `duckrowing.com` | No |
 | `ducksareawesome.net` | No |
@@ -32282,6 +32283,7 @@ Here's a list of public Fediverse services.
 | `norse.social` | No |
 | `nortel.cloud` | No |
 | `northbaypython.org` | No |
+| `northbound.online` | No |
 | `northeast.one` | No |
 | `northern-fox.com` | Yes |
 | `northernvoice.app` | No |
@@ -51672,8 +51674,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,650 |
-| Normal | 36,974 |
+| Cloudflare | 14,651 |
+| Normal | 36,975 |
 
 
 </details>
