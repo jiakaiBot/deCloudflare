@@ -4329,6 +4329,7 @@ Do not create new issue or we will close it as duplicate.
 | [GgMg04587862@twitter](https://twitter.com/GgMg04587862/status/1392000179360788480) | advertise |
 | [GgUu18976278@twitter](https://twitter.com/GgUu18976278/status/1535274513042120705) | advertise |
 | [ghafoori1020@twitter](https://twitter.com/ghafoori1020/status/1551674539209285633) | advertise |
+| [GhalanAnis88092@twitter](https://twitter.com/GhalanAnis88092/status/1738544218593997161) | advertise |
 | [Ghanou_Abde_19@twitter](https://twitter.com/Ghanou_Abde_19/status/1632823596941754369) | advertise |
 | [ghano_gh@twitter](https://twitter.com/ghano_gh/status/1403155628667850752) | advertise |
 | [Ghanshy81036106@twitter](https://twitter.com/Ghanshy81036106/status/1391609026148855812) | advertise |
@@ -5783,6 +5784,7 @@ Do not create new issue or we will close it as duplicate.
 | [iPhone6s_mini@twitter](https://twitter.com/iPhone6s_mini/status/1663240634856087553) | advertise |
 | [iqbalbirrul@twitter](https://twitter.com/iqbalbirrul/status/1401703605950828548) | advertise |
 | [iqbwlx@twitter](https://twitter.com/iqbwlx/status/1625399251491598341) | advertise |
+| [IQnl3QW4uDmbF2o@twitter](https://twitter.com/IQnl3QW4uDmbF2o/status/1738539272196800896) | advertise |
 | [irafaj_ila@twitter](https://twitter.com/irafaj_ila/status/1402692024067936260) | advertise |
 | [iraghavan_ceo@twitter](https://twitter.com/iraghavan_ceo/status/1570090820996583424) | advertise |
 | [Iranjd@twitter](https://twitter.com/Iranjd/status/1448632216834224131) | advertise |
@@ -11658,6 +11660,7 @@ Do not create new issue or we will close it as duplicate.
 | [rightlywhat@twitter](https://twitter.com/rightlywhat/status/1691153304947171328) | advertise |
 | [RightTron@twitter](https://twitter.com/RightTron/status/1659663226768850946) | advertise |
 | [RihanMalik70304@twitter](https://twitter.com/RihanMalik70304/status/1643201086763991040) | advertise |
+| [RijanRijanad123@twitter](https://twitter.com/RijanRijanad123/status/1738520517521662076) | advertise |
 | [Rikroy16171261@twitter](https://twitter.com/Rikroy16171261/status/1735291097104990595) | advertise |
 | [RimonIs52049086@twitter](https://twitter.com/RimonIs52049086/status/1480451386680639488) | advertise |
 | [Rin98111380@twitter](https://twitter.com/Rin98111380/status/1395429981451284485) | advertise |
