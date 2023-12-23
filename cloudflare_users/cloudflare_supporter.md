@@ -1685,6 +1685,7 @@ Do not create new issue or we will close it as duplicate.
 | [Baktash2000@twitter](https://twitter.com/Baktash2000/status/1632182641821712384) | advertise |
 | [Bakulmaterial@twitter](https://twitter.com/Bakulmaterial/status/1392244753429778433) | advertise |
 | [bak_bao@twitter](https://twitter.com/bak_bao/status/1381263917448454144) | advertise |
+| [Bal3rbyP@twitter](https://twitter.com/Bal3rbyP/status/1738648125386948711) | advertise |
 | [balbalaarka@twitter](https://twitter.com/balbalaarka/status/1398161624834445312) | advertise |
 | [ballSP@twitter](https://twitter.com/ballSP/status/1554040235922636800) | advertise |
 | [Bally8865@twitter](https://twitter.com/Bally8865/status/1406071457776537606) | advertise |
