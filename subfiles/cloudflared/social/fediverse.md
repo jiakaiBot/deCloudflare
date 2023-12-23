@@ -4572,6 +4572,7 @@ Here's a list of public Fediverse services.
 | `bermuda-delta.com` | No |
 | `bern.social` | No |
 | `bernard.host` | No |
+| `bernerfahrschule.ch` | No |
 | `bernhardp.social` | No |
 | `bernigaud.eu` | No |
 | `berries.pw` | Yes |
@@ -51716,7 +51717,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,656 |
-| Normal | 37,011 |
+| Normal | 37,012 |
 
 
 </details>
