@@ -26,18 +26,22 @@ Here's a list of public Matrix services.
 | riot.allmende.io | No |
 | alternanet.fr | No |
 | matrix.archaeo.social | Yes |
+| matrix.arcticfoxes.net | Yes |
 | aria.im | No |
+| matrix.bachgau.social | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
-| breeze.town | No |
+| matrix.breeze.town | No |
 | matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
 | matrix.chatwave.org | No |
+| club1.fr | No |
 | matrix-client.comm.cx | Yes |
+| matrix.communick.com | Yes |
 | converser.eu | No |
-| matrix.crossbach.de | No |
+| matrix.cyberfurz.chat | No |
 | matrix.data.coop | No |
 | im.deuxfleurs.fr | No |
 | matrix.dieandalusier.net | No |
@@ -50,7 +54,8 @@ Here's a list of public Matrix services.
 | matrix.frei.chat | No |
 | matrix.freiburg.social | No |
 | matrix.fsfe.org | No |
-| g24.at | No |
+| funami.tech | Yes |
+| matrix.g24.at | No |
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
 | matrix.glasgow.social | No |
@@ -69,8 +74,11 @@ Here's a list of public Matrix services.
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
+| mailstation.de | No |
+| matrix.im | No |
 | matrix.org | Yes |
 | matrixapp.chat | No |
+| matrix.mint.lgbt | No |
 | matrix.monero.social | No |
 | mtrx.nz | No |
 | nitro.chat | No |
@@ -83,19 +91,23 @@ Here's a list of public Matrix services.
 | matrix.pikaviestin.fi | No |
 | possum.city | Yes |
 | www.privacytools.io | Yes |
+| matrix.private.coffee | No |
 | matrix.pub.solar | No |
 | radiowarnerd.org | No |
-| matrix.rimfaxe.net | No |
 | riotchat.de | Yes |
 | ru-matrix.org | No |
 | sans-nuage.fr | No |
+| matrix.sibnsk.net | No |
+| matrix.skye.vg | Yes |
 | socialnetwork24.com | No |
+| chat.soziale.cloud | No |
 | matrix.studichat.de | No |
 | synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
-| tomesh.net | No |
+| the-apothecary.club | No |
+| synapse.transgirl.cafe | Yes |
 | ungleich.matrix.ungleich.cloud | No |
 | unita.online | No |
 | matrix.unredacted.org | Yes |
@@ -112,8 +124,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 21 |
-| Normal | 64 |
+| Cloudflare | 26 |
+| Normal | 71 |
 
 
-### 24.7% of public Matrix services are using Cloudflare.
+### 26.8% of public Matrix services are using Cloudflare.
