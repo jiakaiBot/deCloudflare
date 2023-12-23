@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,207 |
-| social | 4,723 |
+| social | 4,724 |
 | net | 4,034 |
 | org | 2,694 |
 | de | 2,564 |
@@ -629,8 +629,8 @@ Here's a list of public Fediverse services.
 | `50pd.uk` | No |
 | `512.moe` | Yes |
 | `513515.xyz` | Yes |
-| `513ths.com` | Yes |
-| `513ths.org` | Yes |
+| `513ths.com` | No |
+| `513ths.org` | No |
 | `51attack.li` | No |
 | `51yyds.tk` | No |
 | `52537887.xyz` | Yes |
@@ -14375,6 +14375,7 @@ Here's a list of public Fediverse services.
 | `femboys.bar` | Yes |
 | `femboys.love` | Yes |
 | `femby.club` | No |
+| `femby.page` | No |
 | `feminine.social` | No |
 | `feminism.lgbt` | No |
 | `femme.energy` | No |
@@ -14625,6 +14626,7 @@ Here's a list of public Fediverse services.
 | `finnley.audio` | No |
 | `finny.me` | Yes |
 | `finonet.de` | No |
+| `finops.social` | No |
 | `finotto.social` | No |
 | `finpeeps.com` | No |
 | `fins.fish` | No |
@@ -31307,6 +31309,7 @@ Here's a list of public Fediverse services.
 | `nerdjunk.de` | No |
 | `nerdlings.club` | No |
 | `nerdlings.net` | Yes |
+| `nerdly.dev` | Yes |
 | `nerdnet.ovh` | No |
 | `nerdnight.ninja` | No |
 | `nerdnightlax.com` | Yes |
@@ -31381,6 +31384,7 @@ Here's a list of public Fediverse services.
 | `netfie.ca` | No |
 | `netflux.io` | No |
 | `netfull.org` | No |
+| `netfuture.ch` | No |
 | `nethack.tv` | No |
 | `nether.net` | No |
 | `netheredge.com` | No |
@@ -51706,8 +51710,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,656 |
-| Normal | 37,002 |
+| Cloudflare | 14,655 |
+| Normal | 37,007 |
 
 
 </details>
