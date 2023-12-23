@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,201 |
+| com | 8,202 |
 | social | 4,723 |
 | net | 4,034 |
 | org | 2,692 |
-| de | 2,562 |
+| de | 2,563 |
 
 
 - Mastodon, Pleroma, etc
@@ -6226,6 +6226,7 @@ Here's a list of public Fediverse services.
 | `bunt.social` | No |
 | `buntadon.jp` | No |
 | `buntcomm.com` | No |
+| `bunte-kuechenabenteuer.de` | No |
 | `buntel.de` | No |
 | `buny.love` | No |
 | `buny.plus` | Yes |
@@ -20125,6 +20126,7 @@ Here's a list of public Fediverse services.
 | `improv.one` | No |
 | `improv.social` | No |
 | `improved-madness.de` | No |
+| `impulsait.com` | No |
 | `imreh.net` | Yes |
 | `imrich.net` | No |
 | `imsb.app` | Yes |
@@ -35552,7 +35554,7 @@ Here's a list of public Fediverse services.
 | `pleroma-social.ml` | No |
 | `pleroma.best` | No |
 | `pleroma.cat` | No |
-| `pleroma.cloud` | No |
+| `pleroma.cloud` | Yes |
 | `pleroma.com` | No |
 | `pleroma.es` | No |
 | `pleroma.fr` | No |
@@ -49200,6 +49202,7 @@ Here's a list of public Fediverse services.
 | `weibo.run` | Yes |
 | `weide.social` | No |
 | `weilnboeck.social` | No |
+| `weinbergwandern.at` | No |
 | `weinfeste-der-pfalz.de` | No |
 | `weinzierlweb.com` | No |
 | `weiranzhang.com` | Yes |
@@ -51683,8 +51686,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,649 |
-| Normal | 36,986 |
+| Cloudflare | 14,650 |
+| Normal | 36,988 |
 
 
 </details>
