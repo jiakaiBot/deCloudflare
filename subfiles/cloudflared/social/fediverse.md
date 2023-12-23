@@ -430,6 +430,7 @@ Here's a list of public Fediverse services.
 | `2printers1cups.com` | Yes |
 | `2pxnl.de` | No |
 | `2quiet2market.com` | No |
+| `2sheds.online` | No |
 | `2snc.eu` | No |
 | `2soc.net` | No |
 | `2tails2arms.tk` | No |
@@ -10968,6 +10969,7 @@ Here's a list of public Fediverse services.
 | `digressive.me` | No |
 | `digselver.de` | No |
 | `dijy.eu.org` | Yes |
+| `dikmax.name` | No |
 | `dilavni.com` | Yes |
 | `diligiant.com` | Yes |
 | `dilithium.fr` | No |
@@ -13862,6 +13864,7 @@ Here's a list of public Fediverse services.
 | `fasol.org` | No |
 | `fast-break.de` | No |
 | `fast-email.link` | Yes |
+| `fastblur.win` | Yes |
 | `fastco.social` | No |
 | `fastcompany.social` | No |
 | `fastdon.com` | No |
@@ -38978,6 +38981,7 @@ Here's a list of public Fediverse services.
 | `runty.social` | Yes |
 | `runyu.tokyo` | No |
 | `ruoiu.app` | Yes |
+| `ruolatorisolitari.it` | No |
 | `ruomu.in` | No |
 | `rup.one` | Yes |
 | `rural-it.org` | No |
@@ -51700,8 +51704,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,654 |
-| Normal | 36,998 |
+| Cloudflare | 14,655 |
+| Normal | 37,001 |
 
 
 </details>
