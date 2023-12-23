@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,207 |
 | social | 4,725 |
 | net | 4,035 |
-| org | 2,694 |
+| org | 2,695 |
 | de | 2,564 |
 
 
@@ -9847,6 +9847,7 @@ Here's a list of public Fediverse services.
 | `darkart.space` | No |
 | `darkcarnival.me` | No |
 | `darkcooger.net` | No |
+| `darkcrow.org` | No |
 | `darkcyber.club` | No |
 | `darkcyber.social` | No |
 | `darkd.xyz` | No |
@@ -24335,6 +24336,7 @@ Here's a list of public Fediverse services.
 | `lastauth.com` | No |
 | `lastbreach.tv` | No |
 | `lastchance.rodeo` | No |
+| `lastcontact.space` | No |
 | `lastfree.space` | No |
 | `lasthearth.net` | No |
 | `lastlight.cafe` | No |
@@ -31022,6 +31024,7 @@ Here's a list of public Fediverse services.
 | `nd2.uk` | No |
 | `nda.li` | No |
 | `nder.se` | Yes |
+| `ndesoft.dk` | Yes |
 | `ndfirst.org` | No |
 | `ndlug.org` | No |
 | `ndn.digital` | Yes |
@@ -51712,8 +51715,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,655 |
-| Normal | 37,009 |
+| Cloudflare | 14,656 |
+| Normal | 37,011 |
 
 
 </details>
