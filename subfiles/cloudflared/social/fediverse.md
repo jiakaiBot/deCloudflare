@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,203 |
+| com | 8,207 |
 | social | 4,723 |
 | net | 4,034 |
-| org | 2,692 |
-| de | 2,563 |
+| org | 2,694 |
+| de | 2,564 |
 
 
 - Mastodon, Pleroma, etc
@@ -3048,6 +3048,7 @@ Here's a list of public Fediverse services.
 | `arthur.pizza` | Yes |
 | `arthurhollingsworth.com` | No |
 | `artica.center` | No |
+| `artichokenetwork.com` | Yes |
 | `articlesofunity.social` | No |
 | `artifaille.fr` | No |
 | `artificial-owl.com` | No |
@@ -7760,6 +7761,7 @@ Here's a list of public Fediverse services.
 | `civilloquy.com` | No |
 | `civilposter.club` | No |
 | `civiq.social` | Yes |
+| `civv.es` | Yes |
 | `cizek.chat` | No |
 | `cizmar.net` | No |
 | `cj.codes` | Yes |
@@ -11604,6 +11606,7 @@ Here's a list of public Fediverse services.
 | `dracula.social` | No |
 | `draculaojisan.com` | No |
 | `draculo.net` | No |
+| `draeh.org` | No |
 | `draff.zip` | No |
 | `drag.li` | Yes |
 | `dragas.it` | No |
@@ -13717,6 +13720,7 @@ Here's a list of public Fediverse services.
 | `falktx.com` | No |
 | `falkvinge.net` | Yes |
 | `fallcounty.monster` | No |
+| `fallenbeck.com` | No |
 | `fallendemon.xyz` | No |
 | `falles.online` | Yes |
 | `falschgold.net` | No |
@@ -14920,6 +14924,7 @@ Here's a list of public Fediverse services.
 | `fluffy.social` | Yes |
 | `fluffy.world` | No |
 | `fluffyb.net` | Yes |
+| `fluffycloud.org` | No |
 | `fluffyfox.moe` | No |
 | `fluffyheart.me` | No |
 | `fluffyhu.gs` | No |
@@ -22644,6 +22649,7 @@ Here's a list of public Fediverse services.
 | `kbin.chat` | Yes |
 | `kbin.com.au` | No |
 | `kbin.dk` | No |
+| `kbin.earth` | Yes |
 | `kbin.lgbt` | Yes |
 | `kbin.life` | Yes |
 | `kbin.lol` | No |
@@ -30686,6 +30692,7 @@ Here's a list of public Fediverse services.
 | `naber.space` | No |
 | `nabi1080.net` | No |
 | `nacchan.ca` | Yes |
+| `naceira.com` | No |
 | `nachocheese.mom` | No |
 | `nachocheese.uk` | No |
 | `nachof.blog` | No |
@@ -31361,6 +31368,7 @@ Here's a list of public Fediverse services.
 | `netaka.net` | Yes |
 | `netauthority.org` | No |
 | `netcorsoft.de` | No |
+| `netcup.cafe` | No |
 | `netcup.social` | No |
 | `netdc.ca` | No |
 | `netdrones.ai` | No |
@@ -33978,6 +33986,7 @@ Here's a list of public Fediverse services.
 | `outremer.social` | No |
 | `outrider.xyz` | No |
 | `outrnat.nl` | No |
+| `outro.de` | No |
 | `outsideisfree.xyz` | No |
 | `outsidermanga.com` | No |
 | `outsiders.network` | No |
@@ -39455,6 +39464,7 @@ Here's a list of public Fediverse services.
 | `santadog.social` | No |
 | `santiagovaldez.me` | Yes |
 | `santic-zombie.ru` | No |
+| `santogoyunwol.today` | No |
 | `santolin.eu` | No |
 | `santos.social` | Yes |
 | `santoshhari.dev` | No |
@@ -43663,6 +43673,7 @@ Here's a list of public Fediverse services.
 | `syrup.zone` | No |
 | `sys2nix.de` | Yes |
 | `sysad.ninja` | No |
+| `sysadmin.quest` | Yes |
 | `sysadmin.run` | Yes |
 | `sysadmins.zone` | Yes |
 | `sysadmon.de` | No |
@@ -48463,6 +48474,7 @@ Here's a list of public Fediverse services.
 | `vk5fj.net` | No |
 | `vkdn.jp` | No |
 | `vkl.world` | No |
+| `vladcampos.com` | Yes |
 | `vladcampos.eu` | Yes |
 | `vladovince.com` | No |
 | `vladtepesblog.com` | Yes |
@@ -51687,8 +51699,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,650 |
-| Normal | 36,989 |
+| Cloudflare | 14,655 |
+| Normal | 36,996 |
 
 
 </details>
