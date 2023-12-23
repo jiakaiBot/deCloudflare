@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Crash in feed controller](https://github.com/getindiekit/indiekit/issues/676)
 - [No support for Cloudflare Workers](https://github.com/auth0/node-jwks-rsa/issues/392)
 - [Docs: Federation troubleshooting re: Cloudflare](https://github.com/element-hq/synapse/issues/16228)
 - [CNAME Already Exists](https://github.com/aws-amplify/amplify-hosting/issues/3874)
