@@ -28563,6 +28563,7 @@ Here's a list of public Fediverse services.
 | `microsocial.club` | Yes |
 | `microswit.ch` | Yes |
 | `microwaved.club` | No |
+| `microwaved.computer` | No |
 | `midala.net` | No |
 | `midchilda.com` | No |
 | `middangeard.ch` | No |
@@ -49780,7 +49781,7 @@ Here's a list of public Fediverse services.
 | `wmsci.com` | Yes |
 | `wndp.cloud` | Yes |
 | `wnelson.dev` | Yes |
-| `wngs.uk` | Yes |
+| `wngs.uk` | No |
 | `wnymathguy.com` | No |
 | `wo4y.de` | No |
 | `woafre.tk` | No |
@@ -51699,8 +51700,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,655 |
-| Normal | 36,996 |
+| Cloudflare | 14,654 |
+| Normal | 36,998 |
 
 
 </details>
