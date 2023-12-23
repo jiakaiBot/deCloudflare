@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SSl Proxy Support](https://github.com/oxylabs/selenium-proxy-integration-python/issues/9)
 - [Crash in feed controller](https://github.com/getindiekit/indiekit/issues/676)
 - [No support for Cloudflare Workers](https://github.com/auth0/node-jwks-rsa/issues/392)
 - [Docs: Federation troubleshooting re: Cloudflare](https://github.com/element-hq/synapse/issues/16228)
