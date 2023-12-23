@@ -41403,6 +41403,7 @@ Here's a list of public Fediverse services.
 | `sloane.sh` | Yes |
 | `slobbe.ch` | No |
 | `slonisko.cz` | No |
+| `slonk.ing` | Yes |
 | `slop.social` | No |
 | `sloppy-life.net` | Yes |
 | `sloppylinux.com` | No |
@@ -51704,7 +51705,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,655 |
+| Cloudflare | 14,656 |
 | Normal | 37,001 |
 
 
