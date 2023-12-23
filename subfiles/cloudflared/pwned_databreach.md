@@ -399,7 +399,7 @@ Here's a list of breached sites.
 | MastercardPricelessSpecials (Mastercard Priceless Specials) | 89,388 | No |
 | Mate1 (Mate1.com) | 27,393,015 | No |
 | Mathway | 25,692,862 | No |
-| MechoDownload (Mecho Download) | 437,928 | Yes |
+| MechoDownload (Mecho Download) | 437,928 | No |
 | MeetMindful | 1,422,717 | Yes |
 | MemeChat | 4,348,570 | No |
 | MindJolt (Mindjolt) | 28,364,826 | No |
@@ -707,7 +707,7 @@ Here's a list of breached sites.
 | eThekwiniMunicipality (eThekwini Municipality) | 81,830 | No |
 | gPotato | 2,136,520 | Yes |
 | iDTech (iD Tech) | 415,121 | No |
-| iDressup (i-Dressup) | 2,191,565 | No |
+| iDressup (i-Dressup) | 2,191,565 | Yes |
 | iMenu360 | 3,425,860 | No |
 | iMesh | 49,467,477 | No |
 | iPmart | 2,460,787 | No |
@@ -726,8 +726,8 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 413 | 4,532,526,623 |
-| Normal | 292 | 4,568,282,286 |
+| Cloudflare | 413 | 4,534,280,260 |
+| Normal | 292 | 4,566,528,649 |
 
 
 
