@@ -5915,6 +5915,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ja10504Jarallah@twitter](https://twitter.com/Ja10504Jarallah/status/1684596767537397760) | advertise |
 | [JaafarDafie@twitter](https://twitter.com/JaafarDafie/status/1401898919118790659) | advertise |
 | [jabaowl@twitter](https://twitter.com/jabaowl/status/1564635058585194500) | advertise |
+| [jabb_bangposri@twitter](https://twitter.com/jabb_bangposri/status/1738613263506796563) | advertise |
 | [jAbdullahMughal@twitter](https://twitter.com/jAbdullahMughal/status/1477590087437279232) | advertise |
 | [jaberalipur@twitter](https://twitter.com/jaberalipur/status/1580619614689824768) | advertise |
 | [Jabinhossain@twitter](https://twitter.com/Jabinhossain/status/1541025396141232128) | advertise |
@@ -7833,6 +7834,7 @@ Do not create new issue or we will close it as duplicate.
 | [Long38978527@twitter](https://twitter.com/Long38978527/status/1393012103389212675) | advertise |
 | [Long85366984@twitter](https://twitter.com/Long85366984/status/1401922952132583431) | advertise |
 | [Long95573866@twitter](https://twitter.com/Long95573866/status/1549119641729257472) | advertise |
+| [Long77730330013@twitter](https://twitter.com/Long77730330013/status/1738628597504688143) | advertise |
 | [Longcute192762@twitter](https://twitter.com/Longcute192762/status/1681281805968896000) | advertise |
 | [Longgg94106580@twitter](https://twitter.com/Longgg94106580/status/1405171698526154758) | advertise |
 | [Longggisme@twitter](https://twitter.com/Longggisme/status/1398005281842335744) | advertise |
@@ -8060,6 +8062,7 @@ Do not create new issue or we will close it as duplicate.
 | [mabyestar@twitter](https://twitter.com/mabyestar/status/1553105701328654336) | advertise |
 | [macawtechbr@twitter](https://twitter.com/macawtechbr/status/1604493456801337344) | advertise |
 | [Macbeda1@twitter](https://twitter.com/Macbeda1/status/1684598884129964032) | advertise |
+| [machtoners@twitter](https://twitter.com/machtoners/status/1738631751864578410) | advertise |
 | [mackendy94@twitter](https://twitter.com/mackendy94/status/1478395983893565447) | advertise |
 | [maclordzafra@twitter](https://twitter.com/maclordzafra/status/1379484426510422031) | advertise |
 | [MaCon44428252@twitter](https://twitter.com/MaCon44428252/status/1404306563985072129) | advertise |
@@ -9337,6 +9340,7 @@ Do not create new issue or we will close it as duplicate.
 | [MyoKoko66739996@twitter](https://twitter.com/MyoKoko66739996/status/1393349097478778881) | advertise |
 | [MyoKoZin4@twitter](https://twitter.com/MyoKoZin4/status/1390671746035064834) | advertise |
 | [MyoKyaw56371240@twitter](https://twitter.com/MyoKyaw56371240/status/1393470321563422723) | advertise |
+| [MyoLay961348@twitter](https://twitter.com/MyoLay961348/status/1738631134131675278) | advertise |
 | [MyoMin93046742@twitter](https://twitter.com/MyoMin93046742/status/1393449413088002049) | advertise |
 | [MyoMinH54111642@twitter](https://twitter.com/MyoMinH54111642/status/1395782594290061313) | advertise |
 | [MyoMinK11217358@twitter](https://twitter.com/MyoMinK11217358/status/1389624592310759426) | advertise |
@@ -13278,6 +13282,7 @@ Do not create new issue or we will close it as duplicate.
 | [tej_bo@twitter](https://twitter.com/tej_bo/status/1525166409579483136) | advertise |
 | [tekakenji@twitter](https://twitter.com/tekakenji/status/1378831679356215296) | advertise |
 | [Tekazariyas@twitter](https://twitter.com/Tekazariyas/status/1737879295844905108) | advertise |
+| [teketeke195@twitter](https://twitter.com/teketeke195/status/1738615635293442145) | advertise |
 | [teking1909@twitter](https://twitter.com/teking1909/status/1717073439046156400) | advertise |
 | [Tekkenz2@twitter](https://twitter.com/Tekkenz2/status/1400160711297277954) | advertise |
 | [TekTytanMike@twitter](https://twitter.com/TekTytanMike/status/1566249485155680257) | advertise |
@@ -14617,6 +14622,7 @@ Do not create new issue or we will close it as duplicate.
 | [Verheijke@twitter](https://twitter.com/Verheijke/status/1537395365208539137) | advertise |
 | [VeRseS23221477@twitter](https://twitter.com/VeRseS23221477/status/1538116332331278336) | advertise |
 | [VersoeGee@twitter](https://twitter.com/VersoeGee/status/1385038002490019844) | advertise |
+| [Vespar322@twitter](https://twitter.com/Vespar322/status/1738633176996868585) | advertise |
 | [vetchanna@twitter](https://twitter.com/vetchanna/status/1670710637759184896) | advertise |
 | [VeteranOwned@twitter](https://twitter.com/VeteranOwned/status/1390703239042117632) | advertise |
 | [vettijoe@twitter](https://twitter.com/vettijoe/status/1390939641025466371) | advertise |
