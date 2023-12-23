@@ -13479,6 +13479,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThawSett5@twitter](https://twitter.com/ThawSett5/status/1394010019763347458) | advertise |
 | [ThawTarSan3@twitter](https://twitter.com/ThawTarSan3/status/1377504002695254016) | advertise |
 | [Thawz9988Zin@twitter](https://twitter.com/Thawz9988Zin/status/1687793647394418688) | advertise |
+| [ThawZin12131788@twitter](https://twitter.com/ThawZin12131788/status/1738489978324430915) | advertise |
 | [ThawZin60914337@twitter](https://twitter.com/ThawZin60914337/status/1404379736323801088) | advertise |
 | [ThawZin93095969@twitter](https://twitter.com/ThawZin93095969/status/1393479817127886850) | advertise |
 | [ThawZinHtoo12@twitter](https://twitter.com/ThawZinHtoo12/status/1398715616303984648) | advertise |
