@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,207 |
-| social | 4,724 |
-| net | 4,034 |
+| social | 4,725 |
+| net | 4,035 |
 | org | 2,694 |
 | de | 2,564 |
 
@@ -18432,6 +18432,7 @@ Here's a list of public Fediverse services.
 | `heartles.xyz` | No |
 | `heartofilsolar.com` | No |
 | `hearts.community` | No |
+| `heartystarty.net` | No |
 | `heath.cc` | Yes |
 | `heath.social` | No |
 | `heath.town` | No |
@@ -35725,6 +35726,7 @@ Here's a list of public Fediverse services.
 | `podcast.style` | No |
 | `podcastalot.com` | No |
 | `podcaster.social` | No |
+| `podcasters.social` | No |
 | `podcastindex.net` | No |
 | `podcastindex.org` | Yes |
 | `podcastindex.social` | No |
@@ -38584,6 +38586,7 @@ Here's a list of public Fediverse services.
 | `rodvand.net` | No |
 | `roe.dev` | Yes |
 | `roeckoe.be` | No |
+| `roehren.net` | Yes |
 | `roelfrenkema.com` | No |
 | `roelhesp.nl` | Yes |
 | `roelof.info` | No |
@@ -47870,7 +47873,6 @@ Here's a list of public Fediverse services.
 | `uwunifi.com` | Yes |
 | `uwuntu.org` | Yes |
 | `uwuwatch.club` | Yes |
-| `uwuzu.net` | Yes |
 | `uwuzunext.info` | Yes |
 | `uwyn.net` | No |
 | `uxbrad.com` | No |
@@ -51711,7 +51713,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,655 |
-| Normal | 37,007 |
+| Normal | 37,009 |
 
 
 </details>
