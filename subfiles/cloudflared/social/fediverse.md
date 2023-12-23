@@ -24995,6 +24995,7 @@ Here's a list of public Fediverse services.
 | `lib.lgbt` | No |
 | `libarti.com` | No |
 | `libbie.cloud` | No |
+| `libc.lol` | No |
 | `libcore.org` | Yes |
 | `libcyb.so` | No |
 | `libella.social` | No |
@@ -51706,7 +51707,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,656 |
-| Normal | 37,001 |
+| Normal | 37,002 |
 
 
 </details>
