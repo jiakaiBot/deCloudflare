@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,201 |
-| social | 4,722 |
+| social | 4,723 |
 | net | 4,034 |
 | org | 2,692 |
 | de | 2,562 |
@@ -8928,7 +8928,7 @@ Here's a list of public Fediverse services.
 | `criminallycute.stream` | No |
 | `crimp.social` | No |
 | `crimsh.com` | Yes |
-| `crimsonfae.net` | No |
+| `crimsonfae.net` | Yes |
 | `crimsson.com` | No |
 | `cringe.cafe` | No |
 | `cringe.zip` | Yes |
@@ -25442,7 +25442,7 @@ Here's a list of public Fediverse services.
 | `liyhu.social` | No |
 | `liyuan.app` | Yes |
 | `liyuu.icu` | No |
-| `liz.cafe` | Yes |
+| `liz.cafe` | No |
 | `liza.sh` | No |
 | `lizana.org` | Yes |
 | `lizard.zone` | No |
@@ -25911,7 +25911,7 @@ Here's a list of public Fediverse services.
 | `ltdk.xyz` | No |
 | `ltgc.cc` | Yes |
 | `lthn.eu` | No |
-| `ltl96.com` | Yes |
+| `ltl96.com` | No |
 | `ltoi.net` | No |
 | `ltratcliff.com` | No |
 | `ltt.jp` | No |
@@ -30074,6 +30074,7 @@ Here's a list of public Fediverse services.
 | `mstdn.tokyo` | No |
 | `mstdn.top` | No |
 | `mstdn.tw` | Yes |
+| `mstdn.uno` | No |
 | `mstdn.us` | No |
 | `mstdn.vet` | No |
 | `mstdn.vodka` | Yes |
@@ -31358,6 +31359,7 @@ Here's a list of public Fediverse services.
 | `netaka.net` | Yes |
 | `netauthority.org` | No |
 | `netcorsoft.de` | No |
+| `netcup.social` | No |
 | `netdc.ca` | No |
 | `netdrones.ai` | No |
 | `netfg.net` | No |
@@ -33891,7 +33893,7 @@ Here's a list of public Fediverse services.
 | `otters.at` | No |
 | `ottertax.com` | No |
 | `ottheim.de` | No |
-| `ottr.social` | Yes |
+| `ottr.social` | No |
 | `ottr.uk` | Yes |
 | `otwartezrodlo.pl` | No |
 | `otya.me` | Yes |
@@ -50595,7 +50597,7 @@ Here's a list of public Fediverse services.
 | `xyu.social` | Yes |
 | `xyzyx.org` | No |
 | `xyzzy.link` | No |
-| `xyzzy.social` | Yes |
+| `xyzzy.social` | No |
 | `xz.vc` | No |
 | `xz0.org` | Yes |
 | `xzh.gs` | Yes |
@@ -51681,8 +51683,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,652 |
-| Normal | 36,981 |
+| Cloudflare | 14,649 |
+| Normal | 36,986 |
 
 
 </details>
