@@ -2308,6 +2308,7 @@ Do not create new issue or we will close it as duplicate.
 | [CabdinuurN54312@twitter](https://twitter.com/CabdinuurN54312/status/1728007803858542668) | advertise |
 | [Cabduraxiim5@twitter](https://twitter.com/Cabduraxiim5/status/1719978646067106174) | advertise |
 | [CabinetsWaverly@twitter](https://twitter.com/CabinetsWaverly/status/1574829182814752793) | advertise |
+| [cadena_gus@twitter](https://twitter.com/cadena_gus/status/1738430276739498451) | advertise |
 | [CADINUDAO2@twitter](https://twitter.com/CADINUDAO2/status/1676699702094430211) | advertise |
 | [CADINUTOKEN@twitter](https://twitter.com/CADINUTOKEN/status/1676699702094430211) | advertise |
 | [CaDnay13764@twitter](https://twitter.com/CaDnay13764/status/1707076350283288770) | advertise |
