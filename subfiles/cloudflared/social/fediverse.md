@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,202 |
+| com | 8,203 |
 | social | 4,723 |
 | net | 4,034 |
 | org | 2,692 |
@@ -41671,6 +41671,7 @@ Here's a list of public Fediverse services.
 | `snxw.moe` | Yes |
 | `sny.sh` | No |
 | `so-called.life` | No |
+| `so-clouds.com` | No |
 | `so-isser-der-ossi.de` | No |
 | `so.football` | Yes |
 | `so4.us` | Yes |
@@ -51687,7 +51688,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,650 |
-| Normal | 36,988 |
+| Normal | 36,989 |
 
 
 </details>
