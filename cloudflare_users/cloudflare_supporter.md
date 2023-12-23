@@ -6983,6 +6983,7 @@ Do not create new issue or we will close it as duplicate.
 | [KitaTarot938721@twitter](https://twitter.com/KitaTarot938721/status/1712073998836584666) | advertise |
 | [KiteMeeran@twitter](https://twitter.com/KiteMeeran/status/1479318671038181379) | advertise |
 | [kitl37720388@twitter](https://twitter.com/kitl37720388/status/1558464851650850824) | advertise |
+| [KITO75755@twitter](https://twitter.com/KITO75755/status/1738474936996663403) | advertise |
 | [KittinatRueang1@twitter](https://twitter.com/KittinatRueang1/status/1605029090079019008) | advertise |
 | [kiund789@twitter](https://twitter.com/kiund789/status/1619592107551002624) | advertise |
 | [Kiuzhe@twitter](https://twitter.com/Kiuzhe/status/1658327240613011457) | advertise |
@@ -7098,6 +7099,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoMawGyi18@twitter](https://twitter.com/KoMawGyi18/status/1389623065131184130) | advertise |
 | [KomesNawa@twitter](https://twitter.com/KomesNawa/status/1582823542491869186) | advertise |
 | [KoMin60345321@twitter](https://twitter.com/KoMin60345321/status/1404307604432572421) | advertise |
+| [KoMin72898645@twitter](https://twitter.com/KoMin72898645/status/1738472227631505613) | advertise |
 | [KoMinHtetAung49@twitter](https://twitter.com/KoMinHtetAung49/status/1393744141285212160) | advertise |
 | [KominMinKomin1@twitter](https://twitter.com/KominMinKomin1/status/1390750390702919680) | advertise |
 | [KomJung1624875@twitter](https://twitter.com/KomJung1624875/status/1687430892342611970) | advertise |
@@ -15642,6 +15644,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZawZaw28528635@twitter](https://twitter.com/ZawZaw28528635/status/1385114651684347912) | advertise |
 | [ZawZaw73865028@twitter](https://twitter.com/ZawZaw73865028/status/1389886915386626048) | advertise |
 | [ZawZaw88554082@twitter](https://twitter.com/ZawZaw88554082/status/1380558712536883211) | advertise |
+| [ZawZawWinWin1@twitter](https://twitter.com/ZawZawWinWin1/status/1738474053198139881) | advertise |
 | [zaya54u@twitter](https://twitter.com/zaya54u/status/1387968694618370051) | advertise |
 | [zayanphyo@twitter](https://twitter.com/zayanphyo/status/1377983749824995342) | advertise |
 | [Zayar89@twitter](https://twitter.com/Zayar89/status/1389116632996323328) | advertise |
