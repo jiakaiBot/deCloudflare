@@ -5496,6 +5496,7 @@ Do not create new issue or we will close it as duplicate.
 | [HuyNguy92190508@twitter](https://twitter.com/HuyNguy92190508/status/1571907450164609032) | advertise |
 | [HuyNguy96832626@twitter](https://twitter.com/HuyNguy96832626/status/1385249782474567682) | advertise |
 | [huynguyen13897@twitter](https://twitter.com/huynguyen13897/status/1515901456355782665) | advertise |
+| [huynh2k0409@twitter](https://twitter.com/huynh2k0409/status/1738558130861273253) | advertise |
 | [Huynh75283148@twitter](https://twitter.com/Huynh75283148/status/1560533876757655553) | advertise |
 | [HuynhAn42298847@twitter](https://twitter.com/HuynhAn42298847/status/1515280044687462402) | advertise |
 | [huynhduchuy19@twitter](https://twitter.com/huynhduchuy19/status/1473748306748526593) | advertise |
@@ -10523,6 +10524,7 @@ Do not create new issue or we will close it as duplicate.
 | [ozairkhan7@twitter](https://twitter.com/ozairkhan7/status/1379544271309578240) | advertise |
 | [ozeroky@twitter](https://twitter.com/ozeroky/status/1602096976753209344) | advertise |
 | [Ozymand28326389@twitter](https://twitter.com/Ozymand28326389/status/1384559908188680197) | advertise |
+| [o_buut25986@twitter](https://twitter.com/o_buut25986/status/1738561021856428185) | advertise |
 | [p0etra08@twitter](https://twitter.com/p0etra08/status/1547229837345300480) | advertise |
 | [p1ass@twitter](https://twitter.com/p1ass/status/1670012004902522880) | advertise |
 | [P9I4Kl23k8Mo7qN@twitter](https://twitter.com/P9I4Kl23k8Mo7qN/status/1385339627096084482) | advertise |
