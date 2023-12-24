@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,212 |
 | social | 4,725 |
 | net | 4,037 |
-| org | 2,695 |
+| org | 2,696 |
 | de | 2,564 |
 
 
@@ -10496,6 +10496,7 @@ Here's a list of public Fediverse services.
 | `dennisloska.com` | No |
 | `deno.dev` | No |
 | `densco.net` | No |
+| `denseanalysis.org` | No |
 | `denshi.live` | Yes |
 | `denshi.org` | No |
 | `denter-online.de` | No |
@@ -21009,7 +21010,7 @@ Here's a list of public Fediverse services.
 | `izayoiwind.net` | No |
 | `izbad.network` | No |
 | `izlc.org` | Yes |
-| `izsak.dev` | No |
+| `izsak.dev` | Yes |
 | `iztasocial.site` | No |
 | `izumi.pw` | No |
 | `izumiz.me` | Yes |
@@ -51738,7 +51739,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,660 |
+| Cloudflare | 14,661 |
 | Normal | 37,030 |
 
 
