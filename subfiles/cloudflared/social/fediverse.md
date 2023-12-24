@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,208 |
+| com | 8,209 |
 | social | 4,725 |
-| net | 4,035 |
+| net | 4,036 |
 | org | 2,695 |
 | de | 2,564 |
 
@@ -982,6 +982,7 @@ Here's a list of public Fediverse services.
 | `aboringsite.dev` | No |
 | `abortu.com` | No |
 | `about-bitcoin.com` | Yes |
+| `about-the-author.online` | No |
 | `aboutchromebooks.com` | Yes |
 | `abouthere.uk` | Yes |
 | `abpe.org` | Yes |
@@ -29730,6 +29731,7 @@ Here's a list of public Fediverse services.
 | `mostodon.de` | No |
 | `mostodon.info` | No |
 | `mostodon.net` | No |
+| `mostr.net` | Yes |
 | `mostr.pub` | Yes |
 | `mostrom.eu` | No |
 | `mosw.work` | No |
@@ -46463,6 +46465,7 @@ Here's a list of public Fediverse services.
 | `trebaxis.net` | Yes |
 | `trebills.com` | Yes |
 | `trebo.chat` | Yes |
+| `trechnex.com` | No |
 | `tree.dance` | Yes |
 | `treebaglia.xyz` | Yes |
 | `treecast.com` | No |
@@ -51720,8 +51723,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,654 |
-| Normal | 37,018 |
+| Cloudflare | 14,655 |
+| Normal | 37,020 |
 
 
 </details>
