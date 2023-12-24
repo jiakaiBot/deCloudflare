@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,207 |
+| com | 8,208 |
 | social | 4,725 |
 | net | 4,035 |
 | org | 2,695 |
@@ -3415,6 +3415,7 @@ Here's a list of public Fediverse services.
 | `atth.ca` | Yes |
 | `atticstudios.be` | No |
 | `attksthdrknss.com` | No |
+| `attlas.tech` | Yes |
 | `atto.town` | Yes |
 | `attoch.org` | Yes |
 | `attractive.space` | No |
@@ -6944,6 +6945,7 @@ Here's a list of public Fediverse services.
 | `cayra.info` | No |
 | `cayuela.eu` | No |
 | `cazzaserver.com` | Yes |
+| `cbauder.com` | No |
 | `cbc.lol` | Yes |
 | `cbcmelbourne.life` | No |
 | `cbctech.app` | No |
@@ -40468,6 +40470,7 @@ Here's a list of public Fediverse services.
 | `sf-fandom.com` | No |
 | `sf.gov` | No |
 | `sf.social` | No |
+| `sfba.club` | No |
 | `sfba.photos` | No |
 | `sfba.social` | No |
 | `sfbay.social` | No |
@@ -51717,8 +51720,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,653 |
-| Normal | 37,016 |
+| Cloudflare | 14,654 |
+| Normal | 37,018 |
 
 
 </details>
