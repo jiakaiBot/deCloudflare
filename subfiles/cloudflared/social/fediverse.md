@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,214 |
+| com | 8,215 |
 | social | 4,725 |
 | net | 4,037 |
 | org | 2,696 |
@@ -21137,7 +21137,7 @@ Here's a list of public Fediverse services.
 | `jakecoffman.com` | No |
 | `jakecoppinger.com` | Yes |
 | `jakekara.com` | No |
-| `jakelacaze.com` | No |
+| `jakelacaze.com` | Yes |
 | `jakelazaroff.com` | Yes |
 | `jakepi.net` | No |
 | `jakereed.co.uk` | Yes |
@@ -48680,6 +48680,7 @@ Here's a list of public Fediverse services.
 | `vostain.net` | No |
 | `voterintegrity.today` | No |
 | `votho.social` | No |
+| `votreviedautiste.com` | No |
 | `vouaix.com` | No |
 | `vov.camp` | No |
 | `vovard.net` | No |
@@ -51746,7 +51747,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,665 |
+| Cloudflare | 14,666 |
 | Normal | 37,033 |
 
 
