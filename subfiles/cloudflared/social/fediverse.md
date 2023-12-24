@@ -35600,6 +35600,7 @@ Here's a list of public Fediverse services.
 | `pleroma.party` | No |
 | `pleroma.pt` | No |
 | `pleroma.rodeo` | No |
+| `pleroma.sbs` | Yes |
 | `pleroma.site` | No |
 | `pleroma.store` | No |
 | `pleroma.stream` | No |
@@ -39761,6 +39762,7 @@ Here's a list of public Fediverse services.
 | `schizo.gr` | No |
 | `schizo.me` | Yes |
 | `schizo.online` | No |
+| `schizo.solutions` | Yes |
 | `schizoid.social` | No |
 | `schizoid.tech` | No |
 | `schizophrenic.io` | No |
@@ -51723,7 +51725,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,655 |
+| Cloudflare | 14,657 |
 | Normal | 37,020 |
 
 
