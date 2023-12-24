@@ -13524,6 +13524,7 @@ Here's a list of public Fediverse services.
 | `expshift.com` | No |
 | `exquisite.com.br` | Yes |
 | `exquisite.social` | No |
+| `exquisite.tube` | No |
 | `exs.gay` | No |
 | `ext.network` | No |
 | `extec.uk` | No |
@@ -51738,7 +51739,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,660 |
-| Normal | 37,029 |
+| Normal | 37,030 |
 
 
 </details>
