@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,209 |
+| com | 8,212 |
 | social | 4,725 |
-| net | 4,036 |
+| net | 4,037 |
 | org | 2,695 |
 | de | 2,564 |
 
@@ -110,6 +110,7 @@ Here's a list of public Fediverse services.
 | `0u0.fun` | No |
 | `0u3.net` | Yes |
 | `0upti.me` | Yes |
+| `0ut0f.space` | No |
 | `0v0.ch` | Yes |
 | `0v0.social` | No |
 | `0verti.me` | Yes |
@@ -1289,6 +1290,7 @@ Here's a list of public Fediverse services.
 | `adtension.com` | No |
 | `adthr.ee` | No |
 | `adtya.xyz` | Yes |
+| `adudeistblog.com` | Yes |
 | `adult-game.dev` | No |
 | `adult-social.net` | No |
 | `adult.social` | No |
@@ -4494,6 +4496,7 @@ Here's a list of public Fediverse services.
 | `benis.zone` | Yes |
 | `benis8bits.stream` | No |
 | `benitox1.tk` | No |
+| `benjami.in` | Yes |
 | `benjamin-westland.de` | No |
 | `benjamin.social` | No |
 | `benjaminhollon.com` | Yes |
@@ -7030,6 +7033,7 @@ Here's a list of public Fediverse services.
 | `celineguichard.name` | No |
 | `cellardoor.network` | Yes |
 | `celle.social` | No |
+| `celliern.io` | No |
 | `cellular.fm` | No |
 | `celp.de` | No |
 | `celt.social` | No |
@@ -8297,6 +8301,7 @@ Here's a list of public Fediverse services.
 | `combiner.team` | No |
 | `come-together.nl` | No |
 | `comedyclub.social` | No |
+| `comedyshow.nz` | No |
 | `comelibros.club` | No |
 | `comerocudequemestalendo.com` | No |
 | `cometary.org` | No |
@@ -20642,6 +20647,7 @@ Here's a list of public Fediverse services.
 | `ioxt.tk` | No |
 | `iozzo.me` | Yes |
 | `ip1.info` | Yes |
+| `ipertesti.it` | No |
 | `ipfire.org` | No |
 | `ipfixe.info` | No |
 | `ipghod.tech` | Yes |
@@ -24294,6 +24300,7 @@ Here's a list of public Fediverse services.
 | `lapineige.fr` | No |
 | `lapo.it` | No |
 | `lapp-social.com` | No |
+| `laprest.cat` | No |
 | `lapuacase.info` | Yes |
 | `lapuas.xyz` | No |
 | `lapunta.org` | No |
@@ -29701,6 +29708,7 @@ Here's a list of public Fediverse services.
 | `mortzu.de` | Yes |
 | `moruorange.com` | No |
 | `morwud.cz` | No |
+| `mosadie.com` | No |
 | `mosasa.dog` | Yes |
 | `moseisley.club` | No |
 | `moseskaranja.com` | No |
@@ -30223,6 +30231,7 @@ Here's a list of public Fediverse services.
 | `multicast.social` | Yes |
 | `multiclan.ninja` | No |
 | `multijeux.fr` | Yes |
+| `multimedialoft.eu` | No |
 | `multimob.be` | No |
 | `multinet.ua` | No |
 | `multiplayer-notepad.net` | Yes |
@@ -39627,6 +39636,7 @@ Here's a list of public Fediverse services.
 | `saweb.de` | No |
 | `sawpitgully.net` | No |
 | `sawrams.ru` | No |
+| `sax.net` | Yes |
 | `saxifragus.com` | Yes |
 | `saxion.me` | No |
 | `saxonroad.uk` | No |
@@ -40495,6 +40505,7 @@ Here's a list of public Fediverse services.
 | `sftblw.moe` | Yes |
 | `sftn.eu` | No |
 | `sfunk1x.com` | No |
+| `sg-host.com` | No |
 | `sg-mr-schach.de` | No |
 | `sg1.au` | No |
 | `sgawolf.com` | No |
@@ -48118,6 +48129,7 @@ Here's a list of public Fediverse services.
 | `vegafjord.me` | No |
 | `vegaia.social` | Yes |
 | `vegalicious.recipes` | Yes |
+| `vegan.dev` | No |
 | `vegan.im.it` | No |
 | `veganact.org.au` | No |
 | `veganbtw.net` | No |
@@ -51725,8 +51737,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,657 |
-| Normal | 37,020 |
+| Cloudflare | 14,660 |
+| Normal | 37,029 |
 
 
 </details>
