@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,213 |
+| com | 8,214 |
 | social | 4,725 |
 | net | 4,037 |
 | org | 2,696 |
@@ -42830,6 +42830,7 @@ Here's a list of public Fediverse services.
 | `stenyan.dev` | No |
 | `step.im` | No |
 | `stepaday.tech` | Yes |
+| `steph.tools` | No |
 | `stephanbeer.de` | No |
 | `stephanbradshaw.com` | No |
 | `stephane-klein.info` | Yes |
@@ -43187,6 +43188,7 @@ Here's a list of public Fediverse services.
 | `su.gy` | No |
 | `su.mk` | Yes |
 | `su3.io` | No |
+| `su443.com` | Yes |
 | `su4ka.icu` | No |
 | `suah.dev` | No |
 | `suayoo.online` | Yes |
@@ -48232,7 +48234,7 @@ Here's a list of public Fediverse services.
 | `vernissage.photos` | No |
 | `vernoeming.nl` | No |
 | `vernunftzentrum.de` | No |
-| `veroone.fr` | No |
+| `veroone.fr` | Yes |
 | `verr.cc` | No |
 | `verse.jp` | No |
 | `versionfeeds.com` | Yes |
@@ -51740,7 +51742,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,661 |
+| Cloudflare | 14,663 |
 | Normal | 37,031 |
 
 
