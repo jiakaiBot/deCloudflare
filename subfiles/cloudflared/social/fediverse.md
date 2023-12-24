@@ -9442,7 +9442,7 @@ Here's a list of public Fediverse services.
 | `cyberplace.social` | No |
 | `cyberprivacyfirst.com` | No |
 | `cyberpunk.earth` | No |
-| `cyberpunk.fan` | Yes |
+| `cyberpunk.fan` | No |
 | `cyberpunk.gmbh` | No |
 | `cyberpunk.haus` | No |
 | `cyberpunk.net.ar` | Yes |
@@ -38844,7 +38844,7 @@ Here's a list of public Fediverse services.
 | `rqd2.net` | No |
 | `rrgeorge.live` | No |
 | `rroki.net` | No |
-| `rrrrrichard.social` | Yes |
+| `rrrrrichard.social` | No |
 | `rs-einrich.de` | No |
 | `rs64.net` | Yes |
 | `rsch.club` | No |
@@ -41342,7 +41342,7 @@ Here's a list of public Fediverse services.
 | `slackworks.social` | No |
 | `slackz.co` | No |
 | `slaght.de` | No |
-| `slapdash.social` | Yes |
+| `slapdash.social` | No |
 | `slasa.us` | No |
 | `slash.casa` | No |
 | `slash.cl` | Yes |
@@ -44089,6 +44089,7 @@ Here's a list of public Fediverse services.
 | `tartanhare.com` | No |
 | `tarunbauri.in` | Yes |
 | `taruntarun.net` | Yes |
+| `tarxvf.tech` | No |
 | `tasartir.cz` | No |
 | `tasche.me` | No |
 | `task.vc` | Yes |
@@ -51716,8 +51717,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,656 |
-| Normal | 37,012 |
+| Cloudflare | 14,653 |
+| Normal | 37,016 |
 
 
 </details>
