@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,725 |
 | net | 4,037 |
 | org | 2,696 |
-| de | 2,564 |
+| de | 2,565 |
 
 
 - Mastodon, Pleroma, etc
@@ -6203,6 +6203,7 @@ Here's a list of public Fediverse services.
 | `bund.co` | No |
 | `bund.de` | Yes |
 | `bundescast.de` | No |
+| `bundesparlament.de` | No |
 | `bundestrollministerium.de` | No |
 | `bundsgaard.net` | No |
 | `bundyo.com` | No |
@@ -19747,6 +19748,7 @@ Here's a list of public Fediverse services.
 | `iamterminally.online` | No |
 | `iamthecookie.monster` | No |
 | `iamveryti.red` | Yes |
+| `iamviolet.ca` | No |
 | `ian.mn` | Yes |
 | `ian.sh` | No |
 | `iana.de` | No |
@@ -26339,6 +26341,7 @@ Here's a list of public Fediverse services.
 | `macniel.online` | No |
 | `maco.pics` | Yes |
 | `macondo.info` | No |
+| `macram.es` | No |
 | `macro.gay` | No |
 | `macro.tokyo` | No |
 | `macro.town` | Yes |
@@ -51744,7 +51747,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,665 |
-| Normal | 37,030 |
+| Normal | 37,033 |
 
 
 </details>
