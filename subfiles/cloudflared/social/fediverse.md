@@ -8978,7 +8978,7 @@ Here's a list of public Fediverse services.
 | `critter.zone` | No |
 | `crittercave.net` | No |
 | `critz.social` | No |
-| `critzo.xyz` | No |
+| `critzo.xyz` | Yes |
 | `criver.me` | Yes |
 | `crixu.blog` | No |
 | `crlf.io` | No |
@@ -18101,6 +18101,7 @@ Here's a list of public Fediverse services.
 | `halfpastfour.club` | No |
 | `halfrealm.com` | No |
 | `halfstreet.social` | No |
+| `halhadus.rocks` | Yes |
 | `halibut.com` | No |
 | `halifaxsocial.ca` | No |
 | `halki.info` | No |
@@ -51742,8 +51743,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,663 |
-| Normal | 37,031 |
+| Cloudflare | 14,665 |
+| Normal | 37,030 |
 
 
 </details>
