@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,212 |
+| com | 8,213 |
 | social | 4,725 |
 | net | 4,037 |
 | org | 2,696 |
@@ -29858,6 +29858,7 @@ Here's a list of public Fediverse services.
 | `mrdiamondj.social` | No |
 | `mrdonaldson.net` | No |
 | `mreair.jp` | Yes |
+| `mrehler.com` | No |
 | `mrelay.link` | No |
 | `mrfunkedude.com` | No |
 | `mrh.io` | No |
@@ -51740,7 +51741,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,661 |
-| Normal | 37,030 |
+| Normal | 37,031 |
 
 
 </details>
