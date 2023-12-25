@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,725 |
 | net | 4,038 |
 | org | 2,696 |
-| de | 2,565 |
+| de | 2,566 |
 
 
 - Mastodon, Pleroma, etc
@@ -1634,6 +1634,7 @@ Here's a list of public Fediverse services.
 | `akteur.org` | No |
 | `aktion-nordost.de` | No |
 | `aktion-nordost.tv` | No |
+| `aktives-muensterland.de` | No |
 | `aktivtube.com` | No |
 | `aku-san.net` | No |
 | `akubidon.com` | No |
@@ -51756,7 +51757,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,667 |
-| Normal | 37,040 |
+| Normal | 37,041 |
 
 
 </details>
