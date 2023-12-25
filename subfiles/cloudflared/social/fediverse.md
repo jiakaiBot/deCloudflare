@@ -39952,6 +39952,7 @@ Here's a list of public Fediverse services.
 | `scorpil.com` | No |
 | `scorpinc.social` | No |
 | `scorpion.social` | No |
+| `scorpios.uk` | Yes |
 | `scotentblog.co.uk` | No |
 | `scotgate.org` | No |
 | `scotland.computer` | No |
@@ -51754,7 +51755,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,667 |
+| Cloudflare | 14,668 |
 | Normal | 37,039 |
 
 
