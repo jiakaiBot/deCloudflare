@@ -30122,7 +30122,7 @@ Here's a list of public Fediverse services.
 | `mstdn.tokyo` | No |
 | `mstdn.top` | No |
 | `mstdn.tw` | Yes |
-| `mstdn.uno` | No |
+| `mstdn.uno` | Yes |
 | `mstdn.us` | No |
 | `mstdn.vet` | No |
 | `mstdn.vodka` | Yes |
@@ -33373,6 +33373,7 @@ Here's a list of public Fediverse services.
 | `onemorepage.blog` | No |
 | `onemorestop.photo` | No |
 | `onenerdarmy.net` | No |
+| `onephoto.club` | Yes |
 | `onepicaday.com` | No |
 | `onepointzero.com` | Yes |
 | `onerescue.org` | No |
@@ -51765,8 +51766,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,671 |
-| Normal | 37,046 |
+| Cloudflare | 14,673 |
+| Normal | 37,045 |
 
 
 </details>
