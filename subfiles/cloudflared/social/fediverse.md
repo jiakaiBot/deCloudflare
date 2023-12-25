@@ -32844,7 +32844,7 @@ Here's a list of public Fediverse services.
 | `ocr.social` | No |
 | `ocsf.in` | No |
 | `octalwave.com` | Yes |
-| `octans.app` | No |
+| `octans.app` | Yes |
 | `octaplex.net` | No |
 | `octarine.io` | No |
 | `octii.chat` | Yes |
@@ -33739,7 +33739,6 @@ Here's a list of public Fediverse services.
 | `ostolc.org` | No |
 | `ostrovok.de` | No |
 | `osu.io` | Yes |
-| `osu.si` | No |
 | `osumiakari.jp` | Yes |
 | `osureplayviewer.xyz` | No |
 | `osvoj.ru` | No |
@@ -36717,9 +36716,9 @@ Here's a list of public Fediverse services.
 | `qownnotes.org` | Yes |
 | `qp3.uk` | No |
 | `qpixel.pw` | Yes |
-| `qpomelo.app` | No |
+| `qpomelo.app` | Yes |
 | `qpomelo.cc` | No |
-| `qpomelo.dev` | No |
+| `qpomelo.dev` | Yes |
 | `qpomelo.network` | No |
 | `qqey.net` | Yes |
 | `qqfoq.xyz` | Yes |
@@ -51552,10 +51551,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,652 |
-| Normal | 36,852 |
+| Cloudflare | 14,655 |
+| Normal | 36,848 |
 
 
 </details>
 
-### 28.4% of public Fediverse services are using Cloudflare.
+### 28.5% of public Fediverse services are using Cloudflare.
