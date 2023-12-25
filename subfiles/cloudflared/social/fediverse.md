@@ -17594,6 +17594,7 @@ Here's a list of public Fediverse services.
 | `grimace.life` | No |
 | `grimbrook.community` | No |
 | `grimerica.ca` | No |
+| `grimgreenfo.rest` | No |
 | `grimhe.art` | No |
 | `grimkroton.de` | No |
 | `grimm.link` | No |
@@ -51749,7 +51750,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,665 |
-| Normal | 37,035 |
+| Normal | 37,036 |
 
 
 </details>
