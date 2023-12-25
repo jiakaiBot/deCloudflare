@@ -8480,7 +8480,7 @@ Here's a list of public Fediverse services.
 | `connected.so` | Yes |
 | `connectified.com` | No |
 | `connectingdotsblog.com` | No |
-| `connections.coach` | Yes |
+| `connections.coach` | No |
 | `connectit.social` | No |
 | `connectop.us` | Yes |
 | `conners.social` | No |
@@ -16811,6 +16811,7 @@ Here's a list of public Fediverse services.
 | `giggleplex.red` | No |
 | `giggly.de` | No |
 | `gigi.nu` | No |
+| `gigiraffe.art` | No |
 | `giglio.blue` | Yes |
 | `gigon.cloud` | No |
 | `gigq.com` | Yes |
@@ -51747,8 +51748,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,666 |
-| Normal | 37,033 |
+| Cloudflare | 14,665 |
+| Normal | 37,035 |
 
 
 </details>
