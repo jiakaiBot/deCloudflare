@@ -6861,6 +6861,7 @@ Here's a list of public Fediverse services.
 | `catgram.jp` | Yes |
 | `catharsis.cafe` | No |
 | `cathect.net` | No |
+| `cathedral.tokyo` | No |
 | `cathode.church` | No |
 | `cathoderay.tube` | Yes |
 | `catholicchurch.social` | No |
@@ -51552,7 +51553,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,652 |
-| Normal | 36,851 |
+| Normal | 36,852 |
 
 
 </details>
