@@ -23656,6 +23656,7 @@ Here's a list of public Fediverse services.
 | `kotobaphil-mtdn.eu` | No |
 | `kotobar.com` | No |
 | `kotocoop.org` | No |
+| `kotodama.space` | No |
 | `kotonoha.cafe` | No |
 | `kottman.xyz` | No |
 | `kotur.org` | No |
@@ -50954,6 +50955,7 @@ Here's a list of public Fediverse services.
 | `yord.social` | Yes |
 | `yorglemedia.org` | No |
 | `yorha.club` | No |
+| `yorha.nexus` | No |
 | `yorha.social` | Yes |
 | `yorishiro.space` | No |
 | `york.social` | Yes |
@@ -51750,7 +51752,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,665 |
-| Normal | 37,036 |
+| Normal | 37,038 |
 
 
 </details>
