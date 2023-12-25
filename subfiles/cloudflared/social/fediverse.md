@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,222 |
+| com | 8,223 |
 | social | 4,725 |
 | net | 4,040 |
 | org | 2,698 |
@@ -2391,6 +2391,7 @@ Here's a list of public Fediverse services.
 | `ani.social` | Yes |
 | `ani.work` | Yes |
 | `anicelittle.network` | No |
+| `anikeen.chat` | No |
 | `anikeen.social` | No |
 | `anikore.xin` | No |
 | `anilua.club` | No |
@@ -29553,7 +29554,7 @@ Here's a list of public Fediverse services.
 | `monsternesslo.ch` | No |
 | `monsterpit.blog` | No |
 | `monsterpit.gallery` | No |
-| `monsterpit.net` | Yes |
+| `monsterpit.net` | No |
 | `monsterprom.space` | No |
 | `monstodon.info` | No |
 | `monstr.es` | No |
@@ -42700,6 +42701,7 @@ Here's a list of public Fediverse services.
 | `starlilyth.net` | No |
 | `starlink.cz` | No |
 | `starlit.city` | No |
+| `starlord.zip` | No |
 | `starly.blue` | Yes |
 | `starlyth.one` | No |
 | `starmade.de` | No |
@@ -48712,6 +48714,7 @@ Here's a list of public Fediverse services.
 | `voxint.pw` | No |
 | `voxmojo.com` | No |
 | `voxpop.social` | No |
+| `vpalepu.com` | No |
 | `vpclmulqdq.moe` | No |
 | `vplays.live` | Yes |
 | `vpn.tv` | Yes |
@@ -51771,8 +51774,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,679 |
-| Normal | 37,044 |
+| Cloudflare | 14,678 |
+| Normal | 37,048 |
 
 
 </details>
