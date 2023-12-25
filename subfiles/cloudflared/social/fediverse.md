@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,198 |
+| com | 8,199 |
 | social | 4,720 |
 | net | 4,025 |
 | org | 2,684 |
@@ -9542,6 +9542,7 @@ Here's a list of public Fediverse services.
 | `d09.app` | Yes |
 | `d0g4.me` | No |
 | `d0gb0x.com` | No |
+| `d0nuts.im` | No |
 | `d0p1.eu` | No |
 | `d0y.de` | No |
 | `d100.club` | No |
@@ -30063,6 +30064,7 @@ Here's a list of public Fediverse services.
 | `muchametow.de` | No |
 | `mucrone.tech` | No |
 | `mud.social` | No |
+| `mudb0y.com` | Yes |
 | `mudge.name` | Yes |
 | `mudhut.social` | Yes |
 | `mudhut.xyz` | Yes |
@@ -51549,8 +51551,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,651 |
-| Normal | 36,850 |
+| Cloudflare | 14,652 |
+| Normal | 36,851 |
 
 
 </details>
