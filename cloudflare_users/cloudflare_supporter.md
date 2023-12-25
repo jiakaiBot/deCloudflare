@@ -662,6 +662,7 @@ Do not create new issue or we will close it as duplicate.
 | [albionbh@twitter](https://twitter.com/albionbh/status/1603303455136825345) | advertise |
 | [AlbMytv@twitter](https://twitter.com/AlbMytv/status/1559271310433419264) | advertise |
 | [albNo273@twitter](https://twitter.com/albNo273/status/1440877956709040136) | advertise |
+| [AlbulushiSuhai1@twitter](https://twitter.com/AlbulushiSuhai1/status/1739365047778918547) | advertise |
 | [AlcalaChistian@twitter](https://twitter.com/AlcalaChistian/status/1633727230710018048) | advertise |
 | [Ald33107945@twitter](https://twitter.com/Ald33107945/status/1553066067693486080) | advertise |
 | [aldoscar_oscar@twitter](https://twitter.com/aldoscar_oscar/status/1377318204477964290) | advertise |
@@ -10098,6 +10099,7 @@ Do not create new issue or we will close it as duplicate.
 | [njoolenesia@twitter](https://twitter.com/njoolenesia/status/1503838855765856256) | advertise |
 | [NJTNAS@twitter](https://twitter.com/NJTNAS/status/1702078419385655729) | advertise |
 | [Njumage01@twitter](https://twitter.com/Njumage01/status/1738103961293570151) | advertise |
+| [njwmy1624143@twitter](https://twitter.com/njwmy1624143/status/1739377966763659453) | advertise |
 | [NkKee1@twitter](https://twitter.com/NkKee1/status/1379528528073433088) | advertise |
 | [NKNRC39@twitter](https://twitter.com/NKNRC39/status/1472029289855918083) | advertise |
 | [NkoliStvnsn@twitter](https://twitter.com/NkoliStvnsn/status/1572962518980792320) | advertise |
