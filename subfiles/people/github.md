@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [get linux core error when restart ipfs in docker container](https://github.com/ipfs/kubo/issues/10269)
 - [Cloudflare workers give error](https://github.com/cohere-ai/cohere-typescript/issues/110)
 - [Errors are wrapped](https://github.com/chientrm/wrangler-proxy/issues/15)
 - [SSl Proxy Support](https://github.com/oxylabs/selenium-proxy-integration-python/issues/9)
