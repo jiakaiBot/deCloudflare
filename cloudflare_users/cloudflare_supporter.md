@@ -7538,6 +7538,7 @@ Do not create new issue or we will close it as duplicate.
 | [LeAnh7991@twitter](https://twitter.com/LeAnh7991/status/1632793843564261376) | advertise |
 | [leanhhao070301@twitter](https://twitter.com/leanhhao070301/status/1516370402154455045) | advertise |
 | [leanhton1@twitter](https://twitter.com/leanhton1/status/1400838495875174401) | advertise |
+| [learnsolveshare@twitter](https://twitter.com/learnsolveshare/status/1739411019313656129) | advertise |
 | [leastrio_@twitter](https://twitter.com/leastrio_/status/1370110974108307467) | advertise |
 | [lebangja@twitter](https://twitter.com/lebangja/status/1724110870199046539) | advertise |
 | [LebGony@twitter](https://twitter.com/LebGony/status/1395365414541029381) | advertise |
