@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,215 |
+| com | 8,217 |
 | social | 4,725 |
 | net | 4,037 |
 | org | 2,696 |
@@ -33845,6 +33845,7 @@ Here's a list of public Fediverse services.
 | `osmcast.social` | No |
 | `osminog.de` | Yes |
 | `osna.social` | No |
+| `osouzai-fediverse.com` | No |
 | `osp.gay` | No |
 | `osplin.monster` | No |
 | `osr.community` | No |
@@ -38185,6 +38186,7 @@ Here's a list of public Fediverse services.
 | `rewrite.in.rs` | Yes |
 | `rex.gs` | No |
 | `rexmundi.social` | No |
+| `rey-li.com` | No |
 | `rey.lu` | No |
 | `reyboz.it` | No |
 | `reyesbros.fr` | No |
@@ -44068,7 +44070,7 @@ Here's a list of public Fediverse services.
 | `tanukey.work` | Yes |
 | `tanuki.social` | No |
 | `tanukitsu.net` | No |
-| `tanukitunes.com` | No |
+| `tanukitunes.com` | Yes |
 | `tanztee.social` | No |
 | `taobox.pub` | Yes |
 | `taoetc.org` | No |
@@ -51751,8 +51753,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,665 |
-| Normal | 37,038 |
+| Cloudflare | 14,666 |
+| Normal | 37,039 |
 
 
 </details>
