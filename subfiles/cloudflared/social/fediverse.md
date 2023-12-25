@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,217 |
+| com | 8,218 |
 | social | 4,725 |
-| net | 4,037 |
+| net | 4,038 |
 | org | 2,696 |
 | de | 2,565 |
 
@@ -21820,6 +21820,7 @@ Here's a list of public Fediverse services.
 | `jomalo.com` | No |
 | `jomby.net` | No |
 | `jon-chadwick.com` | No |
+| `jon-e.net` | No |
 | `jon-s.com` | No |
 | `jon.eus` | No |
 | `jonaharagon.net` | Yes |
@@ -23656,7 +23657,7 @@ Here's a list of public Fediverse services.
 | `kotobaphil-mtdn.eu` | No |
 | `kotobar.com` | No |
 | `kotocoop.org` | No |
-| `kotodama.space` | No |
+| `kotodama.space` | Yes |
 | `kotonoha.cafe` | No |
 | `kottman.xyz` | No |
 | `kotur.org` | No |
@@ -24631,6 +24632,7 @@ Here's a list of public Fediverse services.
 | `leibniz.pub` | No |
 | `leiden.digital` | No |
 | `leif.pl` | No |
+| `leifandthorn.com` | No |
 | `leifmetcalf.com` | Yes |
 | `leigh.social` | No |
 | `lein.us` | Yes |
@@ -51753,8 +51755,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,666 |
-| Normal | 37,039 |
+| Cloudflare | 14,667 |
+| Normal | 37,040 |
 
 
 </details>
