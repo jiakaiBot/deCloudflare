@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare workers give error](https://github.com/cohere-ai/cohere-typescript/issues/110)
 - [Errors are wrapped](https://github.com/chientrm/wrangler-proxy/issues/15)
 - [SSl Proxy Support](https://github.com/oxylabs/selenium-proxy-integration-python/issues/9)
 - [Crash in feed controller](https://github.com/getindiekit/indiekit/issues/676)
