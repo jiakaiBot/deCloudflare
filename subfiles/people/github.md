@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [will retry to broadcast transaction again in 15 seconds](https://github.com/atomicals/atomicals-js/issues/163)
 - [get linux core error when restart ipfs in docker container](https://github.com/ipfs/kubo/issues/10269)
 - [Cloudflare workers give error](https://github.com/cohere-ai/cohere-typescript/issues/110)
 - [Errors are wrapped](https://github.com/chientrm/wrangler-proxy/issues/15)
