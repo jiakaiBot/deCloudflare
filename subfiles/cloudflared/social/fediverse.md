@@ -34582,7 +34582,7 @@ Here's a list of public Fediverse services.
 | `paw.best` | No |
 | `paw.cafe` | Yes |
 | `paw.college` | Yes |
-| `paw.im` | No |
+| `paw.im` | Yes |
 | `paw.photo` | No |
 | `paw.su` | Yes |
 | `pawb.fun` | Yes |
@@ -44323,6 +44323,7 @@ Here's a list of public Fediverse services.
 | `techbeat.in` | No |
 | `techbeat.news` | No |
 | `techbio.eu` | No |
+| `techbites.info` | No |
 | `techcommunity.net` | Yes |
 | `techcovenant.com` | No |
 | `techcrunch.com` | Yes |
@@ -51784,7 +51785,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,680 |
+| Cloudflare | 14,681 |
 | Normal | 37,056 |
 
 
