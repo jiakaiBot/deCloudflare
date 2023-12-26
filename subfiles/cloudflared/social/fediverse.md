@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,191 |
-| social | 4,725 |
+| social | 4,726 |
 | net | 4,022 |
 | org | 2,693 |
 | de | 2,564 |
@@ -11824,6 +11824,7 @@ Here's a list of public Fediverse services.
 | `dt-info.com` | No |
 | `dt.gl` | No |
 | `dtalens.com` | No |
+| `dtg.social` | No |
 | `dtluna.net` | Yes |
 | `dtp-mstdn.jp` | Yes |
 | `dtrautwein.eu` | No |
@@ -36447,7 +36448,7 @@ Here's a list of public Fediverse services.
 | `psychomantys.xyz` | Yes |
 | `psychopixie.net` | No |
 | `psychopopular.com` | No |
-| `psychosoft.com.br` | Yes |
+| `psychosoft.com.br` | No |
 | `psychotherapy.social` | No |
 | `psyco.fr` | No |
 | `psyk.yt` | No |
@@ -51645,8 +51646,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,598 |
-| Normal | 36,999 |
+| Cloudflare | 14,597 |
+| Normal | 37,001 |
 
 
 </details>
