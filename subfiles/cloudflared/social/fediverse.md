@@ -29631,7 +29631,7 @@ Here's a list of public Fediverse services.
 | `mooooo.ooo` | Yes |
 | `mooose.org` | No |
 | `moop.uk` | No |
-| `moorditj.xyz` | No |
+| `moorditj.xyz` | Yes |
 | `moorefam.net` | No |
 | `moorepixel.com` | No |
 | `moores.org` | No |
@@ -51777,8 +51777,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,677 |
-| Normal | 37,052 |
+| Cloudflare | 14,678 |
+| Normal | 37,051 |
 
 
 </details>
