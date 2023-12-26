@@ -7612,6 +7612,7 @@ Do not create new issue or we will close it as duplicate.
 | [LetuanHoanganh1@twitter](https://twitter.com/LetuanHoanganh1/status/1573062532830564352) | advertise |
 | [levannguyen1998@twitter](https://twitter.com/levannguyen1998/status/1496429932591054851) | advertise |
 | [levelbest@twitter](https://twitter.com/levelbest/status/1402010072595800066) | advertise |
+| [LevelZen@twitter](https://twitter.com/LevelZen/status/1739770189623820586) | advertise |
 | [Levi24406406@twitter](https://twitter.com/Levi24406406/status/1566254367275196416) | advertise |
 | [LeviAck49673928@twitter](https://twitter.com/LeviAck49673928/status/1552724170332520448) | advertise |
 | [LeviAck70999374@twitter](https://twitter.com/LeviAck70999374/status/1404337417461518339) | advertise |
