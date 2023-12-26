@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,223 |
+| com | 8,226 |
 | social | 4,726 |
-| net | 4,041 |
+| net | 4,042 |
 | org | 2,698 |
 | de | 2,566 |
 
@@ -8853,6 +8853,7 @@ Here's a list of public Fediverse services.
 | `craigstewart.de` | No |
 | `crakac.com` | No |
 | `crakila.moe` | No |
+| `cramer.id.au` | Yes |
 | `crandol.com` | No |
 | `craney.fyi` | No |
 | `cranil.io` | Yes |
@@ -40312,6 +40313,7 @@ Here's a list of public Fediverse services.
 | `self.social` | No |
 | `selfawarepatterns.com` | No |
 | `selfdon.com` | No |
+| `selfdown-69.com` | Yes |
 | `selfhost.co` | No |
 | `selfhost.de` | No |
 | `selfhost.eu` | No |
@@ -46006,6 +46008,7 @@ Here's a list of public Fediverse services.
 | `tonydiep.com` | Yes |
 | `tonydu.co` | Yes |
 | `tonyfleming.me` | No |
+| `tonyshouse.art` | No |
 | `tonytiger.club` | No |
 | `tonytins.xyz` | No |
 | `tonywebster.com` | Yes |
@@ -46029,6 +46032,7 @@ Here's a list of public Fediverse services.
 | `toonbook-rewritten.me` | No |
 | `toonimal.xyz` | No |
 | `toons.zone` | No |
+| `toonspell.net` | No |
 | `toontastic.fun` | No |
 | `toontoet.nl` | No |
 | `toonvandeputte.be` | No |
@@ -46489,6 +46493,7 @@ Here's a list of public Fediverse services.
 | `travel-friends.chat` | No |
 | `travel-japan.group` | No |
 | `travel.geek.nz` | Yes |
+| `travelingflwr.com` | Yes |
 | `travelink.de` | No |
 | `travelling-light.net` | No |
 | `travelodon.net` | No |
@@ -48592,6 +48597,7 @@ Here's a list of public Fediverse services.
 | `vnvie.ws` | No |
 | `vnxs.de` | No |
 | `vny.fr` | No |
+| `vnyanzo.com` | No |
 | `voc.pet` | Yes |
 | `vocabar.net` | No |
 | `vocal.vc` | No |
@@ -51785,8 +51791,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,681 |
-| Normal | 37,056 |
+| Cloudflare | 14,684 |
+| Normal | 37,059 |
 
 
 </details>
