@@ -36411,7 +36411,7 @@ Here's a list of public Fediverse services.
 | `projectinzom.xyz` | No |
 | `projectlounge.pw` | Yes |
 | `projectmakeit.com` | No |
-| `projectmihun.cyou` | Yes |
+| `projectmihun.cyou` | No |
 | `projectmushroom.social` | No |
 | `projectsegfau.lt` | Yes |
 | `projectspoint.uk` | No |
@@ -43822,6 +43822,7 @@ Here's a list of public Fediverse services.
 | `t327.net` | No |
 | `t3dus.com` | No |
 | `t3dus.me` | No |
+| `t3mp-0x.cc` | Yes |
 | `t3n.social` | No |
 | `t3y.net` | No |
 | `t51b.org` | Yes |
@@ -44694,7 +44695,7 @@ Here's a list of public Fediverse services.
 | `tezos.rocks` | No |
 | `tezzi.com` | Yes |
 | `tf-net.cloud` | Yes |
-| `tf.au` | Yes |
+| `tf.au` | No |
 | `tf.fi` | Yes |
 | `tfcconnection.org` | No |
 | `tfdn.cloud` | Yes |
@@ -47320,7 +47321,7 @@ Here's a list of public Fediverse services.
 | `uibk.ac.at` | No |
 | `uid0.hu` | No |
 | `uile.nl` | No |
-| `uilleann.pizza` | Yes |
+| `uilleann.pizza` | No |
 | `uir.org.uk` | No |
 | `uit-flix.live` | No |
 | `uitrope.com` | Yes |
@@ -47844,7 +47845,7 @@ Here's a list of public Fediverse services.
 | `usesthis.com` | No |
 | `usethetools.org` | No |
 | `usewordpress.net` | No |
-| `usezot.net` | Yes |
+| `usezot.net` | No |
 | `usher.dev` | Yes |
 | `usmanity.com` | Yes |
 | `usne.social` | No |
@@ -49400,7 +49401,7 @@ Here's a list of public Fediverse services.
 | `westend61.de` | No |
 | `westend61.social` | No |
 | `westergaard.social` | Yes |
-| `westergaard.video` | No |
+| `westergaard.video` | Yes |
 | `westernconnect.org` | No |
 | `westmids.social` | No |
 | `westrad.de` | No |
@@ -51774,8 +51775,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,678 |
-| Normal | 37,048 |
+| Cloudflare | 14,676 |
+| Normal | 37,051 |
 
 
 </details>
