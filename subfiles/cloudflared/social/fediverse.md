@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,223 |
-| social | 4,725 |
-| net | 4,040 |
+| social | 4,726 |
+| net | 4,041 |
 | org | 2,698 |
 | de | 2,566 |
 
@@ -8521,6 +8521,7 @@ Here's a list of public Fediverse services.
 | `construction.social` | No |
 | `constructionlaw.sg` | Yes |
 | `consudon.club` | No |
+| `consumeristadventures.info` | Yes |
 | `consumertraveltips.com` | No |
 | `consumium.org` | No |
 | `consummatetinkerer.net` | No |
@@ -10546,6 +10547,7 @@ Here's a list of public Fediverse services.
 | `derate.me` | No |
 | `derave.dev` | Yes |
 | `derbladho.fr` | No |
+| `derblinkenlighters.blog` | No |
 | `derborys.net` | No |
 | `derdorifer.org` | No |
 | `dereferenced.org` | No |
@@ -15546,6 +15548,7 @@ Here's a list of public Fediverse services.
 | `freyrlepage.com` | Yes |
 | `freyssi.net` | No |
 | `fribbledom.com` | No |
+| `fribby.social` | No |
 | `fribygda.no` | No |
 | `fricci.dev` | No |
 | `frichetten.com` | No |
@@ -44536,6 +44539,7 @@ Here's a list of public Fediverse services.
 | `tenjuu.net` | No |
 | `tenka.love` | No |
 | `tenko.ai` | No |
+| `tenkoff.ru` | No |
 | `tenkuu.social` | No |
 | `tenna.site` | No |
 | `tennis-friends.com` | No |
@@ -48973,6 +48977,7 @@ Here's a list of public Fediverse services.
 | `wallofconfusion.org` | No |
 | `wallonie-bruxelles.social` | No |
 | `walls.social` | Yes |
+| `wallyworld.fun` | Yes |
 | `walnuts.dev` | Yes |
 | `walnuts.ml` | No |
 | `walrus.social` | Yes |
@@ -50866,6 +50871,7 @@ Here's a list of public Fediverse services.
 | `yeschenko.com` | No |
 | `yeshuafreedom.com` | No |
 | `yesil.club` | No |
+| `yesmap.net` | No |
 | `yesnt.ga` | No |
 | `yestadon.site` | No |
 | `yesterbits.link` | No |
@@ -51584,6 +51590,7 @@ Here's a list of public Fediverse services.
 | `zocradio.info` | No |
 | `zoddo.fr` | No |
 | `zode.me` | No |
+| `zoemp.be` | No |
 | `zoeoconnell.co.uk` | No |
 | `zoethical.org` | No |
 | `zoey.dev` | Yes |
@@ -51777,8 +51784,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,678 |
-| Normal | 37,051 |
+| Cloudflare | 14,680 |
+| Normal | 37,056 |
 
 
 </details>
