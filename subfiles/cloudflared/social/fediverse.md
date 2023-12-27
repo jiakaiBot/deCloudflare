@@ -67,6 +67,7 @@ Here's a list of public Fediverse services.
 | `076.ne.jp` | No |
 | `07738135.xyz` | No |
 | `09f0138edbb42a379ab78da30f14818f.xyz` | No |
+| `09j.cn` | Yes |
 | `0ab.uk` | Yes |
 | `0am.jp` | No |
 | `0badc0.de` | Yes |
@@ -51814,7 +51815,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,691 |
+| Cloudflare | 14,692 |
 | Normal | 37,075 |
 
 
