@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,239 |
+| com | 8,240 |
 | social | 4,730 |
 | net | 4,043 |
 | org | 2,700 |
@@ -17820,6 +17820,7 @@ Here's a list of public Fediverse services.
 | `gunmastodon.com` | Yes |
 | `gunmonkeynet.net` | No |
 | `gunnar.se` | Yes |
+| `gunnersshot.com` | No |
 | `gunter.de` | No |
 | `gunters.org` | No |
 | `gunters.social` | Yes |
@@ -51831,7 +51832,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,702 |
-| Normal | 37,080 |
+| Normal | 37,081 |
 
 
 </details>
