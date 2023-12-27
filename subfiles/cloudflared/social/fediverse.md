@@ -3524,7 +3524,7 @@ Here's a list of public Fediverse services.
 | `aut.social` | No |
 | `authbypass.com` | No |
 | `authn.cc` | No |
-| `author.chat` | Yes |
+| `author.chat` | No |
 | `authorbuzz.co.uk` | No |
 | `authorhelp.uk` | No |
 | `authorship.studio` | No |
@@ -28402,6 +28402,7 @@ Here's a list of public Fediverse services.
 | `metatwit.social` | No |
 | `metaversetrillionaires.club` | Yes |
 | `metaversum.wtf` | No |
+| `metawarrior.army` | Yes |
 | `metaways.de` | No |
 | `metawurst.space` | No |
 | `metaxx.dev` | No |
@@ -47160,7 +47161,7 @@ Here's a list of public Fediverse services.
 | `tyazzkey.work` | No |
 | `tychi.me` | No |
 | `tycho.space` | No |
-| `tycrek.me` | Yes |
+| `tycrek.me` | No |
 | `tyds.fans` | No |
 | `tyflopodcast.net` | Yes |
 | `tyhjyys.fi` | No |
@@ -51794,8 +51795,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,682 |
-| Normal | 37,064 |
+| Cloudflare | 14,681 |
+| Normal | 37,066 |
 
 
 </details>
