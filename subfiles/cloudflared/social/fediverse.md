@@ -29848,7 +29848,7 @@ Here's a list of public Fediverse services.
 | `mowerse.com` | Yes |
 | `mowetent.com` | Yes |
 | `moxaik.de` | No |
-| `moxr.de` | No |
+| `moxr.de` | Yes |
 | `moxxis.space` | No |
 | `moytura.org` | No |
 | `moyu.foundation` | Yes |
@@ -35434,6 +35434,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.com.br` | Yes |
 | `pixelfed.cz` | Yes |
 | `pixelfed.de` | No |
+| `pixelfed.dk` | Yes |
 | `pixelfed.earth` | No |
 | `pixelfed.es` | Yes |
 | `pixelfed.eu` | No |
@@ -51822,8 +51823,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,696 |
-| Normal | 37,078 |
+| Cloudflare | 14,698 |
+| Normal | 37,077 |
 
 
 </details>
