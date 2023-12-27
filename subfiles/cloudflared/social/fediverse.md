@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,228 |
+| com | 8,229 |
 | social | 4,728 |
-| net | 4,042 |
+| net | 4,043 |
 | org | 2,698 |
 | de | 2,566 |
 
@@ -4560,6 +4560,7 @@ Here's a list of public Fediverse services.
 | `berdaguermontes.eu` | No |
 | `berdi.xyz` | No |
 | `berendt.me` | Yes |
+| `beretsky.net` | Yes |
 | `berezowski.de` | No |
 | `berg.cl` | No |
 | `berg.social` | No |
@@ -21913,6 +21914,7 @@ Here's a list of public Fediverse services.
 | `josa.social` | Yes |
 | `joschu.ch` | No |
 | `joscomputing.space` | No |
+| `josefabio.com` | No |
 | `josefsson.org` | No |
 | `joseli.to` | Yes |
 | `josemurilo.com` | Yes |
@@ -51799,8 +51801,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,685 |
-| Normal | 37,066 |
+| Cloudflare | 14,686 |
+| Normal | 37,067 |
 
 
 </details>
