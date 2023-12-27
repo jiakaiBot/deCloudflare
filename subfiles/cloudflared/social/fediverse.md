@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,230 |
+| com | 8,236 |
 | social | 4,728 |
 | net | 4,043 |
-| org | 2,698 |
+| org | 2,699 |
 | de | 2,566 |
 
 
@@ -842,6 +842,7 @@ Here's a list of public Fediverse services.
 | `a-deed.com` | No |
 | `a-ef.org` | No |
 | `a-kar.in` | Yes |
+| `a-l-e-x.cz` | No |
 | `a-lec.org` | No |
 | `a-li.re` | No |
 | `a-mastodon.it` | No |
@@ -3729,6 +3730,7 @@ Here's a list of public Fediverse services.
 | `ayco.io` | No |
 | `ayden.life` | Yes |
 | `ayeri.de` | No |
+| `ayjay.org` | No |
 | `aylett.co.uk` | Yes |
 | `aynrand.social` | Yes |
 | `ayntk.net` | No |
@@ -8878,6 +8880,7 @@ Here's a list of public Fediverse services.
 | `crazy-to-bike.de` | No |
 | `crazydan.org` | No |
 | `crazylab.online` | No |
+| `crazymastodon.com` | No |
 | `crazynewworld.net` | Yes |
 | `crazynoisybizarre.town` | No |
 | `crazypanda.fr` | No |
@@ -11102,6 +11105,7 @@ Here's a list of public Fediverse services.
 | `diskseven.com` | No |
 | `dislive.me` | No |
 | `dism.ink` | No |
+| `disnetdev.com` | No |
 | `disney.host` | No |
 | `disobey.net` | No |
 | `dispark.org` | Yes |
@@ -15412,6 +15416,7 @@ Here's a list of public Fediverse services.
 | `freedomstrike.net` | No |
 | `freedomstrike.org` | No |
 | `freedomtothink.social` | Yes |
+| `freedomtv.pro` | No |
 | `freedomwolf.cc` | Yes |
 | `freedomworkshop.com` | No |
 | `freedrm.org` | No |
@@ -20570,6 +20575,7 @@ Here's a list of public Fediverse services.
 | `inthedeltawaves.social` | No |
 | `intheirprime.moe` | No |
 | `inthenews.social` | No |
+| `inthenewsfeed.com` | No |
 | `intherain.club` | No |
 | `intinfinity.com` | Yes |
 | `intkos.link` | No |
@@ -22822,6 +22828,7 @@ Here's a list of public Fediverse services.
 | `kendothugs.world` | No |
 | `kenfm.de` | No |
 | `keng42.com` | Yes |
+| `kengourlay.com` | Yes |
 | `kengstrom.se` | No |
 | `kenhbit.com` | Yes |
 | `kenhou.info` | No |
@@ -24583,6 +24590,7 @@ Here's a list of public Fediverse services.
 | `ledoian.cz` | No |
 | `leds.social` | No |
 | `lee-perry.co.uk` | No |
+| `leecalvin.xyz` | No |
 | `leece.im` | No |
 | `leedsunited.social` | No |
 | `leeholmes.com` | Yes |
@@ -27783,6 +27791,7 @@ Here's a list of public Fediverse services.
 | `mattrog.net` | No |
 | `mattrva.com` | Yes |
 | `matts.network` | No |
+| `mattsbigfatarse.com` | No |
 | `mattsimpson.ca` | Yes |
 | `mattstenson.com` | Yes |
 | `mattstodon.xyz` | Yes |
@@ -30203,6 +30212,7 @@ Here's a list of public Fediverse services.
 | `mtwerk.com` | No |
 | `mtx.cx` | Yes |
 | `mtxyz.me` | No |
+| `mtyp.in` | No |
 | `mtzlr.io` | No |
 | `mu-omega-mu.com` | Yes |
 | `mu-ori.me` | No |
@@ -39240,6 +39250,7 @@ Here's a list of public Fediverse services.
 | `sabatino.pro` | No |
 | `sabbeln.social` | No |
 | `sabertooth.social` | No |
+| `sabilewcreates.com` | Yes |
 | `sables.ooo` | No |
 | `sabletopia.co.uk` | Yes |
 | `sabordage.net` | No |
@@ -51803,8 +51814,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,689 |
-| Normal | 37,066 |
+| Cloudflare | 14,691 |
+| Normal | 37,075 |
 
 
 </details>
