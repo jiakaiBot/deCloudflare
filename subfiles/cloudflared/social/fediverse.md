@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,730 |
 | net | 4,043 |
 | org | 2,700 |
-| de | 2,566 |
+| de | 2,567 |
 
 
 - Mastodon, Pleroma, etc
@@ -6123,6 +6123,7 @@ Here's a list of public Fediverse services.
 | `btcmb.org` | No |
 | `btcpins.com` | No |
 | `bternes.com` | No |
+| `btf-ev.de` | No |
 | `btoebe.de` | No |
 | `btr.net` | No |
 | `btrd.me` | No |
@@ -7335,7 +7336,7 @@ Here's a list of public Fediverse services.
 | `cheetah85.ovh` | No |
 | `chef-li.eu` | No |
 | `chefblogger.me` | Yes |
-| `chek.social` | No |
+| `chek.social` | Yes |
 | `chelmi.info` | No |
 | `chelseafc.social` | No |
 | `chelsealaurel.com` | Yes |
@@ -10055,6 +10056,7 @@ Here's a list of public Fediverse services.
 | `davepeck.org` | No |
 | `davesnider.com` | No |
 | `davespriggs.com` | No |
+| `davewinter.blog` | Yes |
 | `davewinter.dev` | Yes |
 | `davewinter.info` | Yes |
 | `david.garden` | Yes |
@@ -35236,6 +35238,7 @@ Here's a list of public Fediverse services.
 | `pierre-r.net` | No |
 | `pierre.tube` | No |
 | `pierregaignet.ovh` | No |
+| `pierremkb.fr` | Yes |
 | `pierrick.io` | No |
 | `pierronfam.com` | No |
 | `pieter.ninja` | No |
@@ -45422,6 +45425,7 @@ Here's a list of public Fediverse services.
 | `thiesen.berlin` | No |
 | `thighhigh.supply` | No |
 | `thijstops.com` | Yes |
+| `thilo.app` | No |
 | `thilobuchholz.de` | No |
 | `thimic.no` | Yes |
 | `thinaticsystem.com` | Yes |
@@ -51826,8 +51830,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,699 |
-| Normal | 37,079 |
+| Cloudflare | 14,702 |
+| Normal | 37,080 |
 
 
 </details>
