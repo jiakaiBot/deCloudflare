@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,229 |
+| com | 8,230 |
 | social | 4,728 |
 | net | 4,043 |
 | org | 2,698 |
@@ -44767,7 +44767,7 @@ Here's a list of public Fediverse services.
 | `thatother.site` | No |
 | `thatpanda.com` | No |
 | `thatsaspork.tk` | No |
-| `thatsit.social` | No |
+| `thatsit.social` | Yes |
 | `thatsocial.site` | No |
 | `thatspretty.cool` | Yes |
 | `thatssofetch.pink` | No |
@@ -48484,6 +48484,7 @@ Here's a list of public Fediverse services.
 | `vinzv.space` | No |
 | `violaine.xyz` | No |
 | `violence.church` | No |
+| `violetism.com` | Yes |
 | `violetmillie.me` | No |
 | `violoncello.ch` | No |
 | `viorsan.com` | Yes |
@@ -51801,8 +51802,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,686 |
-| Normal | 37,067 |
+| Cloudflare | 14,688 |
+| Normal | 37,066 |
 
 
 </details>
