@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,239 |
 | social | 4,728 |
 | net | 4,043 |
-| org | 2,699 |
+| org | 2,700 |
 | de | 2,566 |
 
 
@@ -41411,6 +41411,7 @@ Here's a list of public Fediverse services.
 | `skyue.com` | No |
 | `skyue.xyz` | No |
 | `sl-network.fr` | No |
+| `slab.org` | No |
 | `slacknet.uk` | No |
 | `slackware.nl` | No |
 | `slackworks.social` | No |
@@ -51127,6 +51128,7 @@ Here's a list of public Fediverse services.
 | `ytopia.xyz` | No |
 | `ytpmv.info` | Yes |
 | `ytringsrett.net` | No |
+| `ytsskey.space` | Yes |
 | `yttrium.io` | No |
 | `yttrx.com` | Yes |
 | `yu10g.com` | No |
@@ -51820,8 +51822,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,695 |
-| Normal | 37,077 |
+| Cloudflare | 14,696 |
+| Normal | 37,078 |
 
 
 </details>
