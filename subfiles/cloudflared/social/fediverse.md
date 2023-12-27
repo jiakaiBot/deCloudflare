@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,227 |
+| com | 8,228 |
 | social | 4,727 |
 | net | 4,042 |
 | org | 2,698 |
@@ -21559,7 +21559,7 @@ Here's a list of public Fediverse services.
 | `jfmblinux.fr` | No |
 | `jfootball.co` | No |
 | `jforo.com` | No |
-| `jforseth.tech` | Yes |
+| `jforseth.tech` | No |
 | `jg1000.fr` | No |
 | `jgachelin.fr` | No |
 | `jgantts.com` | No |
@@ -27876,7 +27876,7 @@ Here's a list of public Fediverse services.
 | `mayson.us` | No |
 | `mayvaneday.art` | No |
 | `maywood.me` | Yes |
-| `mazanec.social` | No |
+| `mazanec.social` | Yes |
 | `mazaska.social` | No |
 | `mazeldon.art` | No |
 | `mazeldon.world` | No |
@@ -38674,7 +38674,7 @@ Here's a list of public Fediverse services.
 | `rojas.cz` | Yes |
 | `rojogato.com` | Yes |
 | `rokerphotography.com` | Yes |
-| `rokosocial.com` | Yes |
+| `rokosocial.com` | No |
 | `rokoucha.net` | Yes |
 | `rokugan.fr` | No |
 | `rolandinsh.lv` | Yes |
@@ -44431,6 +44431,7 @@ Here's a list of public Fediverse services.
 | `tecmint.com` | Yes |
 | `tecnfy.com` | No |
 | `tecnocracia.com.co` | Yes |
+| `tecnoriflessioni.com` | No |
 | `ted.social` | No |
 | `tedandrachel.com` | No |
 | `tedcarstensen.social` | Yes |
@@ -51793,8 +51794,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,683 |
-| Normal | 37,062 |
+| Cloudflare | 14,682 |
+| Normal | 37,064 |
 
 
 </details>
