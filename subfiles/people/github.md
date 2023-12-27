@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The site is down](https://github.com/macedonga/beunblurred/issues/15)
+- [issues with current version](https://github.com/Lynx-Shortener/Lynx/issues/104)
 - [will retry to broadcast transaction again in 15 seconds](https://github.com/atomicals/atomicals-js/issues/163)
 - [get linux core error when restart ipfs in docker container](https://github.com/ipfs/kubo/issues/10269)
 - [Cloudflare workers give error](https://github.com/cohere-ai/cohere-typescript/issues/110)
