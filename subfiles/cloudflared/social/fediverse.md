@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,236 |
+| com | 8,237 |
 | social | 4,728 |
 | net | 4,043 |
 | org | 2,699 |
@@ -8618,6 +8618,7 @@ Here's a list of public Fediverse services.
 | `coplus.social` | No |
 | `coppelab.net` | No |
 | `copperhead.cloud` | No |
+| `copyriot.xyz` | No |
 | `coq.social` | No |
 | `coqui.social` | No |
 | `coralbay.top` | Yes |
@@ -32689,6 +32690,7 @@ Here's a list of public Fediverse services.
 | `null.town` | No |
 | `nulla8.stream` | Yes |
 | `nullable.space` | Yes |
+| `nullagilab.com` | Yes |
 | `nullc.at` | Yes |
 | `nullcat.moe` | Yes |
 | `nulled.llc` | Yes |
@@ -51815,8 +51817,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,692 |
-| Normal | 37,075 |
+| Cloudflare | 14,693 |
+| Normal | 37,076 |
 
 
 </details>
