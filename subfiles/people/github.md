@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Life360 failed setup, will retry](https://github.com/home-assistant/core/issues/106482)
 - [Multi-layer web fingerprint](https://github.com/projectdiscovery/httpx/issues/1505)
 - [The site is down](https://github.com/macedonga/beunblurred/issues/15)
 - [issues with current version](https://github.com/Lynx-Shortener/Lynx/issues/104)
