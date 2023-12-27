@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,228 |
-| social | 4,727 |
+| social | 4,728 |
 | net | 4,042 |
 | org | 2,698 |
 | de | 2,566 |
@@ -29028,6 +29028,7 @@ Here's a list of public Fediverse services.
 | `misskey.au` | No |
 | `misskey.beer` | No |
 | `misskey.blue` | Yes |
+| `misskey.buzz` | Yes |
 | `misskey.cf` | Yes |
 | `misskey.city` | Yes |
 | `misskey.cloud` | Yes |
@@ -40627,6 +40628,7 @@ Here's a list of public Fediverse services.
 | `sharivegas.com` | No |
 | `shark.community` | No |
 | `shark.moe` | No |
+| `sharkey.social` | No |
 | `sharking.com` | Yes |
 | `sharktale.xyz` | Yes |
 | `sharlayan.city` | Yes |
@@ -51797,8 +51799,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,684 |
-| Normal | 37,065 |
+| Cloudflare | 14,685 |
+| Normal | 37,066 |
 
 
 </details>
