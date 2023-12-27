@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,237 |
+| com | 8,239 |
 | social | 4,728 |
 | net | 4,043 |
 | org | 2,699 |
@@ -10052,6 +10052,7 @@ Here's a list of public Fediverse services.
 | `daveking.app` | No |
 | `davepeck.org` | No |
 | `davesnider.com` | No |
+| `davespriggs.com` | No |
 | `davewinter.dev` | Yes |
 | `davewinter.info` | Yes |
 | `david.garden` | Yes |
@@ -10370,6 +10371,7 @@ Here's a list of public Fediverse services.
 | `degrowth.dev` | No |
 | `degrowth.social` | No |
 | `degruchy.org` | No |
+| `degu.cl` | No |
 | `deguuuuu.xyz` | No |
 | `dehaeck.eu` | Yes |
 | `dehawara.de` | No |
@@ -14986,6 +14988,7 @@ Here's a list of public Fediverse services.
 | `flyaway.city` | Yes |
 | `flyemoji.moe` | Yes |
 | `flyerdonut.net` | Yes |
+| `flying-fishcan.com` | Yes |
 | `flying-snail.de` | No |
 | `flyingburri.to` | Yes |
 | `flyingcube.tech` | No |
@@ -37522,7 +37525,7 @@ Here's a list of public Fediverse services.
 | `rappappa.com` | No |
 | `rapsons.co` | Yes |
 | `raptnrent.me` | No |
-| `raptol.net` | No |
+| `raptol.net` | Yes |
 | `raptor-airways.de` | No |
 | `raptorengineering.io` | No |
 | `raptorpond.com` | No |
@@ -51817,8 +51820,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,693 |
-| Normal | 37,076 |
+| Cloudflare | 14,695 |
+| Normal | 37,077 |
 
 
 </details>
