@@ -2030,6 +2030,7 @@ Do not create new issue or we will close it as duplicate.
 | [BlmGop@twitter](https://twitter.com/BlmGop/status/1562943669275357184) | advertise |
 | [BlnaryMlke@twitter](https://twitter.com/BlnaryMlke/status/1555129483656658946) | advertise |
 | [blobnom@twitter](https://twitter.com/blobnom/status/1471578002098167808) | advertise |
+| [Blocksrey@twitter](https://twitter.com/Blocksrey/status/1739876714401173807) | advertise |
 | [bloggerborneo@twitter](https://twitter.com/bloggerborneo/status/1537702050955677696) | advertise |
 | [Blood81903194@twitter](https://twitter.com/Blood81903194/status/1391762333274411010) | advertise |
 | [Bloom_My_spd@twitter](https://twitter.com/Bloom_My_spd/status/1728469717239886315) | advertise |
