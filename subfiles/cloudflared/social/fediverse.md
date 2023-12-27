@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,239 |
-| social | 4,729 |
+| social | 4,730 |
 | net | 4,043 |
 | org | 2,700 |
 | de | 2,566 |
@@ -47077,6 +47077,7 @@ Here's a list of public Fediverse services.
 | `twelve.icu` | Yes |
 | `twelve.moe` | Yes |
 | `twentyzen.digital` | No |
+| `twentyzen.social` | No |
 | `tweoo.com` | No |
 | `twerkfor.work` | No |
 | `twexit.de` | No |
@@ -51826,7 +51827,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,699 |
-| Normal | 37,078 |
+| Normal | 37,079 |
 
 
 </details>
