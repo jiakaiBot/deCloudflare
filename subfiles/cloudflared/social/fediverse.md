@@ -17731,7 +17731,7 @@ Here's a list of public Fediverse services.
 | `gtfo.social` | Yes |
 | `gtfoh.lol` | Yes |
 | `gthmg.com` | No |
-| `gthree.win` | No |
+| `gthree.win` | Yes |
 | `gtio.io` | No |
 | `gtk.pw` | Yes |
 | `gtn-works.com` | No |
@@ -34420,6 +34420,7 @@ Here's a list of public Fediverse services.
 | `paravielfalt.zone` | No |
 | `parawatch.org` | No |
 | `parcel5.social` | No |
+| `parcero.bond` | Yes |
 | `parcility.co` | Yes |
 | `pardoners.church` | No |
 | `parens.social` | No |
@@ -50909,6 +50910,7 @@ Here's a list of public Fediverse services.
 | `yiff.chat` | Yes |
 | `yiff.co` | Yes |
 | `yiff.day` | Yes |
+| `yiff.download` | Yes |
 | `yiff.fyi` | No |
 | `yiff.life` | Yes |
 | `yiff.nz` | No |
@@ -51795,8 +51797,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,681 |
-| Normal | 37,066 |
+| Cloudflare | 14,684 |
+| Normal | 37,065 |
 
 
 </details>
