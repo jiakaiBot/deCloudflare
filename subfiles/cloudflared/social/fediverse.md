@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,239 |
-| social | 4,728 |
+| social | 4,729 |
 | net | 4,043 |
 | org | 2,700 |
 | de | 2,566 |
@@ -8418,6 +8418,7 @@ Here's a list of public Fediverse services.
 | `computer.surgery` | No |
 | `computeralltag.blog` | No |
 | `computerclub.online` | Yes |
+| `computerclub.social` | Yes |
 | `computerfairi.es` | Yes |
 | `computerfox.xyz` | No |
 | `computerhater.club` | No |
@@ -9465,6 +9466,7 @@ Here's a list of public Fediverse services.
 | `cyberpunk.fan` | No |
 | `cyberpunk.gmbh` | No |
 | `cyberpunk.haus` | No |
+| `cyberpunk.lol` | No |
 | `cyberpunk.net.ar` | Yes |
 | `cyberpunk.pics` | No |
 | `cyberpunks.social` | No |
@@ -51823,8 +51825,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,698 |
-| Normal | 37,077 |
+| Cloudflare | 14,699 |
+| Normal | 37,078 |
 
 
 </details>
