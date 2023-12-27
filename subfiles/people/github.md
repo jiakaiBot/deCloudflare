@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Multi-layer web fingerprint](https://github.com/projectdiscovery/httpx/issues/1505)
 - [The site is down](https://github.com/macedonga/beunblurred/issues/15)
 - [issues with current version](https://github.com/Lynx-Shortener/Lynx/issues/104)
 - [will retry to broadcast transaction again in 15 seconds](https://github.com/atomicals/atomicals-js/issues/163)
