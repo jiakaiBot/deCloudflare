@@ -35585,7 +35585,7 @@ Here's a list of public Fediverse services.
 | `playadust.social` | No |
 | `playcomics.com` | No |
 | `playexperience.org` | No |
-| `playgames.jp` | No |
+| `playgames.jp` | Yes |
 | `playground.ws` | No |
 | `playingbothsides.top` | No |
 | `playingwithworms.org.uk` | No |
@@ -50504,6 +50504,7 @@ Here's a list of public Fediverse services.
 | `xn--eckxc4c0a9di.games` | No |
 | `xn--eckxdwa8bwdza.com` | No |
 | `xn--eckycf7j.com` | No |
+| `xn--eckza.jp` | No |
 | `xn--eekf.net` | No |
 | `xn--eeks.xn--tckwe` | Yes |
 | `xn--einautisterzhlt-clb.de` | No |
@@ -51802,7 +51803,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,688 |
+| Cloudflare | 14,689 |
 | Normal | 37,066 |
 
 
