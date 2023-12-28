@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,240 |
-| social | 4,733 |
-| net | 4,043 |
+| com | 8,242 |
+| social | 4,735 |
+| net | 4,045 |
 | org | 2,701 |
-| de | 2,568 |
+| de | 2,569 |
 
 
 - Mastodon, Pleroma, etc
@@ -5560,6 +5560,7 @@ Here's a list of public Fediverse services.
 | `bong.social` | No |
 | `bonga.nu` | No |
 | `bongaplus.com` | Yes |
+| `bongo.social` | No |
 | `bongocats.town` | No |
 | `bongoit.co.uk` | Yes |
 | `bonifacelabs.ca` | No |
@@ -7854,6 +7855,7 @@ Here's a list of public Fediverse services.
 | `clearbackblast.com` | No |
 | `clearbluecapital.com` | No |
 | `clearly.rocks` | Yes |
+| `clearpilled.lgbt` | No |
 | `clearpixels.org` | Yes |
 | `cleary.au` | No |
 | `cleasky.blue` | No |
@@ -9790,6 +9792,7 @@ Here's a list of public Fediverse services.
 | `danielmoretz.com` | Yes |
 | `danielmrose.com` | Yes |
 | `danielnorton.com` | Yes |
+| `danielprindii.com` | No |
 | `danielsantos.org` | No |
 | `danielsteinborn.com` | No |
 | `danielstucke.com` | No |
@@ -12891,6 +12894,7 @@ Here's a list of public Fediverse services.
 | `endrealm.net` | Yes |
 | `endstation.jetzt` | No |
 | `endstress.de` | No |
+| `endtech.fr` | Yes |
 | `endthis.world` | No |
 | `endtimebelievers.com` | No |
 | `endur4.com` | No |
@@ -14118,6 +14122,7 @@ Here's a list of public Fediverse services.
 | `fedi.wien` | No |
 | `fedi.wtf` | Yes |
 | `fedi.xyz` | Yes |
+| `fedi1.net` | No |
 | `fedi196.gay` | No |
 | `fedia.io` | No |
 | `fedia.social` | No |
@@ -16402,6 +16407,7 @@ Here's a list of public Fediverse services.
 | `gaycookie.dev` | Yes |
 | `gaydadon.jp` | No |
 | `gayest.cloud` | Yes |
+| `gayest.dev` | Yes |
 | `gayfr.social` | No |
 | `gayfurry.space` | No |
 | `gaygary.com` | No |
@@ -21997,6 +22003,7 @@ Here's a list of public Fediverse services.
 | `journalism.social` | No |
 | `journalist.social` | Yes |
 | `journeytotaiwan.asia` | No |
+| `journme.social` | No |
 | `journodao.xyz` | Yes |
 | `journodon.com` | No |
 | `joviandreamstone.com` | Yes |
@@ -27853,6 +27860,7 @@ Here's a list of public Fediverse services.
 | `max-p.me` | Yes |
 | `max.town` | Yes |
 | `maxdec.fr` | Yes |
+| `maxgross.blog` | No |
 | `maxim.com` | Yes |
 | `maximalists.club` | Yes |
 | `maximandreev.de` | No |
@@ -27956,6 +27964,7 @@ Here's a list of public Fediverse services.
 | `mchel.net` | Yes |
 | `mchome.net` | No |
 | `mchosted.nl` | No |
+| `mcil.ink` | No |
 | `mcin.top` | Yes |
 | `mcirc.us` | No |
 | `mcjarbo.com` | Yes |
@@ -35265,6 +35274,7 @@ Here's a list of public Fediverse services.
 | `piggy.lol` | Yes |
 | `pigleader.com` | No |
 | `pigners.club` | Yes |
+| `pigro.me` | No |
 | `pigs.social` | No |
 | `pigsoul.com` | No |
 | `piipitin.fi` | No |
@@ -38571,6 +38581,7 @@ Here's a list of public Fediverse services.
 | `robertjames1971.blog` | No |
 | `robertmorrison.me` | No |
 | `robertobaca.com` | No |
+| `robertobarlocci.com` | Yes |
 | `robertoszek.xyz` | No |
 | `robertparker.se` | No |
 | `robertsasuke.com` | Yes |
@@ -40552,6 +40563,7 @@ Here's a list of public Fediverse services.
 | `sf-fandom.com` | No |
 | `sf.gov` | No |
 | `sf.social` | No |
+| `sfamil.de` | Yes |
 | `sfba.club` | No |
 | `sfba.photos` | No |
 | `sfba.social` | No |
@@ -50538,6 +50550,7 @@ Here's a list of public Fediverse services.
 | `xn--eckxdwa8bwdza.com` | No |
 | `xn--eckycf7j.com` | No |
 | `xn--eckza.jp` | No |
+| `xn--eckza.net` | No |
 | `xn--eekf.net` | No |
 | `xn--eeks.xn--tckwe` | Yes |
 | `xn--einautisterzhlt-clb.de` | No |
@@ -51837,8 +51850,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,700 |
-| Normal | 37,089 |
+| Cloudflare | 14,704 |
+| Normal | 37,098 |
 
 
 </details>
