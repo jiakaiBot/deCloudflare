@@ -181,7 +181,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | syshero.org | No |
 | t53.de | No |
 | telekom.de | Yes |
-| therifleman.name | No |
 | tiar.app | No |
 | tiarap.org | Yes |
 | timmes.nl | No |
@@ -195,7 +194,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | waringer-atg.de | No |
 | wikimedia-dns.org | No |
 | workfordemo.co.in | Yes |
-| xaoimoon.fr | No |
 | xcom.pro | No |
 | yandex.net | Yes |
 
@@ -205,7 +203,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 89 |
-| Normal | 96 |
+| Normal | 94 |
 
 
-### 48.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
