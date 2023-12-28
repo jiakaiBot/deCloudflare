@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [For some reason, access to IBM Q is blocked in Ukraine](https://github.com/Qiskit/qiskit/issues/11462)
 - [Life360 failed setup, will retry](https://github.com/home-assistant/core/issues/106482)
 - [Multi-layer web fingerprint](https://github.com/projectdiscovery/httpx/issues/1505)
 - [The site is down](https://github.com/macedonga/beunblurred/issues/15)
