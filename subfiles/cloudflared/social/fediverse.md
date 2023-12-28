@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,244 |
 | social | 4,735 |
 | net | 4,045 |
-| org | 2,702 |
+| org | 2,703 |
 | de | 2,569 |
 
 
@@ -40461,6 +40461,7 @@ Here's a list of public Fediverse services.
 | `ser1.net` | No |
 | `serafuku.moe` | Yes |
 | `seraimu.me` | Yes |
+| `seraliane.org` | No |
 | `seraph.red` | Yes |
 | `serasera.org` | No |
 | `serbanescu.dk` | Yes |
@@ -51858,7 +51859,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,710 |
-| Normal | 37,099 |
+| Normal | 37,100 |
 
 
 </details>
