@@ -10121,6 +10121,7 @@ Here's a list of public Fediverse services.
 | `dayaman.work` | No |
 | `daydream.cafe` | No |
 | `daydream.ink` | Yes |
+| `daydreami.cc` | Yes |
 | `dayl.in` | No |
 | `daytongang.social` | No |
 | `dayvancowboy.net` | Yes |
@@ -42256,7 +42257,7 @@ Here's a list of public Fediverse services.
 | `sozicloud.net` | No |
 | `sp-codes.de` | No |
 | `sp00neysplace.co.uk` | No |
-| `sp3akr.com` | No |
+| `sp3akr.com` | Yes |
 | `sp4ke.com` | No |
 | `sp8key.monster` | Yes |
 | `space-pirates.org` | No |
@@ -51852,8 +51853,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,706 |
-| Normal | 37,098 |
+| Cloudflare | 14,708 |
+| Normal | 37,097 |
 
 
 </details>
