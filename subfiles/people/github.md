@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Lucia branch: Check sendResult and forward PUBLIC_SUPPORT_EMAIL and RESEND_API_KEY vars to CF deployment](https://github.com/timothymiller/t4-app/issues/130)
 - [Error deploying to Cloudflare Workers after upgrade beyond rc.2](https://github.com/Baroshem/nuxt-security/issues/335)
 - [Throws error while using along with cloudflare adopter](https://github.com/astro-community/AstroCompress/issues/251)
 - [For some reason, access to IBM Q is blocked in Ukraine](https://github.com/Qiskit/qiskit/issues/11462)
