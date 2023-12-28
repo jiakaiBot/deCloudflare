@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,240 |
-| social | 4,731 |
+| social | 4,732 |
 | net | 4,043 |
 | org | 2,700 |
 | de | 2,568 |
@@ -11482,7 +11482,7 @@ Here's a list of public Fediverse services.
 | `dontbulling.me` | No |
 | `dontdontdontletsstartthisistheworstpartcouldntbelieveforallthe.world` | No |
 | `donte.com.br` | Yes |
-| `donteatanimals.org` | No |
+| `donteatanimals.org` | Yes |
 | `dontexist.net` | No |
 | `dontexist.org` | No |
 | `donthaveaclueman.com` | No |
@@ -12212,6 +12212,7 @@ Here's a list of public Fediverse services.
 | `ebinwebsite.xyz` | No |
 | `ebiryu.tech` | No |
 | `ebisu.me` | No |
+| `ebiverse.social` | No |
 | `eble.name` | No |
 | `ebmn.io` | No |
 | `ebnar.xyz` | Yes |
@@ -51834,7 +51835,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,698 |
+| Cloudflare | 14,699 |
 | Normal | 37,088 |
 
 
