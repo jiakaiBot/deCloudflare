@@ -16,7 +16,6 @@ MitiGator can help you preventing sharing inaccessible links.
   - [How to Subscribe](altlink.md#how-to-subscribe)
   - [How to Unsubscribe](altlink.md#how-to-unsubscribe)
   - [Suggest clean alternatives](altlink.md#suggest-clean-alternatives)
-  - [Report a problem / Create an Issue](altlink.md#report-a-problem-create-an-issue)
   - [Settings](altlink.md#settings)
   - [Download PNG Logo](altlink.md#download-png-logo)
   - [The Difference between MitiGator and MGLite](altlink.md#the-difference-between-mitigator-and-mglite)
@@ -129,19 +128,6 @@ https://...
 ```
 
 - The "🚨" icon means the website is known Anti-Tor website. Tor users better avoid this result.
-
-
-
-### Report a problem / Create an Issue
-
-You can create an Issue without git account. Just send a **direct** message.
-And don't worry
-
-- Multiple mentions (e.g. `@randomUser @mg @otherUser blah blah blah`)
-- _Public_ message (e.g. `there's a bot called @mg`)
-
-will be ignored to prevent spam.
-Your username part (before `@`) will be masked to protect your privacy.
 
 
 ### Settings
