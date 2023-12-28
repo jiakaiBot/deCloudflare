@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,240 |
 | social | 4,733 |
 | net | 4,043 |
-| org | 2,700 |
+| org | 2,701 |
 | de | 2,568 |
 
 
@@ -6155,7 +6155,7 @@ Here's a list of public Fediverse services.
 | `buckodr.ink` | Yes |
 | `bud.camp` | No |
 | `buddhist.tv` | Yes |
-| `buddyverse.xyz` | No |
+| `buddyverse.xyz` | Yes |
 | `budini.me` | Yes |
 | `budmo.info` | No |
 | `budsbots.com` | No |
@@ -6688,6 +6688,7 @@ Here's a list of public Fediverse services.
 | `captandoelcosmos.com` | No |
 | `captnstark.com` | Yes |
 | `capubara.com` | No |
+| `caputoweb.eu.org` | No |
 | `capybara.garden` | No |
 | `capybara.social` | No |
 | `capybara.zone` | Yes |
@@ -12845,7 +12846,7 @@ Here's a list of public Fediverse services.
 | `en.gy` | No |
 | `en0taka.com` | Yes |
 | `ena-vocalp.com` | Yes |
-| `enafore.social` | No |
+| `enafore.social` | Yes |
 | `enbi.es` | No |
 | `enbies.space` | Yes |
 | `enby-box.de` | No |
@@ -51836,8 +51837,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,698 |
-| Normal | 37,090 |
+| Cloudflare | 14,700 |
+| Normal | 37,089 |
 
 
 </details>
