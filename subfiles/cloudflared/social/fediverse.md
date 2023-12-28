@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,244 |
 | social | 4,735 |
 | net | 4,045 |
-| org | 2,703 |
+| org | 2,704 |
 | de | 2,569 |
 
 
@@ -10434,7 +10434,7 @@ Here's a list of public Fediverse services.
 | `deleteyourfacebook.today` | No |
 | `deleuil.studio` | No |
 | `delfinpe.de` | Yes |
-| `deli.st` | No |
+| `deli.st` | Yes |
 | `delic.fi` | No |
 | `delicesbdsm.fr` | Yes |
 | `delire.party` | No |
@@ -20532,6 +20532,7 @@ Here's a list of public Fediverse services.
 | `instituteofcorrection.org.uk` | No |
 | `instrumentalverein-tueddern.de` | No |
 | `insufferable.tools` | No |
+| `insula.org.ua` | No |
 | `insurrection.tech` | Yes |
 | `int21.dev` | No |
 | `int21h.eu` | No |
@@ -25125,6 +25126,7 @@ Here's a list of public Fediverse services.
 | `libr.events` | No |
 | `libranet.de` | No |
 | `libranigans.com` | No |
+| `librarian.fyi` | No |
 | `librarianofalexandria.com` | No |
 | `library.love` | No |
 | `libraryland.social` | Yes |
@@ -38639,6 +38641,7 @@ Here's a list of public Fediverse services.
 | `robutti.me` | No |
 | `robviously.me` | No |
 | `robw.me` | No |
+| `robwatts.org` | Yes |
 | `robzazueta.com` | No |
 | `roc.social` | Yes |
 | `rocaguinarda.org` | No |
@@ -43085,6 +43088,7 @@ Here's a list of public Fediverse services.
 | `storyseedvault.com` | No |
 | `storyteller.social` | No |
 | `stout.life` | No |
+| `stowarzyszenieotwartejnauki.pl` | No |
 | `stown.me` | Yes |
 | `stoyko.space` | No |
 | `stp.cx` | No |
@@ -51858,8 +51862,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,710 |
-| Normal | 37,100 |
+| Cloudflare | 14,712 |
+| Normal | 37,102 |
 
 
 </details>
