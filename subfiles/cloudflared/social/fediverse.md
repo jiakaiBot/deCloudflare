@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,240 |
-| social | 4,732 |
+| social | 4,733 |
 | net | 4,043 |
 | org | 2,700 |
 | de | 2,568 |
@@ -12845,6 +12845,7 @@ Here's a list of public Fediverse services.
 | `en.gy` | No |
 | `en0taka.com` | Yes |
 | `ena-vocalp.com` | Yes |
+| `enafore.social` | No |
 | `enbi.es` | No |
 | `enbies.space` | Yes |
 | `enby-box.de` | No |
@@ -37650,7 +37651,7 @@ Here's a list of public Fediverse services.
 | `raziel-kanos.com` | No |
 | `raziel.space` | No |
 | `razmadze.me` | Yes |
-| `razormonkey.eu` | Yes |
+| `razormonkey.eu` | No |
 | `razors.page` | No |
 | `razorserver.fr` | No |
 | `razorskiss.net` | No |
@@ -51835,8 +51836,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,699 |
-| Normal | 37,088 |
+| Cloudflare | 14,698 |
+| Normal | 37,090 |
 
 
 </details>
