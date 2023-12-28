@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,242 |
+| com | 8,243 |
 | social | 4,735 |
 | net | 4,045 |
 | org | 2,701 |
@@ -769,6 +769,7 @@ Here's a list of public Fediverse services.
 | `80chars.io` | No |
 | `80o.xyz` | No |
 | `80percent.social` | Yes |
+| `80px.com` | Yes |
 | `818.gallery` | No |
 | `819.blue` | No |
 | `829.hu` | Yes |
@@ -51853,7 +51854,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,708 |
+| Cloudflare | 14,709 |
 | Normal | 37,097 |
 
 
