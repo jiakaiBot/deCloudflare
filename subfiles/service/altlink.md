@@ -87,10 +87,11 @@ Below steps is for MitiGator and not MGLite.
 Just ask (send **direct** message to) it and he will provide some suggestions.
 
 - This is related to Settings' `Suggest other non-Cloudflare alternative sites when available`.
+  - It is `on` by default; you can disable it from Settings website (below).
 
 Syntax: `@mg ?URL` or `？URL`
 
-Put Cloudflared URL like this...
+Put Cloudflared URL like this.
 
 ```
 @mg ?https://cflove.myblog.site/cloud_is_internet/?blog=true
@@ -111,6 +112,24 @@ Put Cloudflared URL like this...
 ?https://matthewprince.site/
 ?https://matthew.prince.name/
 ```
+
+And you will receive something like below within 1 minute if there are alternatives.
+
+```
+@mygoodperson 🤔
+
+➤ GOOD_ALTERNATIVE_SITE_1
+https://...
+
+➤ GOOD_ALTERNATIVE_SITE_2
+https://...
+
+➤ GOOD_ALTERNATIVE_SITE_3🚨
+https://...
+```
+
+- The "🚨" icon means the website is known Anti-Tor website. Tor users better avoid this result.
+
 
 
 ### Report a problem / Create an Issue
