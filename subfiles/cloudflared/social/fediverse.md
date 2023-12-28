@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,244 |
+| com | 8,245 |
 | social | 4,735 |
 | net | 4,045 |
 | org | 2,704 |
@@ -10403,6 +10403,7 @@ Here's a list of public Fediverse services.
 | `dejongs.de` | Yes |
 | `dejvino.eu` | No |
 | `dek-net.com` | No |
+| `dekadensverket.se` | No |
 | `dekain.icu` | No |
 | `dekameta.com` | No |
 | `dekay.se` | Yes |
@@ -20457,6 +20458,7 @@ Here's a list of public Fediverse services.
 | `inman.xyz` | No |
 | `inmediahk.net` | Yes |
 | `inmmosiliketo.tk` | No |
+| `inmotionhosting.com` | Yes |
 | `inn4tel.social` | Yes |
 | `inndy.tw` | Yes |
 | `innernet.link` | Yes |
@@ -51862,8 +51864,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,712 |
-| Normal | 37,102 |
+| Cloudflare | 14,713 |
+| Normal | 37,103 |
 
 
 </details>
