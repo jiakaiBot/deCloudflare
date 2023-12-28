@@ -3150,6 +3150,7 @@ Do not create new issue or we will close it as duplicate.
 | [Deki12253933@twitter](https://twitter.com/Deki12253933/status/1552020750936281088) | advertise |
 | [DelsinPistons@twitter](https://twitter.com/DelsinPistons/status/1420937477930487808) | advertise |
 | [DelucioJoseph@twitter](https://twitter.com/DelucioJoseph/status/1393744512422498304) | advertise |
+| [demaj_eron@twitter](https://twitter.com/demaj_eron/status/1740350739564871925) | advertise |
 | [DemassGizaw@twitter](https://twitter.com/DemassGizaw/status/1679871159494402051) | advertise |
 | [DemGames_Inc@twitter](https://twitter.com/DemGames_Inc/status/1717293764815753382) | advertise |
 | [demigozz1@twitter](https://twitter.com/demigozz1/status/1585518522025009154) | advertise |
@@ -4558,6 +4559,7 @@ Do not create new issue or we will close it as duplicate.
 | [GXG77233574@twitter](https://twitter.com/GXG77233574/status/1396194788949458944) | advertise |
 | [Gyanend49638868@twitter](https://twitter.com/Gyanend49638868/status/1401188680056795137) | advertise |
 | [Gyan_91@twitter](https://twitter.com/Gyan_91/status/1396643664840085505) | advertise |
+| [GyiDr87057@twitter](https://twitter.com/GyiDr87057/status/1740366893134008598) | advertise |
 | [GyieHtet@twitter](https://twitter.com/GyieHtet/status/1397953751764422658) | advertise |
 | [GyiTaing@twitter](https://twitter.com/GyiTaing/status/1390243847863681025) | advertise |
 | [GyiYan1@twitter](https://twitter.com/GyiYan1/status/1382690804746047494) | advertise |
@@ -8144,6 +8146,7 @@ Do not create new issue or we will close it as duplicate.
 | [mainsova2601@twitter](https://twitter.com/mainsova2601/status/1668322268941025280) | advertise |
 | [MaiPham06160922@twitter](https://twitter.com/MaiPham06160922/status/1392396112179306500) | advertise |
 | [Mait82181284@twitter](https://twitter.com/Mait82181284/status/1600479237907308544) | advertise |
+| [Maithanhtrung63@twitter](https://twitter.com/Maithanhtrung63/status/1740373419534045554) | advertise |
 | [maithanh_tai@twitter](https://twitter.com/maithanh_tai/status/1401900355470839810) | advertise |
 | [MaiThin168323@twitter](https://twitter.com/MaiThin168323/status/1702646639562023190) | advertise |
 | [MaiThuHNam1@twitter](https://twitter.com/MaiThuHNam1/status/1717583320819855688) | advertise |
