@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error deploying to Cloudflare Workers after upgrade beyond rc.2](https://github.com/Baroshem/nuxt-security/issues/335)
 - [Throws error while using along with cloudflare adopter](https://github.com/astro-community/AstroCompress/issues/251)
 - [For some reason, access to IBM Q is blocked in Ukraine](https://github.com/Qiskit/qiskit/issues/11462)
 - [Life360 failed setup, will retry](https://github.com/home-assistant/core/issues/106482)
