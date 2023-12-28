@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,243 |
+| com | 8,244 |
 | social | 4,735 |
 | net | 4,045 |
-| org | 2,701 |
+| org | 2,702 |
 | de | 2,569 |
 
 
@@ -2593,6 +2593,7 @@ Here's a list of public Fediverse services.
 | `antonovich.me` | No |
 | `antonywalton.com` | No |
 | `antopie.org` | No |
+| `antoru.me` | Yes |
 | `antovolk.co.uk` | No |
 | `antranigv.am` | No |
 | `antrejeuxstudio.fr` | Yes |
@@ -4646,6 +4647,7 @@ Here's a list of public Fediverse services.
 | `bettadelic.art` | No |
 | `better.boston` | Yes |
 | `betterconversations.online` | Yes |
+| `betterlangley.com` | No |
 | `betterletter.io` | No |
 | `betterodds.social` | No |
 | `betteroffed.com` | Yes |
@@ -10360,6 +10362,7 @@ Here's a list of public Fediverse services.
 | `defencegeeks.net` | No |
 | `defenders.town` | Yes |
 | `defenestrate.it` | Yes |
+| `defensivesecurity.org` | No |
 | `deferpanic.dev` | No |
 | `deff.no` | Yes |
 | `deffo.com.au` | Yes |
@@ -51854,8 +51857,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,709 |
-| Normal | 37,097 |
+| Cloudflare | 14,710 |
+| Normal | 37,099 |
 
 
 </details>
