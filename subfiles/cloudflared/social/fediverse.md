@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,240 |
-| social | 4,730 |
+| social | 4,731 |
 | net | 4,043 |
 | org | 2,700 |
-| de | 2,567 |
+| de | 2,568 |
 
 
 - Mastodon, Pleroma, etc
@@ -4514,6 +4514,7 @@ Here's a list of public Fediverse services.
 | `benkard.de` | No |
 | `benkenawell.com` | No |
 | `benki.net` | Yes |
+| `benlikestoco.de` | No |
 | `benlopatin.com` | No |
 | `benmccormick.org` | Yes |
 | `benning.space` | Yes |
@@ -12610,7 +12611,7 @@ Here's a list of public Fediverse services.
 | `elekk.xyz` | Yes |
 | `elektrine.com` | Yes |
 | `elektroluder.de` | No |
-| `elektronfabrik.net` | Yes |
+| `elektronfabrik.net` | No |
 | `elektrotu.be` | No |
 | `elektu.be` | No |
 | `elemac.fr` | No |
@@ -19267,6 +19268,7 @@ Here's a list of public Fediverse services.
 | `hopman.nl` | No |
 | `hopmann.xyz` | No |
 | `hoppclan.com` | No |
+| `hoppet.cool` | No |
 | `hoppinggalaxies.com` | No |
 | `hoppinggalaxies.social` | No |
 | `hoppinglife.com` | No |
@@ -35056,6 +35058,7 @@ Here's a list of public Fediverse services.
 | `phatnastytour.com` | No |
 | `phaysis.com` | No |
 | `phdstudents.space` | No |
+| `phediverse.social` | No |
 | `phegan.live` | Yes |
 | `pheme.au` | No |
 | `phene.gay` | No |
@@ -35534,7 +35537,7 @@ Here's a list of public Fediverse services.
 | `pkteerium.xyz` | No |
 | `pkutalk.com` | No |
 | `pl-sonic.net` | Yes |
-| `pla.social` | Yes |
+| `pla.social` | No |
 | `pla1.net` | No |
 | `place-of-refuge.com` | No |
 | `placedelhorloge.fr` | No |
@@ -43445,7 +43448,7 @@ Here's a list of public Fediverse services.
 | `superchonkycat.social` | Yes |
 | `supercolossal.co` | No |
 | `supercomputer321.tk` | No |
-| `supercool.fun` | Yes |
+| `supercool.fun` | No |
 | `superdark.social` | Yes |
 | `superduper.space` | No |
 | `superextragood.com` | No |
@@ -45603,7 +45606,7 @@ Here's a list of public Fediverse services.
 | `tictoc.social` | No |
 | `tiddies.pro` | No |
 | `tiddy.city` | Yes |
-| `tiddyhonkers.com` | No |
+| `tiddyhonkers.com` | Yes |
 | `tide.tk` | No |
 | `tidusfox9.online` | No |
 | `tidy.camp` | No |
@@ -47079,7 +47082,7 @@ Here's a list of public Fediverse services.
 | `tweety.icu` | Yes |
 | `tweety.social` | No |
 | `tweety.today` | No |
-| `twelve.icu` | Yes |
+| `twelve.icu` | No |
 | `twelve.moe` | Yes |
 | `twentyzen.digital` | No |
 | `twentyzen.social` | No |
@@ -47489,7 +47492,7 @@ Here's a list of public Fediverse services.
 | `unboxed.social` | No |
 | `uncanceledil.com` | No |
 | `uncate.org` | No |
-| `uncensored.services` | Yes |
+| `uncensored.services` | No |
 | `uncensoredspeech.social` | No |
 | `uncensoredvoice.org` | No |
 | `uncensoredwisdom.com` | No |
@@ -51831,8 +51834,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,702 |
-| Normal | 37,081 |
+| Cloudflare | 14,698 |
+| Normal | 37,088 |
 
 
 </details>
