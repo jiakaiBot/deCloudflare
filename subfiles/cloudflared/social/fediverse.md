@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 8,245 |
 | social | 4,735 |
 | net | 4,045 |
-| org | 2,704 |
-| de | 2,569 |
+| org | 2,705 |
+| de | 2,570 |
 
 
 - Mastodon, Pleroma, etc
@@ -8665,7 +8665,7 @@ Here's a list of public Fediverse services.
 | `corneill.es` | No |
 | `cornerbooth.chat` | Yes |
 | `cornerof.world` | No |
-| `cornfedcrew.com` | No |
+| `cornfedcrew.com` | Yes |
 | `cornichon.me` | No |
 | `cornputer.org` | No |
 | `cornspace.space` | Yes |
@@ -38731,6 +38731,7 @@ Here's a list of public Fediverse services.
 | `rojas.cz` | Yes |
 | `rojogato.com` | Yes |
 | `rokerphotography.com` | Yes |
+| `rokimuc.de` | Yes |
 | `rokosocial.com` | No |
 | `rokoucha.net` | Yes |
 | `rokugan.fr` | No |
@@ -49887,6 +49888,7 @@ Here's a list of public Fediverse services.
 | `wiuwiu.de` | No |
 | `wivodaim.com` | No |
 | `wivodaim.net` | No |
+| `wiwi.blog` | No |
 | `wiwi.nrw` | No |
 | `wiwi.video` | No |
 | `wiwie.dk` | Yes |
@@ -50172,6 +50174,7 @@ Here's a list of public Fediverse services.
 | `writefreely.social` | No |
 | `writehere.is` | No |
 | `writeout.ink` | No |
+| `writer.eu.org` | No |
 | `writerfriends.space` | No |
 | `writersaur.us` | No |
 | `writerupdated.com` | No |
@@ -51864,8 +51867,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,713 |
-| Normal | 37,103 |
+| Cloudflare | 14,715 |
+| Normal | 37,104 |
 
 
 </details>
