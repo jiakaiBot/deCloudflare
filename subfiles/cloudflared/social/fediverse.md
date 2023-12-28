@@ -4425,6 +4425,7 @@ Here's a list of public Fediverse services.
 | `beiting.org` | No |
 | `beitmenotyou.com` | No |
 | `beiunsdaham.de` | No |
+| `beiyan.us` | Yes |
 | `bejinariu.eu` | No |
 | `bekesi.org` | No |
 | `bekserver.xyz` | No |
@@ -30027,7 +30028,7 @@ Here's a list of public Fediverse services.
 | `mstdn-bike.net` | Yes |
 | `mstdn-cycle.com` | No |
 | `mstdn-d.info` | No |
-| `mstdn-dystopia.com` | No |
+| `mstdn-dystopia.com` | Yes |
 | `mstdn-east.jp` | No |
 | `mstdn-ff14.jp` | No |
 | `mstdn-football.jp` | No |
@@ -31742,6 +31743,7 @@ Here's a list of public Fediverse services.
 | `nicecrew.us` | No |
 | `nicede.xyz` | No |
 | `nicehat.lol` | No |
+| `nicelink.me` | No |
 | `niceparfait.com` | No |
 | `nicepeople.social` | No |
 | `niceview.club` | No |
@@ -51850,7 +51852,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,704 |
+| Cloudflare | 14,706 |
 | Normal | 37,098 |
 
 
