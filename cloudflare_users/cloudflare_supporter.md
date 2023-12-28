@@ -327,6 +327,7 @@ Do not create new issue or we will close it as duplicate.
 | [abhishekFactory@twitter](https://twitter.com/abhishekFactory/status/1510363217624711170) | advertise |
 | [abhishekkandel3@twitter](https://twitter.com/abhishekkandel3/status/1575388121235013633) | advertise |
 | [AbhishekNag27@twitter](https://twitter.com/AbhishekNag27/status/1388448265469714432) | advertise |
+| [AbhishekVB4@twitter](https://twitter.com/AbhishekVB4/status/1740334719777247684) | advertise |
 | [Abhishesh24@twitter](https://twitter.com/Abhishesh24/status/1536930185718956032) | advertise |
 | [abkrimms@twitter](https://twitter.com/abkrimms/status/1456514766554402859) | advertise |
 | [abney77580215@twitter](https://twitter.com/abney77580215/status/1508581283072548873) | advertise |
@@ -9204,6 +9205,7 @@ Do not create new issue or we will close it as duplicate.
 | [mt1234513@twitter](https://twitter.com/mt1234513/status/1393161915141017603) | advertise |
 | [mtanu1680@twitter](https://twitter.com/mtanu1680/status/1716719465587749294) | advertise |
 | [MTAung15@twitter](https://twitter.com/MTAung15/status/1383709367837499396) | advertise |
+| [MThewiner5414@twitter](https://twitter.com/MThewiner5414/status/1740322194956456300) | advertise |
 | [mtNguyn83885894@twitter](https://twitter.com/mtNguyn83885894/status/1530631753244999680) | advertise |
 | [mtoannhh34@twitter](https://twitter.com/mtoannhh34/status/1397481337083207685) | advertise |
 | [MTonypayne@twitter](https://twitter.com/MTonypayne/status/1382704970634559506) | advertise |
@@ -9306,6 +9308,7 @@ Do not create new issue or we will close it as duplicate.
 | [MyatThoon3@twitter](https://twitter.com/MyatThoon3/status/1393159062288666627) | advertise |
 | [MyatThu17635407@twitter](https://twitter.com/MyatThu17635407/status/1508217388428587008) | advertise |
 | [myatthu19950274@twitter](https://twitter.com/myatthu19950274/status/1377506766200573955) | advertise |
+| [MyatThu37515844@twitter](https://twitter.com/MyatThu37515844/status/1740338688385749037) | advertise |
 | [MyatThu54775547@twitter](https://twitter.com/MyatThu54775547/status/1403683072273354753) | advertise |
 | [MyatThu81254909@twitter](https://twitter.com/MyatThu81254909/status/1390582627007025152) | advertise |
 | [MyatThuAung001@twitter](https://twitter.com/MyatThuAung001/status/1390735111880994817) | advertise |
