@@ -15271,6 +15271,7 @@ Here's a list of public Fediverse services.
 | `foxgirl.land` | No |
 | `foxgirl.lol` | No |
 | `foxgirl.social` | Yes |
+| `foxgirl.xyz` | No |
 | `foxgirlsat.work` | No |
 | `foxgl.ovh` | No |
 | `foxhillyer.org` | No |
@@ -51894,7 +51895,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,720 |
-| Normal | 37,125 |
+| Normal | 37,126 |
 
 
 </details>
