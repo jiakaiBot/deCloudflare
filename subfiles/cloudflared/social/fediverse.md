@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,253 |
+| com | 8,254 |
 | social | 4,735 |
 | net | 4,047 |
 | org | 2,705 |
@@ -11122,6 +11122,7 @@ Here's a list of public Fediverse services.
 | `disinfo.zone` | Yes |
 | `disinfosocial.club` | Yes |
 | `disism.com` | Yes |
+| `diskcat.com` | No |
 | `diskette.online` | No |
 | `diskofgrain.xyz` | No |
 | `diskseven.com` | No |
@@ -24371,6 +24372,7 @@ Here's a list of public Fediverse services.
 | `laohu.de` | No |
 | `lap.social` | Yes |
 | `lapidak.is` | Yes |
+| `lapincretin.fr` | Yes |
 | `lapineige.fr` | No |
 | `lapo.it` | No |
 | `lapp-social.com` | No |
@@ -34098,7 +34100,6 @@ Here's a list of public Fediverse services.
 | `outlier.directory` | No |
 | `outlow.xyz` | No |
 | `outmo.de` | No |
-| `outof.coffee` | No |
 | `outofreality.org` | No |
 | `outoftou.ch` | No |
 | `outout.xyz` | No |
@@ -51889,7 +51890,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,718 |
+| Cloudflare | 14,719 |
 | Normal | 37,123 |
 
 
