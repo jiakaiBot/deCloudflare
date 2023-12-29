@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,254 |
-| social | 4,735 |
-| net | 4,047 |
+| com | 8,257 |
+| social | 4,736 |
+| net | 4,048 |
 | org | 2,705 |
 | de | 2,571 |
 
@@ -5817,6 +5817,7 @@ Here's a list of public Fediverse services.
 | `bradycat.de` | Yes |
 | `braemer.us` | No |
 | `brage.fr` | Yes |
+| `brailer.info` | No |
 | `brain404.com` | No |
 | `brainbaking.com` | Yes |
 | `brainjuice.ca` | No |
@@ -11526,6 +11527,7 @@ Here's a list of public Fediverse services.
 | `doon.promo` | No |
 | `doony.online` | No |
 | `doop.coop` | No |
+| `doosom.com` | No |
 | `dopamine.social` | No |
 | `dopasoft.com` | No |
 | `dopcrew.com` | No |
@@ -20142,6 +20144,7 @@ Here's a list of public Fediverse services.
 | `imaginatrix.xyz` | Yes |
 | `imagisphe.re` | No |
 | `imagotv.fr` | No |
+| `imahbub.com` | No |
 | `imal.org` | No |
 | `imancommunity.de` | No |
 | `imarc.co.uk` | No |
@@ -20843,6 +20846,7 @@ Here's a list of public Fediverse services.
 | `isesh.com` | No |
 | `isfeeling.social` | No |
 | `ish.app` | Yes |
+| `ishanmahapatra.com` | No |
 | `isharacomix.org` | No |
 | `ishare4free.com` | No |
 | `ishikaridon.jp` | No |
@@ -21330,6 +21334,7 @@ Here's a list of public Fediverse services.
 | `jaseroque.com` | Yes |
 | `jasforce.com` | No |
 | `jasm1nii.xyz` | No |
+| `jasminchen.dev` | No |
 | `jasmine.lgbt` | No |
 | `jasminetea.uk` | Yes |
 | `jasnell.me` | Yes |
@@ -30565,6 +30570,7 @@ Here's a list of public Fediverse services.
 | `myd.kyoto.jp` | No |
 | `myddns.me` | No |
 | `mydns.jp` | Yes |
+| `mydo.meme` | Yes |
 | `myds.me` | No |
 | `myepicserver.de` | Yes |
 | `myeu.cloud` | Yes |
@@ -38986,6 +38992,7 @@ Here's a list of public Fediverse services.
 | `rsocial.eu` | No |
 | `rsp-blogs.de` | No |
 | `rsplwe.com` | Yes |
+| `rss-parrot.net` | No |
 | `rss.town` | No |
 | `rssfeed.media` | No |
 | `rssto.social` | Yes |
@@ -47888,6 +47895,7 @@ Here's a list of public Fediverse services.
 | `urgero.dev` | No |
 | `urgero.org` | No |
 | `urgle.com` | No |
+| `urgo.social` | Yes |
 | `urhub.co` | Yes |
 | `uri.life` | Yes |
 | `uriahjaylee.com` | No |
@@ -51894,8 +51902,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,720 |
-| Normal | 37,126 |
+| Cloudflare | 14,722 |
+| Normal | 37,132 |
 
 
 </details>
