@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Volta does not use the system CA certificate store](https://github.com/volta-cli/volta/issues/1629)
 - [JWT's generated are invalid](https://github.com/finsweet/fireworkers/issues/25)
 - [Lucia branch: Check sendResult and forward PUBLIC_SUPPORT_EMAIL and RESEND_API_KEY vars to CF deployment](https://github.com/timothymiller/t4-app/issues/130)
 - [Error deploying to Cloudflare Workers after upgrade beyond rc.2](https://github.com/Baroshem/nuxt-security/issues/335)
