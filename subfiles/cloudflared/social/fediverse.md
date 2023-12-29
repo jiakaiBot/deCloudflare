@@ -19749,7 +19749,7 @@ Here's a list of public Fediverse services.
 | `i226.net` | Yes |
 | `i234.me` | No |
 | `i2p.rocks` | No |
-| `i32.eu` | No |
+| `i32.eu` | Yes |
 | `i3x.cx` | No |
 | `i4m1k0.su` | Yes |
 | `i544c.me` | Yes |
@@ -34084,6 +34084,7 @@ Here's a list of public Fediverse services.
 | `outlier.directory` | No |
 | `outlow.xyz` | No |
 | `outmo.de` | No |
+| `outof.coffee` | No |
 | `outofreality.org` | No |
 | `outoftou.ch` | No |
 | `outout.xyz` | No |
@@ -51871,7 +51872,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,714 |
+| Cloudflare | 14,715 |
 | Normal | 37,109 |
 
 
