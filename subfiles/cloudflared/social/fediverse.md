@@ -2456,7 +2456,7 @@ Here's a list of public Fediverse services.
 | `ankh.social` | No |
 | `ankhmorpork.host` | No |
 | `ankokunogrove.space` | Yes |
-| `anmax.direct` | Yes |
+| `anmax.direct` | No |
 | `anml.io` | No |
 | `anmol.net.in` | Yes |
 | `annaclemens.io` | Yes |
@@ -34082,6 +34082,7 @@ Here's a list of public Fediverse services.
 | `outlier.directory` | No |
 | `outlow.xyz` | No |
 | `outmo.de` | No |
+| `outof.coffee` | No |
 | `outofreality.org` | No |
 | `outoftou.ch` | No |
 | `outout.xyz` | No |
@@ -41023,7 +41024,7 @@ Here's a list of public Fediverse services.
 | `sigfried.be` | No |
 | `sigh.io` | No |
 | `sighash.info` | Yes |
-| `sigil.ink` | Yes |
+| `sigil.ink` | No |
 | `sigil.li` | No |
 | `sigin.fo` | No |
 | `sigint.life` | No |
@@ -43232,7 +43233,7 @@ Here's a list of public Fediverse services.
 | `studiosabatino.it` | No |
 | `studiosjb.net` | No |
 | `studyabroad.social` | Yes |
-| `studyfun.live` | Yes |
+| `studyfun.live` | No |
 | `studyfun999.xyz` | Yes |
 | `stuebinm.eu` | No |
 | `stuffat2106.xyz` | Yes |
@@ -51868,8 +51869,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,716 |
-| Normal | 37,104 |
+| Cloudflare | 14,713 |
+| Normal | 37,108 |
 
 
 </details>
