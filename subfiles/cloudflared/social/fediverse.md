@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,252 |
+| com | 8,253 |
 | social | 4,735 |
 | net | 4,047 |
 | org | 2,705 |
@@ -34098,6 +34098,7 @@ Here's a list of public Fediverse services.
 | `outlier.directory` | No |
 | `outlow.xyz` | No |
 | `outmo.de` | No |
+| `outof.coffee` | No |
 | `outofreality.org` | No |
 | `outoftou.ch` | No |
 | `outout.xyz` | No |
@@ -35082,6 +35083,7 @@ Here's a list of public Fediverse services.
 | `phanisvara.com` | No |
 | `phantanews.de` | No |
 | `phantasma.cloud` | Yes |
+| `phante.com` | No |
 | `phantomthieves.net` | No |
 | `phar.social` | No |
 | `pharus.pt` | No |
@@ -51888,7 +51890,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,718 |
-| Normal | 37,121 |
+| Normal | 37,123 |
 
 
 </details>
