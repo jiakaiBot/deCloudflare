@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,251 |
+| com | 8,252 |
 | social | 4,735 |
 | net | 4,047 |
 | org | 2,705 |
@@ -9698,6 +9698,7 @@ Here's a list of public Fediverse services.
 | `dailytechnewsshow.com` | Yes |
 | `dailywebthing.com` | No |
 | `dain.moe` | No |
+| `dainys.com` | Yes |
 | `dair-community.social` | Yes |
 | `dair-institute.org` | Yes |
 | `dairydemon.net` | No |
@@ -23366,7 +23367,7 @@ Here's a list of public Fediverse services.
 | `klezmor.im` | No |
 | `klg-tree.jp` | No |
 | `kliberal.com` | Yes |
-| `klickaa.com` | Yes |
+| `klickaa.com` | No |
 | `kliklak.net` | No |
 | `klimaschutz-von-unten.de` | No |
 | `klingele.dev` | No |
@@ -34097,7 +34098,6 @@ Here's a list of public Fediverse services.
 | `outlier.directory` | No |
 | `outlow.xyz` | No |
 | `outmo.de` | No |
-| `outof.coffee` | No |
 | `outofreality.org` | No |
 | `outoftou.ch` | No |
 | `outout.xyz` | No |
