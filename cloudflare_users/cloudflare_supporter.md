@@ -3850,6 +3850,7 @@ Do not create new issue or we will close it as duplicate.
 | [erpsoftwarebd@twitter](https://twitter.com/erpsoftwarebd/status/1464521477504466946) | advertise |
 | [Er_Manipathak@twitter](https://twitter.com/Er_Manipathak/status/1588544216526774273) | advertise |
 | [esae2499@twitter](https://twitter.com/esae2499/status/1642251651091185666) | advertise |
+| [escortual@twitter](https://twitter.com/escortual/status/1740727427456811340) | advertise |
 | [eserediucm@twitter](https://twitter.com/eserediucm/status/1411816726161887232) | moral (advertise) |
 | [Eset79cTKZmQsuT@twitter](https://twitter.com/Eset79cTKZmQsuT/status/1395627193003171843) | advertise |
 | [EshuSoul@twitter](https://twitter.com/EshuSoul/status/1709444785054900312) | advertise |
