@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increased Workers error in Frankfurt (FRA) location](https://github.com/SecOpsNews/news/issues/22935)
+- [CloudFlare Increased Workers error in Frankfurt (FRA) location](https://github.com/hinoshiba/news/issues/7678)
 - [impossible migration from v4 to v5](https://github.com/invoiceninja/invoiceninja/issues/9086)
 - [Volta does not use the system CA certificate store](https://github.com/volta-cli/volta/issues/1629)
 - [JWT's generated are invalid](https://github.com/finsweet/fireworkers/issues/25)
