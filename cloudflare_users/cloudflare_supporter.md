@@ -11153,6 +11153,7 @@ Do not create new issue or we will close it as duplicate.
 | [PrivateCityX@twitter](https://twitter.com/PrivateCityX/status/1569929036847280129) | advertise |
 | [privatedatesvip@twitter](https://twitter.com/privatedatesvip/status/1431480497364946944) | advertise |
 | [Priyanka14318@twitter](https://twitter.com/Priyanka14318/status/1613998709204783126) | advertise |
+| [PrizeVictor_2@twitter](https://twitter.com/PrizeVictor_2/status/1737848711806615728) | advertise |
 | [prjudo@twitter](https://twitter.com/prjudo/status/1561008434740244480) | advertise |
 | [ProDriftz@twitter](https://twitter.com/ProDriftz/status/1630277090556690432) | advertise |
 | [Profess56387660@twitter](https://twitter.com/Profess56387660/status/1401752121599401985) | advertise |
