@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,246 |
+| com | 8,251 |
 | social | 4,735 |
 | net | 4,046 |
 | org | 2,705 |
-| de | 2,570 |
+| de | 2,571 |
 
 
 - Mastodon, Pleroma, etc
@@ -10481,6 +10481,7 @@ Here's a list of public Fediverse services.
 | `democracybrief.com` | Yes |
 | `democracymas.to` | No |
 | `democraticnet.de` | No |
+| `demokratie.cool` | No |
 | `demokratischer-sommer.de` | No |
 | `demon.army` | No |
 | `demon.care` | No |
@@ -12501,6 +12502,7 @@ Here's a list of public Fediverse services.
 | `eigener.host` | No |
 | `eigenlab.org` | No |
 | `eigenmagic.net` | Yes |
+| `eigenpod.de` | No |
 | `eigenvector.org.uk` | No |
 | `eight-bamboo.com` | No |
 | `eightballde.luxe` | No |
@@ -12591,6 +12593,7 @@ Here's a list of public Fediverse services.
 | `electrafish.tech` | Yes |
 | `electrek.co` | Yes |
 | `electric-goat.net` | No |
+| `electric.kitchen` | No |
 | `electriceye.info` | No |
 | `electricglen.com` | No |
 | `electrickite.org` | No |
@@ -15648,6 +15651,7 @@ Here's a list of public Fediverse services.
 | `friendsandfiendsclub.com` | No |
 | `friendscommunity.eu` | No |
 | `friendsend.org` | No |
+| `friendship.quest` | No |
 | `friendsni.co` | No |
 | `friendsofbill.social` | Yes |
 | `friendsofdesoto.social` | No |
@@ -16991,6 +16995,7 @@ Here's a list of public Fediverse services.
 | `gldon.love` | No |
 | `gleasonator.com` | Yes |
 | `gleasonator.dev` | Yes |
+| `glebadeldharma.com` | No |
 | `glee.li` | Yes |
 | `gleeson.app` | No |
 | `gleeson.org` | No |
@@ -17647,6 +17652,7 @@ Here's a list of public Fediverse services.
 | `grimoire.eu.org` | No |
 | `grimoire.party` | No |
 | `grimoire.social` | No |
+| `grimpixels.com` | No |
 | `grimspound.net` | No |
 | `grimstack.xyz` | Yes |
 | `grin.hu` | No |
@@ -18347,6 +18353,7 @@ Here's a list of public Fediverse services.
 | `hashi.icu` | Yes |
 | `hashi.sbs` | Yes |
 | `hashtag.place` | No |
+| `hashtaggames.online` | No |
 | `hashtagueule.fr` | Yes |
 | `hashy-net.de` | No |
 | `haskell.social` | Yes |
@@ -19450,6 +19457,7 @@ Here's a list of public Fediverse services.
 | `hqueue.dev` | Yes |
 | `hrbf.de` | No |
 | `hrbrmstr.de` | No |
+| `hrbrmstr.dev` | Yes |
 | `href.space` | No |
 | `href.ws` | No |
 | `hrkp.ir` | No |
@@ -24006,6 +24014,7 @@ Here's a list of public Fediverse services.
 | `kuukkanen.net` | Yes |
 | `kuylar.dev` | Yes |
 | `kuzko.eu` | No |
+| `kuzmanstoyanov.com` | No |
 | `kv.sg` | Yes |
 | `kvalhe.im` | No |
 | `kvasta.se` | No |
@@ -27840,6 +27849,7 @@ Here's a list of public Fediverse services.
 | `matus.faith` | No |
 | `matus.rocks` | No |
 | `matya.social` | No |
+| `mau.fyi` | No |
 | `mauch.social` | No |
 | `maud.io` | Yes |
 | `maudet.net` | Yes |
@@ -28224,6 +28234,7 @@ Here's a list of public Fediverse services.
 | `mellow.zone` | No |
 | `mellowcodelabs.social` | No |
 | `melmac.rocks` | No |
+| `melodiaparker.com` | No |
 | `melody.cat` | No |
 | `melon.blue` | Yes |
 | `melon.computer` | No |
@@ -28885,6 +28896,7 @@ Here's a list of public Fediverse services.
 | `mine.nu` | No |
 | `minecloud.ro` | No |
 | `minecodes.de` | Yes |
+| `minecommune.xyz` | No |
 | `minecraft-pe.lol` | No |
 | `minecraft.gg` | No |
 | `minecraftanarquia.xyz` | Yes |
@@ -34084,7 +34096,6 @@ Here's a list of public Fediverse services.
 | `outlier.directory` | No |
 | `outlow.xyz` | No |
 | `outmo.de` | No |
-| `outof.coffee` | No |
 | `outofreality.org` | No |
 | `outoftou.ch` | No |
 | `outout.xyz` | No |
@@ -42546,6 +42557,7 @@ Here's a list of public Fediverse services.
 | `spree.social` | No |
 | `spren.space` | No |
 | `sprig.gs` | No |
+| `spriggans-den.com` | No |
 | `spring-has-come.tk` | No |
 | `springbo.cc` | No |
 | `springspin.nl` | No |
@@ -44682,6 +44694,7 @@ Here's a list of public Fediverse services.
 | `termineterminetermine.com` | No |
 | `ternoc.com` | No |
 | `ternoc.social` | No |
+| `terokankaanpera.fi` | No |
 | `terra.social` | No |
 | `terracrypt.net` | No |
 | `terradaliberdade.pt` | Yes |
@@ -51872,8 +51885,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,715 |
-| Normal | 37,109 |
+| Cloudflare | 14,716 |
+| Normal | 37,121 |
 
 
 </details>
