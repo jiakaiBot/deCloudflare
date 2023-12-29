@@ -2018,6 +2018,7 @@ Here's a list of public Fediverse services.
 | `altf4.fun` | No |
 | `altformeget.online` | No |
 | `altfurry.xyz` | No |
+| `altgr.xyz` | Yes |
 | `altillimity.com` | No |
 | `altinsystems.de` | No |
 | `altmax.com.au` | No |
@@ -6311,6 +6312,7 @@ Here's a list of public Fediverse services.
 | `bussmann.social` | No |
 | `bussy.gallery` | No |
 | `bussy.monster` | No |
+| `bussy.pics` | No |
 | `busterboys.net` | No |
 | `bustinfam.com` | Yes |
 | `busybit.at` | No |
@@ -34100,6 +34102,7 @@ Here's a list of public Fediverse services.
 | `outlier.directory` | No |
 | `outlow.xyz` | No |
 | `outmo.de` | No |
+| `outof.coffee` | No |
 | `outofreality.org` | No |
 | `outoftou.ch` | No |
 | `outout.xyz` | No |
@@ -51890,8 +51893,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,719 |
-| Normal | 37,123 |
+| Cloudflare | 14,720 |
+| Normal | 37,125 |
 
 
 </details>
