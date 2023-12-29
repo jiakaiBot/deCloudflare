@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,245 |
+| com | 8,246 |
 | social | 4,735 |
-| net | 4,045 |
+| net | 4,046 |
 | org | 2,705 |
 | de | 2,570 |
 
@@ -15061,6 +15061,7 @@ Here's a list of public Fediverse services.
 | `fofeu.eu` | No |
 | `fofoca.eu` | No |
 | `fogade.gob.ve` | No |
+| `fogbound.net` | No |
 | `fogcloud.org` | No |
 | `fogelholk.se` | Yes |
 | `foggyminds.com` | Yes |
@@ -34083,6 +34084,7 @@ Here's a list of public Fediverse services.
 | `outlier.directory` | No |
 | `outlow.xyz` | No |
 | `outmo.de` | No |
+| `outof.coffee` | No |
 | `outofreality.org` | No |
 | `outoftou.ch` | No |
 | `outout.xyz` | No |
@@ -39685,6 +39687,7 @@ Here's a list of public Fediverse services.
 | `satocc.biz` | No |
 | `satori.cafe` | No |
 | `satoshifi.org` | No |
+| `satoshis-plebs.com` | No |
 | `satoshishop.de` | No |
 | `satoshiswap.exchange` | Yes |
 | `sattvalife.ru` | No |
@@ -51870,7 +51873,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,714 |
-| Normal | 37,107 |
+| Normal | 37,110 |
 
 
 </details>
