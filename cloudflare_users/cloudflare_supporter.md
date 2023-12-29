@@ -6903,6 +6903,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kiemtiendata@twitter](https://twitter.com/Kiemtiendata/status/1653124295223296000) | advertise |
 | [KienDayNe@twitter](https://twitter.com/KienDayNe/status/1731223211768234024) | advertise |
 | [kiendn1999@twitter](https://twitter.com/kiendn1999/status/1397217763370864648) | advertise |
+| [KienFgw72383@twitter](https://twitter.com/KienFgw72383/status/1740829442505904324) | advertise |
 | [kiennnguyenn1@twitter](https://twitter.com/kiennnguyenn1/status/1553271538014908416) | advertise |
 | [kienv6728@twitter](https://twitter.com/kienv6728/status/1602701403184664579) | advertise |
 | [kietnguyen86@twitter](https://twitter.com/kietnguyen86/status/1383825029461254146) | advertise |
@@ -13864,6 +13865,7 @@ Do not create new issue or we will close it as duplicate.
 | [TiinTung@twitter](https://twitter.com/TiinTung/status/1618284022014308355) | advertise |
 | [Tikk109@twitter](https://twitter.com/Tikk109/status/1687045480210194438) | advertise |
 | [TikkhaVen@twitter](https://twitter.com/TikkhaVen/status/1390583202595672069) | advertise |
+| [Tima998254Tima@twitter](https://twitter.com/Tima998254Tima/status/1740828543406555568) | advertise |
 | [TimCee14@twitter](https://twitter.com/TimCee14/status/1727813148294492310) | advertise |
 | [Timeox2kDev@twitter](https://twitter.com/Timeox2kDev/status/1529840436390420480) | advertise |
 | [TimJiang0106@twitter](https://twitter.com/TimJiang0106/status/1602945168805486592) | advertise |
