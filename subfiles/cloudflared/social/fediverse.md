@@ -26149,6 +26149,7 @@ Here's a list of public Fediverse services.
 | `lunakit.org` | No |
 | `lunalight.place` | Yes |
 | `lunar.place` | Yes |
+| `lunar.sx` | Yes |
 | `lunardream.space` | No |
 | `lunareclip.se` | No |
 | `lunarlabz.com` | Yes |
@@ -34082,7 +34083,6 @@ Here's a list of public Fediverse services.
 | `outlier.directory` | No |
 | `outlow.xyz` | No |
 | `outmo.de` | No |
-| `outof.coffee` | No |
 | `outofreality.org` | No |
 | `outoftou.ch` | No |
 | `outout.xyz` | No |
@@ -51869,8 +51869,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,713 |
-| Normal | 37,108 |
+| Cloudflare | 14,714 |
+| Normal | 37,107 |
 
 
 </details>
