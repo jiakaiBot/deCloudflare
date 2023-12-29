@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,251 |
 | social | 4,735 |
-| net | 4,046 |
+| net | 4,047 |
 | org | 2,705 |
 | de | 2,571 |
 
@@ -25284,6 +25284,7 @@ Here's a list of public Fediverse services.
 | `lily.network` | No |
 | `lilyb.it` | No |
 | `lilychan.dev` | No |
+| `lilygl.net` | Yes |
 | `lilymagic.com` | Yes |
 | `lilypad.works` | Yes |
 | `lilypadding.me` | Yes |
@@ -27849,7 +27850,7 @@ Here's a list of public Fediverse services.
 | `matus.faith` | No |
 | `matus.rocks` | No |
 | `matya.social` | No |
-| `mau.fyi` | No |
+| `mau.fyi` | Yes |
 | `mauch.social` | No |
 | `maud.io` | Yes |
 | `maudet.net` | Yes |
@@ -34096,6 +34097,7 @@ Here's a list of public Fediverse services.
 | `outlier.directory` | No |
 | `outlow.xyz` | No |
 | `outmo.de` | No |
+| `outof.coffee` | No |
 | `outofreality.org` | No |
 | `outoftou.ch` | No |
 | `outout.xyz` | No |
@@ -51885,7 +51887,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,716 |
+| Cloudflare | 14,718 |
 | Normal | 37,121 |
 
 
