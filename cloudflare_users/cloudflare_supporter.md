@@ -10861,6 +10861,7 @@ Do not create new issue or we will close it as duplicate.
 | [phonglol9x@twitter](https://twitter.com/phonglol9x/status/1473306367737827328) | advertise |
 | [PhongNg16713251@twitter](https://twitter.com/PhongNg16713251/status/1381110708708864002) | advertise |
 | [phongng60616682@twitter](https://twitter.com/phongng60616682/status/1532517081169526784) | advertise |
+| [PhongNg69293848@twitter](https://twitter.com/PhongNg69293848/status/1740698777626050703) | advertise |
 | [Phongo84768240@twitter](https://twitter.com/Phongo84768240/status/1405929524727005184) | advertise |
 | [PhongPh40212236@twitter](https://twitter.com/PhongPh40212236/status/1627037472243978241) | advertise |
 | [phongsachai@twitter](https://twitter.com/phongsachai/status/1382869842181558273) | advertise |
@@ -13711,6 +13712,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThiTun84717353@twitter](https://twitter.com/ThiTun84717353/status/1379634060109082624) | advertise |
 | [ThiVo230808@twitter](https://twitter.com/ThiVo230808/status/1688083258586845184) | advertise |
 | [Thiyaga51603164@twitter](https://twitter.com/Thiyaga51603164/status/1386631785392525313) | advertise |
+| [THJ0322@twitter](https://twitter.com/THJ0322/status/1740697394889752687) | advertise |
 | [Thng06599499@twitter](https://twitter.com/Thng06599499/status/1528032291347238913) | advertise |
 | [Thng914@twitter](https://twitter.com/Thng914/status/1588549751867584512) | advertise |
 | [Thng11329609@twitter](https://twitter.com/Thng11329609/status/1385624068355858432) | advertise |
