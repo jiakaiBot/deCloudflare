@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,257 |
+| com | 8,258 |
 | social | 4,736 |
 | net | 4,048 |
 | org | 2,705 |
@@ -17841,6 +17841,7 @@ Here's a list of public Fediverse services.
 | `gummersbach.social` | No |
 | `gummipunkt.eu` | Yes |
 | `gumonji.live` | No |
+| `gumzo.africa` | No |
 | `gundan.es` | No |
 | `gundogcentral.com` | Yes |
 | `gunfreezone.net` | No |
@@ -22971,6 +22972,7 @@ Here's a list of public Fediverse services.
 | `kevinschachtschneider.net` | No |
 | `kevinthomaseagan.com` | No |
 | `kevinvandam.me` | No |
+| `kevinweirauch.com` | No |
 | `kevinwhalen.me` | No |
 | `kevinwhalen.org` | No |
 | `kevinyank.com` | No |
@@ -51903,7 +51905,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,722 |
-| Normal | 37,132 |
+| Normal | 37,134 |
 
 
 </details>
