@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,258 |
+| com | 8,260 |
 | social | 4,736 |
-| net | 4,051 |
+| net | 4,052 |
 | org | 2,705 |
 | de | 2,571 |
 
@@ -7838,6 +7838,7 @@ Here's a list of public Fediverse services.
 | `clashroyalemastodon.com` | No |
 | `classeszimmermann.ch` | No |
 | `classicalmusic.social` | No |
+| `classicchirp.com` | Yes |
 | `classifiedcosmos.com` | No |
 | `clatter.eu` | Yes |
 | `clatza.dev` | No |
@@ -8467,6 +8468,7 @@ Here's a list of public Fediverse services.
 | `concordia.chat` | No |
 | `concordia.social` | No |
 | `concurrent.world` | No |
+| `condenastdigital.com` | No |
 | `conduitry.me` | Yes |
 | `conesphere.cloud` | No |
 | `conesphere.social` | No |
@@ -17826,6 +17828,7 @@ Here's a list of public Fediverse services.
 | `guiofamily.fr` | Yes |
 | `guip.dev` | No |
 | `guitar.rodeo` | Yes |
+| `guitarmageddon.net` | Yes |
 | `guizzyordi.info` | No |
 | `gulacsi.eu` | No |
 | `gulas.ch` | No |
@@ -21298,6 +21301,7 @@ Here's a list of public Fediverse services.
 | `jannis.rocks` | No |
 | `janny.moe` | No |
 | `janogdon.net` | No |
+| `janpalma.cz` | No |
 | `janri.de` | Yes |
 | `jansens-pott.de` | No |
 | `janstenpickle.io` | Yes |
@@ -21918,6 +21922,7 @@ Here's a list of public Fediverse services.
 | `joncaruana.com` | Yes |
 | `jondev.lol` | No |
 | `jondron.ca` | No |
+| `jone.wang` | No |
 | `joneshub.net` | Yes |
 | `jonhays.me` | No |
 | `jonk.org` | No |
@@ -29390,6 +29395,7 @@ Here's a list of public Fediverse services.
 | `mobileme.social` | No |
 | `mobilemmohub.com` | No |
 | `mobileography.info` | No |
+| `mobilex1122.eu` | No |
 | `mobilisons.ch` | No |
 | `mobilite-mobiliteit.brussels` | No |
 | `mobiliteactive.org` | No |
@@ -36565,6 +36571,7 @@ Here's a list of public Fediverse services.
 | `protect.earth` | Yes |
 | `protectors.moe` | Yes |
 | `proteomics.social` | Yes |
+| `proto.lgbt` | Yes |
 | `proto7.io` | No |
 | `protocol7.co` | No |
 | `protocoll.space` | No |
@@ -44981,6 +44988,7 @@ Here's a list of public Fediverse services.
 | `thebristol.social` | Yes |
 | `thebronzechapter.org` | No |
 | `thebrookes.com` | No |
+| `thebroom.us` | No |
 | `thebull.app` | No |
 | `theburning.world` | No |
 | `thebus.top` | No |
@@ -51909,8 +51917,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,721 |
-| Normal | 37,140 |
+| Cloudflare | 14,724 |
+| Normal | 37,145 |
 
 
 </details>
