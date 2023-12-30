@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,260 |
 | social | 4,736 |
 | net | 4,052 |
-| org | 2,705 |
+| org | 2,706 |
 | de | 2,571 |
 
 
@@ -44658,6 +44658,7 @@ Here's a list of public Fediverse services.
 | `tenko.ai` | No |
 | `tenkoff.ru` | No |
 | `tenkuu.social` | No |
+| `tenlonern.jp.eu.org` | No |
 | `tenna.site` | No |
 | `tennis-friends.com` | No |
 | `tennisfriends.co.uk` | No |
@@ -51919,7 +51920,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,727 |
-| Normal | 37,143 |
+| Normal | 37,144 |
 
 
 </details>
