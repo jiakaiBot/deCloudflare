@@ -6614,7 +6614,7 @@ Here's a list of public Fediverse services.
 | `camsturba.com` | Yes |
 | `camthoms.com` | Yes |
 | `canadafriendfinder.com` | No |
-| `canadiancivil.com` | No |
+| `canadiancivil.com` | Yes |
 | `canadianveggie.com` | No |
 | `canal.social` | No |
 | `canalsidecoach.app` | Yes |
@@ -34486,7 +34486,7 @@ Here's a list of public Fediverse services.
 | `paralegal.id` | No |
 | `parallel.jp` | No |
 | `param.codes` | Yes |
-| `paramdeo.co` | Yes |
+| `paramdeo.co` | No |
 | `paramdeo.com` | Yes |
 | `parametric.social` | No |
 | `paranoiac-thoughts.com` | No |
@@ -42327,6 +42327,7 @@ Here's a list of public Fediverse services.
 | `spacelase.rs` | Yes |
 | `spacelasers.us` | Yes |
 | `spaceling.sh` | Yes |
+| `spacelion.me` | No |
 | `spacenode.net` | No |
 | `spacenoid.social` | No |
 | `spacepanda.se` | No |
@@ -51907,7 +51908,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,720 |
-| Normal | 37,138 |
+| Normal | 37,139 |
 
 
 </details>
