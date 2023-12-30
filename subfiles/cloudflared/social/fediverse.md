@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,263 |
-| social | 4,736 |
+| social | 4,737 |
 | net | 4,052 |
 | org | 2,706 |
 | de | 2,572 |
@@ -4110,6 +4110,7 @@ Here's a list of public Fediverse services.
 | `barik.net` | Yes |
 | `barine.co` | Yes |
 | `barippi.com` | No |
+| `barisa.social` | No |
 | `bark.house` | No |
 | `bark.lgbt` | Yes |
 | `bark.video` | Yes |
@@ -8889,6 +8890,7 @@ Here's a list of public Fediverse services.
 | `crashmail.de` | No |
 | `crashrt.work` | Yes |
 | `crashspace.org` | No |
+| `crashthearcade.com` | No |
 | `crashtodon.net` | No |
 | `cratersedge.ca` | No |
 | `crates.im` | No |
@@ -24141,7 +24143,7 @@ Here's a list of public Fediverse services.
 | `l1f.de` | No |
 | `l2d2.de` | No |
 | `l33t.city` | Yes |
-| `l33t.codes` | No |
+| `l33t.codes` | Yes |
 | `l33t.link` | Yes |
 | `l3ib.org` | No |
 | `l3mmy.com` | Yes |
@@ -32607,7 +32609,6 @@ Here's a list of public Fediverse services.
 | `novaloop.social` | No |
 | `novaphoenix.net` | No |
 | `novatrend.ch` | No |
-| `nove-web.com` | No |
 | `nove.team` | Yes |
 | `noveldon.com` | No |
 | `novelist.nagoya` | No |
@@ -51927,7 +51928,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,730 |
+| Cloudflare | 14,731 |
 | Normal | 37,149 |
 
 
