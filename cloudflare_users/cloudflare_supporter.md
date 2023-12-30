@@ -3104,6 +3104,7 @@ Do not create new issue or we will close it as duplicate.
 | [da_na61245@twitter](https://twitter.com/da_na61245/status/1725226153873719492) | advertise |
 | [db739dc8697c4fd@twitter](https://twitter.com/db739dc8697c4fd/status/1376869447944695812) | advertise |
 | [dc6761@twitter](https://twitter.com/dc6761/status/1585589406064427008) | advertise |
+| [DCDBBB@twitter](https://twitter.com/DCDBBB/status/1740966774789800130) | advertise |
 | [DCffgt@twitter](https://twitter.com/DCffgt/status/1588213672853180416) | advertise |
 | [DCLifeMagazine@twitter](https://twitter.com/DCLifeMagazine/status/1545120333228818432) | advertise |
 | [Dcralph_@twitter](https://twitter.com/Dcralph_/status/1460151745284243460) | advertise |
