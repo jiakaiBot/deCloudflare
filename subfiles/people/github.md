@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare zero trust tunnel](https://github.com/notthebee/ansible-easy-vpn/issues/264)
 - [CloudFlare Increased Workers error in Frankfurt (FRA) location](https://github.com/SecOpsNews/news/issues/22935)
 - [CloudFlare Increased Workers error in Frankfurt (FRA) location](https://github.com/hinoshiba/news/issues/7678)
 - [impossible migration from v4 to v5](https://github.com/invoiceninja/invoiceninja/issues/9086)
