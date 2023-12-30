@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,258 |
 | social | 4,736 |
-| net | 4,049 |
+| net | 4,051 |
 | org | 2,705 |
 | de | 2,571 |
 
@@ -29002,6 +29002,7 @@ Here's a list of public Fediverse services.
 | `mirabellug.org` | No |
 | `miradordemontepinar.net` | No |
 | `mirai.cafe` | Yes |
+| `miraiskey.net` | Yes |
 | `miraiv.net` | No |
 | `miraiverse.xyz` | Yes |
 | `mirametube.fr` | No |
@@ -34015,6 +34016,7 @@ Here's a list of public Fediverse services.
 | `otokonokodon.jp` | No |
 | `otomaddon.xyz` | No |
 | `otome.xyz` | No |
+| `otonarimikan.net` | No |
 | `otonomedia.org` | No |
 | `otos.red` | No |
 | `otoya.space` | Yes |
@@ -51907,8 +51909,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,720 |
-| Normal | 37,139 |
+| Cloudflare | 14,721 |
+| Normal | 37,140 |
 
 
 </details>
