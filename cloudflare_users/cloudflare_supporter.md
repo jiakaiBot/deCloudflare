@@ -9392,6 +9392,7 @@ Do not create new issue or we will close it as duplicate.
 | [MyoZaw10891252@twitter](https://twitter.com/MyoZaw10891252/status/1585264163445579776) | advertise |
 | [MyoZawHtun15@twitter](https://twitter.com/MyoZawHtun15/status/1390732993837223941) | advertise |
 | [myozawko098193@twitter](https://twitter.com/myozawko098193/status/1394574929228705792) | advertise |
+| [MyRulSpunky@twitter](https://twitter.com/MyRulSpunky/status/1740912105136554109) | advertise |
 | [myscholarhub@twitter](https://twitter.com/myscholarhub/status/1662316815844888576) | advertise |
 | [MySeoHQ@twitter](https://twitter.com/MySeoHQ/status/1561087865349627905) | advertise |
 | [MysticBlack3@twitter](https://twitter.com/MysticBlack3/status/1393044999248523265) | advertise |
