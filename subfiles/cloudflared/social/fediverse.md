@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,260 |
+| com | 8,262 |
 | social | 4,736 |
 | net | 4,052 |
 | org | 2,706 |
@@ -2442,6 +2442,7 @@ Here's a list of public Fediverse services.
 | `anisodon.jp` | Yes |
 | `anison.dj` | No |
 | `anisong.club` | Yes |
+| `anisp.xyz` | Yes |
 | `anitabyte.xyz` | No |
 | `anitwitter.com` | No |
 | `anitwitter.moe` | Yes |
@@ -15800,6 +15801,7 @@ Here's a list of public Fediverse services.
 | `fsmn.xyz` | Yes |
 | `fsoc.lol` | No |
 | `fsociety.social` | Yes |
+| `fsolt.es` | No |
 | `fsphub.org` | No |
 | `fstab.sh` | No |
 | `fstab.xyz` | Yes |
@@ -38591,6 +38593,7 @@ Here's a list of public Fediverse services.
 | `rmgr.dev` | No |
 | `rmi0.com` | Yes |
 | `rmkn.fr` | No |
+| `rmlowe.com` | No |
 | `rmrf.space` | No |
 | `rmrs.nl` | No |
 | `rmxr.net` | No |
@@ -42915,6 +42918,7 @@ Here's a list of public Fediverse services.
 | `stefanbohacek.social` | No |
 | `stefaniehippert.de` | No |
 | `stefankoopmanschap.nl` | Yes |
+| `stefanmey.com` | No |
 | `stefano-probst.dev` | Yes |
 | `stefanomarinelli.it` | No |
 | `stefanoprenna.com` | Yes |
@@ -44658,7 +44662,7 @@ Here's a list of public Fediverse services.
 | `tenko.ai` | No |
 | `tenkoff.ru` | No |
 | `tenkuu.social` | No |
-| `tenlonern.jp.eu.org` | No |
+| `tenlonern.jp.eu.org` | Yes |
 | `tenna.site` | No |
 | `tennis-friends.com` | No |
 | `tennisfriends.co.uk` | No |
@@ -48223,6 +48227,7 @@ Here's a list of public Fediverse services.
 | `varishangout.net` | Yes |
 | `varishangout.org` | No |
 | `varjo.org` | No |
+| `varjoalitajunta.link` | No |
 | `varlotta.xyz` | Yes |
 | `varmint.town` | No |
 | `varnelis.net` | Yes |
@@ -51919,8 +51924,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,727 |
-| Normal | 37,144 |
+| Cloudflare | 14,729 |
+| Normal | 37,147 |
 
 
 </details>
