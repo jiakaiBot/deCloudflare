@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The email-a-poem sample doesn't work](https://github.com/quarkiverse/quarkus-langchain4j/issues/191)
 - [NPM not starting when using 'lepresidente/nginxproxymanager:latest'](https://github.com/crowdsecurity/example-docker-compose/issues/13)
 - [Cloudflare zero trust tunnel](https://github.com/notthebee/ansible-easy-vpn/issues/264)
 - [CloudFlare Increased Workers error in Frankfurt (FRA) location](https://github.com/SecOpsNews/news/issues/22935)
