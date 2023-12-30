@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,258 |
 | social | 4,736 |
-| net | 4,048 |
+| net | 4,049 |
 | org | 2,705 |
 | de | 2,571 |
 
@@ -26673,6 +26673,7 @@ Here's a list of public Fediverse services.
 | `makhnovtchina.club` | No |
 | `makholm.net` | No |
 | `maki0419.com` | Yes |
+| `makibisskey.work` | Yes |
 | `makigi.io` | No |
 | `makihiro.info` | Yes |
 | `makimaki.jp` | Yes |
@@ -36457,7 +36458,7 @@ Here's a list of public Fediverse services.
 | `prodottoinrete.it` | Yes |
 | `prodromou.pub` | No |
 | `producer-network.de` | No |
-| `producers.social` | Yes |
+| `producers.social` | No |
 | `productionservers.net` | No |
 | `productmgmt.social` | No |
 | `productordesostenibilidad.es` | No |
@@ -39061,6 +39062,7 @@ Here's a list of public Fediverse services.
 | `rudderton.social` | Yes |
 | `rudel.nl` | No |
 | `ruderal.social` | No |
+| `rudeshark.net` | No |
 | `rudigermeyer.com` | No |
 | `rudimk.dev` | No |
 | `rudis.net` | No |
@@ -44622,7 +44624,7 @@ Here's a list of public Fediverse services.
 | `tempestas-prima.com` | No |
 | `tempkdw.com` | No |
 | `templar.digital` | No |
-| `templar.one` | Yes |
+| `templar.one` | No |
 | `temporario.xyz` | Yes |
 | `temporus.me` | No |
 | `tempus.tk` | No |
@@ -51904,8 +51906,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,722 |
-| Normal | 37,134 |
+| Cloudflare | 14,721 |
+| Normal | 37,137 |
 
 
 </details>
