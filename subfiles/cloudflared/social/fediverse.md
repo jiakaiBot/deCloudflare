@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,736 |
 | net | 4,052 |
 | org | 2,706 |
-| de | 2,571 |
+| de | 2,572 |
 
 
 - Mastodon, Pleroma, etc
@@ -5732,6 +5732,7 @@ Here's a list of public Fediverse services.
 | `bottom.team` | No |
 | `bottomservices.club` | No |
 | `bottrill.social` | Yes |
+| `botwars.de` | No |
 | `botwerks.social` | Yes |
 | `botwiki.org` | No |
 | `botzev.info` | No |
@@ -51927,7 +51928,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,730 |
-| Normal | 37,148 |
+| Normal | 37,149 |
 
 
 </details>
