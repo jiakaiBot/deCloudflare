@@ -9159,6 +9159,7 @@ Do not create new issue or we will close it as duplicate.
 | [MrMinHan2@twitter](https://twitter.com/MrMinHan2/status/1392845006646374404) | advertise |
 | [MrMoeAung2@twitter](https://twitter.com/MrMoeAung2/status/1390913603557945345) | advertise |
 | [mrmouse1992@twitter](https://twitter.com/mrmouse1992/status/1397049208625004545) | advertise |
+| [mrmrmrfffff@twitter](https://twitter.com/mrmrmrfffff/status/1740874449665081656) | advertise |
 | [MRniranjan198@twitter](https://twitter.com/MRniranjan198/status/1398477314149654528) | advertise |
 | [mrnofi1@twitter](https://twitter.com/mrnofi1/status/1477814761618296834) | advertise |
 | [MrNorudo@twitter](https://twitter.com/MrNorudo/status/1404839721906311169) | advertise |
