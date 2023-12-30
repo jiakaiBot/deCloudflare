@@ -881,6 +881,7 @@ Do not create new issue or we will close it as duplicate.
 | [AmirulOfficialy@twitter](https://twitter.com/AmirulOfficialy/status/1591303301081202688) | advertise |
 | [amirulramli12@twitter](https://twitter.com/amirulramli12/status/1710216399057289447) | advertise |
 | [Amirulsyafeeq66@twitter](https://twitter.com/Amirulsyafeeq66/status/1550517767899840512) | advertise |
+| [amirul_alt@twitter](https://twitter.com/amirul_alt/status/1741051868800057827) | advertise |
 | [Amirvet22@twitter](https://twitter.com/Amirvet22/status/1659850934384570368) | advertise |
 | [amiryhawa1@twitter](https://twitter.com/amiryhawa1/status/1637080736988626947) | advertise |
 | [amir_809@twitter](https://twitter.com/amir_809/status/1573479973331017728) | advertise |
@@ -7234,6 +7235,7 @@ Do not create new issue or we will close it as duplicate.
 | [KSalout@twitter](https://twitter.com/KSalout/status/1498335781013831686) | advertise |
 | [ksate0@twitter](https://twitter.com/ksate0/status/1379112018817376258) | advertise |
 | [ksatou34276097@twitter](https://twitter.com/ksatou34276097/status/1664294586293035009) | advertise |
+| [KShadrill@twitter](https://twitter.com/KShadrill/status/1741027894569374032) | advertise |
 | [kshs63527911@twitter](https://twitter.com/kshs63527911/status/1405392559107629059) | advertise |
 | [kslattpapi@twitter](https://twitter.com/kslattpapi/status/1554027160603615232) | advertise |
 | [kt94150@twitter](https://twitter.com/kt94150/status/1534798928591302656) | advertise |
