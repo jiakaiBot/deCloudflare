@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,262 |
+| com | 8,263 |
 | social | 4,736 |
 | net | 4,052 |
 | org | 2,706 |
@@ -9283,6 +9283,7 @@ Here's a list of public Fediverse services.
 | `cunny.moe` | Yes |
 | `cunny.win` | No |
 | `cunnyborea.space` | No |
+| `cunnyborea.top` | No |
 | `cuonda.social` | No |
 | `cupcakerob.nl` | No |
 | `cupka.name` | No |
@@ -32605,6 +32606,7 @@ Here's a list of public Fediverse services.
 | `novaloop.social` | No |
 | `novaphoenix.net` | No |
 | `novatrend.ch` | No |
+| `nove-web.com` | No |
 | `nove.team` | Yes |
 | `noveldon.com` | No |
 | `novelist.nagoya` | No |
@@ -47444,7 +47446,7 @@ Here's a list of public Fediverse services.
 | `uhc-elster.de` | No |
 | `uhh.monster` | No |
 | `uhhoh.com` | No |
-| `uhlig.it` | No |
+| `uhlig.it` | Yes |
 | `uhlig.social` | No |
 | `uhlmann.social` | No |
 | `uhnon.com` | No |
@@ -51924,8 +51926,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,729 |
-| Normal | 37,147 |
+| Cloudflare | 14,730 |
+| Normal | 37,148 |
 
 
 </details>
