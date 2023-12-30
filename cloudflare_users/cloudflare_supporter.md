@@ -7015,6 +7015,7 @@ Do not create new issue or we will close it as duplicate.
 | [KKanK4@twitter](https://twitter.com/KKanK4/status/1395696774984077317) | advertise |
 | [KKaunglay41365@twitter](https://twitter.com/KKaunglay41365/status/1722748661355184632) | advertise |
 | [kkbpc_sub@twitter](https://twitter.com/kkbpc_sub/status/1492429642610851841) | advertise |
+| [KKK805990275530@twitter](https://twitter.com/KKK805990275530/status/1741017701467017220) | advertise |
 | [kkkkarn22@twitter](https://twitter.com/kkkkarn22/status/1390552176229969921) | advertise |
 | [kkmccl76@twitter](https://twitter.com/kkmccl76/status/1686917750596550656) | advertise |
 | [KKMyo8@twitter](https://twitter.com/KKMyo8/status/1395565047686995971) | advertise |
