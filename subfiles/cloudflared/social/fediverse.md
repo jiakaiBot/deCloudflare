@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,263 |
-| social | 4,737 |
+| com | 8,264 |
+| social | 4,738 |
 | net | 4,052 |
 | org | 2,706 |
-| de | 2,572 |
+| de | 2,574 |
 
 
 - Mastodon, Pleroma, etc
@@ -12324,6 +12324,7 @@ Here's a list of public Fediverse services.
 | `ed-beck.com` | No |
 | `ed1.tokyo` | Yes |
 | `edafe.de` | Yes |
+| `edafe.social` | No |
 | `edbob.org` | No |
 | `edchat.social` | No |
 | `edddy.eu` | No |
@@ -17663,6 +17664,7 @@ Here's a list of public Fediverse services.
 | `grimkroton.de` | No |
 | `grimm.link` | No |
 | `grimm.systems` | No |
+| `grimmauld.de` | No |
 | `grimmbart.org` | No |
 | `grimneko.de` | No |
 | `grimoire.eu.org` | No |
@@ -20414,6 +20416,7 @@ Here's a list of public Fediverse services.
 | `infosec.place` | No |
 | `infosec.press` | No |
 | `infosec.pub` | No |
+| `infosec.space` | No |
 | `infosec.town` | No |
 | `infosecnerd.cc` | No |
 | `infosex.exchange` | No |
@@ -32609,6 +32612,7 @@ Here's a list of public Fediverse services.
 | `novaloop.social` | No |
 | `novaphoenix.net` | No |
 | `novatrend.ch` | No |
+| `nove-web.com` | No |
 | `nove.team` | Yes |
 | `noveldon.com` | No |
 | `novelist.nagoya` | No |
@@ -46387,6 +46391,7 @@ Here's a list of public Fediverse services.
 | `toque.town` | No |
 | `tor.lat` | Yes |
 | `torb.no` | Yes |
+| `torbenmau.de` | No |
 | `torbin.me` | No |
 | `torgo.com` | No |
 | `torguard.social` | No |
@@ -51929,7 +51934,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,731 |
-| Normal | 37,149 |
+| Normal | 37,154 |
 
 
 </details>
