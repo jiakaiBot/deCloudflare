@@ -2878,6 +2878,7 @@ Do not create new issue or we will close it as duplicate.
 | [CyberOpsChief@twitter](https://twitter.com/CyberOpsChief/status/1723748351026274760) | advertise |
 | [CyberwealthP@twitter](https://twitter.com/CyberwealthP/status/1440298836857999362) | advertise |
 | [CyenFinch@twitter](https://twitter.com/CyenFinch/status/1394179759978934272) | advertise |
+| [cygfy141848@twitter](https://twitter.com/cygfy141848/status/1741091263582269470) | advertise |
 | [CynthiaWeirr_MK@twitter](https://twitter.com/CynthiaWeirr_MK/status/1431973396359811076) | advertise |
 | [cypnightlife@twitter](https://twitter.com/cypnightlife/status/1662461760496861185) | advertise |
 | [CyrixDev@twitter](https://twitter.com/CyrixDev/status/1587457304412114944) | advertise |
