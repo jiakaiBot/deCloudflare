@@ -2481,6 +2481,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChatrJason@twitter](https://twitter.com/ChatrJason/status/1590990658189561857) | advertise |
 | [Chau31709027@twitter](https://twitter.com/Chau31709027/status/1672570892600344576) | advertise |
 | [ChaudharyAkku02@twitter](https://twitter.com/ChaudharyAkku02/status/1391810649081008128) | advertise |
+| [ChaupalPap81640@twitter](https://twitter.com/ChaupalPap81640/status/1740927952332968355) | advertise |
 | [chavengtop8272@twitter](https://twitter.com/chavengtop8272/status/1494007057892409344) | advertise |
 | [chawnima1234@twitter](https://twitter.com/chawnima1234/status/1735304259288420708) | advertise |
 | [ChawSuSuKhin4@twitter](https://twitter.com/ChawSuSuKhin4/status/1486586914048151552) | advertise |
@@ -11560,6 +11561,7 @@ Do not create new issue or we will close it as duplicate.
 | [RDORION1992@twitter](https://twitter.com/RDORION1992/status/1705338584482373818) | advertise |
 | [rdtragemg@twitter](https://twitter.com/rdtragemg/status/1629234920768905218) | advertise |
 | [ReactPepe@twitter](https://twitter.com/ReactPepe/status/1585868164029714432) | advertise |
+| [reaIIywan@twitter](https://twitter.com/reaIIywan/status/1740925186340491536) | advertise |
 | [RealAnasAhmed11@twitter](https://twitter.com/RealAnasAhmed11/status/1407410579015307269) | advertise |
 | [realbillykaren@twitter](https://twitter.com/realbillykaren/status/1498397413828186112) | advertise |
 | [RealBurgerGod@twitter](https://twitter.com/RealBurgerGod/status/1665858233771196422) | advertise |
