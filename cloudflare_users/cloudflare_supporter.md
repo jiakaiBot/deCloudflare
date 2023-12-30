@@ -3294,6 +3294,7 @@ Do not create new issue or we will close it as duplicate.
 | [diorfunn@twitter](https://twitter.com/diorfunn/status/1674330543964536832) | advertise |
 | [DipakCh89456642@twitter](https://twitter.com/DipakCh89456642/status/1392032564743852033) | advertise |
 | [dipankar9651@twitter](https://twitter.com/dipankar9651/status/1558430732598804482) | advertise |
+| [DipankarMahant9@twitter](https://twitter.com/DipankarMahant9/status/1740933781534736437) | advertise |
 | [DipDipto12@twitter](https://twitter.com/DipDipto12/status/1379899792034201600) | advertise |
 | [DIPetersen@twitter](https://twitter.com/DIPetersen/status/1735799325744058597) | advertise |
 | [diplomaticben@twitter](https://twitter.com/diplomaticben/status/1576878709944225792) | advertise |
@@ -5622,6 +5623,7 @@ Do not create new issue or we will close it as duplicate.
 | [IcekungE@twitter](https://twitter.com/IcekungE/status/1398177118391980033) | advertise |
 | [IceLing9990@twitter](https://twitter.com/IceLing9990/status/1377844062489767937) | advertise |
 | [icellent@twitter](https://twitter.com/icellent/status/1674096268556083200) | advertise |
+| [icesweetly11@twitter](https://twitter.com/icesweetly11/status/1740939279545880815) | advertise |
 | [iClutch4Fart@twitter](https://twitter.com/iClutch4Fart/status/1494032001304870916) | advertise |
 | [iCUEwhatABOUTU@twitter](https://twitter.com/iCUEwhatABOUTU/status/1721389437580698003) | advertise |
 | [IcyHear05989673@twitter](https://twitter.com/IcyHear05989673/status/1394815203041169411) | advertise |
@@ -13894,6 +13896,7 @@ Do not create new issue or we will close it as duplicate.
 | [TinDng58024691@twitter](https://twitter.com/TinDng58024691/status/1684273577607192576) | advertise |
 | [tinh23@twitter](https://twitter.com/tinh23/status/1553419999888285696) | advertise |
 | [tinhngo79541721@twitter](https://twitter.com/tinhngo79541721/status/1601284409801707520) | advertise |
+| [Tinhnguyen199@twitter](https://twitter.com/Tinhnguyen199/status/1740947215194182030) | advertise |
 | [TinhQuynh233@twitter](https://twitter.com/TinhQuynh233/status/1638991818565238785) | advertise |
 | [TinHunh33663977@twitter](https://twitter.com/TinHunh33663977/status/1380935663692914690) | advertise |
 | [TinHunh60543318@twitter](https://twitter.com/TinHunh60543318/status/1640551566687236096) | advertise |
