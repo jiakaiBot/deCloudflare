@@ -4431,6 +4431,7 @@ Do not create new issue or we will close it as duplicate.
 | [go4webdev@X](https://twitter.com/go4webdev/status/1435122836037849095) | advertise |
 | [goblissasiaedu@X](https://twitter.com/goblissasiaedu/status/1587703983375720448) | advertise |
 | [Gocome4@X](https://twitter.com/Gocome4/status/1383405538411614214) | advertise |
+| [Godchaosvn@X](https://twitter.com/Godchaosvn/status/1741538111879102599) | advertise |
 | [godet_fr3akz@X](https://twitter.com/godet_fr3akz/status/1435927245130846214) | advertise |
 | [GodHand70934883@X](https://twitter.com/GodHand70934883/status/1601456494230532096) | advertise |
 | [godjezus1469@X](https://twitter.com/godjezus1469/status/1404302568566657024) | advertise |
@@ -4461,6 +4462,7 @@ Do not create new issue or we will close it as duplicate.
 | [gomdorilpkth_45@X](https://twitter.com/gomdorilpkth_45/status/1406078870617354245) | advertise |
 | [gomgomass@X](https://twitter.com/gomgomass/status/1487078737220804614) | advertise |
 | [GomGrear@X](https://twitter.com/GomGrear/status/1392932249390047233) | advertise |
+| [gomleksiz@X](https://twitter.com/gomleksiz/status/1741542413275939063) | advertise |
 | [Gone07481288@X](https://twitter.com/Gone07481288/status/1391760753254813700) | advertise |
 | [gonk_droid101@X](https://twitter.com/gonk_droid101/status/1478566792821972992) | advertise |
 | [Good4NM@X](https://twitter.com/Good4NM/status/1483567861549441026) | advertise |
