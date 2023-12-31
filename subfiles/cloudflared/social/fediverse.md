@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,264 |
+| com | 8,265 |
 | social | 4,738 |
 | net | 4,052 |
-| org | 2,706 |
+| org | 2,707 |
 | de | 2,574 |
 
 
@@ -20470,7 +20470,7 @@ Here's a list of public Fediverse services.
 | `initmd.xyz` | Yes |
 | `initq.net` | No |
 | `injabie3.moe` | Yes |
-| `injection.love` | Yes |
+| `injection.love` | No |
 | `inkdrop.space` | No |
 | `inked.social` | Yes |
 | `inkgenious.ml` | No |
@@ -27229,7 +27229,7 @@ Here's a list of public Fediverse services.
 | `masto.pt` | Yes |
 | `masto.quebec` | Yes |
 | `masto.re` | No |
-| `masto.rip` | Yes |
+| `masto.rip` | No |
 | `masto.rocks` | No |
 | `masto.se` | Yes |
 | `masto.social` | Yes |
@@ -40358,6 +40358,7 @@ Here's a list of public Fediverse services.
 | `seekreuzer-passat.eu` | No |
 | `seemel.ink` | No |
 | `seepocke.at` | No |
+| `seerofsouls.com` | No |
 | `seerofsouls.xyz` | No |
 | `seerr.dev` | Yes |
 | `seesomesun.be` | No |
@@ -42560,7 +42561,7 @@ Here's a list of public Fediverse services.
 | `spookygirl.boo` | Yes |
 | `spoon-tamago.com` | Yes |
 | `spooner.social` | Yes |
-| `spoongoons.cc` | Yes |
+| `spoongoons.cc` | No |
 | `spoonie.community` | No |
 | `sporadic.news` | Yes |
 | `sporadically.social` | No |
@@ -46379,6 +46380,7 @@ Here's a list of public Fediverse services.
 | `topherward.com` | Yes |
 | `topic-master.com` | No |
 | `topitz.de` | No |
+| `toplap.org` | No |
 | `topofthe.city` | No |
 | `toposware.com` | Yes |
 | `toppickz.com` | No |
@@ -51933,8 +51935,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,731 |
-| Normal | 37,154 |
+| Cloudflare | 14,728 |
+| Normal | 37,159 |
 
 
 </details>
