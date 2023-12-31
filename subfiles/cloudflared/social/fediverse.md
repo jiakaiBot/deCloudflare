@@ -5400,7 +5400,7 @@ Here's a list of public Fediverse services.
 | `blumpus.com` | No |
 | `blunck.social` | No |
 | `blunet.fr` | No |
-| `bluntbangs.com` | No |
+| `bluntbangs.com` | Yes |
 | `bluppen.blog` | No |
 | `blurb.town` | No |
 | `blurts.net` | No |
@@ -6720,7 +6720,7 @@ Here's a list of public Fediverse services.
 | `cardanodevelopment.com` | Yes |
 | `cardboard.construction` | No |
 | `cardiffmas.uk` | No |
-| `cardina1.red` | No |
+| `cardina1.red` | Yes |
 | `cardinalmedia.co` | No |
 | `care-tags.org` | No |
 | `carecom.social` | No |
@@ -9621,7 +9621,7 @@ Here's a list of public Fediverse services.
 | `d0y.de` | No |
 | `d100.club` | No |
 | `d108.org` | No |
-| `d14n.club` | No |
+| `d14n.club` | Yes |
 | `d19.ca` | No |
 | `d1n0.link` | No |
 | `d1nu.de` | No |
@@ -34421,7 +34421,7 @@ Here's a list of public Fediverse services.
 | `pancakesontuesday.com` | No |
 | `panda.id.au` | No |
 | `panda510.com` | Yes |
-| `pandaemonium.club` | No |
+| `pandaemonium.club` | Yes |
 | `pandainthecloud.de` | No |
 | `pandala.org` | Yes |
 | `pandanet.moe` | No |
@@ -51234,6 +51234,7 @@ Here's a list of public Fediverse services.
 | `ysmal.fr` | Yes |
 | `yso.pet` | No |
 | `ysr.ie` | Yes |
+| `ystatic.buzz` | Yes |
 | `ystn.win` | Yes |
 | `ytgrsua4.net` | No |
 | `ything.xyz` | No |
@@ -51935,8 +51936,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,728 |
-| Normal | 37,159 |
+| Cloudflare | 14,733 |
+| Normal | 37,155 |
 
 
 </details>
