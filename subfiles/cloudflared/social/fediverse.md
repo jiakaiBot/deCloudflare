@@ -5537,6 +5537,7 @@ Here's a list of public Fediverse services.
 | `bolha.blog` | Yes |
 | `bolha.events` | Yes |
 | `bolha.forum` | Yes |
+| `bolha.network` | No |
 | `bolha.one` | Yes |
 | `bolha.photos` | Yes |
 | `bolha.review` | Yes |
@@ -27745,6 +27746,7 @@ Here's a list of public Fediverse services.
 | `matarillo.com` | No |
 | `matbox.net` | No |
 | `matc.zip` | Yes |
+| `matcha-fest.xyz` | Yes |
 | `matcha-soft.com` | Yes |
 | `matcha.pub` | Yes |
 | `matchdon.com` | No |
@@ -51966,8 +51968,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,742 |
-| Normal | 37,176 |
+| Cloudflare | 14,743 |
+| Normal | 37,177 |
 
 
 </details>
