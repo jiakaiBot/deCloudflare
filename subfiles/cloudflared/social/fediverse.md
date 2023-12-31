@@ -33116,6 +33116,7 @@ Here's a list of public Fediverse services.
 | `odd.af` | No |
 | `odd.blog` | No |
 | `odd.town` | Yes |
+| `oddballs.fun` | Yes |
 | `oddballs.online` | No |
 | `oddballs.vip` | No |
 | `odditycentral.com` | Yes |
@@ -51936,7 +51937,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,733 |
+| Cloudflare | 14,734 |
 | Normal | 37,155 |
 
 
