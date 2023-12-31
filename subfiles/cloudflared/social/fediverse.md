@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,265 |
+| com | 8,268 |
 | social | 4,738 |
 | net | 4,053 |
-| org | 2,707 |
+| org | 2,708 |
 | de | 2,577 |
 
 
@@ -17380,6 +17380,7 @@ Here's a list of public Fediverse services.
 | `gosocial.au` | Yes |
 | `gosocial.click` | No |
 | `gossler.family` | No |
+| `gostomski.co.uk` | No |
 | `gosuslugi.social` | Yes |
 | `got-tty.org` | No |
 | `gotanno.love` | No |
@@ -34267,6 +34268,7 @@ Here's a list of public Fediverse services.
 | `oyler.social` | No |
 | `oysta.au` | No |
 | `oyster.red` | Yes |
+| `oyundijital.com` | Yes |
 | `oz.hn` | No |
 | `ozar.dev` | No |
 | `ozbustard.social` | No |
@@ -35125,6 +35127,7 @@ Here's a list of public Fediverse services.
 | `phanisvara.com` | No |
 | `phantanews.de` | No |
 | `phantasma.cloud` | Yes |
+| `phante.com` | No |
 | `phantomthieves.net` | No |
 | `phar.social` | No |
 | `pharus.pt` | No |
@@ -42012,6 +42015,7 @@ Here's a list of public Fediverse services.
 | `socialtuna.net` | No |
 | `socialturtle.eu` | No |
 | `socialwagrien.de` | No |
+| `socialwave.org` | No |
 | `socialweb.coop` | Yes |
 | `socialweb.ie` | No |
 | `socialwebtube.com` | No |
@@ -44568,6 +44572,7 @@ Here's a list of public Fediverse services.
 | `tecmint.com` | Yes |
 | `tecnfy.com` | No |
 | `tecnocracia.com.co` | Yes |
+| `tecnoriflessioni.com` | No |
 | `ted.social` | No |
 | `tedandrachel.com` | No |
 | `tedcarstensen.social` | Yes |
@@ -51949,8 +51954,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,738 |
-| Normal | 37,163 |
+| Cloudflare | 14,739 |
+| Normal | 37,167 |
 
 
 </details>
