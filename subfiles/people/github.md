@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to bypass, returning failure](https://github.com/CFSession/CFSession/issues/27)
 - [ddclient.conf permission issue](https://github.com/ddclient/ddclient/issues/611)
 - [Unable to get sound from the Input page routed to the output page.](https://github.com/honestlai/ConferenceRTC/issues/1)
 - [The email-a-poem sample doesn't work](https://github.com/quarkiverse/quarkus-langchain4j/issues/191)
