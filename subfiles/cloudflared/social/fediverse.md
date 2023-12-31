@@ -10062,6 +10062,7 @@ Here's a list of public Fediverse services.
 | `dauen.name` | No |
 | `daumiller.eu` | No |
 | `dav.li` | No |
+| `dav1d.xyz` | No |
 | `davbot.media` | Yes |
 | `davbot.social` | Yes |
 | `davbot.work` | Yes |
@@ -51955,7 +51956,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,739 |
-| Normal | 37,167 |
+| Normal | 37,168 |
 
 
 </details>
