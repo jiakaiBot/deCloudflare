@@ -7821,6 +7821,7 @@ Do not create new issue or we will close it as duplicate.
 | [LNguynXunSn1@X](https://twitter.com/LNguynXunSn1/status/1485459472827166721) | advertise |
 | [LNhnHong1@X](https://twitter.com/LNhnHong1/status/1400851165248585730) | advertise |
 | [LNinh19111999@X](https://twitter.com/LNinh19111999/status/1552011202741489664) | advertise |
+| [lnjamn@X](https://twitter.com/lnjamn/status/1741408786617934145) | advertise |
 | [LNoclass85674@X](https://twitter.com/LNoclass85674/status/1719083361401204802) | advertise |
 | [lnspectorRex@X](https://twitter.com/lnspectorRex/status/1545829075016732672) | advertise |
 | [LoanHun91363699@X](https://twitter.com/LoanHun91363699/status/1643160466737475584) | advertise |
@@ -13078,6 +13079,7 @@ Do not create new issue or we will close it as duplicate.
 | [SuSu43088830@X](https://twitter.com/SuSu43088830/status/1596615743335895040) | advertise |
 | [Susuuumurni@X](https://twitter.com/Susuuumurni/status/1710213715143106701) | advertise |
 | [SuSuWin06068758@X](https://twitter.com/SuSuWin06068758/status/1553316092931481603) | advertise |
+| [Suthoncat99@X](https://twitter.com/Suthoncat99/status/1741409743187636492) | advertise |
 | [SuTrn58550307@X](https://twitter.com/SuTrn58550307/status/1603538130337812480) | advertise |
 | [suuccesethiopa@X](https://twitter.com/suuccesethiopa/status/1510972073769902082) | advertise |
 | [SuWai57179242@X](https://twitter.com/SuWai57179242/status/1390282019108659200) | advertise |
@@ -14479,6 +14481,7 @@ Do not create new issue or we will close it as duplicate.
 | [UAZY_mm@X](https://twitter.com/UAZY_mm/status/1377727680984969217) | advertise |
 | [uccops@X](https://twitter.com/uccops/status/1493791302600650755) | advertise |
 | [uchiha222456@X](https://twitter.com/uchiha222456/status/1637917195979358208) | advertise |
+| [uchihai22026373@X](https://twitter.com/uchihai22026373/status/1741402520541651337) | advertise |
 | [UChitKaung2@X](https://twitter.com/UChitKaung2/status/1392627087849103360) | advertise |
 | [uclll@X](https://twitter.com/uclll/status/1664919821807673344) | advertise |
 | [uCtMoi60822299@X](https://twitter.com/uCtMoi60822299/status/1388992504750501890) | advertise |
