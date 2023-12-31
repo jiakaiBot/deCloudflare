@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,270 |
+| com | 8,271 |
 | social | 4,738 |
-| net | 4,053 |
+| net | 4,054 |
 | org | 2,708 |
-| de | 2,577 |
+| de | 2,578 |
 
 
 - Mastodon, Pleroma, etc
@@ -6322,6 +6322,7 @@ Here's a list of public Fediverse services.
 | `busterboys.net` | No |
 | `bustinfam.com` | Yes |
 | `busybit.at` | No |
+| `but.gay` | No |
 | `but.social` | No |
 | `buta.moe` | Yes |
 | `butash.net` | No |
@@ -21978,6 +21979,7 @@ Here's a list of public Fediverse services.
 | `jordanmerrick.com` | Yes |
 | `jordanreger.com` | Yes |
 | `jordanwages.com` | No |
+| `jordon.me` | No |
 | `jorel.org` | No |
 | `jorgas.eu` | No |
 | `jorgejarai.xyz` | No |
@@ -35513,6 +35515,7 @@ Here's a list of public Fediverse services.
 | `pixel-fed.co.uk` | Yes |
 | `pixel.kitchen` | No |
 | `pixelart.moe` | Yes |
+| `pixelbart.de` | No |
 | `pixelblaster.ro` | No |
 | `pixelcave.xyz` | Yes |
 | `pixelcloud.dev` | Yes |
@@ -37345,6 +37348,7 @@ Here's a list of public Fediverse services.
 | `radfoote.net` | No |
 | `radgames.space` | No |
 | `radhitya.id` | Yes |
+| `radialbog9.com` | Yes |
 | `radiant.garden` | No |
 | `radiant.social` | Yes |
 | `radiate038.com` | No |
@@ -40544,6 +40548,7 @@ Here's a list of public Fediverse services.
 | `seraliane.org` | No |
 | `seraph.red` | Yes |
 | `serasera.org` | No |
+| `serathiuk.dev` | Yes |
 | `serbanescu.dk` | Yes |
 | `serembankia.net` | Yes |
 | `serenity.social` | Yes |
@@ -43616,6 +43621,7 @@ Here's a list of public Fediverse services.
 | `surfin.dog` | No |
 | `surfnet.space` | No |
 | `surfscape.cloud` | Yes |
+| `surfscape.net` | Yes |
 | `surfshark.com` | Yes |
 | `surftao.life` | Yes |
 | `surfzone.nz` | Yes |
@@ -51960,8 +51966,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,739 |
-| Normal | 37,173 |
+| Cloudflare | 14,742 |
+| Normal | 37,176 |
 
 
 </details>
