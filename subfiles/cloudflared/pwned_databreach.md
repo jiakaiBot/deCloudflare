@@ -320,7 +320,7 @@ Here's a list of breached sites.
 | Intelimost | 3,073,409 | No |
 | Interpals (InterPals) | 3,439,414 | Yes |
 | JDGroup (JD Group) | 521,878 | No |
-| JD | 77,449,341 | Yes |
+| JD | 77,449,341 | No |
 | JamTangan (Jam Tangan) | 434,784 | Yes |
 | James | 1,541,284 | Yes |
 | Jefit | 9,052,457 | Yes |
@@ -685,7 +685,7 @@ Here's a list of breached sites.
 | Yahoo | 453,427 | Yes |
 | Yam | 13,258,797 | Yes |
 | Yandex (Yandex Dump) | 1,186,564 | No |
-| Yatra | 5,033,997 | Yes |
+| Yatra | 5,033,997 | No |
 | YoteprestoCom (yotepresto.com) | 1,444,629 | Yes |
 | YouNow | 18,241,518 | Yes |
 | YouPorn | 1,327,567 | Yes |
@@ -726,10 +726,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 414 | 4,534,369,652 |
-| Normal | 291 | 4,566,439,257 |
+| Cloudflare | 412 | 4,451,886,314 |
+| Normal | 293 | 4,648,922,595 |
 
 
 
-### 58.7% of breached sites (pwned sites) are using Cloudflare.
-### 49.8% of leaked accounts are on Cloudflare sites.
+### 58.4% of breached sites (pwned sites) are using Cloudflare.
+### 48.9% of leaked accounts are on Cloudflare sites.
