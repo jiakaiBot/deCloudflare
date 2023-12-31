@@ -5654,6 +5654,7 @@ Do not create new issue or we will close it as duplicate.
 | [ideveloper8@X](https://twitter.com/ideveloper8/status/1459107888471941146) | advertise |
 | [idrayt1@X](https://twitter.com/idrayt1/status/1584900658699829251) | advertise |
 | [idreshsen50@X](https://twitter.com/idreshsen50/status/1736005183463952717) | advertise |
+| [IdrisaLioc16606@X](https://twitter.com/IdrisaLioc16606/status/1741572957611389255) | advertise |
 | [idzyns@X](https://twitter.com/idzyns/status/1714471442908381497) | advertise |
 | [id_btc@X](https://twitter.com/id_btc/status/1677829095936217088) | advertise |
 | [ieujejer@X](https://twitter.com/ieujejer/status/1701306103240229092) | advertise |
@@ -12573,6 +12574,7 @@ Do not create new issue or we will close it as duplicate.
 | [Silent37889316@X](https://twitter.com/Silent37889316/status/1393149289711300609) | advertise |
 | [Sillyangel3_@X](https://twitter.com/Sillyangel3_/status/1494451360930177032) | advertise |
 | [sillyc0ffin@X](https://twitter.com/sillyc0ffin/status/1400653906410020876) | advertise |
+| [sillydevelop@X](https://twitter.com/sillydevelop/status/1741561629379055688) | advertise |
 | [silumansupra@X](https://twitter.com/silumansupra/status/1489505985224151044) | advertise |
 | [silvertide2051@X](https://twitter.com/silvertide2051/status/1584693862869925888) | advertise |
 | [Silvery_catto@X](https://twitter.com/Silvery_catto/status/1602143255944396800) | advertise |
