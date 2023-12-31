@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,269 |
+| com | 8,270 |
 | social | 4,738 |
 | net | 4,053 |
 | org | 2,708 |
@@ -49013,6 +49013,7 @@ Here's a list of public Fediverse services.
 | `w-2.io` | No |
 | `w00f.org` | No |
 | `w012w012.tk` | No |
+| `w0abe.com` | No |
 | `w0lfr.net` | Yes |
 | `w0rkupa.me` | Yes |
 | `w0rmh0le.net` | No |
@@ -51960,7 +51961,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,739 |
-| Normal | 37,172 |
+| Normal | 37,173 |
 
 
 </details>
