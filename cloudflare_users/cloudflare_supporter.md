@@ -3962,6 +3962,7 @@ Do not create new issue or we will close it as duplicate.
 | [FAISAL95962564@X](https://twitter.com/FAISAL95962564/status/1704759864986140853) | advertise |
 | [FaisalForh52848@X](https://twitter.com/FaisalForh52848/status/1712472108364939470) | advertise |
 | [FaisalHossine@X](https://twitter.com/FaisalHossine/status/1386253418218491905) | advertise |
+| [FaisalShiroo123@X](https://twitter.com/FaisalShiroo123/status/1741553695655899138) | advertise |
 | [faisal_asif@X](https://twitter.com/faisal_asif/status/1518406069764112392) | advertise |
 | [Faisal_gilani1@X](https://twitter.com/Faisal_gilani1/status/1639929905260687365) | advertise |
 | [FaiSky_@X](https://twitter.com/FaiSky_/status/1490832227327823872) | advertise |
