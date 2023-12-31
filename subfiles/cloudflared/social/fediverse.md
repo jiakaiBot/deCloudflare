@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,268 |
+| com | 8,269 |
 | social | 4,738 |
 | net | 4,053 |
 | org | 2,708 |
@@ -3000,6 +3000,7 @@ Here's a list of public Fediverse services.
 | `aroaminggeek.com` | No |
 | `arofarn.info` | No |
 | `aronwarren.com` | No |
+| `around.com` | No |
 | `arousal.support` | No |
 | `aroy-art.com` | No |
 | `arpadblog.hu` | No |
@@ -8840,6 +8841,7 @@ Here's a list of public Fediverse services.
 | `crabdance.ca` | Yes |
 | `crabdance.com` | Yes |
 | `crabdisk.online` | No |
+| `crablab.uk` | No |
 | `crabland.social` | No |
 | `crablettesare.life` | No |
 | `crabnetic.com` | Yes |
@@ -35040,6 +35042,7 @@ Here's a list of public Fediverse services.
 | `petergasston.co.uk` | No |
 | `petergoes.nl` | No |
 | `peterjanes.ca` | No |
+| `peterkrupa.lol` | No |
 | `peterlehmann.xyz` | No |
 | `peterlew.is` | Yes |
 | `petermolnar.net` | No |
@@ -41503,6 +41506,7 @@ Here's a list of public Fediverse services.
 | `skylarcloud.xyz` | No |
 | `skylarkservers.net` | Yes |
 | `skyline.monster` | Yes |
+| `skylinehub.live` | No |
 | `skyliu.me` | Yes |
 | `skylord.org` | No |
 | `skymethod.com` | Yes |
@@ -51956,7 +51960,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,739 |
-| Normal | 37,168 |
+| Normal | 37,172 |
 
 
 </details>
