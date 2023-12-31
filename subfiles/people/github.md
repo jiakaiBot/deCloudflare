@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ddclient.conf permission issue](https://github.com/ddclient/ddclient/issues/611)
 - [Unable to get sound from the Input page routed to the output page.](https://github.com/honestlai/ConferenceRTC/issues/1)
 - [The email-a-poem sample doesn't work](https://github.com/quarkiverse/quarkus-langchain4j/issues/191)
 - [NPM not starting when using 'lepresidente/nginxproxymanager:latest'](https://github.com/crowdsecurity/example-docker-compose/issues/13)
