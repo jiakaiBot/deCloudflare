@@ -15945,6 +15945,7 @@ Do not create new issue or we will close it as duplicate.
 | [_myorin_@X](https://twitter.com/_myorin_/status/1402254526619348992) | advertise |
 | [_namu1224@X](https://twitter.com/_namu1224/status/1389877230029795329) | advertise |
 | [_Nirmal_S@X](https://twitter.com/_Nirmal_S/status/1436247489699401728) | advertise |
+| [_nx_e@X](https://twitter.com/_nx_e/status/1741461974729326721) | advertise |
 | [_omnaidu_@X](https://twitter.com/_omnaidu_/status/1443110765746003968) | advertise |
 | [_otkzk_@X](https://twitter.com/_otkzk_/status/1488376670256267265) | advertise |
 | [_owen99@X](https://twitter.com/_owen99/status/1662423339607142400) | advertise |
