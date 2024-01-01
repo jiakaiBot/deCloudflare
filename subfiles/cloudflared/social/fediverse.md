@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,275 |
+| com | 8,276 |
 | social | 4,739 |
 | net | 4,057 |
 | org | 2,710 |
@@ -24615,7 +24615,7 @@ Here's a list of public Fediverse services.
 | `lea.moe` | Yes |
 | `lea.pet` | Yes |
 | `leadershouse.tokyo` | No |
-| `leadrdrk.eu.org` | No |
+| `leadrdrk.eu.org` | Yes |
 | `leadslinger.org` | No |
 | `leaf.dance` | Yes |
 | `leaf.style` | No |
@@ -26379,7 +26379,7 @@ Here's a list of public Fediverse services.
 | `m33how.it` | No |
 | `m3o.org` | Yes |
 | `m3press.jp` | No |
-| `m3wz.su` | No |
+| `m3wz.su` | Yes |
 | `m400cloud.com` | No |
 | `m4570.com` | Yes |
 | `m4570.xyz` | Yes |
@@ -36882,6 +36882,7 @@ Here's a list of public Fediverse services.
 | `puyo.jp` | No |
 | `puyopuyotetr.is` | Yes |
 | `puyosuki.com` | Yes |
+| `puyuyu.com` | Yes |
 | `puz.fun` | No |
 | `puzich.social` | No |
 | `puzzled.cc` | No |
@@ -38709,7 +38710,7 @@ Here's a list of public Fediverse services.
 | `robmcbryde.com` | No |
 | `robmccoll.com` | No |
 | `robmcminn.uk` | No |
-| `robmenting.com` | No |
+| `robmenting.com` | Yes |
 | `robmydobrze.pl` | No |
 | `robmyers.org` | Yes |
 | `robo.church` | No |
@@ -51994,8 +51995,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,757 |
-| Normal | 37,189 |
+| Cloudflare | 14,761 |
+| Normal | 37,186 |
 
 
 </details>
