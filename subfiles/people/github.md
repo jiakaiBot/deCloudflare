@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [helloworld contract deploy fail](https://github.com/sCrypt-Inc/boilerplate/issues/314)
+- [Word mistake (turnike must be Turnstile)](https://github.com/flarum-lang/turkish/issues/32)
 - [Permission Denied Error](https://github.com/ekzhang/sshx/issues/64)
 - [429: Access denied | sso.garmin.com used Cloudflare to restrict access](https://github.com/Pythe1337N/garmin-connect/issues/74)
 - [Failed to bypass, returning failure](https://github.com/CFSession/CFSession/issues/27)
