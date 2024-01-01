@@ -29598,6 +29598,7 @@ Here's a list of public Fediverse services.
 | `mommy.party` | No |
 | `mommydreams.life` | No |
 | `momoclo.social` | No |
+| `momoimidori.cc` | Yes |
 | `momoiro9.ro` | No |
 | `momok.xyz` | Yes |
 | `momose.org` | No |
@@ -51996,7 +51997,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,761 |
+| Cloudflare | 14,762 |
 | Normal | 37,187 |
 
 
