@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,276 |
 | social | 4,739 |
-| net | 4,058 |
+| net | 4,059 |
 | org | 2,710 |
 | de | 2,578 |
 
@@ -13308,6 +13308,7 @@ Here's a list of public Fediverse services.
 | `estrogen.network` | Yes |
 | `estrogen.plus` | Yes |
 | `estwald.icu` | No |
+| `esurio1673.net` | Yes |
 | `et-puis.eu` | No |
 | `eta-expanse.online` | No |
 | `eta.st` | Yes |
@@ -20326,6 +20327,7 @@ Here's a list of public Fediverse services.
 | `indieapps.space` | No |
 | `indieauthors.social` | No |
 | `indiebasement.live` | No |
+| `indiebio.co.za` | No |
 | `indiecreatorhub.com` | Yes |
 | `indiefedi.party` | No |
 | `indiefilm.fun` | Yes |
@@ -42045,6 +42047,7 @@ Here's a list of public Fediverse services.
 | `socialscud.com` | Yes |
 | `socialserver.science` | Yes |
 | `socialsocial.club` | No |
+| `socialsoup.xyz` | No |
 | `socialspace.xyz` | No |
 | `socialspill.com` | Yes |
 | `socialtech.net.br` | No |
@@ -48266,7 +48269,7 @@ Here's a list of public Fediverse services.
 | `vanlife.is` | No |
 | `vanlueck.dev` | No |
 | `vanoix.com` | No |
-| `vanoverloop.xyz` | No |
+| `vanoverloop.xyz` | Yes |
 | `vanten-s.com` | Yes |
 | `vanwa.ch` | No |
 | `vanzunderd.eu` | No |
@@ -51997,8 +52000,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,762 |
-| Normal | 37,187 |
+| Cloudflare | 14,764 |
+| Normal | 37,188 |
 
 
 </details>
