@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,271 |
-| social | 4,738 |
+| social | 4,739 |
 | net | 4,055 |
 | org | 2,708 |
 | de | 2,578 |
@@ -23727,6 +23727,7 @@ Here's a list of public Fediverse services.
 | `kosebamse.com` | No |
 | `kosen.land` | Yes |
 | `kosendon.tech` | No |
+| `kosh-web.cfd` | Yes |
 | `koshka.io` | Yes |
 | `koski.co` | Yes |
 | `kosko.pw` | No |
@@ -31469,6 +31470,7 @@ Here's a list of public Fediverse services.
 | `nerdington.de` | No |
 | `nerdistan.cloud` | No |
 | `nerdiverset.no` | Yes |
+| `nerdjoy.social` | No |
 | `nerdjunk.de` | No |
 | `nerdlings.club` | No |
 | `nerdlings.net` | Yes |
@@ -51976,8 +51978,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,745 |
-| Normal | 37,183 |
+| Cloudflare | 14,746 |
+| Normal | 37,184 |
 
 
 </details>
