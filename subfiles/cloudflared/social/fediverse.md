@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,271 |
 | social | 4,739 |
-| net | 4,055 |
+| net | 4,056 |
 | org | 2,708 |
 | de | 2,578 |
 
@@ -23039,6 +23039,7 @@ Here's a list of public Fediverse services.
 | `kfitz.info` | No |
 | `kfogel.org` | No |
 | `kfz-pfeiffer.com` | No |
+| `kg-misskey.net` | Yes |
 | `kg-thum.de` | No |
 | `kg2.com` | Yes |
 | `kghorvath.com` | Yes |
@@ -51978,7 +51979,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,746 |
+| Cloudflare | 14,747 |
 | Normal | 37,184 |
 
 
