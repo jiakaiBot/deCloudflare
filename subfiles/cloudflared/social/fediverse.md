@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,273 |
+| com | 8,275 |
 | social | 4,739 |
-| net | 4,059 |
-| org | 2,710 |
-| de | 2,578 |
+| net | 4,060 |
+| org | 2,712 |
+| de | 2,579 |
 
 
 - Mastodon, Pleroma, etc
@@ -4182,6 +4182,7 @@ Here's a list of public Fediverse services.
 | `bash-street-boys-and-girls.com` | No |
 | `bashell.com` | Yes |
 | `bashgeek.net` | No |
+| `bashinho.de` | No |
 | `bashynx.com` | Yes |
 | `basic-domain.com` | Yes |
 | `basil.quest` | Yes |
@@ -11180,6 +11181,7 @@ Here's a list of public Fediverse services.
 | `distant.homes` | No |
 | `distant.social` | Yes |
 | `distantends.net` | No |
+| `distantserver.org` | No |
 | `distilled.pm` | Yes |
 | `distilled.pub` | No |
 | `distinctivestatic.me` | No |
@@ -16211,6 +16213,7 @@ Here's a list of public Fediverse services.
 | `gadgetoid.com` | Yes |
 | `gadgetro.id` | Yes |
 | `gadsen.net` | Yes |
+| `gaehn.org` | No |
 | `gaeilge.social` | No |
 | `gaelicwizard.net` | No |
 | `gafamfree.party` | No |
@@ -22966,6 +22969,7 @@ Here's a list of public Fediverse services.
 | `kertho.me` | Yes |
 | `kertwang.me` | No |
 | `keryja.tv` | No |
+| `kescher.at` | No |
 | `keskonfai.fr` | No |
 | `kessai-otaku.club` | Yes |
 | `kessoku.band` | Yes |
@@ -23877,6 +23881,7 @@ Here's a list of public Fediverse services.
 | `krisstreet.com` | No |
 | `krissy.gay` | No |
 | `kristaps.lv` | No |
+| `kristenhallgeisler.com` | Yes |
 | `kristianfreeman.com` | Yes |
 | `kristoffer-strube.dk` | No |
 | `kristofferjohansson.com` | Yes |
@@ -33527,6 +33532,7 @@ Here's a list of public Fediverse services.
 | `onerescue.org` | No |
 | `onestackdeep.com` | No |
 | `onestarrynight.com` | No |
+| `onestatus.info` | No |
 | `onesteprevolution.com` | No |
 | `onethingwell.dev` | Yes |
 | `onetwoseven.one` | Yes |
@@ -34235,6 +34241,7 @@ Here's a list of public Fediverse services.
 | `owenyoung.com` | Yes |
 | `owgf.org` | No |
 | `owlcode.tech` | No |
+| `owldog.dev` | Yes |
 | `owlparliament.com` | No |
 | `owlper.ch` | No |
 | `owls.io` | No |
@@ -34655,6 +34662,7 @@ Here's a list of public Fediverse services.
 | `pasta.wtf` | No |
 | `pastafaristes.fr` | No |
 | `pastaforce.social` | No |
+| `pastafriday.club` | No |
 | `pastel-pink.life` | No |
 | `pasteq.fr` | Yes |
 | `pastix.fr` | No |
@@ -35235,7 +35243,7 @@ Here's a list of public Fediverse services.
 | `phmongeau.com` | No |
 | `phntm.site` | No |
 | `pho.social` | No |
-| `phocks.eu.org` | No |
+| `phocks.eu.org` | Yes |
 | `phocks.org` | Yes |
 | `phoebeivy.dev` | Yes |
 | `phoebus.cc` | No |
@@ -43185,6 +43193,7 @@ Here's a list of public Fediverse services.
 | `storais.org` | No |
 | `storel.li` | No |
 | `storiesnotablog.com` | No |
+| `storiesoficeland.com` | No |
 | `storkeus.xyz` | Yes |
 | `stormcloak.info` | No |
 | `stormcrest.org` | No |
@@ -48115,7 +48124,7 @@ Here's a list of public Fediverse services.
 | `uuxo.net` | No |
 | `uvcat.com` | No |
 | `uvensys.social` | No |
-| `uviclinux.ca` | No |
+| `uviclinux.ca` | Yes |
 | `uvix.cc` | No |
 | `uvok.de` | No |
 | `uvolante.org` | No |
@@ -51403,6 +51412,7 @@ Here's a list of public Fediverse services.
 | `yuru.studio` | Yes |
 | `yurucat.me` | Yes |
 | `yuruchara.info` | Yes |
+| `yurupath.net` | No |
 | `yurusanp.org` | Yes |
 | `yurut.name` | Yes |
 | `yurutan.net` | No |
@@ -52001,8 +52011,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,764 |
-| Normal | 37,189 |
+| Cloudflare | 14,768 |
+| Normal | 37,195 |
 
 
 </details>
