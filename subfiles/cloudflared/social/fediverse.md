@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,276 |
+| com | 8,273 |
 | social | 4,739 |
 | net | 4,059 |
 | org | 2,710 |
@@ -7113,7 +7113,7 @@ Here's a list of public Fediverse services.
 | `cesium.pw` | Yes |
 | `ceskar.xyz` | No |
 | `ceske.site` | No |
-| `cesko.digital` | No |
+| `cesko.digital` | Yes |
 | `cesko.social` | Yes |
 | `cesspool.city` | No |
 | `cestlavie.moe` | Yes |
@@ -8738,7 +8738,6 @@ Here's a list of public Fediverse services.
 | `cosmos.social` | Yes |
 | `cosmoschaos.net` | Yes |
 | `cosnomi.com` | Yes |
-| `cosocaf.com` | Yes |
 | `cosocial.ca` | No |
 | `cosocial.engineering` | No |
 | `cosp.la` | No |
@@ -21000,7 +20999,6 @@ Here's a list of public Fediverse services.
 | `itmgitmo.com` | No |
 | `itmslaves.com` | Yes |
 | `ito.com` | No |
-| `itochun.com` | No |
 | `itoji0419.jp` | Yes |
 | `itools.jp` | No |
 | `itp.io` | No |
@@ -31371,7 +31369,6 @@ Here's a list of public Fediverse services.
 | `nem.one` | Yes |
 | `nemargut.com` | No |
 | `nemertes.nl` | No |
-| `nemesis53126.com` | Yes |
 | `nemeto.fr` | No |
 | `nemo.click` | No |
 | `nemo.town` | No |
@@ -34032,6 +34029,7 @@ Here's a list of public Fediverse services.
 | `ostolc.org` | No |
 | `ostrovok.de` | No |
 | `osu.io` | Yes |
+| `osu.si` | No |
 | `osumiakari.jp` | Yes |
 | `osureplayviewer.xyz` | No |
 | `osvoj.ru` | No |
@@ -38617,7 +38615,6 @@ Here's a list of public Fediverse services.
 | `rjm.id.au` | Yes |
 | `rjp.is` | Yes |
 | `rkd.pw` | Yes |
-| `rkevin.dev` | No |
 | `rkgk.moe` | No |
 | `rklein.com.br` | No |
 | `rknight.me` | No |
@@ -41866,7 +41863,6 @@ Here's a list of public Fediverse services.
 | `snircle.space` | No |
 | `snkkis.me` | No |
 | `snld.ca` | No |
-| `snmochizuki.net` | Yes |
 | `snmsoc.org` | No |
 | `snoepr.nl` | No |
 | `snokrash.com` | No |
@@ -48141,6 +48137,7 @@ Here's a list of public Fediverse services.
 | `uwunifi.com` | Yes |
 | `uwuntu.org` | Yes |
 | `uwuwatch.club` | Yes |
+| `uwuzu.net` | Yes |
 | `uwuzunext.info` | Yes |
 | `uwyn.net` | No |
 | `uxbrad.com` | No |
@@ -52004,8 +52001,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,765 |
-| Normal | 37,191 |
+| Cloudflare | 14,764 |
+| Normal | 37,189 |
 
 
 </details>
