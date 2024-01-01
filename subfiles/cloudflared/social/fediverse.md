@@ -16297,7 +16297,7 @@ Here's a list of public Fediverse services.
 | `gamers.rip` | No |
 | `gamers.social` | No |
 | `gamersandgeeks.net` | No |
-| `gamerscharisma.social` | No |
+| `gamerscharisma.social` | Yes |
 | `gamerstavern.online` | No |
 | `gamertalk.social` | No |
 | `gamertheory.net` | No |
@@ -25148,6 +25148,7 @@ Here's a list of public Fediverse services.
 | `liberdon.com` | Yes |
 | `libereco.social` | No |
 | `liberium.fr` | No |
+| `liberoservizio.ovh` | No |
 | `liberta.casa` | No |
 | `liberta.vip` | No |
 | `libertalia.world` | No |
@@ -28159,7 +28160,7 @@ Here's a list of public Fediverse services.
 | `medinnna.com` | Yes |
 | `mediocre.photos` | No |
 | `medium-sandbox.social` | Yes |
-| `medium.com` | Yes |
+| `medium.com` | No |
 | `medium.place` | Yes |
 | `medium.social` | Yes |
 | `mediverse.social` | No |
@@ -51969,7 +51970,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,743 |
-| Normal | 37,177 |
+| Normal | 37,178 |
 
 
 </details>
