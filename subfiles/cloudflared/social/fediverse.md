@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,275 |
+| com | 8,276 |
 | social | 4,739 |
 | net | 4,060 |
 | org | 2,712 |
@@ -865,6 +865,7 @@ Here's a list of public Fediverse services.
 | `a11y.social` | No |
 | `a13.social` | No |
 | `a15a.co` | No |
+| `a16zw.com` | Yes |
 | `a17k.social` | No |
 | `a17t.dev` | Yes |
 | `a19industries.com` | Yes |
@@ -30870,6 +30871,7 @@ Here's a list of public Fediverse services.
 | `n8h.eu` | No |
 | `n8vsi.com` | No |
 | `na-prostem.si` | No |
+| `na.in.th` | No |
 | `na13.co.uk` | No |
 | `na2na.dev` | Yes |
 | `na2na.website` | No |
@@ -52011,8 +52013,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,768 |
-| Normal | 37,195 |
+| Cloudflare | 14,769 |
+| Normal | 37,196 |
 
 
 </details>
