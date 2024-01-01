@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Demo does not process uploaded file - No Cloudflare auth token provided](https://github.com/seanoliver/audioflare/issues/8)
 - [helloworld contract deploy fail](https://github.com/sCrypt-Inc/boilerplate/issues/314)
 - [Word mistake (turnike must be Turnstile)](https://github.com/flarum-lang/turkish/issues/32)
 - [Permission Denied Error](https://github.com/ekzhang/sshx/issues/64)
