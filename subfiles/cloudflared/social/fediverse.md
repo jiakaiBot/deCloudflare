@@ -28165,7 +28165,7 @@ Here's a list of public Fediverse services.
 | `medinnna.com` | Yes |
 | `mediocre.photos` | No |
 | `medium-sandbox.social` | Yes |
-| `medium.com` | No |
+| `medium.com` | Yes |
 | `medium.place` | Yes |
 | `medium.social` | Yes |
 | `mediverse.social` | No |
@@ -40757,6 +40757,7 @@ Here's a list of public Fediverse services.
 | `shantih19.xyz` | No |
 | `shao.life` | Yes |
 | `shaped-like.rocks` | No |
+| `shaped.dog` | No |
 | `shapovalov.tech` | No |
 | `share.tube` | No |
 | `shareable.net` | Yes |
@@ -51975,7 +51976,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,744 |
+| Cloudflare | 14,745 |
 | Normal | 37,183 |
 
 
