@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [S3 temporary file upload driver only supports single file uploads. Remove the multiple HTML attribute from your input tag.](https://github.com/spatie/laravel-medialibrary/issues/3493)
 - [Demo does not process uploaded file - No Cloudflare auth token provided](https://github.com/seanoliver/audioflare/issues/8)
 - [helloworld contract deploy fail](https://github.com/sCrypt-Inc/boilerplate/issues/314)
 - [Word mistake (turnike must be Turnstile)](https://github.com/flarum-lang/turkish/issues/32)
