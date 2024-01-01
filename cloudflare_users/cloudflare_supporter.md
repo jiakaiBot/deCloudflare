@@ -9800,6 +9800,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ngi1Trit@X](https://twitter.com/Ngi1Trit/status/1638437010292768770) | advertise |
 | [nginngenthj@X](https://twitter.com/nginngenthj/status/1397950807522242561) | advertise |
 | [ngin_hsai@X](https://twitter.com/ngin_hsai/status/1392354117868134407) | advertise |
+| [NgKh14623568@X](https://twitter.com/NgKh14623568/status/1741769917895172311) | advertise |
 | [ngKhoa85349550@X](https://twitter.com/ngKhoa85349550/status/1381325734073933825) | advertise |
 | [Ngko63049837@X](https://twitter.com/Ngko63049837/status/1398150801055535106) | advertise |
 | [NgL68393802@X](https://twitter.com/NgL68393802/status/1507978854618468359) | advertise |
