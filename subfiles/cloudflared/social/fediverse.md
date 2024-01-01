@@ -19933,6 +19933,7 @@ Here's a list of public Fediverse services.
 | `icod.de` | No |
 | `icodeinht.ml` | No |
 | `icolectiva.org` | No |
+| `icom.lol` | No |
 | `iconfactory.world` | No |
 | `icosahedron.website` | No |
 | `icosaverse.social` | No |
@@ -28492,6 +28493,7 @@ Here's a list of public Fediverse services.
 | `meta-carbon.com` | No |
 | `meta-site.de` | No |
 | `meta-tube.de` | No |
+| `meta.dog` | No |
 | `metabit.xyz` | No |
 | `metabrook.io` | No |
 | `metaccount.de` | No |
@@ -35114,7 +35116,7 @@ Here's a list of public Fediverse services.
 | `pettanko.art` | No |
 | `pettet.social` | No |
 | `pettigrew.org.uk` | No |
-| `pettingzoo.co` | No |
+| `pettingzoo.co` | Yes |
 | `pettingzoo.dev` | No |
 | `pettingzoo.gallery` | No |
 | `pettingzoo.live` | No |
@@ -40771,6 +40773,7 @@ Here's a list of public Fediverse services.
 | `shanghaifantasy.social` | No |
 | `shangri-la.cloud` | No |
 | `shangtai.net` | No |
+| `shankarraman.in` | No |
 | `shannonmcmaster.com` | No |
 | `shanske.com` | No |
 | `shanti.cafe` | No |
@@ -47565,6 +47568,7 @@ Here's a list of public Fediverse services.
 | `ulithsys.moe` | No |
 | `ull.social` | No |
 | `ullihome.de` | No |
+| `ullrich.is` | No |
 | `ulman.social` | Yes |
 | `ulmd.de` | No |
 | `ulne.be` | No |
@@ -52000,8 +52004,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,764 |
-| Normal | 37,188 |
+| Cloudflare | 14,765 |
+| Normal | 37,191 |
 
 
 </details>
