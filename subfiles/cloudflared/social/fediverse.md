@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,271 |
 | social | 4,738 |
-| net | 4,054 |
+| net | 4,055 |
 | org | 2,708 |
 | de | 2,578 |
 
@@ -27743,6 +27743,7 @@ Here's a list of public Fediverse services.
 | `masutabedon.com` | Yes |
 | `masutadon.com` | No |
 | `masutodon.net` | No |
+| `maswag.net` | No |
 | `mat.tl` | Yes |
 | `mat2.net` | Yes |
 | `matabiau.ovh` | No |
@@ -51975,7 +51976,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,744 |
-| Normal | 37,182 |
+| Normal | 37,183 |
 
 
 </details>
