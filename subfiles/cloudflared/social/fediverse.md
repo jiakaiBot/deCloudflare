@@ -14452,6 +14452,7 @@ Here's a list of public Fediverse services.
 | `femboys.love` | Yes |
 | `femby.club` | No |
 | `femby.page` | No |
+| `femdom.solutions` | No |
 | `feminine.social` | No |
 | `feminism.lgbt` | No |
 | `femme.energy` | No |
@@ -22228,7 +22229,7 @@ Here's a list of public Fediverse services.
 | `jupiter.tube` | No |
 | `jupiterslanding.social` | Yes |
 | `jurablogs.com` | No |
-| `jurassic.network` | Yes |
+| `jurassic.network` | No |
 | `jurassic.ninja` | No |
 | `jurgenfranse.nl` | No |
 | `jurgenhaas.de` | Yes |
@@ -51969,8 +51970,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,743 |
-| Normal | 37,178 |
+| Cloudflare | 14,742 |
+| Normal | 37,180 |
 
 
 </details>
