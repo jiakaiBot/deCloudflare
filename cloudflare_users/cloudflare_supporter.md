@@ -10131,6 +10131,7 @@ Do not create new issue or we will close it as duplicate.
 | [NirobHo19696129@X](https://twitter.com/NirobHo19696129/status/1561906833505546240) | advertise |
 | [NischalSkanda@X](https://twitter.com/NischalSkanda/status/1399634499730763778) | advertise |
 | [nishadhossein@X](https://twitter.com/nishadhossein/status/1385312938945257473) | advertise |
+| [NishanA12303@X](https://twitter.com/NishanA12303/status/1741724968327754167) | advertise |
 | [NishanBista10@X](https://twitter.com/NishanBista10/status/1644010615533600769) | advertise |
 | [nishanthguntu@X](https://twitter.com/nishanthguntu/status/1378004004580458496) | advertise |
 | [nisitsuragolf@X](https://twitter.com/nisitsuragolf/status/1591949328599289856) | advertise |
