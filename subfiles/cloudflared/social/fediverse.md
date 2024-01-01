@@ -30323,6 +30323,7 @@ Here's a list of public Fediverse services.
 | `muchametow.de` | No |
 | `mucrone.tech` | No |
 | `mud.social` | No |
+| `muda.site` | No |
 | `mudb0y.com` | Yes |
 | `mudge.name` | Yes |
 | `mudhut.social` | Yes |
@@ -51974,7 +51975,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,744 |
-| Normal | 37,181 |
+| Normal | 37,182 |
 
 
 </details>
