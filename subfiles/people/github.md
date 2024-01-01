@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [429: Access denied | sso.garmin.com used Cloudflare to restrict access](https://github.com/Pythe1337N/garmin-connect/issues/74)
 - [Failed to bypass, returning failure](https://github.com/CFSession/CFSession/issues/27)
 - [ddclient.conf permission issue](https://github.com/ddclient/ddclient/issues/611)
 - [Unable to get sound from the Input page routed to the output page.](https://github.com/honestlai/ConferenceRTC/issues/1)
