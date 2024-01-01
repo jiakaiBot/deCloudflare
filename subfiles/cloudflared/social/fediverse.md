@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,276 |
 | social | 4,739 |
-| net | 4,057 |
+| net | 4,058 |
 | org | 2,710 |
 | de | 2,578 |
 
@@ -20469,6 +20469,7 @@ Here's a list of public Fediverse services.
 | `ingsoc.email` | No |
 | `ingwie.io` | No |
 | `ingwie.me` | Yes |
+| `ingyeo.net` | No |
 | `inhabitat.com` | Yes |
 | `inherently.digital` | No |
 | `inhji.de` | No |
@@ -51996,7 +51997,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,761 |
-| Normal | 37,186 |
+| Normal | 37,187 |
 
 
 </details>
