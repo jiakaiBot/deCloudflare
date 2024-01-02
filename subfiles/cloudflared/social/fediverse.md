@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,279 |
 | social | 4,740 |
 | net | 4,062 |
-| org | 2,713 |
+| org | 2,714 |
 | de | 2,579 |
 
 
@@ -26296,7 +26296,7 @@ Here's a list of public Fediverse services.
 | `lv8.at` | Yes |
 | `lvb.io` | No |
 | `lvds.co` | No |
-| `lviv.social` | No |
+| `lviv.social` | Yes |
 | `lviv.today` | No |
 | `lvmbdv.dev` | No |
 | `lvnsx.com` | Yes |
@@ -27440,7 +27440,7 @@ Here's a list of public Fediverse services.
 | `mastodon.frl` | No |
 | `mastodon.fun` | Yes |
 | `mastodon.fyi` | No |
-| `mastodon.gal` | No |
+| `mastodon.gal` | Yes |
 | `mastodon.games` | No |
 | `mastodon.garden` | No |
 | `mastodon.ge` | Yes |
@@ -30275,6 +30275,7 @@ Here's a list of public Fediverse services.
 | `mstdn.vet` | No |
 | `mstdn.vodka` | Yes |
 | `mstdn.voyage` | No |
+| `mstdn.wiki` | No |
 | `mstdn.world` | No |
 | `mstdn.ws` | No |
 | `mstdn.wtf` | Yes |
@@ -39912,6 +39913,7 @@ Here's a list of public Fediverse services.
 | `scanovid.com` | No |
 | `scapior.dev` | Yes |
 | `scarfefamily.com` | No |
+| `scaringtheho.es` | No |
 | `scarlatti.de` | No |
 | `scarlet.house` | No |
 | `scarletheights.com` | No |
@@ -42370,6 +42372,7 @@ Here's a list of public Fediverse services.
 | `sowe.li` | No |
 | `sowelijanpona.xyz` | No |
 | `sowhappy.us` | Yes |
+| `sowhat.jp.eu.org` | No |
 | `sowhois.gay` | No |
 | `sowi.space` | No |
 | `sowry.nz` | No |
@@ -52022,8 +52025,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,775 |
-| Normal | 37,199 |
+| Cloudflare | 14,777 |
+| Normal | 37,200 |
 
 
 </details>
