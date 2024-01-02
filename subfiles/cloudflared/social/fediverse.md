@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,278 |
+| com | 8,279 |
 | social | 4,740 |
-| net | 4,061 |
+| net | 4,062 |
 | org | 2,713 |
 | de | 2,579 |
 
@@ -17168,7 +17168,7 @@ Here's a list of public Fediverse services.
 | `gnomehead.ch` | No |
 | `gnomos.org` | No |
 | `gnomvid.se` | No |
-| `gnosia.info` | No |
+| `gnosia.info` | Yes |
 | `gnosis.systems` | No |
 | `gnot.club` | Yes |
 | `gnotc.com` | No |
@@ -17685,7 +17685,7 @@ Here's a list of public Fediverse services.
 | `grimm.link` | No |
 | `grimm.systems` | No |
 | `grimmauld.de` | No |
-| `grimmbart.org` | No |
+| `grimmbart.org` | Yes |
 | `grimneko.de` | No |
 | `grimoire.eu.org` | No |
 | `grimoire.party` | No |
@@ -23764,6 +23764,7 @@ Here's a list of public Fediverse services.
 | `kotakuinaction.org` | No |
 | `kotaro.me` | Yes |
 | `kotaro.work` | Yes |
+| `kotaromiyasaka.com` | Yes |
 | `kotatsu.cafe` | No |
 | `kotatsu.jp` | No |
 | `koteidenwa.uk` | Yes |
@@ -46925,6 +46926,7 @@ Here's a list of public Fediverse services.
 | `trueten.de` | No |
 | `truetube.media` | No |
 | `truf-kin.com` | No |
+| `truflun.net` | No |
 | `truman.me.uk` | Yes |
 | `trumbeta.me` | Yes |
 | `trump.pub` | No |
@@ -52020,8 +52022,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,772 |
-| Normal | 37,200 |
+| Cloudflare | 14,775 |
+| Normal | 37,199 |
 
 
 </details>
