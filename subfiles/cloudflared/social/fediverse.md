@@ -47552,6 +47552,7 @@ Here's a list of public Fediverse services.
 | `ukcolumn.org` | Yes |
 | `ukd.social` | Yes |
 | `ukese.me` | No |
+| `ukfli.uk` | No |
 | `ukgb.social` | Yes |
 | `ukhwah.org` | No |
 | `ukiyo.cafe` | No |
@@ -52017,7 +52018,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,769 |
-| Normal | 37,199 |
+| Normal | 37,200 |
 
 
 </details>
