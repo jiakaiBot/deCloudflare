@@ -35068,6 +35068,7 @@ Here's a list of public Fediverse services.
 | `pertsch.social` | No |
 | `pertur.be` | No |
 | `peruano.social` | No |
+| `peruki.dev` | Yes |
 | `pescada.pt` | No |
 | `peshane.net` | No |
 | `peshka.net` | Yes |
@@ -52025,7 +52026,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,777 |
+| Cloudflare | 14,778 |
 | Normal | 37,200 |
 
 
