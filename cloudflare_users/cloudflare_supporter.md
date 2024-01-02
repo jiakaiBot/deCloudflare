@@ -12042,6 +12042,7 @@ Do not create new issue or we will close it as duplicate.
 | [Saifwayy@X](https://twitter.com/Saifwayy/status/1382873575758172160) | advertise |
 | [SaiGodfather@X](https://twitter.com/SaiGodfather/status/1579514945007296512) | advertise |
 | [saigonesesuper@X](https://twitter.com/saigonesesuper/status/1472907694377816071) | advertise |
+| [SaiGye@X](https://twitter.com/SaiGye/status/1742151375524655458) | advertise |
 | [saihanhtoo3@X](https://twitter.com/saihanhtoo3/status/1384160331337895950) | advertise |
 | [SaihoonK@X](https://twitter.com/SaihoonK/status/1492600797846290432) | advertise |
 | [SaiKoKo24824624@X](https://twitter.com/SaiKoKo24824624/status/1389685191480811522) | advertise |
