@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,277 |
-| social | 4,739 |
+| social | 4,740 |
 | net | 4,060 |
 | org | 2,713 |
 | de | 2,579 |
@@ -2036,6 +2036,7 @@ Here's a list of public Fediverse services.
 | `alumnibg.org` | No |
 | `alva.host` | Yes |
 | `alvani.me` | Yes |
+| `alvarado.social` | No |
 | `alvarop.gl` | No |
 | `alvogue.com` | Yes |
 | `always-we-need.games` | Yes |
@@ -52016,7 +52017,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,769 |
-| Normal | 37,198 |
+| Normal | 37,199 |
 
 
 </details>
