@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,276 |
+| com | 8,277 |
 | social | 4,739 |
 | net | 4,060 |
 | org | 2,713 |
@@ -19061,6 +19061,7 @@ Here's a list of public Fediverse services.
 | `hitomi.dev` | Yes |
 | `hitomishinozaki.com` | No |
 | `hitoribocchi.org` | Yes |
+| `hitorigoto.com` | Yes |
 | `hitorino.club` | No |
 | `hitorino.moe` | Yes |
 | `hitorino.tv` | Yes |
@@ -52014,7 +52015,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,768 |
+| Cloudflare | 14,769 |
 | Normal | 37,198 |
 
 
