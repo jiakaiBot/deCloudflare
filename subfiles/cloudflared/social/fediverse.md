@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,284 |
+| com | 8,285 |
 | social | 4,741 |
 | net | 4,065 |
-| org | 2,714 |
-| de | 2,581 |
+| org | 2,715 |
+| de | 2,583 |
 
 
 - Mastodon, Pleroma, etc
@@ -3405,6 +3405,7 @@ Here's a list of public Fediverse services.
 | `atmy.haus` | No |
 | `atoh.me` | No |
 | `atolla.xyz` | No |
+| `atollcoral.xyz` | No |
 | `atomaka.com` | No |
 | `atomatheoria.com` | No |
 | `atomic-zombie-squirrel.tech` | No |
@@ -3779,6 +3780,7 @@ Here's a list of public Fediverse services.
 | `azisserver.me` | Yes |
 | `azkware.net` | No |
 | `azlux.fr` | No |
+| `aznas.eu.org` | No |
 | `azorius.net` | No |
 | `azuki-zenzai.net` | No |
 | `azuki.cf` | Yes |
@@ -5255,6 +5257,7 @@ Here's a list of public Fediverse services.
 | `blind.lol` | No |
 | `blindcopywriter.com` | Yes |
 | `blindwith.science` | Yes |
+| `blinkfire.com` | Yes |
 | `blinry.org` | No |
 | `bliothek.social` | No |
 | `blip.cf` | Yes |
@@ -15383,6 +15386,7 @@ Here's a list of public Fediverse services.
 | `franc.quebec` | No |
 | `francecatholique.net` | No |
 | `francefamily.co.uk` | Yes |
+| `francescazambon.it` | No |
 | `francescoceliento.com` | No |
 | `francil.in` | No |
 | `franciscogil.pt.eu.org` | No |
@@ -20530,6 +20534,7 @@ Here's a list of public Fediverse services.
 | `inmotionhosting.com` | Yes |
 | `inn4tel.social` | Yes |
 | `inndy.tw` | Yes |
+| `inne.city` | No |
 | `innernet.link` | Yes |
 | `innernette.social` | Yes |
 | `innerwebs.social` | No |
@@ -27055,6 +27060,7 @@ Here's a list of public Fediverse services.
 | `marlena.app` | Yes |
 | `marmotasocial.com.br` | No |
 | `marnanel.org` | No |
+| `maro.xyz` | No |
 | `maromaro.co.jp` | No |
 | `maron.blue` | No |
 | `marosuke2600.work` | No |
@@ -28192,6 +28198,7 @@ Here's a list of public Fediverse services.
 | `medicaldon.jp` | No |
 | `medien.social` | No |
 | `medienverwaltung.org` | No |
+| `medienzentrenbw.de` | No |
 | `medienzentrum-harburg.de` | No |
 | `medienzentrum.rocks` | No |
 | `medieval.jp` | No |
@@ -51972,6 +51979,7 @@ Here's a list of public Fediverse services.
 | `zukunpht.de` | No |
 | `zulu6.com` | No |
 | `zum-durstigen-dol.ch` | No |
+| `zum-tanzenden-einhorn.de` | No |
 | `zunda.ninja` | No |
 | `zunidominion.com` | No |
 | `zuo.pub` | Yes |
@@ -52046,8 +52054,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,785 |
-| Normal | 37,213 |
+| Cloudflare | 14,786 |
+| Normal | 37,220 |
 
 
 </details>
