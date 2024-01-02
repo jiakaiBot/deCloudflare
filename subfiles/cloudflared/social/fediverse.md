@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,279 |
+| com | 8,280 |
 | social | 4,740 |
 | net | 4,062 |
 | org | 2,714 |
-| de | 2,579 |
+| de | 2,581 |
 
 
 - Mastodon, Pleroma, etc
@@ -1344,6 +1344,7 @@ Here's a list of public Fediverse services.
 | `aeris-one.fr` | No |
 | `aerocity.site` | Yes |
 | `aerospace.town` | No |
+| `aeryn.me` | No |
 | `aes.id.au` | No |
 | `aes.sh` | Yes |
 | `aesops-pawn.shop` | No |
@@ -2299,6 +2300,7 @@ Here's a list of public Fediverse services.
 | `andreaslonn.se` | Yes |
 | `andreasrohner.at` | No |
 | `andreasrohner.dev` | No |
+| `andreasschoedl.de` | No |
 | `andreasvongunten.com` | Yes |
 | `andreer.no` | No |
 | `andrei.website` | Yes |
@@ -3283,6 +3285,7 @@ Here's a list of public Fediverse services.
 | `asterism.xyz` | Yes |
 | `asteroidm.space` | No |
 | `astest.org` | No |
+| `astheri-art.com` | No |
 | `astheriver.art` | No |
 | `astifter.com` | No |
 | `astodon.app` | No |
@@ -14991,6 +14994,7 @@ Here's a list of public Fediverse services.
 | `flowlab5.social` | No |
 | `flownative.social` | No |
 | `flownet.fr` | No |
+| `flowtr.dev` | Yes |
 | `flowxy.fun` | No |
 | `floyd.dk` | No |
 | `floyds.io` | Yes |
@@ -18653,6 +18657,7 @@ Here's a list of public Fediverse services.
 | `hellholesys.gay` | Yes |
 | `hellholesys.tk` | No |
 | `hellhound.cc` | Yes |
+| `hellinger.wtf` | No |
 | `hellions.cloud` | Yes |
 | `hellmage.com` | No |
 | `hello-project.org` | No |
@@ -32337,7 +32342,7 @@ Here's a list of public Fediverse services.
 | `noiz.ie` | No |
 | `noize.guru` | Yes |
 | `noizy.space` | Yes |
-| `noizycat.com` | No |
+| `noizycat.com` | Yes |
 | `nojob.jp` | No |
 | `nojober.work` | No |
 | `nokes.name` | No |
@@ -40325,6 +40330,7 @@ Here's a list of public Fediverse services.
 | `seattlematrix.org` | No |
 | `seawolf.rocks` | No |
 | `sebastian-klemm.eu` | No |
+| `sebastian-neu.de` | No |
 | `sebastian-schlegel.de` | No |
 | `sebastian-tobie.de` | No |
 | `sebastian.zone` | No |
@@ -51325,6 +51331,7 @@ Here's a list of public Fediverse services.
 | `ysr.ie` | Yes |
 | `ystatic.buzz` | Yes |
 | `ystn.win` | Yes |
+| `ystrbag.xyz` | No |
 | `ytgrsua4.net` | No |
 | `ything.xyz` | No |
 | `ythreektech.com` | No |
@@ -52026,8 +52033,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,778 |
-| Normal | 37,200 |
+| Cloudflare | 14,780 |
+| Normal | 37,205 |
 
 
 </details>
