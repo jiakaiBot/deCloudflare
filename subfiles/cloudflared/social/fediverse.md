@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,277 |
+| com | 8,278 |
 | social | 4,740 |
 | net | 4,061 |
 | org | 2,713 |
@@ -2113,7 +2113,7 @@ Here's a list of public Fediverse services.
 | `amefur.asia` | No |
 | `amemiya.work` | No |
 | `amencarini.com` | No |
-| `amenti.eu.org` | No |
+| `amenti.eu.org` | Yes |
 | `ameo.dev` | No |
 | `amererican.com` | Yes |
 | `america.social` | No |
@@ -6276,7 +6276,7 @@ Here's a list of public Fediverse services.
 | `burg.art` | Yes |
 | `burgenland.space` | No |
 | `burger.rodeo` | Yes |
-| `burgetts.net` | No |
+| `burgetts.net` | Yes |
 | `burggit.moe` | No |
 | `burgh.social` | No |
 | `burgstallerfoto.at` | No |
@@ -8897,7 +8897,7 @@ Here's a list of public Fediverse services.
 | `crape.org` | No |
 | `crappyhost.de` | No |
 | `crashed.org` | No |
-| `crashloop.social` | No |
+| `crashloop.social` | Yes |
 | `crashmail.de` | No |
 | `crashrt.work` | Yes |
 | `crashspace.org` | No |
@@ -27752,7 +27752,7 @@ Here's a list of public Fediverse services.
 | `mastsocial.de` | No |
 | `mastsocial.xyz` | No |
 | `mastudon.com` | No |
-| `masturbaclub.com` | Yes |
+| `masturbaclub.com` | No |
 | `masturbadon.com` | No |
 | `masturbated.one` | No |
 | `masturbatordon.info` | Yes |
@@ -29588,6 +29588,7 @@ Here's a list of public Fediverse services.
 | `molaguay.xyz` | No |
 | `moldyspam.com` | No |
 | `molina.jp` | Yes |
+| `molinerosporelmundo.com` | No |
 | `mollejuo.com` | No |
 | `mollielpatterson.com` | Yes |
 | `mollys.social` | No |
@@ -30481,6 +30482,7 @@ Here's a list of public Fediverse services.
 | `music.blog` | No |
 | `music.social` | No |
 | `musicafolk.es` | No |
+| `musicallanera.co` | No |
 | `musicbyyo.com` | Yes |
 | `musicdn.jp` | No |
 | `musicedtechtalk.com` | No |
@@ -52018,7 +52020,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,770 |
+| Cloudflare | 14,772 |
 | Normal | 37,200 |
 
 
