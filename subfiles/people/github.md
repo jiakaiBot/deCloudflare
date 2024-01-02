@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Replace the email and phone number with a contact form.](https://github.com/jaylong255/cyberworld-site/issues/57)
 - [There is something wrong with asyncio.Protocol in OS systems](https://github.com/home-assistant/operating-system/issues/3028)
 - [S3 temporary file upload driver only supports single file uploads. Remove the multiple HTML attribute from your input tag.](https://github.com/spatie/laravel-medialibrary/issues/3493)
 - [Demo does not process uploaded file - No Cloudflare auth token provided](https://github.com/seanoliver/audioflare/issues/8)
