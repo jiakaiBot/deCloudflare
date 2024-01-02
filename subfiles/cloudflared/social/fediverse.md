@@ -18202,6 +18202,7 @@ Here's a list of public Fediverse services.
 | `halfling13.com` | No |
 | `halfmemories.com` | Yes |
 | `halfmoon.jp` | No |
+| `halfon.me` | Yes |
 | `halfpastfour.club` | No |
 | `halfrealm.com` | No |
 | `halfstreet.social` | No |
@@ -52045,7 +52046,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,784 |
+| Cloudflare | 14,785 |
 | Normal | 37,213 |
 
 
