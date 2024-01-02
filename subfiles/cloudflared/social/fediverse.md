@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,276 |
 | social | 4,739 |
 | net | 4,060 |
-| org | 2,712 |
+| org | 2,713 |
 | de | 2,579 |
 
 
@@ -13302,7 +13302,7 @@ Here's a list of public Fediverse services.
 | `estarik.com` | No |
 | `estel-freesia.moe` | No |
 | `esthetic.win` | Yes |
-| `estoespodcast.net` | Yes |
+| `estoespodcast.net` | No |
 | `estradi-niol-of.services` | No |
 | `estrageit.net` | No |
 | `estrisabnor.com` | Yes |
@@ -33688,6 +33688,7 @@ Here's a list of public Fediverse services.
 | `openandcurious.org` | Yes |
 | `openbargel.com` | No |
 | `openbarnum.org` | Yes |
+| `openbdsm.org` | No |
 | `openbiblio.eu` | No |
 | `openbiblio.social` | No |
 | `openbracket.ca` | No |
@@ -52013,8 +52014,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,769 |
-| Normal | 37,196 |
+| Cloudflare | 14,768 |
+| Normal | 37,198 |
 
 
 </details>
