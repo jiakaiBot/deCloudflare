@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,280 |
-| social | 4,740 |
-| net | 4,062 |
+| com | 8,284 |
+| social | 4,741 |
+| net | 4,065 |
 | org | 2,714 |
 | de | 2,581 |
 
@@ -1801,6 +1801,7 @@ Here's a list of public Fediverse services.
 | `algerietelecom.org` | No |
 | `alglab.net` | No |
 | `algonoise.social` | No |
+| `algorave.com` | No |
 | `algore42069.ga` | No |
 | `algorithm.berlin` | No |
 | `algorithmic.tv` | No |
@@ -4334,6 +4335,7 @@ Here's a list of public Fediverse services.
 | `bearpo.st` | Yes |
 | `bears.social` | No |
 | `bears.town` | Yes |
+| `bearstrong.net` | No |
 | `bearswithsa.ws` | No |
 | `bearveloper.dev` | No |
 | `bearvideo.win` | Yes |
@@ -5956,6 +5958,7 @@ Here's a list of public Fediverse services.
 | `breydon.id.au` | No |
 | `brezo.blog` | No |
 | `brfint.com` | No |
+| `brianblank.net` | No |
 | `brianchappell.com` | Yes |
 | `brianhaines.com` | No |
 | `brianjon.es` | No |
@@ -7896,6 +7899,7 @@ Here's a list of public Fediverse services.
 | `clic2000.net` | No |
 | `click.ba.it` | Yes |
 | `clickomania.ch` | No |
+| `clicky.ink` | No |
 | `cliff.social` | Yes |
 | `cliffhouse.app` | Yes |
 | `cliffmccarthy.net` | No |
@@ -8490,6 +8494,7 @@ Here's a list of public Fediverse services.
 | `conesphere.cloud` | No |
 | `conesphere.social` | No |
 | `conf.tube` | No |
+| `confabb.ing` | No |
 | `confederac.io` | No |
 | `conferences-gesticulees.net` | No |
 | `confidential.exposed` | No |
@@ -11183,6 +11188,7 @@ Here's a list of public Fediverse services.
 | `dissociatedpress.net` | No |
 | `dissonanz.xyz` | Yes |
 | `distance.blue` | No |
+| `distanceofhope.com` | No |
 | `distant.homes` | No |
 | `distant.social` | Yes |
 | `distantends.net` | No |
@@ -11192,6 +11198,7 @@ Here's a list of public Fediverse services.
 | `distinctivestatic.me` | No |
 | `distnode.com` | No |
 | `distopico.info` | No |
+| `distorted-monkeys.com` | No |
 | `distortions.net` | No |
 | `distos.org` | No |
 | `distraction.engineer` | Yes |
@@ -21714,6 +21721,7 @@ Here's a list of public Fediverse services.
 | `jimcarroll.com` | Yes |
 | `jimicorp.com` | No |
 | `jimkapsalis.com` | No |
+| `jimkubicek.com` | No |
 | `jimlunsford.com` | No |
 | `jimmitchell.org` | Yes |
 | `jimmitchellmedia.net` | Yes |
@@ -22408,6 +22416,7 @@ Here's a list of public Fediverse services.
 | `kadelam.games` | No |
 | `kadokawadon.jp` | No |
 | `kadono.moe` | No |
+| `kadras.live` | Yes |
 | `kae.lt` | Yes |
 | `kaeablog.pl` | No |
 | `kaede-yumeno.com` | Yes |
@@ -24134,6 +24143,7 @@ Here's a list of public Fediverse services.
 | `kyberpunk.social` | No |
 | `kyd.au` | No |
 | `kyefox.com` | Yes |
+| `kyent.net` | Yes |
 | `kylebronsdon.com` | No |
 | `kylefreed.com` | Yes |
 | `kylehengst.com` | Yes |
@@ -47076,6 +47086,7 @@ Here's a list of public Fediverse services.
 | `tu-bs.de` | No |
 | `tu-dresden.de` | No |
 | `tu.social` | No |
+| `tuan.date` | Yes |
 | `tubage.social` | No |
 | `tubbycats.club` | No |
 | `tube-nachrichten.com` | No |
@@ -48600,6 +48611,7 @@ Here's a list of public Fediverse services.
 | `videogamesarebad.co.uk` | No |
 | `videogamesmen.com` | No |
 | `videohaven.com` | No |
+| `videohosting.social` | Yes |
 | `videolovers.site` | Yes |
 | `videonaute.fr` | No |
 | `videoneat.com` | Yes |
@@ -52033,8 +52045,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,780 |
-| Normal | 37,205 |
+| Cloudflare | 14,784 |
+| Normal | 37,213 |
 
 
 </details>
