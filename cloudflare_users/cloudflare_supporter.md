@@ -449,6 +449,7 @@ Do not create new issue or we will close it as duplicate.
 | [aebob@X](https://twitter.com/aebob/status/1383247993155903496) | advertise |
 | [aechonnoon@X](https://twitter.com/aechonnoon/status/1613566705392820224) | advertise |
 | [aed048@X](https://twitter.com/aed048/status/1423165022642098177) | advertise |
+| [aehta17@X](https://twitter.com/aehta17/status/1742127767934914639) | advertise |
 | [AeidraMoe@X](https://twitter.com/AeidraMoe/status/1392122365429964802) | advertise |
 | [AeiniPouya@X](https://twitter.com/AeiniPouya/status/1546545934896603141) | advertise |
 | [AEinstung@X](https://twitter.com/AEinstung/status/1736058879937810699) | advertise |
@@ -1139,6 +1140,7 @@ Do not create new issue or we will close it as duplicate.
 | [ara77225203@X](https://twitter.com/ara77225203/status/1379100535165345798) | advertise |
 | [ArabicfoodFood@X](https://twitter.com/ArabicfoodFood/status/1587504294537961474) | advertise |
 | [ArabSpongebob@X](https://twitter.com/ArabSpongebob/status/1611703389854875649) | advertise |
+| [ArafatRabbi@X](https://twitter.com/ArafatRabbi/status/1742122740289826895) | advertise |
 | [arakimk@X](https://twitter.com/arakimk/status/1376016585211580424) | advertise |
 | [aranwave@X](https://twitter.com/aranwave/status/1665831406554038272) | advertise |
 | [aras52109480@X](https://twitter.com/aras52109480/status/1709165944906363383) | advertise |
@@ -5074,6 +5076,7 @@ Do not create new issue or we will close it as duplicate.
 | [HmxbLeb@X](https://twitter.com/HmxbLeb/status/1641545756929822721) | advertise |
 | [hn40147@X](https://twitter.com/hn40147/status/1515949214903111682) | advertise |
 | [Hn53502@X](https://twitter.com/Hn53502/status/1500090041405952007) | advertise |
+| [HNamcao28467g@X](https://twitter.com/HNamcao28467g/status/1742139171429364009) | advertise |
 | [hnd_25251325@X](https://twitter.com/hnd_25251325/status/1628937087654436864) | advertise |
 | [Hng04829199@X](https://twitter.com/Hng04829199/status/1638842640069431297) | advertise |
 | [hng8_qun@X](https://twitter.com/hng8_qun/status/1534239549207252992) | advertise |
@@ -6663,6 +6666,7 @@ Do not create new issue or we will close it as duplicate.
 | [kavithakavi44@X](https://twitter.com/kavithakavi44/status/1389279032856875008) | advertise |
 | [KawariTosh58717@X](https://twitter.com/KawariTosh58717/status/1724779950354682326) | advertise |
 | [KawasakiAA842@X](https://twitter.com/KawasakiAA842/status/1606484253587705857) | advertise |
+| [kawdale_l@X](https://twitter.com/kawdale_l/status/1742039908813070387) | advertise |
 | [Kaxxxxxx1@X](https://twitter.com/Kaxxxxxx1/status/1647257783811579904) | advertise |
 | [Kayden653557996@X](https://twitter.com/Kayden653557996/status/1690144672901992448) | advertise |
 | [KaylaSonyeondan@X](https://twitter.com/KaylaSonyeondan/status/1386362271140483072) | advertise |
@@ -7047,6 +7051,7 @@ Do not create new issue or we will close it as duplicate.
 | [klopmp@X](https://twitter.com/klopmp/status/1422969764905816068) | advertise |
 | [KMammd@X](https://twitter.com/KMammd/status/1665957310944931840) | advertise |
 | [kmantecM@X](https://twitter.com/kmantecM/status/1422478263440396292) | advertise |
+| [KMarsikol@X](https://twitter.com/KMarsikol/status/1742114707497164867) | advertise |
 | [KMHt67762096@X](https://twitter.com/KMHt67762096/status/1627645025395048449) | advertise |
 | [kmlbutheph74668@X](https://twitter.com/kmlbutheph74668/status/1735411169186414695) | advertise |
 | [KMobydic@X](https://twitter.com/KMobydic/status/1398362611859673090) | advertise |
@@ -7426,6 +7431,7 @@ Do not create new issue or we will close it as duplicate.
 | [KyawZin47867288@X](https://twitter.com/KyawZin47867288/status/1390966695662026753) | advertise |
 | [KyawZin50438319@X](https://twitter.com/KyawZin50438319/status/1393878986539761665) | advertise |
 | [KyawZin67849057@X](https://twitter.com/KyawZin67849057/status/1392446642373148672) | advertise |
+| [Kyawzin91635349@X](https://twitter.com/Kyawzin91635349/status/1742118893156794852) | advertise |
 | [KyawZin91903867@X](https://twitter.com/KyawZin91903867/status/1394601732865286150) | advertise |
 | [kyaw_saiaung@X](https://twitter.com/kyaw_saiaung/status/1392064059739185153) | advertise |
 | [kyaw_san_oo@X](https://twitter.com/kyaw_san_oo/status/1395654819742846980) | advertise |
