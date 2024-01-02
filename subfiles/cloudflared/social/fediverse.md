@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,277 |
 | social | 4,740 |
-| net | 4,060 |
+| net | 4,061 |
 | org | 2,713 |
 | de | 2,579 |
 
@@ -32810,6 +32810,7 @@ Here's a list of public Fediverse services.
 | `nuklearfiziks.com` | No |
 | `nukora.jp` | Yes |
 | `nukumori-gay.space` | Yes |
+| `nukumori-sky.net` | Yes |
 | `nul.ie` | Yes |
 | `nul.tokyo` | No |
 | `null-base.com` | Yes |
@@ -52017,7 +52018,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,769 |
+| Cloudflare | 14,770 |
 | Normal | 37,200 |
 
 
