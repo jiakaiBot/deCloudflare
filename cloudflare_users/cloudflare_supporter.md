@@ -6121,6 +6121,7 @@ Do not create new issue or we will close it as duplicate.
 | [jdoshdbz@X](https://twitter.com/jdoshdbz/status/1493785041561812995) | advertise |
 | [jdr_drich@X](https://twitter.com/jdr_drich/status/1380677922877448194) | advertise |
 | [JDShadowline@X](https://twitter.com/JDShadowline/status/1534268616476176388) | advertise |
+| [JD_2020@X](https://twitter.com/JD_2020/status/1742224031166709911) | advertise |
 | [JE2DlAAd0UBr2Rw@X](https://twitter.com/JE2DlAAd0UBr2Rw/status/1384138729485324291) | advertise |
 | [Jeary45857239@X](https://twitter.com/Jeary45857239/status/1393838455034195971) | advertise |
 | [jeattoo@X](https://twitter.com/jeattoo/status/1390214402243108864) | advertise |
