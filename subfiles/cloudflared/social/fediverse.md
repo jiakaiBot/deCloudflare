@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,286 |
-| social | 4,742 |
+| com | 8,288 |
+| social | 4,743 |
 | net | 4,065 |
 | org | 2,715 |
 | de | 2,584 |
@@ -7348,6 +7348,7 @@ Here's a list of public Fediverse services.
 | `chebucto.club` | No |
 | `checked.social` | No |
 | `checkinchicken.social` | No |
+| `checksimsoftware.com` | No |
 | `checksum.fail` | Yes |
 | `cheddarcrackers.club` | No |
 | `chedski.net` | No |
@@ -9105,6 +9106,7 @@ Here's a list of public Fediverse services.
 | `cruisers.social` | No |
 | `cruith.net` | Yes |
 | `crumplab.com` | No |
+| `crunchtunes.com` | Yes |
 | `crunchy.social` | Yes |
 | `crunchyroll.com` | Yes |
 | `crunchywatch.uk` | No |
@@ -12817,6 +12819,7 @@ Here's a list of public Fediverse services.
 | `emancipation.fr` | No |
 | `emancipe.es` | No |
 | `emanuelpina.pt` | No |
+| `emanuelschwarz.io` | No |
 | `emastodon.com` | No |
 | `emaw.social` | Yes |
 | `embassy.social` | No |
@@ -34685,6 +34688,7 @@ Here's a list of public Fediverse services.
 | `pash.moe` | No |
 | `pashan.social` | No |
 | `pasithee.fr` | No |
+| `paskaruk.tech` | No |
 | `paskell.social` | No |
 | `pasokey.net` | Yes |
 | `pass-vault.ru` | No |
@@ -50223,6 +50227,7 @@ Here's a list of public Fediverse services.
 | `woodplate.club` | No |
 | `woodside.nz` | No |
 | `woodward.tech` | No |
+| `woodweb.social` | No |
 | `woodwideweb.social` | No |
 | `woodworking.group` | No |
 | `woodynet.net` | No |
@@ -52062,8 +52067,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,787 |
-| Normal | 37,227 |
+| Cloudflare | 14,788 |
+| Normal | 37,231 |
 
 
 </details>
