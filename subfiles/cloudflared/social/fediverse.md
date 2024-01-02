@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,285 |
-| social | 4,741 |
+| com | 8,286 |
+| social | 4,742 |
 | net | 4,065 |
 | org | 2,715 |
-| de | 2,583 |
+| de | 2,584 |
 
 
 - Mastodon, Pleroma, etc
@@ -3023,6 +3023,7 @@ Here's a list of public Fediverse services.
 | `arretsurinfo.com` | No |
 | `arrifana.org` | Yes |
 | `arroba.pt` | No |
+| `arroserlesnenuphars.ch` | No |
 | `arroutaflix.com` | No |
 | `arrrgh.online` | No |
 | `arsaga.jp` | No |
@@ -4162,6 +4163,7 @@ Here's a list of public Fediverse services.
 | `bartchampagne.be` | No |
 | `bartdorsey.com` | Yes |
 | `bartels.social` | No |
+| `bartificer.ie` | No |
 | `bartkk.xyz` | No |
 | `bartmathijssen.com` | Yes |
 | `bartoszmilewski.com` | No |
@@ -10133,6 +10135,7 @@ Here's a list of public Fediverse services.
 | `davidpea.ch` | No |
 | `davidpeach.co.uk` | Yes |
 | `davidpeach.me` | No |
+| `davidpeach.social` | No |
 | `davidriederer.com` | No |
 | `davidroessli.com` | Yes |
 | `davidrudolf.nl` | No |
@@ -19653,6 +19656,7 @@ Here's a list of public Fediverse services.
 | `humble.cafe` | Yes |
 | `humblemagica.org` | Yes |
 | `humblr.social` | No |
+| `humepage.at` | No |
 | `hummertje.nl` | No |
 | `humoralpathologie.de` | No |
 | `humoro.us` | No |
@@ -25057,6 +25061,7 @@ Here's a list of public Fediverse services.
 | `letsdecentralize.org` | No |
 | `letsrulethe.world` | No |
 | `letterbmedia.com` | No |
+| `lettermo.com` | Yes |
 | `letters.ovh` | No |
 | `lettersblogatory.com` | Yes |
 | `lettersremain.com` | Yes |
@@ -25521,6 +25526,7 @@ Here's a list of public Fediverse services.
 | `lisathomasius.de` | No |
 | `lisboa.social` | Yes |
 | `liseklucek.pl` | Yes |
+| `lislegaard.stream` | No |
 | `lisp.buzz` | No |
 | `lissocial.com` | Yes |
 | `listbuglar.com` | No |
@@ -32081,6 +32087,7 @@ Here's a list of public Fediverse services.
 | `ninjaunicorn.win` | Yes |
 | `ninjawedding.org` | No |
 | `ninopeters.de` | No |
+| `nintendo-connect.de` | No |
 | `nintendojo.fr` | No |
 | `nintendult.xyz` | No |
 | `ninth-sekai.monster` | No |
@@ -41937,6 +41944,7 @@ Here's a list of public Fediverse services.
 | `snowcrash.ovh` | No |
 | `snowday-hls.tk` | Yes |
 | `snowdin.town` | No |
+| `snowdiver.info` | No |
 | `snowdon.jp` | No |
 | `snowdon.social` | No |
 | `snowdrop.cloud` | Yes |
@@ -52054,8 +52062,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,786 |
-| Normal | 37,220 |
+| Cloudflare | 14,787 |
+| Normal | 37,227 |
 
 
 </details>
