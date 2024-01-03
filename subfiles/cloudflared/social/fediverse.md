@@ -5748,7 +5748,7 @@ Here's a list of public Fediverse services.
 | `bots-in.space` | No |
 | `bots.uy` | Yes |
 | `botsandbees.space` | No |
-| `botsin.space` | No |
+| `botsin.space` | Yes |
 | `botsonthego.xyz` | No |
 | `botspopuli.social` | No |
 | `botta.social` | Yes |
@@ -34104,7 +34104,6 @@ Here's a list of public Fediverse services.
 | `ostolc.org` | No |
 | `ostrovok.de` | No |
 | `osu.io` | Yes |
-| `osu.si` | No |
 | `osumiakari.jp` | Yes |
 | `osureplayviewer.xyz` | No |
 | `osvoj.ru` | No |
@@ -52104,8 +52103,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,808 |
-| Normal | 37,248 |
+| Cloudflare | 14,809 |
+| Normal | 37,246 |
 
 
 </details>
