@@ -29383,6 +29383,7 @@ Here's a list of public Fediverse services.
 | `mkgrcd.xyz` | No |
 | `mkihr-ojisan.com` | Yes |
 | `mkir.ch` | No |
+| `mkizka.dev` | Yes |
 | `mkj.earth` | No |
 | `mkkey.net` | Yes |
 | `mkl.lol` | No |
@@ -42694,7 +42695,7 @@ Here's a list of public Fediverse services.
 | `spooky.social` | No |
 | `spookyg.host` | Yes |
 | `spookygirl.boo` | Yes |
-| `spookykitties.com` | No |
+| `spookykitties.com` | Yes |
 | `spoon-tamago.com` | Yes |
 | `spooner.social` | Yes |
 | `spoongoons.cc` | No |
@@ -52094,8 +52095,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,802 |
-| Normal | 37,244 |
+| Cloudflare | 14,804 |
+| Normal | 37,243 |
 
 
 </details>
