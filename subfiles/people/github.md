@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Support subscription url is protected by Cloudflare](https://github.com/MatsuriDayo/nekoray/issues/1146)
+- [Assholes added a 2ndary gaptcha on top of the first one](https://github.com/moffatman/chan/issues/188)
+- [Error while loading supertoken from serverside functions](https://github.com/superfluid-finance/protocol-monorepo/issues/1768)
 - [Unable to unlock account/login due to bittrex error](https://github.com/rotki/rotki/issues/7220)
 - [Web Server is down](https://github.com/infosimples/node_two_captcha/issues/19)
 - [Error when parsing auto_connect field](https://github.com/poscat0x04/wgcf-teams/issues/9)
