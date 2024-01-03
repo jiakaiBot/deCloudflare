@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,294 |
 | social | 4,743 |
-| net | 4,068 |
+| net | 4,069 |
 | org | 2,716 |
 | de | 2,587 |
 
@@ -20110,7 +20110,7 @@ Here's a list of public Fediverse services.
 | `iim.gay` | No |
 | `ijaron.life` | Yes |
 | `ijn-dd.nl` | No |
-| `ijs01140.cf` | Yes |
+| `ijs01140.cf` | No |
 | `ijs01140.com` | Yes |
 | `ijs01140.dev` | Yes |
 | `ijug.social` | No |
@@ -22815,6 +22815,7 @@ Here's a list of public Fediverse services.
 | `kazu-server.tk` | No |
 | `kazu34.net` | No |
 | `kazu634.com` | Yes |
+| `kazugmx.net` | Yes |
 | `kazuha.kr` | Yes |
 | `kazuki.xyz` | Yes |
 | `kazv.moe` | No |
@@ -25382,6 +25383,7 @@ Here's a list of public Fediverse services.
 | `lilithsaintcrow.com` | Yes |
 | `lilkev.dev` | No |
 | `lilledame.nl` | No |
+| `lillianviolet.dev` | No |
 | `lillimi.com` | No |
 | `lillin.net` | Yes |
 | `liloandstit.ch` | No |
@@ -52098,7 +52100,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,806 |
-| Normal | 37,243 |
+| Normal | 37,245 |
 
 
 </details>
