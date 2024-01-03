@@ -33482,6 +33482,7 @@ Here's a list of public Fediverse services.
 | `olly.xyz` | No |
 | `olma.me` | No |
 | `olomorn.net` | No |
+| `olowe.co` | No |
 | `olpre.me` | No |
 | `olry.cc` | No |
 | `olry.co` | No |
@@ -42445,6 +42446,7 @@ Here's a list of public Fediverse services.
 | `sp3akr.com` | Yes |
 | `sp4ke.com` | No |
 | `sp8key.monster` | Yes |
+| `spaadd.no` | No |
 | `space-pirates.org` | No |
 | `spaceandtim.es` | No |
 | `spacebar.ca` | Yes |
@@ -52075,7 +52077,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,790 |
-| Normal | 37,236 |
+| Normal | 37,238 |
 
 
 </details>
