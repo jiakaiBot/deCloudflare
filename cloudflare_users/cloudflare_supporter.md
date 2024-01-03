@@ -3265,6 +3265,7 @@ Do not create new issue or we will close it as duplicate.
 | [digcinema@X](https://twitter.com/digcinema/status/1402343666174201857) | advertise |
 | [DigeeB@X](https://twitter.com/DigeeB/status/1686366611521839104) | advertise |
 | [DiggajUpadhyay@X](https://twitter.com/DiggajUpadhyay/status/1511942797212889089) | advertise |
+| [DigiMarketIndo@X](https://twitter.com/DigiMarketIndo/status/1742436115611812026) | advertise |
 | [DigiRare_Nft@X](https://twitter.com/DigiRare_Nft/status/1699733844377636986) | advertise |
 | [DigitalBook007@X](https://twitter.com/DigitalBook007/status/1545917215349899271) | advertise |
 | [DigitalMediaTi1@X](https://twitter.com/DigitalMediaTi1/status/1716163022303998136) | advertise |
