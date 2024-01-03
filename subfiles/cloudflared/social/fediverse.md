@@ -14095,6 +14095,7 @@ Here's a list of public Fediverse services.
 | `federated.cf` | No |
 | `federated.city` | No |
 | `federated.club` | Yes |
+| `federated.coffee` | Yes |
 | `federated.community` | Yes |
 | `federated.earth` | No |
 | `federated.fun` | No |
@@ -14197,6 +14198,7 @@ Here's a list of public Fediverse services.
 | `fedibikes.social` | No |
 | `fedibird.com` | Yes |
 | `fedible.social` | Yes |
+| `fediblock.ing` | Yes |
 | `fedibook.com` | No |
 | `fedibook.net` | No |
 | `fedibot.dev` | No |
@@ -27688,7 +27690,7 @@ Here's a list of public Fediverse services.
 | `mastodonsocial.ca` | No |
 | `mastodonsocial.net` | No |
 | `mastodonsocial.nl` | No |
-| `mastodonsocial.ru` | No |
+| `mastodonsocial.ru` | Yes |
 | `mastodonsocial.uk` | No |
 | `mastodonspain.com` | No |
 | `mastodonsport.com` | No |
@@ -52076,8 +52078,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,790 |
-| Normal | 37,238 |
+| Cloudflare | 14,793 |
+| Normal | 37,237 |
 
 
 </details>
