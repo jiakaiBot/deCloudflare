@@ -5346,6 +5346,7 @@ Do not create new issue or we will close it as duplicate.
 | [Htetnaingzaw10@X](https://twitter.com/Htetnaingzaw10/status/1390338084806434821) | advertise |
 | [HtetOoH95195384@X](https://twitter.com/HtetOoH95195384/status/1376733401558872064) | advertise |
 | [HtetOoL75241902@X](https://twitter.com/HtetOoL75241902/status/1404260945975648259) | advertise |
+| [HtetOoMay10@X](https://twitter.com/HtetOoMay10/status/1742372395011490227) | advertise |
 | [htetpai57965851@X](https://twitter.com/htetpai57965851/status/1391788177250082819) | advertise |
 | [HtetSha03650123@X](https://twitter.com/HtetSha03650123/status/1392054017874817026) | advertise |
 | [Htetsha65045716@X](https://twitter.com/Htetsha65045716/status/1391640408430497792) | advertise |
@@ -10192,6 +10193,7 @@ Do not create new issue or we will close it as duplicate.
 | [NodeXite@X](https://twitter.com/NodeXite/status/1560295516268679172) | advertise |
 | [noe28956578@X](https://twitter.com/noe28956578/status/1391961386540945410) | advertise |
 | [Noe67713062@X](https://twitter.com/Noe67713062/status/1391467359727067137) | advertise |
+| [NoelMalack@X](https://twitter.com/NoelMalack/status/1742341910306443387) | advertise |
 | [Noelzarni1@X](https://twitter.com/Noelzarni1/status/1412903181542039554) | moral (advertise) |
 | [Noemimsad@X](https://twitter.com/Noemimsad/status/1542442513365356546) | advertise |
 | [NoeMoe4@X](https://twitter.com/NoeMoe4/status/1389529662775246848) | advertise |
@@ -15528,6 +15530,7 @@ Do not create new issue or we will close it as duplicate.
 | [yeyintl33512480@X](https://twitter.com/yeyintl33512480/status/1389708307900862467) | advertise |
 | [yeyintLin17@X](https://twitter.com/yeyintLin17/status/1390884820004196353) | advertise |
 | [YeYintNayLwin2@X](https://twitter.com/YeYintNayLwin2/status/1389824917063884809) | advertise |
+| [yeyudong19@X](https://twitter.com/yeyudong19/status/1742497549322531308) | advertise |
 | [YeZarHtun3@X](https://twitter.com/YeZarHtun3/status/1389655617095176198) | advertise |
 | [yF5pkAsv3TLr8AC@X](https://twitter.com/yF5pkAsv3TLr8AC/status/1402692804476690435) | advertise |
 | [YfFUjaGBEwSKgwJ@X](https://twitter.com/YfFUjaGBEwSKgwJ/status/1398274069175312386) | advertise |
