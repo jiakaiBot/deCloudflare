@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,292 |
+| com | 8,294 |
 | social | 4,743 |
 | net | 4,068 |
 | org | 2,716 |
@@ -13125,7 +13125,7 @@ Here's a list of public Fediverse services.
 | `epix.icu` | Yes |
 | `epm.br` | No |
 | `epmills.com` | No |
-| `epoch.dk` | No |
+| `epoch.dk` | Yes |
 | `epochal.quest` | Yes |
 | `epon.io` | Yes |
 | `eponaauthor.social` | No |
@@ -21708,6 +21708,7 @@ Here's a list of public Fediverse services.
 | `jgs.me` | Yes |
 | `jh.do` | No |
 | `jh220.de` | Yes |
+| `jhcooke.com` | Yes |
 | `jhewitt.net` | Yes |
 | `jhilgert.de` | No |
 | `jhjacobs.nl` | No |
@@ -32500,6 +32501,7 @@ Here's a list of public Fediverse services.
 | `nops.red` | Yes |
 | `nopsled.club` | No |
 | `nopulse.net` | No |
+| `noquieromierdas.com` | No |
 | `nor.red` | Yes |
 | `nora.social` | No |
 | `noraa.gay` | No |
@@ -52095,7 +52097,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,804 |
+| Cloudflare | 14,806 |
 | Normal | 37,243 |
 
 
