@@ -802,6 +802,7 @@ Do not create new issue or we will close it as duplicate.
 | [AltafKh41893270@X](https://twitter.com/AltafKh41893270/status/1705904476471874016) | advertise |
 | [Altan41272744@X](https://twitter.com/Altan41272744/status/1379740295429038083) | advertise |
 | [AlterJoker@X](https://twitter.com/AlterJoker/status/1395418841815994376) | advertise |
+| [AlthalusDGr8@X](https://twitter.com/AlthalusDGr8/status/1742622866196119985) | advertise |
 | [AltLineage@X](https://twitter.com/AltLineage/status/1556872203584536576) | advertise |
 | [Altonsystem@X](https://twitter.com/Altonsystem/status/1577764244493373466) | advertise |
 | [AltSabeb@X](https://twitter.com/AltSabeb/status/1682270544782327808) | advertise |
@@ -5258,6 +5259,7 @@ Do not create new issue or we will close it as duplicate.
 | [hotelierindo@X](https://twitter.com/hotelierindo/status/1377128938879602688) | advertise |
 | [HotGirlsVideo99@X](https://twitter.com/HotGirlsVideo99/status/1591384776929603584) | advertise |
 | [hotman40929677@X](https://twitter.com/hotman40929677/status/1397865773889163266) | advertise |
+| [houng_rot@X](https://twitter.com/houng_rot/status/1742618770676514989) | advertise |
 | [HoutarouRenji@X](https://twitter.com/HoutarouRenji/status/1725375125082849293) | advertise |
 | [HovecCrew@X](https://twitter.com/HovecCrew/status/1723759075203412280) | advertise |
 | [how498988195935@X](https://twitter.com/how498988195935/status/1690713372168192000) | advertise |
@@ -7776,6 +7778,7 @@ Do not create new issue or we will close it as duplicate.
 | [LinnThuHein1@X](https://twitter.com/LinnThuHein1/status/1394612243485036544) | advertise |
 | [linnyam4@X](https://twitter.com/linnyam4/status/1395362626603950082) | advertise |
 | [LinPadauk@X](https://twitter.com/LinPadauk/status/1385245372918816770) | advertise |
+| [LinSersulp@X](https://twitter.com/LinSersulp/status/1742620164208877935) | advertise |
 | [LinTeAmo@X](https://twitter.com/LinTeAmo/status/1682018638600237057) | advertise |
 | [linthetpaingltp@X](https://twitter.com/linthetpaingltp/status/1390244063987830784) | advertise |
 | [linthitmyowin@X](https://twitter.com/linthitmyowin/status/1395258884621668354) | advertise |
@@ -8455,6 +8458,7 @@ Do not create new issue or we will close it as duplicate.
 | [Maybell78540744@X](https://twitter.com/Maybell78540744/status/1404475992970723330) | advertise |
 | [MayD136@X](https://twitter.com/MayD136/status/1385135460016476170) | advertise |
 | [MayGrac72376996@X](https://twitter.com/MayGrac72376996/status/1387245554296520704) | advertise |
+| [MAYKI_3698@X](https://twitter.com/MAYKI_3698/status/1742615019370545548) | advertise |
 | [MayKoKo39514328@X](https://twitter.com/MayKoKo39514328/status/1393743248477200387) | advertise |
 | [MaykoMayko12@X](https://twitter.com/MaykoMayko12/status/1552067378346860544) | advertise |
 | [MayLay31775340@X](https://twitter.com/MayLay31775340/status/1556722177965432832) | advertise |
@@ -10079,6 +10083,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ni83173Nilesh@X](https://twitter.com/Ni83173Nilesh/status/1681292560868999169) | advertise |
 | [Niaamrs1@X](https://twitter.com/Niaamrs1/status/1505443363838824449) | advertise |
 | [niamatullahosma@X](https://twitter.com/niamatullahosma/status/1636546152974675971) | advertise |
+| [nia_duchess@X](https://twitter.com/nia_duchess/status/1742596829647155585) | advertise |
 | [nichith11@X](https://twitter.com/nichith11/status/1391815897422045185) | advertise |
 | [NicholasBruneau@X](https://twitter.com/NicholasBruneau/status/1464751618642034688) | advertise |
 | [niciosity@X](https://twitter.com/niciosity/status/1629650783527669762) | advertise |
