@@ -2285,6 +2285,7 @@ Do not create new issue or we will close it as duplicate.
 | [busekuru50@X](https://twitter.com/busekuru50/status/1493016091995561988) | advertise |
 | [bushwik@X](https://twitter.com/bushwik/status/1541552065721270272) | advertise |
 | [ButaiKirin@X](https://twitter.com/ButaiKirin/status/1550893239284420609) | advertise |
+| [butcherA7m@X](https://twitter.com/butcherA7m/status/1742507334075629727) | advertise |
 | [ButtenChad@X](https://twitter.com/ButtenChad/status/1579567305033674752) | advertise |
 | [ButtersWorldInc@X](https://twitter.com/ButtersWorldInc/status/1490553710006587393) | advertise |
 | [BVnNh4@X](https://twitter.com/BVnNh4/status/1382221207257354242) | advertise |
@@ -3503,6 +3504,7 @@ Do not create new issue or we will close it as duplicate.
 | [DR_HESSAM@X](https://twitter.com/DR_HESSAM/status/1711547290551279626) | advertise |
 | [dr_pyaephyoezaw@X](https://twitter.com/dr_pyaephyoezaw/status/1391669243930841089) | advertise |
 | [dr_tayel81@X](https://twitter.com/dr_tayel81/status/1386993468287897600) | advertise |
+| [DS737946@X](https://twitter.com/DS737946/status/1742508741898219734) | advertise |
 | [DSaengleung@X](https://twitter.com/DSaengleung/status/1718868736743285012) | advertise |
 | [DsanayaJ@X](https://twitter.com/DsanayaJ/status/1399281807430987779) | advertise |
 | [DSDBL8D02lbRxNc@X](https://twitter.com/DSDBL8D02lbRxNc/status/1399334313959718914) | advertise |
@@ -6798,6 +6800,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhamNguyn2@X](https://twitter.com/KhamNguyn2/status/1565247367829671936) | advertise |
 | [kham_jom@X](https://twitter.com/kham_jom/status/1393166289229680642) | advertise |
 | [Khan47348261@X](https://twitter.com/Khan47348261/status/1392902188859592711) | advertise |
+| [Khan88335814@X](https://twitter.com/Khan88335814/status/1742505904409333959) | advertise |
 | [khan171653570@X](https://twitter.com/khan171653570/status/1700969406489112708) | advertise |
 | [KhanAhm58294068@X](https://twitter.com/KhanAhm58294068/status/1522362671370227713) | advertise |
 | [KHANDAKARMOHIU1@X](https://twitter.com/KHANDAKARMOHIU1/status/1420094099755917313) | advertise |
