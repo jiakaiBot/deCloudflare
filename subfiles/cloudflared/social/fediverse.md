@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,289 |
+| com | 8,292 |
 | social | 4,743 |
-| net | 4,066 |
-| org | 2,715 |
-| de | 2,584 |
+| net | 4,068 |
+| org | 2,716 |
+| de | 2,587 |
 
 
 - Mastodon, Pleroma, etc
@@ -4551,6 +4551,7 @@ Here's a list of public Fediverse services.
 | `bennypowers.dev` | No |
 | `bennytek.net` | Yes |
 | `benoit-alessandroni.fr` | No |
+| `benonis.net` | Yes |
 | `benpettis.ninja` | No |
 | `benpro.fr` | Yes |
 | `benrasich.com` | Yes |
@@ -6333,6 +6334,7 @@ Here's a list of public Fediverse services.
 | `bushu-denno.com` | No |
 | `business.blog` | No |
 | `businessinsider.com` | Yes |
+| `businessof.tech` | Yes |
 | `bussela.de` | No |
 | `busshi.moe` | No |
 | `bussmann.social` | No |
@@ -10105,6 +10107,7 @@ Here's a list of public Fediverse services.
 | `davejansen.com` | Yes |
 | `daveking.app` | No |
 | `davepeck.org` | No |
+| `davesbuch.de` | No |
 | `davesnider.com` | No |
 | `davespriggs.com` | No |
 | `davewinter.blog` | Yes |
@@ -10484,6 +10487,7 @@ Here's a list of public Fediverse services.
 | `delire.party` | No |
 | `deliverabilit.ie` | No |
 | `deliverydoubled.com` | No |
+| `deliwa.me` | Yes |
 | `dellmuth.de` | No |
 | `delmenhorst.org` | No |
 | `delmenhorst.social` | No |
@@ -12963,6 +12967,7 @@ Here's a list of public Fediverse services.
 | `enepippi.com` | No |
 | `energiewende-otzberg.org` | No |
 | `energiewende.social` | No |
+| `energreenaustria.at` | Yes |
 | `energyarxiv.com` | No |
 | `energydon.fi` | No |
 | `energyfintech.io` | No |
@@ -16479,6 +16484,7 @@ Here's a list of public Fediverse services.
 | `gaychina.com` | Yes |
 | `gaycity.lgbt` | No |
 | `gaycookie.dev` | Yes |
+| `gaycum.de` | No |
 | `gaydadon.jp` | No |
 | `gayest.cloud` | Yes |
 | `gayest.dev` | Yes |
@@ -21260,6 +21266,7 @@ Here's a list of public Fediverse services.
 | `jaen-ho.de` | No |
 | `jaenis.ch` | No |
 | `jaesharp.social` | No |
+| `jagibson.org` | No |
 | `jago.uk` | No |
 | `jagow15.org` | Yes |
 | `jagtalon.com` | Yes |
@@ -27130,6 +27137,7 @@ Here's a list of public Fediverse services.
 | `marutani.xyz` | No |
 | `marv1n.de` | No |
 | `marv1n.me` | No |
+| `marvel-news.de` | No |
 | `marvin.saarland` | No |
 | `marvins.site` | No |
 | `marx.gay` | Yes |
@@ -29628,6 +29636,7 @@ Here's a list of public Fediverse services.
 | `molaguay.xyz` | No |
 | `moldyspam.com` | No |
 | `molina.jp` | Yes |
+| `molinasoler.xyz` | No |
 | `molinerosporelmundo.com` | No |
 | `mollejuo.com` | No |
 | `mollielpatterson.com` | Yes |
@@ -30114,6 +30123,7 @@ Here's a list of public Fediverse services.
 | `ms-olive.club` | Yes |
 | `ms.vg` | No |
 | `ms1.me` | No |
+| `msafaksari.net` | Yes |
 | `mschmidt-et.de` | No |
 | `msdnaart.net` | No |
 | `msdon.net` | No |
@@ -30812,6 +30822,7 @@ Here's a list of public Fediverse services.
 | `mysportgallery.com` | No |
 | `mysrvr.org` | No |
 | `myss.li` | No |
+| `mystagingwebsite.com` | No |
 | `mystech.ink` | Yes |
 | `mysteryhouse.studio` | No |
 | `mysterytwins.net` | Yes |
@@ -37531,6 +37542,7 @@ Here's a list of public Fediverse services.
 | `ragt.ag` | No |
 | `ragtag.moe` | Yes |
 | `rah.social` | No |
+| `rahim.li` | Yes |
 | `rahlstedt.biz` | No |
 | `rahlstedt.de` | No |
 | `rahlstedt.social` | No |
@@ -38864,6 +38876,7 @@ Here's a list of public Fediverse services.
 | `roelz.org` | Yes |
 | `roembol.nl` | Yes |
 | `roerch.de` | No |
+| `roess.li` | Yes |
 | `roessner-online.de` | No |
 | `rofilis.org` | No |
 | `rofl.im` | Yes |
@@ -39780,6 +39793,7 @@ Here's a list of public Fediverse services.
 | `saptodon.org` | No |
 | `sapzil.org` | No |
 | `sarabveer.net` | Yes |
+| `sarahjamielewis.com` | No |
 | `sarahlizzy.org` | No |
 | `sarahvhines.com` | No |
 | `saramara.ai` | Yes |
@@ -42986,6 +43000,7 @@ Here's a list of public Fediverse services.
 | `startup-mstdn.com` | No |
 | `startupcafe.xyz` | No |
 | `startuphub.social` | No |
+| `startuproadmap.com` | Yes |
 | `startupstack.tech` | Yes |
 | `startx.de` | No |
 | `starwars.global` | No |
@@ -44937,6 +44952,7 @@ Here's a list of public Fediverse services.
 | `teu.ac.jp` | No |
 | `teufel100.de` | No |
 | `teufelswerk.net` | No |
+| `teufl.co.at` | Yes |
 | `teuto.icu` | Yes |
 | `teutonia-kleinenbroich.de` | No |
 | `teutronic-services.de` | No |
@@ -52078,8 +52094,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,793 |
-| Normal | 37,237 |
+| Cloudflare | 14,802 |
+| Normal | 37,244 |
 
 
 </details>
