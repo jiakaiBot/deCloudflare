@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when parsing auto_connect field](https://github.com/poscat0x04/wgcf-teams/issues/9)
 - [panel login time out](https://github.com/ToxicMushroom/Melijn/issues/224)
 - [error: 3801 bytes of body are still expected when installing](https://github.com/nvm-sh/nvm/issues/3259)
 - [Replace the email and phone number with a contact form.](https://github.com/jaylong255/cyberworld-site/issues/57)
