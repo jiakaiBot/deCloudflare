@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to unlock account/login due to bittrex error](https://github.com/rotki/rotki/issues/7220)
 - [Web Server is down](https://github.com/infosimples/node_two_captcha/issues/19)
 - [Error when parsing auto_connect field](https://github.com/poscat0x04/wgcf-teams/issues/9)
 - [panel login time out](https://github.com/ToxicMushroom/Melijn/issues/224)
