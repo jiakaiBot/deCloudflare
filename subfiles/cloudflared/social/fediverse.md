@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,294 |
+| com | 8,295 |
 | social | 4,743 |
 | net | 4,069 |
-| org | 2,716 |
+| org | 2,717 |
 | de | 2,587 |
 
 
@@ -3558,6 +3558,7 @@ Here's a list of public Fediverse services.
 | `autistic.id` | Yes |
 | `autistic.social` | Yes |
 | `autisticgoblin.ca` | No |
+| `autisticnomad.blog` | No |
 | `autisticnomad.social` | No |
 | `autisticpri.de` | No |
 | `autistics.life` | No |
@@ -8760,6 +8761,7 @@ Here's a list of public Fediverse services.
 | `cosmos.social` | Yes |
 | `cosmoschaos.net` | Yes |
 | `cosnomi.com` | Yes |
+| `cosocaf.com` | Yes |
 | `cosocial.ca` | No |
 | `cosocial.engineering` | No |
 | `cosp.la` | No |
@@ -34769,6 +34771,7 @@ Here's a list of public Fediverse services.
 | `patrick.social` | Yes |
 | `patrick.wtf` | No |
 | `patrickv.be` | Yes |
+| `patternclub.org` | No |
 | `patty-gray.com` | No |
 | `patu.re` | No |
 | `pau.fm` | Yes |
@@ -46092,6 +46095,7 @@ Here's a list of public Fediverse services.
 | `tmprs.net` | No |
 | `tmspk.net` | Yes |
 | `tmux.me` | No |
+| `tnbd.xyz` | Yes |
 | `tnd.lol` | No |
 | `tneal.org` | No |
 | `tnem.dev` | Yes |
@@ -48814,6 +48818,7 @@ Here's a list of public Fediverse services.
 | `visionon.tv` | No |
 | `visionroot.org` | No |
 | `visitempalme.org` | Yes |
+| `visitors.sk` | No |
 | `vislae.town` | No |
 | `visonthe.net` | Yes |
 | `viste.pt` | No |
@@ -52099,8 +52104,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,806 |
-| Normal | 37,245 |
+| Cloudflare | 14,808 |
+| Normal | 37,248 |
 
 
 </details>
