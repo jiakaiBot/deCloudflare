@@ -2526,6 +2526,7 @@ Here's a list of public Fediverse services.
 | `ansico.dk` | No |
 | `ansiktsburk.se` | No |
 | `antabaka.me` | No |
+| `antani.cyou` | No |
 | `antani.pm` | No |
 | `antanst.com` | No |
 | `antarctic.ga` | No |
@@ -5186,7 +5187,7 @@ Here's a list of public Fediverse services.
 | `blahaj.solutions` | No |
 | `blahaj.world` | Yes |
 | `blahaj.zone` | No |
-| `blahajspin.lol` | Yes |
+| `blahajspin.lol` | No |
 | `blahblahblah.wtf` | No |
 | `blaho.info` | No |
 | `blahut.tech` | Yes |
@@ -8085,7 +8086,7 @@ Here's a list of public Fediverse services.
 | `cni-coop.net` | No |
 | `cnmist.xyz` | No |
 | `cnmri.com` | No |
-| `cnn.com` | Yes |
+| `cnn.com` | No |
 | `cnova.de` | No |
 | `cnr.it` | No |
 | `cnsc.social` | No |
@@ -15277,7 +15278,7 @@ Here's a list of public Fediverse services.
 | `fostodon.uk` | No |
 | `fotoclub.ml` | No |
 | `fotofed.nl` | No |
-| `fotolog.club` | Yes |
+| `fotolog.club` | No |
 | `fotosleben.art` | No |
 | `fotoverse.net` | No |
 | `fotz.cc` | No |
@@ -44987,6 +44988,7 @@ Here's a list of public Fediverse services.
 | `thaisocial.in.th` | No |
 | `thaitodon.social` | No |
 | `thaitube.in.th` | No |
+| `thalamostechnology.space` | Yes |
 | `thaler.nz` | No |
 | `thaler.tech` | Yes |
 | `thanatos.at` | No |
@@ -46945,7 +46947,7 @@ Here's a list of public Fediverse services.
 | `trout.garden` | No |
 | `trouth.eu` | No |
 | `troxelhome.page` | Yes |
-| `troykitch.com` | No |
+| `troykitch.com` | Yes |
 | `trpg-link.tk` | No |
 | `trpg-o.xyz` | No |
 | `trpg.cloud` | Yes |
@@ -52067,8 +52069,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,788 |
-| Normal | 37,231 |
+| Cloudflare | 14,787 |
+| Normal | 37,234 |
 
 
 </details>
