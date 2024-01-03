@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,289 |
 | social | 4,743 |
-| net | 4,065 |
+| net | 4,066 |
 | org | 2,715 |
 | de | 2,584 |
 
@@ -496,6 +496,7 @@ Here's a list of public Fediverse services.
 | `3e.gg` | Yes |
 | `3elkmstdn.com` | No |
 | `3ends.info` | No |
+| `3ether.net` | Yes |
 | `3ex.de` | No |
 | `3fu.de` | No |
 | `3fx.ch` | No |
@@ -52073,7 +52074,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,789 |
+| Cloudflare | 14,790 |
 | Normal | 37,236 |
 
 
