@@ -42475,6 +42475,7 @@ Here's a list of public Fediverse services.
 | `sp8key.monster` | Yes |
 | `spaadd.no` | No |
 | `space-pirates.org` | No |
+| `spaceagency.space` | No |
 | `spaceandtim.es` | No |
 | `spacebar.ca` | Yes |
 | `spacebear.ee` | No |
@@ -49717,6 +49718,7 @@ Here's a list of public Fediverse services.
 | `westen.xyz` | No |
 | `westend61.de` | No |
 | `westend61.social` | No |
+| `westergaard.blog` | No |
 | `westergaard.social` | Yes |
 | `westergaard.video` | Yes |
 | `westernconnect.org` | No |
@@ -52109,7 +52111,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,810 |
-| Normal | 37,250 |
+| Normal | 37,252 |
 
 
 </details>
