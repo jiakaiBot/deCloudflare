@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,288 |
+| com | 8,289 |
 | social | 4,743 |
 | net | 4,065 |
 | org | 2,715 |
@@ -28481,7 +28481,7 @@ Here's a list of public Fediverse services.
 | `mercurywork.shop` | Yes |
 | `mercut.io` | No |
 | `merded.zip` | Yes |
-| `meremortalspodcast.shop` | No |
+| `meremortalspodcast.shop` | Yes |
 | `merfolk.social` | No |
 | `mergl.in` | No |
 | `merida.hair` | No |
@@ -42675,6 +42675,7 @@ Here's a list of public Fediverse services.
 | `spooky.social` | No |
 | `spookyg.host` | Yes |
 | `spookygirl.boo` | Yes |
+| `spookykitties.com` | No |
 | `spoon-tamago.com` | Yes |
 | `spooner.social` | Yes |
 | `spoongoons.cc` | No |
@@ -52072,7 +52073,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,788 |
+| Cloudflare | 14,789 |
 | Normal | 37,236 |
 
 
