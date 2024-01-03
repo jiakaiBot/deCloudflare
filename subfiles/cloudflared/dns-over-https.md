@@ -144,7 +144,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | onedns.cc | Yes |
 | openbld.net | No |
 | opendns.com | Yes |
-| ozer.im | No |
 | paesa.es | Yes |
 | pathofgrace.com | No |
 | persiannit.net | Yes |
@@ -193,7 +192,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wang.art | Yes |
 | waringer-atg.de | No |
 | wikimedia-dns.org | No |
-| workfordemo.co.in | Yes |
 | xcom.pro | No |
 | yandex.net | Yes |
 
@@ -202,8 +200,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 89 |
-| Normal | 94 |
+| Cloudflare | 88 |
+| Normal | 93 |
 
 
 ### 48.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
