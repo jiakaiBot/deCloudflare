@@ -1883,6 +1883,7 @@ Here's a list of public Fediverse services.
 | `alliepa.ca` | No |
 | `allies.rocks` | No |
 | `allies.social` | No |
+| `allies.video` | No |
 | `allison.social` | No |
 | `allistodon.xyz` | Yes |
 | `alljoin.me` | No |
@@ -19662,6 +19663,7 @@ Here's a list of public Fediverse services.
 | `humblr.social` | No |
 | `humepage.at` | No |
 | `hummertje.nl` | No |
+| `humopery.space` | No |
 | `humoralpathologie.de` | No |
 | `humoro.us` | No |
 | `humphry.uk` | Yes |
@@ -26660,6 +26662,7 @@ Here's a list of public Fediverse services.
 | `mahalle.li` | No |
 | `mahalo.social` | No |
 | `mahiradon.com` | Yes |
+| `mahiwa.monster` | No |
 | `mahjong.fan` | No |
 | `mahler.earth` | Yes |
 | `mahncke.com.de` | No |
@@ -49422,7 +49425,7 @@ Here's a list of public Fediverse services.
 | `we3.co` | Yes |
 | `weanimatethings.com` | No |
 | `weaponvsac.space` | No |
-| `wearechange.org` | No |
+| `wearechange.org` | Yes |
 | `wearefamily.africa` | No |
 | `wearefloatinginspace.com` | No |
 | `weareharmonys.com` | Yes |
@@ -52069,8 +52072,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,787 |
-| Normal | 37,234 |
+| Cloudflare | 14,788 |
+| Normal | 37,236 |
 
 
 </details>
