@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,295 |
-| social | 4,743 |
+| social | 4,744 |
 | net | 4,069 |
-| org | 2,717 |
-| de | 2,587 |
+| org | 2,718 |
+| de | 2,586 |
 
 
 - Mastodon, Pleroma, etc
@@ -121,6 +121,7 @@ Here's a list of public Fediverse services.
 | `0x.kiwi` | No |
 | `0x.mk` | Yes |
 | `0x0.icu` | No |
+| `0x0.re` | Yes |
 | `0x0.sk` | Yes |
 | `0x0.st` | No |
 | `0x00000000.xyz` | No |
@@ -4850,6 +4851,7 @@ Here's a list of public Fediverse services.
 | `bildung-zukunft-technik.de` | No |
 | `bildung.social` | No |
 | `bildungstaxi.de` | No |
+| `bilecik.edu.tr` | No |
 | `bilge.world` | No |
 | `bilgisocial.club` | No |
 | `bilibili.org` | Yes |
@@ -10545,6 +10547,7 @@ Here's a list of public Fediverse services.
 | `demonic.moe` | No |
 | `demonix.fr` | No |
 | `demonoftheday.eu` | No |
+| `demons.social` | No |
 | `demortes.com` | Yes |
 | `demorz.de` | No |
 | `demos.chat` | No |
@@ -40663,6 +40666,7 @@ Here's a list of public Fediverse services.
 | `serathiuk.dev` | Yes |
 | `serbanescu.dk` | Yes |
 | `serembankia.net` | Yes |
+| `serena.lgbt` | No |
 | `serenity.social` | Yes |
 | `serenityos.social` | No |
 | `serenitytoo.com` | No |
@@ -47595,7 +47599,6 @@ Here's a list of public Fediverse services.
 | `ufoarmy.com` | No |
 | `ufoi.info` | No |
 | `ufoo9k.space` | Yes |
-| `uforeport.de` | No |
 | `ufotofu.cc` | Yes |
 | `ug-mayen.de` | No |
 | `uggs.io` | No |
@@ -47798,6 +47801,7 @@ Here's a list of public Fediverse services.
 | `undfnd.dev` | Yes |
 | `undisruptable.technology` | No |
 | `undo.it` | Yes |
+| `undreaming.org` | No |
 | `undrground.org` | Yes |
 | `une.fi` | Yes |
 | `une33.club` | No |
@@ -50883,6 +50887,7 @@ Here's a list of public Fediverse services.
 | `xn--xxa.computer` | No |
 | `xn--y9a6bah4ck.xn--y9a3aq` | Yes |
 | `xn--y9aaa4b6a6fqad.xn--y9a3aq` | Yes |
+| `xn--y9aaaan6ae5bex1bccgcxbfc3mrbjd.xn--y9a3aq` | No |
 | `xn--y9aafb5k.xn--y9a3aq` | No |
 | `xn--y9aai3au2bc2f.xn--y9a3aq` | Yes |
 | `xn--y9aey5fdz.xn--y9a3aq` | Yes |
@@ -52103,8 +52108,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,809 |
-| Normal | 37,246 |
+| Cloudflare | 14,810 |
+| Normal | 37,250 |
 
 
 </details>
