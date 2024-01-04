@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,306 |
 | social | 4,746 |
-| net | 4,071 |
+| net | 4,072 |
 | org | 2,722 |
 | de | 2,587 |
 
@@ -1727,6 +1727,7 @@ Here's a list of public Fediverse services.
 | `aleph.co` | Yes |
 | `aleph.land` | No |
 | `alephnil.xyz` | No |
+| `alertrix.net` | No |
 | `alerts.social` | No |
 | `alesan.io` | No |
 | `alessio.cc` | Yes |
@@ -30572,6 +30573,7 @@ Here's a list of public Fediverse services.
 | `musictech.space` | No |
 | `musicto.com` | Yes |
 | `musicverse.social` | No |
+| `musicvideoshow.ai` | No |
 | `musicworld.social` | No |
 | `musikkapellebuxheim.de` | No |
 | `musing.studio` | No |
@@ -33070,6 +33072,7 @@ Here's a list of public Fediverse services.
 | `nyhetskartan.se` | No |
 | `nyk.app` | Yes |
 | `nylarea.com` | No |
+| `nym.se` | No |
 | `nymclub.net` | No |
 | `nymwars.org` | No |
 | `nyoho.jp` | No |
@@ -39700,6 +39703,7 @@ Here's a list of public Fediverse services.
 | `samizdat.social` | No |
 | `samizdat.xyz` | Yes |
 | `samizdatpixelpress.net` | Yes |
+| `samjc.me` | No |
 | `sammacbeth.eu` | Yes |
 | `sammeechward.com` | Yes |
 | `sammich.es` | No |
@@ -52149,7 +52153,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,830 |
-| Normal | 37,270 |
+| Normal | 37,274 |
 
 
 </details>
