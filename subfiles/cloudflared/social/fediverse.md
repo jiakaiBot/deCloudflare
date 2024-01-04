@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,297 |
+| com | 8,298 |
 | social | 4,744 |
 | net | 4,070 |
-| org | 2,719 |
+| org | 2,720 |
 | de | 2,586 |
 
 
@@ -1195,7 +1195,7 @@ Here's a list of public Fediverse services.
 | `adamski2003.lol` | Yes |
 | `adamstas.com` | Yes |
 | `adamsworld.blog` | No |
-| `adamtbradley.net` | No |
+| `adamtbradley.net` | Yes |
 | `adamw.social` | No |
 | `adamwolf.org` | No |
 | `adapulawska.org` | Yes |
@@ -36067,6 +36067,7 @@ Here's a list of public Fediverse services.
 | `poincare.one` | No |
 | `point.community` | No |
 | `point.space` | Yes |
+| `pointbob.org` | Yes |
 | `pointflottant.social` | Yes |
 | `pointless.chat` | Yes |
 | `pointless.net` | No |
@@ -37880,6 +37881,7 @@ Here's a list of public Fediverse services.
 | `rbq.pw` | Yes |
 | `rbq.social` | Yes |
 | `rbrdog.xyz` | Yes |
+| `rbrtr.com` | No |
 | `rbs.io` | No |
 | `rbvea.co` | Yes |
 | `rbx.rip` | Yes |
@@ -52116,10 +52118,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,813 |
+| Cloudflare | 14,815 |
 | Normal | 37,255 |
 
 
 </details>
 
-### 28.4% of public Fediverse services are using Cloudflare.
+### 28.5% of public Fediverse services are using Cloudflare.
