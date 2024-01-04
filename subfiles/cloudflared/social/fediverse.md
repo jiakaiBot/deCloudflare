@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,296 |
+| com | 8,297 |
 | social | 4,744 |
 | net | 4,070 |
 | org | 2,718 |
@@ -33417,6 +33417,7 @@ Here's a list of public Fediverse services.
 | `ok310.gq` | No |
 | `oka.no` | No |
 | `okadajp.org` | No |
+| `okakey.com` | Yes |
 | `okaminet.xyz` | No |
 | `okapi.website` | No |
 | `okaprog.com` | No |
@@ -52113,7 +52114,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,810 |
+| Cloudflare | 14,811 |
 | Normal | 37,255 |
 
 
