@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,295 |
+| com | 8,296 |
 | social | 4,744 |
-| net | 4,069 |
+| net | 4,070 |
 | org | 2,718 |
 | de | 2,586 |
 
@@ -14889,6 +14889,7 @@ Here's a list of public Fediverse services.
 | `flamewar.social` | No |
 | `flanigan.engineering` | Yes |
 | `flanintheface.com` | No |
+| `flareon.lol` | Yes |
 | `flark.me` | Yes |
 | `flashfic.stream` | No |
 | `flashist.art` | Yes |
@@ -22538,7 +22539,7 @@ Here's a list of public Fediverse services.
 | `kalaclista.com` | Yes |
 | `kalakukko.social` | Yes |
 | `kalam.digital` | No |
-| `kalamazoo.social` | Yes |
+| `kalamazoo.social` | No |
 | `kalapa.social` | No |
 | `kalasarn.se` | No |
 | `kalckey.com` | Yes |
@@ -29735,6 +29736,7 @@ Here's a list of public Fediverse services.
 | `monocul.us` | Yes |
 | `monocursive.com` | No |
 | `monodes.com` | No |
+| `monofed.com` | Yes |
 | `monogram.org` | Yes |
 | `monolith-rave.xyz` | No |
 | `monolith.social` | No |
@@ -32561,7 +32563,7 @@ Here's a list of public Fediverse services.
 | `norrebro.space` | No |
 | `norrland.xyz` | No |
 | `norse.social` | No |
-| `nortel.cloud` | No |
+| `nortel.cloud` | Yes |
 | `northbaypython.org` | No |
 | `northbound.online` | No |
 | `northeast.one` | No |
@@ -41087,7 +41089,7 @@ Here's a list of public Fediverse services.
 | `shoot1ng-star.site` | No |
 | `shootingonsight.eu` | No |
 | `shootingsport.social` | No |
-| `shootjackdorseyinto.space` | Yes |
+| `shootjackdorseyinto.space` | No |
 | `shootthebreeze.social` | No |
 | `shoptechblog.de` | No |
 | `shorage.de` | No |
@@ -42833,6 +42835,7 @@ Here's a list of public Fediverse services.
 | `srb2.org` | Yes |
 | `srbstodon.rs` | Yes |
 | `srcbeat.com` | No |
+| `srcf.net` | No |
 | `srcfiles.zip` | Yes |
 | `srcr.nl` | No |
 | `srdn.net` | No |
@@ -49668,7 +49671,7 @@ Here's a list of public Fediverse services.
 | `wenxi.link` | Yes |
 | `wenzit.de` | No |
 | `wenzlik.net` | Yes |
-| `wenzlik.social` | Yes |
+| `wenzlik.social` | No |
 | `weow.pw` | No |
 | `wepn.social` | No |
 | `wepoc.cafe` | No |
@@ -52111,7 +52114,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,810 |
-| Normal | 37,252 |
+| Normal | 37,255 |
 
 
 </details>
