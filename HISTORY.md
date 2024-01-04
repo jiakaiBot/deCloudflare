@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-01-04: [DLP dataset issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wp5xx465k5hj)
 - 2024-01-04: [Network Performance Issues in Paris, France](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/84qx9rzd136t)
 - 2023-12-26: [DNS Resolution Issues in LAX](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nmf5gjzzrn9q)
 - 2023-12-22: [Network Performance Issues in Ashburn, VA, US](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kwr2prmcnvht)
