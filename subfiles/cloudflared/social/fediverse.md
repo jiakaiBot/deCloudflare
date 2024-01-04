@@ -2319,6 +2319,7 @@ Here's a list of public Fediverse services.
 | `andreva.cc` | Yes |
 | `andrevillien.fr` | No |
 | `andrew.mn` | No |
+| `andrew.rip` | Yes |
 | `andrew.xyz` | No |
 | `andrewappleton.net` | No |
 | `andrewbaker.uk` | Yes |
@@ -27994,7 +27995,7 @@ Here's a list of public Fediverse services.
 | `mauldasch.de` | No |
 | `maumau.social` | No |
 | `maunder.social` | No |
-| `mauran.dk` | No |
+| `mauran.dk` | Yes |
 | `mauren.social` | No |
 | `maurice-renck.de` | No |
 | `mauricepinzon.com` | Yes |
@@ -45831,7 +45832,7 @@ Here's a list of public Fediverse services.
 | `threadinburgh.scot` | No |
 | `threadintheweb.com` | No |
 | `threads.net` | No |
-| `threads.social` | No |
+| `threads.social` | Yes |
 | `threadtree.xyz` | No |
 | `threadup.space` | No |
 | `threatactor.club` | No |
@@ -52141,8 +52142,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,825 |
-| Normal | 37,268 |
+| Cloudflare | 14,828 |
+| Normal | 37,266 |
 
 
 </details>
