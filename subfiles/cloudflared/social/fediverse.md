@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,298 |
+| com | 8,297 |
 | social | 4,744 |
 | net | 4,070 |
-| org | 2,720 |
+| org | 2,719 |
 | de | 2,586 |
 
 
@@ -36067,7 +36067,6 @@ Here's a list of public Fediverse services.
 | `poincare.one` | No |
 | `point.community` | No |
 | `point.space` | Yes |
-| `pointbob.org` | Yes |
 | `pointflottant.social` | Yes |
 | `pointless.chat` | Yes |
 | `pointless.net` | No |
@@ -37881,7 +37880,6 @@ Here's a list of public Fediverse services.
 | `rbq.pw` | Yes |
 | `rbq.social` | Yes |
 | `rbrdog.xyz` | Yes |
-| `rbrtr.com` | No |
 | `rbs.io` | No |
 | `rbvea.co` | Yes |
 | `rbx.rip` | Yes |
@@ -52118,8 +52116,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,815 |
-| Normal | 37,255 |
+| Cloudflare | 14,814 |
+| Normal | 37,254 |
 
 
 </details>
