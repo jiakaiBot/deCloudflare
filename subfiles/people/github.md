@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [500 Internal Server Error](https://github.com/kasmtech/workspaces-issues/issues/501)
 - [Sorry, you have been blocked](https://github.com/pnbruckner/life360/issues/14)
 - [Support subscription url is protected by Cloudflare](https://github.com/MatsuriDayo/nekoray/issues/1146)
 - [Assholes added a 2ndary gaptcha on top of the first one](https://github.com/moffatman/chan/issues/188)
