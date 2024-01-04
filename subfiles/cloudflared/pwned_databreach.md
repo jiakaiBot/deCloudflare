@@ -261,7 +261,7 @@ Here's a list of breached sites.
 | GameSalad | 1,506,242 | Yes |
 | GameSprite | 6,164,643 | No |
 | GameTuts | 2,064,274 | Yes |
-| GamerzPlanet (Gamerzplanet) | 1,217,166 | Yes |
+| GamerzPlanet (Gamerzplanet) | 1,217,166 | No |
 | Gamigo | 8,243,604 | Yes |
 | GamingMonk | 654,510 | Yes |
 | GateHub | 1,408,078 | Yes |
@@ -352,6 +352,7 @@ Here's a list of breached sites.
 | LeakedReality (Leaked Reality) | 114,907 | Yes |
 | Ledger | 1,075,241 | Yes |
 | Leet | 5,081,689 | No |
+| LegendasTV (Legendas.TV) | 3,869,181 | No |
 | Lifebear | 3,670,561 | Yes |
 | Lifeboat | 7,089,395 | No |
 | LightsHope (Light's Hope) | 30,484 | Yes |
@@ -658,7 +659,7 @@ Here's a list of breached sites.
 | WPT (WPT Amateur Poker League) | 148,366 | No |
 | Wakanim | 6,706,951 | Yes |
 | Wanelo | 23,165,793 | Yes |
-| WarInc (War Inc.) | 1,020,136 | No |
+| WarInc (War Inc.) | 1,020,136 | Yes |
 | Warframe | 819,478 | Yes |
 | Warmane | 1,116,256 | Yes |
 | Wattpad | 268,765,495 | Yes |
@@ -726,8 +727,8 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 412 | 4,451,886,314 |
-| Normal | 293 | 4,648,922,595 |
+| Cloudflare | 412 | 4,451,689,284 |
+| Normal | 294 | 4,652,988,806 |
 
 
 
