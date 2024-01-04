@@ -6852,6 +6852,7 @@ Here's a list of public Fediverse services.
 | `castleton.family` | No |
 | `castling.club` | No |
 | `castodon.jp` | No |
+| `castopod.it` | Yes |
 | `castopod.social` | No |
 | `castoranxieux.ca` | No |
 | `castpub.online` | Yes |
@@ -26520,7 +26521,7 @@ Here's a list of public Fediverse services.
 | `maciej.cloud` | No |
 | `maciej.website` | No |
 | `maciejbielec.com` | No |
-| `maciek.pics` | No |
+| `maciek.pics` | Yes |
 | `mackenba.ch` | No |
 | `macks.uk` | Yes |
 | `macle-cure.com` | No |
@@ -52115,8 +52116,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,811 |
-| Normal | 37,256 |
+| Cloudflare | 14,813 |
+| Normal | 37,255 |
 
 
 </details>
