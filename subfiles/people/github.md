@@ -4,6 +4,11 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [pixelfed.social - doesn't support direct?](https://github.com/technicat/fedicat/issues/520)
+- [pixelfed.social - error posting](https://github.com/technicat/fedicat/issues/518)
+- [Iceberg Glue Concurrent Update can result in missing metadata_location](https://github.com/apache/iceberg/issues/9411)
+- [Disabled until cloudflare bundle module correctly](https://github.com/freezerain/alfred/issues/18)
+- [Disabled until cloudflare bundle module correctly](https://github.com/freezerain/alfred/issues/17)
 - [500 Internal Server Error](https://github.com/kasmtech/workspaces-issues/issues/501)
 - [Sorry, you have been blocked](https://github.com/pnbruckner/life360/issues/14)
 - [Support subscription url is protected by Cloudflare](https://github.com/MatsuriDayo/nekoray/issues/1146)
