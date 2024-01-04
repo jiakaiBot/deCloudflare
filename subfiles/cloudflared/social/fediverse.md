@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,306 |
 | social | 4,746 |
-| net | 4,070 |
-| org | 2,720 |
+| net | 4,071 |
+| org | 2,721 |
 | de | 2,587 |
 
 
@@ -10460,6 +10460,7 @@ Here's a list of public Fediverse services.
 | `dekadensverket.se` | No |
 | `dekain.icu` | No |
 | `dekameta.com` | No |
+| `dekay.org` | No |
 | `dekay.se` | Yes |
 | `dekeyser.au` | Yes |
 | `dekkia.com` | No |
@@ -41974,6 +41975,7 @@ Here's a list of public Fediverse services.
 | `snircle.space` | No |
 | `snkkis.me` | No |
 | `snld.ca` | No |
+| `snmochizuki.net` | Yes |
 | `snmsoc.org` | No |
 | `snoepr.nl` | No |
 | `snokrash.com` | No |
@@ -49929,7 +49931,7 @@ Here's a list of public Fediverse services.
 | `wiggle.website` | No |
 | `wihel.de` | Yes |
 | `wiki-tube.de` | No |
-| `wiki.gd` | No |
+| `wiki.gd` | Yes |
 | `wiki.style` | No |
 | `wikiarchy.org` | Yes |
 | `wikidex.net` | No |
@@ -52142,7 +52144,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,828 |
+| Cloudflare | 14,830 |
 | Normal | 37,266 |
 
 
