@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,746 |
 | net | 4,070 |
 | org | 2,720 |
-| de | 2,586 |
+| de | 2,587 |
 
 
 - Mastodon, Pleroma, etc
@@ -25315,7 +25315,7 @@ Here's a list of public Fediverse services.
 | `libretube.org` | No |
 | `libretube.ru` | No |
 | `libretux.com` | No |
-| `libretweet.com` | No |
+| `libretweet.com` | Yes |
 | `libreyate.org` | No |
 | `librezone.org` | No |
 | `librino.net` | No |
@@ -41138,6 +41138,7 @@ Here's a list of public Fediverse services.
 | `shouldagoneoffroad.com` | No |
 | `shouldhavebeenanastronaut.com` | No |
 | `shouldibuyahorse.com` | No |
+| `shourai.de` | Yes |
 | `shoutbox.blog` | No |
 | `shoutbox.net` | Yes |
 | `shoutingfrommysoapbox.social` | No |
@@ -52140,8 +52141,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,823 |
-| Normal | 37,269 |
+| Cloudflare | 14,825 |
+| Normal | 37,268 |
 
 
 </details>
