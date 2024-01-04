@@ -2130,6 +2130,7 @@ Do not create new issue or we will close it as duplicate.
 | [BonsaFuad@X](https://twitter.com/BonsaFuad/status/1644469362668244992) | advertise |
 | [BoNusT_14@X](https://twitter.com/BoNusT_14/status/1381775064530513923) | advertise |
 | [BoNyan12573044@X](https://twitter.com/BoNyan12573044/status/1389649229908377601) | advertise |
+| [Boof_dev@X](https://twitter.com/Boof_dev/status/1743021967857348935) | advertise |
 | [boogyi420@X](https://twitter.com/boogyi420/status/1638130848691023873) | advertise |
 | [bookingraza@X](https://twitter.com/bookingraza/status/1379835928525467650) | advertise |
 | [BOOMBound@X](https://twitter.com/BOOMBound/status/1424169801451118594) | advertise |
