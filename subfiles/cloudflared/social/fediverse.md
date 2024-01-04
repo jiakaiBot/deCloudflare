@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,297 |
 | social | 4,744 |
 | net | 4,070 |
-| org | 2,718 |
+| org | 2,719 |
 | de | 2,586 |
 
 
@@ -26644,6 +26644,7 @@ Here's a list of public Fediverse services.
 | `magick.tech` | No |
 | `magicka.org` | No |
 | `magickal.club` | No |
+| `magicsignon.org` | No |
 | `magicstone.dev` | No |
 | `magicvampirepirates.com` | No |
 | `magicvoidpointers.com` | No |
@@ -52115,7 +52116,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,811 |
-| Normal | 37,255 |
+| Normal | 37,256 |
 
 
 </details>
