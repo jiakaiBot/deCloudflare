@@ -40,7 +40,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | b-cdn.net | No |
 | b612.me | Yes |
 | bancuh.com | No |
-| bebasid.com | Yes |
 | bit-trail.nl | No |
 | bitdefender.net | Yes |
 | blahdns.com | Yes |
@@ -52,7 +51,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | chenu.ch | No |
 | cira.ca | Yes |
 | circl.lu | No |
-| clanless.ovh | Yes |
 | cloudflare-dns.com | Yes |
 | cynthialabs.net | Yes |
 | data.haus | No |
@@ -200,8 +198,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 88 |
+| Cloudflare | 86 |
 | Normal | 93 |
 
 
-### 48.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48% of DNS-over-HTTPS (DoH) are using Cloudflare.
