@@ -40283,7 +40283,7 @@ Here's a list of public Fediverse services.
 | `screenshake.io` | No |
 | `screentimes.net` | Yes |
 | `screenwriting.space` | No |
-| `screspo.me` | No |
+| `screspo.me` | Yes |
 | `scribble.place` | No |
 | `scribbledbits.net` | No |
 | `scribblejot.com` | Yes |
@@ -46754,6 +46754,7 @@ Here's a list of public Fediverse services.
 | `transgression.cafe` | No |
 | `transhub.social` | No |
 | `transient.garden` | Yes |
+| `transient.me.uk` | No |
 | `transistorcafe.net` | Yes |
 | `transitieweb.nl` | No |
 | `transition-waedenswil.ch` | No |
@@ -49499,6 +49500,7 @@ Here's a list of public Fediverse services.
 | `wearemastodon.com` | No |
 | `weareprolife.net` | No |
 | `weaselshit.com` | No |
+| `weatherbot.xyz` | Yes |
 | `weatherby2378.social` | No |
 | `weatherishappening.network` | No |
 | `weaviate.community` | No |
@@ -52138,7 +52140,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,821 |
+| Cloudflare | 14,823 |
 | Normal | 37,269 |
 
 
