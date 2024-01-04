@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,306 |
 | social | 4,746 |
 | net | 4,071 |
-| org | 2,721 |
+| org | 2,722 |
 | de | 2,587 |
 
 
@@ -5194,6 +5194,7 @@ Here's a list of public Fediverse services.
 | `blahaj.pw` | Yes |
 | `blahaj.social` | Yes |
 | `blahaj.solutions` | No |
+| `blahaj.tech` | No |
 | `blahaj.world` | Yes |
 | `blahaj.zone` | No |
 | `blahajspin.lol` | No |
@@ -9716,6 +9717,7 @@ Here's a list of public Fediverse services.
 | `daemon.asia` | No |
 | `daemon.world` | No |
 | `daemonica.net` | No |
+| `daemonlair.org` | No |
 | `daemonology.social` | No |
 | `daemons.it` | No |
 | `daenarion.com` | Yes |
@@ -39165,6 +39167,7 @@ Here's a list of public Fediverse services.
 | `rse43.com` | Yes |
 | `rselbach.com` | No |
 | `rsi.social` | No |
+| `rsjon.es` | No |
 | `rsl.gg` | No |
 | `rsn.io` | No |
 | `rsngrtn.fyi` | No |
@@ -52146,7 +52149,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,830 |
-| Normal | 37,267 |
+| Normal | 37,270 |
 
 
 </details>
