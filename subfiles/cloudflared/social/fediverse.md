@@ -7997,7 +7997,7 @@ Here's a list of public Fediverse services.
 | `cloudist.cc` | No |
 | `cloudkatze.de` | No |
 | `cloudkeeper.dev` | No |
-| `cloudlabs.ga` | Yes |
+| `cloudlabs.ga` | No |
 | `cloudland.social` | Yes |
 | `cloudless.world` | No |
 | `cloudlet.at` | No |
@@ -24024,6 +24024,7 @@ Here's a list of public Fediverse services.
 | `kuenstlerquadrat.de` | No |
 | `kuester7.com` | No |
 | `kufstein.social` | No |
+| `kugetsu.blog` | No |
 | `kuhen.biz` | No |
 | `kuhla.cloud` | Yes |
 | `kuhnchris.eu` | No |
@@ -27149,7 +27150,7 @@ Here's a list of public Fediverse services.
 | `martyn.berlin` | No |
 | `martz.codes` | No |
 | `marud.fr` | No |
-| `marufeuille.dev` | No |
+| `marufeuille.dev` | Yes |
 | `marunai.net` | Yes |
 | `marupost.jp` | No |
 | `marussy.com` | No |
@@ -52138,7 +52139,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,821 |
-| Normal | 37,268 |
+| Normal | 37,269 |
 
 
 </details>
