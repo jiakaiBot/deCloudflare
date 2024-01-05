@@ -1252,6 +1252,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aryan281684@X](https://twitter.com/Aryan281684/status/1632116552836296709) | advertise |
 | [Aryan10065293@X](https://twitter.com/Aryan10065293/status/1396411254533550082) | advertise |
 | [AryanGu17150373@X](https://twitter.com/AryanGu17150373/status/1482010948793946112) | advertise |
+| [arzu_hasanoff@X](https://twitter.com/arzu_hasanoff/status/1743184601575555204) | advertise |
 | [arzzen@X](https://twitter.com/arzzen/status/1384955314991210496) | advertise |
 | [as2580208@X](https://twitter.com/as2580208/status/1684575765986529281) | advertise |
 | [asa64_@X](https://twitter.com/asa64_/status/1565298492024791043) | advertise |
@@ -9942,6 +9943,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguyncTrDng1@X](https://twitter.com/NguyncTrDng1/status/1641801254224691201) | advertise |
 | [nguynd1_dy@X](https://twitter.com/nguynd1_dy/status/1603785209232920577) | advertise |
 | [NguynDu46905909@X](https://twitter.com/NguynDu46905909/status/1383606541618581513) | advertise |
+| [NguynDu64822200@X](https://twitter.com/NguynDu64822200/status/1743081762828472334) | advertise |
 | [NguynDuyAn95@X](https://twitter.com/NguynDuyAn95/status/1506093092214091777) | advertise |
 | [Nguynhhhh@X](https://twitter.com/Nguynhhhh/status/1552914289308053504) | advertise |
 | [NguynHi29151985@X](https://twitter.com/NguynHi29151985/status/1388034502862069767) | advertise |
@@ -10371,6 +10373,7 @@ Do not create new issue or we will close it as duplicate.
 | [NyiNyi12825254@X](https://twitter.com/NyiNyi12825254/status/1384510020906209289) | advertise |
 | [NyiNyi39340832@X](https://twitter.com/NyiNyi39340832/status/1391208331629404160) | advertise |
 | [NyiNyi64638126@X](https://twitter.com/NyiNyi64638126/status/1389588995898634248) | advertise |
+| [NyiNyi90575232@X](https://twitter.com/NyiNyi90575232/status/1743175979470876926) | advertise |
 | [NyiNyiH42305915@X](https://twitter.com/NyiNyiH42305915/status/1393264732333699077) | advertise |
 | [NyiNyiM13752974@X](https://twitter.com/NyiNyiM13752974/status/1399414103907594240) | advertise |
 | [NyiNyiMyoMyat2@X](https://twitter.com/NyiNyiMyoMyat2/status/1392267263818960898) | advertise |
@@ -11185,6 +11188,7 @@ Do not create new issue or we will close it as duplicate.
 | [Prashan72710850@X](https://twitter.com/Prashan72710850/status/1476895145886818304) | advertise |
 | [Prashantnrao@X](https://twitter.com/Prashantnrao/status/1385898660861448193) | advertise |
 | [Prasoon87362417@X](https://twitter.com/Prasoon87362417/status/1495989264747667460) | advertise |
+| [pratchaya24938@X](https://twitter.com/pratchaya24938/status/1743197952653574170) | advertise |
 | [pratham_mahadik@X](https://twitter.com/pratham_mahadik/status/1404448453678170115) | advertise |
 | [PrathapSingh080@X](https://twitter.com/PrathapSingh080/status/1391728889630642179) | advertise |
 | [pratikcparmar@X](https://twitter.com/pratikcparmar/status/1695006417353429078) | advertise |
@@ -11407,6 +11411,7 @@ Do not create new issue or we will close it as duplicate.
 | [queenie_NMT@X](https://twitter.com/queenie_NMT/status/1401192961791066114) | advertise |
 | [QueenSuu2@X](https://twitter.com/QueenSuu2/status/1394998425016438787) | advertise |
 | [queue2030@X](https://twitter.com/queue2030/status/1523226758082084869) | advertise |
+| [Quin65296898862@X](https://twitter.com/Quin65296898862/status/1743200557349908861) | advertise |
 | [QuinQuin309603@X](https://twitter.com/QuinQuin309603/status/1553122104215683072) | advertise |
 | [quiprr@X](https://twitter.com/quiprr/status/1380345039713300480) | advertise |
 | [quique_rmn@X](https://twitter.com/quique_rmn/status/1671735337130024960) | advertise |
@@ -14709,6 +14714,7 @@ Do not create new issue or we will close it as duplicate.
 | [veelasakbaribon@X](https://twitter.com/veelasakbaribon/status/1579055768543715328) | advertise |
 | [Vegans4Trump@X](https://twitter.com/Vegans4Trump/status/1475146808309526534) | advertise |
 | [Velev_Group@X](https://twitter.com/Velev_Group/status/1724599990889386454) | advertise |
+| [veloxracinguk@X](https://twitter.com/veloxracinguk/status/1733037480364896413) | advertise |
 | [Velvetpage@X](https://twitter.com/Velvetpage/status/1665889166687649794) | advertise |
 | [Vemox1987@X](https://twitter.com/Vemox1987/status/1598415178311372800) | advertise |
 | [venchia1@X](https://twitter.com/venchia1/status/1639520328413249536) | advertise |
