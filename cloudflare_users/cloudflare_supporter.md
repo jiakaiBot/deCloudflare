@@ -4270,6 +4270,7 @@ Do not create new issue or we will close it as duplicate.
 | [gamekokoz@X](https://twitter.com/gamekokoz/status/1732993731689922965) | advertise |
 | [gameonwe@X](https://twitter.com/gameonwe/status/1606358816584515584) | advertise |
 | [GamerBoy1789@X](https://twitter.com/GamerBoy1789/status/1549586329901535234) | advertise |
+| [GamerYTRCB@X](https://twitter.com/GamerYTRCB/status/1743221285323489523) | advertise |
 | [Gameski65226328@X](https://twitter.com/Gameski65226328/status/1394977499864576006) | advertise |
 | [GamesStudio5@X](https://twitter.com/GamesStudio5/status/1629003514331496448) | advertise |
 | [gamesuwan@X](https://twitter.com/gamesuwan/status/1580106222203973634) | advertise |
@@ -6105,6 +6106,7 @@ Do not create new issue or we will close it as duplicate.
 | [JayDongie@X](https://twitter.com/JayDongie/status/1570926639525285889) | advertise |
 | [Jayedmolla31@X](https://twitter.com/Jayedmolla31/status/1548747601562173440) | advertise |
 | [jayismyeveryth1@X](https://twitter.com/jayismyeveryth1/status/1389247638545911810) | advertise |
+| [JayJay233693578@X](https://twitter.com/JayJay233693578/status/1743217669002915930) | advertise |
 | [Jaylovesome@X](https://twitter.com/Jaylovesome/status/1610868812181798913) | advertise |
 | [jaypfalzgraf@X](https://twitter.com/jaypfalzgraf/status/1575950205253320704) | advertise |
 | [jayrbautista932@X](https://twitter.com/jayrbautista932/status/1543621669025382400) | advertise |
