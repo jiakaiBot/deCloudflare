@@ -6428,6 +6428,7 @@ Do not create new issue or we will close it as duplicate.
 | [JulianaXlie@X](https://twitter.com/JulianaXlie/status/1392063889697697799) | advertise |
 | [JulieMmtm12@X](https://twitter.com/JulieMmtm12/status/1383610725751427076) | advertise |
 | [juliostvns@X](https://twitter.com/juliostvns/status/1516407769661952014) | advertise |
+| [juliusboyy1@X](https://twitter.com/juliusboyy1/status/1743373282508730622) | advertise |
 | [Julliannay@X](https://twitter.com/Julliannay/status/1386969993019940867) | advertise |
 | [July38052307@X](https://twitter.com/July38052307/status/1379824840757022720) | advertise |
 | [Julymoe1229@X](https://twitter.com/Julymoe1229/status/1394625195093028870) | advertise |
@@ -12635,6 +12636,7 @@ Do not create new issue or we will close it as duplicate.
 | [sim72350775@X](https://twitter.com/sim72350775/status/1541989719726227456) | advertise |
 | [Sim995014769741@X](https://twitter.com/Sim995014769741/status/1724019667998818559) | advertise |
 | [Simon199910@X](https://twitter.com/Simon199910/status/1391006292823609344) | advertise |
+| [Simon93606036@X](https://twitter.com/Simon93606036/status/1743372687127544144) | advertise |
 | [SimonBelt@X](https://twitter.com/SimonBelt/status/1508542111637028872) | advertise |
 | [simonD3297@X](https://twitter.com/simonD3297/status/1499000078287380486) | advertise |
 | [simonpoortman1@X](https://twitter.com/simonpoortman1/status/1450490875281297408) | advertise |
