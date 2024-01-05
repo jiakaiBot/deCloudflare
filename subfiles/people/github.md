@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Self Deploy Docker Compose broken](https://github.com/Helicone/helicone/issues/1222)
 - [Issues with cloudflare tunnels on windows](https://github.com/LostRuins/koboldcpp/issues/601)
 - [pixelfed.social - doesn't support direct?](https://github.com/technicat/fedicat/issues/520)
 - [pixelfed.social - error posting](https://github.com/technicat/fedicat/issues/518)
