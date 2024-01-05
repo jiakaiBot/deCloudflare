@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,306 |
+| com | 8,309 |
 | social | 4,746 |
 | net | 4,072 |
 | org | 2,722 |
@@ -1107,6 +1107,7 @@ Here's a list of public Fediverse services.
 | `acidrow.com` | Yes |
 | `acilhaberles.net` | No |
 | `acillba-coeur.com` | No |
+| `acillba-lux.com` | No |
 | `acka47.net` | No |
 | `acki.ng` | No |
 | `acl.sh` | No |
@@ -2777,6 +2778,7 @@ Here's a list of public Fediverse services.
 | `apricot.social` | No |
 | `april.org` | No |
 | `aprl.moe` | Yes |
+| `apronbrothers.cooking` | No |
 | `aproxy-testing-stop-flooding-my-debug-log.cf` | No |
 | `aptx-4869.de` | No |
 | `apublic.space` | Yes |
@@ -5271,6 +5273,7 @@ Here's a list of public Fediverse services.
 | `blind.lol` | No |
 | `blindcopywriter.com` | Yes |
 | `blindwith.science` | Yes |
+| `blinkfire.ai` | No |
 | `blinkfire.com` | Yes |
 | `blinry.org` | No |
 | `bliothek.social` | No |
@@ -8105,6 +8108,7 @@ Here's a list of public Fediverse services.
 | `cnr.it` | No |
 | `cnsc.social` | No |
 | `cnschn.com` | Yes |
+| `cnt.es` | No |
 | `cnt.social` | No |
 | `cnuc.nu` | No |
 | `cnvrs.net` | Yes |
@@ -12080,6 +12084,7 @@ Here's a list of public Fediverse services.
 | `duriez.re` | No |
 | `durst.world` | No |
 | `dusanmitrovic.xyz` | No |
+| `dusanstamenkovic.com` | No |
 | `dusepo.co.uk` | No |
 | `dust-net.systems` | Yes |
 | `dustbuster.club` | No |
@@ -15289,6 +15294,7 @@ Here's a list of public Fediverse services.
 | `fossdle.org` | No |
 | `fossfarmers.company` | Yes |
 | `fossforward.com` | Yes |
+| `fossfreelancers.com` | No |
 | `fossgalaxy.com` | No |
 | `fossgang.org` | No |
 | `fosshost.com` | Yes |
@@ -25109,6 +25115,7 @@ Here's a list of public Fediverse services.
 | `leuchtetgruen.de` | No |
 | `leuchtetgruen.me` | No |
 | `leuhta.dev` | No |
+| `leuker.me` | No |
 | `leuno.kr` | Yes |
 | `lev.lc` | Yes |
 | `levallo.is` | No |
@@ -34909,6 +34916,7 @@ Here's a list of public Fediverse services.
 | `pdxubaru.com` | No |
 | `pe6.eu` | No |
 | `pea.sh` | No |
+| `peable.co` | No |
 | `peacefrogs.net` | No |
 | `peaceful.social` | No |
 | `peacememori.es` | No |
@@ -38906,6 +38914,7 @@ Here's a list of public Fediverse services.
 | `rodvand.net` | No |
 | `roe.dev` | Yes |
 | `roeckoe.be` | No |
+| `roedas.at` | No |
 | `roehren.net` | Yes |
 | `roelfrenkema.com` | No |
 | `roelhesp.nl` | Yes |
@@ -52154,7 +52163,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,834 |
-| Normal | 37,271 |
+| Normal | 37,280 |
 
 
 </details>
