@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,310 |
+| com | 8,311 |
 | social | 4,746 |
 | net | 4,072 |
 | org | 2,722 |
-| de | 2,587 |
+| de | 2,588 |
 
 
 - Mastodon, Pleroma, etc
@@ -8436,6 +8436,7 @@ Here's a list of public Fediverse services.
 | `communists.world` | No |
 | `communitarium.org` | No |
 | `community-patriots.social` | Yes |
+| `communityedition.ca` | No |
 | `communitymedia.network` | No |
 | `communitymedia.video` | No |
 | `communitynetwork.us` | No |
@@ -9462,6 +9463,7 @@ Here's a list of public Fediverse services.
 | `cyber.hockey` | No |
 | `cyber.ms` | No |
 | `cyber.social` | No |
+| `cyber77.de` | No |
 | `cyberbunker.tech` | No |
 | `cyberbunny.club` | No |
 | `cybercat.cc` | Yes |
@@ -33687,6 +33689,7 @@ Here's a list of public Fediverse services.
 | `onlyfarms.co` | No |
 | `onlyfeds.cc` | Yes |
 | `onlyferas.dev` | No |
+| `onlyfinland.com` | Yes |
 | `onlyfounders.org` | No |
 | `onlyfoxes.biz` | No |
 | `onlyfranz.com` | No |
@@ -40031,6 +40034,7 @@ Here's a list of public Fediverse services.
 | `scarly.pink` | No |
 | `scarrott.uk` | No |
 | `scarycarries.com` | Yes |
+| `scarydomain.boo` | No |
 | `scattered-lenity.space` | No |
 | `scc.wtf` | Yes |
 | `sccn.club` | Yes |
@@ -47464,6 +47468,7 @@ Here's a list of public Fediverse services.
 | `twolife.be` | No |
 | `twols.cc` | No |
 | `twoot.me` | No |
+| `twoot.site` | No |
 | `twoot.space` | No |
 | `twooter.co.uk` | No |
 | `twooter.me` | No |
@@ -52164,8 +52169,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,836 |
-| Normal | 37,280 |
+| Cloudflare | 14,837 |
+| Normal | 37,284 |
 
 
 </details>
