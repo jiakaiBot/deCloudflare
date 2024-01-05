@@ -7511,6 +7511,7 @@ Here's a list of public Fediverse services.
 | `chirpnest.net` | Yes |
 | `chirpy.zone` | No |
 | `chirr.space` | No |
+| `chitoku.jp` | Yes |
 | `chitos.tk` | No |
 | `chitose.moe` | No |
 | `chitose.org` | No |
@@ -8325,7 +8326,7 @@ Here's a list of public Fediverse services.
 | `collies.dev` | Yes |
 | `collindonnell.com` | No |
 | `collins-corner.cc` | Yes |
-| `collins.pub` | No |
+| `collins.pub` | Yes |
 | `collocall.de` | No |
 | `colloportus.me` | No |
 | `colloquium.social` | No |
@@ -19050,7 +19051,7 @@ Here's a list of public Fediverse services.
 | `hinrichs.cc` | No |
 | `hintenbeimbier.de` | No |
 | `hinter.bayern` | No |
-| `hintersphere.com` | No |
+| `hintersphere.com` | Yes |
 | `hintertomb.net` | Yes |
 | `hintertupf.ing` | No |
 | `hintz.social` | Yes |
@@ -24338,7 +24339,7 @@ Here's a list of public Fediverse services.
 | `laecuaciondigital.social` | No |
 | `laenredadera.org` | No |
 | `laeran.pl` | Yes |
-| `laeran.pl.eu.org` | No |
+| `laeran.pl.eu.org` | Yes |
 | `laernorsk.no` | No |
 | `laevateinn.tk` | No |
 | `lafermenumerique.com` | Yes |
@@ -52152,8 +52153,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,830 |
-| Normal | 37,274 |
+| Cloudflare | 14,834 |
+| Normal | 37,271 |
 
 
 </details>
