@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issues with cloudflare tunnels on windows](https://github.com/LostRuins/koboldcpp/issues/601)
 - [pixelfed.social - doesn't support direct?](https://github.com/technicat/fedicat/issues/520)
 - [pixelfed.social - error posting](https://github.com/technicat/fedicat/issues/518)
 - [Iceberg Glue Concurrent Update can result in missing metadata_location](https://github.com/apache/iceberg/issues/9411)
