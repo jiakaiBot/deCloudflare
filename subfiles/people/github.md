@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Original message preview fails to fetch the message via IMAP](https://github.com/freescout-helpdesk/freescout/issues/3659)
+- [Cannot complete initial sync: "Failed to decode a cipher-text"](https://github.com/AChep/keyguard-app/issues/53)
+- [Issue with "Show Original" Functionality in FreeScout: Error Retrieving Mail Server Messages](https://github.com/freescout-helpdesk/freescout/issues/3658)
 - [Self Deploy Docker Compose broken](https://github.com/Helicone/helicone/issues/1222)
 - [Issues with cloudflare tunnels on windows](https://github.com/LostRuins/koboldcpp/issues/601)
 - [pixelfed.social - doesn't support direct?](https://github.com/technicat/fedicat/issues/520)
