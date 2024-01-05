@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,309 |
+| com | 8,310 |
 | social | 4,746 |
 | net | 4,072 |
 | org | 2,722 |
@@ -19246,6 +19246,7 @@ Here's a list of public Fediverse services.
 | `hoijyun.com` | No |
 | `hokai.lol` | Yes |
 | `hoki.social` | Yes |
+| `hokkaidoskey.com` | Yes |
 | `hokkaidosm.net` | No |
 | `hokuto.social` | No |
 | `hokutodon.co` | No |
@@ -22963,7 +22964,7 @@ Here's a list of public Fediverse services.
 | `kemetic.space` | No |
 | `kemitix.net` | No |
 | `kemo.city` | No |
-| `kemo.no` | No |
+| `kemo.no` | Yes |
 | `kemo.one` | Yes |
 | `kemokemo.org` | Yes |
 | `kemomi.me` | Yes |
@@ -33607,7 +33608,7 @@ Here's a list of public Fediverse services.
 | `on1000mark.club` | No |
 | `on2it.net` | Yes |
 | `on74th.cloud` | No |
-| `ona.la` | No |
+| `ona.la` | Yes |
 | `onair.sbs` | Yes |
 | `onboardthefilm.community` | No |
 | `onchangedevie.com` | No |
@@ -34325,6 +34326,7 @@ Here's a list of public Fediverse services.
 | `overlappingmagisteria.org` | No |
 | `overminddl1.com` | No |
 | `override.social` | Yes |
+| `overthegame.it` | No |
 | `overthinking.club` | No |
 | `overwatch-japan.net` | No |
 | `overwatch.town` | No |
@@ -51458,7 +51460,7 @@ Here's a list of public Fediverse services.
 | `yso.pet` | No |
 | `ysr.ie` | Yes |
 | `ystatic.buzz` | Yes |
-| `ystn.win` | Yes |
+| `ystn.win` | No |
 | `ystrbag.xyz` | No |
 | `ytgrsua4.net` | No |
 | `ything.xyz` | No |
@@ -52162,7 +52164,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,834 |
+| Cloudflare | 14,836 |
 | Normal | 37,280 |
 
 
