@@ -2293,6 +2293,7 @@ Do not create new issue or we will close it as duplicate.
 | [butcherA7m@X](https://twitter.com/butcherA7m/status/1742507334075629727) | advertise |
 | [ButtenChad@X](https://twitter.com/ButtenChad/status/1579567305033674752) | advertise |
 | [ButtersWorldInc@X](https://twitter.com/ButtersWorldInc/status/1490553710006587393) | advertise |
+| [Bu_5leefa1@X](https://twitter.com/Bu_5leefa1/status/1743407424411746676) | advertise |
 | [BVnNh4@X](https://twitter.com/BVnNh4/status/1382221207257354242) | advertise |
 | [BVoO123@X](https://twitter.com/BVoO123/status/1553310624414720002) | advertise |
 | [bwluv22@X](https://twitter.com/bwluv22/status/1673959755134676992) | advertise |
@@ -10211,6 +10212,7 @@ Do not create new issue or we will close it as duplicate.
 | [NoahLiptrap@X](https://twitter.com/NoahLiptrap/status/1508131762177654784) | advertise |
 | [noahwang__@X](https://twitter.com/noahwang__/status/1664274794077106180) | advertise |
 | [noah_pluto@X](https://twitter.com/noah_pluto/status/1541186919258025984) | advertise |
+| [noangry2022@X](https://twitter.com/noangry2022/status/1743395984799879632) | advertise |
 | [NoBanId2@X](https://twitter.com/NoBanId2/status/1395574170683985928) | advertise |
 | [Nobel_Chow@X](https://twitter.com/Nobel_Chow/status/1439072225466847241) | advertise |
 | [nobinafurio2k@X](https://twitter.com/nobinafurio2k/status/1396555230838415361) | advertise |
