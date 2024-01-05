@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,746 |
 | net | 4,073 |
 | org | 2,722 |
-| de | 2,588 |
+| de | 2,589 |
 
 
 - Mastodon, Pleroma, etc
@@ -27451,6 +27451,7 @@ Here's a list of public Fediverse services.
 | `mastodon.asia` | No |
 | `mastodon.at` | No |
 | `mastodon.au` | Yes |
+| `mastodon.ax` | Yes |
 | `mastodon.barcelona` | No |
 | `mastodon.bayern` | Yes |
 | `mastodon.be` | Yes |
@@ -40863,6 +40864,7 @@ Here's a list of public Fediverse services.
 | `sh4re.net` | Yes |
 | `sha.pe.kr` | No |
 | `sha1.nl` | No |
+| `shaarad.me` | No |
 | `shabegom.com` | No |
 | `shabsters.com` | No |
 | `shabsters.social` | No |
@@ -49763,6 +49765,7 @@ Here's a list of public Fediverse services.
 | `werworld.social` | No |
 | `wes.dev` | Yes |
 | `weserbergland.social` | No |
+| `weserleinebergland.de` | No |
 | `weshargrove.com` | No |
 | `wesk.tech` | No |
 | `wesl.ee` | No |
@@ -52170,8 +52173,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,838 |
-| Normal | 37,284 |
+| Cloudflare | 14,839 |
+| Normal | 37,286 |
 
 
 </details>
