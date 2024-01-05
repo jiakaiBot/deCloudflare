@@ -279,6 +279,7 @@ Do not create new issue or we will close it as duplicate.
 | [abc2112pd@X](https://twitter.com/abc2112pd/status/1502652616492593154) | advertise |
 | [abc12361044955@X](https://twitter.com/abc12361044955/status/1551601353218490370) | advertise |
 | [Abcd83467881@X](https://twitter.com/Abcd83467881/status/1552000942668926977) | advertise |
+| [Abcd85058610@X](https://twitter.com/Abcd85058610/status/1743299412661846371) | advertise |
 | [abcdabc87808732@X](https://twitter.com/abcdabc87808732/status/1552520498663211008) | advertise |
 | [ABCDBABY5@X](https://twitter.com/ABCDBABY5/status/1392538554518188032) | advertise |
 | [Abcdjogja@X](https://twitter.com/Abcdjogja/status/1552016336963768321) | advertise |
@@ -3028,6 +3029,7 @@ Do not create new issue or we will close it as duplicate.
 | [darkstar_rebel@X](https://twitter.com/darkstar_rebel/status/1541976858836799495) | advertise |
 | [Darling967@X](https://twitter.com/Darling967/status/1553092055244517376) | advertise |
 | [darlingluvu4ss@X](https://twitter.com/darlingluvu4ss/status/1552703322762936322) | advertise |
+| [DarlingNon39930@X](https://twitter.com/DarlingNon39930/status/1743309273965490441) | advertise |
 | [Darlingthaw@X](https://twitter.com/Darlingthaw/status/1400112566580310016) | advertise |
 | [darlslow@X](https://twitter.com/darlslow/status/1387923986911154179) | advertise |
 | [darmametta@X](https://twitter.com/darmametta/status/1388727313919922179) | advertise |
@@ -11342,6 +11344,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pyrumar@X](https://twitter.com/Pyrumar/status/1450943115171442688) | advertise |
 | [PySoeThu3@X](https://twitter.com/PySoeThu3/status/1611699213334872064) | advertise |
 | [PyTeaDis@X](https://twitter.com/PyTeaDis/status/1403714156851646466) | advertise |
+| [Pzss__@X](https://twitter.com/Pzss__/status/1743290330722759130) | advertise |
 | [p_bhands@X](https://twitter.com/p_bhands/status/1439221468508925954) | advertise |
 | [p__d_t@X](https://twitter.com/p__d_t/status/1538131850966683648) | advertise |
 | [P___NOO@X](https://twitter.com/P___NOO/status/1389947952836218884) | advertise |
@@ -13931,6 +13934,7 @@ Do not create new issue or we will close it as duplicate.
 | [TianXiaDiYi8888@X](https://twitter.com/TianXiaDiYi8888/status/1532010863649263616) | advertise |
 | [TiBi_Tzuyu@X](https://twitter.com/TiBi_Tzuyu/status/1401756577011408900) | advertise |
 | [tidatidaeiei@X](https://twitter.com/tidatidaeiei/status/1552580057591214080) | advertise |
+| [tieanngame29651@X](https://twitter.com/tieanngame29651/status/1743304742435164658) | advertise |
 | [TielureepiraTOR@X](https://twitter.com/TielureepiraTOR/status/1723117881120944614) | advertise |
 | [tienbisbis@X](https://twitter.com/tienbisbis/status/1403337680759394311) | advertise |
 | [Tienconycony@X](https://twitter.com/Tienconycony/status/1741056443263107383) | advertise |
@@ -15854,6 +15858,7 @@ Do not create new issue or we will close it as duplicate.
 | [zibu1110@X](https://twitter.com/zibu1110/status/1596201006899302401) | advertise |
 | [zidanalgifari7@X](https://twitter.com/zidanalgifari7/status/1592878227655360513) | advertise |
 | [Zideen7@X](https://twitter.com/Zideen7/status/1397625975207170049) | advertise |
+| [zidkfnnddj9311@X](https://twitter.com/zidkfnnddj9311/status/1743313659349385254) | advertise |
 | [zierhut_alex@X](https://twitter.com/zierhut_alex/status/1439574775727333379) | advertise |
 | [zikintong@X](https://twitter.com/zikintong/status/1399674422471000065) | advertise |
 | [zikizac@X](https://twitter.com/zikizac/status/1551618644895055872) | advertise |
