@@ -3115,6 +3115,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dazai_yebo@X](https://twitter.com/Dazai_yebo/status/1404095489629380611) | advertise |
 | [daziellewis@X](https://twitter.com/daziellewis/status/1610598828163629056) | advertise |
 | [da_na61245@X](https://twitter.com/da_na61245/status/1725226153873719492) | advertise |
+| [da_xex@X](https://twitter.com/da_xex/status/1743281243779932602) | advertise |
 | [db739dc8697c4fd@X](https://twitter.com/db739dc8697c4fd/status/1376869447944695812) | advertise |
 | [dc6761@X](https://twitter.com/dc6761/status/1585589406064427008) | advertise |
 | [DCDBBB@X](https://twitter.com/DCDBBB/status/1740966774789800130) | advertise |
@@ -6204,6 +6205,7 @@ Do not create new issue or we will close it as duplicate.
 | [jiaozhudezhuzhu@X](https://twitter.com/jiaozhudezhuzhu/status/1690024620056010752) | advertise |
 | [Jibin1291@X](https://twitter.com/Jibin1291/status/1486566580121079809) | advertise |
 | [jibutare@X](https://twitter.com/jibutare/status/1491201904231477248) | advertise |
+| [jib_hm@X](https://twitter.com/jib_hm/status/1743287437970043166) | advertise |
 | [jignesh19961020@X](https://twitter.com/jignesh19961020/status/1697818033761444188) | advertise |
 | [jiiahani@X](https://twitter.com/jiiahani/status/1399603047244853249) | advertise |
 | [JiiSaaduddin@X](https://twitter.com/JiiSaaduddin/status/1429958660575293466) | advertise |
@@ -6471,6 +6473,7 @@ Do not create new issue or we will close it as duplicate.
 | [justin_t_wesley@X](https://twitter.com/justin_t_wesley/status/1451976168446517259) | advertise |
 | [justonlyu01@X](https://twitter.com/justonlyu01/status/1551573685181763585) | advertise |
 | [JustTimothyjNYC@X](https://twitter.com/JustTimothyjNYC/status/1690367895551852544) | advertise |
+| [justtuan00@X](https://twitter.com/justtuan00/status/1743273186027045141) | advertise |
 | [Justwrightdecor@X](https://twitter.com/Justwrightdecor/status/1564945882562396165) | advertise |
 | [just_twtuser@X](https://twitter.com/just_twtuser/status/1396088764192092160) | advertise |
 | [juuuuuuly@X](https://twitter.com/juuuuuuly/status/1646514775378231297) | advertise |
@@ -11299,6 +11302,7 @@ Do not create new issue or we will close it as duplicate.
 | [pusi_sywm@X](https://twitter.com/pusi_sywm/status/1391396929540591616) | advertise |
 | [PustiuXP@X](https://twitter.com/PustiuXP/status/1384074566591401986) | advertise |
 | [putrabunian7710@X](https://twitter.com/putrabunian7710/status/1686633051328286720) | advertise |
+| [putthama1982@X](https://twitter.com/putthama1982/status/1743264456455729379) | advertise |
 | [putuphyo@X](https://twitter.com/putuphyo/status/1397100452815282177) | advertise |
 | [PuuLee96@X](https://twitter.com/PuuLee96/status/1682074151752966146) | advertise |
 | [puzzogambino@X](https://twitter.com/puzzogambino/status/1632920793419223040) | advertise |
@@ -12850,6 +12854,7 @@ Do not create new issue or we will close it as duplicate.
 | [SonDaughter11@X](https://twitter.com/SonDaughter11/status/1547396683482681344) | advertise |
 | [soneric790@X](https://twitter.com/soneric790/status/1497576082538651652) | advertise |
 | [song940@X](https://twitter.com/song940/status/1544220984789864448) | advertise |
+| [Songjon31@X](https://twitter.com/Songjon31/status/1743275973452423493) | advertise |
 | [SongNayDewblood@X](https://twitter.com/SongNayDewblood/status/1391919957127012352) | advertise |
 | [songngu48152869@X](https://twitter.com/songngu48152869/status/1400067819945877504) | advertise |
 | [song_turbo@X](https://twitter.com/song_turbo/status/1382613517195300865) | advertise |
