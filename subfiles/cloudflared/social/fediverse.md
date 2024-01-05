@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,311 |
 | social | 4,746 |
-| net | 4,072 |
+| net | 4,073 |
 | org | 2,722 |
 | de | 2,588 |
 
@@ -9395,6 +9395,7 @@ Here's a list of public Fediverse services.
 | `cutebook.club` | Yes |
 | `cutebox.cc` | Yes |
 | `cutefox.gay` | No |
+| `cutefunny.net` | Yes |
 | `cutegay.software` | No |
 | `cutelab.space` | Yes |
 | `cutepolicehq.com` | No |
@@ -52169,7 +52170,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,837 |
+| Cloudflare | 14,838 |
 | Normal | 37,284 |
 
 
