@@ -15292,6 +15292,7 @@ Do not create new issue or we will close it as duplicate.
 | [xalxo_sumi22035@X](https://twitter.com/xalxo_sumi22035/status/1710704739967697016) | advertise |
 | [xanadu000000@X](https://twitter.com/xanadu000000/status/1405386980943273984) | advertise |
 | [XanhNai@X](https://twitter.com/XanhNai/status/1395198843956862977) | advertise |
+| [xarjaniit@X](https://twitter.com/xarjaniit/status/1743389435121529149) | advertise |
 | [Xathurpro@X](https://twitter.com/Xathurpro/status/1601616801816711168) | advertise |
 | [xat_ratn@X](https://twitter.com/xat_ratn/status/1610970978498269184) | advertise |
 | [XauUc@X](https://twitter.com/XauUc/status/1716860456483368964) | advertise |
