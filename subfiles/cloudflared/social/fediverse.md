@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,312 |
-| social | 4,746 |
+| com | 8,314 |
+| social | 4,747 |
 | net | 4,074 |
 | org | 2,722 |
 | de | 2,589 |
@@ -3871,6 +3871,7 @@ Here's a list of public Fediverse services.
 | `baazee.cc` | No |
 | `baazee.de` | No |
 | `baazee.social` | No |
+| `babaded.tk` | No |
 | `babar1917.com` | No |
 | `babar24.com` | No |
 | `babay.icu` | No |
@@ -5797,6 +5798,7 @@ Here's a list of public Fediverse services.
 | `bouwhuis.net` | No |
 | `bovarys.me` | No |
 | `boverie.eu` | Yes |
+| `bovi.social` | No |
 | `bovid.space` | No |
 | `bovine.social` | No |
 | `bow.st` | No |
@@ -38024,6 +38026,7 @@ Here's a list of public Fediverse services.
 | `rebellion.global` | No |
 | `rebellion.social` | No |
 | `rebelops.io` | No |
+| `rebelpixel.com` | Yes |
 | `rebels.rest` | No |
 | `rebelsocial.media` | No |
 | `rebeltoot.com` | No |
@@ -39851,6 +39854,7 @@ Here's a list of public Fediverse services.
 | `saptodon.org` | No |
 | `sapzil.org` | No |
 | `sarabveer.net` | Yes |
+| `sarahgebauer.com` | No |
 | `sarahjamielewis.com` | No |
 | `sarahlizzy.org` | No |
 | `sarahvhines.com` | No |
@@ -52175,8 +52179,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,839 |
-| Normal | 37,288 |
+| Cloudflare | 14,840 |
+| Normal | 37,291 |
 
 
 </details>
