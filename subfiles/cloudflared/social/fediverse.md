@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,314 |
-| social | 4,747 |
+| com | 8,315 |
+| social | 4,746 |
 | net | 4,074 |
 | org | 2,722 |
-| de | 2,589 |
+| de | 2,590 |
 
 
 - Mastodon, Pleroma, etc
@@ -16229,7 +16229,7 @@ Here's a list of public Fediverse services.
 | `g24h.de` | No |
 | `g2887349.com` | Yes |
 | `g2od.ch` | No |
-| `g307m.com` | Yes |
+| `g307m.com` | No |
 | `g33ks.coffee` | Yes |
 | `g3l.org` | No |
 | `g3ms.io` | No |
@@ -18495,6 +18495,7 @@ Here's a list of public Fediverse services.
 | `haunted.fyi` | No |
 | `hauntedgames.net` | No |
 | `hausi.social` | No |
+| `hausofhomeaux.ca` | No |
 | `haussleiter.de` | No |
 | `havas.jp` | No |
 | `havebroken.it` | Yes |
@@ -20085,6 +20086,7 @@ Here's a list of public Fediverse services.
 | `ifluxcouldkill.net` | No |
 | `ifma-film.de` | No |
 | `ifred.nu` | No |
+| `ifs-d.de` | No |
 | `iftas.org` | Yes |
 | `iftf.social` | No |
 | `ifthekids.xyz` | No |
@@ -40842,6 +40844,7 @@ Here's a list of public Fediverse services.
 | `sfgreens.org` | No |
 | `sfl.pro.br` | No |
 | `sflan.uk` | Yes |
+| `sfnotes.page` | No |
 | `sfsfc.org` | No |
 | `sfss.space` | No |
 | `sfstandard.com` | Yes |
@@ -41912,6 +41915,7 @@ Here's a list of public Fediverse services.
 | `smoothnet.org` | No |
 | `smop.org` | No |
 | `smores.town` | No |
+| `smschumacher.com` | Yes |
 | `smseden.com` | Yes |
 | `smth.tk` | No |
 | `smto.pw` | Yes |
@@ -48214,7 +48218,6 @@ Here's a list of public Fediverse services.
 | `user.today` | Yes |
 | `userdreams.com` | No |
 | `userliberation.network` | No |
-| `userlist.social` | No |
 | `usermd.net` | No |
 | `userserviceable.com` | No |
 | `userzap.de` | No |
@@ -52180,7 +52183,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,840 |
-| Normal | 37,291 |
+| Normal | 37,294 |
 
 
 </details>
