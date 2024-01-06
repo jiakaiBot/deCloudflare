@@ -40,16 +40,19 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | b-cdn.net | No |
 | b612.me | Yes |
 | bancuh.com | No |
+| be2aja.my.id | Yes |
 | bitdefender.net | Yes |
 | blahdns.com | Yes |
 | blokada.org | Yes |
 | brahma.world | Yes |
+| broadband.ink | No |
 | c-dns.com | No |
 | carson-family.com | Yes |
 | cgnat.net | No |
 | chenu.ch | No |
 | cira.ca | Yes |
 | circl.lu | No |
+| cloud88.com.au | Yes |
 | cloudflare-dns.com | Yes |
 | cynthialabs.net | Yes |
 | data.haus | No |
@@ -70,6 +73,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dnsforge.de | No |
 | dnshome.de | No |
 | dnslow.me | No |
+| dnssilo.top | No |
 | doh.best | No |
 | doh.lv | No |
 | doh.sb | Yes |
@@ -94,6 +98,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | iij.jp | Yes |
 | in-berlin.de | No |
 | inria.fr | No |
+| irumatech.com | Yes |
 | itxe.net | Yes |
 | ivnkn.xyz | Yes |
 | jackyes.ovh | No |
@@ -112,6 +117,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lefolgoc.net | No |
 | libredns.gr | No |
 | lindung.pp.ua | Yes |
+| lista.my.id | Yes |
 | lonet.org | Yes |
 | masters-of-cloud.de | No |
 | max.net.id | Yes |
@@ -167,6 +173,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | skrep.eu | No |
 | slinkyman.net | Yes |
 | softcom.net | No |
+| solonodes.net | Yes |
 | spacedns.org | No |
 | spectrum.com | Yes |
 | startupstack.tech | Yes |
@@ -183,7 +190,9 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tls-data.de | No |
 | tu-bs.de | No |
 | twnic.tw | No |
+| umbrella.com | Yes |
 | unstoppable.io | Yes |
+| viatech.com.tw | Yes |
 | virga.pp.ua | Yes |
 | waifu.cz | Yes |
 | wang.art | Yes |
@@ -197,8 +206,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 86 |
-| Normal | 92 |
+| Cloudflare | 93 |
+| Normal | 94 |
 
 
-### 48.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 49.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
