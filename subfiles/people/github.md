@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Catch and handle OpenAI errors (retry, message to user)](https://github.com/ClemensGruber/climart_gptree/issues/6)
 - [Upload issues if Cloudfare is used as Reverse Proxy (100MB limit set by Cloudfare) - Split upload into 100MB Chunks](https://github.com/ShaneIsrael/fireshare/issues/245)
 - [Add full drain log support to be able to use Baselime for full observability into Grafbase](https://github.com/grafbase/grafbase/issues/1202)
 - [Questions regarding automatic size checker](https://github.com/kevquirk/512kb.club/issues/1385)
