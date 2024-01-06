@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Add full drain log support to be able to use Baselime for full observability into Grafbase](https://github.com/grafbase/grafbase/issues/1202)
 - [Questions regarding automatic size checker](https://github.com/kevquirk/512kb.club/issues/1385)
 - [Can't set identity server](https://github.com/element-hq/element-web/issues/26833)
 - [Original message preview fails to fetch the message via IMAP](https://github.com/freescout-helpdesk/freescout/issues/3659)
