@@ -6997,6 +6997,7 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@X](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@X](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@X](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
+| [kinbi13@X](https://twitter.com/kinbi13/status/1743527070792294545) | advertise |
 | [KincaiRai@X](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@X](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@X](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
