@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,320 |
-| social | 4,747 |
+| social | 4,748 |
 | net | 4,074 |
-| org | 2,723 |
+| org | 2,724 |
 | de | 2,591 |
 
 
@@ -2312,6 +2312,7 @@ Here's a list of public Fediverse services.
 | `andreasvongunten.com` | Yes |
 | `andreer.no` | No |
 | `andrei.website` | Yes |
+| `andrelop.org` | No |
 | `andrepitz.de` | No |
 | `andrereichel.de` | No |
 | `andres.cat` | Yes |
@@ -6076,6 +6077,7 @@ Here's a list of public Fediverse services.
 | `bronyfurry.com` | Yes |
 | `bronzedrose.com` | Yes |
 | `brookshelley.com` | Yes |
+| `bropartment.social` | Yes |
 | `broski.me` | Yes |
 | `brot.social` | No |
 | `broterrium.com` | No |
@@ -14017,6 +14019,7 @@ Here's a list of public Fediverse services.
 | `fatelectron.net` | No |
 | `fathermaurer.com` | Yes |
 | `fatkin.me` | No |
+| `fatlads.lol` | No |
 | `fatpig.club` | No |
 | `fatpikachu.com` | No |
 | `fatsofa.eu` | No |
@@ -18435,6 +18438,7 @@ Here's a list of public Fediverse services.
 | `harukakanata.net` | No |
 | `harukizaemon.com` | Yes |
 | `harumakizaemon.net` | Yes |
+| `harunon.work` | Yes |
 | `harusamex.com` | No |
 | `harusino.com` | No |
 | `haruska.com` | Yes |
@@ -52199,8 +52203,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,845 |
-| Normal | 37,306 |
+| Cloudflare | 14,847 |
+| Normal | 37,308 |
 
 
 </details>
