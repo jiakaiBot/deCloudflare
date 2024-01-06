@@ -23131,6 +23131,7 @@ Here's a list of public Fediverse services.
 | `keyedlimepie.org` | No |
 | `keyhub.id` | No |
 | `keyoxide.org` | No |
+| `keysmash.xn--q9jyb4c` | Yes |
 | `keysmash.xyz` | No |
 | `keystroke.social` | No |
 | `kezal.fr` | No |
@@ -42965,6 +42966,7 @@ Here's a list of public Fediverse services.
 | `ssvane.dk` | Yes |
 | `ssvo.de` | No |
 | `ssweeny.net` | No |
+| `sszczyrb.dev` | No |
 | `sszk.sk` | No |
 | `st.lk` | No |
 | `stablegeniusliberal.com` | No |
@@ -43516,6 +43518,7 @@ Here's a list of public Fediverse services.
 | `student-factory.de` | No |
 | `studentchristianmovement.social` | No |
 | `studentmain.com` | No |
+| `studio.link` | No |
 | `studio10b.nyc` | Yes |
 | `studio8502.ca` | No |
 | `studio92.nl` | No |
@@ -52206,8 +52209,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,850 |
-| Normal | 37,308 |
+| Cloudflare | 14,851 |
+| Normal | 37,310 |
 
 
 </details>
