@@ -56,7 +56,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | bancuh.com | No |
 | bartoszturek.online | No |
 | be2aja.my.id | Yes |
-| bigart.su | Yes |
 | bitdefender.net | Yes |
 | blahdns.com | Yes |
 | blaze-sk.ru | No |
@@ -436,8 +435,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 218 |
+| Cloudflare | 217 |
 | Normal | 199 |
 
 
-### 52.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
