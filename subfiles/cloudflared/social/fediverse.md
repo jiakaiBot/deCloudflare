@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,320 |
 | social | 4,748 |
 | net | 4,074 |
-| org | 2,724 |
+| org | 2,725 |
 | de | 2,591 |
 
 
@@ -19538,6 +19538,7 @@ Here's a list of public Fediverse services.
 | `housesmith.dev` | No |
 | `houshindai.net` | Yes |
 | `houston.chat` | No |
+| `houstoneuler.com` | No |
 | `houstonpublicmedia.org` | No |
 | `houtx.social` | No |
 | `hovercat.social` | No |
@@ -23338,7 +23339,6 @@ Here's a list of public Fediverse services.
 | `kiraako.work` | No |
 | `kiracollie.dog` | Yes |
 | `kirakiratter.com` | Yes |
-| `kirameki.cafe` | Yes |
 | `kiran.dog` | Yes |
 | `kirangaikwad.com` | No |
 | `kiranshila.com` | No |
@@ -26520,6 +26520,7 @@ Here's a list of public Fediverse services.
 | `maaw.social` | Yes |
 | `mab.cat` | No |
 | `mabe.space` | No |
+| `mabi.ski` | Yes |
 | `mabidn.net` | No |
 | `mablr.org` | No |
 | `mabope.com` | Yes |
@@ -33471,7 +33472,6 @@ Here's a list of public Fediverse services.
 | `ok310.gq` | No |
 | `oka.no` | No |
 | `okadajp.org` | No |
-| `okakey.com` | Yes |
 | `okaminet.xyz` | No |
 | `okapi.website` | No |
 | `okaprog.com` | No |
@@ -50469,6 +50469,7 @@ Here's a list of public Fediverse services.
 | `wprzemianie.pl` | No |
 | `wps.de` | No |
 | `wpsocial.live` | No |
+| `wpteq.org` | Yes |
 | `wptoots.social` | No |
 | `wpwatercooler.com` | Yes |
 | `wq64.net` | No |
@@ -52206,7 +52207,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,850 |
-| Normal | 37,307 |
+| Normal | 37,308 |
 
 
 </details>
