@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,320 |
 | social | 4,748 |
 | net | 4,074 |
-| org | 2,725 |
+| org | 2,726 |
 | de | 2,591 |
 
 
@@ -43548,6 +43548,7 @@ Here's a list of public Fediverse services.
 | `stuntkidz.org` | Yes |
 | `stuph.org` | No |
 | `stupid.coffee` | No |
+| `stupid.fish` | Yes |
 | `stupid.industries` | No |
 | `stupid.moe` | No |
 | `stupid.team` | No |
@@ -44245,6 +44246,7 @@ Here's a list of public Fediverse services.
 | `tacticalpedia.social` | No |
 | `tacticaltech.org` | No |
 | `tactiletimes.org` | Yes |
+| `tacty.org` | Yes |
 | `tacty.social` | Yes |
 | `tad.me` | Yes |
 | `tadanemuinda.com` | No |
@@ -50910,6 +50912,7 @@ Here's a list of public Fediverse services.
 | `xn--fiqwix98h.jp` | No |
 | `xn--geldwsche24-p8a.eu` | No |
 | `xn--gew.site` | Yes |
+| `xn--gribschi-o4a.ch` | No |
 | `xn--groovebro-w9a.de` | No |
 | `xn--gu1a.moe` | Yes |
 | `xn--h1ahnbk7d.xn--p1ai` | No |
@@ -52209,8 +52212,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,851 |
-| Normal | 37,310 |
+| Cloudflare | 14,853 |
+| Normal | 37,311 |
 
 
 </details>
