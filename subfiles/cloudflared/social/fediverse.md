@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,746 |
 | net | 4,074 |
 | org | 2,722 |
-| de | 2,590 |
+| de | 2,591 |
 
 
 - Mastodon, Pleroma, etc
@@ -10733,6 +10733,7 @@ Here's a list of public Fediverse services.
 | `det.social` | No |
 | `deta.app` | No |
 | `detektor.fm` | Yes |
+| `detgladatjugotalet.se` | No |
 | `detmi.social` | No |
 | `detoffol.com` | No |
 | `detomu.net` | No |
@@ -30107,6 +30108,7 @@ Here's a list of public Fediverse services.
 | `mrandum.de` | No |
 | `mrbatsu.com` | No |
 | `mrbesen.de` | No |
+| `mrbot.de` | No |
 | `mrbug.su` | No |
 | `mrcippy.xyz` | Yes |
 | `mrclon.net` | No |
@@ -49024,6 +49026,7 @@ Here's a list of public Fediverse services.
 | `voidsight.net` | Yes |
 | `voidstern.net` | No |
 | `voidsurf.world` | No |
+| `voidtales.dev` | Yes |
 | `voidtek.com` | Yes |
 | `voidwood.online` | No |
 | `voidwork.space` | No |
@@ -52183,8 +52186,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,837 |
-| Normal | 37,298 |
+| Cloudflare | 14,838 |
+| Normal | 37,300 |
 
 
 </details>
