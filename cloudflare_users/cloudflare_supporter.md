@@ -4396,6 +4396,7 @@ Do not create new issue or we will close it as duplicate.
 | [GiaDat7@X](https://twitter.com/GiaDat7/status/1499011433946030084) | advertise |
 | [GiaHieuGiaCao@X](https://twitter.com/GiaHieuGiaCao/status/1584935550561431553) | advertise |
 | [GiaHuy990@X](https://twitter.com/GiaHuy990/status/1619991894347640832) | advertise |
+| [GiahuyN63966706@X](https://twitter.com/GiahuyN63966706/status/1743642748358402179) | advertise |
 | [GiaMinhD1@X](https://twitter.com/GiaMinhD1/status/1578813469368803328) | advertise |
 | [giang90299930@X](https://twitter.com/giang90299930/status/1384561563617484802) | advertise |
 | [Giang96329651@X](https://twitter.com/Giang96329651/status/1389920131950604290) | advertise |
