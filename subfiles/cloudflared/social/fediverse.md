@@ -3451,6 +3451,7 @@ Here's a list of public Fediverse services.
 | `attlas.tech` | Yes |
 | `atto.town` | Yes |
 | `attoch.org` | Yes |
+| `attoppa.it` | No |
 | `attractive.space` | No |
 | `attronarch.com` | No |
 | `attyc.de` | No |
@@ -40418,7 +40419,7 @@ Here's a list of public Fediverse services.
 | `sealion.club` | No |
 | `seam.rip` | No |
 | `seamast.club` | No |
-| `sean.party` | No |
+| `sean.party` | Yes |
 | `sean.wtf` | Yes |
 | `sean666888.tk` | No |
 | `seanbreslin.jp` | No |
@@ -47798,7 +47799,7 @@ Here's a list of public Fediverse services.
 | `ummah.ps` | Yes |
 | `umontreal.ca` | Yes |
 | `umrath.net` | No |
-| `umu.se` | No |
+| `umu.se` | Yes |
 | `umwelt.party` | No |
 | `umwelt.social` | No |
 | `umycode.com` | Yes |
@@ -52188,8 +52189,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,839 |
-| Normal | 37,301 |
+| Cloudflare | 14,841 |
+| Normal | 37,300 |
 
 
 </details>
