@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,316 |
+| com | 8,320 |
 | social | 4,747 |
 | net | 4,074 |
-| org | 2,722 |
+| org | 2,723 |
 | de | 2,591 |
 
 
@@ -8109,7 +8109,7 @@ Here's a list of public Fediverse services.
 | `cnmri.com` | No |
 | `cnn.com` | No |
 | `cnova.de` | No |
-| `cnr.it` | No |
+| `cnr.it` | Yes |
 | `cnsc.social` | No |
 | `cnschn.com` | Yes |
 | `cnt.es` | No |
@@ -13015,6 +13015,7 @@ Here's a list of public Fediverse services.
 | `engineered.space` | No |
 | `engineering.social` | Yes |
 | `englehorn.com` | No |
+| `englesprouts.com` | No |
 | `englishbreakfast.club` | No |
 | `englishup.me` | No |
 | `engmanager.space` | No |
@@ -13936,6 +13937,7 @@ Here's a list of public Fediverse services.
 | `fangluo.top` | Yes |
 | `fanlan.art` | No |
 | `fanlan.net` | Yes |
+| `fanrongbin.com` | Yes |
 | `fanscrowd.com` | No |
 | `fansdao.club` | No |
 | `fantabos.co` | No |
@@ -16579,6 +16581,7 @@ Here's a list of public Fediverse services.
 | `gddnet.io` | Yes |
 | `gdgd.jp.net` | Yes |
 | `gdgd.space` | No |
+| `gdickinson.co.uk` | No |
 | `gdoublet.fr` | No |
 | `gdrsocial.it` | No |
 | `gdsocial.uk` | No |
@@ -21756,6 +21759,7 @@ Here's a list of public Fediverse services.
 | `jiangl.in` | Yes |
 | `jianjianplus.com` | Yes |
 | `jianliwo.com` | No |
+| `jiaojiao.org` | Yes |
 | `jiaworkspace.com` | No |
 | `jibberjabber.online` | Yes |
 | `jibby.org` | Yes |
@@ -32590,6 +32594,7 @@ Here's a list of public Fediverse services.
 | `norfolk.social` | No |
 | `norge.social` | No |
 | `noriade.com` | Yes |
+| `noriakisana.dev` | No |
 | `noridev.moe` | No |
 | `norikumstorm.de` | No |
 | `norimi.ch` | No |
@@ -39097,6 +39102,7 @@ Here's a list of public Fediverse services.
 | `rosematcha.party` | Yes |
 | `rosemont.cloud` | Yes |
 | `rosenberg-watt.com` | No |
+| `rosenboom.name` | No |
 | `rosenha.in` | No |
 | `roseraie.me` | No |
 | `rosettast0ned.com` | No |
@@ -42430,6 +42436,7 @@ Here's a list of public Fediverse services.
 | `soraxedgemmder.me` | Yes |
 | `sorbit.no` | No |
 | `sorbonne-universite.fr` | Yes |
+| `sorcery.nexus` | No |
 | `sorcie.re` | No |
 | `soregashi.me` | No |
 | `sorgatronmedia.social` | No |
@@ -50669,6 +50676,7 @@ Here's a list of public Fediverse services.
 | `xabis.xyz` | Yes |
 | `xadacka.com` | Yes |
 | `xaetacore.net` | No |
+| `xag.info` | No |
 | `xajh.org` | Yes |
 | `xalapacode.com` | No |
 | `xalla.day` | No |
@@ -51709,6 +51717,7 @@ Here's a list of public Fediverse services.
 | `zakto.pw` | Yes |
 | `zakuac.com` | No |
 | `zakwan-khello.de` | No |
+| `zakwinnick.com` | Yes |
 | `zalem.city` | No |
 | `zamb.la` | Yes |
 | `zambito.xyz` | No |
@@ -51799,6 +51808,7 @@ Here's a list of public Fediverse services.
 | `zeitung.social` | No |
 | `zeitverschreib.de` | No |
 | `zeka.cloud` | Yes |
+| `zekeweeks.com` | No |
 | `zekjur.net` | Yes |
 | `zeku.org` | Yes |
 | `zelibertinegamer.me` | No |
@@ -52189,8 +52199,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,841 |
-| Normal | 37,300 |
+| Cloudflare | 14,845 |
+| Normal | 37,306 |
 
 
 </details>
