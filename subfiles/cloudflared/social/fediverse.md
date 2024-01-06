@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,316 |
+| com | 8,315 |
 | social | 4,746 |
-| net | 4,074 |
+| net | 4,073 |
 | org | 2,722 |
 | de | 2,591 |
 
@@ -11617,7 +11617,6 @@ Here's a list of public Fediverse services.
 | `dorkboy.ca` | Yes |
 | `dorkboycomics.com` | Yes |
 | `dorkfarm.com` | No |
-| `dorkfarm.net` | No |
 | `dorknet.app` | No |
 | `dorland.dk` | Yes |
 | `dormi.zone` | No |
@@ -40420,7 +40419,6 @@ Here's a list of public Fediverse services.
 | `sean.party` | No |
 | `sean.wtf` | Yes |
 | `sean666888.tk` | No |
-| `seanbreslin.jp` | No |
 | `seancarpenter.net` | No |
 | `seance.online` | Yes |
 | `seaneboy.xyz` | No |
@@ -46641,7 +46639,7 @@ Here's a list of public Fediverse services.
 | `torpedo.contact` | No |
 | `torpedo.works` | Yes |
 | `torr.red` | No |
-| `torrca.com` | Yes |
+| `torrca.com` | No |
 | `torrenezzi10.xyz` | No |
 | `torrentfreak.com` | Yes |
 | `torsi.ca` | No |
@@ -47411,7 +47409,6 @@ Here's a list of public Fediverse services.
 | `tweety.today` | No |
 | `twelve.icu` | No |
 | `twelve.moe` | Yes |
-| `twelvereasonswhy.com` | No |
 | `twentyzen.digital` | No |
 | `twentyzen.social` | No |
 | `tweoo.com` | No |
@@ -52187,8 +52184,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,840 |
-| Normal | 37,299 |
+| Cloudflare | 14,839 |
+| Normal | 37,297 |
 
 
 </details>
