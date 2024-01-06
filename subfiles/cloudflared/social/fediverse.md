@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,315 |
+| com | 8,316 |
 | social | 4,746 |
 | net | 4,074 |
 | org | 2,722 |
@@ -2933,6 +2933,7 @@ Here's a list of public Fediverse services.
 | `arielaw.ar` | No |
 | `arielbecker.com` | No |
 | `arielfinn.social` | No |
+| `ariesmc21.com` | Yes |
 | `arihi.me` | No |
 | `arinbasu.online` | No |
 | `arint.me` | No |
@@ -24537,7 +24538,7 @@ Here's a list of public Fediverse services.
 | `larrybeck.net` | No |
 | `larryrusswurm.com` | No |
 | `larrysanger.org` | Yes |
-| `larsen.social` | No |
+| `larsen.social` | Yes |
 | `larsfosdal.blog` | No |
 | `larsmueller.net` | Yes |
 | `larsreineke.de` | No |
@@ -52186,8 +52187,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,838 |
-| Normal | 37,300 |
+| Cloudflare | 14,840 |
+| Normal | 37,299 |
 
 
 </details>
