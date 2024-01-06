@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Questions regarding automatic size checker](https://github.com/kevquirk/512kb.club/issues/1385)
 - [Can't set identity server](https://github.com/element-hq/element-web/issues/26833)
 - [Original message preview fails to fetch the message via IMAP](https://github.com/freescout-helpdesk/freescout/issues/3659)
 - [Cannot complete initial sync: "Failed to decode a cipher-text"](https://github.com/AChep/keyguard-app/issues/53)
