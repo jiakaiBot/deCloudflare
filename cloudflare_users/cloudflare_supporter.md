@@ -3992,6 +3992,7 @@ Do not create new issue or we will close it as duplicate.
 | [Fak29477321@X](https://twitter.com/Fak29477321/status/1565465226748825603) | advertise |
 | [FakeSenpai5@X](https://twitter.com/FakeSenpai5/status/1581958054660034560) | advertise |
 | [FakeTopG@X](https://twitter.com/FakeTopG/status/1570866215404572676) | advertise |
+| [falconArin9@X](https://twitter.com/falconArin9/status/1743687684084621639) | advertise |
 | [Falcon_0098@X](https://twitter.com/Falcon_0098/status/1408452830613147649) | advertise |
 | [FallinloveYGz@X](https://twitter.com/FallinloveYGz/status/1594928548397035520) | advertise |
 | [FamyCC@X](https://twitter.com/FamyCC/status/1572681675913711616) | advertise |
@@ -7991,6 +7992,7 @@ Do not create new issue or we will close it as duplicate.
 | [ltunanh08941347@X](https://twitter.com/ltunanh08941347/status/1557232940559499265) | advertise |
 | [Lu13Tn@X](https://twitter.com/Lu13Tn/status/1377597764624805888) | advertise |
 | [lu25rs@X](https://twitter.com/lu25rs/status/1377601911893811209) | advertise |
+| [luai_m23@X](https://twitter.com/luai_m23/status/1743669705737433379) | advertise |
 | [luanla7799@X](https://twitter.com/luanla7799/status/1624058840491917314) | advertise |
 | [LuanLe24453405@X](https://twitter.com/LuanLe24453405/status/1384482319273054216) | advertise |
 | [LuanNew89@X](https://twitter.com/LuanNew89/status/1671532399446970368) | advertise |
@@ -14661,6 +14663,7 @@ Do not create new issue or we will close it as duplicate.
 | [utnho071100@X](https://twitter.com/utnho071100/status/1601385905478340609) | advertise |
 | [Uttama97890732@X](https://twitter.com/Uttama97890732/status/1390025546264809476) | advertise |
 | [UT_DeGreATes@X](https://twitter.com/UT_DeGreATes/status/1630635893923930112) | advertise |
+| [uux52287@X](https://twitter.com/uux52287/status/1743676557041008878) | advertise |
 | [UvinduBro@X](https://twitter.com/UvinduBro/status/1517900951373611009) | advertise |
 | [UVx9fScj8PaFSD7@X](https://twitter.com/UVx9fScj8PaFSD7/status/1725428258311925808) | advertise |
 | [UwdieynCentre@X](https://twitter.com/UwdieynCentre/status/1398371128700063745) | advertise |
@@ -15875,6 +15878,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZhangJueJue1@X](https://twitter.com/ZhangJueJue1/status/1383633631164260360) | advertise |
 | [ZhechenWei@X](https://twitter.com/ZhechenWei/status/1646531788871970819) | advertise |
 | [zhengzh45935944@X](https://twitter.com/zhengzh45935944/status/1653725241334718466) | advertise |
+| [zhir07500@X](https://twitter.com/zhir07500/status/1743685376567304440) | advertise |
 | [zhngwi328636356@X](https://twitter.com/zhngwi328636356/status/1718884967227244626) | advertise |
 | [Zhu_Apiral@X](https://twitter.com/Zhu_Apiral/status/1380403857822474240) | advertise |
 | [zibu1110@X](https://twitter.com/zibu1110/status/1596201006899302401) | advertise |
