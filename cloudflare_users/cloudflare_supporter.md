@@ -2715,6 +2715,7 @@ Do not create new issue or we will close it as duplicate.
 | [codeberg.org](https://www.codeberg.org/) | [HISTORY.md](../HISTORY.md) |
 | [codehex@X](https://twitter.com/codehex/status/1671513194177650691) | advertise |
 | [codemorningsir@X](https://twitter.com/codemorningsir/status/1641690651057352704) | advertise |
+| [CoderXiong@X](https://twitter.com/CoderXiong/status/1743612280191803687) | advertise |
 | [codewithfortune@X](https://twitter.com/codewithfortune/status/1477733630982213634) | advertise |
 | [codfish246@X](https://twitter.com/codfish246/status/1555424438602047488) | advertise |
 | [Codingprotocols@X](https://twitter.com/Codingprotocols/status/1561244906060156929) | advertise |
@@ -8911,6 +8912,7 @@ Do not create new issue or we will close it as duplicate.
 | [mirandanielcz@X](https://twitter.com/mirandanielcz/status/1498223299071025163) | advertise |
 | [miranya1810@X](https://twitter.com/miranya1810/status/1509898628508237824) | advertise |
 | [MiriShehu@X](https://twitter.com/MiriShehu/status/1590650655177592833) | advertise |
+| [MiruNgkh82568@X](https://twitter.com/MiruNgkh82568/status/1743608440227057861) | advertise |
 | [MirzadeAmir@X](https://twitter.com/MirzadeAmir/status/1588630904544452608) | advertise |
 | [mirzazaid92@X](https://twitter.com/mirzazaid92/status/1420450058961567744) | advertise |
 | [mishu988@X](https://twitter.com/mishu988/status/1552219338299658241) | advertise |
@@ -9854,6 +9856,7 @@ Do not create new issue or we will close it as duplicate.
 | [NgocNguyen76922@X](https://twitter.com/NgocNguyen76922/status/1717581413481083040) | advertise |
 | [ngocsenapple@X](https://twitter.com/ngocsenapple/status/1703550893441118651) | advertise |
 | [ngocthang_9577@X](https://twitter.com/ngocthang_9577/status/1401800231713345543) | advertise |
+| [ngocthien9897@X](https://twitter.com/ngocthien9897/status/1743633382758838560) | advertise |
 | [NgocUnmei@X](https://twitter.com/NgocUnmei/status/1402936171265548289) | advertise |
 | [NgoHai32610802@X](https://twitter.com/NgoHai32610802/status/1628675676839747584) | advertise |
 | [NgoLinh84696751@X](https://twitter.com/NgoLinh84696751/status/1648865400791384064) | advertise |
@@ -13559,6 +13562,7 @@ Do not create new issue or we will close it as duplicate.
 | [thanh_tan@X](https://twitter.com/thanh_tan/status/1644003362705403905) | advertise |
 | [thanlongxt@X](https://twitter.com/thanlongxt/status/1615997611273773061) | advertise |
 | [ThanNai54554875@X](https://twitter.com/ThanNai54554875/status/1393884408000696320) | advertise |
+| [ThanNhat6@X](https://twitter.com/ThanNhat6/status/1743614479827693959) | advertise |
 | [ThanOo11091646@X](https://twitter.com/ThanOo11091646/status/1595401396731248641) | advertise |
 | [Thant22222@X](https://twitter.com/Thant22222/status/1390281681525956613) | advertise |
 | [ThanThanSint20@X](https://twitter.com/ThanThanSint20/status/1394282278096805892) | advertise |
@@ -14946,6 +14950,7 @@ Do not create new issue or we will close it as duplicate.
 | [VuPham08252400@X](https://twitter.com/VuPham08252400/status/1619692199930642433) | advertise |
 | [vuquoc203@X](https://twitter.com/vuquoc203/status/1408052147787161601) | advertise |
 | [vusimpzerotwo@X](https://twitter.com/vusimpzerotwo/status/1549475267692744704) | advertise |
+| [Vut253315@X](https://twitter.com/Vut253315/status/1743623611846664376) | advertise |
 | [vuthien46196@X](https://twitter.com/vuthien46196/status/1401809290449473539) | advertise |
 | [VuTran01273078@X](https://twitter.com/VuTran01273078/status/1661961408458919937) | advertise |
 | [vutruyphong@X](https://twitter.com/vutruyphong/status/1609902245604212739) | advertise |
@@ -15201,6 +15206,7 @@ Do not create new issue or we will close it as duplicate.
 | [WinHtike007@X](https://twitter.com/WinHtike007/status/1398482871547875329) | advertise |
 | [Winhtut18183879@X](https://twitter.com/Winhtut18183879/status/1574385055270850560) | advertise |
 | [WinHtwe16611921@X](https://twitter.com/WinHtwe16611921/status/1385266348452843520) | advertise |
+| [WinKhan06865488@X](https://twitter.com/WinKhan06865488/status/1743618386024669663) | advertise |
 | [winkoaung18@X](https://twitter.com/winkoaung18/status/1393260015616761858) | advertise |
 | [winkoko75957229@X](https://twitter.com/winkoko75957229/status/1390040631997698050) | advertise |
 | [winkokomaung7@X](https://twitter.com/winkokomaung7/status/1390704831157833734) | advertise |
