@@ -98,7 +98,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | iij.jp | Yes |
 | in-berlin.de | No |
 | inria.fr | No |
-| irumatech.com | Yes |
 | itxe.net | Yes |
 | ivnkn.xyz | Yes |
 | jackyes.ovh | No |
@@ -206,8 +205,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 93 |
+| Cloudflare | 92 |
 | Normal | 94 |
 
 
-### 49.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 49.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
