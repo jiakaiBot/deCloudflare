@@ -37115,6 +37115,7 @@ Here's a list of public Fediverse services.
 | `pztrn.name` | No |
 | `pztrn.online` | No |
 | `pzyk.de` | No |
+| `q-gin.info` | No |
 | `q12.im` | Yes |
 | `q13fox.com` | No |
 | `q1z.net` | No |
@@ -52205,7 +52206,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,850 |
-| Normal | 37,306 |
+| Normal | 37,307 |
 
 
 </details>
