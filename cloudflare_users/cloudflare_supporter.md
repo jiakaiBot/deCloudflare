@@ -4754,6 +4754,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hao73903905@X](https://twitter.com/Hao73903905/status/1380536670177484801) | advertise |
 | [Hao89149271@X](https://twitter.com/Hao89149271/status/1601925382076129280) | advertise |
 | [Haocutevl@X](https://twitter.com/Haocutevl/status/1638379614291603456) | advertise |
+| [Haodoan27@X](https://twitter.com/Haodoan27/status/1743547077395980307) | advertise |
 | [haoHol42516744@X](https://twitter.com/haoHol42516744/status/1552490346776772608) | advertise |
 | [haon0814@X](https://twitter.com/haon0814/status/1554411988876349441) | advertise |
 | [HaoNguy47786905@X](https://twitter.com/HaoNguy47786905/status/1684587221255598080) | advertise |
@@ -11537,6 +11538,7 @@ Do not create new issue or we will close it as duplicate.
 | [Raj00446912@X](https://twitter.com/Raj00446912/status/1402881832203395073) | advertise |
 | [Raj0707Garapati@X](https://twitter.com/Raj0707Garapati/status/1394255967928295425) | advertise |
 | [Raj71446827@X](https://twitter.com/Raj71446827/status/1380171008787681284) | advertise |
+| [raja88740@X](https://twitter.com/raja88740/status/1743557230899904553) | advertise |
 | [RAJAKHAIRULZAM2@X](https://twitter.com/RAJAKHAIRULZAM2/status/1583269818915921920) | advertise |
 | [RajaOwaisAli2@X](https://twitter.com/RajaOwaisAli2/status/1543493764127285248) | advertise |
 | [rajasimon@X](https://twitter.com/rajasimon/status/1498410367797530625) | advertise |
@@ -14118,6 +14120,7 @@ Do not create new issue or we will close it as duplicate.
 | [TomNoGirlFriend@X](https://twitter.com/TomNoGirlFriend/status/1721216528383988011) | advertise |
 | [tomorrow112mus@X](https://twitter.com/tomorrow112mus/status/1586922007329140736) | advertise |
 | [tomotomo_9696@X](https://twitter.com/tomotomo_9696/status/1565839408078950400) | advertise |
+| [TomSeaSun@X](https://twitter.com/TomSeaSun/status/1743549737041895513) | advertise |
 | [tomumame@X](https://twitter.com/tomumame/status/1524273785016586240) | advertise |
 | [tomx900@X](https://twitter.com/tomx900/status/1378074552857587713) | advertise |
 | [tomyperez@X](https://twitter.com/tomyperez/status/1558196423509917697) | advertise |
