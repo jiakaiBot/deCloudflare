@@ -1698,7 +1698,7 @@ Here's a list of public Fediverse services.
 | `albin.social` | No |
 | `albinoblacksheep.com` | No |
 | `albormentum.com` | No |
-| `albr.to` | Yes |
+| `albr.to` | No |
 | `alc.im` | Yes |
 | `alcalyn.app` | No |
 | `alcatir.com` | No |
@@ -2685,6 +2685,7 @@ Here's a list of public Fediverse services.
 | `ap.social` | No |
 | `apa50.online` | No |
 | `apaphoto.social` | No |
+| `aparker.io` | Yes |
 | `apartmenttherapy.com` | Yes |
 | `apathy.top` | Yes |
 | `apathy.tv` | No |
@@ -22368,7 +22369,7 @@ Here's a list of public Fediverse services.
 | `justgage.blog` | No |
 | `justice.tech` | No |
 | `justicewarrior.social` | No |
-| `justin-und-florian.de` | Yes |
+| `justin-und-florian.de` | No |
 | `justin.rs` | Yes |
 | `justinbremer.com` | No |
 | `justinferriman.com` | No |
@@ -29197,7 +29198,7 @@ Here's a list of public Fediverse services.
 | `mirrored.social` | No |
 | `mirroruniverse.eu` | No |
 | `mirtube.ru` | No |
-| `miru.online` | Yes |
+| `miru.online` | No |
 | `mirucha.net` | Yes |
 | `miruku.cafe` | Yes |
 | `mirumu.net` | No |
@@ -31427,7 +31428,7 @@ Here's a list of public Fediverse services.
 | `nek.zone` | Yes |
 | `neka.site` | Yes |
 | `nekit.tk` | No |
-| `nekko.online` | No |
+| `nekko.online` | Yes |
 | `neko-relay.com` | Yes |
 | `neko.academy` | No |
 | `neko.airforce` | Yes |
@@ -37880,6 +37881,7 @@ Here's a list of public Fediverse services.
 | `raven.dog` | No |
 | `raven.xyz` | No |
 | `ravenation.club` | Yes |
+| `ravenoak.dev` | No |
 | `ravenoffice.de` | No |
 | `ravens-nest.io` | Yes |
 | `ravensnest.lgbt` | Yes |
@@ -48078,6 +48080,7 @@ Here's a list of public Fediverse services.
 | `unsocial.dev` | Yes |
 | `unsquare.com` | No |
 | `unstable.icu` | Yes |
+| `unstable.solutions` | No |
 | `unstable.systems` | Yes |
 | `unstabler.pl` | Yes |
 | `unstoppablecode.org` | No |
@@ -52214,8 +52217,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,852 |
-| Normal | 37,314 |
+| Cloudflare | 14,851 |
+| Normal | 37,318 |
 
 
 </details>
