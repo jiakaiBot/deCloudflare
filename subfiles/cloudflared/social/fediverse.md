@@ -15117,6 +15117,7 @@ Here's a list of public Fediverse services.
 | `flyerdonut.net` | Yes |
 | `flying-fishcan.com` | Yes |
 | `flying-snail.de` | No |
+| `flyingbattery.zone` | Yes |
 | `flyingburri.to` | Yes |
 | `flyingcube.tech` | No |
 | `flyingdingo.social` | No |
@@ -52233,7 +52234,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,861 |
+| Cloudflare | 14,862 |
 | Normal | 37,324 |
 
 
