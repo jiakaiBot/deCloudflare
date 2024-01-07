@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [August integration getting 500 - internal server error](https://github.com/home-assistant/core/issues/107420)
 - [Catch and handle OpenAI errors (retry, message to user)](https://github.com/ClemensGruber/climart_gptree/issues/6)
 - [Upload issues if Cloudfare is used as Reverse Proxy (100MB limit set by Cloudfare) - Split upload into 100MB Chunks](https://github.com/ShaneIsrael/fireshare/issues/245)
 - [Add full drain log support to be able to use Baselime for full observability into Grafbase](https://github.com/grafbase/grafbase/issues/1202)
