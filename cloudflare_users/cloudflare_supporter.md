@@ -215,6 +215,7 @@ Do not create new issue or we will close it as duplicate.
 | [2005Kameha@X](https://twitter.com/2005Kameha/status/1601223663298424833) | advertise |
 | [2021Erfan@X](https://twitter.com/2021Erfan/status/1656025224477917184) | advertise |
 | [2022hoky@X](https://twitter.com/2022hoky/status/1559692337382469632) | advertise |
+| [2226nxe@X](https://twitter.com/2226nxe/status/1741461974729326721) | advertise |
 | [2244Hama22448@X](https://twitter.com/2244Hama22448/status/1659726075050569729) | advertise |
 | [4353_37@X](https://twitter.com/4353_37/status/1613146692542496769) | advertise |
 | [5050Tbc@X](https://twitter.com/5050Tbc/status/1532708767481090052) | advertise |
