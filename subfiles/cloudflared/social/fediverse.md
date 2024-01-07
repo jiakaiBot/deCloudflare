@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,320 |
 | social | 4,749 |
 | net | 4,076 |
-| org | 2,727 |
+| org | 2,728 |
 | de | 2,592 |
 
 
@@ -11191,6 +11191,7 @@ Here's a list of public Fediverse services.
 | `discoverypanel.de` | No |
 | `discretevaluecrusader.com` | No |
 | `discretos.fr` | No |
+| `discus.sh` | No |
 | `discuss.online` | No |
 | `discuss.scot` | Yes |
 | `discuss.systems` | No |
@@ -33002,6 +33003,7 @@ Here's a list of public Fediverse services.
 | `numinauts.club` | No |
 | `numis.social` | No |
 | `nunes.uk` | Yes |
+| `nunesdennis.me` | Yes |
 | `nunolopes.co` | No |
 | `nunu.blue` | Yes |
 | `nunu.dev` | No |
@@ -34807,6 +34809,7 @@ Here's a list of public Fediverse services.
 | `pasta.ga` | No |
 | `pasta.social` | Yes |
 | `pasta.wtf` | No |
+| `pastafariano.org` | No |
 | `pastafaristes.fr` | No |
 | `pastaforce.social` | No |
 | `pastafriday.club` | No |
@@ -52235,8 +52238,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,862 |
-| Normal | 37,325 |
+| Cloudflare | 14,863 |
+| Normal | 37,327 |
 
 
 </details>
