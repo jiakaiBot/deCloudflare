@@ -20203,6 +20203,7 @@ Here's a list of public Fediverse services.
 | `ilammy.net` | No |
 | `ilbery.family` | No |
 | `ilbery.social` | No |
+| `ilbjach.ru` | No |
 | `ilblogdichiara.it` | No |
 | `ilbro.com` | Yes |
 | `ilchub.net` | Yes |
@@ -52239,7 +52240,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,863 |
-| Normal | 37,327 |
+| Normal | 37,328 |
 
 
 </details>
