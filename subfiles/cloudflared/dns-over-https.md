@@ -131,7 +131,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | emiliyan.com | Yes |
 | enginyring.com | Yes |
 | enjoymylife.net | Yes |
-| eoghan-net.com | Yes |
 | eranext.net | Yes |
 | extrawdw.net | Yes |
 | f7b6h9.tk | No |
@@ -159,7 +158,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gewete.cloud | Yes |
 | gjrick.tw | Yes |
 | gkonuralp.com | No |
-| gosprout.org | No |
 | gotdns.ch | Yes |
 | haboy.top | Yes |
 | hahnjo.de | No |
@@ -167,7 +165,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | he.net | No |
 | helpdesk38.ru | No |
 | henek.ovh | Yes |
-| home.ro | No |
 | homedns.uk | No |
 | hosmatic.com | Yes |
 | hostme.co.il | Yes |
@@ -329,7 +326,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | saferbfc.org | Yes |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
-| sainternet.xyz | No |
 | sarak.as | Yes |
 | sblnetwork.co.id | Yes |
 | sbstructure.ir | Yes |
@@ -390,7 +386,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tls-data.de | No |
 | tooli.ca | Yes |
 | trifanov-online.ru | No |
-| trust2it.ch | No |
 | trust404.win | Yes |
 | tryk.app | Yes |
 | tu-bs.de | No |
@@ -403,7 +398,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | unx.io | No |
 | uradoori.org | Yes |
 | urology.wiki | No |
-| v.ua | Yes |
 | viatech.com.tw | Yes |
 | virga.pp.ua | Yes |
 | vlo.cc | Yes |
@@ -431,8 +425,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 214 |
-| Normal | 198 |
+| Cloudflare | 212 |
+| Normal | 194 |
 
 
-### 51.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
