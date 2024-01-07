@@ -49,7 +49,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | atsilva.link | No |
 | avastdns.com | No |
 | avdkishore.dev | Yes |
-| ayasesayuki.shop | No |
 | azoris.ovh | No |
 | b-cdn.net | No |
 | b612.me | Yes |
@@ -147,7 +146,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | flm9.net | No |
 | fltn.us | Yes |
 | flylcc.cc | Yes |
-| freddys.my.id | Yes |
 | freecdn.one | No |
 | freyja.pw | Yes |
 | frguthrie.app | No |
@@ -284,7 +282,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | njal.la | No |
 | noaddns.com | No |
 | node15.com | Yes |
-| nolo.ltd | Yes |
 | noridev.moe | No |
 | novali.date | Yes |
 | nullapp.xyz | Yes |
@@ -387,7 +384,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tiar.app | No |
 | tiarap.org | Yes |
 | tienpham.id.vn | No |
-| timboeh.me | Yes |
 | timedns.org | No |
 | timmes.nl | No |
 | timvo.net | Yes |
@@ -435,8 +431,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 217 |
-| Normal | 199 |
+| Cloudflare | 214 |
+| Normal | 198 |
 
 
-### 52.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
