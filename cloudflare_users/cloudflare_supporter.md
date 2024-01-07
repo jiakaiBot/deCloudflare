@@ -1694,6 +1694,7 @@ Do not create new issue or we will close it as duplicate.
 | [baimint_minmint@X](https://twitter.com/baimint_minmint/status/1393478992653553665) | advertise |
 | [Baitipelangi12@X](https://twitter.com/Baitipelangi12/status/1563137367292395522) | advertise |
 | [Bakaoniichansa1@X](https://twitter.com/Bakaoniichansa1/status/1396393413541437443) | advertise |
+| [BakhtiarBa5330@X](https://twitter.com/BakhtiarBa5330/status/1744014876572627279) | advertise |
 | [Baki64515168@X](https://twitter.com/Baki64515168/status/1403351148342480897) | advertise |
 | [Bakr14M@X](https://twitter.com/Bakr14M/status/1517969694069870595) | advertise |
 | [BaksoCez@X](https://twitter.com/BaksoCez/status/1610617156433227778) | advertise |
@@ -8386,6 +8387,7 @@ Do not create new issue or we will close it as duplicate.
 | [Maru19225266@X](https://twitter.com/Maru19225266/status/1399664918794674181) | advertise |
 | [MarufHa0192487@X](https://twitter.com/MarufHa0192487/status/1385279046309740547) | advertise |
 | [Marvell_Law@X](https://twitter.com/Marvell_Law/status/1608339561574445057) | advertise |
+| [Marvel_Azubike@X](https://twitter.com/Marvel_Azubike/status/1744025978651685205) | advertise |
 | [marvincuche@X](https://twitter.com/marvincuche/status/1401058562894356480) | advertise |
 | [marvinseeza@X](https://twitter.com/marvinseeza/status/1491055578948706305) | advertise |
 | [MarvinTVNet@X](https://twitter.com/MarvinTVNet/status/1630998711252779013) | advertise |
@@ -12138,6 +12140,7 @@ Do not create new issue or we will close it as duplicate.
 | [SaiYanN67587097@X](https://twitter.com/SaiYanN67587097/status/1533120502646337536) | advertise |
 | [sai_hla54260@X](https://twitter.com/sai_hla54260/status/1730740692480372864) | advertise |
 | [sai_lu57@X](https://twitter.com/sai_lu57/status/1392941626402643969) | advertise |
+| [sai_yuli52311@X](https://twitter.com/sai_yuli52311/status/1744001356925694136) | advertise |
 | [sai_zeya@X](https://twitter.com/sai_zeya/status/1390399367006277632) | advertise |
 | [sajademaalik@X](https://twitter.com/sajademaalik/status/1391848383174770689) | advertise |
 | [Sajan15063771@X](https://twitter.com/Sajan15063771/status/1385509047818887169) | advertise |
