@@ -7918,6 +7918,7 @@ Here's a list of public Fediverse services.
 | `cleasky.blue` | No |
 | `cleave.nz` | Yes |
 | `cleeb.net` | Yes |
+| `cleitonfelix.blog.br` | No |
 | `clemenshermanns.de` | Yes |
 | `clemio.de` | No |
 | `clerks.me` | No |
@@ -19732,6 +19733,7 @@ Here's a list of public Fediverse services.
 | `hunterjozwiak.com` | No |
 | `hunterlife.net` | No |
 | `huntsvillain.com` | No |
+| `huntsyea.xyz` | No |
 | `hupel.info` | No |
 | `hurgen.com` | No |
 | `hurley.page` | No |
@@ -20619,7 +20621,7 @@ Here's a list of public Fediverse services.
 | `ino.org.uk` | No |
 | `inokashiraskey.jp` | Yes |
 | `inoot.net` | Yes |
-| `inori.im` | Yes |
+| `inori.im` | No |
 | `inosoft.de` | No |
 | `inosoft.social` | No |
 | `inovex.social` | No |
@@ -52212,8 +52214,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,853 |
-| Normal | 37,311 |
+| Cloudflare | 14,852 |
+| Normal | 37,314 |
 
 
 </details>
