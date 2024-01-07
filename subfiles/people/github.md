@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [RFC: Enhancing DCS Dropzone Mod Manager with a Manual & Automated Registry Update System](https://github.com/flying-dice/dcs-dropzone-mod-manager/issues/1)
 - [August integration getting 500 - internal server error](https://github.com/home-assistant/core/issues/107420)
 - [Catch and handle OpenAI errors (retry, message to user)](https://github.com/ClemensGruber/climart_gptree/issues/6)
 - [Upload issues if Cloudfare is used as Reverse Proxy (100MB limit set by Cloudfare) - Split upload into 100MB Chunks](https://github.com/ShaneIsrael/fireshare/issues/245)
