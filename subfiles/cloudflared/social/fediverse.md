@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,320 |
-| social | 4,749 |
+| social | 4,750 |
 | net | 4,076 |
-| org | 2,728 |
-| de | 2,592 |
+| org | 2,729 |
+| de | 2,593 |
 
 
 - Mastodon, Pleroma, etc
@@ -11128,6 +11128,7 @@ Here's a list of public Fediverse services.
 | `dinoex.de` | No |
 | `dinoleaf.com` | Yes |
 | `dinosaur.farm` | No |
+| `dinotopia.org` | No |
 | `dinotoyblog.com` | Yes |
 | `dinven.de` | No |
 | `diod.es` | No |
@@ -20203,7 +20204,6 @@ Here's a list of public Fediverse services.
 | `ilammy.net` | No |
 | `ilbery.family` | No |
 | `ilbery.social` | No |
-| `ilbjach.ru` | No |
 | `ilblogdichiara.it` | No |
 | `ilbro.com` | Yes |
 | `ilchub.net` | Yes |
@@ -28376,6 +28376,7 @@ Here's a list of public Fediverse services.
 | `mein-schlauchboot.de` | No |
 | `meinbergglobal.com` | No |
 | `meinderink.org` | No |
+| `meine-url-ist-laenger-als-deine.de` | No |
 | `meinert.life` | No |
 | `meinl.space` | No |
 | `meinmuenster.land` | No |
@@ -40477,6 +40478,7 @@ Here's a list of public Fediverse services.
 | `seaofpeers.com` | Yes |
 | `seaquillcatstone.com` | No |
 | `searchingfor.top` | Yes |
+| `searchingfortw.ink` | No |
 | `searx.li` | No |
 | `seaside.cafe` | No |
 | `seaswallow.me` | Yes |
@@ -43250,6 +43252,7 @@ Here's a list of public Fediverse services.
 | `stephanvoss.de` | No |
 | `stephen.party` | No |
 | `stephenanfield.com` | Yes |
+| `stephenanfield.social` | Yes |
 | `stephenbasile.com` | Yes |
 | `stephencorwin.com` | Yes |
 | `stephenfirth.co.uk` | No |
@@ -52239,8 +52242,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,863 |
-| Normal | 37,328 |
+| Cloudflare | 14,864 |
+| Normal | 37,330 |
 
 
 </details>
