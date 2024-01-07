@@ -51474,6 +51474,7 @@ Here's a list of public Fediverse services.
 | `yourownnet.cloud` | No |
 | `yourrhythm.jp` | No |
 | `yourshit.rocks` | No |
+| `yourwalls.today` | No |
 | `yousack.net` | No |
 | `youshallnotpass.com` | Yes |
 | `youtaite.xyz` | No |
@@ -52220,7 +52221,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,853 |
-| Normal | 37,318 |
+| Normal | 37,319 |
 
 
 </details>
