@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,320 |
+| com | 8,321 |
 | social | 4,750 |
 | net | 4,076 |
 | org | 2,729 |
-| de | 2,593 |
+| de | 2,594 |
 
 
 - Mastodon, Pleroma, etc
@@ -3001,6 +3001,7 @@ Here's a list of public Fediverse services.
 | `arnaudboutry.art` | No |
 | `arnauld.org` | No |
 | `arnaus.net` | No |
+| `arneckestrasse.de` | No |
 | `arnemancy.com` | No |
 | `arnep.de` | No |
 | `arnesocial.de` | No |
@@ -20204,6 +20205,7 @@ Here's a list of public Fediverse services.
 | `ilammy.net` | No |
 | `ilbery.family` | No |
 | `ilbery.social` | No |
+| `ilbjach.ru` | No |
 | `ilblogdichiara.it` | No |
 | `ilbro.com` | Yes |
 | `ilchub.net` | Yes |
@@ -40908,6 +40910,7 @@ Here's a list of public Fediverse services.
 | `sgsknote.org` | No |
 | `sgt.cc` | No |
 | `sgtk.net` | No |
+| `sgtpepere.com` | No |
 | `sgv.social` | No |
 | `sh-topia.ml` | No |
 | `sh1n-ken.life` | No |
@@ -46183,7 +46186,7 @@ Here's a list of public Fediverse services.
 | `tlmb.net` | No |
 | `tlmstdn.de` | No |
 | `tlo.xyz` | Yes |
-| `tlpbro.nl` | No |
+| `tlpbro.nl` | Yes |
 | `tlpfam.com` | No |
 | `tls.zone` | Yes |
 | `tlsn.com` | No |
@@ -52242,8 +52245,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,864 |
-| Normal | 37,330 |
+| Cloudflare | 14,865 |
+| Normal | 37,332 |
 
 
 </details>
