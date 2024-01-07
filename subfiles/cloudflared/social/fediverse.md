@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,320 |
 | social | 4,749 |
-| net | 4,075 |
+| net | 4,076 |
 | org | 2,727 |
 | de | 2,592 |
 
@@ -13808,7 +13808,7 @@ Here's a list of public Fediverse services.
 | `fahrenheit.net.pl` | No |
 | `fahrin.me` | No |
 | `fai.st` | No |
-| `fai.su` | No |
+| `fai.su` | Yes |
 | `faidra.net` | No |
 | `fair-verhandeln.de` | No |
 | `fair.tube` | No |
@@ -44908,7 +44908,7 @@ Here's a list of public Fediverse services.
 | `tempestas-prima.com` | No |
 | `tempkdw.com` | No |
 | `templar.digital` | No |
-| `templar.one` | No |
+| `templar.one` | Yes |
 | `temporario.xyz` | Yes |
 | `temporus.me` | No |
 | `tempus.tk` | No |
@@ -51633,6 +51633,7 @@ Here's a list of public Fediverse services.
 | `yurupath.net` | No |
 | `yurusanp.org` | Yes |
 | `yurut.name` | Yes |
+| `yurut.net` | Yes |
 | `yurutan.net` | No |
 | `yuruyuri.family` | No |
 | `yusaku.social` | No |
@@ -52232,8 +52233,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,858 |
-| Normal | 37,326 |
+| Cloudflare | 14,861 |
+| Normal | 37,324 |
 
 
 </details>
