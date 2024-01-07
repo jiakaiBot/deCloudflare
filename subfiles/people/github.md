@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [unable to generate a certificate for the domains traefik.domain.com:](https://github.com/TheYkk/traefik-whoami/issues/1)
 - [Not issues but important](https://github.com/jpillora/chisel/issues/486)
 - [RFC: Enhancing DCS Dropzone Mod Manager with a Manual & Automated Registry Update System](https://github.com/flying-dice/dcs-dropzone-mod-manager/issues/1)
 - [August integration getting 500 - internal server error](https://github.com/home-assistant/core/issues/107420)
