@@ -39206,6 +39206,7 @@ Here's a list of public Fediverse services.
 | `rqd2.net` | No |
 | `rrgeorge.live` | No |
 | `rroki.net` | No |
+| `rrrr.wtf` | Yes |
 | `rrrrrichard.social` | No |
 | `rs-einrich.de` | No |
 | `rs64.net` | Yes |
@@ -52217,7 +52218,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,851 |
+| Cloudflare | 14,852 |
 | Normal | 37,318 |
 
 
