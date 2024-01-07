@@ -13966,6 +13966,7 @@ Here's a list of public Fediverse services.
 | `farci.org` | No |
 | `farend.co.jp` | No |
 | `farenji.net` | No |
+| `farenjihn.cloud` | Yes |
 | `farer.group` | Yes |
 | `farerskiekadry.pl` | No |
 | `farewellswind.xyz` | No |
@@ -52218,7 +52219,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,852 |
+| Cloudflare | 14,853 |
 | Normal | 37,318 |
 
 
