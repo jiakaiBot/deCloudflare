@@ -6081,6 +6081,7 @@ Here's a list of public Fediverse services.
 | `bronyfurry.com` | Yes |
 | `bronzedrose.com` | Yes |
 | `brookshelley.com` | Yes |
+| `bropartment.party` | Yes |
 | `bropartment.social` | Yes |
 | `broski.me` | Yes |
 | `brot.social` | No |
@@ -10669,6 +10670,7 @@ Here's a list of public Fediverse services.
 | `derg.nz` | Yes |
 | `derg.one` | No |
 | `derg.social` | Yes |
+| `derg.world` | No |
 | `derg.zone` | Yes |
 | `dergnation.org` | Yes |
 | `dergrimm.net` | Yes |
@@ -35654,7 +35656,7 @@ Here's a list of public Fediverse services.
 | `pirate.chat` | Yes |
 | `pirate.lgbt` | Yes |
 | `pirateale.xyz` | No |
-| `pirated.mobi` | No |
+| `pirated.mobi` | Yes |
 | `pirateheaven.eu` | No |
 | `piraten-holzminden.de` | No |
 | `piraten-partei.social` | No |
@@ -39815,6 +39817,7 @@ Here's a list of public Fediverse services.
 | `sanae233.net` | Yes |
 | `sanam.xyz` | No |
 | `sanantonio.lol` | No |
+| `sanao.dev` | Yes |
 | `sanb62.com` | No |
 | `sanboukarasu.io` | Yes |
 | `sanchayanmaity.com` | No |
@@ -39844,7 +39847,7 @@ Here's a list of public Fediverse services.
 | `sangastrology.com` | No |
 | `sangberg.se` | No |
 | `sangelo.space` | Yes |
-| `sangha.social` | No |
+| `sangha.social` | Yes |
 | `sangrechulo.com` | No |
 | `sanguine.space` | No |
 | `sanguinem.space` | No |
@@ -52248,8 +52251,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,864 |
-| Normal | 37,336 |
+| Cloudflare | 14,868 |
+| Normal | 37,335 |
 
 
 </details>
