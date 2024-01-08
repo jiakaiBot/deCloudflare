@@ -54,7 +54,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | b612.me | Yes |
 | bancuh.com | No |
 | bartoszturek.online | No |
-| be2aja.my.id | Yes |
 | bitdefender.net | Yes |
 | blahdns.com | Yes |
 | blaze-sk.ru | No |
@@ -136,7 +135,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | f7b6h9.tk | No |
 | f97.xyz | Yes |
 | fancyorg.at | No |
-| faradns.net | No |
 | fdn.fr | No |
 | fezgate.ovh | No |
 | ff0x.ca | Yes |
@@ -270,7 +268,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nhtsky.com | Yes |
 | nic.cz | No |
 | nic.lv | No |
-| nickcan.xyz | Yes |
 | nielsdb.be | No |
 | nilanjan.me | No |
 | niyaru.online | Yes |
@@ -327,7 +324,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | safesurfer.io | Yes |
 | sarak.as | Yes |
 | sblnetwork.co.id | Yes |
-| sbstructure.ir | Yes |
 | scarx.net | Yes |
 | schlagheck.berlin | Yes |
 | scuola.org | No |
@@ -411,7 +407,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wikimedia-dns.org | No |
 | woodbridge.club | No |
 | wriedts.de | No |
-| wryhf.net | Yes |
 | xcom.pro | No |
 | xx3210766.live | Yes |
 | yandex.net | Yes |
@@ -424,8 +419,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 212 |
-| Normal | 193 |
+| Cloudflare | 208 |
+| Normal | 192 |
 
 
-### 52.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52% of DNS-over-HTTPS (DoH) are using Cloudflare.
