@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,321 |
-| social | 4,750 |
+| com | 8,322 |
+| social | 4,752 |
 | net | 4,076 |
 | org | 2,729 |
-| de | 2,594 |
+| de | 2,596 |
 
 
 - Mastodon, Pleroma, etc
@@ -14886,6 +14886,7 @@ Here's a list of public Fediverse services.
 | `fivebyfive.social` | No |
 | `fiveeighteen.net` | No |
 | `fivem-paradise.com` | No |
+| `fivem.social` | No |
 | `fiveop.de` | No |
 | `fivest.one` | Yes |
 | `fivestone.info` | Yes |
@@ -16743,6 +16744,7 @@ Here's a list of public Fediverse services.
 | `generally.online` | No |
 | `generallyrubbish.net` | No |
 | `generallyrubbish.net.au` | No |
+| `generation89.de` | No |
 | `generationk.net` | No |
 | `generic.social` | Yes |
 | `genericsocialmediapage.com` | Yes |
@@ -18521,6 +18523,7 @@ Here's a list of public Fediverse services.
 | `haunted.computer` | No |
 | `haunted.fyi` | No |
 | `hauntedgames.net` | No |
+| `haurand.com` | No |
 | `hausi.social` | No |
 | `hausofhomeaux.ca` | No |
 | `haussleiter.de` | No |
@@ -20293,6 +20296,7 @@ Here's a list of public Fediverse services.
 | `imastodon.org` | No |
 | `imayuki.com` | No |
 | `imbadwithnames.xyz` | No |
+| `imbalance.no` | No |
 | `imbushuo.net` | No |
 | `imc.sh` | Yes |
 | `imchip.be` | No |
@@ -21165,6 +21169,7 @@ Here's a list of public Fediverse services.
 | `ivampiresp.com` | Yes |
 | `ivan.ac` | No |
 | `ivan.computer` | Yes |
+| `ivanatanasov.eu` | No |
 | `ivancan.com` | No |
 | `ivanfr.com` | No |
 | `ivaniotti.com` | No |
@@ -27607,6 +27612,7 @@ Here's a list of public Fediverse services.
 | `mastodon.miami` | No |
 | `mastodon.ml` | Yes |
 | `mastodon.moe` | Yes |
+| `mastodon.moscow` | Yes |
 | `mastodon.mx` | Yes |
 | `mastodon.my` | No |
 | `mastodon.my.id` | Yes |
@@ -31900,6 +31906,7 @@ Here's a list of public Fediverse services.
 | `nexifyhub.com` | Yes |
 | `nexitally.buzz` | Yes |
 | `nexon.su` | Yes |
+| `nexorium.social` | No |
 | `nexryai.online` | No |
 | `nextblock.nl` | No |
 | `nextcloud-music-vault.de` | No |
@@ -39075,6 +39082,7 @@ Here's a list of public Fediverse services.
 | `ronnieburt.com` | Yes |
 | `ronnilix.eu` | No |
 | `roobre.es` | No |
+| `rooby.io` | No |
 | `roocita.com` | Yes |
 | `roofo.cc` | Yes |
 | `roofur.com` | No |
@@ -41571,6 +41579,7 @@ Here's a list of public Fediverse services.
 | `sitesource.be` | No |
 | `siteyui.site` | No |
 | `sith.is` | No |
+| `sitios.win` | Yes |
 | `sittig.io` | No |
 | `sitwell.dev` | Yes |
 | `sivar.cafe` | No |
@@ -51017,6 +51026,7 @@ Here's a list of public Fediverse services.
 | `xn--uiq450e.club` | No |
 | `xn--undsk-jra.se` | Yes |
 | `xn--videogames-bo3g.gg` | No |
+| `xn--vilmoskrte-kcb.de` | No |
 | `xn--vusz0j.life` | Yes |
 | `xn--wda.fr` | No |
 | `xn--wmq.jp` | No |
@@ -52251,8 +52261,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,868 |
-| Normal | 37,335 |
+| Cloudflare | 14,870 |
+| Normal | 37,343 |
 
 
 </details>
