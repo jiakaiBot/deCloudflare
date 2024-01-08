@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,324 |
+| com | 8,326 |
 | social | 4,752 |
 | net | 4,076 |
 | org | 2,729 |
@@ -10269,6 +10269,7 @@ Here's a list of public Fediverse services.
 | `ddo.jp` | Yes |
 | `ddoskey.com` | Yes |
 | `ddpnd.org` | Yes |
+| `ddrpodcast.com` | No |
 | `ddsc.life` | No |
 | `ddsec.de` | No |
 | `ddtcc.vip` | No |
@@ -23058,6 +23059,7 @@ Here's a list of public Fediverse services.
 | `kensimon.io` | No |
 | `kent-dobias.com` | No |
 | `kentaro1043.com` | Yes |
+| `kentarokuribayashi.com` | No |
 | `kepakovi.cz` | No |
 | `kephale.net` | Yes |
 | `ker.gay` | No |
@@ -52270,7 +52272,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,877 |
-| Normal | 37,344 |
+| Normal | 37,346 |
 
 
 </details>
