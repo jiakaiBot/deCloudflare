@@ -139,7 +139,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | fezgate.ovh | No |
 | ff0x.ca | Yes |
 | ffmuc.net | Yes |
-| fija-web.net | No |
 | flm9.net | No |
 | fltn.us | Yes |
 | flylcc.cc | Yes |
@@ -156,7 +155,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gewete.cloud | Yes |
 | gjrick.tw | Yes |
 | gkonuralp.com | No |
-| gotdns.ch | Yes |
 | haboy.top | Yes |
 | hahnjo.de | No |
 | haringstad.com | No |
@@ -173,7 +171,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | huseynov.work | Yes |
 | huyct.net | Yes |
 | huyhoangit.net | Yes |
-| hva.li | No |
 | i81.ru | No |
 | iddqd.uk | Yes |
 | iij.jp | Yes |
@@ -367,7 +364,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | syshero.org | No |
 | sytes.net | Yes |
 | t53.de | No |
-| tb4.me | No |
 | telekom.de | Yes |
 | thebuckners.org | No |
 | thethorsens.org | No |
@@ -400,7 +396,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wang.art | Yes |
 | wargan.io | No |
 | waringer-atg.de | No |
-| web-rated.ie | No |
 | webteufel.net | No |
 | wehao.net | Yes |
 | wikimedia-dns.org | No |
@@ -418,8 +413,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 208 |
-| Normal | 191 |
+| Cloudflare | 207 |
+| Normal | 187 |
 
 
-### 52.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
