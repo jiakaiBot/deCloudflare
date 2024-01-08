@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [snapshot-controller: error while generating certificate with cert manager](https://github.com/piraeusdatastore/helm-charts/issues/44)
 - [memory size exhausted Html2Text.php](https://github.com/freescout-helpdesk/freescout/issues/3667)
 - [Error when entering domain](https://github.com/notthebee/ansible-easy-vpn/issues/270)
 - [__main__.py: error: argument -t/tunnel: expected one argument](https://github.com/daswer123/xtts-api-server/issues/41)
