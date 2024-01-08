@@ -812,6 +812,7 @@ ns115.dns.cf-ns.net
 ns188.dns.cf-ns.net
 ns2.cloudflare.com
 ns2.love.ns.cloudflare.com
+ns2.watson.ns.cloudflare.com
 ns212.dns.cf-ns.com
 ns40.dns.cf-ns.net
 ns45.dns.cf-ns.com
