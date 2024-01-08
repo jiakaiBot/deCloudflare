@@ -15220,6 +15220,7 @@ Here's a list of public Fediverse services.
 | `foolish.computer` | No |
 | `foot.ee` | Yes |
 | `footballwelove.com` | No |
+| `footbath.me` | Yes |
 | `footbrid.ge` | No |
 | `footkaput.com` | No |
 | `footle.org` | No |
@@ -28602,7 +28603,7 @@ Here's a list of public Fediverse services.
 | `meru-golang.net` | No |
 | `merv.news` | No |
 | `merveill.es` | No |
-| `merveilles.town` | No |
+| `merveilles.town` | Yes |
 | `mery.cloud` | No |
 | `merylscarlett.info` | No |
 | `mes-courriers.fr` | No |
@@ -31483,6 +31484,7 @@ Here's a list of public Fediverse services.
 | `nekojimi.moe` | No |
 | `nekojita.moe` | No |
 | `nekokawa.net` | Yes |
+| `nekokaze.cc` | Yes |
 | `nekol.cc` | Yes |
 | `nekomi.one` | Yes |
 | `nekomimi.jp` | No |
@@ -52261,8 +52263,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,870 |
-| Normal | 37,343 |
+| Cloudflare | 14,873 |
+| Normal | 37,342 |
 
 
 </details>
