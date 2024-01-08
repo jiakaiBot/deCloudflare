@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,327 |
-| social | 4,752 |
+| social | 4,753 |
 | net | 4,077 |
 | org | 2,729 |
-| de | 2,596 |
+| de | 2,599 |
 
 
 - Mastodon, Pleroma, etc
@@ -4520,7 +4520,7 @@ Here's a list of public Fediverse services.
 | `benboyd.us` | No |
 | `benbrown.com` | No |
 | `benbuhse.com` | Yes |
-| `bencarneiro.com` | No |
+| `bencarneiro.com` | Yes |
 | `bencollier.uk` | No |
 | `bend.town` | No |
 | `bendik.io` | Yes |
@@ -10040,6 +10040,7 @@ Here's a list of public Fediverse services.
 | `dasbuchprojekt.com` | No |
 | `dasdeck.com` | No |
 | `dasein.icu` | No |
+| `dasfinkatos.de` | Yes |
 | `dasforum.org` | No |
 | `dasgeekcommunity.net` | No |
 | `dasgelobteland.art` | Yes |
@@ -10989,6 +10990,7 @@ Here's a list of public Fediverse services.
 | `didriksen.fo` | No |
 | `die-bingerin.de` | No |
 | `die-familie.link` | No |
+| `die-linke.social` | No |
 | `die-partei-reutlingen.de` | No |
 | `die-partei.social` | No |
 | `die-progressiven.de` | No |
@@ -19194,6 +19196,7 @@ Here's a list of public Fediverse services.
 | `hk-shuttle.net` | Yes |
 | `hkc.social` | No |
 | `hkdon.com` | Yes |
+| `hkit.de` | No |
 | `hklbgd.org` | No |
 | `hkpr.me` | Yes |
 | `hks.zone` | Yes |
@@ -20439,6 +20442,7 @@ Here's a list of public Fediverse services.
 | `indie.chat` | No |
 | `indie.computer` | No |
 | `indie.host` | No |
+| `indie.lol` | Yes |
 | `indieapps.space` | No |
 | `indieauthors.social` | No |
 | `indiebasement.live` | No |
@@ -47092,6 +47096,7 @@ Here's a list of public Fediverse services.
 | `troet.space` | No |
 | `troet.xyz` | No |
 | `troetbande.social` | No |
+| `troetbu.de` | Yes |
 | `troetco.de` | No |
 | `troeterei.de` | No |
 | `troetet.de` | No |
@@ -48154,6 +48159,7 @@ Here's a list of public Fediverse services.
 | `unterwaditzer.net` | Yes |
 | `until.cloud` | No |
 | `untildicedouspart.com` | Yes |
+| `untileternity.ca` | No |
 | `untitld.space` | No |
 | `untitled.lol` | Yes |
 | `untitledcyberpunkproject.com` | No |
@@ -52278,8 +52284,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,878 |
-| Normal | 37,352 |
+| Cloudflare | 14,882 |
+| Normal | 37,354 |
 
 
 </details>
