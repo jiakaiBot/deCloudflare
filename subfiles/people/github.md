@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [memory size exhausted Html2Text.php](https://github.com/freescout-helpdesk/freescout/issues/3667)
+- [Error when entering domain](https://github.com/notthebee/ansible-easy-vpn/issues/270)
 - [__main__.py: error: argument -t/tunnel: expected one argument](https://github.com/daswer123/xtts-api-server/issues/41)
 - [streamSSE() throws an error on close](https://github.com/honojs/hono/issues/1918)
 - [Unable to open devcontainer in VSCode on local machine behind Cloudflare Zero Trust proxy](https://github.com/devcontainers/feature-starter/issues/75)
