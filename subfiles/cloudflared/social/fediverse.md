@@ -2304,6 +2304,7 @@ Here's a list of public Fediverse services.
 | `andreafranceschini.org` | No |
 | `andreas-edler.de` | No |
 | `andreas-moor.de` | No |
+| `andreas-moser.blog` | No |
 | `andreasjr.com` | Yes |
 | `andreaskilgus.de` | No |
 | `andreaslonn.se` | Yes |
@@ -8270,7 +8271,7 @@ Here's a list of public Fediverse services.
 | `coffein.life` | No |
 | `coffin.rip` | Yes |
 | `coffins.space` | No |
-| `cofvevesocial.com` | Yes |
+| `cofvevesocial.com` | No |
 | `cogdogblog.com` | No |
 | `cogentleman.com` | No |
 | `cogindo.net` | Yes |
@@ -9154,7 +9155,7 @@ Here's a list of public Fediverse services.
 | `cryo.social` | No |
 | `cryobyte.net` | Yes |
 | `cryoem.social` | No |
-| `cryofault.net` | No |
+| `cryofault.net` | Yes |
 | `cryoit.com` | Yes |
 | `cryolog.in` | No |
 | `cryovex.com` | Yes |
@@ -52248,7 +52249,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,864 |
-| Normal | 37,335 |
+| Normal | 37,336 |
 
 
 </details>
