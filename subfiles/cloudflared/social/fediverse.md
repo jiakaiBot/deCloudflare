@@ -1426,7 +1426,7 @@ Here's a list of public Fediverse services.
 | `agilist.social` | No |
 | `agilodon.social` | No |
 | `agirpourlenvironnement.org` | Yes |
-| `aglaea.me` | Yes |
+| `aglaea.me` | No |
 | `agmjub.fr` | Yes |
 | `agnail.net` | No |
 | `agneraya.com` | No |
@@ -20036,7 +20036,7 @@ Here's a list of public Fediverse services.
 | `iconfactory.world` | No |
 | `icosahedron.website` | No |
 | `icosaverse.social` | No |
-| `icreate.social` | Yes |
+| `icreate.social` | No |
 | `ict4d.at` | No |
 | `icu.social` | No |
 | `iculture.social` | Yes |
@@ -23635,6 +23635,7 @@ Here's a list of public Fediverse services.
 | `kobitola.com` | No |
 | `koboksdon.net` | Yes |
 | `kobokskobok.com` | No |
+| `kobold-cave.eu` | No |
 | `kobold.cafe` | No |
 | `kobold.house` | No |
 | `kobold.space` | No |
@@ -35278,7 +35279,7 @@ Here's a list of public Fediverse services.
 | `pettancos.com` | No |
 | `pettanko.art` | No |
 | `pettet.social` | No |
-| `pettigrew.org.uk` | No |
+| `pettigrew.org.uk` | Yes |
 | `pettingzoo.co` | Yes |
 | `pettingzoo.dev` | No |
 | `pettingzoo.gallery` | No |
@@ -43171,6 +43172,7 @@ Here's a list of public Fediverse services.
 | `stealingyour.info` | No |
 | `steam-don.fun` | Yes |
 | `steamdb.info` | Yes |
+| `steamedbread.pro` | No |
 | `steamedfish.org` | Yes |
 | `steampunk.social` | Yes |
 | `steamstdn.com` | No |
@@ -52245,8 +52247,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,865 |
-| Normal | 37,332 |
+| Cloudflare | 14,864 |
+| Normal | 37,335 |
 
 
 </details>
