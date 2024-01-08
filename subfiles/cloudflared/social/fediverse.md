@@ -49128,6 +49128,7 @@ Here's a list of public Fediverse services.
 | `vollol.de` | No |
 | `volochay.info` | No |
 | `voloshyn.xyz` | No |
+| `volpeon.ink` | No |
 | `volquardsen.photo` | No |
 | `volse.no` | No |
 | `volt.cafe` | No |
@@ -52278,7 +52279,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,878 |
-| Normal | 37,351 |
+| Normal | 37,352 |
 
 
 </details>
