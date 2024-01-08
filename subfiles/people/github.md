@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to open devcontainer in VSCode on local machine behind Cloudflare Zero Trust proxy](https://github.com/devcontainers/feature-starter/issues/75)
 - [unable to generate a certificate for the domains traefik.domain.com:](https://github.com/TheYkk/traefik-whoami/issues/1)
 - [Not issues but important](https://github.com/jpillora/chisel/issues/486)
 - [RFC: Enhancing DCS Dropzone Mod Manager with a Manual & Automated Registry Update System](https://github.com/flying-dice/dcs-dropzone-mod-manager/issues/1)
