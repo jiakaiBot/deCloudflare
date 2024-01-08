@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,326 |
+| com | 8,327 |
 | social | 4,752 |
-| net | 4,076 |
+| net | 4,077 |
 | org | 2,729 |
 | de | 2,596 |
 
@@ -12832,6 +12832,7 @@ Here's a list of public Fediverse services.
 | `elpiskey.com` | No |
 | `elpiskey.xyz` | No |
 | `elqhost.net` | No |
+| `elquilosonriente.com` | No |
 | `elreino.online` | No |
 | `elrod.me` | Yes |
 | `elrubius.fans` | No |
@@ -30264,6 +30265,7 @@ Here's a list of public Fediverse services.
 | `mstbot-inst.xyz` | No |
 | `mstcloud.work` | No |
 | `mstd.gg` | No |
+| `mstd.ink` | Yes |
 | `mstd.it` | No |
 | `mstd.onl` | No |
 | `mstd.social` | No |
@@ -30512,6 +30514,7 @@ Here's a list of public Fediverse services.
 | `muenster.social` | No |
 | `muensterland.social` | Yes |
 | `muensterman.social` | No |
+| `muenzl.net` | No |
 | `muesli.org.uk` | No |
 | `muessenreden.de` | No |
 | `muffin-uwu.com` | Yes |
@@ -37362,6 +37365,7 @@ Here's a list of public Fediverse services.
 | `quiet.social` | Yes |
 | `quiet.town` | No |
 | `quietcar.social` | No |
+| `quietfeathers.space` | No |
 | `quiethabits.net` | No |
 | `quietorbit.de` | Yes |
 | `quietplace.xyz` | No |
@@ -37816,6 +37820,7 @@ Here's a list of public Fediverse services.
 | `rankett.net` | No |
 | `rankle.uk` | No |
 | `ranobe.net` | Yes |
+| `ranovers.fr` | No |
 | `ranran.tw` | No |
 | `ranranhome.info` | Yes |
 | `ranranhome.site` | No |
@@ -40082,6 +40087,7 @@ Here's a list of public Fediverse services.
 | `scalie.business` | No |
 | `scalie.club` | No |
 | `scalie.eu` | Yes |
+| `scalie.zone` | No |
 | `scalies.cc` | Yes |
 | `scalingo.io` | Yes |
 | `scallybambie.me` | Yes |
@@ -52271,8 +52277,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,877 |
-| Normal | 37,346 |
+| Cloudflare | 14,878 |
+| Normal | 37,351 |
 
 
 </details>
