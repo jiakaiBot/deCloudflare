@@ -33667,7 +33667,7 @@ Here's a list of public Fediverse services.
 | `omtc.fr` | No |
 | `omx.nl` | No |
 | `on-o.com` | No |
-| `on-t.work` | No |
+| `on-t.work` | Yes |
 | `on.vu` | No |
 | `on1000mark.club` | No |
 | `on2it.net` | Yes |
@@ -39093,6 +39093,7 @@ Here's a list of public Fediverse services.
 | `roofo.cc` | Yes |
 | `roofur.com` | No |
 | `rookieo.com` | No |
+| `roolone.me` | Yes |
 | `room19.com` | No |
 | `room1969.net` | No |
 | `room4.dev` | Yes |
@@ -52268,8 +52269,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,875 |
-| Normal | 37,345 |
+| Cloudflare | 14,877 |
+| Normal | 37,344 |
 
 
 </details>
