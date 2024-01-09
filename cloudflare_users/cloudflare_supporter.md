@@ -4805,6 +4805,7 @@ Do not create new issue or we will close it as duplicate.
 | [haruyq_@X](https://twitter.com/haruyq_/status/1686237868698783744) | advertise |
 | [HarveyRamer@X](https://twitter.com/HarveyRamer/status/1628381650013851649) | advertise |
 | [haryadh66480571@X](https://twitter.com/haryadh66480571/status/1602709011907973123) | advertise |
+| [hasanka22391201@X](https://twitter.com/hasanka22391201/status/1744637035787481539) | advertise |
 | [hasanrefaeiah@X](https://twitter.com/hasanrefaeiah/status/1383784698942345223) | advertise |
 | [Haseebkhankhll@X](https://twitter.com/Haseebkhankhll/status/1687559007714820096) | advertise |
 | [Hashimkhan95003@X](https://twitter.com/Hashimkhan95003/status/1744048297260581191) | advertise |
@@ -13171,6 +13172,7 @@ Do not create new issue or we will close it as duplicate.
 | [Susuuumurni@X](https://twitter.com/Susuuumurni/status/1710213715143106701) | advertise |
 | [SuSuWin06068758@X](https://twitter.com/SuSuWin06068758/status/1553316092931481603) | advertise |
 | [suthasn_re84534@X](https://twitter.com/suthasn_re84534/status/1742835327088443828) | advertise |
+| [suthat1999@X](https://twitter.com/suthat1999/status/1744638748338552934) | advertise |
 | [Suthoncat99@X](https://twitter.com/Suthoncat99/status/1741409743187636492) | advertise |
 | [SuTrn58550307@X](https://twitter.com/SuTrn58550307/status/1603538130337812480) | advertise |
 | [suuccesethiopa@X](https://twitter.com/suuccesethiopa/status/1510972073769902082) | advertise |
