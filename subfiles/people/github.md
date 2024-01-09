@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when upgrading to Version 1.8.117](https://github.com/freescout-helpdesk/freescout/issues/3674)
 - [Handle new error page](https://github.com/rslifka/vault-zero/issues/37)
 - [How to host this public-demo on vps with custom domain?](https://github.com/payloadcms/public-demo/issues/37)
 - [Captchas will not open, impossible to post](https://github.com/K1rakishou/Kuroba-Experimental/issues/977)
