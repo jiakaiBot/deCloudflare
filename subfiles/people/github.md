@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Google PageSpeed Unhandled error response on desktop but lighthouse on dev mode is working](https://github.com/GoogleChrome/lighthouse/issues/15736)
 - [Aniwave CSP breaks Cloudflare challenge](https://github.com/Karmesinrot/Anifiltrs/issues/52)
 - [VERSION MISMATCH error during manual sync of large square store](https://github.com/woocommerce/woocommerce-square/issues/44)
 - [snapshot-controller: error while generating certificate with cert manager](https://github.com/piraeusdatastore/helm-charts/issues/44)
