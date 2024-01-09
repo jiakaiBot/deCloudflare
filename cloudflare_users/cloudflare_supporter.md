@@ -150,6 +150,7 @@ Do not create new issue or we will close it as duplicate.
 | [19bunmam@X](https://twitter.com/19bunmam/status/1685202130616082432) | advertise |
 | [19Naywinaung1@X](https://twitter.com/19Naywinaung1/status/1404472645710540803) | advertise |
 | [23gundem@X](https://twitter.com/23gundem/status/1601520818466717696) | advertise |
+| [23_tun201@X](https://twitter.com/23_tun201/status/1744597576987689086) | advertise |
 | [27Muaon@X](https://twitter.com/27Muaon/status/1391459657881772032) | advertise |
 | [30deapanupong@X](https://twitter.com/30deapanupong/status/1395835660913631232) | advertise |
 | [31Thanhson@X](https://twitter.com/31Thanhson/status/1579494987733274624) | advertise |
@@ -6624,6 +6625,7 @@ Do not create new issue or we will close it as duplicate.
 | [KaryKatory@X](https://twitter.com/KaryKatory/status/1725833584119095553) | advertise |
 | [KASA021907@X](https://twitter.com/KASA021907/status/1701282626408178069) | advertise |
 | [KASAB786@X](https://twitter.com/KASAB786/status/1682144200605982720) | advertise |
+| [kashettipally@X](https://twitter.com/kashettipally/status/1744570133316858035) | advertise |
 | [kashyapyash306@X](https://twitter.com/kashyapyash306/status/1402270575293239306) | advertise |
 | [KasiditBoom@X](https://twitter.com/KasiditBoom/status/1608692849939460100) | advertise |
 | [Kasie100000@X](https://twitter.com/Kasie100000/status/1493728381715714050) | advertise |
@@ -9733,6 +9735,7 @@ Do not create new issue or we will close it as duplicate.
 | [nazri143828@X](https://twitter.com/nazri143828/status/1663918494298124293) | advertise |
 | [Na_AlFayeez@X](https://twitter.com/Na_AlFayeez/status/1388195478844674055) | advertise |
 | [nbranche@X](https://twitter.com/nbranche/status/1670499966219874304) | advertise |
+| [NCH_2312@X](https://twitter.com/NCH_2312/status/1744597717924589636) | advertise |
 | [NCRCET@X](https://twitter.com/NCRCET/status/1670669145057402886) | advertise |
 | [Ndahe8@X](https://twitter.com/Ndahe8/status/1387121668582117377) | advertise |
 | [NdIosdg@X](https://twitter.com/NdIosdg/status/1502104011155324932) | advertise |
@@ -10723,6 +10726,7 @@ Do not create new issue or we will close it as duplicate.
 | [parasyte_x@X](https://twitter.com/parasyte_x/status/1377532238997254144) | advertise |
 | [parham1man@X](https://twitter.com/parham1man/status/1683129665446199297) | advertise |
 | [Pari67479035@X](https://twitter.com/Pari67479035/status/1577182218887340032) | advertise |
+| [parichat602151@X](https://twitter.com/parichat602151/status/1744571838968258894) | advertise |
 | [parkmay33373116@X](https://twitter.com/parkmay33373116/status/1679967287250395136) | advertise |
 | [park_pollen@X](https://twitter.com/park_pollen/status/1390024654333497346) | advertise |
 | [Parsahoushangi@X](https://twitter.com/Parsahoushangi/status/1585717330990047232) | advertise |
@@ -15082,6 +15086,7 @@ Do not create new issue or we will close it as duplicate.
 | [wannakhaingsoe@X](https://twitter.com/wannakhaingsoe/status/1390612150054440963) | advertise |
 | [wanstyle2020@X](https://twitter.com/wanstyle2020/status/1501298115545952261) | advertise |
 | [wanswan035@X](https://twitter.com/wanswan035/status/1636415889452175363) | advertise |
+| [WantaneeSrisun2@X](https://twitter.com/WantaneeSrisun2/status/1744589997897043997) | advertise |
 | [Wantt16@X](https://twitter.com/Wantt16/status/1487690284041633792) | advertise |
 | [Wanzaibaobing@X](https://twitter.com/Wanzaibaobing/status/1578069519355895809) | advertise |
 | [Wan_One_19@X](https://twitter.com/Wan_One_19/status/1398298274910646273) | advertise |
@@ -15863,6 +15868,7 @@ Do not create new issue or we will close it as duplicate.
 | [zentaurios@X](https://twitter.com/zentaurios/status/1563325140116832256) | advertise |
 | [zephel01@X](https://twitter.com/zephel01/status/1391148039809634308) | advertise |
 | [zephraCloud@X](https://twitter.com/zephraCloud/status/1542493564915142656) | advertise |
+| [ZeRafolL00@X](https://twitter.com/ZeRafolL00/status/1744542071426613361) | advertise |
 | [Zeref44276552@X](https://twitter.com/Zeref44276552/status/1558349121592983552) | advertise |
 | [Zeris07095715@X](https://twitter.com/Zeris07095715/status/1381528506983575552) | advertise |
 | [ZERO140324@X](https://twitter.com/ZERO140324/status/1599431939580366848) | advertise |
