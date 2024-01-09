@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,114 |
 | social | 4,750 |
-| net | 4,030 |
+| net | 4,031 |
 | org | 2,677 |
 | de | 2,585 |
 
@@ -23165,6 +23165,7 @@ Here's a list of public Fediverse services.
 | `kiraako.work` | No |
 | `kiracollie.dog` | Yes |
 | `kirakiratter.com` | Yes |
+| `kirameki.cafe` | Yes |
 | `kiran.dog` | Yes |
 | `kirangaikwad.com` | No |
 | `kiranshila.com` | No |
@@ -32214,6 +32215,7 @@ Here's a list of public Fediverse services.
 | `noip.at` | No |
 | `noip.me` | No |
 | `noir.pub` | Yes |
+| `noise.baby` | No |
 | `noise.rocks` | No |
 | `noise.social` | No |
 | `noisebridge.social` | No |
@@ -40167,7 +40169,7 @@ Here's a list of public Fediverse services.
 | `seaofpeers.com` | Yes |
 | `seaquillcatstone.com` | No |
 | `searchingfor.top` | Yes |
-| `searchingfortw.ink` | No |
+| `searchingfortw.ink` | Yes |
 | `searx.li` | No |
 | `seaside.cafe` | No |
 | `seaswallow.me` | Yes |
@@ -49721,6 +49723,7 @@ Here's a list of public Fediverse services.
 | `windy.me` | No |
 | `windycity.style` | No |
 | `winecountry.social` | No |
+| `winedeck.net` | No |
 | `winfiniscript.ga` | No |
 | `winframe.de` | Yes |
 | `wingartz.de` | No |
@@ -51824,8 +51827,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,746 |
-| Normal | 37,030 |
+| Cloudflare | 14,748 |
+| Normal | 37,031 |
 
 
 </details>
