@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,329 |
 | social | 4,753 |
 | net | 4,077 |
-| org | 2,729 |
+| org | 2,730 |
 | de | 2,599 |
 
 
@@ -44210,6 +44210,7 @@ Here's a list of public Fediverse services.
 | `systemreboot.net` | No |
 | `systems.fail` | No |
 | `systems.social` | No |
+| `systemsapproach.org` | No |
 | `systemsfail.net` | No |
 | `systemswithin.systems` | No |
 | `systemz.pl` | Yes |
@@ -52292,7 +52293,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,887 |
-| Normal | 37,356 |
+| Normal | 37,357 |
 
 
 </details>
