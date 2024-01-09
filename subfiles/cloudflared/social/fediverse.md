@@ -5103,7 +5103,7 @@ Here's a list of public Fediverse services.
 | `bjelomorkanal.de` | No |
 | `bjerrang.com` | No |
 | `bjgp.social` | No |
-| `bjhess.com` | No |
+| `bjhess.com` | Yes |
 | `bjmendelson.com` | No |
 | `bjo.my.id` | Yes |
 | `bjoern-tantau.de` | No |
@@ -18046,6 +18046,7 @@ Here's a list of public Fediverse services.
 | `gyoza.monster` | No |
 | `gypsyacres.nz` | No |
 | `gypsymiles.blog` | No |
+| `gyptazy.ch` | No |
 | `gyt.is` | No |
 | `gyudn.com` | No |
 | `gyudon.live` | No |
@@ -52306,7 +52307,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,893 |
+| Cloudflare | 14,894 |
 | Normal | 37,365 |
 
 
