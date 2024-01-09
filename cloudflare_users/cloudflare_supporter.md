@@ -7561,6 +7561,7 @@ Do not create new issue or we will close it as duplicate.
 | [LaptopsP@X](https://twitter.com/LaptopsP/status/1380583685615849474) | advertise |
 | [lapyae16308476@X](https://twitter.com/lapyae16308476/status/1391962821668184065) | advertise |
 | [laquan2411@X](https://twitter.com/laquan2411/status/1553299969322655744) | advertise |
+| [Laranjeiras@X](https://twitter.com/Laranjeiras/status/1744785392975364228) | advertise |
 | [larenmat1@X](https://twitter.com/larenmat1/status/1728469361441054900) | advertise |
 | [Laron_Barca@X](https://twitter.com/Laron_Barca/status/1638633774807396358) | advertise |
 | [Larry06951708@X](https://twitter.com/Larry06951708/status/1543723562397319170) | advertise |
