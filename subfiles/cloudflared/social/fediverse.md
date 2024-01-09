@@ -728,6 +728,7 @@ Here's a list of public Fediverse services.
 | `6wsw9.com` | No |
 | `7.cr` | Yes |
 | `7144.party` | No |
+| `73-110.pl` | No |
 | `7365000.xyz` | Yes |
 | `73k.us` | No |
 | `757.place` | No |
@@ -9581,7 +9582,7 @@ Here's a list of public Fediverse services.
 | `cyberunions.org` | No |
 | `cybervalley.org` | No |
 | `cybervcr.com` | Yes |
-| `cyberveins.eu` | No |
+| `cyberveins.eu` | Yes |
 | `cyberverse.bar` | No |
 | `cybervillains.com` | Yes |
 | `cyberwa.re` | No |
@@ -14894,7 +14895,7 @@ Here's a list of public Fediverse services.
 | `fivebyfive.social` | No |
 | `fiveeighteen.net` | No |
 | `fivem-paradise.com` | No |
-| `fivem.social` | No |
+| `fivem.social` | Yes |
 | `fiveop.de` | No |
 | `fivest.one` | Yes |
 | `fivestone.info` | Yes |
@@ -52292,8 +52293,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,887 |
-| Normal | 37,357 |
+| Cloudflare | 14,889 |
+| Normal | 37,356 |
 
 
 </details>
