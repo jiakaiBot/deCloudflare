@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Building R3F with WordPress and then PageSpeed timeout.](https://github.com/pmndrs/react-three-fiber/issues/3147)
 - [Google PageSpeed Unhandled error response on desktop but lighthouse on dev mode is working](https://github.com/GoogleChrome/lighthouse/issues/15736)
 - [Aniwave CSP breaks Cloudflare challenge](https://github.com/Karmesinrot/Anifiltrs/issues/52)
 - [VERSION MISMATCH error during manual sync of large square store](https://github.com/woocommerce/woocommerce-square/issues/44)
