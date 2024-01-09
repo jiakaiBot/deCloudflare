@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 8,332 |
 | social | 4,754 |
 | net | 4,077 |
-| org | 2,730 |
-| de | 2,600 |
+| org | 2,734 |
+| de | 2,601 |
 
 
 - Mastodon, Pleroma, etc
@@ -5828,6 +5828,7 @@ Here's a list of public Fediverse services.
 | `boxpleats.com` | No |
 | `boyf.gay` | No |
 | `boyfails.me` | No |
+| `boykisser.systems` | Yes |
 | `boykissers.club` | No |
 | `boymoder.biz` | No |
 | `boyos.org` | No |
@@ -9140,6 +9141,7 @@ Here's a list of public Fediverse services.
 | `crtaxon.info` | No |
 | `crtcollective.com` | No |
 | `crucialsommets.net` | No |
+| `crucialtracks.org` | No |
 | `crucible.world` | No |
 | `cruiserhome.org` | No |
 | `cruisers.social` | No |
@@ -18899,6 +18901,7 @@ Here's a list of public Fediverse services.
 | `herokai.cafe` | No |
 | `herokuapp.com` | No |
 | `herolfg.com` | No |
+| `herr-jemineh.de` | No |
 | `herr-jemineh.org` | No |
 | `herrbenedikt.de` | Yes |
 | `herrhaensel.de` | No |
@@ -22766,6 +22769,7 @@ Here's a list of public Fediverse services.
 | `karkatdyinginagluetrap.com` | No |
 | `karl.guru` | No |
 | `karlender.net` | No |
+| `karliner.org` | No |
 | `karlmarx.social` | No |
 | `karlnotcarl.com` | No |
 | `karloskar.org` | No |
@@ -46969,6 +46973,7 @@ Here's a list of public Fediverse services.
 | `travelsoftux.co.uk` | No |
 | `travisbriggs.com` | No |
 | `travisestell.com` | No |
+| `travisholland.com.au` | No |
 | `travisshears.xyz` | No |
 | `travisthieman.com` | Yes |
 | `travnewmatic.com` | Yes |
@@ -48079,6 +48084,7 @@ Here's a list of public Fediverse services.
 | `universe.cx` | Yes |
 | `universeodon.com` | Yes |
 | `universetoday.com` | Yes |
+| `universiteruraledescevennes.org` | No |
 | `universoalterno.es` | No |
 | `uniwa.gr` | No |
 | `unix.dog` | Yes |
@@ -49769,6 +49775,7 @@ Here's a list of public Fediverse services.
 | `weebvr.com` | No |
 | `weebvr.social` | No |
 | `weebyte.com` | Yes |
+| `weecology.org` | No |
 | `weedfediverse.de` | No |
 | `weedis.life` | Yes |
 | `weedsoft.xyz` | No |
@@ -52307,8 +52314,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,894 |
-| Normal | 37,365 |
+| Cloudflare | 14,895 |
+| Normal | 37,371 |
 
 
 </details>
