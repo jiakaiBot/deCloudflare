@@ -8644,6 +8644,7 @@ Do not create new issue or we will close it as duplicate.
 | [mergencez@X](https://twitter.com/mergencez/status/1501549795122450437) | advertise |
 | [Merisaa_XXB@X](https://twitter.com/Merisaa_XXB/status/1581516543950696449) | advertise |
 | [MernaElfar7@X](https://twitter.com/MernaElfar7/status/1580295509318983681) | advertise |
+| [merrygreek@X](https://twitter.com/merrygreek/status/1744656959599739062) | advertise |
 | [mertcangokgoz@X](https://twitter.com/mertcangokgoz/status/1399434909039611907) | advertise |
 | [mertusbk@X](https://twitter.com/mertusbk/status/1711685347027886576) | advertise |
 | [MES31_82@X](https://twitter.com/MES31_82/status/1401340927495581698) | advertise |
@@ -13303,6 +13304,7 @@ Do not create new issue or we will close it as duplicate.
 | [TamimRupo@X](https://twitter.com/TamimRupo/status/1527364413397041153) | advertise |
 | [tamir_landesman@X](https://twitter.com/tamir_landesman/status/1534418462373605376) | advertise |
 | [tamkumarbazcom@X](https://twitter.com/tamkumarbazcom/status/1631277101327216640) | advertise |
+| [tammai2421677@X](https://twitter.com/tammai2421677/status/1744648010221686998) | advertise |
 | [Tammy524Hunter@X](https://twitter.com/Tammy524Hunter/status/1378944389217681408) | advertise |
 | [TamNguy02203080@X](https://twitter.com/TamNguy02203080/status/1389605980724359172) | advertise |
 | [Tan726705Hai@X](https://twitter.com/Tan726705Hai/status/1685573036987269121) | advertise |
