@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Handle new error page](https://github.com/rslifka/vault-zero/issues/37)
 - [How to host this public-demo on vps with custom domain?](https://github.com/payloadcms/public-demo/issues/37)
 - [Captchas will not open, impossible to post](https://github.com/K1rakishou/Kuroba-Experimental/issues/977)
 - [not Genuine copy message](https://github.com/trueToastedCode/ParallelsLab/issues/46)
