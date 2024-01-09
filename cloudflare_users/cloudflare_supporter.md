@@ -2427,6 +2427,7 @@ Do not create new issue or we will close it as duplicate.
 | [celotehsenja3@X](https://twitter.com/celotehsenja3/status/1506049300153118720) | advertise |
 | [cenamafakheri@X](https://twitter.com/cenamafakheri/status/1575468207720259584) | advertise |
 | [cenozoic69@X](https://twitter.com/cenozoic69/status/1384936734073532418) | advertise |
+| [Centredaffaire1@X](https://twitter.com/Centredaffaire1/status/1744782336330191335) | advertise |
 | [CentreElites@X](https://twitter.com/CentreElites/status/1500457148152786944) | advertise |
 | [Cephas_Stephen_@X](https://twitter.com/Cephas_Stephen_/status/1542164580817944578) | advertise |
 | [ceps_@X](https://twitter.com/ceps_/status/1690814442173513728) | advertise |
