@@ -14889,6 +14889,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vitnh15062481@X](https://twitter.com/Vitnh15062481/status/1402894739284783104) | advertise |
 | [VitPhmQuang1@X](https://twitter.com/VitPhmQuang1/status/1393441308887244804) | advertise |
 | [vivian_eyes9@X](https://twitter.com/vivian_eyes9/status/1400989452944637952) | advertise |
+| [VivoY2067727038@X](https://twitter.com/VivoY2067727038/status/1744674572031680784) | advertise |
 | [Vizzky1@X](https://twitter.com/Vizzky1/status/1384922814038302720) | advertise |
 | [Vi_Hieu_@X](https://twitter.com/Vi_Hieu_/status/1728453828255822064) | advertise |
 | [Vjmohan39051357@X](https://twitter.com/Vjmohan39051357/status/1398332820154556416) | advertise |
@@ -15110,6 +15111,7 @@ Do not create new issue or we will close it as duplicate.
 | [watermelaa@X](https://twitter.com/watermelaa/status/1379361436393041922) | advertise |
 | [wathanminbo@X](https://twitter.com/wathanminbo/status/1394217050822909952) | advertise |
 | [WathonePaing@X](https://twitter.com/WathonePaing/status/1526022316765122560) | advertise |
+| [Wattanaa15@X](https://twitter.com/Wattanaa15/status/1744667061786394799) | advertise |
 | [wawasheera1@X](https://twitter.com/wawasheera1/status/1531105400228941824) | advertise |
 | [waw_mart@X](https://twitter.com/waw_mart/status/1605816108291948544) | advertise |
 | [wayamoti2015@X](https://twitter.com/wayamoti2015/status/1671126217167360005) | advertise |
