@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,333 |
 | social | 4,754 |
-| net | 4,078 |
+| net | 4,080 |
 | org | 2,736 |
 | de | 2,601 |
 
@@ -8864,6 +8864,7 @@ Here's a list of public Fediverse services.
 | `coyotelot.us` | No |
 | `coyotesin.space` | Yes |
 | `coyotetracks.org` | No |
+| `coyp.us` | No |
 | `coywolf.photos` | Yes |
 | `coywolf.social` | Yes |
 | `coza.cloud` | No |
@@ -16809,6 +16810,7 @@ Here's a list of public Fediverse services.
 | `genzedong.net` | No |
 | `genzine.xyz` | No |
 | `geobla.net` | No |
+| `geocat.net` | No |
 | `geocities.institute` | No |
 | `geoff-parker.com` | No |
 | `geoffdunham.photo` | Yes |
@@ -23722,6 +23724,7 @@ Here's a list of public Fediverse services.
 | `kohan.pl` | Yes |
 | `koharu.app` | Yes |
 | `kohl.dev` | No |
+| `kohler.is` | No |
 | `kohodon.com` | No |
 | `kohrville.net` | No |
 | `koi.moe` | Yes |
@@ -24545,6 +24548,7 @@ Here's a list of public Fediverse services.
 | `landonsonline.me.uk` | No |
 | `landreville.blog` | No |
 | `landscapes.social` | No |
+| `landshut.pics` | No |
 | `landshut.social` | No |
 | `lanebuleuse.fr` | No |
 | `laneros.social` | Yes |
@@ -28610,6 +28614,7 @@ Here's a list of public Fediverse services.
 | `mercurywork.shop` | Yes |
 | `mercut.io` | No |
 | `merded.zip` | Yes |
+| `meredith.cc` | No |
 | `meremortalspodcast.shop` | Yes |
 | `merfolk.social` | No |
 | `mergl.in` | No |
@@ -34533,6 +34538,7 @@ Here's a list of public Fediverse services.
 | `p-y.ro` | Yes |
 | `p.lu` | Yes |
 | `p0.pm` | No |
+| `p01ar.net` | No |
 | `p0d.fr` | No |
 | `p0lymer.net` | No |
 | `p0wn3d.com` | No |
@@ -36341,6 +36347,7 @@ Here's a list of public Fediverse services.
 | `pony.tube` | Yes |
 | `ponychord.rocks` | No |
 | `ponyfrance.net` | No |
+| `ponysocial.ru` | No |
 | `ponytail.in` | No |
 | `ponyworld.net` | No |
 | `ponzu-mstdn.com` | No |
@@ -52326,7 +52333,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,899 |
-| Normal | 37,378 |
+| Normal | 37,385 |
 
 
 </details>
