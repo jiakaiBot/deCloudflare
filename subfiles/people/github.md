@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [How to host this public-demo on vps with custom domain?](https://github.com/payloadcms/public-demo/issues/37)
+- [Captchas will not open, impossible to post](https://github.com/K1rakishou/Kuroba-Experimental/issues/977)
 - [not Genuine copy message](https://github.com/trueToastedCode/ParallelsLab/issues/46)
 - [Building R3F with WordPress and then PageSpeed timeout.](https://github.com/pmndrs/react-three-fiber/issues/3147)
 - [Google PageSpeed Unhandled error response on desktop but lighthouse on dev mode is working](https://github.com/GoogleChrome/lighthouse/issues/15736)
