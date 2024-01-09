@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [not Genuine copy message](https://github.com/trueToastedCode/ParallelsLab/issues/46)
 - [Building R3F with WordPress and then PageSpeed timeout.](https://github.com/pmndrs/react-three-fiber/issues/3147)
 - [Google PageSpeed Unhandled error response on desktop but lighthouse on dev mode is working](https://github.com/GoogleChrome/lighthouse/issues/15736)
 - [Aniwave CSP breaks Cloudflare challenge](https://github.com/Karmesinrot/Anifiltrs/issues/52)
