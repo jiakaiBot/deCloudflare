@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,332 |
+| com | 8,333 |
 | social | 4,754 |
 | net | 4,078 |
-| org | 2,734 |
+| org | 2,736 |
 | de | 2,601 |
 
 
@@ -754,7 +754,7 @@ Here's a list of public Fediverse services.
 | `7lb.de` | Yes |
 | `7mi.site` | Yes |
 | `7minutemiles.com` | No |
-| `7nw.eu` | Yes |
+| `7nw.eu` | No |
 | `7pm.org` | No |
 | `7pounds.army` | Yes |
 | `7rg.de` | No |
@@ -15344,6 +15344,7 @@ Here's a list of public Fediverse services.
 | `fossgang.org` | No |
 | `fosshost.com` | Yes |
 | `fossil.wang` | No |
+| `fossilsfiction.co` | No |
 | `fossium.space` | Yes |
 | `fosslife.org` | No |
 | `fosspri.de` | No |
@@ -27991,6 +27992,7 @@ Here's a list of public Fediverse services.
 | `mats.sh` | Yes |
 | `matsimpson.com` | No |
 | `matsu-nico.me` | No |
+| `matsu.icu` | No |
 | `matsuda.tips` | No |
 | `matsukky.com` | Yes |
 | `matsuu.org` | Yes |
@@ -32870,6 +32872,7 @@ Here's a list of public Fediverse services.
 | `nowsci.com` | Yes |
 | `nowtech.io` | Yes |
 | `nox-rhea.org` | No |
+| `nox.onl` | Yes |
 | `noxblr.com` | No |
 | `noxexcelsis.online` | No |
 | `noxie.ch` | No |
@@ -33269,6 +33272,7 @@ Here's a list of public Fediverse services.
 | `obrell.se` | No |
 | `obrien.ws` | No |
 | `obrowne.eu` | No |
+| `obryan-net.com` | No |
 | `obrydd.com` | No |
 | `obscura-px.social` | No |
 | `obscuravpn.io` | No |
@@ -35211,6 +35215,7 @@ Here's a list of public Fediverse services.
 | `peppers.social` | No |
 | `pepple.us` | No |
 | `peppyfish.com` | Yes |
+| `peps72-sarthe.org` | No |
 | `pepsi.zone` | No |
 | `peq42.com` | Yes |
 | `perceptiontravel.tv` | Yes |
@@ -38349,6 +38354,7 @@ Here's a list of public Fediverse services.
 | `relict.one` | Yes |
 | `relict.space` | No |
 | `religious.social` | No |
+| `relilab.org` | No |
 | `reliverse.social` | No |
 | `relm.us` | No |
 | `relms.dev` | Yes |
@@ -39135,6 +39141,7 @@ Here's a list of public Fediverse services.
 | `room1969.net` | No |
 | `room4.dev` | Yes |
 | `room409.xyz` | No |
+| `room910.xyz` | Yes |
 | `roombob.cat` | Yes |
 | `roommatefriendfinder.com` | No |
 | `roomtone.social` | No |
@@ -52318,8 +52325,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,898 |
-| Normal | 37,372 |
+| Cloudflare | 14,899 |
+| Normal | 37,378 |
 
 
 </details>
