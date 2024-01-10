@@ -2448,6 +2448,7 @@ Here's a list of public Fediverse services.
 | `animeomake.com` | No |
 | `animepres.org` | No |
 | `animeprincess.net` | No |
+| `animerxn.hk` | Yes |
 | `animesexual.community` | No |
 | `animexx.de` | No |
 | `animint.fr` | No |
@@ -52337,7 +52338,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,901 |
+| Cloudflare | 14,902 |
 | Normal | 37,388 |
 
 
