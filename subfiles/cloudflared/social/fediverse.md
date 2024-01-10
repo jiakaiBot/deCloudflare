@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,752 |
 | net | 4,080 |
 | org | 2,735 |
-| de | 2,598 |
+| de | 2,599 |
 
 
 - Mastodon, Pleroma, etc
@@ -51011,6 +51011,7 @@ Here's a list of public Fediverse services.
 | `xn--eekf.net` | No |
 | `xn--eeks.xn--tckwe` | Yes |
 | `xn--einautisterzhlt-clb.de` | No |
+| `xn--erzhlzeitmaschiene-ntb.de` | No |
 | `xn--federao-2wa9a.social` | No |
 | `xn--fiqwix98h.jp` | No |
 | `xn--geldwsche24-p8a.eu` | No |
@@ -52319,7 +52320,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,903 |
-| Normal | 37,367 |
+| Normal | 37,368 |
 
 
 </details>
