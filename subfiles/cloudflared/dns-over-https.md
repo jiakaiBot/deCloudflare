@@ -77,15 +77,12 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cira.ca | Yes |
 | circl.lu | No |
 | clanto.cloud | No |
-| cloud-sekeng.com | No |
 | cloud88.com.au | Yes |
 | cloudflare-dns.com | Yes |
-| cloudns.ph | Yes |
 | cloudseriousshit.com | Yes |
 | cloudsides.com | Yes |
 | coconut.id | Yes |
 | codarbyte.de | No |
-| conana.info | Yes |
 | cubedns.com | No |
 | cuprum.ru | Yes |
 | cybergroove.net | Yes |
@@ -404,8 +401,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 200 |
-| Normal | 185 |
+| Cloudflare | 198 |
+| Normal | 184 |
 
 
-### 51.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
