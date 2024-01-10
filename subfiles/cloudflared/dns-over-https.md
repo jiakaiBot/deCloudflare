@@ -126,7 +126,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | edgy-dns.com | No |
 | eliatofani.ovh | No |
 | emiliyan.com | Yes |
-| enginyring.com | Yes |
 | enjoymylife.net | Yes |
 | eranext.net | Yes |
 | extrawdw.net | Yes |
@@ -176,7 +175,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | imkvq.com | No |
 | in-berlin.de | No |
 | indybanipal.com | No |
-| influa-dev.fr | Yes |
 | infracell.net | Yes |
 | inpssh.online | Yes |
 | inria.fr | No |
@@ -263,14 +261,12 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nic.cz | No |
 | nic.lv | No |
 | nielsdb.be | No |
-| niyaru.online | Yes |
 | niyawe.de | No |
 | njal.la | No |
 | noaddns.com | No |
 | node15.com | Yes |
 | noridev.moe | No |
 | novali.date | Yes |
-| nullapp.xyz | Yes |
 | o0o.re | No |
 | odvpn.ru | No |
 | ofdoom.net | Yes |
@@ -340,7 +336,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | skrzypiec.pl | No |
 | slinkyman.net | Yes |
 | softcom.net | No |
-| solonodes.net | Yes |
 | songnguyen.name.vn | Yes |
 | spacedns.org | No |
 | sparshbajaj.me | Yes |
@@ -409,8 +404,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 205 |
+| Cloudflare | 200 |
 | Normal | 185 |
 
 
-### 52.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
