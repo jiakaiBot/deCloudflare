@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Plugin Meta of BetterFolders not found](https://github.com/Zerthox/BetterDiscord-Plugins/issues/173)
 - [Is it possible to increase payload size?](https://github.com/OpenVPN/openvpn3/issues/293)
 - [Error when upgrading to Version 1.8.117](https://github.com/freescout-helpdesk/freescout/issues/3674)
 - [Handle new error page](https://github.com/rslifka/vault-zero/issues/37)
