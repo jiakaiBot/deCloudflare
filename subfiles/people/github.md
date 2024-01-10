@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error starting Vike with Hono](https://github.com/vikejs/vike/issues/1425)
+- [vweb Error parsing url with // appended](https://github.com/vlang/v/issues/20476)
 - [mimikatz doesn't load it](https://github.com/Meowmycks/catdumper/issues/2)
 - [Cloudflare Error Hiperdex](https://github.com/mikf/gallery-dl/issues/5046)
 - [Plugin Meta of BetterFolders not found](https://github.com/Zerthox/BetterDiscord-Plugins/issues/173)
