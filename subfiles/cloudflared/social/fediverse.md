@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,337 |
+| com | 8,338 |
 | social | 4,756 |
-| net | 4,082 |
+| net | 4,083 |
 | org | 2,737 |
 | de | 2,603 |
 
@@ -6799,6 +6799,7 @@ Here's a list of public Fediverse services.
 | `carlosjackson.me` | Yes |
 | `carlosjax.com` | Yes |
 | `carlosnietoherrera.com` | Yes |
+| `carlprey.com` | No |
 | `carma.red` | No |
 | `carman.social` | No |
 | `carmantini.com` | No |
@@ -8736,6 +8737,7 @@ Here's a list of public Fediverse services.
 | `corite.dev` | Yes |
 | `corkboard.social` | No |
 | `corklabdon.com` | No |
+| `cormont.cyou` | No |
 | `corn.social` | No |
 | `corndog.social` | Yes |
 | `corndog.uk` | Yes |
@@ -12629,6 +12631,7 @@ Here's a list of public Fediverse services.
 | `eiko-fried.com` | No |
 | `eikobear.blue` | No |
 | `eila.me` | No |
+| `eilhart.cz` | No |
 | `eilloh.net` | No |
 | `eimi-mastodon.com` | No |
 | `eimsbuettel.social` | No |
@@ -13995,6 +13998,7 @@ Here's a list of public Fediverse services.
 | `faraway.town` | Yes |
 | `farbton.biz` | No |
 | `farbun.social` | No |
+| `farcaller.net` | No |
 | `farci.org` | No |
 | `farend.co.jp` | No |
 | `farenji.net` | No |
@@ -30610,6 +30614,7 @@ Here's a list of public Fediverse services.
 | `mumbled.eu` | No |
 | `mumbled.xyz` | Yes |
 | `mumground.moe` | No |
+| `mun.nl` | No |
 | `munchkins.io` | No |
 | `mundane-semantics.net` | Yes |
 | `mundodesconocido.com` | No |
@@ -39447,6 +39452,7 @@ Here's a list of public Fediverse services.
 | `rumtreiberin.com` | No |
 | `run-girls.run` | Yes |
 | `run.app` | No |
+| `run.place` | Yes |
 | `runarcn.no` | No |
 | `runaway-melancholy.com` | Yes |
 | `runbsd.ca` | Yes |
@@ -46651,7 +46657,7 @@ Here's a list of public Fediverse services.
 | `tootally.me` | No |
 | `tootaloo.me` | No |
 | `tootbook.com` | No |
-| `tootbot.org` | No |
+| `tootbot.org` | Yes |
 | `tootbot.social` | No |
 | `tootchute.com` | Yes |
 | `tootcn.com` | No |
@@ -52356,8 +52362,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,911 |
-| Normal | 37,397 |
+| Cloudflare | 14,913 |
+| Normal | 37,401 |
 
 
 </details>
