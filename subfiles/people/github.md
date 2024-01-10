@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [mimikatz doesn't load it](https://github.com/Meowmycks/catdumper/issues/2)
 - [Cloudflare Error Hiperdex](https://github.com/mikf/gallery-dl/issues/5046)
 - [Plugin Meta of BetterFolders not found](https://github.com/Zerthox/BetterDiscord-Plugins/issues/173)
 - [Is it possible to increase payload size?](https://github.com/OpenVPN/openvpn3/issues/293)
