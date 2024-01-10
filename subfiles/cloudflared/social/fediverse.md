@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,324 |
-| social | 4,750 |
-| net | 4,077 |
-| org | 2,733 |
+| com | 8,326 |
+| social | 4,752 |
+| net | 4,079 |
+| org | 2,735 |
 | de | 2,596 |
 
 
@@ -677,6 +677,7 @@ Here's a list of public Fediverse services.
 | `5ma.club` | No |
 | `5ma.eu` | No |
 | `5pace.cloud` | Yes |
+| `5pm.zone` | No |
 | `5py.de` | No |
 | `5seen.social` | Yes |
 | `5sigma.io` | No |
@@ -4832,6 +4833,7 @@ Here's a list of public Fediverse services.
 | `bigpenis.life` | No |
 | `bigpod.eu` | Yes |
 | `bigpod.si` | Yes |
+| `bigrat.social` | Yes |
 | `bigrelay.social` | Yes |
 | `bigsecretwebsite.net` | No |
 | `bigshoulders.city` | No |
@@ -8269,6 +8271,7 @@ Here's a list of public Fediverse services.
 | `coffeehack.org` | No |
 | `coffeehouse.institute` | Yes |
 | `coffeese.net` | Yes |
+| `coffeeshopped.com` | No |
 | `coffeesurge.com` | No |
 | `coffein.life` | No |
 | `coffin.rip` | Yes |
@@ -14705,6 +14708,7 @@ Here's a list of public Fediverse services.
 | `fieldnotes.social` | No |
 | `fiely.net` | Yes |
 | `fietkau.social` | No |
+| `fietkau.software` | No |
 | `fiets.uk` | No |
 | `fietser.app` | No |
 | `fietser.social` | No |
@@ -15333,6 +15337,7 @@ Here's a list of public Fediverse services.
 | `fossgang.org` | No |
 | `fosshost.com` | Yes |
 | `fossil.wang` | No |
+| `fossilsfiction.co` | No |
 | `fossium.space` | Yes |
 | `fosslife.org` | No |
 | `fosspri.de` | No |
@@ -23806,6 +23811,7 @@ Here's a list of public Fediverse services.
 | `konpeki.icu` | Yes |
 | `konradlemanski.dev` | Yes |
 | `konradrundfunk.me` | No |
+| `konservgeek.se` | No |
 | `konsolenknecht.de` | No |
 | `konstantin.ist` | No |
 | `konstantintutsch.com` | No |
@@ -24590,6 +24596,7 @@ Here's a list of public Fediverse services.
 | `larrybeck.net` | No |
 | `larryrusswurm.com` | No |
 | `larrysanger.org` | Yes |
+| `lars-christian.com` | No |
 | `larsen.social` | Yes |
 | `larsfosdal.blog` | No |
 | `larsmueller.net` | Yes |
@@ -28543,6 +28550,7 @@ Here's a list of public Fediverse services.
 | `mentallogic.com` | Yes |
 | `mentalswarf.com` | No |
 | `menteva.ga` | No |
+| `mention.earth` | No |
 | `menuel.eu` | No |
 | `menzel-it.social` | No |
 | `menzns.de` | No |
@@ -35194,6 +35202,7 @@ Here's a list of public Fediverse services.
 | `peppers.social` | No |
 | `pepple.us` | No |
 | `peppyfish.com` | Yes |
+| `peps72-sarthe.org` | No |
 | `pepsi.zone` | No |
 | `peq42.com` | Yes |
 | `perceptiontravel.tv` | Yes |
@@ -35444,6 +35453,7 @@ Here's a list of public Fediverse services.
 | `phoenix.monster` | Yes |
 | `phoenix591.com` | Yes |
 | `phoenixharbor.com` | No |
+| `phoenixharbor.net` | Yes |
 | `phoenixharbor.social` | No |
 | `phoenixict.it` | No |
 | `phoenixinitiative.systems` | No |
@@ -35749,6 +35759,7 @@ Here's a list of public Fediverse services.
 | `pixelcloud.work` | No |
 | `pixelcollider.net` | Yes |
 | `pixeldroid.org` | No |
+| `pixelf.space` | No |
 | `pixelfassa.de` | No |
 | `pixelfd.com` | No |
 | `pixelfed-uk.net` | No |
@@ -36771,6 +36782,7 @@ Here's a list of public Fediverse services.
 | `projectftm.com` | No |
 | `projectgjd.uk` | No |
 | `projectinzom.xyz` | No |
+| `projectjade.net` | No |
 | `projectlounge.pw` | Yes |
 | `projectmakeit.com` | No |
 | `projectmihun.cyou` | No |
@@ -38329,6 +38341,7 @@ Here's a list of public Fediverse services.
 | `relict.one` | Yes |
 | `relict.space` | No |
 | `religious.social` | No |
+| `relilab.org` | No |
 | `reliverse.social` | No |
 | `relm.us` | No |
 | `relms.dev` | Yes |
@@ -39187,6 +39200,7 @@ Here's a list of public Fediverse services.
 | `rosy-colored.space` | Yes |
 | `rot.gives` | No |
 | `rot26.de` | No |
+| `rotaru.cloud` | Yes |
 | `roter-kreis.de` | No |
 | `roteserver.de` | No |
 | `rothery.me` | No |
@@ -44882,6 +44896,7 @@ Here's a list of public Fediverse services.
 | `tee-server.de` | No |
 | `teebeeart.me` | Yes |
 | `teefax.de` | No |
+| `teejay.blog` | No |
 | `teela.jp` | No |
 | `teenwhistle.fr` | No |
 | `teets.cloud` | Yes |
@@ -45274,6 +45289,7 @@ Here's a list of public Fediverse services.
 | `theartsquirrel.com` | No |
 | `theatl.social` | Yes |
 | `theatrechat.space` | No |
+| `theatrez.day` | Yes |
 | `theau.cloud` | No |
 | `theaugusts.net` | No |
 | `theaus.xyz` | Yes |
@@ -50311,6 +50327,7 @@ Here's a list of public Fediverse services.
 | `wizarding-world.icu` | No |
 | `wizards.blue` | No |
 | `wizards.business` | No |
+| `wizards.social` | Yes |
 | `wizards.town` | No |
 | `wizards.zone` | No |
 | `wizardstowerpress.com` | No |
@@ -52289,8 +52306,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,892 |
-| Normal | 37,349 |
+| Cloudflare | 14,897 |
+| Normal | 37,361 |
 
 
 </details>
