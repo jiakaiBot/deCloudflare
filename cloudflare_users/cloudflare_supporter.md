@@ -318,6 +318,7 @@ Do not create new issue or we will close it as duplicate.
 | [Abe81831857@X](https://twitter.com/Abe81831857/status/1539088641645232128) | advertise |
 | [abeautifulmemo@X](https://twitter.com/abeautifulmemo/status/1487803606854410250) | advertise |
 | [Abedini1991@X](https://twitter.com/Abedini1991/status/1598695417776025600) | advertise |
+| [AbelSanchezMed1@X](https://twitter.com/AbelSanchezMed1/status/1745040288026878221) | advertise |
 | [Abenezer_bm@X](https://twitter.com/Abenezer_bm/status/1655880232878891008) | advertise |
 | [AbhaySi30964742@X](https://twitter.com/AbhaySi30964742/status/1382171140706078722) | advertise |
 | [AbhaySi85772218@X](https://twitter.com/AbhaySi85772218/status/1386601025138663427) | advertise |
