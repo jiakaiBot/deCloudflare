@@ -11936,7 +11936,7 @@ Here's a list of public Fediverse services.
 | `drumcorps.social` | No |
 | `drummish.com` | Yes |
 | `drumstodon.net` | No |
-| `drunklyceum.club` | Yes |
+| `drunklyceum.club` | No |
 | `drunkposter.club` | No |
 | `drunu.be` | Yes |
 | `drup.no` | No |
@@ -18044,6 +18044,7 @@ Here's a list of public Fediverse services.
 | `gyahunkoubou.biz` | No |
 | `gyahunkoubou.com` | No |
 | `gyara.moe` | Yes |
+| `gyatt.cc` | Yes |
 | `gyhost.icu` | No |
 | `gymnastics.town` | No |
 | `gymnastodon.com` | No |
@@ -24109,7 +24110,7 @@ Here's a list of public Fediverse services.
 | `kudabiverse.com` | No |
 | `kudla.social` | No |
 | `kudomaru.com` | No |
-| `kudzu.ca` | No |
+| `kudzu.ca` | Yes |
 | `kuecker.eu` | No |
 | `kueckieben.de` | No |
 | `kuehnert.io` | No |
@@ -29947,7 +29948,7 @@ Here's a list of public Fediverse services.
 | `moontreeproject.org` | No |
 | `moonwolf.network` | Yes |
 | `mooo.com` | Yes |
-| `mooo.info` | No |
+| `mooo.info` | Yes |
 | `moooon.network` | No |
 | `mooooo.ooo` | Yes |
 | `mooose.org` | No |
@@ -35623,7 +35624,7 @@ Here's a list of public Fediverse services.
 | `pikami.org` | Yes |
 | `pikapod.net` | No |
 | `piki.dev` | No |
-| `piki.moe` | No |
+| `piki.moe` | Yes |
 | `pikipika.com` | Yes |
 | `piko2.net` | Yes |
 | `pikokr.dev` | Yes |
@@ -52336,8 +52337,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,898 |
-| Normal | 37,390 |
+| Cloudflare | 14,901 |
+| Normal | 37,388 |
 
 
 </details>
