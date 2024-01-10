@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,327 |
+| com | 8,328 |
 | social | 4,752 |
 | net | 4,080 |
 | org | 2,735 |
@@ -19806,6 +19806,7 @@ Here's a list of public Fediverse services.
 | `huynhgia.de` | No |
 | `hvac-tf.net` | Yes |
 | `hvalhus.ca` | Yes |
+| `hvandenbergh.com` | Yes |
 | `hvddl.com` | Yes |
 | `hvhost.de` | No |
 | `hvn.network` | Yes |
@@ -45211,6 +45212,7 @@ Here's a list of public Fediverse services.
 | `thaler.nz` | No |
 | `thaler.tech` | Yes |
 | `thanatos.at` | No |
+| `thanetcreative.co.uk` | No |
 | `thapaliya.com` | Yes |
 | `tharealnino.rocks` | No |
 | `tharyrok.eu` | No |
@@ -52316,8 +52318,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,902 |
-| Normal | 37,366 |
+| Cloudflare | 14,903 |
+| Normal | 37,367 |
 
 
 </details>
