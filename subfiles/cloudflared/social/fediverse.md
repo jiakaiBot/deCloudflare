@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,756 |
 | net | 4,082 |
 | org | 2,737 |
-| de | 2,601 |
+| de | 2,602 |
 
 
 - Mastodon, Pleroma, etc
@@ -13843,6 +13843,7 @@ Here's a list of public Fediverse services.
 | `fairground.moe` | No |
 | `fairilu.net` | No |
 | `fairmove.net` | No |
+| `fairmuenchen.de` | No |
 | `fairphone.community` | No |
 | `fairpoints.social` | Yes |
 | `fairuse.org` | Yes |
@@ -52354,7 +52355,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,909 |
-| Normal | 37,396 |
+| Normal | 37,397 |
 
 
 </details>
