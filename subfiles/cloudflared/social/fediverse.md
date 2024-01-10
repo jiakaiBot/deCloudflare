@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,333 |
+| com | 8,335 |
 | social | 4,754 |
 | net | 4,080 |
-| org | 2,736 |
+| org | 2,737 |
 | de | 2,601 |
 
 
@@ -11387,6 +11387,7 @@ Here's a list of public Fediverse services.
 | `dmrty.net` | No |
 | `dms100.net` | Yes |
 | `dmtales.com` | No |
+| `dmturner.org` | No |
 | `dmv.community` | No |
 | `dmv.pub` | No |
 | `dmv.social` | No |
@@ -20981,7 +20982,7 @@ Here's a list of public Fediverse services.
 | `is-he.re` | Yes |
 | `is-heckin.gay` | No |
 | `is-here.com` | No |
-| `is-pretty.gay` | Yes |
+| `is-pretty.gay` | No |
 | `is-super.moe` | No |
 | `is.horse` | Yes |
 | `is4.site` | Yes |
@@ -21144,6 +21145,7 @@ Here's a list of public Fediverse services.
 | `itprotalk.social` | Yes |
 | `itram.es` | Yes |
 | `itras.by` | No |
+| `itryhrd.com` | Yes |
 | `its.mba` | Yes |
 | `its2.fun` | Yes |
 | `itsagooddaytobegeek.com` | No |
@@ -34628,7 +34630,7 @@ Here's a list of public Fediverse services.
 | `pain.moe` | Yes |
 | `painkiller.es` | No |
 | `paintacu.be` | No |
-| `painted.jp` | Yes |
+| `painted.jp` | No |
 | `paintergoblin.art` | No |
 | `pair2jeux.tube` | No |
 | `paizi.dev` | Yes |
@@ -40754,6 +40756,7 @@ Here's a list of public Fediverse services.
 | `selfhostedsocial.com` | Yes |
 | `selfhosting.info` | Yes |
 | `selfhosting.rocks` | No |
+| `selfhostingbox.com` | No |
 | `selfie.town` | No |
 | `selfiverse.com` | No |
 | `selfmade4u.de` | No |
@@ -42528,6 +42531,7 @@ Here's a list of public Fediverse services.
 | `sonyakun.xyz` | Yes |
 | `soopy.moe` | Yes |
 | `soothing.cloud` | No |
+| `sopadeletras.club` | No |
 | `sopelj.ca` | Yes |
 | `sophiaatkinson.com` | Yes |
 | `sophiade.net` | No |
@@ -52332,8 +52336,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,899 |
-| Normal | 37,385 |
+| Cloudflare | 14,898 |
+| Normal | 37,390 |
 
 
 </details>
