@@ -108,6 +108,7 @@ Here's a list of public Matrix services.
 | matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
 | the-apothecary.club | No |
+| matrix.transfem.org | Yes |
 | synapse.transgirl.cafe | Yes |
 | ungleich.matrix.ungleich.cloud | No |
 | unita.online | No |
@@ -125,8 +126,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 27 |
+| Cloudflare | 28 |
 | Normal | 71 |
 
 
-### 27.6% of public Matrix services are using Cloudflare.
+### 28.3% of public Matrix services are using Cloudflare.
