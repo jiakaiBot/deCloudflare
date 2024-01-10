@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,756 |
 | net | 4,082 |
 | org | 2,737 |
-| de | 2,602 |
+| de | 2,603 |
 
 
 - Mastodon, Pleroma, etc
@@ -7985,6 +7985,7 @@ Here's a list of public Fediverse services.
 | `clockworkshield.com` | No |
 | `clodo.it` | No |
 | `clodostr.at` | No |
+| `cloister.eu` | No |
 | `clomp.io` | No |
 | `clonewars.vet` | No |
 | `clonis.xyz` | No |
@@ -12128,7 +12129,7 @@ Here's a list of public Fediverse services.
 | `dusanstamenkovic.com` | No |
 | `dusepo.co.uk` | No |
 | `dust-net.systems` | Yes |
-| `dustbuster.club` | No |
+| `dustbuster.club` | Yes |
 | `dustinkirkland.com` | No |
 | `dustinrue.com` | Yes |
 | `dustinthe.net` | No |
@@ -17904,7 +17905,7 @@ Here's a list of public Fediverse services.
 | `grzeca.pl` | No |
 | `gsalucci.dev` | No |
 | `gsch.eu` | Yes |
-| `gsd.foundation` | No |
+| `gsd.foundation` | Yes |
 | `gsdgames.com` | Yes |
 | `gsg.live` | No |
 | `gshep.social` | No |
@@ -40733,6 +40734,7 @@ Here's a list of public Fediverse services.
 | `sekretaerbaer.de` | No |
 | `sekretaerbaer.net` | No |
 | `sektori.org` | Yes |
+| `sekundenklebertransportverbot.de` | No |
 | `selbach.ca` | No |
 | `selbach.dev` | No |
 | `selbach.social` | No |
@@ -52354,7 +52356,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,909 |
+| Cloudflare | 14,911 |
 | Normal | 37,397 |
 
 
