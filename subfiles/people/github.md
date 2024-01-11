@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Websocket makes dev server crash](https://github.com/Shopify/shopify-app-template-remix/issues/494)
 - [TypeError: Invalid URL string. Used initWasm().](https://github.com/yisibl/resvg-js/issues/288)
 - [Handling reauth of a channel m3u that redirects to a CDN back-end?](https://github.com/warren-bank/HLS-Proxy/issues/41)
 - [Error starting Vike with Hono](https://github.com/vikejs/vike/issues/1425)
