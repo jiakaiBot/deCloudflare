@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,328 |
+| com | 8,329 |
 | social | 4,752 |
 | net | 4,080 |
 | org | 2,736 |
@@ -1762,7 +1762,7 @@ Here's a list of public Fediverse services.
 | `alexgalt.com` | No |
 | `alexhatala.com` | No |
 | `alexhyett.com` | Yes |
-| `alexisart.me` | Yes |
+| `alexisart.me` | No |
 | `alexjamesconrad.com` | No |
 | `alexjanka.com` | No |
 | `alexjyong.dev` | No |
@@ -4485,7 +4485,7 @@ Here's a list of public Fediverse services.
 | `belgraver.org` | No |
 | `belidzs.hu` | Yes |
 | `beliebiges.de` | No |
-| `believeland.social` | Yes |
+| `believeland.social` | No |
 | `belkadan.com` | No |
 | `bell.bz` | Yes |
 | `bellamazz.com` | Yes |
@@ -5233,7 +5233,7 @@ Here's a list of public Fediverse services.
 | `blanu.net` | No |
 | `blarg.ca` | No |
 | `blarg.world` | No |
-| `blasius.club` | No |
+| `blasius.club` | Yes |
 | `blasmusik.rocks` | No |
 | `blasmusik.social` | No |
 | `blasphemous.bike` | No |
@@ -5814,6 +5814,7 @@ Here's a list of public Fediverse services.
 | `bowblog.com` | No |
 | `bowden.social` | No |
 | `bowefrankema.nl` | Yes |
+| `bowlafterbowl.com` | No |
 | `bowldip.club` | No |
 | `bowles.social` | No |
 | `bowlofpetunias.net` | No |
@@ -8028,7 +8029,7 @@ Here's a list of public Fediverse services.
 | `cloudless.world` | No |
 | `cloudlet.at` | No |
 | `cloudmist.org` | No |
-| `cloudmt.co.kr` | No |
+| `cloudmt.co.kr` | Yes |
 | `cloudns.cc` | Yes |
 | `cloudns.cl` | Yes |
 | `cloudns.nz` | Yes |
@@ -10187,7 +10188,7 @@ Here's a list of public Fediverse services.
 | `davidp.de` | No |
 | `davidpea.ch` | No |
 | `davidpeach.co.uk` | Yes |
-| `davidpeach.me` | No |
+| `davidpeach.me` | Yes |
 | `davidpeach.social` | No |
 | `davidriederer.com` | No |
 | `davidroessli.com` | Yes |
@@ -12951,7 +12952,7 @@ Here's a list of public Fediverse services.
 | `empty.cafe` | No |
 | `empty.garden` | No |
 | `emptyair.space` | No |
-| `emptydoll.house` | No |
+| `emptydoll.house` | Yes |
 | `emptyjar.xyz` | Yes |
 | `emptypage.jp` | No |
 | `emptystack.top` | Yes |
@@ -14857,7 +14858,7 @@ Here's a list of public Fediverse services.
 | `firehawk-systems.com` | No |
 | `firekitten.social` | No |
 | `firenewt.xyz` | Yes |
-| `fireplace.cafe` | No |
+| `fireplace.cafe` | Yes |
 | `fireplace.social` | No |
 | `firescry.com` | Yes |
 | `fireshark.social` | No |
@@ -42702,7 +42703,7 @@ Here's a list of public Fediverse services.
 | `spank.ws` | No |
 | `spanner.works` | No |
 | `spanningforest.com` | No |
-| `spanreed.com` | No |
+| `spanreed.com` | Yes |
 | `spanring.social` | Yes |
 | `sparced.org` | No |
 | `sparingly.social` | No |
@@ -49635,7 +49636,7 @@ Here's a list of public Fediverse services.
 | `waytoo.online` | No |
 | `waytoohip.com` | No |
 | `waytoomuch.info` | No |
-| `waytt.cf` | Yes |
+| `waytt.cf` | No |
 | `waytt.ml` | No |
 | `wazong.de` | No |
 | `wazongtest.de` | No |
@@ -52321,8 +52322,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,901 |
-| Normal | 37,372 |
+| Cloudflare | 14,904 |
+| Normal | 37,370 |
 
 
 </details>
