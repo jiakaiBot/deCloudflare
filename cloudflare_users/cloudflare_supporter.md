@@ -4683,6 +4683,7 @@ Do not create new issue or we will close it as duplicate.
 | [HajajHsjsj@X](https://twitter.com/HajajHsjsj/status/1695087154568085556) | advertise |
 | [HajiDawood200@X](https://twitter.com/HajiDawood200/status/1597334326638653440) | advertise |
 | [HajiKha39541085@X](https://twitter.com/HajiKha39541085/status/1379155176917991429) | advertise |
+| [HajiMurat620953@X](https://twitter.com/HajiMurat620953/status/1745448922401902592) | advertise |
 | [HAJI____KHAN@X](https://twitter.com/HAJI____KHAN/status/1729541042582806991) | advertise |
 | [HakamaKasumi@X](https://twitter.com/HakamaKasumi/status/1402166214814621696) | advertise |
 | [hakamaletoom@X](https://twitter.com/hakamaletoom/status/1627195860269367296) | advertise |
@@ -8322,6 +8323,7 @@ Do not create new issue or we will close it as duplicate.
 | [manveerkhubber2@X](https://twitter.com/manveerkhubber2/status/1396747736863559680) | advertise |
 | [ManwithCulture1@X](https://twitter.com/ManwithCulture1/status/1603553852308930560) | advertise |
 | [manwiththelens@X](https://twitter.com/manwiththelens/status/1452280682613444608) | advertise |
+| [MaodiFang@X](https://twitter.com/MaodiFang/status/1745458610963091857) | advertise |
 | [Mapesaofficial1@X](https://twitter.com/Mapesaofficial1/status/1530997837554757635) | advertise |
 | [MaPhyuPhyuWin2@X](https://twitter.com/MaPhyuPhyuWin2/status/1395061790921433088) | advertise |
 | [mapit_social@X](https://twitter.com/mapit_social/status/1620503024161677312) | advertise |
@@ -9568,6 +9570,7 @@ Do not create new issue or we will close it as duplicate.
 | [nam14316033@X](https://twitter.com/nam14316033/status/1584798469851865088) | advertise |
 | [nam54142435@X](https://twitter.com/nam54142435/status/1377917089734750211) | advertise |
 | [Nam2140220405@X](https://twitter.com/Nam2140220405/status/1575487045262114820) | advertise |
+| [nam513499375829@X](https://twitter.com/nam513499375829/status/1745458479371047408) | advertise |
 | [Namanh36@X](https://twitter.com/Namanh36/status/1585228783484735490) | advertise |
 | [Namanh60435535@X](https://twitter.com/Namanh60435535/status/1479523298325131265) | advertise |
 | [namanhhh1989@X](https://twitter.com/namanhhh1989/status/1572624972035805186) | advertise |
