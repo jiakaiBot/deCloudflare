@@ -12918,6 +12918,7 @@ Here's a list of public Fediverse services.
 | `emil.nexus` | No |
 | `emil.work` | No |
 | `emilcar.social` | No |
+| `emile.space` | No |
 | `emiliabear.com` | Yes |
 | `emily.news` | No |
 | `emilylilyli.me` | No |
@@ -30926,6 +30927,7 @@ Here's a list of public Fediverse services.
 | `mypeertube.fr` | No |
 | `mypict.net` | No |
 | `mypixl.fr` | No |
+| `mypod.store` | No |
 | `myporntv.com` | No |
 | `myportal.social` | No |
 | `myprayer.center` | No |
@@ -42778,6 +42780,7 @@ Here's a list of public Fediverse services.
 | `spectrum.im` | Yes |
 | `speculativeartsresearch.com` | No |
 | `speeb.net` | No |
+| `speech-to-text.cloud` | No |
 | `speech.digital` | No |
 | `speedequalsdistanceovertime.com` | No |
 | `speedfox.co.uk` | No |
@@ -52339,7 +52342,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,912 |
-| Normal | 37,378 |
+| Normal | 37,381 |
 
 
 </details>
