@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,331 |
+| com | 8,332 |
 | social | 4,752 |
 | net | 4,080 |
 | org | 2,736 |
@@ -20976,6 +20976,7 @@ Here's a list of public Fediverse services.
 | `irucabot.com` | Yes |
 | `irumina.net` | No |
 | `irunu.co` | Yes |
+| `iruto.co` | Yes |
 | `is-a.cat` | Yes |
 | `is-a.horse` | No |
 | `is-cool.dev` | Yes |
@@ -22760,6 +22761,7 @@ Here's a list of public Fediverse services.
 | `karas.pics` | Yes |
 | `karas.social` | Yes |
 | `karasoulis.com` | Yes |
+| `karasu256.com` | Yes |
 | `karasulu.org` | No |
 | `karatek.net` | Yes |
 | `karateka.social` | No |
@@ -52329,7 +52331,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,908 |
+| Cloudflare | 14,910 |
 | Normal | 37,373 |
 
 
