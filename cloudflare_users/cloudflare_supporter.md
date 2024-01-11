@@ -1104,6 +1104,7 @@ Do not create new issue or we will close it as duplicate.
 | [an_drewli@X](https://twitter.com/an_drewli/status/1515592623741812736) | advertise |
 | [Ao16112660@X](https://twitter.com/Ao16112660/status/1392660296032940032) | advertise |
 | [AOC_durah@X](https://twitter.com/AOC_durah/status/1657913088266448896) | advertise |
+| [aodfWcTqmV28723@X](https://twitter.com/aodfWcTqmV28723/status/1745307297352728598) | advertise |
 | [Aofline2529@X](https://twitter.com/Aofline2529/status/1603760508305166336) | advertise |
 | [AoJo42113946@X](https://twitter.com/AoJo42113946/status/1388823215775092742) | advertise |
 | [aokarkyaw007@X](https://twitter.com/aokarkyaw007/status/1404758206526615560) | advertise |
@@ -6779,6 +6780,7 @@ Do not create new issue or we will close it as duplicate.
 | [KeshavBP1@X](https://twitter.com/KeshavBP1/status/1380784361436368896) | advertise |
 | [keshavrai@X](https://twitter.com/keshavrai/status/1399420764885962763) | advertise |
 | [keSravi@X](https://twitter.com/keSravi/status/1629709529310019585) | advertise |
+| [ketamin_3@X](https://twitter.com/ketamin_3/status/1745399800080769397) | advertise |
 | [Kev76781841@X](https://twitter.com/Kev76781841/status/1674273058205384704) | advertise |
 | [kevblm_@X](https://twitter.com/kevblm_/status/1653934623947096066) | advertise |
 | [kevilhau@X](https://twitter.com/kevilhau/status/1381681452455108609) | advertise |
@@ -10044,6 +10046,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynTh73059148@X](https://twitter.com/NguynTh73059148/status/1489526144713969664) | advertise |
 | [NguynTh91319870@X](https://twitter.com/NguynTh91319870/status/1406592158447017989) | advertise |
 | [NguynThanh14761@X](https://twitter.com/NguynThanh14761/status/1681539632088117250) | advertise |
+| [nguynTienD59868@X](https://twitter.com/nguynTienD59868/status/1745360175375257857) | advertise |
 | [NguynTinTrang5@X](https://twitter.com/NguynTinTrang5/status/1670937297435639809) | advertise |
 | [NguynTn10515156@X](https://twitter.com/NguynTn10515156/status/1387340058223513607) | advertise |
 | [NguynTn61327840@X](https://twitter.com/NguynTn61327840/status/1380795871080538112) | advertise |
@@ -10430,6 +10433,7 @@ Do not create new issue or we will close it as duplicate.
 | [NyuntNyunt11@X](https://twitter.com/NyuntNyunt11/status/1396273606288711682) | advertise |
 | [NyuntSh23523748@X](https://twitter.com/NyuntSh23523748/status/1488521850930208771) | advertise |
 | [nyunt_gzb@X](https://twitter.com/nyunt_gzb/status/1579407778057052161) | advertise |
+| [nyunt_myo32248@X](https://twitter.com/nyunt_myo32248/status/1745373137141944614) | advertise |
 | [nZinoProperties@X](https://twitter.com/nZinoProperties/status/1429140861959430156) | advertise |
 | [NZTNTT69@X](https://twitter.com/NZTNTT69/status/1630742334186065920) | advertise |
 | [n_a_b_e_t_a_s_o@X](https://twitter.com/n_a_b_e_t_a_s_o/status/1454036622844911619) | advertise |
