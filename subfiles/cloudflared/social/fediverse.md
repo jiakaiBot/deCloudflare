@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,332 |
+| com | 8,333 |
 | social | 4,752 |
 | net | 4,080 |
 | org | 2,736 |
@@ -24109,6 +24109,7 @@ Here's a list of public Fediverse services.
 | `kubwa.dog` | No |
 | `kucera.it` | No |
 | `kudabiverse.com` | No |
+| `kudaras.lt` | No |
 | `kudla.social` | No |
 | `kudomaru.com` | No |
 | `kudzu.ca` | Yes |
@@ -32586,6 +32587,7 @@ Here's a list of public Fediverse services.
 | `nonexiste.net` | No |
 | `nonexistent.ca` | Yes |
 | `noneya.co` | No |
+| `nonfaction.com` | No |
 | `nonfren.monster` | No |
 | `nonfungibleart.club` | No |
 | `nongrata.social` | No |
@@ -39187,7 +39189,7 @@ Here's a list of public Fediverse services.
 | `rorshok.social` | No |
 | `roryprice.me` | No |
 | `roryprice.net` | No |
-| `rosaceae.net` | No |
+| `rosaceae.net` | Yes |
 | `rosaelefanten.org` | No |
 | `rosafamily.social` | Yes |
 | `rosafluffmoln.nu` | No |
@@ -52331,8 +52333,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,910 |
-| Normal | 37,373 |
+| Cloudflare | 14,911 |
+| Normal | 37,374 |
 
 
 </details>
