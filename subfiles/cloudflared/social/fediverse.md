@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,328 |
 | social | 4,752 |
 | net | 4,080 |
-| org | 2,735 |
+| org | 2,736 |
 | de | 2,599 |
 
 
@@ -1633,7 +1633,7 @@ Here's a list of public Fediverse services.
 | `akkoremaji.club` | Yes |
 | `akkoverse.xyz` | Yes |
 | `aklsh.me` | Yes |
-| `akme.ink` | Yes |
+| `akme.ink` | No |
 | `akmentins.com` | Yes |
 | `akoot.site` | No |
 | `akop.online` | No |
@@ -7869,6 +7869,7 @@ Here's a list of public Fediverse services.
 | `ckitbara.info` | No |
 | `cknweb.it` | Yes |
 | `ckpg.space` | No |
+| `ckr.sh` | No |
 | `cksv.jp` | No |
 | `cktec.net` | No |
 | `ckyln.com` | No |
@@ -9269,6 +9270,7 @@ Here's a list of public Fediverse services.
 | `ctrl-shift.net` | No |
 | `ctrlaltdog.xyz` | No |
 | `ctrlaltelite.xyz` | Yes |
+| `ctrlist.org` | No |
 | `ctrlobsolete.com` | Yes |
 | `ctrlz.es` | Yes |
 | `ctseuro.com` | No |
@@ -31775,7 +31777,7 @@ Here's a list of public Fediverse services.
 | `netooze.com` | Yes |
 | `netou.info` | No |
 | `netplusw.com` | No |
-| `netpro2k.io` | Yes |
+| `netpro2k.io` | No |
 | `netr.cc` | Yes |
 | `netrunner.cfd` | No |
 | `netrunner.online` | Yes |
@@ -52319,8 +52321,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,903 |
-| Normal | 37,368 |
+| Cloudflare | 14,901 |
+| Normal | 37,372 |
 
 
 </details>
