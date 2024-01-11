@@ -12597,6 +12597,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shirogane1092@X](https://twitter.com/Shirogane1092/status/1384817156747972608) | advertise |
 | [Shiroizdabezt@X](https://twitter.com/Shiroizdabezt/status/1492443603813408768) | advertise |
 | [shirosora_lumie@X](https://twitter.com/shirosora_lumie/status/1611019334884954118) | advertise |
+| [Shirshah_Saeid@X](https://twitter.com/Shirshah_Saeid/status/1745483282207371414) | advertise |
 | [shitaro2021@X](https://twitter.com/shitaro2021/status/1425783479455813635) | advertise |
 | [shitsura@X](https://twitter.com/shitsura/status/1551280376089387010) | advertise |
 | [shiva68995788@X](https://twitter.com/shiva68995788/status/1379824052232130561) | advertise |
@@ -15097,6 +15098,7 @@ Do not create new issue or we will close it as duplicate.
 | [WalterG05165115@X](https://twitter.com/WalterG05165115/status/1674214537191366657) | advertise |
 | [walterkings8@X](https://twitter.com/walterkings8/status/1690438298123075584) | advertise |
 | [WalterSmith00@X](https://twitter.com/WalterSmith00/status/1499907092383080450) | advertise |
+| [WanaPhyo191328@X](https://twitter.com/WanaPhyo191328/status/1745488649926643976) | advertise |
 | [WandeltMusic@X](https://twitter.com/WandeltMusic/status/1665874507649654785) | advertise |
 | [wangcaijun88473@X](https://twitter.com/wangcaijun88473/status/1706849527616221405) | advertise |
 | [WangMi87623155@X](https://twitter.com/WangMi87623155/status/1392754494258040832) | advertise |
