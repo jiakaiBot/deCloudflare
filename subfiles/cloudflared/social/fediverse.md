@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,333 |
+| com | 8,334 |
 | social | 4,752 |
 | net | 4,080 |
 | org | 2,736 |
@@ -1135,6 +1135,7 @@ Here's a list of public Fediverse services.
 | `acosi.com` | No |
 | `acostey.fr` | No |
 | `acqrs.co.uk` | No |
+| `acqueagitate.com` | No |
 | `acra.network` | No |
 | `acrion.social` | No |
 | `acromotivator.com` | No |
@@ -4945,6 +4946,7 @@ Here's a list of public Fediverse services.
 | `biophonpodcast.de` | Yes |
 | `biorez.de` | No |
 | `bioxis-server.fr` | No |
+| `bipbop.es` | Yes |
 | `bipeds.onl` | No |
 | `bipedsmonitor.com` | No |
 | `biphant.social` | No |
@@ -52333,8 +52335,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,911 |
-| Normal | 37,374 |
+| Cloudflare | 14,912 |
+| Normal | 37,375 |
 
 
 </details>
