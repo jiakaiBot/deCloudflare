@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [TypeError: Invalid URL string. Used initWasm().](https://github.com/yisibl/resvg-js/issues/288)
 - [Handling reauth of a channel m3u that redirects to a CDN back-end?](https://github.com/warren-bank/HLS-Proxy/issues/41)
 - [Error starting Vike with Hono](https://github.com/vikejs/vike/issues/1425)
 - [vweb Error parsing url with // appended](https://github.com/vlang/v/issues/20476)
