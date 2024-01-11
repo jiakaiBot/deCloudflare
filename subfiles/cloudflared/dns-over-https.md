@@ -100,7 +100,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | disconnect.app | Yes |
 | dns-free.link | Yes |
 | dns-ga.de | No |
-| dns.bir.ru | Yes |
 | dns.expert | No |
 | dns.google | No |
 | dns.pub | No |
@@ -400,8 +399,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 198 |
+| Cloudflare | 197 |
 | Normal | 183 |
 
 
-### 52% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
