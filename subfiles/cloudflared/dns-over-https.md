@@ -356,7 +356,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tiar.app | No |
 | tiarap.org | Yes |
 | tienpham.id.vn | Yes |
-| timedns.org | No |
 | timmes.nl | No |
 | timvo.net | Yes |
 | tls-data.de | No |
@@ -400,7 +399,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 197 |
-| Normal | 183 |
+| Normal | 182 |
 
 
-### 51.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52% of DNS-over-HTTPS (DoH) are using Cloudflare.
