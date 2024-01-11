@@ -2286,6 +2286,7 @@ Do not create new issue or we will close it as duplicate.
 | [burakyuceel@X](https://twitter.com/burakyuceel/status/1657255362200760322) | advertise |
 | [BurbAchoo@X](https://twitter.com/BurbAchoo/status/1552945493172695040) | advertise |
 | [burberry696@X](https://twitter.com/burberry696/status/1584787993113825280) | advertise |
+| [BureerakSo99072@X](https://twitter.com/BureerakSo99072/status/1745447123586609622) | advertise |
 | [burhan@X](https://twitter.com/burhan/status/1575455113925328897) | advertise |
 | [burimikuqi@X](https://twitter.com/burimikuqi/status/1588171056618930176) | advertise |
 | [burkehellen1@X](https://twitter.com/burkehellen1/status/1395294317262958600) | advertise |
@@ -12645,6 +12646,7 @@ Do not create new issue or we will close it as duplicate.
 | [sidchikh@X](https://twitter.com/sidchikh/status/1601155193357611008) | advertise |
 | [Siddak05985995@X](https://twitter.com/Siddak05985995/status/1391471256801726465) | advertise |
 | [SiddheshTavari@X](https://twitter.com/SiddheshTavari/status/1387325139029692420) | advertise |
+| [SideMekom@X](https://twitter.com/SideMekom/status/1745437862156554287) | advertise |
 | [sidikaris711@X](https://twitter.com/sidikaris711/status/1385191423482335237) | advertise |
 | [SidingWithin@X](https://twitter.com/SidingWithin/status/1485696710475194372) | advertise |
 | [SightedBike273@X](https://twitter.com/SightedBike273/status/1424714154208899075) | advertise |
