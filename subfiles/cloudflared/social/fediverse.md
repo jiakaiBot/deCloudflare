@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,329 |
+| com | 8,331 |
 | social | 4,752 |
 | net | 4,080 |
 | org | 2,736 |
@@ -61,6 +61,7 @@ Here's a list of public Fediverse services.
 | `030.me` | Yes |
 | `0314159.xyz` | No |
 | `0371.uk` | Yes |
+| `0393939.xyz` | Yes |
 | `04.si` | Yes |
 | `0702.org` | Yes |
 | `076.moe` | No |
@@ -1076,6 +1077,7 @@ Here's a list of public Fediverse services.
 | `accioly.social` | Yes |
 | `acclaro.digital` | Yes |
 | `accolade.digital` | No |
+| `accolades.coop` | No |
 | `accomplice.social` | No |
 | `accoord.fr` | Yes |
 | `accordi.online` | No |
@@ -1828,6 +1830,7 @@ Here's a list of public Fediverse services.
 | `alicee.ooo` | No |
 | `alicef.me` | No |
 | `aliceice.de` | No |
+| `alicekiwy.eu` | No |
 | `aliceriverpark.pw` | No |
 | `alicevie.space` | Yes |
 | `alicey.dev` | Yes |
@@ -7610,6 +7613,7 @@ Here's a list of public Fediverse services.
 | `chris-latza.de` | No |
 | `chris-shaw.dev` | Yes |
 | `chris.blog` | No |
+| `chris.cool` | No |
 | `chris3000.com` | No |
 | `chrisadams.me.uk` | Yes |
 | `chrisalemany.ca` | No |
@@ -21193,7 +21197,7 @@ Here's a list of public Fediverse services.
 | `iusearchlinux.fyi` | No |
 | `iut-larochelle.fr` | No |
 | `ivampiresp.com` | Yes |
-| `ivan.ac` | No |
+| `ivan.ac` | Yes |
 | `ivan.computer` | Yes |
 | `ivanatanasov.eu` | No |
 | `ivancan.com` | No |
@@ -31042,6 +31046,7 @@ Here's a list of public Fediverse services.
 | `n3tsphere.org` | No |
 | `n3wjack.net` | No |
 | `n41.lat` | No |
+| `n410me.com` | Yes |
 | `n45b.com` | No |
 | `n4jjs.com` | No |
 | `n6.io` | No |
@@ -35872,6 +35877,7 @@ Here's a list of public Fediverse services.
 | `pjcesteves.pt` | Yes |
 | `pjnk.de` | No |
 | `pkg.schule` | No |
+| `pkkis.com` | Yes |
 | `pkkm.me` | No |
 | `pkm.social` | No |
 | `pkmn.cloud` | No |
@@ -48046,6 +48052,7 @@ Here's a list of public Fediverse services.
 | `unicornsquad.party` | Yes |
 | `unicuskey.com` | Yes |
 | `unidentified.group` | No |
+| `unified.contact` | No |
 | `unifiedberets.com` | Yes |
 | `unifiedh.com` | Yes |
 | `uniflydiscs.com` | No |
@@ -52322,8 +52329,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,904 |
-| Normal | 37,370 |
+| Cloudflare | 14,908 |
+| Normal | 37,373 |
 
 
 </details>
