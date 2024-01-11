@@ -6482,6 +6482,7 @@ Do not create new issue or we will close it as duplicate.
 | [justcallmesurin@X](https://twitter.com/justcallmesurin/status/1550677159420653568) | advertise |
 | [JustCanadianGal@X](https://twitter.com/JustCanadianGal/status/1665858532594294785) | advertise |
 | [justdhruvv@X](https://twitter.com/justdhruvv/status/1388745302773882883) | advertise |
+| [JustFor433141@X](https://twitter.com/JustFor433141/status/1745558221014565083) | advertise |
 | [justformythird@X](https://twitter.com/justformythird/status/1626736157622165505) | advertise |
 | [Justin2582003@X](https://twitter.com/Justin2582003/status/1396401918914662400) | advertise |
 | [justincase8686@X](https://twitter.com/justincase8686/status/1555193631597887489) | advertise |
@@ -7756,6 +7757,7 @@ Do not create new issue or we will close it as duplicate.
 | [Liliana87157653@X](https://twitter.com/Liliana87157653/status/1620286338661773316) | advertise |
 | [LilienthalKaleb@X](https://twitter.com/LilienthalKaleb/status/1622878151767650306) | advertise |
 | [Lillii412@X](https://twitter.com/Lillii412/status/1395707127176458243) | advertise |
+| [lillipoppie@X](https://twitter.com/lillipoppie/status/1745554591201087645) | advertise |
 | [lilMonst4@X](https://twitter.com/lilMonst4/status/1577680492257755139) | advertise |
 | [lilTNlvsnPWNdXQ@X](https://twitter.com/lilTNlvsnPWNdXQ/status/1731397865811972217) | advertise |
 | [lily10891@X](https://twitter.com/lily10891/status/1681868617821081600) | advertise |
@@ -9183,6 +9185,7 @@ Do not create new issue or we will close it as duplicate.
 | [moscowchill@X](https://twitter.com/moscowchill/status/1432276272298795008) | advertise |
 | [Moshixmatcha@X](https://twitter.com/Moshixmatcha/status/1552292161923588096) | advertise |
 | [MoshizMSZ@X](https://twitter.com/MoshizMSZ/status/1725195799083024889) | advertise |
+| [mostafa21205361@X](https://twitter.com/mostafa21205361/status/1745580179903140249) | advertise |
 | [Mostafa41766808@X](https://twitter.com/Mostafa41766808/status/1557128488573870081) | advertise |
 | [Mostafahaassan@X](https://twitter.com/Mostafahaassan/status/1582870068673024005) | advertise |
 | [Mostafi19189233@X](https://twitter.com/Mostafi19189233/status/1400999191275474945) | advertise |
