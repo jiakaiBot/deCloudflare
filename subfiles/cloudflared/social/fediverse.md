@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,334 |
+| com | 8,336 |
 | social | 4,752 |
-| net | 4,080 |
+| net | 4,081 |
 | org | 2,736 |
 | de | 2,599 |
 
@@ -7484,6 +7484,7 @@ Here's a list of public Fediverse services.
 | `chikai.network` | No |
 | `chikichiki.tube` | Yes |
 | `chikorita157.com` | No |
+| `childabusesurvivor.net` | No |
 | `childlabor.company` | Yes |
 | `childlove.space` | No |
 | `childlove.su` | No |
@@ -23029,6 +23030,7 @@ Here's a list of public Fediverse services.
 | `kelleher.social` | No |
 | `kelliwic.net` | No |
 | `kellum.me` | No |
+| `kellygreening.co.uk` | No |
 | `kellyndelgado.com` | No |
 | `kelnet.social` | Yes |
 | `kelp.community` | No |
@@ -27941,6 +27943,7 @@ Here's a list of public Fediverse services.
 | `mataoma.com` | No |
 | `matapacos.dog` | No |
 | `matarillo.com` | No |
+| `matatabi.com` | No |
 | `matbox.net` | No |
 | `matc.zip` | Yes |
 | `matcha-fest.xyz` | Yes |
@@ -29008,6 +29011,7 @@ Here's a list of public Fediverse services.
 | `mikeinspace.nl` | No |
 | `mikelittle.com` | No |
 | `mikelsigler.com` | No |
+| `mikemcbrideonline.com` | No |
 | `mikemcquaid.com` | Yes |
 | `mikemestnik.net` | No |
 | `mikep.ro` | Yes |
@@ -43655,7 +43659,7 @@ Here's a list of public Fediverse services.
 | `stunt.social` | No |
 | `stuntkidz.org` | Yes |
 | `stuph.org` | No |
-| `stupid.coffee` | No |
+| `stupid.coffee` | Yes |
 | `stupid.fish` | Yes |
 | `stupid.industries` | No |
 | `stupid.moe` | No |
@@ -52335,8 +52339,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,912 |
-| Normal | 37,375 |
+| Cloudflare | 14,913 |
+| Normal | 37,378 |
 
 
 </details>
