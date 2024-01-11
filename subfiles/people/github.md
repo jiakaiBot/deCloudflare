@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Handling reauth of a channel m3u that redirects to a CDN back-end?](https://github.com/warren-bank/HLS-Proxy/issues/41)
 - [Error starting Vike with Hono](https://github.com/vikejs/vike/issues/1425)
 - [vweb Error parsing url with // appended](https://github.com/vlang/v/issues/20476)
 - [mimikatz doesn't load it](https://github.com/Meowmycks/catdumper/issues/2)
