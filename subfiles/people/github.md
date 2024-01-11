@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [XML Validation with XSD blocked by Cloudflare as DOS attack](https://github.com/w3c/w3c-website/issues/601)
 - [Cloudflare integration setup issue - Error at 'Choose the Records to Update'](https://github.com/home-assistant/core/issues/107810)
 - [Websocket makes dev server crash](https://github.com/Shopify/shopify-app-template-remix/issues/494)
 - [TypeError: Invalid URL string. Used initWasm().](https://github.com/yisibl/resvg-js/issues/288)
