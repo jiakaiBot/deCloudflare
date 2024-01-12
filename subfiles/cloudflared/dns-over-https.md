@@ -27,7 +27,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | aa.net.uk | No |
 | abd.ong | Yes |
 | abdullahabas.de | Yes |
-| abpvn.com | Yes |
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
@@ -52,7 +51,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | b-cdn.net | No |
 | b612.me | Yes |
 | bancuh.com | No |
-| bartoszturek.online | No |
 | bitdefender.net | Yes |
 | blaze-sk.ru | No |
 | blokada.org | Yes |
@@ -82,7 +80,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cloudseriousshit.com | Yes |
 | cloudsides.com | Yes |
 | coconut.id | Yes |
-| codarbyte.de | No |
 | cubedns.com | No |
 | cuprum.ru | Yes |
 | cybergroove.net | Yes |
@@ -190,7 +187,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | karl.one | No |
 | kernel-error.de | No |
 | kescher.at | No |
-| keskonet.com | Yes |
 | ketan.dev | Yes |
 | kiboko.it | Yes |
 | klcd.eu | No |
@@ -397,8 +393,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 197 |
-| Normal | 181 |
+| Cloudflare | 195 |
+| Normal | 179 |
 
 
 ### 52.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
