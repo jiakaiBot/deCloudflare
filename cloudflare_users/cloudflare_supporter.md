@@ -4681,6 +4681,7 @@ Do not create new issue or we will close it as duplicate.
 | [haitensama@X](https://twitter.com/haitensama/status/1388050755433603075) | advertise |
 | [Hai_Vu2008@X](https://twitter.com/Hai_Vu2008/status/1622981499539828736) | advertise |
 | [HajajHsjsj@X](https://twitter.com/HajajHsjsj/status/1695087154568085556) | advertise |
+| [hajamirimani@X](https://twitter.com/hajamirimani/status/1745771558570688912) | advertise |
 | [HajiDawood200@X](https://twitter.com/HajiDawood200/status/1597334326638653440) | advertise |
 | [HajiKha39541085@X](https://twitter.com/HajiKha39541085/status/1379155176917991429) | advertise |
 | [HajiMurat620953@X](https://twitter.com/HajiMurat620953/status/1745448922401902592) | advertise |
