@@ -6812,6 +6812,7 @@ Do not create new issue or we will close it as duplicate.
 | [kh6jrm@X](https://twitter.com/kh6jrm/status/1490831301485613056) | advertise |
 | [kh76986012@X](https://twitter.com/kh76986012/status/1393833121078857735) | advertise |
 | [Khabaralhin@X](https://twitter.com/Khabaralhin/status/1692108051719888983) | advertise |
+| [khai203skt@X](https://twitter.com/khai203skt/status/1745682067894190251) | advertise |
 | [khai94542856@X](https://twitter.com/khai94542856/status/1716477264475644322) | advertise |
 | [KhaingCherry2@X](https://twitter.com/KhaingCherry2/status/1380042085672349696) | advertise |
 | [KhaingK94885147@X](https://twitter.com/KhaingK94885147/status/1389661398599229441) | advertise |
@@ -8945,6 +8946,7 @@ Do not create new issue or we will close it as duplicate.
 | [mishyisafishy@X](https://twitter.com/mishyisafishy/status/1440141603750899716) | advertise |
 | [MisoPham@X](https://twitter.com/MisoPham/status/1553792913884463104) | advertise |
 | [MissHaileysGirl@X](https://twitter.com/MissHaileysGirl/status/1392297883303563264) | advertise |
+| [MissKatt___@X](https://twitter.com/MissKatt___/status/1745674357483970764) | advertise |
 | [miss_hatce@X](https://twitter.com/miss_hatce/status/1398657543245864966) | advertise |
 | [Miss_Mxyzptlk@X](https://twitter.com/Miss_Mxyzptlk/status/1519813476797100033) | advertise |
 | [mist8kengas1@X](https://twitter.com/mist8kengas1/status/1664235909879832576) | advertise |
