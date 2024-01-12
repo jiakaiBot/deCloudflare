@@ -2074,6 +2074,7 @@ Do not create new issue or we will close it as duplicate.
 | [BMoRe410_2k@X](https://twitter.com/BMoRe410_2k/status/1502623013346463744) | advertise |
 | [bmth_gfy@X](https://twitter.com/bmth_gfy/status/1533867458246885376) | advertise |
 | [bnfyqsge@X](https://twitter.com/bnfyqsge/status/1561898244598538240) | advertise |
+| [bng0222@X](https://twitter.com/bng0222/status/1745813689054421052) | advertise |
 | [bng85208344@X](https://twitter.com/bng85208344/status/1596846646851428354) | advertise |
 | [BngB14570107@X](https://twitter.com/BngB14570107/status/1555480171494313987) | advertise |
 | [bngng1_ngc@X](https://twitter.com/bngng1_ngc/status/1553051695256838144) | advertise |
@@ -3520,6 +3521,7 @@ Do not create new issue or we will close it as duplicate.
 | [DR_HESSAM@X](https://twitter.com/DR_HESSAM/status/1711547290551279626) | advertise |
 | [dr_pyaephyoezaw@X](https://twitter.com/dr_pyaephyoezaw/status/1391669243930841089) | advertise |
 | [dr_tayel81@X](https://twitter.com/dr_tayel81/status/1386993468287897600) | advertise |
+| [dr_zeratul@X](https://twitter.com/dr_zeratul/status/1745822691532112232) | advertise |
 | [DS737946@X](https://twitter.com/DS737946/status/1742508741898219734) | advertise |
 | [DSaengleung@X](https://twitter.com/DSaengleung/status/1718868736743285012) | advertise |
 | [DsanayaJ@X](https://twitter.com/DsanayaJ/status/1399281807430987779) | advertise |
@@ -5879,6 +5881,7 @@ Do not create new issue or we will close it as duplicate.
 | [iseemagik@X](https://twitter.com/iseemagik/status/1550835252100116482) | advertise |
 | [ishlwi@X](https://twitter.com/ishlwi/status/1525933662495199235) | advertise |
 | [isira_adithya@X](https://twitter.com/isira_adithya/status/1373518191394091009) | advertise |
+| [isisis120@X](https://twitter.com/isisis120/status/1745825976297398689) | advertise |
 | [isJackeroo@X](https://twitter.com/isJackeroo/status/1522157763975008256) | advertise |
 | [iskand81808@X](https://twitter.com/iskand81808/status/1680060626528530435) | advertise |
 | [Iskecik2@X](https://twitter.com/Iskecik2/status/1403090108589301761) | advertise |
@@ -11656,6 +11659,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rattaneire@X](https://twitter.com/Rattaneire/status/1492437309261852675) | advertise |
 | [ratthanan578@X](https://twitter.com/ratthanan578/status/1389495697649508353) | advertise |
 | [raulc27@X](https://twitter.com/raulc27/status/1462220220798582789) | advertise |
+| [Raun7001Raunak@X](https://twitter.com/Raun7001Raunak/status/1745837323038917050) | advertise |
 | [RaunakK33419847@X](https://twitter.com/RaunakK33419847/status/1389548989066919939) | advertise |
 | [ravemanti@X](https://twitter.com/ravemanti/status/1383111174162685955) | advertise |
 | [Ravikum76334611@X](https://twitter.com/Ravikum76334611/status/1387351894058672133) | advertise |
