@@ -3425,6 +3425,7 @@ Here's a list of public Fediverse services.
 | `atmoschem.org` | No |
 | `atmx.ca` | No |
 | `atmy.haus` | No |
+| `atoeri.me` | Yes |
 | `atoh.me` | No |
 | `atolla.xyz` | No |
 | `atollcoral.xyz` | No |
@@ -32710,7 +32711,7 @@ Here's a list of public Fediverse services.
 | `northern-fox.com` | Yes |
 | `northernvoice.app` | No |
 | `northlandia.net` | No |
-| `northofthewall.social` | No |
+| `northofthewall.social` | Yes |
 | `northpole.host` | No |
 | `northside.tokyo` | Yes |
 | `northstar.engineering` | No |
@@ -52344,8 +52345,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,914 |
-| Normal | 37,382 |
+| Cloudflare | 14,916 |
+| Normal | 37,381 |
 
 
 </details>
