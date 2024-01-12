@@ -20155,6 +20155,7 @@ Here's a list of public Fediverse services.
 | `iftf.social` | No |
 | `ifthekids.xyz` | No |
 | `ifthenel.se` | No |
+| `ifthisthenwhat.uk` | No |
 | `iftn-mstdn.pink` | No |
 | `ifuncle.kr` | No |
 | `ifvg.info` | No |
@@ -21165,7 +21166,7 @@ Here's a list of public Fediverse services.
 | `itsgarrett.com` | Yes |
 | `itsgonna.com` | Yes |
 | `itsjustthis.com` | No |
-| `itskevin.social` | Yes |
+| `itskevin.social` | No |
 | `itskil.com` | No |
 | `itslaura.eu` | No |
 | `itslit.bet` | Yes |
@@ -48440,7 +48441,7 @@ Here's a list of public Fediverse services.
 | `uwah.moe` | No |
 | `uwan.net` | Yes |
 | `uwu.care` | Yes |
-| `uwu.community` | Yes |
+| `uwu.community` | No |
 | `uwu.engineering` | Yes |
 | `uwu.is` | No |
 | `uwu.name` | Yes |
@@ -52341,8 +52342,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,912 |
-| Normal | 37,381 |
+| Cloudflare | 14,910 |
+| Normal | 37,384 |
 
 
 </details>
