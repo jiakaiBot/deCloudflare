@@ -11736,6 +11736,7 @@ Here's a list of public Fediverse services.
 | `dovac.org` | Yes |
 | `dowata.xyz` | No |
 | `dowling.social` | No |
+| `downbad.fr` | No |
 | `downey.family` | No |
 | `downey.net` | No |
 | `downsouthfarm.com` | No |
@@ -28747,7 +28748,7 @@ Here's a list of public Fediverse services.
 | `metsuke.com` | No |
 | `metta.pub` | Yes |
 | `metu.life` | No |
-| `metube.ch` | No |
+| `metube.ch` | Yes |
 | `metus.ca` | Yes |
 | `metznet.ca` | Yes |
 | `meu.space` | No |
@@ -31209,7 +31210,7 @@ Here's a list of public Fediverse services.
 | `nanbon.eu` | No |
 | `nancengka.com` | Yes |
 | `nancy.social` | No |
-| `nand.moe` | No |
+| `nand.moe` | Yes |
 | `nand.tk` | No |
 | `nandemoskey.com` | Yes |
 | `nandon.cc` | No |
@@ -52345,8 +52346,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,916 |
-| Normal | 37,381 |
+| Cloudflare | 14,918 |
+| Normal | 37,380 |
 
 
 </details>
