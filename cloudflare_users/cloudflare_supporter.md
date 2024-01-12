@@ -1784,6 +1784,7 @@ Do not create new issue or we will close it as duplicate.
 | [batajoonp@X](https://twitter.com/batajoonp/status/1562996003825156101) | advertise |
 | [BATMAN6033@X](https://twitter.com/BATMAN6033/status/1654040669382656001) | advertise |
 | [Batmancin@X](https://twitter.com/Batmancin/status/1441297464389029896) | advertise |
+| [Battousaji@X](https://twitter.com/Battousaji/status/1745881450564681848) | advertise |
 | [bayuart@X](https://twitter.com/bayuart/status/1611784224138489856) | advertise |
 | [bay_yellk@X](https://twitter.com/bay_yellk/status/1405940589284233220) | advertise |
 | [ba_gyee@X](https://twitter.com/ba_gyee/status/1393872315771850752) | advertise |
@@ -11138,6 +11139,7 @@ Do not create new issue or we will close it as duplicate.
 | [plekprasan@X](https://twitter.com/plekprasan/status/1684654419491840001) | advertise |
 | [PlHustla@X](https://twitter.com/PlHustla/status/1396266245696143361) | advertise |
 | [plnAhResBLcWi30@X](https://twitter.com/plnAhResBLcWi30/status/1390338116418891778) | advertise |
+| [plo_zel@X](https://twitter.com/plo_zel/status/1745896661354947048) | advertise |
 | [PLSFY2dzXWxAFJq@X](https://twitter.com/PLSFY2dzXWxAFJq/status/1401748010107875333) | advertise |
 | [PLTiYlLp6TXPZEv@X](https://twitter.com/PLTiYlLp6TXPZEv/status/1393330572097773573) | advertise |
 | [Plucki23@X](https://twitter.com/Plucki23/status/1646431619627225089) | advertise |
