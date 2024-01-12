@@ -1370,6 +1370,7 @@ Here's a list of public Fediverse services.
 | `aethernet.cc` | Yes |
 | `aethernet.social` | No |
 | `aethy.com` | Yes |
+| `aethyria.tech` | Yes |
 | `aeto.us` | No |
 | `aevl.net` | Yes |
 | `afallen.cymru` | No |
@@ -52355,7 +52356,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,920 |
+| Cloudflare | 14,921 |
 | Normal | 37,387 |
 
 
