@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,339 |
 | social | 4,752 |
-| net | 4,082 |
+| net | 4,083 |
 | org | 2,736 |
 | de | 2,600 |
 
@@ -15914,6 +15914,7 @@ Here's a list of public Fediverse services.
 | `frustrat.es` | No |
 | `fry.gs` | No |
 | `fryer.net.au` | No |
+| `fryingchicken.net` | Yes |
 | `fryntiz.cloud` | No |
 | `fs.al` | No |
 | `fsam.one` | No |
@@ -45152,6 +45153,7 @@ Here's a list of public Fediverse services.
 | `tessa.ooo` | Yes |
 | `tessellated.space` | No |
 | `tessellation.space` | Yes |
+| `tesserakt.blog` | No |
 | `test-account.com` | No |
 | `test01.shop` | No |
 | `test72.eu.org` | No |
@@ -52363,8 +52365,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,925 |
-| Normal | 37,390 |
+| Cloudflare | 14,926 |
+| Normal | 37,391 |
 
 
 </details>
