@@ -4822,6 +4822,7 @@ Do not create new issue or we will close it as duplicate.
 | [Haseebkhankhll@X](https://twitter.com/Haseebkhankhll/status/1687559007714820096) | advertise |
 | [Hashimkhan95003@X](https://twitter.com/Hashimkhan95003/status/1744048297260581191) | advertise |
 | [hashimoto_labs@X](https://twitter.com/hashimoto_labs/status/1699783054984917420) | advertise |
+| [HashimyWares@X](https://twitter.com/HashimyWares/status/1745908214091411717) | advertise |
 | [hashndashery@X](https://twitter.com/hashndashery/status/1566345780247629824) | advertise |
 | [HasimiJohan@X](https://twitter.com/HasimiJohan/status/1390402399404105728) | advertise |
 | [Hasin62169831@X](https://twitter.com/Hasin62169831/status/1380236587443888129) | advertise |
