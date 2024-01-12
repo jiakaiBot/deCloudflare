@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Update error due to DownloadInvalidMetadataMagicString](https://github.com/flatcar/nebraska/issues/711)
 - [v2ray-caddy-cdn: TLS Handshake timeout from Iran](https://github.com/miladrahimi/v2ray-docker-compose/issues/113)
 - [Feature: Enable setting drop_params = true on admin ui](https://github.com/BerriAI/litellm/issues/1426)
 - [not directly script related anyone experiencing any problems with loading 4chan captcha?](https://github.com/drunohazarb/4chan-captcha-solver/issues/14)
