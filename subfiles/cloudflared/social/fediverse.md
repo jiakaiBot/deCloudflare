@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,335 |
 | social | 4,752 |
-| net | 4,081 |
+| net | 4,082 |
 | org | 2,736 |
 | de | 2,599 |
 
@@ -5124,6 +5124,7 @@ Here's a list of public Fediverse services.
 | `bke.ro` | No |
 | `bkgaming.cafe` | No |
 | `bkgrdclrschm.link` | Yes |
+| `bknow.net` | Yes |
 | `bknyc.us` | No |
 | `bkoradio.com` | No |
 | `bkp.sh` | Yes |
@@ -5480,7 +5481,7 @@ Here's a list of public Fediverse services.
 | `bnkr.cc` | Yes |
 | `bnnuy.space` | No |
 | `bnoel.site` | No |
-| `bnolet.me` | No |
+| `bnolet.me` | Yes |
 | `bnrub.in` | No |
 | `bnt.social` | Yes |
 | `bnuuy.fyi` | Yes |
@@ -52342,8 +52343,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,912 |
-| Normal | 37,382 |
+| Cloudflare | 14,914 |
+| Normal | 37,381 |
 
 
 </details>
