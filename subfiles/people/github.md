@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Feature: Enable setting drop_params = true on admin ui](https://github.com/BerriAI/litellm/issues/1426)
 - [not directly script related anyone experiencing any problems with loading 4chan captcha?](https://github.com/drunohazarb/4chan-captcha-solver/issues/14)
 - [CloudFlare Control Plane Test on Thursday, February 15th, 2024](https://github.com/SecOpsNews/news/issues/23365)
 - [XML Validation with XSD blocked by Cloudflare as DOS attack](https://github.com/w3c/w3c-website/issues/601)
