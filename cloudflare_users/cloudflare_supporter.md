@@ -675,6 +675,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlcalaChistian@X](https://twitter.com/AlcalaChistian/status/1633727230710018048) | advertise |
 | [Ald33107945@X](https://twitter.com/Ald33107945/status/1553066067693486080) | advertise |
 | [aldoscar_oscar@X](https://twitter.com/aldoscar_oscar/status/1377318204477964290) | advertise |
+| [Ale60261157@X](https://twitter.com/Ale60261157/status/1745867630932525069) | advertise |
 | [alecarrington23@X](https://twitter.com/alecarrington23/status/1497728572265574403) | advertise |
 | [AlejoxTD@X](https://twitter.com/AlejoxTD/status/1590392039421923328) | advertise |
 | [Alekubanng@X](https://twitter.com/Alekubanng/status/1587168971165503492) | advertise |
@@ -781,6 +782,7 @@ Do not create new issue or we will close it as duplicate.
 | [allindialeads@X](https://twitter.com/allindialeads/status/1487816693346824194) | advertise |
 | [Allis98048947@X](https://twitter.com/Allis98048947/status/1396348863519371272) | advertise |
 | [all_aludu@X](https://twitter.com/all_aludu/status/1689482368288169984) | advertise |
+| [all_kauthsar@X](https://twitter.com/all_kauthsar/status/1745866442938220974) | advertise |
 | [AlmakLimited@X](https://twitter.com/AlmakLimited/status/1400534263007678464) | advertise |
 | [almasi1982@X](https://twitter.com/almasi1982/status/1715642691151597750) | advertise |
 | [almaska10498513@X](https://twitter.com/almaska10498513/status/1693940471666802781) | advertise |
@@ -2440,6 +2442,7 @@ Do not create new issue or we will close it as duplicate.
 | [cerqueira_io@X](https://twitter.com/cerqueira_io/status/1380589589463764994) | advertise |
 | [cesar15245284@X](https://twitter.com/cesar15245284/status/1498208854332555264) | advertise |
 | [CesareBonapart3@X](https://twitter.com/CesareBonapart3/status/1562510435919986689) | advertise |
+| [CesarFl74197138@X](https://twitter.com/CesarFl74197138/status/1745862047139569928) | advertise |
 | [cesef@X](https://twitter.com/cesef/status/1543653828255432706) | advertise |
 | [cexinsco@X](https://twitter.com/cexinsco/status/1587000003612090368) | advertise |
 | [cey36481826@X](https://twitter.com/cey36481826/status/1503391992877031434) | advertise |
