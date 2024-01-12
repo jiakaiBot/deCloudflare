@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,336 |
+| com | 8,338 |
 | social | 4,752 |
 | net | 4,082 |
 | org | 2,736 |
@@ -5817,6 +5817,7 @@ Here's a list of public Fediverse services.
 | `bovi.social` | No |
 | `bovid.space` | No |
 | `bovine.social` | No |
+| `bovine.tv` | Yes |
 | `bow.st` | No |
 | `bowblog.com` | No |
 | `bowden.social` | No |
@@ -9563,6 +9564,7 @@ Here's a list of public Fediverse services.
 | `cybernude.org` | No |
 | `cyberparty.me` | No |
 | `cyberpasti.me` | Yes |
+| `cyberpaws.lol` | No |
 | `cyberpeaceinstitute.org` | Yes |
 | `cyberpigeon.net` | No |
 | `cyberplace.social` | No |
@@ -12444,6 +12446,7 @@ Here's a list of public Fediverse services.
 | `edel-ornstein.pro` | Yes |
 | `edelmann.bond` | Yes |
 | `eden.one` | No |
+| `edequalsaweso.me` | No |
 | `edeverett.co.uk` | No |
 | `edfoc.org.uk` | No |
 | `edgarogh.fr` | No |
@@ -41181,6 +41184,7 @@ Here's a list of public Fediverse services.
 | `shinchanwigulu.net` | No |
 | `shinenelson.com` | No |
 | `shiningcube.top` | No |
+| `shinji-fukuyama.com` | No |
 | `shinkai.party` | Yes |
 | `shinkaifan.com` | No |
 | `shinminato.com` | No |
@@ -45429,6 +45433,7 @@ Here's a list of public Fediverse services.
 | `thedataexchange.media` | No |
 | `thedav.is` | Yes |
 | `thedecentralists.com` | No |
+| `thedeletebin.com` | No |
 | `theden.dev` | Yes |
 | `theden.gay` | Yes |
 | `thedent.net` | No |
@@ -45989,6 +45994,7 @@ Here's a list of public Fediverse services.
 | `thoshis.net` | No |
 | `thoshiswelt.de` | No |
 | `thoster.net` | No |
+| `thot.yoga` | No |
 | `thotcrime.top` | No |
 | `thote.it` | No |
 | `thotsofa304.club` | Yes |
@@ -47459,6 +47465,7 @@ Here's a list of public Fediverse services.
 | `turnin.quest` | Yes |
 | `turnip.solutions` | No |
 | `turpentine.blue` | No |
+| `turpish.vote` | No |
 | `turqtoise-soup.com` | No |
 | `turretlabs.io` | No |
 | `turtle.garden` | No |
@@ -49616,6 +49623,7 @@ Here's a list of public Fediverse services.
 | `wasp.ovh` | Yes |
 | `wasscher.com` | No |
 | `wassim.social` | No |
+| `wastaken.xyz` | Yes |
 | `waste-in-motion.org` | No |
 | `waste-of.space` | No |
 | `waste.social` | No |
@@ -51976,6 +51984,7 @@ Here's a list of public Fediverse services.
 | `zenmai.org` | No |
 | `zenmelon.com` | No |
 | `zenmischief.com` | No |
+| `zenmu.io` | No |
 | `zenphp.com` | No |
 | `zenshin.uk` | Yes |
 | `zentea.gay` | No |
@@ -52346,8 +52355,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,918 |
-| Normal | 37,380 |
+| Cloudflare | 14,920 |
+| Normal | 37,387 |
 
 
 </details>
