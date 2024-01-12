@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Windscribe port forwarding doesn't work when running gluetun as a kubernetes sidecar](https://github.com/qdm12/gluetun/issues/2043)
 - [Update error due to DownloadInvalidMetadataMagicString](https://github.com/flatcar/nebraska/issues/711)
 - [v2ray-caddy-cdn: TLS Handshake timeout from Iran](https://github.com/miladrahimi/v2ray-docker-compose/issues/113)
 - [Feature: Enable setting drop_params = true on admin ui](https://github.com/BerriAI/litellm/issues/1426)
