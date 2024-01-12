@@ -381,7 +381,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wang.art | Yes |
 | wargan.io | No |
 | waringer-atg.de | No |
-| webteufel.net | No |
 | wehao.net | Yes |
 | wikimedia-dns.org | No |
 | woodbridge.club | No |
@@ -399,7 +398,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 197 |
-| Normal | 182 |
+| Normal | 181 |
 
 
-### 52% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
