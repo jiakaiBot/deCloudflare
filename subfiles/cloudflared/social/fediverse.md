@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,338 |
+| com | 8,339 |
 | social | 4,752 |
 | net | 4,082 |
 | org | 2,736 |
@@ -15272,6 +15272,7 @@ Here's a list of public Fediverse services.
 | `foralltime.icu` | Yes |
 | `force-clan.io` | No |
 | `forcedconversation.com` | No |
+| `forcefemm.ing` | No |
 | `forcesunseen.com` | Yes |
 | `ford.id.au` | No |
 | `ford.social` | No |
@@ -45955,6 +45956,7 @@ Here's a list of public Fediverse services.
 | `thisplays.social` | Yes |
 | `thissorryspacesuit.com` | No |
 | `thiswebsite.co` | No |
+| `thisweekinthe90s.com` | Yes |
 | `thivinfo.com` | No |
 | `thj.no` | No |
 | `thman.ovh` | No |
@@ -51190,6 +51192,7 @@ Here's a list of public Fediverse services.
 | `xrh0905.top` | No |
 | `xroad.se` | No |
 | `xrono.org` | No |
+| `xrs.cx` | No |
 | `xrvs.net` | No |
 | `xscape.top` | No |
 | `xsden.info` | Yes |
@@ -52360,8 +52363,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,924 |
-| Normal | 37,388 |
+| Cloudflare | 14,925 |
+| Normal | 37,390 |
 
 
 </details>
