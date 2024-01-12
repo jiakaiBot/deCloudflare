@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,335 |
+| com | 8,336 |
 | social | 4,752 |
 | net | 4,082 |
 | org | 2,736 |
@@ -8932,6 +8932,7 @@ Here's a list of public Fediverse services.
 | `craftam.app` | No |
 | `craftbeer.social` | No |
 | `craftberries.town` | Yes |
+| `craftbru.com` | No |
 | `craftcat.dev` | Yes |
 | `craftcms.com` | Yes |
 | `crafter.social` | No |
@@ -52344,7 +52345,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,914 |
-| Normal | 37,381 |
+| Normal | 37,382 |
 
 
 </details>
