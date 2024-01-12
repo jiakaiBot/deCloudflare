@@ -16921,6 +16921,7 @@ Here's a list of public Fediverse services.
 | `gfhgfh.com` | Yes |
 | `gfk.social` | No |
 | `gfsc.studio` | Yes |
+| `gfserver.jp` | Yes |
 | `gfuzz.de` | No |
 | `gg2don.com` | No |
 | `ggbox.fr` | No |
@@ -52356,7 +52357,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,921 |
+| Cloudflare | 14,922 |
 | Normal | 37,387 |
 
 
