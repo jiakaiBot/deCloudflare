@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,752 |
 | net | 4,082 |
 | org | 2,736 |
-| de | 2,599 |
+| de | 2,600 |
 
 
 - Mastodon, Pleroma, etc
@@ -42342,6 +42342,7 @@ Here's a list of public Fediverse services.
 | `socialspace.xyz` | No |
 | `socialspill.com` | Yes |
 | `socialtech.net.br` | No |
+| `socialtodon.de` | No |
 | `socialtoot.eu` | Yes |
 | `socialtruth.social` | No |
 | `socialtuna.net` | No |
@@ -52360,7 +52361,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,924 |
-| Normal | 37,387 |
+| Normal | 37,388 |
 
 
 </details>
