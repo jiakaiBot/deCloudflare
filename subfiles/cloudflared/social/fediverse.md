@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,342 |
+| com | 8,343 |
 | social | 4,752 |
 | net | 4,084 |
 | org | 2,736 |
-| de | 2,601 |
+| de | 2,602 |
 
 
 - Mastodon, Pleroma, etc
@@ -8327,6 +8327,7 @@ Here's a list of public Fediverse services.
 | `coldvolcano.li` | No |
 | `cole.mn` | Yes |
 | `colean.cc` | No |
+| `colearn.de` | No |
 | `colearn.social` | No |
 | `colectif.de` | No |
 | `colectiv.app` | No |
@@ -31985,6 +31986,7 @@ Here's a list of public Fediverse services.
 | `nextgeimu.net` | No |
 | `nextinnonprofits.com` | Yes |
 | `nextme.tk` | No |
+| `nextnewsapp.com` | No |
 | `nextpayge.social` | Yes |
 | `nextpi.net` | No |
 | `nextstepventures.org` | No |
@@ -44809,6 +44811,7 @@ Here's a list of public Fediverse services.
 | `teapot.zone` | No |
 | `tearaikazuki.jp` | Yes |
 | `tearmoon.com` | No |
+| `teasmith.au` | Yes |
 | `teasmith.com.au` | Yes |
 | `teatime.gr.jp` | No |
 | `teatoasttrivia.com` | No |
@@ -52372,8 +52375,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,927 |
-| Normal | 37,397 |
+| Cloudflare | 14,928 |
+| Normal | 37,399 |
 
 
 </details>
