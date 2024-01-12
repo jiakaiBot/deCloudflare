@@ -3041,7 +3041,6 @@ Here's a list of public Fediverse services.
 | `articlesofunity.social` | No |
 | `artifaille.fr` | No |
 | `artificial-owl.com` | No |
-| `artificial.place` | No |
 | `artificial.social` | Yes |
 | `artificialgravity.dev` | No |
 | `artificialworlds.net` | No |
@@ -33854,6 +33853,7 @@ Here's a list of public Fediverse services.
 | `ostolc.org` | No |
 | `ostrovok.de` | No |
 | `osu.io` | Yes |
+| `osu.si` | No |
 | `osumiakari.jp` | Yes |
 | `osureplayviewer.xyz` | No |
 | `osvoj.ru` | No |
