@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [not directly script related anyone experiencing any problems with loading 4chan captcha?](https://github.com/drunohazarb/4chan-captcha-solver/issues/14)
 - [CloudFlare Control Plane Test on Thursday, February 15th, 2024](https://github.com/SecOpsNews/news/issues/23365)
 - [XML Validation with XSD blocked by Cloudflare as DOS attack](https://github.com/w3c/w3c-website/issues/601)
 - [Cloudflare integration setup issue - Error at 'Choose the Records to Update'](https://github.com/home-assistant/core/issues/107810)
