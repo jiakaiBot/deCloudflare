@@ -7683,6 +7683,7 @@ Do not create new issue or we will close it as duplicate.
 | [Leophir@X](https://twitter.com/Leophir/status/1406188576895819782) | advertise |
 | [leosendo@X](https://twitter.com/leosendo/status/1686382063015047168) | advertise |
 | [LerbonR@X](https://twitter.com/LerbonR/status/1401222654883893254) | advertise |
+| [Leroymeng_29@X](https://twitter.com/Leroymeng_29/status/1745586956002873609) | advertise |
 | [Leslie61341295@X](https://twitter.com/Leslie61341295/status/1584548084482441217) | advertise |
 | [Lesprom_com@X](https://twitter.com/Lesprom_com/status/1516889062061260800) | advertise |
 | [less_matitan@X](https://twitter.com/less_matitan/status/1696151700707389558) | advertise |
