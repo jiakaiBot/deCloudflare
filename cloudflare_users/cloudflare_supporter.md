@@ -6385,6 +6385,7 @@ Do not create new issue or we will close it as duplicate.
 | [JoonasPulliain1@X](https://twitter.com/JoonasPulliain1/status/1472506852307054594) | advertise |
 | [JoonCathy@X](https://twitter.com/JoonCathy/status/1391688136925712391) | advertise |
 | [Jordan51468849@X](https://twitter.com/Jordan51468849/status/1607577126001336320) | advertise |
+| [jordanbell2357@X](https://twitter.com/jordanbell2357/status/1745657411656917071) | advertise |
 | [jordanblaise39@X](https://twitter.com/jordanblaise39/status/1499532521276678146) | advertise |
 | [Joselfmode@X](https://twitter.com/Joselfmode/status/1542250994637094913) | advertise |
 | [JosephDey2@X](https://twitter.com/JosephDey2/status/1401179924237520896) | advertise |
