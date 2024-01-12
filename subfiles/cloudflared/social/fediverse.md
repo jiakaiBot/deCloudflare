@@ -3056,7 +3056,7 @@ Here's a list of public Fediverse services.
 | `arsrobotics.org` | Yes |
 | `arss.io` | Yes |
 | `arstafrun.se` | No |
-| `arstechnica.com` | No |
+| `arstechnica.com` | Yes |
 | `arstoien.xyz` | No |
 | `art-software.fr` | No |
 | `art.blog` | No |
@@ -8354,6 +8354,7 @@ Here's a list of public Fediverse services.
 | `collazo.ws` | No |
 | `collec.tf` | No |
 | `collectifdhun.ovh` | No |
+| `collectifission.nl` | No |
 | `collectifs.net` | No |
 | `collectivecast.com` | No |
 | `collectivemind.es` | No |
@@ -14337,6 +14338,7 @@ Here's a list of public Fediverse services.
 | `fedilemmy.net` | Yes |
 | `fedilists.com` | No |
 | `fedilove.cyou` | Yes |
+| `fedimagazine.info` | Yes |
 | `fedimagazine.tokyo` | Yes |
 | `fedimaker.space` | No |
 | `fedimas.com` | Yes |
@@ -52357,7 +52359,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,922 |
+| Cloudflare | 14,924 |
 | Normal | 37,387 |
 
 
