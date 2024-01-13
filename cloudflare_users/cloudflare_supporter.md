@@ -12200,6 +12200,7 @@ Do not create new issue or we will close it as duplicate.
 | [SakshiC60115393@X](https://twitter.com/SakshiC60115393/status/1378061425206194176) | advertise |
 | [sakulrat778@X](https://twitter.com/sakulrat778/status/1715040925922304116) | advertise |
 | [SakusaSpray@X](https://twitter.com/SakusaSpray/status/1391577820409724932) | advertise |
+| [Salai67166830@X](https://twitter.com/Salai67166830/status/1746039871221686713) | advertise |
 | [Salaing3@X](https://twitter.com/Salaing3/status/1392576860027068417) | advertise |
 | [Saleh28110076@X](https://twitter.com/Saleh28110076/status/1514439036139618308) | advertise |
 | [SaleheenKhan1@X](https://twitter.com/SaleheenKhan1/status/1476642505684774914) | advertise |
