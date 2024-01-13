@@ -4238,7 +4238,7 @@ Here's a list of public Fediverse services.
 | `basti.dev` | No |
 | `bastianoliver.nl` | Yes |
 | `bastianoso.de` | No |
-| `bastiat.social` | Yes |
+| `bastiat.social` | No |
 | `bastien.social` | No |
 | `bastique.com` | No |
 | `bastodon.org` | Yes |
@@ -6778,7 +6778,7 @@ Here's a list of public Fediverse services.
 | `carbontwelve.jp` | No |
 | `carcio.fi` | No |
 | `carck.co.uk` | Yes |
-| `carclub.social` | Yes |
+| `carclub.social` | No |
 | `cardanodevelopment.com` | Yes |
 | `cardboard.construction` | No |
 | `cardiffmas.uk` | No |
@@ -11529,7 +11529,7 @@ Here's a list of public Fediverse services.
 | `doingyourmom.club` | No |
 | `doisakura.moe` | No |
 | `doithere.live` | No |
-| `dojos.social` | Yes |
+| `dojos.social` | No |
 | `dojpride.org` | No |
 | `dokasen.com` | No |
 | `dokmz.com` | Yes |
@@ -17384,7 +17384,7 @@ Here's a list of public Fediverse services.
 | `god.fish` | No |
 | `godataflow.com` | Yes |
 | `godawful.earth` | No |
-| `goddessphoebe.com` | Yes |
+| `goddessphoebe.com` | No |
 | `godforsaken.website` | No |
 | `godfreyhendrix.com` | Yes |
 | `godot.coffee` | No |
@@ -21018,7 +21018,7 @@ Here's a list of public Fediverse services.
 | `isaak.ovh` | No |
 | `isabellang.net` | No |
 | `isabelle-santos.space` | No |
-| `isabelroses.live` | Yes |
+| `isabelroses.live` | No |
 | `isacutie.net` | No |
 | `isadati.work` | Yes |
 | `isaffine.name` | No |
@@ -24141,7 +24141,7 @@ Here's a list of public Fediverse services.
 | `kueckieben.de` | No |
 | `kuehnert.io` | No |
 | `kuemmerle.name` | Yes |
-| `kuendig.io` | No |
+| `kuendig.io` | Yes |
 | `kuenet.ch` | No |
 | `kuenstlerquadrat.de` | No |
 | `kuester7.com` | No |
@@ -27696,7 +27696,7 @@ Here's a list of public Fediverse services.
 | `mastodon.online` | No |
 | `mastodon.org.es` | Yes |
 | `mastodon.org.tr` | Yes |
-| `mastodon.org.ua` | Yes |
+| `mastodon.org.ua` | No |
 | `mastodon.org.uk` | Yes |
 | `mastodon.osaka` | No |
 | `mastodon.partners` | No |
@@ -28613,6 +28613,7 @@ Here's a list of public Fediverse services.
 | `meowcat.dev` | No |
 | `meowcat285.com` | Yes |
 | `meowchat.xyz` | No |
+| `meowcity.club` | No |
 | `meowclown.de` | No |
 | `meowhome.xyz` | Yes |
 | `meowing.online` | Yes |
@@ -29547,7 +29548,7 @@ Here's a list of public Fediverse services.
 | `mkp.social` | No |
 | `mkr-tech.ch` | No |
 | `mkr.house` | No |
-| `mktoho.social` | Yes |
+| `mktoho.social` | No |
 | `mku.social` | No |
 | `mkultra.me` | Yes |
 | `mkwarman.com` | No |
@@ -33365,7 +33366,7 @@ Here's a list of public Fediverse services.
 | `ochtendgrijs.be` | Yes |
 | `ochtendrood.nl` | No |
 | `ocillacubes.com` | No |
-| `ocjtech.us` | No |
+| `ocjtech.us` | Yes |
 | `ocloud.de` | No |
 | `oconnellamethyst.com` | No |
 | `oconnor.cx` | No |
@@ -40834,7 +40835,7 @@ Here's a list of public Fediverse services.
 | `seniorenakademie-digital.de` | No |
 | `senka.space` | No |
 | `senkitahara.com` | No |
-| `senky.social` | Yes |
+| `senky.social` | No |
 | `sennomo.net` | No |
 | `senooken.jp` | Yes |
 | `senosva.com` | Yes |
@@ -52375,8 +52376,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,928 |
-| Normal | 37,399 |
+| Cloudflare | 14,922 |
+| Normal | 37,406 |
 
 
 </details>
