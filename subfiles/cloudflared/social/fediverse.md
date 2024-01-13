@@ -192,6 +192,7 @@ Here's a list of public Fediverse services.
 | `10-reasons.com` | Yes |
 | `1000-7.xn--p1ai` | Yes |
 | `10000x.dev` | Yes |
+| `100010101.xyz` | No |
 | `1000dollars.info` | No |
 | `1000grad.com` | No |
 | `1001solutions.net` | No |
@@ -3095,6 +3096,7 @@ Here's a list of public Fediverse services.
 | `articlesofunity.social` | No |
 | `artifaille.fr` | No |
 | `artificial-owl.com` | No |
+| `artificial.place` | No |
 | `artificial.social` | Yes |
 | `artificialgravity.dev` | No |
 | `artificialworlds.net` | No |
@@ -3227,6 +3229,7 @@ Here's a list of public Fediverse services.
 | `ashwin.run` | No |
 | `ashworth.io` | No |
 | `asiacompete-international.com` | No |
+| `asiavibes.info` | No |
 | `asie.pl` | No |
 | `asignz.dev` | No |
 | `asimon.org` | No |
@@ -33524,6 +33527,7 @@ Here's a list of public Fediverse services.
 | `ogtrekker.com` | No |
 | `oh-hi.social` | Yes |
 | `oh-w.tf` | No |
+| `oh.mg` | Yes |
 | `oh14.de` | No |
 | `oh2cil.radio` | No |
 | `ohaa.xyz` | Yes |
@@ -44654,6 +44658,7 @@ Here's a list of public Fediverse services.
 | `targaryen.house` | No |
 | `targetedindividuals.net` | No |
 | `taricorp.net` | No |
+| `tarka.dev` | No |
 | `tarkiz.org` | No |
 | `tarmil.fr` | No |
 | `tarmotanilsoo.com` | No |
@@ -52393,8 +52398,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,930 |
-| Normal | 37,415 |
+| Cloudflare | 14,931 |
+| Normal | 37,419 |
 
 
 </details>
