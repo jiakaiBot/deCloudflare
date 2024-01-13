@@ -4461,6 +4461,7 @@ Do not create new issue or we will close it as duplicate.
 | [GnaneswarNaidu3@X](https://twitter.com/GnaneswarNaidu3/status/1397087799518449669) | advertise |
 | [gndpwnd@X](https://twitter.com/gndpwnd/status/1483332664933249026) | advertise |
 | [GNHIndiapharma@X](https://twitter.com/GNHIndiapharma/status/1545223137981337602) | advertise |
+| [Gnik_ZA@X](https://twitter.com/Gnik_ZA/status/1746271978258854250) | advertise |
 | [GNkulikiyinka@X](https://twitter.com/GNkulikiyinka/status/1532895411723292674) | advertise |
 | [go4webdev@X](https://twitter.com/go4webdev/status/1435122836037849095) | advertise |
 | [goblissasiaedu@X](https://twitter.com/goblissasiaedu/status/1587703983375720448) | advertise |
