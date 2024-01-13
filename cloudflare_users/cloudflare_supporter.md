@@ -14677,6 +14677,7 @@ Do not create new issue or we will close it as duplicate.
 | [unknown09952106@X](https://twitter.com/unknown09952106/status/1646776705149804544) | advertise |
 | [Unknown777667@X](https://twitter.com/Unknown777667/status/1636754259243941889) | advertise |
 | [Unknown_123127@X](https://twitter.com/Unknown_123127/status/1607629192665137153) | advertise |
+| [unleashedaitech@X](https://twitter.com/unleashedaitech/status/1740881777953292696) | advertise |
 | [UnmineableCode@X](https://twitter.com/UnmineableCode/status/1510333319317176327) | advertise |
 | [UnnThsHShlevRRH@X](https://twitter.com/UnnThsHShlevRRH/status/1712480624249069788) | advertise |
 | [UNo29958011@X](https://twitter.com/UNo29958011/status/1399227396000149504) | advertise |
