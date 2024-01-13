@@ -42167,6 +42167,7 @@ Here's a list of public Fediverse services.
 | `snepi.space` | Yes |
 | `snet.blog` | No |
 | `snfl.fun` | No |
+| `snfsx.ru` | Yes |
 | `sngsk.info` | No |
 | `sniff122.tech` | Yes |
 | `snipesearch.co.uk` | Yes |
@@ -47528,6 +47529,7 @@ Here's a list of public Fediverse services.
 | `tut.ac.jp` | No |
 | `tutafey.eu` | No |
 | `tutestutes.org` | No |
+| `tutiluren.art` | No |
 | `tuto-craft.com` | No |
 | `tutor.social` | Yes |
 | `tutoteket.no` | No |
@@ -52391,8 +52393,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,929 |
-| Normal | 37,414 |
+| Cloudflare | 14,930 |
+| Normal | 37,415 |
 
 
 </details>
