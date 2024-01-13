@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,349 |
+| com | 8,350 |
 | social | 4,756 |
-| net | 4,085 |
+| net | 4,086 |
 | org | 2,736 |
 | de | 2,602 |
 
@@ -12005,6 +12005,7 @@ Here's a list of public Fediverse services.
 | `dsrev.me` | Yes |
 | `dssc.io` | Yes |
 | `dssr.ch` | No |
+| `dsss.space` | No |
 | `dstet.me` | No |
 | `dsvt.site` | No |
 | `dt-info.com` | No |
@@ -23861,6 +23862,7 @@ Here's a list of public Fediverse services.
 | `konservgeek.se` | No |
 | `konsolenknecht.de` | No |
 | `konstantin.ist` | No |
+| `konstantinklein.com` | No |
 | `konstantintutsch.com` | No |
 | `konstantintutsch.de` | No |
 | `konstanz-net.de` | No |
@@ -31724,6 +31726,7 @@ Here's a list of public Fediverse services.
 | `nerdlings.net` | Yes |
 | `nerdly.dev` | Yes |
 | `nerdnet.ovh` | No |
+| `nerdnieuws.net` | No |
 | `nerdnight.ninja` | No |
 | `nerdnightlax.com` | Yes |
 | `nerdorium.org` | No |
@@ -42722,7 +42725,7 @@ Here's a list of public Fediverse services.
 | `spaceint.fr` | No |
 | `spacejerk.fr` | No |
 | `spacekaren.online` | No |
-| `spacekittens.ru` | No |
+| `spacekittens.ru` | Yes |
 | `spacekookie.de` | No |
 | `spacelase.rs` | Yes |
 | `spacelasers.us` | Yes |
@@ -48564,6 +48567,7 @@ Here's a list of public Fediverse services.
 | `vaduzz.de` | No |
 | `vael.town` | No |
 | `vaenner.net` | No |
+| `vagabunda.se` | No |
 | `vaguelydamp.com` | No |
 | `vah.sh` | Yes |
 | `vahera.social` | Yes |
@@ -52396,8 +52400,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,928 |
-| Normal | 37,420 |
+| Cloudflare | 14,929 |
+| Normal | 37,423 |
 
 
 </details>
