@@ -312,6 +312,7 @@ Do not create new issue or we will close it as duplicate.
 | [AbdullahRafey@X](https://twitter.com/AbdullahRafey/status/1380618387605221377) | advertise |
 | [abdullh15458795@X](https://twitter.com/abdullh15458795/status/1594779540144132096) | advertise |
 | [abdulmannan93@X](https://twitter.com/abdulmannan93/status/1539861826766266371) | advertise |
+| [Abdulnajib38480@X](https://twitter.com/Abdulnajib38480/status/1745986727507075142) | advertise |
 | [AbdulRa40495066@X](https://twitter.com/AbdulRa40495066/status/1591481094997786627) | advertise |
 | [Abdul_Rahaman79@X](https://twitter.com/Abdul_Rahaman79/status/1730900671141183929) | advertise |
 | [abduvohid2005@X](https://twitter.com/abduvohid2005/status/1556816971735265283) | advertise |
@@ -7761,6 +7762,7 @@ Do not create new issue or we will close it as duplicate.
 | [likasit2007@X](https://twitter.com/likasit2007/status/1455188973991575552) | advertise |
 | [likenzyislc@X](https://twitter.com/likenzyislc/status/1707941983816458541) | advertise |
 | [likexxxpussy@X](https://twitter.com/likexxxpussy/status/1480204550753906691) | advertise |
+| [LikhonScripts@X](https://twitter.com/LikhonScripts/status/1745991154968178778) | advertise |
 | [lil33volt@X](https://twitter.com/lil33volt/status/1387519800742658048) | advertise |
 | [lildrip34202595@X](https://twitter.com/lildrip34202595/status/1547291257529147393) | advertise |
 | [lildrippy121@X](https://twitter.com/lildrippy121/status/1704349336241328562) | advertise |
@@ -9113,6 +9115,7 @@ Do not create new issue or we will close it as duplicate.
 | [mohammedzohair0@X](https://twitter.com/mohammedzohair0/status/1585407711000559616) | advertise |
 | [MOHAMUDJAMA143@X](https://twitter.com/MOHAMUDJAMA143/status/1578782237981655041) | advertise |
 | [Mohan77793395@X](https://twitter.com/Mohan77793395/status/1392786277183803396) | advertise |
+| [Mohanadadams@X](https://twitter.com/Mohanadadams/status/1745959242945720818) | advertise |
 | [Moha_q9q@X](https://twitter.com/Moha_q9q/status/1478010892612743175) | advertise |
 | [MohdaslanAslan1@X](https://twitter.com/MohdaslanAslan1/status/1613987207777521664) | advertise |
 | [MohdRabiee@X](https://twitter.com/MohdRabiee/status/1568654807900033029) | advertise |
