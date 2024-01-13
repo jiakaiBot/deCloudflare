@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Compatibility for cloudflare_module preset of Nitro](https://github.com/nuxt-modules/og-image/issues/143)
 - [Cannot make SRV on CloudFlare](https://github.com/AnalogJ/lexicon/issues/1861)
 - [Windscribe port forwarding doesn't work when running gluetun as a kubernetes sidecar](https://github.com/qdm12/gluetun/issues/2043)
 - [Update error due to DownloadInvalidMetadataMagicString](https://github.com/flatcar/nebraska/issues/711)
