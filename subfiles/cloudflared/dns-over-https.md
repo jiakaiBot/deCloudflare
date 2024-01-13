@@ -244,7 +244,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | narl.app | No |
 | ndo.dev | Yes |
 | netcat.one | No |
-| netraptor.com.au | Yes |
 | nexific.it | Yes |
 | nhgnet.de | No |
 | nhtsky.com | Yes |
@@ -392,8 +391,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 194 |
+| Cloudflare | 193 |
 | Normal | 179 |
 
 
-### 52% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
