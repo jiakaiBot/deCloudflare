@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,349 |
-| social | 4,754 |
+| com | 8,350 |
+| social | 4,756 |
 | net | 4,085 |
 | org | 2,736 |
 | de | 2,602 |
@@ -5268,6 +5268,7 @@ Here's a list of public Fediverse services.
 | `bleatbox.net` | Yes |
 | `bleauweb.net` | Yes |
 | `bleeds.info` | No |
+| `bleep.social` | No |
 | `bleep.town` | Yes |
 | `bleep.zone` | No |
 | `bleepbloop.club` | No |
@@ -9283,6 +9284,7 @@ Here's a list of public Fediverse services.
 | `cthulhu.social` | No |
 | `ctmiller.net` | No |
 | `ctms.me` | No |
+| `ctor.tech` | No |
 | `ctrl-shift.net` | No |
 | `ctrlaltdog.xyz` | No |
 | `ctrlaltelite.xyz` | Yes |
@@ -17365,6 +17367,7 @@ Here's a list of public Fediverse services.
 | `gobelet.com` | No |
 | `goblackcat.com` | Yes |
 | `goblackcat.net` | Yes |
+| `goblackcat.social` | Yes |
 | `goblackcat.xyz` | Yes |
 | `goblfc.org` | Yes |
 | `goblin.band` | No |
@@ -46117,6 +46120,7 @@ Here's a list of public Fediverse services.
 | `tiffinfamilynetwork.com` | No |
 | `tiflo.social` | No |
 | `tiflolinux.org` | No |
+| `tiflonet.com` | No |
 | `tifosi.social` | No |
 | `tifox.fr` | No |
 | `tigefa.space` | Yes |
@@ -52387,8 +52391,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,928 |
-| Normal | 37,411 |
+| Cloudflare | 14,929 |
+| Normal | 37,414 |
 
 
 </details>
