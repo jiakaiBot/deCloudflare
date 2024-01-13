@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,344 |
-| social | 4,752 |
-| net | 4,084 |
+| com | 8,349 |
+| social | 4,753 |
+| net | 4,085 |
 | org | 2,736 |
 | de | 2,602 |
 
@@ -13570,6 +13570,7 @@ Here's a list of public Fediverse services.
 | `everynothing.social` | No |
 | `everyoneattack.com` | No |
 | `everysick.com` | No |
+| `everything4houses.com` | No |
 | `everythingbagel.me` | Yes |
 | `everythingbut.fish` | No |
 | `everythingistacos.net` | No |
@@ -26356,6 +26357,7 @@ Here's a list of public Fediverse services.
 | `lugonials.social` | No |
 | `lugoweb.es` | No |
 | `luhrck.com` | Yes |
+| `luisetex.dev` | Yes |
 | `luisito.me` | Yes |
 | `luizpicolo.com.br` | Yes |
 | `lukacern.cz` | No |
@@ -33832,6 +33834,7 @@ Here's a list of public Fediverse services.
 | `onlyfriends.social` | No |
 | `onlygans.social` | No |
 | `onlylikes.io` | Yes |
+| `onlynugs.net` | No |
 | `onlypa.ws` | Yes |
 | `onlypixel.nl` | No |
 | `onlyroleplayth.com` | No |
@@ -34939,6 +34942,7 @@ Here's a list of public Fediverse services.
 | `pathfinder.social` | Yes |
 | `pathofexile-discuss.com` | Yes |
 | `pati.to` | No |
+| `patmulcahy.com` | No |
 | `patogh.co` | Yes |
 | `patologia.online` | No |
 | `patr.fr` | No |
@@ -42632,6 +42636,7 @@ Here's a list of public Fediverse services.
 | `soupwhale.com` | Yes |
 | `sour.is` | No |
 | `source.news` | No |
+| `sourcegate.com` | No |
 | `sourcemac.com` | No |
 | `sourdin.ovh` | No |
 | `sousoupe.fr` | No |
@@ -44502,6 +44507,7 @@ Here's a list of public Fediverse services.
 | `talkative.fish` | No |
 | `talkbet.org` | Yes |
 | `talkbottle.com` | No |
+| `talkbox.social` | No |
 | `talkedabout.social` | No |
 | `talker.to` | No |
 | `talking.dev` | Yes |
@@ -46148,6 +46154,7 @@ Here's a list of public Fediverse services.
 | `till0196.com` | Yes |
 | `tillbosselmann.de` | No |
 | `tille.ch` | No |
+| `tillerhq.com` | Yes |
 | `tilley.social` | No |
 | `tillicumnet.com` | No |
 | `tilosp.de` | Yes |
@@ -49159,6 +49166,7 @@ Here's a list of public Fediverse services.
 | `vocals.gg` | No |
 | `vocalsynthes.is` | Yes |
 | `vocata.one` | No |
+| `vocationnet.com` | No |
 | `voccs.com` | No |
 | `vocivia.tk` | No |
 | `vodka.gg` | No |
@@ -52377,8 +52385,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,923 |
-| Normal | 37,406 |
+| Cloudflare | 14,925 |
+| Normal | 37,412 |
 
 
 </details>
