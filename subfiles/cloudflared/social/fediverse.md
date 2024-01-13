@@ -7375,7 +7375,7 @@ Here's a list of public Fediverse services.
 | `chattingdarkly.org` | No |
 | `chattr.pub` | No |
 | `chatty.monster` | No |
-| `chatu.app` | No |
+| `chatu.app` | Yes |
 | `chaturbatefriendfinder.com` | No |
 | `chatz.nl` | No |
 | `chaudhery.com` | No |
@@ -23610,7 +23610,7 @@ Here's a list of public Fediverse services.
 | `kloen-cafe.de` | No |
 | `kloenk.dev` | No |
 | `kloenk.eu` | No |
-| `kloetensecurity.com` | Yes |
+| `kloetensecurity.com` | No |
 | `klog.tw` | Yes |
 | `klomp.de` | No |
 | `klosowicz.net` | No |
@@ -46976,6 +46976,7 @@ Here's a list of public Fediverse services.
 | `transhub.social` | No |
 | `transient.garden` | Yes |
 | `transient.me.uk` | No |
+| `transistor.one` | No |
 | `transistorcafe.net` | Yes |
 | `transitieweb.nl` | No |
 | `transition-waedenswil.ch` | No |
@@ -52386,7 +52387,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,925 |
-| Normal | 37,412 |
+| Normal | 37,413 |
 
 
 </details>
