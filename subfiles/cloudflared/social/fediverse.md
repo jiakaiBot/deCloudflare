@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,349 |
-| social | 4,753 |
+| social | 4,754 |
 | net | 4,085 |
 | org | 2,736 |
 | de | 2,602 |
@@ -1651,7 +1651,7 @@ Here's a list of public Fediverse services.
 | `aktion-nordost.de` | No |
 | `aktion-nordost.tv` | No |
 | `aktives-muensterland.de` | No |
-| `aktivtube.com` | No |
+| `aktivtube.com` | Yes |
 | `aku-san.net` | No |
 | `akubidon.com` | No |
 | `akuochi.art` | No |
@@ -17645,7 +17645,7 @@ Here's a list of public Fediverse services.
 | `granit.social` | No |
 | `graniterock.ca` | No |
 | `granitestate.social` | No |
-| `grant.codes` | No |
+| `grant.codes` | Yes |
 | `grantipak.ru` | No |
 | `granto.cloud` | Yes |
 | `grants.cafe` | Yes |
@@ -32437,6 +32437,7 @@ Here's a list of public Fediverse services.
 | `noam.social` | No |
 | `noamross.net` | No |
 | `noatodo.com` | No |
+| `noauthority.social` | Yes |
 | `noballs.lgbt` | No |
 | `nobelium.xyz` | Yes |
 | `nobelpunk.de` | No |
@@ -52386,8 +52387,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,925 |
-| Normal | 37,413 |
+| Cloudflare | 14,928 |
+| Normal | 37,411 |
 
 
 </details>
