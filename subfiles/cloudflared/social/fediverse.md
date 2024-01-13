@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,350 |
+| com | 8,349 |
 | social | 4,756 |
 | net | 4,085 |
 | org | 2,736 |
@@ -22792,7 +22792,6 @@ Here's a list of public Fediverse services.
 | `karas.pics` | Yes |
 | `karas.social` | Yes |
 | `karasoulis.com` | Yes |
-| `karasu256.com` | Yes |
 | `karasulu.org` | No |
 | `karatek.net` | Yes |
 | `karateka.social` | No |
@@ -29372,7 +29371,6 @@ Here's a list of public Fediverse services.
 | `misskey.au` | No |
 | `misskey.beer` | No |
 | `misskey.blue` | Yes |
-| `misskey.buzz` | Yes |
 | `misskey.cf` | Yes |
 | `misskey.city` | Yes |
 | `misskey.cloud` | Yes |
@@ -47756,7 +47754,7 @@ Here's a list of public Fediverse services.
 | `typo.science` | Yes |
 | `typo.social` | No |
 | `typo3.social` | No |
-| `typodon.com` | Yes |
+| `typodon.com` | No |
 | `typrout.ml` | Yes |
 | `tyraid.io` | Yes |
 | `tyrel.dev` | No |
@@ -52398,8 +52396,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,931 |
-| Normal | 37,419 |
+| Cloudflare | 14,928 |
+| Normal | 37,420 |
 
 
 </details>
