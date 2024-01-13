@@ -2023,6 +2023,7 @@ Here's a list of public Fediverse services.
 | `alternate-system.com` | No |
 | `alternatiba.eu` | No |
 | `alternativebit.fr` | No |
+| `alternativeliste.at` | No |
 | `alternatives.network` | No |
 | `alternativons.com` | No |
 | `alternativos.pt` | No |
@@ -22368,6 +22369,7 @@ Here's a list of public Fediverse services.
 | `juglugs.com` | No |
 | `jugregator.org` | No |
 | `juhaliikala.com` | Yes |
+| `juhaliikala.fi` | No |
 | `juhlin.network` | Yes |
 | `juick.com` | Yes |
 | `juist.social` | No |
@@ -27831,6 +27833,7 @@ Here's a list of public Fediverse services.
 | `mastodonmusic.social` | No |
 | `mastodonnederland.online` | No |
 | `mastodonners.nl` | No |
+| `mastodonners.online` | No |
 | `mastodonners.ovh` | No |
 | `mastodonofmystery.world` | No |
 | `mastodononline.site` | No |
@@ -29075,6 +29078,7 @@ Here's a list of public Fediverse services.
 | `miku.gay` | Yes |
 | `miku.place` | Yes |
 | `miku.social` | Yes |
+| `miku.xn--q9jyb4c` | No |
 | `miku2go.com` | Yes |
 | `mikuappend.com` | No |
 | `mikufan.com` | Yes |
@@ -29541,6 +29545,7 @@ Here's a list of public Fediverse services.
 | `mkaraki.net` | Yes |
 | `mkdir.uk` | Yes |
 | `mkeverse.net` | No |
+| `mkf.fm` | Yes |
 | `mkg20001.io` | Yes |
 | `mkgrcd.xyz` | No |
 | `mkihr-ojisan.com` | Yes |
@@ -30938,6 +30943,7 @@ Here's a list of public Fediverse services.
 | `mymstdn.pl` | No |
 | `mymte.de` | No |
 | `myna.social` | No |
+| `mynacol.xyz` | No |
 | `mynah.org` | No |
 | `mynameisivan.ru` | Yes |
 | `mynetgear.com` | No |
@@ -52400,8 +52406,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,929 |
-| Normal | 37,423 |
+| Cloudflare | 14,930 |
+| Normal | 37,428 |
 
 
 </details>
