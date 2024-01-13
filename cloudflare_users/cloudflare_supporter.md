@@ -7591,6 +7591,7 @@ Do not create new issue or we will close it as duplicate.
 | [LASXD2@X](https://twitter.com/LASXD2/status/1396425725666762752) | advertise |
 | [Lathiphuong999@X](https://twitter.com/Lathiphuong999/status/1648189972544110592) | advertise |
 | [latifckrgl@X](https://twitter.com/latifckrgl/status/1623329433703575553) | advertise |
+| [latif_marcos@X](https://twitter.com/latif_marcos/status/1746089940432089227) | advertise |
 | [Latina65648589@X](https://twitter.com/Latina65648589/status/1379128051192107014) | advertise |
 | [latta1891@X](https://twitter.com/latta1891/status/1564662935049236482) | advertise |
 | [LattminT@X](https://twitter.com/LattminT/status/1395096297296695299) | advertise |
