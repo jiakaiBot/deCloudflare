@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Frequently getting SERVFAIL for some websites](https://github.com/origamiofficial/docker-pihole-unbound/issues/18)
 - [kraken spot stop orders broken](https://github.com/ccxt/ccxt/issues/20814)
 - [Compatibility for cloudflare_module preset of Nitro](https://github.com/nuxt-modules/og-image/issues/143)
 - [Cannot make SRV on CloudFlare](https://github.com/AnalogJ/lexicon/issues/1861)
