@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,368 |
 | social | 4,763 |
-| net | 4,089 |
-| org | 2,738 |
-| de | 2,610 |
+| net | 4,090 |
+| org | 2,739 |
+| de | 2,611 |
 
 
 - Mastodon, Pleroma, etc
@@ -7120,6 +7120,7 @@ Here's a list of public Fediverse services.
 | `celabs.com` | Yes |
 | `cele.st` | No |
 | `celeb.pizza` | No |
+| `celeborn.de` | No |
 | `celebrion.se` | No |
 | `celebrity.social` | Yes |
 | `celehner.com` | No |
@@ -17907,6 +17908,7 @@ Here's a list of public Fediverse services.
 | `groumpf-legroupe.fr` | No |
 | `groundgamela.org` | Yes |
 | `groundpolis.app` | No |
+| `groundzeno.net` | No |
 | `group.lt` | Yes |
 | `groupe-montagne.ch` | Yes |
 | `groupe-tazor.com` | No |
@@ -17994,6 +17996,7 @@ Here's a list of public Fediverse services.
 | `guddl.de` | No |
 | `gude-elschbach.de` | No |
 | `gudeleu.de` | No |
+| `gudrian.org` | No |
 | `gueck.com` | No |
 | `guedel.eu` | No |
 | `guedes.com.pt` | Yes |
@@ -41062,6 +41065,7 @@ Here's a list of public Fediverse services.
 | `sfba.club` | No |
 | `sfba.photos` | No |
 | `sfba.social` | No |
+| `sfba.video` | No |
 | `sfbay.social` | No |
 | `sfbubble.net` | No |
 | `sfcc.social` | No |
@@ -51382,6 +51386,7 @@ Here's a list of public Fediverse services.
 | `xyzzy.social` | No |
 | `xz.vc` | No |
 | `xz0.org` | Yes |
+| `xz6.ch` | No |
 | `xzh.gs` | Yes |
 | `xzqt.xyz` | Yes |
 | `y-bbs.de` | No |
@@ -52481,7 +52486,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,957 |
-| Normal | 37,475 |
+| Normal | 37,480 |
 
 
 </details>
