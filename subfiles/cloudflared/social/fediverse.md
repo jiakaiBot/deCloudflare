@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,350 |
+| com | 8,351 |
 | social | 4,756 |
 | net | 4,086 |
 | org | 2,736 |
@@ -38632,6 +38632,7 @@ Here's a list of public Fediverse services.
 | `reuters.com` | Yes |
 | `revachol.city` | No |
 | `revconnect.com` | Yes |
+| `revcybertrucker.com` | No |
 | `reve.land` | Yes |
 | `reveal.today` | Yes |
 | `reveca.es` | No |
@@ -47986,7 +47987,7 @@ Here's a list of public Fediverse services.
 | `umicat.de` | No |
 | `umickey.dev` | Yes |
 | `umigame.xyz` | No |
-| `umikaki.net` | Yes |
+| `umikaki.net` | No |
 | `umirin.me` | No |
 | `umisskey.com` | Yes |
 | `umit.social` | No |
@@ -52407,8 +52408,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,933 |
-| Normal | 37,426 |
+| Cloudflare | 14,932 |
+| Normal | 37,428 |
 
 
 </details>
