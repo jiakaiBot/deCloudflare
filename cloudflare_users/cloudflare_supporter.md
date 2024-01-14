@@ -5048,6 +5048,7 @@ Do not create new issue or we will close it as duplicate.
 | [hinloong@X](https://twitter.com/hinloong/status/1674598620027576321) | advertise |
 | [HinoQuan@X](https://twitter.com/HinoQuan/status/1621514850626322434) | advertise |
 | [HipBui@X](https://twitter.com/HipBui/status/1552005063585198081) | advertise |
+| [HiPhong02293033@X](https://twitter.com/HiPhong02293033/status/1746540451392598221) | advertise |
 | [HipNguy30377254@X](https://twitter.com/HipNguy30377254/status/1629654301726642176) | advertise |
 | [hiraethforever_@X](https://twitter.com/hiraethforever_/status/1545012644595511296) | advertise |
 | [HiranoKuro@X](https://twitter.com/HiranoKuro/status/1388350222598742016) | advertise |
@@ -10261,6 +10262,7 @@ Do not create new issue or we will close it as duplicate.
 | [NLalrameng@X](https://twitter.com/NLalrameng/status/1391066385254584327) | advertise |
 | [nly461636@X](https://twitter.com/nly461636/status/1530720462514405376) | advertise |
 | [nmin17840@X](https://twitter.com/nmin17840/status/1713000159771238860) | advertise |
+| [NMinHtet1@X](https://twitter.com/NMinHtet1/status/1746539506403262740) | advertise |
 | [NMirbabaee@X](https://twitter.com/NMirbabaee/status/1576504574709755905) | advertise |
 | [Nmt79792355@X](https://twitter.com/Nmt79792355/status/1392876210544287744) | advertise |
 | [nnbofficial786@X](https://twitter.com/nnbofficial786/status/1639504495997513728) | advertise |
