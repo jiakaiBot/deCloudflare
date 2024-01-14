@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Ollama Unexpected end of JSON input](https://github.com/continuedev/continue/issues/751)
 - [Missing certain options for local testing purposes.](https://github.com/modrinth/labrinth/issues/857)
 - [Frequently getting SERVFAIL for some websites](https://github.com/origamiofficial/docker-pihole-unbound/issues/18)
 - [kraken spot stop orders broken](https://github.com/ccxt/ccxt/issues/20814)
