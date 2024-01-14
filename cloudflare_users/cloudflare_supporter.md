@@ -605,6 +605,7 @@ Do not create new issue or we will close it as duplicate.
 | [ajcpominoz@X](https://twitter.com/ajcpominoz/status/1445597215141941258) | advertise |
 | [AjgorNishad@X](https://twitter.com/AjgorNishad/status/1704414868223459454) | advertise |
 | [AJian999999@X](https://twitter.com/AJian999999/status/1608730761942929408) | advertise |
+| [Ajiemilanista@X](https://twitter.com/Ajiemilanista/status/1746592495633604634) | advertise |
 | [Ajimarshal147@X](https://twitter.com/Ajimarshal147/status/1546320827251048448) | advertise |
 | [AjiPamu85328045@X](https://twitter.com/AjiPamu85328045/status/1553241874751959040) | advertise |
 | [Ajithku52523413@X](https://twitter.com/Ajithku52523413/status/1397545056177836034) | advertise |
@@ -1762,6 +1763,7 @@ Do not create new issue or we will close it as duplicate.
 | [bar1958@X](https://twitter.com/bar1958/status/1567235804937740288) | advertise |
 | [BARAAm25277051@X](https://twitter.com/BARAAm25277051/status/1551178913317093377) | advertise |
 | [BaranBayden@X](https://twitter.com/BaranBayden/status/1562138279885012995) | advertise |
+| [BaranSex434947@X](https://twitter.com/BaranSex434947/status/1746586493781500224) | advertise |
 | [barbadoslive@X](https://twitter.com/barbadoslive/status/1370835424571179012) | advertise |
 | [barbooviolet@X](https://twitter.com/barbooviolet/status/1495203666000683010) | advertise |
 | [barcode2456@X](https://twitter.com/barcode2456/status/1714695669829824923) | advertise |
@@ -3874,6 +3876,7 @@ Do not create new issue or we will close it as duplicate.
 | [ephraimjohn@X](https://twitter.com/ephraimjohn/status/1405409670395797512) | advertise |
 | [EpiccIm@X](https://twitter.com/EpiccIm/status/1577936441060966401) | advertise |
 | [ErAdityaMehra@X](https://twitter.com/ErAdityaMehra/status/1659725834557464579) | advertise |
+| [eradny1@X](https://twitter.com/eradny1/status/1746568654349881621) | advertise |
 | [erbuc@X](https://twitter.com/erbuc/status/1615971030996226048) | advertise |
 | [Eren41747723@X](https://twitter.com/Eren41747723/status/1389218655712448512) | advertise |
 | [ErenAkkus_@X](https://twitter.com/ErenAkkus_/status/1592623222113067008) | advertise |
@@ -9931,6 +9934,7 @@ Do not create new issue or we will close it as duplicate.
 | [ngThng40292776@X](https://twitter.com/ngThng40292776/status/1403367249797292041) | advertise |
 | [ngTriu03346680@X](https://twitter.com/ngTriu03346680/status/1648979643515678720) | advertise |
 | [ngu08847288@X](https://twitter.com/ngu08847288/status/1491035728742318083) | advertise |
+| [ngu1hdu@X](https://twitter.com/ngu1hdu/status/1746575307694625048) | advertise |
 | [ngu60217140@X](https://twitter.com/ngu60217140/status/1548887446649466880) | advertise |
 | [ngu70789035@X](https://twitter.com/ngu70789035/status/1603091179309912064) | advertise |
 | [ngubaven1@X](https://twitter.com/ngubaven1/status/1490672816022507520) | advertise |
@@ -10350,6 +10354,7 @@ Do not create new issue or we will close it as duplicate.
 | [notwaytoomuch@X](https://twitter.com/notwaytoomuch/status/1396359332447485953) | advertise |
 | [notzin_@X](https://twitter.com/notzin_/status/1643674348056715274) | advertise |
 | [Not_Divesh@X](https://twitter.com/Not_Divesh/status/1709244621229113644) | advertise |
+| [nouf_alkhaled@X](https://twitter.com/nouf_alkhaled/status/1746591225652593075) | advertise |
 | [NoungN2@X](https://twitter.com/NoungN2/status/1392947583866130432) | advertise |
 | [noun_wild@X](https://twitter.com/noun_wild/status/1614553648343977984) | advertise |
 | [Nouraabdulla15@X](https://twitter.com/Nouraabdulla15/status/1586210209336381442) | advertise |
@@ -14323,6 +14328,7 @@ Do not create new issue or we will close it as duplicate.
 | [trashyposer_@X](https://twitter.com/trashyposer_/status/1640051551816552448) | advertise |
 | [TraTra15032897@X](https://twitter.com/TraTra15032897/status/1626027182660390912) | advertise |
 | [travelmatebd@X](https://twitter.com/travelmatebd/status/1420998094452256769) | advertise |
+| [TrcThan73508094@X](https://twitter.com/TrcThan73508094/status/1746588799596163127) | advertise |
 | [TRC_slayer@X](https://twitter.com/TRC_slayer/status/1546377981072838656) | advertise |
 | [Trend_N_Trader@X](https://twitter.com/Trend_N_Trader/status/1519510452639731712) | advertise |
 | [tretraupq11@X](https://twitter.com/tretraupq11/status/1484335040050130947) | advertise |
