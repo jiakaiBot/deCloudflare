@@ -42,7 +42,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | api.org.pl | No |
 | aquilenet.fr | No |
 | ares-taiwan.com | Yes |
-| aridia.ru | No |
 | artikel10.org | No |
 | atsilva.link | No |
 | avastdns.com | No |
@@ -175,12 +174,10 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | itxe.net | Yes |
 | ivnkn.xyz | Yes |
 | jackyes.ovh | No |
-| jcdn.site | No |
 | jfchenier.ca | Yes |
 | jimtay.uk | Yes |
 | jstockley.com | Yes |
 | jundev.org | No |
-| just-hosting.net | Yes |
 | justincounts.com | No |
 | kamilszczepanski.com | No |
 | karl.one | No |
@@ -390,8 +387,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 193 |
-| Normal | 178 |
+| Cloudflare | 192 |
+| Normal | 176 |
 
 
-### 52% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
