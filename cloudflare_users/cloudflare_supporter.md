@@ -16129,6 +16129,7 @@ Do not create new issue or we will close it as duplicate.
 | [_kuzannn@X](https://twitter.com/_kuzannn/status/1378391986449752067) | advertise |
 | [_leofoliveira@X](https://twitter.com/_leofoliveira/status/1594078351777763328) | advertise |
 | [_liveCommerce@X](https://twitter.com/_liveCommerce/status/1722580995273027941) | advertise |
+| [_lolJS@X](https://twitter.com/_lolJS/status/1746654620871545051) | advertise |
 | [_M4nifest0_@X](https://twitter.com/_M4nifest0_/status/1395630834611281920) | advertise |
 | [_maaaaaz@X](https://twitter.com/_maaaaaz/status/1732844009221943652) | advertise |
 | [_Mailootje_@X](https://twitter.com/_Mailootje_/status/1631932725555871745) | advertise |
