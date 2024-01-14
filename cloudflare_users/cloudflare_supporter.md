@@ -10774,6 +10774,7 @@ Do not create new issue or we will close it as duplicate.
 | [parsay_pyaw@X](https://twitter.com/parsay_pyaw/status/1392219027590766596) | advertise |
 | [parthasaha_xyz@X](https://twitter.com/parthasaha_xyz/status/1399842469924147201) | advertise |
 | [PARTHIBMONDAL11@X](https://twitter.com/PARTHIBMONDAL11/status/1389065445047775234) | advertise |
+| [parviz45534572@X](https://twitter.com/parviz45534572/status/1746502684272722397) | advertise |
 | [PasanLaksitha@X](https://twitter.com/PasanLaksitha/status/1379474666767572994) | advertise |
 | [PascalR85957058@X](https://twitter.com/PascalR85957058/status/1736000475873358133) | advertise |
 | [pastorray620@X](https://twitter.com/pastorray620/status/1481759595219628038) | advertise |
