@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,761 |
 | net | 4,089 |
 | org | 2,738 |
-| de | 2,607 |
+| de | 2,608 |
 
 
 - Mastodon, Pleroma, etc
@@ -9018,6 +9018,7 @@ Here's a list of public Fediverse services.
 | `creativegamer.net` | Yes |
 | `creativepassport.net` | No |
 | `creativeramblings.com` | No |
+| `creatives-berlin.de` | No |
 | `creatives.host` | No |
 | `creativesocial.link` | No |
 | `creativetech.social` | No |
@@ -22179,6 +22180,7 @@ Here's a list of public Fediverse services.
 | `jonsantmyer.com` | No |
 | `jonspark.com` | No |
 | `jonsson.es` | No |
+| `jontillman.me` | No |
 | `jontka.fi` | No |
 | `jontyms.com` | Yes |
 | `jonudell.net` | No |
@@ -52468,7 +52470,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,954 |
-| Normal | 37,465 |
+| Normal | 37,467 |
 
 
 </details>
