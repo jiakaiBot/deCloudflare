@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,367 |
+| com | 8,368 |
 | social | 4,763 |
-| net | 4,089 |
+| net | 4,088 |
 | org | 2,738 |
 | de | 2,609 |
 
@@ -21653,6 +21653,7 @@ Here's a list of public Fediverse services.
 | `jaystevens.me` | Yes |
 | `jayus.net` | No |
 | `jayvii.de` | No |
+| `jazz-clarinet.com` | No |
 | `jazz-sax.com` | No |
 | `jazz.af` | No |
 | `jazzbutcher.com` | No |
@@ -34342,7 +34343,6 @@ Here's a list of public Fediverse services.
 | `ostolc.org` | No |
 | `ostrovok.de` | No |
 | `osu.io` | Yes |
-| `osu.si` | No |
 | `osumiakari.jp` | Yes |
 | `osureplayviewer.xyz` | No |
 | `osvoj.ru` | No |
@@ -42242,7 +42242,6 @@ Here's a list of public Fediverse services.
 | `snircle.space` | No |
 | `snkkis.me` | No |
 | `snld.ca` | No |
-| `snmochizuki.net` | Yes |
 | `snmsoc.org` | No |
 | `snoepr.nl` | No |
 | `snokrash.com` | No |
@@ -52475,7 +52474,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,955 |
+| Cloudflare | 14,954 |
 | Normal | 37,472 |
 
 
