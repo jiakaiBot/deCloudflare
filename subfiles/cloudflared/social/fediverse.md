@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,368 |
 | social | 4,763 |
-| net | 4,088 |
+| net | 4,089 |
 | org | 2,738 |
-| de | 2,609 |
+| de | 2,610 |
 
 
 - Mastodon, Pleroma, etc
@@ -460,6 +460,7 @@ Here's a list of public Fediverse services.
 | `334.ovh` | Yes |
 | `338338.xyz` | Yes |
 | `33chan.xyz` | No |
+| `33co.de` | No |
 | `33x.me` | No |
 | `343max.de` | No |
 | `346production.jp` | Yes |
@@ -4411,6 +4412,7 @@ Here's a list of public Fediverse services.
 | `beckum.cloud` | No |
 | `becomesovran.com` | No |
 | `becutewith.me` | No |
+| `bedlamsteps.uk` | Yes |
 | `bee-tube.fr` | No |
 | `beebear.party` | No |
 | `beebl.es` | Yes |
@@ -10719,6 +10721,7 @@ Here's a list of public Fediverse services.
 | `derg.land` | No |
 | `derg.nz` | Yes |
 | `derg.one` | No |
+| `derg.rest` | Yes |
 | `derg.social` | Yes |
 | `derg.world` | No |
 | `derg.zone` | Yes |
@@ -35006,6 +35009,7 @@ Here's a list of public Fediverse services.
 | `patmulcahy.com` | No |
 | `patogh.co` | Yes |
 | `patologia.online` | No |
+| `patoudam.net` | No |
 | `patr.fr` | No |
 | `patramsey.net` | No |
 | `patricia.no` | No |
@@ -41205,6 +41209,7 @@ Here's a list of public Fediverse services.
 | `sheehanmiles.com` | No |
 | `sheep.network` | No |
 | `sheepand.me` | No |
+| `sheepdev.xyz` | Yes |
 | `sheffield.pub` | No |
 | `sheftel.net` | No |
 | `shehackedyou.com` | No |
@@ -47967,6 +47972,7 @@ Here's a list of public Fediverse services.
 | `uitsmijter.io` | No |
 | `uiuxdev.social` | Yes |
 | `uji.es` | No |
+| `ujwie.co` | No |
 | `uk.to` | Yes |
 | `ukcolumn.org` | Yes |
 | `ukd.social` | Yes |
@@ -52474,8 +52480,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,954 |
-| Normal | 37,472 |
+| Cloudflare | 14,957 |
+| Normal | 37,475 |
 
 
 </details>
