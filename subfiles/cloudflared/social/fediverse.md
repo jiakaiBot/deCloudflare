@@ -12901,6 +12901,7 @@ Here's a list of public Fediverse services.
 | `elysian.city` | No |
 | `elysian.space` | No |
 | `elysians.social` | No |
+| `elysium.gay` | Yes |
 | `elytra15.com` | Yes |
 | `em.id.lv` | Yes |
 | `emacs.ch` | No |
@@ -47998,7 +47999,7 @@ Here's a list of public Fediverse services.
 | `umontreal.ca` | Yes |
 | `umrath.net` | No |
 | `umu.se` | Yes |
-| `umucat.day` | No |
+| `umucat.day` | Yes |
 | `umwelt.party` | No |
 | `umwelt.social` | No |
 | `umycode.com` | Yes |
@@ -52408,8 +52409,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,932 |
-| Normal | 37,428 |
+| Cloudflare | 14,934 |
+| Normal | 37,427 |
 
 
 </details>
