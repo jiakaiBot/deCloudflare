@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,367 |
-| social | 4,761 |
+| social | 4,763 |
 | net | 4,089 |
 | org | 2,738 |
-| de | 2,608 |
+| de | 2,609 |
 
 
 - Mastodon, Pleroma, etc
@@ -20334,6 +20334,7 @@ Here's a list of public Fediverse services.
 | `illyaking.com` | No |
 | `illyasviel.cf` | No |
 | `ilnk.info` | No |
+| `ilogeek.es` | No |
 | `ilot.io` | Yes |
 | `ilot.social` | No |
 | `ilove.bzh` | No |
@@ -21561,6 +21562,7 @@ Here's a list of public Fediverse services.
 | `jar.land` | No |
 | `jaranmiller.com` | Yes |
 | `jardanet.com` | No |
+| `jardin-des-slimes.fr` | No |
 | `jardo.dev` | No |
 | `jaredweisinger.com` | Yes |
 | `jaredwsmith.com` | No |
@@ -26186,6 +26188,7 @@ Here's a list of public Fediverse services.
 | `lotty.jp` | No |
 | `lotus-eater.cc` | Yes |
 | `lotus-eyes.net` | No |
+| `lotuseffect.social` | No |
 | `lotz.cloud` | Yes |
 | `lotz.dev` | Yes |
 | `lou.lt` | Yes |
@@ -31146,6 +31149,7 @@ Here's a list of public Fediverse services.
 | `n8vsi.com` | No |
 | `na-prostem.si` | No |
 | `na.in.th` | No |
+| `na.social` | No |
 | `na13.co.uk` | No |
 | `na2na.dev` | Yes |
 | `na2na.website` | No |
@@ -50818,6 +50822,7 @@ Here's a list of public Fediverse services.
 | `wud.me` | Yes |
 | `wue.social` | No |
 | `wuebbsy.com` | No |
+| `wuelender.de` | No |
 | `wuepod.de` | No |
 | `wuerzblog.de` | No |
 | `wuewuewue.de` | Yes |
@@ -52471,7 +52476,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,955 |
-| Normal | 37,467 |
+| Normal | 37,472 |
 
 
 </details>
