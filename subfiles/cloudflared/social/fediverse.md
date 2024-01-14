@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,352 |
-| social | 4,756 |
+| com | 8,356 |
+| social | 4,757 |
 | net | 4,086 |
 | org | 2,736 |
 | de | 2,602 |
@@ -4190,6 +4190,7 @@ Here's a list of public Fediverse services.
 | `barrygrahamauthor.site` | No |
 | `barrytlu.com` | No |
 | `barsanti.xyz` | No |
+| `barsoom.cc` | No |
 | `barspoon.co.uk` | Yes |
 | `bartchampagne.be` | No |
 | `bartdorsey.com` | Yes |
@@ -6140,6 +6141,7 @@ Here's a list of public Fediverse services.
 | `bruitbruit.com` | No |
 | `bruixoles.cat` | No |
 | `bruk.earth` | Yes |
+| `brulijam.com` | Yes |
 | `brunch.zone` | No |
 | `brunetti.social` | No |
 | `bruniau.net` | No |
@@ -13070,6 +13072,7 @@ Here's a list of public Fediverse services.
 | `engi.io` | Yes |
 | `engincelik.com` | Yes |
 | `engineered.space` | No |
+| `engineergam.ing` | Yes |
 | `engineering.social` | Yes |
 | `englehorn.com` | No |
 | `englesprouts.com` | No |
@@ -15726,6 +15729,7 @@ Here's a list of public Fediverse services.
 | `freizeitparks.social` | No |
 | `freja.zone` | No |
 | `frell.co` | No |
+| `fremtenkt.no` | Yes |
 | `frenchindiepop.com` | No |
 | `frenetic.ink` | No |
 | `frenfiverse.net` | No |
@@ -16906,6 +16910,7 @@ Here's a list of public Fediverse services.
 | `gesteves.com` | No |
 | `gestoord.net` | No |
 | `gesttalt.com` | Yes |
+| `get-backs.com` | No |
 | `get-racing.de` | No |
 | `getadrink.tk` | No |
 | `getautism.online` | No |
@@ -26819,6 +26824,7 @@ Here's a list of public Fediverse services.
 | `magoniadb.com` | Yes |
 | `magpie.gay` | No |
 | `magrathea.social` | No |
+| `magray.family` | Yes |
 | `mags.ai` | Yes |
 | `maguire.social` | No |
 | `magurodon.net` | No |
@@ -29969,6 +29975,7 @@ Here's a list of public Fediverse services.
 | `moonangel.com` | Yes |
 | `moonbeam.dance` | No |
 | `moonbeam.town` | No |
+| `moonblade.social` | No |
 | `moonbootlabs.net` | No |
 | `moonbow.garden` | No |
 | `moonbutt.science` | No |
@@ -42845,6 +42852,7 @@ Here's a list of public Fediverse services.
 | `spelt.io` | No |
 | `sperg.city` | Yes |
 | `sperg.world` | No |
+| `spergi.ng` | Yes |
 | `spesh.com` | No |
 | `speyhard.club` | Yes |
 | `spezi.social` | No |
@@ -43316,6 +43324,7 @@ Here's a list of public Fediverse services.
 | `steegmueller.dev` | No |
 | `steele.blue` | No |
 | `steen-jakobsen.dk` | No |
+| `stefan-metze.com` | No |
 | `stefan-muenz.de` | No |
 | `stefanberger.net` | No |
 | `stefanberggren.se` | No |
@@ -47591,6 +47600,7 @@ Here's a list of public Fediverse services.
 | `twaddle.blog` | No |
 | `twarb.com` | No |
 | `twat.city` | Yes |
+| `twatter.com` | No |
 | `twc-zone.eu` | No |
 | `tweakfr.fr` | No |
 | `tweb.tv` | No |
@@ -52410,8 +52420,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,936 |
-| Normal | 37,426 |
+| Cloudflare | 14,941 |
+| Normal | 37,431 |
 
 
 </details>
