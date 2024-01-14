@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,351 |
+| com | 8,352 |
 | social | 4,756 |
 | net | 4,086 |
 | org | 2,736 |
@@ -3113,6 +3113,7 @@ Here's a list of public Fediverse services.
 | `artist.exposed` | No |
 | `artistalley.space` | No |
 | `artistsinthe.cloud` | No |
+| `artivain.com` | Yes |
 | `artless.cc` | No |
 | `artnodeworld.com` | No |
 | `artoot.xyz` | No |
@@ -13678,7 +13679,7 @@ Here's a list of public Fediverse services.
 | `exon.name` | Yes |
 | `exopla.net.eu.org` | Yes |
 | `exotic.money` | No |
-| `exotic.sh` | No |
+| `exotic.sh` | Yes |
 | `exozy.me` | No |
 | `exp0.ml` | No |
 | `expandcontract.art` | No |
@@ -52409,8 +52410,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,934 |
-| Normal | 37,427 |
+| Cloudflare | 14,936 |
+| Normal | 37,426 |
 
 
 </details>
