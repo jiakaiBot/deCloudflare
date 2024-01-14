@@ -8470,6 +8470,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mat71017572@X](https://twitter.com/Mat71017572/status/1573066318437404674) | advertise |
 | [mata458912476@X](https://twitter.com/mata458912476/status/1679072124193984512) | advertise |
 | [mATAsBokaklIPdM@X](https://twitter.com/mATAsBokaklIPdM/status/1394944549911359497) | advertise |
+| [MateusG40984986@X](https://twitter.com/MateusG40984986/status/1746596375473615161) | advertise |
 | [matfitt@X](https://twitter.com/matfitt/status/1386357122070310912) | advertise |
 | [mathias777_2002@X](https://twitter.com/mathias777_2002/status/1609466968494510082) | advertise |
 | [Mathovore_@X](https://twitter.com/Mathovore_/status/1726408917922488804) | advertise |
