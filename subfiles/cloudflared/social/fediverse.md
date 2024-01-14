@@ -237,7 +237,7 @@ Here's a list of public Fediverse services.
 | `11defebrero.org` | No |
 | `11h22.be` | No |
 | `1204.org` | Yes |
-| `120v.ac` | No |
+| `120v.ac` | Yes |
 | `1210.nl` | No |
 | `1210mw.com` | No |
 | `122.jp` | No |
@@ -1513,7 +1513,7 @@ Here's a list of public Fediverse services.
 | `aigency.id` | Yes |
 | `aigirl.tv` | No |
 | `aigisdon.net` | No |
-| `aik.social` | No |
+| `aik.social` | Yes |
 | `aikats.us` | Yes |
 | `aike.monster` | No |
 | `aikoumasanobu.com` | No |
@@ -37973,6 +37973,7 @@ Here's a list of public Fediverse services.
 | `rap.pm` | Yes |
 | `rap.social` | Yes |
 | `rapadura.site` | No |
+| `rape.baby` | No |
 | `rape.pet` | No |
 | `rape.town` | No |
 | `rapefeminists.network` | No |
@@ -52466,8 +52467,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,952 |
-| Normal | 37,466 |
+| Cloudflare | 14,954 |
+| Normal | 37,465 |
 
 
 </details>
