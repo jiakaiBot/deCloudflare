@@ -5094,7 +5094,7 @@ Here's a list of public Fediverse services.
 | `bitwig.community` | No |
 | `bitwiseanime.com` | No |
 | `bitworking.org` | No |
-| `bitzenbytes.com` | No |
+| `bitzenbytes.com` | Yes |
 | `bitzeny.link` | Yes |
 | `bitzone.us` | No |
 | `biu.im` | Yes |
@@ -19879,7 +19879,7 @@ Here's a list of public Fediverse services.
 | `hydrate.space` | Yes |
 | `hydratrash.party` | Yes |
 | `hydrocelestis.com` | No |
-| `hydrocube.space` | No |
+| `hydrocube.space` | Yes |
 | `hydropower.pp.ua` | No |
 | `hydrosaas.com` | Yes |
 | `hydroscope.info` | No |
@@ -34833,7 +34833,7 @@ Here's a list of public Fediverse services.
 | `parcero.bond` | Yes |
 | `parcility.co` | Yes |
 | `pardoners.church` | No |
-| `parens.social` | No |
+| `parens.social` | Yes |
 | `parentaladvisory.social` | No |
 | `parentalmisguidance.com` | No |
 | `parentfamily.ca` | No |
@@ -50476,6 +50476,7 @@ Here's a list of public Fediverse services.
 | `woefdram.social` | No |
 | `woehl.social` | Yes |
 | `woem.cat` | No |
+| `woem.ing` | No |
 | `woem.men` | No |
 | `woem.space` | No |
 | `wogan.im` | No |
@@ -52406,8 +52407,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,930 |
-| Normal | 37,428 |
+| Cloudflare | 14,933 |
+| Normal | 37,426 |
 
 
 </details>
