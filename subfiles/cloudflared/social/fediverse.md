@@ -8902,6 +8902,7 @@ Here's a list of public Fediverse services.
 | `coziness.xyz` | Yes |
 | `cozy-space.blue` | No |
 | `cozy.chat` | Yes |
+| `cozy.lgbt` | Yes |
 | `cozymech.com` | No |
 | `cozynest.online` | No |
 | `cozysumo.space` | Yes |
@@ -52469,7 +52470,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,954 |
+| Cloudflare | 14,955 |
 | Normal | 37,467 |
 
 
