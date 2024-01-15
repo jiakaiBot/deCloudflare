@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,369 |
-| social | 4,765 |
+| social | 4,766 |
 | net | 4,090 |
 | org | 2,740 |
 | de | 2,612 |
@@ -36042,6 +36042,7 @@ Here's a list of public Fediverse services.
 | `planetfifty.one` | Yes |
 | `planetly.social` | No |
 | `planetofnix.com` | No |
+| `planetrage.social` | No |
 | `planetxo.com` | No |
 | `plank.ga` | No |
 | `plank.town` | No |
@@ -52508,7 +52509,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,963 |
-| Normal | 37,496 |
+| Normal | 37,497 |
 
 
 </details>
