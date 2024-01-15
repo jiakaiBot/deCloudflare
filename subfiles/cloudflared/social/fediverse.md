@@ -3566,7 +3566,7 @@ Here's a list of public Fediverse services.
 | `austerlitz.social` | No |
 | `austin.community` | No |
 | `austinite.online` | No |
-| `austintexas.social` | No |
+| `austintexas.social` | Yes |
 | `austinwadeheller.com` | No |
 | `austodon.com` | No |
 | `austria-toots.social` | No |
@@ -13062,7 +13062,7 @@ Here's a list of public Fediverse services.
 | `endofinternet.net` | No |
 | `endofti.me` | No |
 | `endonend.org` | No |
-| `endpoint.ml` | Yes |
+| `endpoint.ml` | No |
 | `endrealm.net` | Yes |
 | `endstation.jetzt` | No |
 | `endstress.de` | No |
@@ -34939,6 +34939,7 @@ Here's a list of public Fediverse services.
 | `parta.ge` | Yes |
 | `partecipa.digital` | No |
 | `parti-science.africa` | No |
+| `parti-socialiste-escalquens-belberaud.fr` | No |
 | `partiarazem.pl` | Yes |
 | `particle.lol` | No |
 | `partidopirata.com.ar` | No |
@@ -52493,7 +52494,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,957 |
-| Normal | 37,487 |
+| Normal | 37,488 |
 
 
 </details>
