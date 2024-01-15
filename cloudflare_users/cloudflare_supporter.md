@@ -13806,6 +13806,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThetNai54040908@X](https://twitter.com/ThetNai54040908/status/1379711281247047682) | advertise |
 | [Thetnaing2018@X](https://twitter.com/Thetnaing2018/status/1399389026541473792) | advertise |
 | [ThetNaingHtwe20@X](https://twitter.com/ThetNaingHtwe20/status/1404783134684680192) | advertise |
+| [thetoucanlord@X](https://twitter.com/thetoucanlord/status/1746810530201821224) | advertise |
 | [thetourist_b@X](https://twitter.com/thetourist_b/status/1628482147479846912) | advertise |
 | [ThetPai35735782@X](https://twitter.com/ThetPai35735782/status/1392710717350957060) | advertise |
 | [Thetpai36238878@X](https://twitter.com/Thetpai36238878/status/1403014075295014913) | advertise |
