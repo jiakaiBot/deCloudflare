@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,368 |
-| social | 4,764 |
+| com | 8,369 |
+| social | 4,765 |
 | net | 4,090 |
-| org | 2,739 |
-| de | 2,611 |
+| org | 2,740 |
+| de | 2,612 |
 
 
 - Mastodon, Pleroma, etc
@@ -9456,6 +9456,7 @@ Here's a list of public Fediverse services.
 | `cute2d.xyz` | No |
 | `cutebook.club` | Yes |
 | `cutebox.cc` | Yes |
+| `cuteferret.party` | Yes |
 | `cutefox.gay` | No |
 | `cutefunny.net` | Yes |
 | `cutegay.software` | No |
@@ -13246,7 +13247,7 @@ Here's a list of public Fediverse services.
 | `epsilon.lol` | Yes |
 | `epsilon.social` | Yes |
 | `epsom.social` | No |
-| `epub.social` | No |
+| `epub.social` | Yes |
 | `epyisageek.net` | No |
 | `eqb.social` | No |
 | `eqgr.gr` | Yes |
@@ -20516,6 +20517,7 @@ Here's a list of public Fediverse services.
 | `incorrigible.moe` | No |
 | `incous.info` | No |
 | `incrediblepbx.net` | No |
+| `incremental.social` | No |
 | `incrementby.one` | Yes |
 | `inct-densan.club` | Yes |
 | `ind.ie` | No |
@@ -24759,6 +24761,7 @@ Here's a list of public Fediverse services.
 | `laurakalbag.com` | No |
 | `lauraritchie.com` | No |
 | `laurelmail.net` | Yes |
+| `laurenrelarkin.com` | No |
 | `laurenshof.online` | No |
 | `laurentclaude.fr` | No |
 | `laurenweinstein.org` | No |
@@ -25218,6 +25221,7 @@ Here's a list of public Fediverse services.
 | `lernhausfilm.de` | No |
 | `lernortdigital.de` | No |
 | `lernsachen.online` | No |
+| `leroux.ca` | No |
 | `leroygaming.gq` | No |
 | `leroygaming.ml` | No |
 | `leroymcqy.tk` | No |
@@ -26800,6 +26804,7 @@ Here's a list of public Fediverse services.
 | `maennerplenum.eu` | No |
 | `maerou.com` | Yes |
 | `maescool.be` | Yes |
+| `maest.as` | Yes |
 | `maestodon.com` | No |
 | `maestoso.online` | Yes |
 | `maeul.company` | Yes |
@@ -31161,7 +31166,7 @@ Here's a list of public Fediverse services.
 | `n8vsi.com` | No |
 | `na-prostem.si` | No |
 | `na.in.th` | No |
-| `na.social` | No |
+| `na.social` | Yes |
 | `na13.co.uk` | No |
 | `na2na.dev` | Yes |
 | `na2na.website` | No |
@@ -32561,6 +32566,7 @@ Here's a list of public Fediverse services.
 | `nodespace.social` | No |
 | `nodevops.com` | No |
 | `nodja.com` | Yes |
+| `nodo1.ovh` | No |
 | `nodoame.me` | Yes |
 | `nodocomun.org` | No |
 | `nodoka.de` | Yes |
@@ -34352,6 +34358,7 @@ Here's a list of public Fediverse services.
 | `ostfrie.se` | No |
 | `ostfrieslnd.social` | No |
 | `ostheater.city` | No |
+| `ostkreuzblog.de` | No |
 | `osto.us` | No |
 | `ostolc.org` | No |
 | `ostrovok.de` | No |
@@ -38174,6 +38181,7 @@ Here's a list of public Fediverse services.
 | `rdcl.dev` | No |
 | `rddw.eu` | No |
 | `rdela.com` | No |
+| `rdf-pub.org` | No |
 | `rdfrn.net` | No |
 | `rdfrn.social` | No |
 | `rdg.world` | No |
@@ -41926,6 +41934,7 @@ Here's a list of public Fediverse services.
 | `skyevg.systems` | Yes |
 | `skyfish.jp` | No |
 | `skyfritt.net` | No |
+| `skyhook.monster` | No |
 | `skyhoppers.club` | No |
 | `skyizwhite.dev` | No |
 | `skyjake.fi` | No |
@@ -42838,6 +42847,7 @@ Here's a list of public Fediverse services.
 | `spamalot.one` | Yes |
 | `spamourai.fr` | No |
 | `spank.ws` | No |
+| `spanner.codes` | No |
 | `spanner.works` | No |
 | `spanningforest.com` | No |
 | `spanreed.com` | Yes |
@@ -47356,6 +47366,7 @@ Here's a list of public Fediverse services.
 | `truman.me.uk` | Yes |
 | `trumbeta.me` | Yes |
 | `trump.pub` | No |
+| `trumpi.co.za` | Yes |
 | `trumpislovetrumpis.life` | Yes |
 | `trunk.lol` | No |
 | `trunk.zone` | No |
@@ -51124,6 +51135,7 @@ Here's a list of public Fediverse services.
 | `xmgz.eu` | No |
 | `xmh.one` | No |
 | `xmit.xyz` | No |
+| `xmitter.cc` | No |
 | `xmob.me` | No |
 | `xmob.social` | No |
 | `xmpp.moe` | No |
@@ -51403,6 +51415,7 @@ Here's a list of public Fediverse services.
 | `y-k.us` | Yes |
 | `y-y.li` | No |
 | `y-zu.org` | Yes |
+| `y.community` | No |
 | `y.la` | No |
 | `y2k-cy.com` | No |
 | `y2k.zone` | No |
@@ -52494,8 +52507,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,958 |
-| Normal | 37,488 |
+| Cloudflare | 14,963 |
+| Normal | 37,496 |
 
 
 </details>
