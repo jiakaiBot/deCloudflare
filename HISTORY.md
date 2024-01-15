@@ -7,6 +7,8 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-01-15: [Increased level of HTTP 5xx errors in Osaka, JP (KIX)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bvgfhd8r4t03)
+- 2024-01-15: [Network Connectivity Issues in Warsaw, Poland (WAW)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/59jmy3625qnc)
 - 2024-01-12: [Elevated Timeouts in Singapore (SIN)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hm7w0v6b748j)
 - 2024-01-12: [Issues with Cloudflare Images and Image Resizing](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sp7lp5gnprjv)
 - 2024-01-12: [Network Performance Issues in Calgary and Saskatoon](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5j9jk719vyt7)
