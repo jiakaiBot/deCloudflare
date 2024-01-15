@@ -1980,6 +1980,7 @@ Do not create new issue or we will close it as duplicate.
 | [bingando15121@X](https://twitter.com/bingando15121/status/1553441382718529536) | advertise |
 | [BiNgnTm3@X](https://twitter.com/BiNgnTm3/status/1623483218916945923) | advertise |
 | [binhan260718@X](https://twitter.com/binhan260718/status/1505346387902595077) | advertise |
+| [binl97471165@X](https://twitter.com/binl97471165/status/1746912414317310080) | advertise |
 | [BinNguy98058681@X](https://twitter.com/BinNguy98058681/status/1582416392397426688) | advertise |
 | [BinnotPain@X](https://twitter.com/BinnotPain/status/1603079270946832385) | advertise |
 | [Bintang170604@X](https://twitter.com/Bintang170604/status/1579424253132566528) | advertise |
@@ -2479,6 +2480,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chamaiporn56438@X](https://twitter.com/Chamaiporn56438/status/1680240206023397376) | advertise |
 | [Chamb94383407@X](https://twitter.com/Chamb94383407/status/1732199008720826576) | advertise |
 | [ChampionKilts@X](https://twitter.com/ChampionKilts/status/1720885340641398860) | advertise |
+| [ChamroeunChha@X](https://twitter.com/ChamroeunChha/status/1746911222229090472) | advertise |
 | [Chanatip_Saifah@X](https://twitter.com/Chanatip_Saifah/status/1610727845546061824) | advertise |
 | [Chanawee20@X](https://twitter.com/Chanawee20/status/1481902051361947648) | advertise |
 | [ChanAye00073908@X](https://twitter.com/ChanAye00073908/status/1390488182332874753) | advertise |
