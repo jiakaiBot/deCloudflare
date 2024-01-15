@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,372 |
+| com | 8,373 |
 | social | 4,766 |
 | net | 4,090 |
 | org | 2,741 |
-| de | 2,612 |
+| de | 2,613 |
 
 
 - Mastodon, Pleroma, etc
@@ -76,6 +76,7 @@ Here's a list of public Fediverse services.
 | `0ch.in` | No |
 | `0ch.tv` | Yes |
 | `0chan.ru` | Yes |
+| `0cx.de` | No |
 | `0d.gs` | Yes |
 | `0day.agency` | Yes |
 | `0daysto.live` | Yes |
@@ -318,6 +319,7 @@ Here's a list of public Fediverse services.
 | `1d4.us` | Yes |
 | `1dot0.io` | No |
 | `1e400.net` | Yes |
+| `1e41.com` | Yes |
 | `1e99.com.br` | No |
 | `1ef51.com` | No |
 | `1foo.net` | No |
@@ -25058,6 +25060,7 @@ Here's a list of public Fediverse services.
 | `lemmings.world` | No |
 | `lemmit.online` | Yes |
 | `lemmit.xyz` | Yes |
+| `lemmon.website` | No |
 | `lemmony.click` | Yes |
 | `lemmus.org` | No |
 | `lemmx.nl` | No |
@@ -48342,6 +48345,7 @@ Here's a list of public Fediverse services.
 | `unrelentingly.online` | No |
 | `unreliable.associates` | Yes |
 | `unroot.de` | No |
+| `unruhig.eu` | Yes |
 | `uns.social` | No |
 | `unsafe.co` | No |
 | `unsafe.codes` | No |
@@ -52515,8 +52519,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,966 |
-| Normal | 37,501 |
+| Cloudflare | 14,968 |
+| Normal | 37,503 |
 
 
 </details>
