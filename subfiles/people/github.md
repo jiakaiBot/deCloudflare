@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [sonoff switches keep becoming 'unavailable' in HA yet work ok in eweelink app ?](https://github.com/AlexxIT/SonoffLAN/issues/1321)
 - [update error via web interface](https://github.com/freescout-helpdesk/freescout/issues/3686)
 - [Endless loading layer is preventing user from adding custom headers](https://github.com/mayswind/AriaNg/issues/744)
 - [Cannot anymore generate SSL certificate using Cloudflare API tokens](https://github.com/hassio-addons/addon-nginx-proxy-manager/issues/520)
