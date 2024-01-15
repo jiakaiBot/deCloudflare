@@ -1873,6 +1873,7 @@ Do not create new issue or we will close it as duplicate.
 | [benny_sutton@X](https://twitter.com/benny_sutton/status/1446103619627991040) | advertise |
 | [benoriginal@X](https://twitter.com/benoriginal/status/1603224414782365696) | advertise |
 | [bens_space@X](https://twitter.com/bens_space/status/1721669930993541601) | advertise |
+| [BeoMeo990794247@X](https://twitter.com/BeoMeo990794247/status/1746892000597844302) | advertise |
 | [beo_me70040@X](https://twitter.com/beo_me70040/status/1708833975098311014) | advertise |
 | [BepariAyush@X](https://twitter.com/BepariAyush/status/1399298472340197379) | advertise |
 | [bepsieusao@X](https://twitter.com/bepsieusao/status/1471248764803248130) | advertise |
@@ -6883,6 +6884,7 @@ Do not create new issue or we will close it as duplicate.
 | [Khangkh40066889@X](https://twitter.com/Khangkh40066889/status/1396425002048577547) | advertise |
 | [Khangkkun@X](https://twitter.com/Khangkkun/status/1648914199215771649) | advertise |
 | [KhangNg78869895@X](https://twitter.com/KhangNg78869895/status/1561645320148496384) | advertise |
+| [KhangThwach@X](https://twitter.com/KhangThwach/status/1746894279157620947) | advertise |
 | [Khanh42393250@X](https://twitter.com/Khanh42393250/status/1397981656825294855) | advertise |
 | [Khanh48925509@X](https://twitter.com/Khanh48925509/status/1401239099223072774) | advertise |
 | [khanh66859964@X](https://twitter.com/khanh66859964/status/1552371656622223360) | advertise |
