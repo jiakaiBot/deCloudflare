@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot anymore generate SSL certificate using Cloudflare API tokens](https://github.com/hassio-addons/addon-nginx-proxy-manager/issues/520)
 - [1.18.2 can't connect to server](https://github.com/HttpRafa/modflared/issues/14)
 - [Ollama Unexpected end of JSON input](https://github.com/continuedev/continue/issues/751)
 - [Missing certain options for local testing purposes.](https://github.com/modrinth/labrinth/issues/857)
