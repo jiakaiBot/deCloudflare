@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,369 |
 | social | 4,766 |
 | net | 4,090 |
-| org | 2,740 |
+| org | 2,741 |
 | de | 2,612 |
 
 
@@ -43962,6 +43962,7 @@ Here's a list of public Fediverse services.
 | `summary.ink` | Yes |
 | `summerhill.cafe` | No |
 | `summerlin.social` | No |
+| `summershome.org` | No |
 | `summersweet.jp` | No |
 | `summerwind.blue` | No |
 | `summoners-riftodon.jp` | No |
@@ -52509,7 +52510,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,963 |
-| Normal | 37,497 |
+| Normal | 37,498 |
 
 
 </details>
