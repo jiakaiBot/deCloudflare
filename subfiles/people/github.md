@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Endless loading layer is preventing user from adding custom headers](https://github.com/mayswind/AriaNg/issues/744)
 - [Cannot anymore generate SSL certificate using Cloudflare API tokens](https://github.com/hassio-addons/addon-nginx-proxy-manager/issues/520)
 - [1.18.2 can't connect to server](https://github.com/HttpRafa/modflared/issues/14)
 - [Ollama Unexpected end of JSON input](https://github.com/continuedev/continue/issues/751)
