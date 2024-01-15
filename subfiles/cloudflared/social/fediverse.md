@@ -729,7 +729,7 @@ Here's a list of public Fediverse services.
 | `6wsw9.com` | No |
 | `7.cr` | Yes |
 | `7144.party` | No |
-| `73-110.pl` | No |
+| `73-110.pl` | Yes |
 | `7365000.xyz` | Yes |
 | `73k.us` | No |
 | `757.place` | No |
@@ -12882,7 +12882,6 @@ Here's a list of public Fediverse services.
 | `ember.lgbt` | Yes |
 | `ember.li` | No |
 | `embers.social` | No |
-| `emberswrit.ing` | No |
 | `embracethevoid.net` | Yes |
 | `embracing.space` | Yes |
 | `embros.org` | Yes |
@@ -14335,7 +14334,6 @@ Here's a list of public Fediverse services.
 | `fedipage.com` | No |
 | `fedipen.xyz` | No |
 | `fediphilosophy.org` | No |
-| `fediphoto.cc` | Yes |
 | `fedipix.de` | No |
 | `fediplants.club` | No |
 | `fediportal.eu.org` | No |
@@ -32509,6 +32507,7 @@ Here's a list of public Fediverse services.
 | `nolog.media` | No |
 | `nologo.social` | No |
 | `nologs.me` | No |
+| `nologs.top` | No |
 | `nomadic.homes` | No |
 | `nomadic.social` | No |
 | `nomadlogic.org` | No |
@@ -33499,6 +33498,7 @@ Here's a list of public Fediverse services.
 | `oisux.org` | No |
 | `oit-unofficial.tokyo` | No |
 | `oita-pikapika.net` | No |
+| `oita.blue` | No |
 | `ojamajo.moe` | No |
 | `ojitabi.club` | No |
 | `ojodojo.casa` | Yes |
@@ -50625,7 +50625,7 @@ Here's a list of public Fediverse services.
 | `wuerzblog.de` | No |
 | `wuewuewue.de` | Yes |
 | `wuff-miau.club` | No |
-| `wuff.space` | No |
+| `wuff.space` | Yes |
 | `wuffs.org` | No |
 | `wufo.watch` | No |
 | `wufwuf.org` | No |
@@ -52267,8 +52267,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,932 |
-| Normal | 37,287 |
+| Cloudflare | 14,933 |
+| Normal | 37,286 |
 
 
 </details>
