@@ -84,7 +84,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cybergroove.net | Yes |
 | cynntex.fun | No |
 | cynthialabs.net | Yes |
-| darrenhizon.com | No |
 | das.sch.id | Yes |
 | data.haus | No |
 | datahata.by | No |
@@ -222,8 +221,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | milkpie.one | Yes |
 | minilla.store | No |
 | mismat.ch | No |
-| mmmalia.com | No |
-| mn-bonn.de | No |
 | mo0on15.com | No |
 | mobyds.com | Yes |
 | moderateinfra.net | No |
@@ -240,7 +237,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ndo.dev | Yes |
 | netcat.one | No |
 | nexific.it | Yes |
-| nhgnet.de | No |
 | nhtsky.com | Yes |
 | nic.cz | No |
 | nic.lv | No |
@@ -348,7 +344,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | timvo.net | Yes |
 | tls-data.de | No |
 | tooli.ca | Yes |
-| trifanov-online.ru | No |
 | trust404.win | Yes |
 | tryk.app | Yes |
 | tu-bs.de | No |
@@ -386,7 +381,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 192 |
-| Normal | 174 |
+| Normal | 169 |
 
 
-### 52.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
