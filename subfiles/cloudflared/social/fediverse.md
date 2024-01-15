@@ -12939,6 +12939,7 @@ Here's a list of public Fediverse services.
 | `ember.lgbt` | Yes |
 | `ember.li` | No |
 | `embers.social` | No |
+| `emberswrit.ing` | No |
 | `embracethevoid.net` | Yes |
 | `embracing.space` | Yes |
 | `embros.org` | Yes |
@@ -14397,6 +14398,7 @@ Here's a list of public Fediverse services.
 | `fedipage.com` | No |
 | `fedipen.xyz` | No |
 | `fediphilosophy.org` | No |
+| `fediphoto.cc` | Yes |
 | `fedipix.de` | No |
 | `fediplants.club` | No |
 | `fediportal.eu.org` | No |
@@ -52490,8 +52492,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,956 |
-| Normal | 37,486 |
+| Cloudflare | 14,957 |
+| Normal | 37,487 |
 
 
 </details>
