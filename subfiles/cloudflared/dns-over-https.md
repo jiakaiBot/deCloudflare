@@ -132,7 +132,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | flylcc.cc | Yes |
 | freecdn.one | No |
 | freyja.pw | Yes |
-| frguthrie.app | No |
 | froth.zone | No |
 | ftp.sh | Yes |
 | fullaccesstointernet.jp.eu.org | No |
@@ -149,7 +148,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | he.net | No |
 | helpdesk38.ru | No |
 | henek.ovh | Yes |
-| homedns.uk | No |
 | hosmatic.com | Yes |
 | hostme.co.il | Yes |
 | hugo0.moe | Yes |
@@ -388,7 +386,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 192 |
-| Normal | 176 |
+| Normal | 174 |
 
 
-### 52.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
