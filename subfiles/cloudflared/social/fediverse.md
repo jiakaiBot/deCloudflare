@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,370 |
+| com | 8,372 |
 | social | 4,766 |
 | net | 4,090 |
 | org | 2,741 |
@@ -914,7 +914,7 @@ Here's a list of public Fediverse services.
 | `aargaunet.ch` | No |
 | `aaron.pk` | No |
 | `aaron.place` | No |
-| `aaronbailey.com` | No |
+| `aaronbailey.com` | Yes |
 | `aaronbsmith.com` | No |
 | `aaroncommand.com` | No |
 | `aaroncrocco.com` | No |
@@ -6703,6 +6703,7 @@ Here's a list of public Fediverse services.
 | `canard.tube` | No |
 | `canary.city` | Yes |
 | `canarygateway.com` | No |
+| `canbaysal.com` | No |
 | `canberrasocial.net` | No |
 | `cancelcultu.re` | No |
 | `cancn.com` | No |
@@ -9745,6 +9746,7 @@ Here's a list of public Fediverse services.
 | `d20hero.club` | No |
 | `d25.community` | No |
 | `d2bd.blog` | No |
+| `d2dx.com` | Yes |
 | `d2evs.net` | No |
 | `d33pw3b.de` | No |
 | `d381.xyz` | No |
@@ -25629,7 +25631,7 @@ Here's a list of public Fediverse services.
 | `lincubateur.net` | No |
 | `linden.social` | No |
 | `lindensiedler.de` | No |
-| `lindgren.tech` | No |
+| `lindgren.tech` | Yes |
 | `lindhom.no` | No |
 | `lindipravity.be` | No |
 | `lindroth.xyz` | Yes |
@@ -37767,6 +37769,7 @@ Here's a list of public Fediverse services.
 | `radiofree.cloud` | No |
 | `radiofreefedi.net` | No |
 | `radiofreerobotron.net` | No |
+| `radiogeek.me` | No |
 | `radiola.be` | No |
 | `radiolivre.org` | No |
 | `radiolunetta.casa` | No |
@@ -44444,6 +44447,7 @@ Here's a list of public Fediverse services.
 | `t1c.dev` | No |
 | `t1nyb0x.cloud` | Yes |
 | `t327.net` | No |
+| `t3a.ca` | No |
 | `t3dus.com` | No |
 | `t3dus.me` | No |
 | `t3mp-0x.cc` | Yes |
@@ -52511,8 +52515,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,963 |
-| Normal | 37,500 |
+| Cloudflare | 14,966 |
+| Normal | 37,501 |
 
 
 </details>
