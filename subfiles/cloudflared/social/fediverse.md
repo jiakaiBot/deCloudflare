@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,369 |
+| com | 8,370 |
 | social | 4,766 |
 | net | 4,090 |
 | org | 2,741 |
@@ -5025,6 +5025,7 @@ Here's a list of public Fediverse services.
 | `bit-friends.de` | No |
 | `bit-link.de` | No |
 | `bitacadie.com` | No |
+| `bitacoramental.com` | No |
 | `bitals.xyz` | No |
 | `bitbang.social` | Yes |
 | `bitbank.cc` | Yes |
@@ -29386,6 +29387,7 @@ Here's a list of public Fediverse services.
 | `miscellanea-numerica.fr` | Yes |
 | `miscellanea.io` | Yes |
 | `mischivous.com` | No |
+| `miscreants.party` | No |
 | `miscworks.net` | No |
 | `misell.cymru` | Yes |
 | `miserables.net` | No |
@@ -52510,7 +52512,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,963 |
-| Normal | 37,498 |
+| Normal | 37,500 |
 
 
 </details>
