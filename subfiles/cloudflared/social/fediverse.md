@@ -32458,7 +32458,7 @@ Here's a list of public Fediverse services.
 | `nlyze.net` | No |
 | `nmaggioni.xyz` | Yes |
 | `nmfun.net` | No |
-| `nmkj.io` | Yes |
+| `nmkj.io` | No |
 | `nmkj.me` | No |
 | `nmmcguire.com` | Yes |
 | `nmoo.dev` | No |
@@ -43518,6 +43518,7 @@ Here's a list of public Fediverse services.
 | `stilic.ml` | No |
 | `stilic.net` | No |
 | `still-ai.net` | No |
+| `stillsunbound.co.uk` | No |
 | `stilobique.com` | No |
 | `stimky.one` | No |
 | `stiniog.social` | No |
@@ -47237,7 +47238,7 @@ Here's a list of public Fediverse services.
 | `tripletwenty.net` | No |
 | `trippelm.tv` | No |
 | `trippy.pizza` | No |
-| `trippyhippie.dev` | Yes |
+| `trippyhippie.dev` | No |
 | `tripsocial.co` | No |
 | `tripsskey.com` | No |
 | `triptico.com` | No |
@@ -47311,7 +47312,7 @@ Here's a list of public Fediverse services.
 | `troopers.agency` | No |
 | `troot.social` | No |
 | `tropical-is.land` | No |
-| `tropicalbeachclub.com` | Yes |
+| `tropicalbeachclub.com` | No |
 | `tropicalhome.rentals` | No |
 | `troplo.com` | Yes |
 | `trotlot.online` | No |
@@ -52485,8 +52486,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,957 |
-| Normal | 37,480 |
+| Cloudflare | 14,954 |
+| Normal | 37,484 |
 
 
 </details>
