@@ -5606,6 +5606,7 @@ Do not create new issue or we will close it as duplicate.
 | [Huyrua1231@X](https://twitter.com/Huyrua1231/status/1388672136244465667) | advertise |
 | [huyssame@X](https://twitter.com/huyssame/status/1628081025900507136) | advertise |
 | [huytoppp@X](https://twitter.com/huytoppp/status/1600017930267201536) | advertise |
+| [HuyTran200220@X](https://twitter.com/HuyTran200220/status/1747170246790926556) | advertise |
 | [Huytrankm@X](https://twitter.com/Huytrankm/status/1552161221532876800) | advertise |
 | [HuyV41886611@X](https://twitter.com/HuyV41886611/status/1714700533678961143) | advertise |
 | [Huyytr_@X](https://twitter.com/Huyytr_/status/1552993398990131200) | advertise |
