@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issue (Random) with Chat Module at logs](https://github.com/freescout-helpdesk/freescout/issues/3688)
 - [CloudFlare Cloudflare Images API service issues](https://github.com/SecOpsNews/news/issues/23475)
 - [sonoff switches keep becoming 'unavailable' in HA yet work ok in eweelink app ?](https://github.com/AlexxIT/SonoffLAN/issues/1321)
 - [update error via web interface](https://github.com/freescout-helpdesk/freescout/issues/3686)
