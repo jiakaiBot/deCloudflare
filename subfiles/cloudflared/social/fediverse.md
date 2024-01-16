@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,380 |
-| social | 4,767 |
+| social | 4,768 |
 | net | 4,092 |
 | org | 2,742 |
 | de | 2,615 |
@@ -6296,6 +6296,7 @@ Here's a list of public Fediverse services.
 | `bulubulu.club` | No |
 | `bumblbee.de` | No |
 | `bumbleflies.de` | No |
+| `bummr.social` | Yes |
 | `bumpto.space` | Yes |
 | `bumscode.com` | Yes |
 | `bun.social` | No |
@@ -8447,6 +8448,7 @@ Here's a list of public Fediverse services.
 | `comfy.business` | No |
 | `comfy.center` | Yes |
 | `comfy.city` | No |
+| `comfy.lgbt` | Yes |
 | `comfy.moe` | Yes |
 | `comfy.social` | Yes |
 | `comfyboy.club` | Yes |
@@ -44264,6 +44266,7 @@ Here's a list of public Fediverse services.
 | `swiss-talk.net` | Yes |
 | `swiss.social` | No |
 | `swissgeocaching.net` | No |
+| `swissodon.ch` | No |
 | `swisstoots.ch` | No |
 | `swisttal.social` | No |
 | `switchserver.fr` | No |
@@ -52549,8 +52552,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,978 |
-| Normal | 37,523 |
+| Cloudflare | 14,980 |
+| Normal | 37,524 |
 
 
 </details>
