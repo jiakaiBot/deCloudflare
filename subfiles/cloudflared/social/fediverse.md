@@ -12352,6 +12352,7 @@ Here's a list of public Fediverse services.
 | `easya.solutions` | No |
 | `easydns.ca` | No |
 | `easymode.im` | Yes |
+| `easypanel.host` | No |
 | `easyrpg.org` | No |
 | `easytron24.net` | No |
 | `eatinpizza.com` | No |
@@ -49655,7 +49656,7 @@ Here's a list of public Fediverse services.
 | `waldhufe.eu` | No |
 | `waldi-server.tk` | No |
 | `waldn.net` | No |
-| `waldorf.fyi` | No |
+| `waldorf.fyi` | Yes |
 | `waldstepperbu.de` | No |
 | `waldvogel.family` | No |
 | `wale.au` | Yes |
@@ -52524,7 +52525,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,968 |
+| Cloudflare | 14,969 |
 | Normal | 37,508 |
 
 
