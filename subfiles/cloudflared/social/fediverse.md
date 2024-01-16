@@ -2402,6 +2402,7 @@ Here's a list of public Fediverse services.
 | `angelou.club` | Yes |
 | `angelstrapped.com` | No |
 | `angezeckt.de` | No |
+| `angie.org.uk` | No |
 | `anglotopia.net` | No |
 | `angraecumnote.net` | Yes |
 | `angristan.fr` | Yes |
@@ -3404,6 +3405,7 @@ Here's a list of public Fediverse services.
 | `atechadventurer.dev` | No |
 | `ated.io` | Yes |
 | `atelier-kanata.dev` | Yes |
+| `atelier-schweighofer.at` | No |
 | `ateliershiori.moe` | No |
 | `atellier.space` | No |
 | `atemosta.com` | Yes |
@@ -3672,6 +3674,7 @@ Here's a list of public Fediverse services.
 | `aviators.network` | No |
 | `avidol.jp` | No |
 | `avigny.fr` | Yes |
+| `avikstrand.se` | Yes |
 | `avinash.com.np` | Yes |
 | `avision-it.social` | No |
 | `avn.org` | No |
@@ -4089,6 +4092,7 @@ Here's a list of public Fediverse services.
 | `bananachips.club` | No |
 | `bananahackers.net` | No |
 | `banananet.work` | No |
+| `bananen.software` | No |
 | `bandaholics.cash` | Yes |
 | `bandeng.club` | No |
 | `bandersnatch.xyz` | Yes |
@@ -8662,7 +8666,7 @@ Here's a list of public Fediverse services.
 | `contentnotify.com` | No |
 | `contentsyndikat.de` | No |
 | `contenttechtodon.org` | No |
-| `contexto.space` | No |
+| `contexto.space` | Yes |
 | `contingency.world` | No |
 | `continja.com` | Yes |
 | `continuousdelivery.social` | Yes |
@@ -17982,6 +17986,7 @@ Here's a list of public Fediverse services.
 | `gryphon68.social` | No |
 | `gryphonic.com` | No |
 | `grys.it` | No |
+| `grzeca.eu` | No |
 | `grzeca.pl` | No |
 | `gsalucci.dev` | No |
 | `gsch.eu` | Yes |
@@ -40089,6 +40094,7 @@ Here's a list of public Fediverse services.
 | `sanma.men` | Yes |
 | `sanmathi.org` | No |
 | `sanmin.jp.net` | No |
+| `sannalund.se` | No |
 | `sanpo-an.site` | No |
 | `sanrizuka-struggle.com` | Yes |
 | `sans-nuage.fr` | No |
@@ -52543,8 +52549,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,976 |
-| Normal | 37,519 |
+| Cloudflare | 14,978 |
+| Normal | 37,523 |
 
 
 </details>
