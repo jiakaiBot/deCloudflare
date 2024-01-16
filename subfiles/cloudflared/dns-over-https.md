@@ -59,7 +59,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | broadband.ink | No |
 | bugz.fr | No |
 | c-dns.com | No |
-| c0ntroller.de | No |
 | callies-online.site | No |
 | carson-family.com | Yes |
 | carter.me | Yes |
@@ -110,7 +109,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | doh.lv | No |
 | doh.sb | Yes |
 | domyah.net | Yes |
-| dr-adguard.de | Yes |
 | dscloud.me | No |
 | dukun.de | No |
 | edgy-dns.com | No |
@@ -200,7 +198,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lista.my.id | Yes |
 | londonwebnerd.cloud | Yes |
 | lonet.org | Yes |
-| long-nguyen.info | Yes |
 | lothuscorp.com.br | Yes |
 | lov.host | Yes |
 | lvolland.fr | Yes |
@@ -278,7 +275,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rasp.tv | Yes |
 | ray0512.win | Yes |
 | rebl.eu.org | Yes |
-| reckoningslug.name | Yes |
 | restena.lu | No |
 | retakecs.com | Yes |
 | rethinkdns.com | Yes |
@@ -292,7 +288,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | safeservedns.com | No |
 | safesurfer.io | Yes |
 | sarak.as | Yes |
-| sblnetwork.co.id | Yes |
 | scarx.net | Yes |
 | schlagheck.berlin | Yes |
 | scuola.org | No |
@@ -326,7 +321,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sufly.top | Yes |
 | sundalandia.pp.ua | Yes |
 | superstefan.win | Yes |
-| surt.ovh | No |
 | swin.pro | Yes |
 | switch.ch | No |
 | syaifullah.com | Yes |
@@ -380,8 +374,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 192 |
-| Normal | 169 |
+| Cloudflare | 188 |
+| Normal | 167 |
 
 
-### 53.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53% of DNS-over-HTTPS (DoH) are using Cloudflare.
