@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Thumbnail not consistently generated when using S3](https://github.com/owncast/owncast/issues/3522)
 - [Option in Custom Field cannot be deleted](https://github.com/freescout-helpdesk/freescout/issues/3689)
 - [Can't login into paperless](https://github.com/astubenbord/paperless-mobile/issues/368)
 - [Issue (Random) with Chat Module at logs](https://github.com/freescout-helpdesk/freescout/issues/3688)
