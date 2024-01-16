@@ -13075,7 +13075,7 @@ Here's a list of public Fediverse services.
 | `endlesstalk.org` | Yes |
 | `endofinternet.net` | No |
 | `endofti.me` | No |
-| `endonend.org` | No |
+| `endonend.org` | Yes |
 | `endpoint.ml` | No |
 | `endrealm.net` | Yes |
 | `endstation.jetzt` | No |
@@ -38032,7 +38032,6 @@ Here's a list of public Fediverse services.
 | `rap.pm` | Yes |
 | `rap.social` | Yes |
 | `rapadura.site` | No |
-| `rape.baby` | No |
 | `rape.pet` | No |
 | `rape.town` | No |
 | `rapefeminists.network` | No |
@@ -52544,8 +52543,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,975 |
-| Normal | 37,521 |
+| Cloudflare | 14,976 |
+| Normal | 37,519 |
 
 
 </details>
