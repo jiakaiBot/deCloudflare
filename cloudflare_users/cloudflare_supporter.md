@@ -3907,6 +3907,7 @@ Do not create new issue or we will close it as duplicate.
 | [escortual@X](https://twitter.com/escortual/status/1740727427456811340) | advertise |
 | [eserediucm@X](https://twitter.com/eserediucm/status/1411816726161887232) | moral (advertise) |
 | [Eset79cTKZmQsuT@X](https://twitter.com/Eset79cTKZmQsuT/status/1395627193003171843) | advertise |
+| [eshitayiamin@X](https://twitter.com/eshitayiamin/status/1747258234623422882) | advertise |
 | [EshuSoul@X](https://twitter.com/EshuSoul/status/1709444785054900312) | advertise |
 | [Esketit690@X](https://twitter.com/Esketit690/status/1685542050199199744) | advertise |
 | [eskimo_phyo@X](https://twitter.com/eskimo_phyo/status/1398996210623553540) | advertise |
@@ -5087,6 +5088,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hiunguyenuwu@X](https://twitter.com/Hiunguyenuwu/status/1636556947062390784) | advertise |
 | [Hiuon92053513@X](https://twitter.com/Hiuon92053513/status/1697451013324870018) | advertise |
 | [hiutrn63347719@X](https://twitter.com/hiutrn63347719/status/1678992532246781952) | advertise |
+| [HiuTrnh85057125@X](https://twitter.com/HiuTrnh85057125/status/1747264465161343142) | advertise |
 | [HiYn93232026@X](https://twitter.com/HiYn93232026/status/1399208059197526023) | advertise |
 | [HJalgham@X](https://twitter.com/HJalgham/status/1568536037831360514) | advertise |
 | [HJmSh8@X](https://twitter.com/HJmSh8/status/1578090587252985857) | advertise |
@@ -9943,6 +9945,7 @@ Do not create new issue or we will close it as duplicate.
 | [ngquyn54528746@X](https://twitter.com/ngquyn54528746/status/1401564893061423107) | advertise |
 | [NgThL12256552@X](https://twitter.com/NgThL12256552/status/1401781008962256900) | advertise |
 | [ngThng40292776@X](https://twitter.com/ngThng40292776/status/1403367249797292041) | advertise |
+| [ngtnt5@X](https://twitter.com/ngtnt5/status/1747245356872859741) | advertise |
 | [ngTriu03346680@X](https://twitter.com/ngTriu03346680/status/1648979643515678720) | advertise |
 | [ngu08847288@X](https://twitter.com/ngu08847288/status/1491035728742318083) | advertise |
 | [ngu1hdu@X](https://twitter.com/ngu1hdu/status/1746575307694625048) | advertise |
@@ -14355,6 +14358,7 @@ Do not create new issue or we will close it as duplicate.
 | [TriDo41239171@X](https://twitter.com/TriDo41239171/status/1622987641561161728) | advertise |
 | [trieuit@X](https://twitter.com/trieuit/status/1468829070804676612) | advertise |
 | [trieu_quoc_bao@X](https://twitter.com/trieu_quoc_bao/status/1557807836133982209) | advertise |
+| [trikaizer@X](https://twitter.com/trikaizer/status/1747269242628760058) | advertise |
 | [triknesiacom@X](https://twitter.com/triknesiacom/status/1417953851982766080) | advertise |
 | [trinh2678@X](https://twitter.com/trinh2678/status/1554001613307940864) | advertise |
 | [TrinhDong1302@X](https://twitter.com/TrinhDong1302/status/1549441114729357313) | advertise |
