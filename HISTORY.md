@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-01-16: [DNS over HTTPS latency issue in San Jose, CA, United States - (SJC)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8lj1jqdrsyjd)
 - 2024-01-16: [Network Performance Issues in Newark (EWR)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cfrrm89ndghs)
 - 2024-01-15: [Authentication errors when using origin-ca-issuer](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/shdgtmqjytb6)
 - 2024-01-15: [Increased level of HTTP 5xx errors in Osaka, JP (KIX)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bvgfhd8r4t03)
