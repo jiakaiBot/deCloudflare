@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,374 |
-| social | 4,766 |
+| social | 4,767 |
 | net | 4,090 |
 | org | 2,741 |
 | de | 2,613 |
@@ -49291,6 +49291,7 @@ Here's a list of public Fediverse services.
 | `vocabar.net` | No |
 | `vocal.vc` | No |
 | `vocalconstructivists.com` | No |
+| `vocalfry.social` | No |
 | `vocalodon.net` | No |
 | `vocalomakets.jp` | No |
 | `vocalounge.cafe` | No |
@@ -52524,7 +52525,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,968 |
-| Normal | 37,507 |
+| Normal | 37,508 |
 
 
 </details>
