@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,373 |
+| com | 8,374 |
 | social | 4,766 |
 | net | 4,090 |
 | org | 2,741 |
@@ -3209,6 +3209,7 @@ Here's a list of public Fediverse services.
 | `asgartech.com` | No |
 | `ash.bzh` | No |
 | `ash.ms` | Yes |
+| `asha-varadhi.com` | No |
 | `ashaibani.com` | Yes |
 | `asharpminor.com` | No |
 | `ashchang.org` | Yes |
@@ -5654,7 +5655,7 @@ Here's a list of public Fediverse services.
 | `bonzoesc.net` | Yes |
 | `booba.bar` | No |
 | `boobalar.net` | No |
-| `boobytooth.social` | Yes |
+| `boobytooth.social` | No |
 | `boochan.family` | Yes |
 | `boodoo.biz` | No |
 | `boogstreken.be` | No |
@@ -5684,6 +5685,7 @@ Here's a list of public Fediverse services.
 | `bookworm.nz` | No |
 | `bookwormstory.social` | Yes |
 | `bookwyrm.de` | No |
+| `bookwyrm.it` | Yes |
 | `bookwyrm.social` | No |
 | `bookwyrm.tech` | No |
 | `bookwyrm.world` | No |
@@ -52520,7 +52522,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,968 |
-| Normal | 37,503 |
+| Normal | 37,505 |
 
 
 </details>
