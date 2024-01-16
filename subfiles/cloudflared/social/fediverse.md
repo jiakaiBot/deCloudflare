@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,380 |
-| social | 4,768 |
+| social | 4,769 |
 | net | 4,092 |
 | org | 2,742 |
 | de | 2,615 |
@@ -16574,6 +16574,7 @@ Here's a list of public Fediverse services.
 | `garfieldairlines.net` | No |
 | `gargantia.fr` | No |
 | `garlemald.org` | No |
+| `garlic.social` | No |
 | `garmy.jp` | No |
 | `garo.ooo` | No |
 | `garr.tv` | No |
@@ -52553,7 +52554,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,980 |
-| Normal | 37,524 |
+| Normal | 37,525 |
 
 
 </details>
