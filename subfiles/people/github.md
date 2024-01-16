@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fails auto fetching IMAP only without errors.](https://github.com/freescout-helpdesk/freescout/issues/3694)
 - [413 (Payload Too Large) while uploading images under 2Mb](https://github.com/Shopify/shopify_python_api/issues/699)
 - [Thumbnail not consistently generated when using S3](https://github.com/owncast/owncast/issues/3522)
 - [Option in Custom Field cannot be deleted](https://github.com/freescout-helpdesk/freescout/issues/3689)
