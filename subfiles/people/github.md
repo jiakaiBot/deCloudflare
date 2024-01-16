@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Option in Custom Field cannot be deleted](https://github.com/freescout-helpdesk/freescout/issues/3689)
 - [Can't login into paperless](https://github.com/astubenbord/paperless-mobile/issues/368)
 - [Issue (Random) with Chat Module at logs](https://github.com/freescout-helpdesk/freescout/issues/3688)
 - [CloudFlare Cloudflare Images API service issues](https://github.com/SecOpsNews/news/issues/23475)
