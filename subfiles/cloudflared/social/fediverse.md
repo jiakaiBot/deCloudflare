@@ -13661,6 +13661,7 @@ Here's a list of public Fediverse services.
 | `ewonchang.com` | Yes |
 | `eworld.social` | No |
 | `ewp.fyi` | Yes |
+| `ewp.live` | No |
 | `ewpratten.com` | Yes |
 | `ewsandor.com` | No |
 | `ex-studio.info` | No |
@@ -52526,7 +52527,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,969 |
-| Normal | 37,508 |
+| Normal | 37,509 |
 
 
 </details>
