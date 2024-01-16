@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,380 |
 | social | 4,767 |
 | net | 4,092 |
-| org | 2,741 |
+| org | 2,742 |
 | de | 2,615 |
 
 
@@ -19469,6 +19469,7 @@ Here's a list of public Fediverse services.
 | `homeland.network` | Yes |
 | `homeless.group` | Yes |
 | `homelinux.net` | No |
+| `homelinux.org` | No |
 | `homenet.click` | Yes |
 | `homeofcode.com` | No |
 | `homepc.it` | No |
@@ -22681,7 +22682,7 @@ Here's a list of public Fediverse services.
 | `kai-poenisch.de` | No |
 | `kai-stuht.com` | No |
 | `kai.dev` | Yes |
-| `kai.moe` | No |
+| `kai.moe` | Yes |
 | `kaias1jp.site` | No |
 | `kaiba.ga` | No |
 | `kaiba.one` | Yes |
@@ -52543,7 +52544,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,974 |
+| Cloudflare | 14,975 |
 | Normal | 37,521 |
 
 
