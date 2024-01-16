@@ -5038,7 +5038,7 @@ Here's a list of public Fediverse services.
 | `bitbukket.com` | No |
 | `bitbybitwhatever.com` | Yes |
 | `bitcast.info` | No |
-| `bitcast.online` | Yes |
+| `bitcast.online` | No |
 | `bitcoin.ninja` | No |
 | `bitcoinadon.social` | No |
 | `bitcoinasylum.org` | No |
@@ -5900,6 +5900,7 @@ Here's a list of public Fediverse services.
 | `brainjuice.ca` | No |
 | `brainport.social` | Yes |
 | `brainsoap.net` | No |
+| `brainsocks.xyz` | No |
 | `brainsoftener.com` | No |
 | `brainsower.org` | No |
 | `brainsplinter.com` | No |
@@ -8061,7 +8062,7 @@ Here's a list of public Fediverse services.
 | `cloudkatze.de` | No |
 | `cloudkeeper.dev` | No |
 | `cloudlabs.ga` | No |
-| `cloudland.social` | Yes |
+| `cloudland.social` | No |
 | `cloudless.world` | No |
 | `cloudlet.at` | No |
 | `cloudmist.org` | No |
@@ -16268,6 +16269,7 @@ Here's a list of public Fediverse services.
 | `fuwa.pink` | No |
 | `fuwafuwa.club` | Yes |
 | `fuwafuwa.moe` | No |
+| `fuwafuwa.town` | Yes |
 | `fuwamocchi.com` | Yes |
 | `fux.is` | No |
 | `fuyumori.net` | No |
@@ -51353,7 +51355,7 @@ Here's a list of public Fediverse services.
 | `xsden.info` | Yes |
 | `xserver.work` | No |
 | `xsoftware.it` | No |
-| `xst.cl` | No |
+| `xst.cl` | Yes |
 | `xsteadfastx.org` | No |
 | `xsukax.com` | No |
 | `xsukax.net` | Yes |
@@ -52522,7 +52524,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,968 |
-| Normal | 37,505 |
+| Normal | 37,507 |
 
 
 </details>
