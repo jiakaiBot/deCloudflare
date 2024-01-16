@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,380 |
+| com | 8,381 |
 | social | 4,769 |
-| net | 4,092 |
+| net | 4,093 |
 | org | 2,742 |
-| de | 2,615 |
+| de | 2,617 |
 
 
 - Mastodon, Pleroma, etc
@@ -5823,6 +5823,7 @@ Here's a list of public Fediverse services.
 | `boumi.me` | No |
 | `bounced.ca` | No |
 | `bounceme.net` | No |
+| `bouncepaw.com` | No |
 | `bound4the.icu` | Yes |
 | `boundary.wtf` | No |
 | `boundcovers.com` | Yes |
@@ -14999,6 +15000,7 @@ Here's a list of public Fediverse services.
 | `fixionauta.net` | No |
 | `fixitbear.com` | Yes |
 | `fizmo.org` | No |
+| `fjall.net` | No |
 | `fjara.re` | No |
 | `fjdk.uk` | Yes |
 | `fjedon.com` | No |
@@ -17390,6 +17392,7 @@ Here's a list of public Fediverse services.
 | `gnumeria.eu.org` | Yes |
 | `gnumeria.fr` | No |
 | `gnupublic.space` | No |
+| `gnurfl.de` | No |
 | `gnusocial.cc` | No |
 | `gnusocial.ch` | No |
 | `gnusocial.cl` | No |
@@ -18611,6 +18614,7 @@ Here's a list of public Fediverse services.
 | `haskell.social` | Yes |
 | `haskovec.social` | No |
 | `hasslo.dev` | No |
+| `hasstdieafd.de` | No |
 | `hasthebig.gay` | Yes |
 | `hastodon.org` | No |
 | `hastodon.social` | No |
@@ -21693,6 +21697,7 @@ Here's a list of public Fediverse services.
 | `jaystevens.me` | Yes |
 | `jayus.net` | No |
 | `jayvii.de` | No |
+| `jaz.co.uk` | No |
 | `jazz-clarinet.com` | No |
 | `jazz-sax.com` | No |
 | `jazz.af` | No |
@@ -52554,7 +52559,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,980 |
-| Normal | 37,525 |
+| Normal | 37,530 |
 
 
 </details>
