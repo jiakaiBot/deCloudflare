@@ -28061,7 +28061,7 @@ Here's a list of public Fediverse services.
 | `mastsocial.de` | No |
 | `mastsocial.xyz` | No |
 | `mastudon.com` | No |
-| `masturbaclub.com` | No |
+| `masturbaclub.com` | Yes |
 | `masturbadon.com` | No |
 | `masturbated.one` | No |
 | `masturbatordon.info` | Yes |
@@ -51970,6 +51970,7 @@ Here's a list of public Fediverse services.
 | `yuriposter.club` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
+| `yuru.moe` | Yes |
 | `yuru.site` | Yes |
 | `yuru.studio` | Yes |
 | `yurucat.me` | Yes |
@@ -52579,8 +52580,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,981 |
-| Normal | 37,550 |
+| Cloudflare | 14,983 |
+| Normal | 37,549 |
 
 
 </details>
