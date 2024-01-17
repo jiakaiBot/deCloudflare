@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,389 |
 | social | 4,769 |
-| net | 4,094 |
+| net | 4,095 |
 | org | 2,746 |
-| de | 2,618 |
+| de | 2,619 |
 
 
 - Mastodon, Pleroma, etc
@@ -3051,6 +3051,7 @@ Here's a list of public Fediverse services.
 | `arr.to` | No |
 | `arrakis.se` | No |
 | `arranfrance.com` | Yes |
+| `arree.bzh` | No |
 | `arrel.cloud` | No |
 | `arretsurinfo.com` | No |
 | `arrifana.org` | Yes |
@@ -3550,6 +3551,7 @@ Here's a list of public Fediverse services.
 | `auroradrop.com` | Yes |
 | `auroraplanet.blue` | Yes |
 | `aurorign.social` | No |
+| `aus-marzahn.de` | No |
 | `aus.community` | No |
 | `aus.green` | Yes |
 | `aus.lgbt` | Yes |
@@ -5376,6 +5378,7 @@ Here's a list of public Fediverse services.
 | `blogroll.club` | No |
 | `blogs.jp` | No |
 | `blogsequenz.de` | No |
+| `blogsequenz.net` | No |
 | `blogsofwar.com` | Yes |
 | `blogspot.ca` | No |
 | `blogspot.co.nz` | No |
@@ -37353,6 +37356,7 @@ Here's a list of public Fediverse services.
 | `pxlmo.com` | No |
 | `pxlmo.net` | No |
 | `pxtech.systems` | No |
+| `pyche.ovh` | No |
 | `pycodon.fr` | No |
 | `pycomtois.com` | No |
 | `pygos.space` | No |
@@ -44995,6 +44999,7 @@ Here's a list of public Fediverse services.
 | `teamxbox.org` | No |
 | `teamzeta.xyz` | No |
 | `teapot.zone` | No |
+| `teapots.fr` | No |
 | `tearaikazuki.jp` | Yes |
 | `tearmoon.com` | No |
 | `teasmith.au` | Yes |
@@ -52589,7 +52594,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,990 |
-| Normal | 37,550 |
+| Normal | 37,555 |
 
 
 </details>
