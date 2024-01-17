@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Gif upload doesn't work on AWS S3 with WP Offload Media](https://github.com/nosilver4u/ewww-image-optimizer/issues/306)
 - [There is a user with such email. Users and mailboxes can not have the same email addresses.](https://github.com/freescout-helpdesk/freescout/issues/3695)
 - [Error solving challenge (Cloudflare verify checkbox not found on the page)](https://github.com/FlareSolverr/FlareSolverr/issues/1038)
 - [Windscribe Port Forwarding Doesn't Work](https://github.com/qdm12/gluetun/issues/2050)
