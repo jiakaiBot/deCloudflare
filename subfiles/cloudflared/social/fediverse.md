@@ -21769,7 +21769,7 @@ Here's a list of public Fediverse services.
 | `jedi.black` | No |
 | `jedillama.net` | No |
 | `jeena.net` | No |
-| `jeff.haus` | Yes |
+| `jeff.haus` | No |
 | `jeff.town` | No |
 | `jeffbell.blog` | No |
 | `jeffburg.social` | Yes |
@@ -52559,8 +52559,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,977 |
-| Normal | 37,534 |
+| Cloudflare | 14,976 |
+| Normal | 37,535 |
 
 
 </details>
