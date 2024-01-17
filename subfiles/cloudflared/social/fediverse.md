@@ -6368,7 +6368,7 @@ Here's a list of public Fediverse services.
 | `burners.social` | No |
 | `burning.moe` | Yes |
 | `burningbird.net` | No |
-| `burningboard.net` | No |
+| `burningboard.net` | Yes |
 | `burningnebula.net` | No |
 | `burningpixel.net` | No |
 | `burningtimber.com` | Yes |
@@ -24798,7 +24798,7 @@ Here's a list of public Fediverse services.
 | `lauercloud.de` | No |
 | `laughingsquid.com` | Yes |
 | `lauka.eu.org` | No |
-| `lauka.net` | No |
+| `lauka.net` | Yes |
 | `lauka.space` | No |
 | `launay.org` | No |
 | `laundromat.me` | No |
@@ -51971,7 +51971,6 @@ Here's a list of public Fediverse services.
 | `yuriposter.club` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
-| `yuru.moe` | Yes |
 | `yuru.site` | Yes |
 | `yuru.studio` | Yes |
 | `yurucat.me` | Yes |
@@ -52581,8 +52580,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,984 |
-| Normal | 37,549 |
+| Cloudflare | 14,985 |
+| Normal | 37,547 |
 
 
 </details>
