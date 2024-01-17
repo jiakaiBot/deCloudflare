@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,388 |
+| com | 8,389 |
 | social | 4,769 |
 | net | 4,094 |
 | org | 2,746 |
@@ -3781,6 +3781,7 @@ Here's a list of public Fediverse services.
 | `ayaka.moe` | Yes |
 | `ayaka.social` | Yes |
 | `ayano.jp` | No |
+| `ayarika.com` | Yes |
 | `ayatovr.com` | No |
 | `ayatovr.dev` | Yes |
 | `ayco.io` | No |
@@ -52587,7 +52588,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,989 |
+| Cloudflare | 14,990 |
 | Normal | 37,550 |
 
 
