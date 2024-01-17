@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error solving challenge (Cloudflare verify checkbox not found on the page)](https://github.com/FlareSolverr/FlareSolverr/issues/1038)
 - [Windscribe Port Forwarding Doesn't Work](https://github.com/qdm12/gluetun/issues/2050)
 - [Fails auto fetching IMAP only without errors.](https://github.com/freescout-helpdesk/freescout/issues/3694)
 - [413 (Payload Too Large) while uploading images under 2Mb](https://github.com/Shopify/shopify_python_api/issues/699)
