@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,386 |
+| com | 8,388 |
 | social | 4,769 |
-| net | 4,093 |
-| org | 2,742 |
+| net | 4,094 |
+| org | 2,745 |
 | de | 2,617 |
 
 
@@ -7317,6 +7317,7 @@ Here's a list of public Fediverse services.
 | `chaostodon.club` | No |
 | `chaoswit.ch` | No |
 | `chaoswork.cn` | No |
+| `chaosworks.org` | No |
 | `chaoszone.tv` | No |
 | `chaotic.moe` | No |
 | `chaotic.ninja` | No |
@@ -9281,6 +9282,7 @@ Here's a list of public Fediverse services.
 | `csa.ba` | Yes |
 | `csachweh.de` | No |
 | `csaerotherm.com` | Yes |
+| `csalazar.org` | No |
 | `csc49.fr` | No |
 | `cschorn.de` | No |
 | `cscip.io` | No |
@@ -13883,6 +13885,7 @@ Here's a list of public Fediverse services.
 | `factland.social` | No |
 | `factline.org` | Yes |
 | `factorial.io` | No |
+| `factourism.com` | No |
 | `factsonthegroundshow.com` | No |
 | `fadoverso.pt` | Yes |
 | `fae.cafe` | Yes |
@@ -16396,6 +16399,7 @@ Here's a list of public Fediverse services.
 | `gabrielsirilan.com` | Yes |
 | `gabrielwilson.me` | No |
 | `gabskent.de` | Yes |
+| `gabsta.live` | No |
 | `gabut.social` | No |
 | `gabwith.me` | No |
 | `gabytron.me` | No |
@@ -21726,6 +21730,7 @@ Here's a list of public Fediverse services.
 | `jc1.ca` | Yes |
 | `jcaicedo.com` | Yes |
 | `jcarbaugh.com` | No |
+| `jcdemswyo.org` | No |
 | `jcg.re` | Yes |
 | `jcgurango.com` | Yes |
 | `jckcthbrt.io` | Yes |
@@ -21966,6 +21971,7 @@ Here's a list of public Fediverse services.
 | `jimkubicek.com` | No |
 | `jimlunsford.com` | No |
 | `jimmitchell.org` | Yes |
+| `jimmitchell.xyz` | No |
 | `jimmitchellmedia.net` | Yes |
 | `jimmygulp.co.uk` | No |
 | `jimmyhoke.net` | Yes |
@@ -22259,6 +22265,7 @@ Here's a list of public Fediverse services.
 | `jorgejarai.xyz` | No |
 | `jorijn.com` | Yes |
 | `jorisgutjahr.eu` | No |
+| `jorquera.net` | No |
 | `jorropo.ovh` | No |
 | `jort.space` | No |
 | `jorts.horse` | No |
@@ -30311,6 +30318,7 @@ Here's a list of public Fediverse services.
 | `mp-tube.de` | No |
 | `mp0.jp` | No |
 | `mp3reelhub.com` | No |
+| `mp3shout.ru` | No |
 | `mpaq.org` | No |
 | `mpda.ru` | No |
 | `mpg.de` | Yes |
@@ -30751,6 +30759,7 @@ Here's a list of public Fediverse services.
 | `mundodesconocido.com` | No |
 | `mundomicro.ai` | Yes |
 | `mundosaparte.com` | No |
+| `mundosuiri.info` | Yes |
 | `mundy.info` | No |
 | `munesky.net` | Yes |
 | `muni.fi` | Yes |
@@ -38441,6 +38450,7 @@ Here's a list of public Fediverse services.
 | `redzoo.net` | Yes |
 | `ree.zone` | Yes |
 | `reece.sx` | Yes |
+| `reecemartin.ca` | No |
 | `reedyn.com` | Yes |
 | `reekes.org` | Yes |
 | `reekynet.com` | No |
@@ -40134,6 +40144,7 @@ Here's a list of public Fediverse services.
 | `saoirse.zone` | No |
 | `saovq.de` | Yes |
 | `sapara.com` | No |
+| `sappagetti.com` | Yes |
 | `sapphic.city` | No |
 | `sapphic.engineer` | Yes |
 | `sapphic.gay` | No |
@@ -51959,6 +51970,7 @@ Here's a list of public Fediverse services.
 | `yuriposter.club` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
+| `yuru.moe` | Yes |
 | `yuru.site` | Yes |
 | `yuru.studio` | Yes |
 | `yurucat.me` | Yes |
@@ -52568,8 +52580,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,979 |
-| Normal | 37,541 |
+| Cloudflare | 14,982 |
+| Normal | 37,550 |
 
 
 </details>
