@@ -2922,6 +2922,7 @@ Do not create new issue or we will close it as duplicate.
 | [cygfy141848@X](https://twitter.com/cygfy141848/status/1741091263582269470) | advertise |
 | [CynthiaWeirr_MK@X](https://twitter.com/CynthiaWeirr_MK/status/1431973396359811076) | advertise |
 | [cypnightlife@X](https://twitter.com/cypnightlife/status/1662461760496861185) | advertise |
+| [Cyprusnewlife@X](https://twitter.com/Cyprusnewlife/status/1747702170865041718) | advertise |
 | [CyrixDev@X](https://twitter.com/CyrixDev/status/1587457304412114944) | advertise |
 | [cyy_nancy@X](https://twitter.com/cyy_nancy/status/1393253162547482626) | advertise |
 | [CyZGaUQMPNlTV1p@X](https://twitter.com/CyZGaUQMPNlTV1p/status/1396484819941347336) | advertise |
