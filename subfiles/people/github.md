@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [MJML not working in Cloudflare Worker](https://github.com/mjmlio/mjml/issues/2812)
 - [Volume always at 50%](https://github.com/home-assistant/addons/issues/3419)
 - [Blazor Server applications do not work with CloudFlare / auto minification](https://github.com/dotnet/aspnetcore/issues/53437)
 - [Gif upload doesn't work on AWS S3 with WP Offload Media](https://github.com/nosilver4u/ewww-image-optimizer/issues/306)
