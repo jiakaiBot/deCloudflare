@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-01-17: [Issues with BYOIP and Static IPs](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xnjgjjs53lg8)
 - 2024-01-17: [Network Performance Issues in Reykjavik (KEF)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g8ydyynknbjd)
 - 2024-01-17: [Security Center Showing Incorrect Data](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nj7p5f7dz5c0)
 - 2024-01-17: [Increased Latency and Request Errors in Houston, Texas (IAH)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vy7d3z0kwrpr)
