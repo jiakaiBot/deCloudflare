@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,385 |
+| com | 8,386 |
 | social | 4,769 |
 | net | 4,093 |
 | org | 2,742 |
@@ -47013,6 +47013,7 @@ Here's a list of public Fediverse services.
 | `totse.tube` | No |
 | `tottoriscout.org` | No |
 | `toucans.social` | No |
+| `toughcreator.com` | No |
 | `touha.me` | No |
 | `touhey.org` | No |
 | `touhoppai.moe` | Yes |
@@ -51958,7 +51959,6 @@ Here's a list of public Fediverse services.
 | `yuriposter.club` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
-| `yuru.moe` | Yes |
 | `yuru.site` | Yes |
 | `yuru.studio` | Yes |
 | `yurucat.me` | Yes |
@@ -52568,8 +52568,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,980 |
-| Normal | 37,540 |
+| Cloudflare | 14,979 |
+| Normal | 37,541 |
 
 
 </details>
