@@ -30018,7 +30018,7 @@ Here's a list of public Fediverse services.
 | `monsiteinternet.org` | No |
 | `monsterfuckers.online` | No |
 | `monstergirl.space` | No |
-| `monsternesslo.ch` | No |
+| `monsternesslo.ch` | Yes |
 | `monsterpit.blog` | No |
 | `monsterpit.gallery` | No |
 | `monsterpit.net` | No |
@@ -51958,6 +51958,7 @@ Here's a list of public Fediverse services.
 | `yuriposter.club` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
+| `yuru.moe` | Yes |
 | `yuru.site` | Yes |
 | `yuru.studio` | Yes |
 | `yurucat.me` | Yes |
@@ -52567,8 +52568,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,978 |
-| Normal | 37,541 |
+| Cloudflare | 14,980 |
+| Normal | 37,540 |
 
 
 </details>
