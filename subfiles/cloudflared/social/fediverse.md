@@ -12090,6 +12090,7 @@ Here's a list of public Fediverse services.
 | `duck.casa` | Yes |
 | `duck.cf` | No |
 | `duck.haus` | No |
+| `duckalignment.academy` | No |
 | `duckchat.me` | No |
 | `duckdns.org` | Yes |
 | `duckie.chat` | Yes |
@@ -40985,6 +40986,7 @@ Here's a list of public Fediverse services.
 | `sencha.house` | No |
 | `sendero.social` | No |
 | `sendne.ws` | No |
+| `sendtoot.co` | Yes |
 | `sengeis.priv.at` | No |
 | `sengenzakura.com` | Yes |
 | `senggol.in` | No |
@@ -52580,8 +52582,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,985 |
-| Normal | 37,547 |
+| Cloudflare | 14,986 |
+| Normal | 37,548 |
 
 
 </details>
