@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,384 |
+| com | 8,385 |
 | social | 4,769 |
 | net | 4,093 |
 | org | 2,742 |
@@ -6669,6 +6669,7 @@ Here's a list of public Fediverse services.
 | `calvss.com` | Yes |
 | `calx.in` | No |
 | `calzone.club` | No |
+| `cam.ac.uk` | Yes |
 | `cambrian.social` | No |
 | `cambridgeport90.net` | Yes |
 | `cambridgeport90.org` | Yes |
@@ -27368,6 +27369,7 @@ Here's a list of public Fediverse services.
 | `martinez.sh` | No |
 | `martinezperspective.org` | No |
 | `martinfernandez.info` | No |
+| `martingale.family` | No |
 | `martinh.net` | No |
 | `martinhaagen.se` | No |
 | `martinhaynes.me` | No |
@@ -29571,7 +29573,7 @@ Here's a list of public Fediverse services.
 | `mitch.science` | No |
 | `mitchcohen.com` | No |
 | `mitchellpkt.com` | No |
-| `mitchelltribe.social` | No |
+| `mitchelltribe.social` | Yes |
 | `mitchi.moe` | No |
 | `mitchw.blog` | No |
 | `miteff.co` | No |
@@ -33237,6 +33239,7 @@ Here's a list of public Fediverse services.
 | `nusdyoll.io` | No |
 | `nusskey.com` | Yes |
 | `nussnougate.net` | No |
+| `nuteburn.com` | No |
 | `nutmeg.social` | Yes |
 | `nutriguia.com` | No |
 | `nutt.church` | No |
@@ -51955,6 +51958,7 @@ Here's a list of public Fediverse services.
 | `yuriposter.club` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
+| `yuru.moe` | Yes |
 | `yuru.site` | Yes |
 | `yuru.studio` | Yes |
 | `yurucat.me` | Yes |
@@ -52564,8 +52568,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,976 |
-| Normal | 37,540 |
+| Cloudflare | 14,979 |
+| Normal | 37,541 |
 
 
 </details>
