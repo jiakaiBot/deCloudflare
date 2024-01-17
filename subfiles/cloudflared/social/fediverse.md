@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,389 |
+| com | 8,388 |
 | social | 4,769 |
 | net | 4,094 |
-| org | 2,745 |
-| de | 2,617 |
+| org | 2,746 |
+| de | 2,618 |
 
 
 - Mastodon, Pleroma, etc
@@ -3781,7 +3781,6 @@ Here's a list of public Fediverse services.
 | `ayaka.moe` | Yes |
 | `ayaka.social` | Yes |
 | `ayano.jp` | No |
-| `ayarika.com` | Yes |
 | `ayatovr.com` | No |
 | `ayatovr.dev` | Yes |
 | `ayco.io` | No |
@@ -5629,6 +5628,7 @@ Here's a list of public Fediverse services.
 | `boltcarrier.group` | No |
 | `boltcutter.network` | Yes |
 | `boltwolf.net` | Yes |
+| `bolztribuene.de` | No |
 | `bombayguy.in` | No |
 | `bombaywallah.com` | Yes |
 | `bommo.au` | Yes |
@@ -13890,6 +13890,7 @@ Here's a list of public Fediverse services.
 | `factourism.com` | No |
 | `factsonthegroundshow.com` | No |
 | `fadoverso.pt` | Yes |
+| `faduda.ie` | No |
 | `fae.cafe` | Yes |
 | `fae.fyi` | No |
 | `faebornnetworks.org` | Yes |
@@ -46579,6 +46580,7 @@ Here's a list of public Fediverse services.
 | `todays.run` | No |
 | `todayyoutomorrow.me` | No |
 | `toddcast.website` | Yes |
+| `toddpalmer.org` | Yes |
 | `toddpresta.com` | No |
 | `todesstern.eu` | No |
 | `todfox.net` | No |
@@ -52586,7 +52588,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,989 |
-| Normal | 37,548 |
+| Normal | 37,550 |
 
 
 </details>
