@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Volume always at 50%](https://github.com/home-assistant/addons/issues/3419)
 - [Blazor Server applications do not work with CloudFlare / auto minification](https://github.com/dotnet/aspnetcore/issues/53437)
 - [Gif upload doesn't work on AWS S3 with WP Offload Media](https://github.com/nosilver4u/ewww-image-optimizer/issues/306)
 - [There is a user with such email. Users and mailboxes can not have the same email addresses.](https://github.com/freescout-helpdesk/freescout/issues/3695)
