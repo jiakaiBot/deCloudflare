@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,382 |
 | social | 4,769 |
-| net | 4,092 |
+| net | 4,093 |
 | org | 2,742 |
 | de | 2,617 |
 
@@ -15000,6 +15000,7 @@ Here's a list of public Fediverse services.
 | `fixionauta.net` | No |
 | `fixitbear.com` | Yes |
 | `fizmo.org` | No |
+| `fjall.net` | No |
 | `fjara.re` | No |
 | `fjdk.uk` | Yes |
 | `fjedon.com` | No |
@@ -26369,7 +26370,7 @@ Here's a list of public Fediverse services.
 | `ltoi.net` | No |
 | `ltratcliff.com` | No |
 | `ltt.jp` | No |
-| `lttl.one` | Yes |
+| `lttl.one` | No |
 | `ltu.social` | No |
 | `lty.name` | Yes |
 | `lu-rp.net` | Yes |
@@ -51949,7 +51950,6 @@ Here's a list of public Fediverse services.
 | `yuriposter.club` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
-| `yuru.moe` | Yes |
 | `yuru.site` | Yes |
 | `yuru.studio` | Yes |
 | `yurucat.me` | Yes |
@@ -52559,8 +52559,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,979 |
-| Normal | 37,532 |
+| Cloudflare | 14,977 |
+| Normal | 37,534 |
 
 
 </details>
