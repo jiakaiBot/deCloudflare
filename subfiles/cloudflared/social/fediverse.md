@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,382 |
+| com | 8,384 |
 | social | 4,769 |
 | net | 4,093 |
 | org | 2,742 |
@@ -7522,6 +7522,7 @@ Here's a list of public Fediverse services.
 | `chikichiki.tube` | Yes |
 | `chikorita157.com` | No |
 | `childabusesurvivor.net` | No |
+| `childebrandt42.blog` | No |
 | `childlabor.company` | Yes |
 | `childlove.space` | No |
 | `childlove.su` | No |
@@ -15517,6 +15518,7 @@ Here's a list of public Fediverse services.
 | `fpga.style` | No |
 | `fpl.social` | No |
 | `fpotfk.org` | No |
+| `fprime.xyz` | No |
 | `fpsource.eu` | Yes |
 | `fpsource.info` | Yes |
 | `fpv.social` | No |
@@ -22975,6 +22977,7 @@ Here's a list of public Fediverse services.
 | `katsquill.com` | No |
 | `katsuru.live` | No |
 | `kattenmeisje.org` | No |
+| `kattsu.com` | No |
 | `katty.me` | No |
 | `katuemon.com` | No |
 | `katy.media` | Yes |
@@ -28978,6 +28981,7 @@ Here's a list of public Fediverse services.
 | `michaelbishop.me` | No |
 | `michaelbrooks.co.uk` | Yes |
 | `michaelcmcgreevy.com` | No |
+| `michaeldavidharper.com` | No |
 | `michaeldvinci.com` | No |
 | `michaelfbrown.net` | No |
 | `michaelgeist.ca` | No |
@@ -46234,6 +46238,7 @@ Here's a list of public Fediverse services.
 | `thx8te.kh.ua` | No |
 | `thxdaddy.xyz` | Yes |
 | `thyme.se` | No |
+| `thymefield.jp` | No |
 | `thymrios.com` | Yes |
 | `thyra-inflatables.eu` | Yes |
 | `ti-fr.com` | No |
@@ -52560,7 +52565,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,976 |
-| Normal | 37,535 |
+| Normal | 37,540 |
 
 
 </details>
