@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Windscribe Port Forwarding Doesn't Work](https://github.com/qdm12/gluetun/issues/2050)
 - [Fails auto fetching IMAP only without errors.](https://github.com/freescout-helpdesk/freescout/issues/3694)
 - [413 (Payload Too Large) while uploading images under 2Mb](https://github.com/Shopify/shopify_python_api/issues/699)
 - [Thumbnail not consistently generated when using S3](https://github.com/owncast/owncast/issues/3522)
