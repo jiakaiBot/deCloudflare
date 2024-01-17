@@ -39388,6 +39388,7 @@ Here's a list of public Fediverse services.
 | `rosebloom.one` | No |
 | `rosehip.moe` | Yes |
 | `rosei.love` | No |
+| `rosekey.sbs` | Yes |
 | `rosematcha.party` | Yes |
 | `rosemont.cloud` | Yes |
 | `rosenberg-watt.com` | No |
@@ -52580,7 +52581,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,983 |
+| Cloudflare | 14,984 |
 | Normal | 37,549 |
 
 
