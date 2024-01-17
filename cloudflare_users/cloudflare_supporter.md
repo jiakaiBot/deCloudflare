@@ -15173,6 +15173,7 @@ Do not create new issue or we will close it as duplicate.
 | [walidgumaa@X](https://twitter.com/walidgumaa/status/1571473697373913088) | advertise |
 | [wali_duski@X](https://twitter.com/wali_duski/status/1553003405005799425) | advertise |
 | [walkmanrds@X](https://twitter.com/walkmanrds/status/1557553919085379584) | advertise |
+| [wallst_pro@X](https://twitter.com/wallst_pro/status/1747723875775832358) | advertise |
 | [WalterG05165115@X](https://twitter.com/WalterG05165115/status/1674214537191366657) | advertise |
 | [walterkings8@X](https://twitter.com/walterkings8/status/1690438298123075584) | advertise |
 | [WalterSmith00@X](https://twitter.com/WalterSmith00/status/1499907092383080450) | advertise |
