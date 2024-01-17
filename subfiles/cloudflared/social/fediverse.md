@@ -51970,7 +51970,6 @@ Here's a list of public Fediverse services.
 | `yuriposter.club` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
-| `yuru.moe` | Yes |
 | `yuru.site` | Yes |
 | `yuru.studio` | Yes |
 | `yurucat.me` | Yes |
@@ -52580,7 +52579,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,982 |
+| Cloudflare | 14,981 |
 | Normal | 37,550 |
 
 
