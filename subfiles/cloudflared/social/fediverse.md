@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,381 |
+| com | 8,382 |
 | social | 4,769 |
-| net | 4,093 |
+| net | 4,092 |
 | org | 2,742 |
 | de | 2,617 |
 
@@ -51,7 +51,7 @@ Here's a list of public Fediverse services.
 | `00doit.com` | No |
 | `00x.club` | No |
 | `01001010.net` | Yes |
-| `01001010.social` | Yes |
+| `01001010.social` | No |
 | `01010011.xyz` | Yes |
 | `014450.xyz` | Yes |
 | `01bit.xyz` | Yes |
@@ -11908,7 +11908,7 @@ Here's a list of public Fediverse services.
 | `dreamin.online` | No |
 | `dreamisskey.net` | Yes |
 | `dreamland.llc` | No |
-| `dreamypig.art` | Yes |
+| `dreamypig.art` | No |
 | `dreckigerdan.com` | No |
 | `dredgelords.com` | No |
 | `dregin.com` | Yes |
@@ -15000,7 +15000,6 @@ Here's a list of public Fediverse services.
 | `fixionauta.net` | No |
 | `fixitbear.com` | Yes |
 | `fizmo.org` | No |
-| `fjall.net` | No |
 | `fjara.re` | No |
 | `fjdk.uk` | Yes |
 | `fjedon.com` | No |
@@ -28094,6 +28093,7 @@ Here's a list of public Fediverse services.
 | `matheson.it` | No |
 | `mathewingram.blog` | No |
 | `mathewson.social` | Yes |
+| `mathias777.com` | Yes |
 | `mathieufamily.ovh` | No |
 | `mathieunicolas.net` | No |
 | `mathilde.eu.org` | No |
@@ -45507,6 +45507,7 @@ Here's a list of public Fediverse services.
 | `thearch.social` | No |
 | `thearchitects.world` | No |
 | `theartsquirrel.com` | No |
+| `theater.im` | No |
 | `theatl.social` | Yes |
 | `theatrechat.space` | No |
 | `theatrez.day` | Yes |
@@ -52558,8 +52559,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,980 |
-| Normal | 37,530 |
+| Cloudflare | 14,979 |
+| Normal | 37,532 |
 
 
 </details>
