@@ -1189,6 +1189,7 @@ Do not create new issue or we will close it as duplicate.
 | [arifullah122@X](https://twitter.com/arifullah122/status/1684078301588094977) | advertise |
 | [Arjing66811042@X](https://twitter.com/Arjing66811042/status/1556038266939330560) | advertise |
 | [Arjun63261515@X](https://twitter.com/Arjun63261515/status/1384863027078565892) | advertise |
+| [arjunaidi@X](https://twitter.com/arjunaidi/status/1747660525872570410) | advertise |
 | [Arkae13@X](https://twitter.com/Arkae13/status/1399725758654861313) | advertise |
 | [Arkar27177138@X](https://twitter.com/Arkar27177138/status/1401133873111572482) | advertise |
 | [ArKar38838579@X](https://twitter.com/ArKar38838579/status/1394274464490147843) | advertise |
@@ -1555,6 +1556,7 @@ Do not create new issue or we will close it as duplicate.
 | [AwangAdam@X](https://twitter.com/AwangAdam/status/1399563412573540355) | advertise |
 | [Awangshaminan3@X](https://twitter.com/Awangshaminan3/status/1746494106350780707) | advertise |
 | [awang_qhairul@X](https://twitter.com/awang_qhairul/status/1565282981648158720) | advertise |
+| [awarberwari1@X](https://twitter.com/awarberwari1/status/1747662810446790939) | advertise |
 | [Awarene16686090@X](https://twitter.com/Awarene16686090/status/1412622734350192643) | moral (advertise) |
 | [awareness_tiger@X](https://twitter.com/awareness_tiger/status/1445839407525756932) | advertise |
 | [awastumpah@X](https://twitter.com/awastumpah/status/1402440693377732609) | advertise |
@@ -4373,6 +4375,7 @@ Do not create new issue or we will close it as duplicate.
 | [Gengko@X](https://twitter.com/Gengko/status/1603888020092067842) | advertise |
 | [GenHalllo@X](https://twitter.com/GenHalllo/status/1578816981494816769) | advertise |
 | [Genius44697566@X](https://twitter.com/Genius44697566/status/1389792896690253824) | advertise |
+| [GenZz260967@X](https://twitter.com/GenZz260967/status/1747648556520079860) | advertise |
 | [GeoffreyKP@X](https://twitter.com/GeoffreyKP/status/1575951853132873728) | advertise |
 | [geojiny2@X](https://twitter.com/geojiny2/status/1577685803979145216) | advertise |
 | [geolffrey_mena@X](https://twitter.com/geolffrey_mena/status/1462463345290797060) | advertise |
@@ -6416,6 +6419,7 @@ Do not create new issue or we will close it as duplicate.
 | [jonnys558@X](https://twitter.com/jonnys558/status/1593282412498374658) | advertise |
 | [Jonsteave1@X](https://twitter.com/Jonsteave1/status/1400466186899312644) | advertise |
 | [JonW78478187@X](https://twitter.com/JonW78478187/status/1674150744444882946) | advertise |
+| [joobpyjub@X](https://twitter.com/joobpyjub/status/1747643030080045424) | advertise |
 | [JoonasPulliain1@X](https://twitter.com/JoonasPulliain1/status/1472506852307054594) | advertise |
 | [JoonCathy@X](https://twitter.com/JoonCathy/status/1391688136925712391) | advertise |
 | [Jordan51468849@X](https://twitter.com/Jordan51468849/status/1607577126001336320) | advertise |
@@ -6846,6 +6850,7 @@ Do not create new issue or we will close it as duplicate.
 | [KgobeMaripa@X](https://twitter.com/KgobeMaripa/status/1636312427569528833) | advertise |
 | [kh6jrm@X](https://twitter.com/kh6jrm/status/1490831301485613056) | advertise |
 | [kh76986012@X](https://twitter.com/kh76986012/status/1393833121078857735) | advertise |
+| [kha30755911@X](https://twitter.com/kha30755911/status/1747665415684387280) | advertise |
 | [Khabaralhin@X](https://twitter.com/Khabaralhin/status/1692108051719888983) | advertise |
 | [khai203skt@X](https://twitter.com/khai203skt/status/1745682067894190251) | advertise |
 | [khai94542856@X](https://twitter.com/khai94542856/status/1716477264475644322) | advertise |
