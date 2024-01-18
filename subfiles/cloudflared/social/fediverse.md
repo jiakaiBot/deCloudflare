@@ -27545,6 +27545,7 @@ Here's a list of public Fediverse services.
 | `masto.bg` | No |
 | `masto.bike` | No |
 | `masto.boo` | No |
+| `masto.bot` | No |
 | `masto.cafe` | No |
 | `masto.casa` | Yes |
 | `masto.click` | No |
@@ -27994,6 +27995,7 @@ Here's a list of public Fediverse services.
 | `mastodontech.de` | No |
 | `mastodonten.de` | No |
 | `mastodonter.se` | No |
+| `mastodonters.nl` | No |
 | `mastodontest.blog` | No |
 | `mastodontest.ga` | No |
 | `mastodontests.com` | No |
@@ -41988,6 +41990,7 @@ Here's a list of public Fediverse services.
 | `skunkfu.me` | No |
 | `skunkhollow.tech` | No |
 | `skunksocial.com` | Yes |
+| `skux.life` | No |
 | `skvip.lol` | No |
 | `skwal.net` | Yes |
 | `skweb.io` | No |
@@ -52594,7 +52597,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,990 |
-| Normal | 37,555 |
+| Normal | 37,558 |
 
 
 </details>
