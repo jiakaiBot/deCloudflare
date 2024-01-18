@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,389 |
-| social | 4,770 |
+| com | 8,391 |
+| social | 4,771 |
 | net | 4,095 |
 | org | 2,746 |
 | de | 2,619 |
@@ -7958,6 +7958,7 @@ Here's a list of public Fediverse services.
 | `claudia-knit.com` | No |
 | `claudio.asia` | No |
 | `claudon.me` | No |
+| `claudreenjackson.tv` | No |
 | `clausgames.com` | Yes |
 | `clavis.info` | No |
 | `clawhammer.net` | No |
@@ -15942,6 +15943,7 @@ Here's a list of public Fediverse services.
 | `frogsock.xyz` | Yes |
 | `frogtown.club` | No |
 | `froidmont.org` | No |
+| `frolleinherr.com` | No |
 | `from-arctic.net` | No |
 | `from-de.com` | No |
 | `from-tw.shop` | No |
@@ -16120,6 +16122,7 @@ Here's a list of public Fediverse services.
 | `fumufu.xyz` | No |
 | `fun.systems` | No |
 | `fun7.de` | No |
+| `funambulisterie.life` | No |
 | `funami.tech` | Yes |
 | `funboy.cyou` | No |
 | `functional.cafe` | Yes |
@@ -21910,6 +21913,7 @@ Here's a list of public Fediverse services.
 | `jeykey.org` | No |
 | `jezdez.social` | No |
 | `jezner.com` | Yes |
+| `jezper.se` | No |
 | `jezra.net` | No |
 | `jferg.blog` | No |
 | `jfietkau.me` | No |
@@ -23841,6 +23845,7 @@ Here's a list of public Fediverse services.
 | `koder-marin.at` | No |
 | `kodlomrazi.ru` | No |
 | `kodow.net` | Yes |
+| `kodraus.com` | No |
 | `koeb.be` | No |
 | `koehler-klm.de` | No |
 | `koehler.ca` | Yes |
@@ -36601,6 +36606,7 @@ Here's a list of public Fediverse services.
 | `pornteur.com` | No |
 | `porntoot.com` | No |
 | `porntube.host` | No |
+| `porny.social` | No |
 | `poro.tokyo` | No |
 | `porpoise.social` | Yes |
 | `porsche.earth` | No |
@@ -37855,6 +37861,7 @@ Here's a list of public Fediverse services.
 | `radiotube.org` | No |
 | `radiowaterloo.ca` | No |
 | `radlc.com` | No |
+| `radlettwire.co.uk` | No |
 | `radnovich.com` | No |
 | `radon.rocks` | No |
 | `radon.social` | No |
@@ -45883,6 +45890,7 @@ Here's a list of public Fediverse services.
 | `theolympiastandard.com` | No |
 | `theomega.zone` | Yes |
 | `theonecurly.page` | Yes |
+| `theonetruedimwit.tech` | Yes |
 | `theonetrueginger.ninja` | No |
 | `theopjones.blog` | Yes |
 | `theopjones.com` | Yes |
@@ -49158,7 +49166,7 @@ Here's a list of public Fediverse services.
 | `vidyagam.es` | Yes |
 | `vidyaley.com` | No |
 | `vief.email` | No |
-| `vielfalt-begegnung.de` | No |
+| `vielfalt-begegnung.de` | Yes |
 | `vientos.live` | Yes |
 | `vier.beer` | No |
 | `vier1.de` | No |
@@ -49298,6 +49306,7 @@ Here's a list of public Fediverse services.
 | `vitrubio.net` | No |
 | `vitruvian.services` | No |
 | `vituperio.xyz` | Yes |
+| `viufa.ca` | No |
 | `vivaldi.com` | Yes |
 | `vivaldi.net` | Yes |
 | `vivaristics.net` | No |
@@ -49716,6 +49725,7 @@ Here's a list of public Fediverse services.
 | `wakkerewereld.nu` | No |
 | `wakkerisme.nl` | No |
 | `wakoka.com` | No |
+| `wakoma.co` | No |
 | `waku.dev` | Yes |
 | `wakuwaku.boo` | Yes |
 | `wakuwaku.gg` | No |
@@ -52597,8 +52607,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,995 |
-| Normal | 37,554 |
+| Cloudflare | 14,997 |
+| Normal | 37,562 |
 
 
 </details>
