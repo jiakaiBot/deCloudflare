@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Every few minutes, the connection stops, possibly due to Cloudflare implemented on TikTok. This issue also exists in the Python version](https://github.com/zerodytrash/TikTok-Live-Connector/issues/164)
+- [System.IO.IOException: There is not enough space on the disk - yet stats show "Finished downloading all hash ranges"](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader/issues/57)
 - [Error while creating worker project](https://github.com/workerforce/unifi-ddns/issues/48)
 - [Error in create-cloudflare-cli initialization](https://github.com/oven-sh/bun/issues/8253)
 - [MJML not working in Cloudflare Worker](https://github.com/mjmlio/mjml/issues/2812)
