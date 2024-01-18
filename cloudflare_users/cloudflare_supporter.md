@@ -4593,6 +4593,7 @@ Do not create new issue or we will close it as duplicate.
 | [GrupaPiotrus@X](https://twitter.com/GrupaPiotrus/status/1643137979999715328) | advertise |
 | [gsdryfruits@X](https://twitter.com/gsdryfruits/status/1428265726851301377) | advertise |
 | [GTR24h@X](https://twitter.com/GTR24h/status/1503758901002526723) | advertise |
+| [GTvbangla@X](https://twitter.com/GTvbangla/status/1747949169262899280) | advertise |
 | [Gtway2Morocco@X](https://twitter.com/Gtway2Morocco/status/1492266825681448960) | advertise |
 | [gua_sunada@X](https://twitter.com/gua_sunada/status/1683094825552470016) | advertise |
 | [Gudduku58065131@X](https://twitter.com/Gudduku58065131/status/1386342053529808900) | advertise |
