@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error in create-cloudflare-cli initialization](https://github.com/oven-sh/bun/issues/8253)
 - [MJML not working in Cloudflare Worker](https://github.com/mjmlio/mjml/issues/2812)
 - [Volume always at 50%](https://github.com/home-assistant/addons/issues/3419)
 - [Blazor Server applications do not work with CloudFlare / auto minification](https://github.com/dotnet/aspnetcore/issues/53437)
