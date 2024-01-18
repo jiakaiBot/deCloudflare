@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [crypto is not defined](https://github.com/mhart/aws4fetch/issues/61)
 - [Every few minutes, the connection stops, possibly due to Cloudflare implemented on TikTok. This issue also exists in the Python version](https://github.com/zerodytrash/TikTok-Live-Connector/issues/164)
 - [System.IO.IOException: There is not enough space on the disk - yet stats show "Finished downloading all hash ranges"](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader/issues/57)
 - [Error while creating worker project](https://github.com/workerforce/unifi-ddns/issues/48)
