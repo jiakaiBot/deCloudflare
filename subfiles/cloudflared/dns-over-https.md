@@ -125,7 +125,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ffmuc.net | Yes |
 | flm9.net | No |
 | fltn.us | Yes |
-| flylcc.cc | Yes |
 | freecdn.one | No |
 | freyja.pw | Yes |
 | froth.zone | No |
@@ -218,7 +217,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mobyds.com | Yes |
 | moderateinfra.net | No |
 | modr.club | Yes |
-| moleniuk.com | Yes |
 | molinero.dev | Yes |
 | momokko.moe | Yes |
 | mtsoln.com | Yes |
@@ -241,7 +239,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | noridev.moe | No |
 | novali.date | Yes |
 | o0o.re | No |
-| odvpn.ru | No |
 | ofdoom.net | Yes |
 | oms-ctr.ru | No |
 | onedns.cc | Yes |
@@ -369,8 +366,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 186 |
-| Normal | 164 |
+| Cloudflare | 184 |
+| Normal | 163 |
 
 
-### 53.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53% of DNS-over-HTTPS (DoH) are using Cloudflare.
