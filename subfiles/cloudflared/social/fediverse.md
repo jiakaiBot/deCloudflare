@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,391 |
 | social | 4,771 |
-| net | 4,095 |
+| net | 4,096 |
 | org | 2,746 |
 | de | 2,619 |
 
@@ -31367,6 +31367,7 @@ Here's a list of public Fediverse services.
 | `nanashinonozomi.com` | No |
 | `nanasi-apps.xyz` | Yes |
 | `nanasina.com` | No |
+| `nanasina.net` | Yes |
 | `nanax.fr` | No |
 | `nanaya.net` | No |
 | `nanbon.eu` | No |
@@ -32466,6 +32467,7 @@ Here's a list of public Fediverse services.
 | `nitecrew.rip` | No |
 | `nithinkrishna.in` | Yes |
 | `nitiasa.com` | Yes |
+| `nitkiewicz.me` | Yes |
 | `nitro.horse` | No |
 | `nitroet.me` | No |
 | `nitrokey.com` | Yes |
@@ -48201,7 +48203,7 @@ Here's a list of public Fediverse services.
 | `unattributed.cc` | No |
 | `unau.edu.ar` | No |
 | `unavitadacinefilo.com` | No |
-| `unbia.st` | Yes |
+| `unbia.st` | No |
 | `unbl.ink` | No |
 | `unboiled.info` | No |
 | `unbound.social` | No |
@@ -52607,8 +52609,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,997 |
-| Normal | 37,562 |
+| Cloudflare | 14,998 |
+| Normal | 37,563 |
 
 
 </details>
