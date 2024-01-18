@@ -18611,7 +18611,7 @@ Here's a list of public Fediverse services.
 | `has-no.solutions` | No |
 | `hasa.blog` | No |
 | `hasacow.com` | No |
-| `hasameli.com` | No |
+| `hasameli.com` | Yes |
 | `hase.dev` | No |
 | `hasecom.at` | No |
 | `hasenpanier.de` | No |
@@ -28884,6 +28884,7 @@ Here's a list of public Fediverse services.
 | `metgitarenenzo.nl` | No |
 | `methamphetamine.monster` | No |
 | `methanolinjected.club` | No |
+| `methedr.one` | Yes |
 | `method-n.com` | No |
 | `metokur.org` | Yes |
 | `metreee.com` | Yes |
@@ -52609,8 +52610,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,998 |
-| Normal | 37,563 |
+| Cloudflare | 15,000 |
+| Normal | 37,562 |
 
 
 </details>
