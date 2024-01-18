@@ -1243,6 +1243,7 @@ Do not create new issue or we will close it as duplicate.
 | [arslansheikh381@X](https://twitter.com/arslansheikh381/status/1467975634391601156) | advertise |
 | [ars_robotics@X](https://twitter.com/ars_robotics/status/1524778405308387330) | advertise |
 | [art3mkinreal@X](https://twitter.com/art3mkinreal/status/1558266148969361408) | advertise |
+| [Artan_suny@X](https://twitter.com/Artan_suny/status/1748026240429183099) | advertise |
 | [ArteImmaginePh3@X](https://twitter.com/ArteImmaginePh3/status/1370471352373772291) | advertise |
 | [artem_shar@X](https://twitter.com/artem_shar/status/1417034537343782916) | advertise |
 | [ArthaLover@X](https://twitter.com/ArthaLover/status/1690550901826834432) | advertise |
