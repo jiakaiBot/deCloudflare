@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,392 |
 | social | 4,772 |
-| net | 4,096 |
+| net | 4,097 |
 | org | 2,747 |
 | de | 2,619 |
 
@@ -10994,6 +10994,7 @@ Here's a list of public Fediverse services.
 | `dhsdevelopments.com` | No |
 | `dhslammer.com` | No |
 | `dhtls.net` | No |
+| `dhtstudios.space` | No |
 | `dhub.social` | No |
 | `dhunplugged.com` | No |
 | `dhusch.de` | No |
@@ -12255,6 +12256,7 @@ Here's a list of public Fediverse services.
 | `dylanon.com` | Yes |
 | `dylanvanassche.be` | No |
 | `dym.sh` | Yes |
+| `dymaxoid.net` | Yes |
 | `dymc.win` | Yes |
 | `dymersion.com` | No |
 | `dymorz.net` | No |
@@ -31709,7 +31711,7 @@ Here's a list of public Fediverse services.
 | `nekomi.one` | Yes |
 | `nekomimi.jp` | No |
 | `nekomimi.party` | Yes |
-| `nekomimi.yokohama` | Yes |
+| `nekomimi.yokohama` | No |
 | `nekomimisskey.com` | Yes |
 | `nekomin.jp` | Yes |
 | `nekomiya.net` | Yes |
@@ -34355,6 +34357,7 @@ Here's a list of public Fediverse services.
 | `ortion.xyz` | No |
 | `ortizmedia.net` | Yes |
 | `ortodogs.info` | Yes |
+| `ortolo.eu` | No |
 | `orwell.fun` | No |
 | `orx.me` | Yes |
 | `oryzon.studio` | No |
@@ -52616,7 +52619,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,003 |
-| Normal | 37,564 |
+| Normal | 37,567 |
 
 
 </details>
