@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,392 |
 | social | 4,772 |
 | net | 4,096 |
-| org | 2,746 |
+| org | 2,747 |
 | de | 2,619 |
 
 
@@ -40779,6 +40779,7 @@ Here's a list of public Fediverse services.
 | `seattle.wa.us` | Yes |
 | `seattlebikeblog.com` | Yes |
 | `seattlebus.space` | No |
+| `seattlein2025.org` | No |
 | `seattlelunarsociety.org` | No |
 | `seattlematrix.org` | No |
 | `seawolf.rocks` | No |
@@ -42221,7 +42222,7 @@ Here's a list of public Fediverse services.
 | `smekal.at` | No |
 | `smelly.today` | No |
 | `smenttech.com` | Yes |
-| `smgalante.blog` | No |
+| `smgalante.blog` | Yes |
 | `smgalante.com` | Yes |
 | `smgle.com` | No |
 | `smglive.org` | No |
@@ -52614,7 +52615,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,002 |
+| Cloudflare | 15,003 |
 | Normal | 37,564 |
 
 
