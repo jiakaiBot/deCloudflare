@@ -358,7 +358,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | xx3210766.live | Yes |
 | yandex.net | Yes |
 | ychen.gq | No |
-| yyaan.com | Yes |
 | zijji.com | Yes |
 
 
@@ -366,8 +365,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 184 |
+| Cloudflare | 183 |
 | Normal | 163 |
 
 
-### 53% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
