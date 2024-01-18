@@ -218,6 +218,7 @@ Do not create new issue or we will close it as duplicate.
 | [2022hoky@X](https://twitter.com/2022hoky/status/1559692337382469632) | advertise |
 | [2226nxe@X](https://twitter.com/2226nxe/status/1741461974729326721) | advertise |
 | [2244Hama22448@X](https://twitter.com/2244Hama22448/status/1659726075050569729) | advertise |
+| [3211a9@X](https://twitter.com/3211a9/status/1747891845646942311) | advertise |
 | [4353_37@X](https://twitter.com/4353_37/status/1613146692542496769) | advertise |
 | [5050Tbc@X](https://twitter.com/5050Tbc/status/1532708767481090052) | advertise |
 | [8953Ntt@X](https://twitter.com/8953Ntt/status/1600774448172630024) | advertise |
@@ -4294,6 +4295,7 @@ Do not create new issue or we will close it as duplicate.
 | [gabutajahehe948@X](https://twitter.com/gabutajahehe948/status/1553049848601284608) | advertise |
 | [gad17@X](https://twitter.com/gad17/status/1386581003356065793) | advertise |
 | [GadgetRumours@X](https://twitter.com/GadgetRumours/status/1467895967248695305) | advertise |
+| [Gadorrai@X](https://twitter.com/Gadorrai/status/1747882265026449563) | advertise |
 | [GaGamaximorx@X](https://twitter.com/GaGamaximorx/status/1721718931428454862) | advertise |
 | [GAGANDE95206340@X](https://twitter.com/GAGANDE95206340/status/1398149233992036353) | advertise |
 | [GAGz79429876@X](https://twitter.com/GAGz79429876/status/1531868813452464128) | advertise |
@@ -9995,6 +9997,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nguyenh86642977@X](https://twitter.com/Nguyenh86642977/status/1397205087664152583) | advertise |
 | [nguyenh94739327@X](https://twitter.com/nguyenh94739327/status/1475697233161261056) | advertise |
 | [NguyenHaiPr@X](https://twitter.com/NguyenHaiPr/status/1388411063662571524) | advertise |
+| [nguyenhatuuu@X](https://twitter.com/nguyenhatuuu/status/1747867881394876594) | advertise |
 | [nguyenk15697@X](https://twitter.com/nguyenk15697/status/1556293365196500992) | advertise |
 | [nguyenkhacanhh@X](https://twitter.com/nguyenkhacanhh/status/1478749565364813825) | advertise |
 | [nguyenlong2122@X](https://twitter.com/nguyenlong2122/status/1552206834160660480) | advertise |
