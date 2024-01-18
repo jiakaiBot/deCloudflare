@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,391 |
+| com | 8,392 |
 | social | 4,772 |
 | net | 4,096 |
 | org | 2,746 |
@@ -10895,6 +10895,7 @@ Here's a list of public Fediverse services.
 | `devloprog.org` | No |
 | `devnamic.com` | Yes |
 | `devnel.blog` | No |
+| `devnull.land` | Yes |
 | `devoe.social` | No |
 | `devol.it` | Yes |
 | `devolio.net` | Yes |
@@ -35825,6 +35826,7 @@ Here's a list of public Fediverse services.
 | `piko2.net` | Yes |
 | `pikokr.dev` | Yes |
 | `pikopiko.party` | No |
+| `pikopublish.ing` | No |
 | `pikopublishing.page` | No |
 | `piku.one` | No |
 | `pilch.me` | No |
@@ -41251,6 +41253,7 @@ Here's a list of public Fediverse services.
 | `shampoo.moe` | No |
 | `shanecav.net` | Yes |
 | `shanet.ie` | No |
+| `shanewrogers.com` | No |
 | `shanghaifantasy.com` | Yes |
 | `shanghaifantasy.social` | No |
 | `shangri-la.cloud` | No |
@@ -52611,8 +52614,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,001 |
-| Normal | 37,562 |
+| Cloudflare | 15,002 |
+| Normal | 37,564 |
 
 
 </details>
