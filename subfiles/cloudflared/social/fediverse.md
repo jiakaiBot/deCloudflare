@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,391 |
-| social | 4,771 |
+| social | 4,772 |
 | net | 4,096 |
 | org | 2,746 |
 | de | 2,619 |
@@ -368,6 +368,7 @@ Here's a list of public Fediverse services.
 | `2248.live` | Yes |
 | `22decembre.eu` | No |
 | `22x22.ru` | Yes |
+| `23.social` | No |
 | `230029.xyz` | Yes |
 | `238c.org` | No |
 | `23h42.com` | No |
@@ -9328,7 +9329,7 @@ Here's a list of public Fediverse services.
 | `cthulhu.social` | No |
 | `ctmiller.net` | No |
 | `ctms.me` | No |
-| `ctor.tech` | No |
+| `ctor.tech` | Yes |
 | `ctrl-shift.net` | No |
 | `ctrlaltdog.xyz` | No |
 | `ctrlaltelite.xyz` | Yes |
@@ -52610,7 +52611,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,000 |
+| Cloudflare | 15,001 |
 | Normal | 37,562 |
 
 
