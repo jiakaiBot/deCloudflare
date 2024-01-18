@@ -3142,7 +3142,6 @@ Here's a list of public Fediverse services.
 | `artverse.place` | Yes |
 | `artwells.com` | No |
 | `artworld.social` | No |
-| `arty.contact` | Yes |
 | `arty.place` | Yes |
 | `arugula.social` | No |
 | `aruk.as` | No |
@@ -12738,6 +12737,7 @@ Here's a list of public Fediverse services.
 | `ekcragg.co.uk` | No |
 | `ekesete.net` | No |
 | `ekimemo.info` | No |
+| `ekk.app` | Yes |
 | `ekke.jp` | Yes |
 | `ekkoklang.xyz` | Yes |
 | `eklundhome.com` | No |
