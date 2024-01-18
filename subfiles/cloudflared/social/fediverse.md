@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,389 |
-| social | 4,769 |
+| social | 4,770 |
 | net | 4,095 |
 | org | 2,746 |
 | de | 2,619 |
@@ -9214,7 +9214,7 @@ Here's a list of public Fediverse services.
 | `crunchy.social` | Yes |
 | `crunchyroll.com` | Yes |
 | `crunchywatch.uk` | No |
-| `crunkt.com` | No |
+| `crunkt.com` | Yes |
 | `crusader.cat` | Yes |
 | `crux.social` | No |
 | `crw.li` | No |
@@ -32248,7 +32248,7 @@ Here's a list of public Fediverse services.
 | `nickwasused.com` | Yes |
 | `nickwebster.dev` | Yes |
 | `nickwood.ninja` | No |
-| `nickwrites.ca` | No |
+| `nickwrites.ca` | Yes |
 | `nickylamb.dev` | Yes |
 | `nickz.org` | No |
 | `niclas.xyz` | Yes |
@@ -34871,7 +34871,7 @@ Here's a list of public Fediverse services.
 | `pandala.org` | Yes |
 | `pandanet.moe` | No |
 | `pandapa.ws` | Yes |
-| `pandapla.net` | No |
+| `pandapla.net` | Yes |
 | `pandas.cafe` | No |
 | `pandas.social` | Yes |
 | `pandasemi.co` | No |
@@ -38131,6 +38131,7 @@ Here's a list of public Fediverse services.
 | `rat.party` | No |
 | `rat.pictures` | No |
 | `rat.pub` | Yes |
+| `rat.social` | Yes |
 | `ratching.com` | No |
 | `ratemycancer.com` | No |
 | `ratfish.net` | No |
@@ -46022,7 +46023,7 @@ Here's a list of public Fediverse services.
 | `thetrackoftheday.com` | Yes |
 | `thetransagenda.gay` | Yes |
 | `theubergroup.org` | Yes |
-| `theultraworld.org` | No |
+| `theultraworld.org` | Yes |
 | `theunconventionalgardener.com` | No |
 | `theundead.cricket` | No |
 | `theunderground.social` | No |
@@ -52596,8 +52597,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,990 |
-| Normal | 37,558 |
+| Cloudflare | 14,995 |
+| Normal | 37,554 |
 
 
 </details>
