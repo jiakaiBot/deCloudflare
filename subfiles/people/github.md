@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failing Statamic Outpost responses resulting in 500 Errors on Licensed Statamic sites](https://github.com/statamic/cms/issues/9359)
 - [Videos reestricted on Rule34.US](https://github.com/Bionus/imgbrd-grabber/issues/3083)
 - [headless option and disable-redirects option do not capture 301 response codes](https://github.com/projectdiscovery/katana/issues/734)
 - [crypto is not defined](https://github.com/mhart/aws4fetch/issues/61)
