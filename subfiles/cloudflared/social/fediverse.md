@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,392 |
+| com | 8,393 |
 | social | 4,772 |
 | net | 4,097 |
 | org | 2,747 |
@@ -42247,7 +42247,7 @@ Here's a list of public Fediverse services.
 | `smithtodon.org` | No |
 | `smittenkittens.xyz` | Yes |
 | `smnn.ch` | No |
-| `smnz.de` | No |
+| `smnz.de` | Yes |
 | `smokecircle.co` | Yes |
 | `smokecommunity.com` | No |
 | `smokeout.cloud` | No |
@@ -42596,7 +42596,7 @@ Here's a list of public Fediverse services.
 | `sodajerker.com` | Yes |
 | `soderstrom.social` | No |
 | `sodes.ro` | No |
-| `sodium.space` | No |
+| `sodium.space` | Yes |
 | `sodo-shed.com` | No |
 | `soel.li` | No |
 | `soernsen.us` | Yes |
@@ -42773,6 +42773,7 @@ Here's a list of public Fediverse services.
 | `sophos.com` | Yes |
 | `sophy.life` | Yes |
 | `sopuli.xyz` | No |
+| `sopuzzled.com` | No |
 | `sora.pub` | No |
 | `soraneto.com` | No |
 | `soranews24.com` | No |
@@ -43826,7 +43827,7 @@ Here's a list of public Fediverse services.
 | `stripittoride.club` | No |
 | `strits.dk` | No |
 | `strix.pm` | Yes |
-| `strizhakov.dev` | Yes |
+| `strizhakov.dev` | No |
 | `strnad.social` | No |
 | `stroan.net` | Yes |
 | `strobel.one` | No |
@@ -52620,7 +52621,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,003 |
+| Cloudflare | 15,004 |
 | Normal | 37,569 |
 
 
