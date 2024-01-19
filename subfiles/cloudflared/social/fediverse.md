@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,393 |
+| com | 8,394 |
 | social | 4,773 |
 | net | 4,098 |
 | org | 2,748 |
@@ -321,6 +321,7 @@ Here's a list of public Fediverse services.
 | `1e400.net` | Yes |
 | `1e41.com` | Yes |
 | `1e99.com.br` | No |
+| `1earthadventures.com` | No |
 | `1ef51.com` | No |
 | `1foo.net` | No |
 | `1in1.net` | Yes |
@@ -32623,7 +32624,7 @@ Here's a list of public Fediverse services.
 | `nochiiverse.eu` | No |
 | `nochn.net` | No |
 | `nocial.de` | No |
-| `nocko.se` | No |
+| `nocko.se` | Yes |
 | `nocle.fr` | No |
 | `noclick.se` | Yes |
 | `nocogabriel.fr` | No |
@@ -52631,7 +52632,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,008 |
+| Cloudflare | 15,009 |
 | Normal | 37,575 |
 
 
