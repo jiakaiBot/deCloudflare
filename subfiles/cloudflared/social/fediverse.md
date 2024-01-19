@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,393 |
 | social | 4,773 |
-| net | 4,097 |
+| net | 4,098 |
 | org | 2,748 |
 | de | 2,619 |
 
@@ -782,6 +782,7 @@ Here's a list of public Fediverse services.
 | `80o.xyz` | No |
 | `80percent.social` | Yes |
 | `80px.com` | Yes |
+| `80px.online` | No |
 | `818.gallery` | No |
 | `819.blue` | No |
 | `829.hu` | Yes |
@@ -16662,7 +16663,7 @@ Here's a list of public Fediverse services.
 | `gay.coffee` | Yes |
 | `gay.mba` | No |
 | `gaybaby.club` | No |
-| `gaybdsm.group` | No |
+| `gaybdsm.group` | Yes |
 | `gayboyz.space` | No |
 | `gaycatgirl.sex` | No |
 | `gaychina.com` | Yes |
@@ -21749,6 +21750,7 @@ Here's a list of public Fediverse services.
 | `jcdemswyo.org` | No |
 | `jcg.re` | Yes |
 | `jcgurango.com` | Yes |
+| `jcix.top` | No |
 | `jckcthbrt.io` | Yes |
 | `jclem.me` | No |
 | `jcloud.es` | No |
@@ -22500,6 +22502,7 @@ Here's a list of public Fediverse services.
 | `juliusgamanyi.com` | No |
 | `jum.pw` | Yes |
 | `jumanji.co` | No |
+| `jumaru.net` | No |
 | `jumogoh.de` | No |
 | `jumpartifact.com` | No |
 | `jumpgate.us` | No |
@@ -37757,6 +37760,7 @@ Here's a list of public Fediverse services.
 | `r45.jp` | No |
 | `r4d.blue` | Yes |
 | `r4o.jp` | No |
+| `r4v3.party` | Yes |
 | `r505.de` | Yes |
 | `r53.me` | No |
 | `r5c3.fr` | No |
@@ -38154,6 +38158,7 @@ Here's a list of public Fediverse services.
 | `ratching.com` | No |
 | `ratemycancer.com` | No |
 | `ratfish.net` | No |
+| `rathbone.foundation` | No |
 | `rathe.social` | Yes |
 | `rather.social` | No |
 | `ratherbemaking.games` | No |
@@ -39910,6 +39915,7 @@ Here's a list of public Fediverse services.
 | `sadrarin.com` | No |
 | `sadwizards.club` | Yes |
 | `sadx.moe` | No |
+| `saela.eu` | No |
 | `saewyc.ca` | No |
 | `saewyc.email` | No |
 | `safaradeg.net` | No |
@@ -52624,8 +52630,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,004 |
-| Normal | 37,572 |
+| Cloudflare | 15,006 |
+| Normal | 37,576 |
 
 
 </details>
