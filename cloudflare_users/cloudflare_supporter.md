@@ -477,6 +477,7 @@ Do not create new issue or we will close it as duplicate.
 | [affiqakb@X](https://twitter.com/affiqakb/status/1746719953527677196) | advertise |
 | [AfghanBa6756060@X](https://twitter.com/AfghanBa6756060/status/1729931624144343344) | advertise |
 | [afghanjani2023@X](https://twitter.com/afghanjani2023/status/1748375450412568654) | advertise |
+| [Afghankhan8496@X](https://twitter.com/Afghankhan8496/status/1748385652599881865) | advertise |
 | [afhiuss@X](https://twitter.com/afhiuss/status/1560455927110967298) | advertise |
 | [afif64361699@X](https://twitter.com/afif64361699/status/1578688042575233028) | advertise |
 | [afif___rizki@X](https://twitter.com/afif___rizki/status/1526398091141664768) | advertise |
@@ -1728,6 +1729,7 @@ Do not create new issue or we will close it as duplicate.
 | [BamJinChuu@X](https://twitter.com/BamJinChuu/status/1394310619319308293) | advertise |
 | [BamniyaSurya@X](https://twitter.com/BamniyaSurya/status/1385453008721485824) | advertise |
 | [Ban51440516@X](https://twitter.com/Ban51440516/status/1390020968765001733) | advertise |
+| [BanakBuhuk87546@X](https://twitter.com/BanakBuhuk87546/status/1748385436836503587) | advertise |
 | [BandellKhar@X](https://twitter.com/BandellKhar/status/1706451968313721074) | advertise |
 | [BandOne@X](https://twitter.com/BandOne/status/1393843656100958209) | advertise |
 | [BANDULA26426873@X](https://twitter.com/BANDULA26426873/status/1382360745992548354) | advertise |
@@ -13520,6 +13522,7 @@ Do not create new issue or we will close it as duplicate.
 | [TedionBirhanu@X](https://twitter.com/TedionBirhanu/status/1558365661835010054) | advertise |
 | [TedTschopp@X](https://twitter.com/TedTschopp/status/1486743304528007169) | advertise |
 | [Ted_Chavez_@X](https://twitter.com/Ted_Chavez_/status/1476047426943258625) | advertise |
+| [Tee1665386@X](https://twitter.com/Tee1665386/status/1748377599439728801) | advertise |
 | [teegrpm2@X](https://twitter.com/teegrpm2/status/1397899934540566532) | advertise |
 | [teei_74@X](https://twitter.com/teei_74/status/1578958187902164995) | advertise |
 | [Teejay8765@X](https://twitter.com/Teejay8765/status/1713295417515884887) | advertise |
@@ -15525,6 +15528,7 @@ Do not create new issue or we will close it as duplicate.
 | [XunDngBi1@X](https://twitter.com/XunDngBi1/status/1623701300549652480) | advertise |
 | [XUniwathunder@X](https://twitter.com/XUniwathunder/status/1614262894266572802) | advertise |
 | [XunNguy78192142@X](https://twitter.com/XunNguy78192142/status/1544197771103576064) | advertise |
+| [xuon_le@X](https://twitter.com/xuon_le/status/1748390579661336971) | advertise |
 | [XuriP81920@X](https://twitter.com/XuriP81920/status/1724875941116305894) | advertise |
 | [xVcLc3U5giDDbYt@X](https://twitter.com/xVcLc3U5giDDbYt/status/1397256988959051784) | advertise |
 | [xWARBEARx@X](https://twitter.com/xWARBEARx/status/1563595325159268352) | advertise |
