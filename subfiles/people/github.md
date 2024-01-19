@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Control Plane Test on Thursday, February 15th, 2024](https://github.com/SecOpsNews/news/issues/23648)
+- [multimovies : cloudflare and nullpointerexception error](https://github.com/aniyomiorg/aniyomi-extensions/issues/2785)
+- [CloudFlare Database Maintenance](https://github.com/SecOpsNews/news/issues/23646)
 - [Can't open conversations when Language is set to "Catalan"](https://github.com/freescout-helpdesk/freescout/issues/3703)
 - [Astro Cloudflare - Failed to publish your Function. Got error: Error 8000057: Overlapping rules in _routes.json are not allowed.](https://github.com/withastro/adapters/issues/135)
 - [Astro Cloudflare - Failed to publish your Function. Got error: Error 8000057: Overlapping rules in _routes.json are not allowed.](https://github.com/withastro/astro/issues/9731)
