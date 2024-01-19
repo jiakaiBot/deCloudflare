@@ -15040,6 +15040,7 @@ Here's a list of public Fediverse services.
 | `fla.red` | Yes |
 | `flabs.org` | No |
 | `flach.land` | No |
+| `flaem.ing` | No |
 | `flagada.org` | No |
 | `flagner.dev` | Yes |
 | `flagrama.net` | No |
@@ -52634,7 +52635,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,009 |
-| Normal | 37,576 |
+| Normal | 37,577 |
 
 
 </details>
