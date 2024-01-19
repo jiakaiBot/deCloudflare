@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't open conversations when Language is set to "Catalan"](https://github.com/freescout-helpdesk/freescout/issues/3703)
+- [Astro Cloudflare - Failed to publish your Function. Got error: Error 8000057: Overlapping rules in _routes.json are not allowed.](https://github.com/withastro/adapters/issues/135)
 - [Astro Cloudflare - Failed to publish your Function. Got error: Error 8000057: Overlapping rules in _routes.json are not allowed.](https://github.com/withastro/astro/issues/9731)
 - [Failing Statamic Outpost responses resulting in 500 Errors on Licensed Statamic sites](https://github.com/statamic/cms/issues/9359)
 - [Videos reestricted on Rule34.US](https://github.com/Bionus/imgbrd-grabber/issues/3083)
