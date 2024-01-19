@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-01-19: [Elevated Error Rates](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t36xcbnxfnng)
 - 2024-01-18: [Issues with the latest release of the cloudflared](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8bnx26l5g3y7)
 - 2024-01-17: [Issues with BYOIP and Static IPs](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xnjgjjs53lg8)
 - 2024-01-17: [Network Performance Issues in Reykjavik (KEF)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g8ydyynknbjd)
