@@ -44492,6 +44492,7 @@ Here's a list of public Fediverse services.
 | `sysrq.in` | No |
 | `system-imperator.de` | No |
 | `system-of-rampage.online` | No |
+| `system64.dev` | Yes |
 | `systematic.love` | No |
 | `systemd.lol` | No |
 | `systemdfree.org` | No |
@@ -48719,7 +48720,7 @@ Here's a list of public Fediverse services.
 | `uwu.is` | No |
 | `uwu.name` | Yes |
 | `uwu.network` | Yes |
-| `uwu.pm` | Yes |
+| `uwu.pm` | No |
 | `uwu.social` | Yes |
 | `uwu.solutions` | Yes |
 | `uwu.st` | No |
@@ -52633,7 +52634,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,009 |
-| Normal | 37,575 |
+| Normal | 37,576 |
 
 
 </details>
