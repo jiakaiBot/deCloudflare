@@ -27927,6 +27927,7 @@ Here's a list of public Fediverse services.
 | `mastodonfrance.com` | No |
 | `mastodong.art` | No |
 | `mastodong.club` | No |
+| `mastodong.lgbt` | Yes |
 | `mastodong.lol` | No |
 | `mastodong.net` | Yes |
 | `mastodongolf.club` | No |
@@ -32692,6 +32693,7 @@ Here's a list of public Fediverse services.
 | `nohto.net` | No |
 | `noice.social` | No |
 | `noid.me` | No |
+| `noided.icu` | Yes |
 | `noidme.com` | No |
 | `noidorith.net` | No |
 | `noip.at` | No |
@@ -46603,7 +46605,7 @@ Here's a list of public Fediverse services.
 | `toco2.fun` | No |
 | `tod.net` | Yes |
 | `todanano-fune.moe` | Yes |
-| `today4u.xyz` | Yes |
+| `today4u.xyz` | No |
 | `todayindigital.com` | No |
 | `todayiwilllaunchmyinfantsonintoorbit.com` | No |
 | `todays.run` | No |
@@ -51717,7 +51719,7 @@ Here's a list of public Fediverse services.
 | `yidhra.farm` | No |
 | `yidian.ga` | No |
 | `yiff.agency` | No |
-| `yiff.cafe` | Yes |
+| `yiff.cafe` | No |
 | `yiff.chat` | Yes |
 | `yiff.co` | Yes |
 | `yiff.day` | Yes |
@@ -52619,7 +52621,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,003 |
-| Normal | 37,567 |
+| Normal | 37,569 |
 
 
 </details>
