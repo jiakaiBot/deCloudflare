@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error 502 Bad Gateway after migrating from NPM to NPMplus](https://github.com/ZoeyVid/NPMplus/issues/583)
 - [Unable to push: 502 Bad Gateway](https://github.com/jmorganca/ollama/issues/2094)
 - [CloudFlare Control Plane Test on Thursday, February 15th, 2024](https://github.com/SecOpsNews/news/issues/23648)
 - [multimovies : cloudflare and nullpointerexception error](https://github.com/aniyomiorg/aniyomi-extensions/issues/2785)
