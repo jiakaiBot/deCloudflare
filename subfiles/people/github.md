@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Astro Cloudflare - Failed to publish your Function. Got error: Error 8000057: Overlapping rules in _routes.json are not allowed.](https://github.com/withastro/astro/issues/9731)
 - [Failing Statamic Outpost responses resulting in 500 Errors on Licensed Statamic sites](https://github.com/statamic/cms/issues/9359)
 - [Videos reestricted on Rule34.US](https://github.com/Bionus/imgbrd-grabber/issues/3083)
 - [headless option and disable-redirects option do not capture 301 response codes](https://github.com/projectdiscovery/katana/issues/734)
