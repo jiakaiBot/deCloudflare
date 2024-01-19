@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,393 |
-| social | 4,772 |
+| social | 4,773 |
 | net | 4,097 |
-| org | 2,747 |
+| org | 2,748 |
 | de | 2,619 |
 
 
@@ -8745,6 +8745,7 @@ Here's a list of public Fediverse services.
 | `coop.lol` | No |
 | `coop.tools` | No |
 | `coopcloud.tech` | No |
+| `cooperate.social` | No |
 | `coopermatt.com` | No |
 | `cooperserver.com` | No |
 | `coopey.eu` | Yes |
@@ -42530,6 +42531,7 @@ Here's a list of public Fediverse services.
 | `socialjungle.space` | No |
 | `socialjustice.engineering` | No |
 | `socialloods.nl` | No |
+| `sociallydental.org` | No |
 | `sociallydistant.site` | Yes |
 | `sociallydistant.social` | Yes |
 | `sociallydistantgame.com` | Yes |
@@ -44924,6 +44926,7 @@ Here's a list of public Fediverse services.
 | `tavi.moe` | No |
 | `tawa.wtf` | No |
 | `taxinachtegel.de` | No |
+| `taxinews.pl` | No |
 | `taxion.xyz` | No |
 | `taxodon.com` | No |
 | `taxtech.social` | No |
@@ -52622,7 +52625,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,004 |
-| Normal | 37,569 |
+| Normal | 37,572 |
 
 
 </details>
