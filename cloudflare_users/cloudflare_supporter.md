@@ -3782,6 +3782,7 @@ Do not create new issue or we will close it as duplicate.
 | [ejw516@X](https://twitter.com/ejw516/status/1592666719004557312) | advertise |
 | [ekafjr2802@X](https://twitter.com/ekafjr2802/status/1579097844115390464) | advertise |
 | [Ekham13@X](https://twitter.com/Ekham13/status/1395515057883209731) | advertise |
+| [EkramHassa93716@X](https://twitter.com/EkramHassa93716/status/1748330482314395652) | advertise |
 | [el3mentry@X](https://twitter.com/el3mentry/status/1402187903665463296) | advertise |
 | [Elainasan831069@X](https://twitter.com/Elainasan831069/status/1601267438200713216) | advertise |
 | [Elaine01799523@X](https://twitter.com/Elaine01799523/status/1397575836140589056) | advertise |
@@ -5628,6 +5629,7 @@ Do not create new issue or we will close it as duplicate.
 | [HVnMinh46685368@X](https://twitter.com/HVnMinh46685368/status/1393410731706490882) | advertise |
 | [hvturingga@X](https://twitter.com/hvturingga/status/1405917106617520129) | advertise |
 | [hvu97979797@X](https://twitter.com/hvu97979797/status/1682457718572060672) | advertise |
+| [HwlWichay@X](https://twitter.com/HwlWichay/status/1748314007042425126) | advertise |
 | [HWP2000@X](https://twitter.com/HWP2000/status/1555609415201353728) | advertise |
 | [hwynlatt@X](https://twitter.com/hwynlatt/status/1399335430257061889) | advertise |
 | [hxjdjdj63536269@X](https://twitter.com/hxjdjdj63536269/status/1376747966766084096) | advertise |
@@ -8962,6 +8964,7 @@ Do not create new issue or we will close it as duplicate.
 | [minn_soe@X](https://twitter.com/minn_soe/status/1377206706900332550) | advertise |
 | [Minor34685995@X](https://twitter.com/Minor34685995/status/1701599448139444369) | advertise |
 | [MinPa1410@X](https://twitter.com/MinPa1410/status/1389948656141230083) | advertise |
+| [Minq7826@X](https://twitter.com/Minq7826/status/1748318800284627208) | advertise |
 | [MinSatNaing11@X](https://twitter.com/MinSatNaing11/status/1391998991764574209) | advertise |
 | [minswekhaing@X](https://twitter.com/minswekhaing/status/1392484581899608070) | advertise |
 | [MinThan15509120@X](https://twitter.com/MinThan15509120/status/1392839612305870851) | advertise |
@@ -10863,6 +10866,7 @@ Do not create new issue or we will close it as duplicate.
 | [peachypeachpppp@X](https://twitter.com/peachypeachpppp/status/1725766802578579574) | advertise |
 | [Peach_CH1@X](https://twitter.com/Peach_CH1/status/1647984368290496522) | advertise |
 | [peageruk@X](https://twitter.com/peageruk/status/1383275946296299520) | advertise |
+| [peaker29107@X](https://twitter.com/peaker29107/status/1748313198531580151) | advertise |
 | [peaksilver1@X](https://twitter.com/peaksilver1/status/1552288607682981888) | advertise |
 | [peareza@X](https://twitter.com/peareza/status/1577504046822281218) | advertise |
 | [pearler15@X](https://twitter.com/pearler15/status/1500015969544155140) | advertise |
