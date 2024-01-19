@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Videos reestricted on Rule34.US](https://github.com/Bionus/imgbrd-grabber/issues/3083)
 - [headless option and disable-redirects option do not capture 301 response codes](https://github.com/projectdiscovery/katana/issues/734)
 - [crypto is not defined](https://github.com/mhart/aws4fetch/issues/61)
 - [Every few minutes, the connection stops, possibly due to Cloudflare implemented on TikTok. This issue also exists in the Python version](https://github.com/zerodytrash/TikTok-Live-Connector/issues/164)
