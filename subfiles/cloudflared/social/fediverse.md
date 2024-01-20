@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,395 |
+| com | 8,398 |
 | social | 4,773 |
 | net | 4,098 |
 | org | 2,748 |
@@ -2772,7 +2772,7 @@ Here's a list of public Fediverse services.
 | `appdot.net` | No |
 | `appellate.ninja` | No |
 | `appellate.social` | No |
-| `appetizer.club` | Yes |
+| `appetizer.club` | No |
 | `apple-user.club` | No |
 | `apple2.org.za` | No |
 | `appleontech.com` | No |
@@ -8569,6 +8569,7 @@ Here's a list of public Fediverse services.
 | `computermachin.es` | No |
 | `computermediatedmonologue.com` | Yes |
 | `computermuseum.social` | No |
+| `computernewb.com` | Yes |
 | `computerphile.social` | No |
 | `computersocial.club` | No |
 | `computerwerk.org` | No |
@@ -9868,7 +9869,7 @@ Here's a list of public Fediverse services.
 | `dakkaz.net` | Yes |
 | `dakloifarwa.de` | No |
 | `dakotafisher.net` | No |
-| `dakotahpena.studio` | No |
+| `dakotahpena.studio` | Yes |
 | `dalaomai.cn` | No |
 | `dale.camp` | No |
 | `dalek.one` | No |
@@ -12786,7 +12787,7 @@ Here's a list of public Fediverse services.
 | `eldritch.cafe` | No |
 | `eldritch.gift` | No |
 | `eldritchworld.nom.es` | No |
-| `eleboog.com` | No |
+| `eleboog.com` | Yes |
 | `electiongraphs.com` | No |
 | `electrafish.tech` | Yes |
 | `electrek.co` | Yes |
@@ -22207,6 +22208,7 @@ Here's a list of public Fediverse services.
 | `jokiller230.tk` | Yes |
 | `jokin.fi` | No |
 | `jokke.space` | No |
+| `jolheiser.com` | No |
 | `jollyville.net` | No |
 | `jolytube.cf` | No |
 | `jomalo.com` | No |
@@ -25439,6 +25441,7 @@ Here's a list of public Fediverse services.
 | `lgnt.eu` | Yes |
 | `lgtm.systems` | No |
 | `lgtspd.net` | Yes |
+| `lgug2z.com` | Yes |
 | `lguruprasad.in` | No |
 | `lgv2.com` | Yes |
 | `lgy.fr` | No |
@@ -29786,7 +29789,7 @@ Here's a list of public Fediverse services.
 | `moa.st` | Yes |
 | `moahr.de` | No |
 | `moar.wine` | No |
-| `moarrensis.org` | Yes |
+| `moarrensis.org` | No |
 | `moates.blog` | No |
 | `mob-con.com` | No |
 | `mobettadanyosite.com` | No |
@@ -52637,8 +52640,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,010 |
-| Normal | 37,579 |
+| Cloudflare | 15,012 |
+| Normal | 37,580 |
 
 
 </details>
