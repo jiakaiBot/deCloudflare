@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,399 |
 | social | 4,773 |
 | net | 4,100 |
-| org | 2,749 |
+| org | 2,750 |
 | de | 2,620 |
 
 
@@ -20807,6 +20807,7 @@ Here's a list of public Fediverse services.
 | `innoq.social` | No |
 | `innotel.social` | No |
 | `innovatelearning.social` | Yes |
+| `innovationhub-act.org` | Yes |
 | `innum.net` | Yes |
 | `ino.org.uk` | No |
 | `inokashiraskey.jp` | Yes |
@@ -39060,7 +39061,7 @@ Here's a list of public Fediverse services.
 | `riso.dev` | No |
 | `risonchu.social` | No |
 | `rita.moe` | Yes |
-| `ritchie.social` | No |
+| `ritchie.social` | Yes |
 | `ritec.jp` | No |
 | `rithy.club` | No |
 | `ritimo.org` | No |
@@ -52653,8 +52654,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,016 |
-| Normal | 37,589 |
+| Cloudflare | 15,018 |
+| Normal | 37,588 |
 
 
 </details>
