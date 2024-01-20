@@ -95,6 +95,7 @@ Here's a list of public Fediverse services.
 | `0ne.day` | Yes |
 | `0oooo0.ooo` | No |
 | `0pp.us` | Yes |
+| `0pt.jp` | Yes |
 | `0px.io` | Yes |
 | `0q0.xyz` | No |
 | `0qz.fun` | Yes |
@@ -31197,7 +31198,7 @@ Here's a list of public Fediverse services.
 | `myutsutaka.com` | No |
 | `myuu.dev` | Yes |
 | `myvillage.today` | No |
-| `myvnc.com` | No |
+| `myvnc.com` | Yes |
 | `myvpsserver.top` | No |
 | `mywanderings.org` | Yes |
 | `mywebprojects.co.uk` | No |
@@ -52654,10 +52655,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,018 |
-| Normal | 37,588 |
+| Cloudflare | 15,020 |
+| Normal | 37,587 |
 
 
 </details>
 
-### 28.5% of public Fediverse services are using Cloudflare.
+### 28.6% of public Fediverse services are using Cloudflare.
