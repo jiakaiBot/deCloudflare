@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Mirrors timing out in docker](https://github.com/nroi/flexo/issues/116)
 - [Program not found](https://github.com/voiceflow-gallagan/vf-twilio-sms-integration/issues/1)
 - [Cannot upload files larger than 100MB when using Cloudflare](https://github.com/sergix44/XBackBone/issues/560)
 - [Error 502 Bad Gateway after migrating from NPM to NPMplus](https://github.com/ZoeyVid/NPMplus/issues/583)
