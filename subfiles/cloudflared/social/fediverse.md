@@ -14295,6 +14295,7 @@ Here's a list of public Fediverse services.
 | `federicoigne.com` | No |
 | `federotica.com` | No |
 | `fedgram.com` | Yes |
+| `fedhub.ch` | No |
 | `fedi-multi-verse.eu` | No |
 | `fedi-verse.info` | No |
 | `fedi.agency` | No |
@@ -16612,6 +16613,7 @@ Here's a list of public Fediverse services.
 | `garlemald.org` | No |
 | `garlic.social` | No |
 | `garmy.jp` | No |
+| `garnix.dev` | No |
 | `garo.ooo` | No |
 | `garr.tv` | No |
 | `garranoileain.com` | No |
@@ -29362,6 +29364,7 @@ Here's a list of public Fediverse services.
 | `minichoco.love` | No |
 | `minicube.net` | No |
 | `minidi.sc` | No |
+| `minidisc.gay` | No |
 | `minidisc.rocks` | No |
 | `minidisc.tokyo` | No |
 | `minidon.one` | Yes |
@@ -52656,9 +52659,9 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,020 |
-| Normal | 37,587 |
+| Normal | 37,590 |
 
 
 </details>
 
-### 28.6% of public Fediverse services are using Cloudflare.
+### 28.5% of public Fediverse services are using Cloudflare.
