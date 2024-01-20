@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,394 |
+| com | 8,395 |
 | social | 4,773 |
 | net | 4,098 |
 | org | 2,748 |
@@ -3260,6 +3260,7 @@ Here's a list of public Fediverse services.
 | `asko.blog` | No |
 | `asko.dev` | No |
 | `asliceoffootball.com` | No |
+| `asmaloney.com` | No |
 | `asmodeus.co` | No |
 | `asmodeus.org` | No |
 | `asmodeus.red` | No |
@@ -5197,6 +5198,7 @@ Here's a list of public Fediverse services.
 | `blackice.online` | No |
 | `blackjackandhookers.net` | No |
 | `blackjacknuttenundkoks.de` | No |
+| `blackleaf.ca` | No |
 | `blackmentwerking.live` | No |
 | `blackmesa.space` | No |
 | `blacknapkins.co.uk` | No |
@@ -42849,6 +42851,7 @@ Here's a list of public Fediverse services.
 | `sousoupe.fr` | No |
 | `sousunepluie.com` | No |
 | `souterra.com` | Yes |
+| `south-fork.site` | Yes |
 | `southcape.social` | No |
 | `southcoastgeek.uk` | Yes |
 | `southflorida.social` | No |
@@ -43823,7 +43826,7 @@ Here's a list of public Fediverse services.
 | `strelsky.net` | No |
 | `strengeralsstreng.de` | No |
 | `stress404.com` | Yes |
-| `stress404.dev` | Yes |
+| `stress404.dev` | No |
 | `strigo.social` | Yes |
 | `striker.host` | No |
 | `striker.net.eu.org` | No |
@@ -46736,7 +46739,7 @@ Here's a list of public Fediverse services.
 | `tomo.gift` | No |
 | `tomocraft.net` | Yes |
 | `tomocraft.tech` | No |
-| `tomodachi.club` | No |
+| `tomodachi.club` | Yes |
 | `tomodachica.app` | No |
 | `tomokiwakimoto.com` | No |
 | `tomori.sk` | No |
@@ -52634,8 +52637,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,009 |
-| Normal | 37,577 |
+| Cloudflare | 15,010 |
+| Normal | 37,579 |
 
 
 </details>
