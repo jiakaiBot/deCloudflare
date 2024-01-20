@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,398 |
+| com | 8,399 |
 | social | 4,773 |
-| net | 4,098 |
-| org | 2,748 |
+| net | 4,099 |
+| org | 2,749 |
 | de | 2,620 |
 
 
@@ -1663,6 +1663,7 @@ Here's a list of public Fediverse services.
 | `aktivtube.com` | Yes |
 | `aku-san.net` | No |
 | `akubidon.com` | No |
+| `akunyiba.net` | No |
 | `akuochi.art` | No |
 | `akxnet.de` | No |
 | `aky.sh` | Yes |
@@ -5759,6 +5760,7 @@ Here's a list of public Fediverse services.
 | `borgsocial.org` | No |
 | `bori.icu` | Yes |
 | `boricua.energy` | No |
+| `boringday.app` | No |
 | `boringonian.com` | No |
 | `boringpeople.org` | No |
 | `boritsch.de` | No |
@@ -6191,6 +6193,7 @@ Here's a list of public Fediverse services.
 | `brx.io` | No |
 | `bry.bar` | No |
 | `bry.so` | Yes |
+| `bryan.lv` | No |
 | `bryanmacmurray.com` | No |
 | `bryanstone.net` | No |
 | `bryce.co` | No |
@@ -26932,6 +26935,7 @@ Here's a list of public Fediverse services.
 | `magilou.xyz` | Yes |
 | `magincia.cafe` | Yes |
 | `magitek-telescope.im` | Yes |
+| `magland.org` | Yes |
 | `magnant.co` | Yes |
 | `magnatranquillo.it` | No |
 | `magnetic-ink.dk` | No |
@@ -29039,6 +29043,7 @@ Here's a list of public Fediverse services.
 | `michaeloldroyd.co.uk` | Yes |
 | `michaelp.info` | No |
 | `michaelpaskevicius.com` | No |
+| `michaelpjones.co.uk` | No |
 | `michaelpuckett.engineer` | Yes |
 | `michaels.world` | Yes |
 | `michaelsantillan.com` | Yes |
@@ -30355,6 +30360,7 @@ Here's a list of public Fediverse services.
 | `mp3reelhub.com` | No |
 | `mp3shout.ru` | No |
 | `mpaq.org` | No |
+| `mpatshi.be` | No |
 | `mpda.ru` | No |
 | `mpg.de` | Yes |
 | `mpgaming.social` | Yes |
@@ -40100,6 +40106,7 @@ Here's a list of public Fediverse services.
 | `samsteiner.net` | No |
 | `samstodon.net` | No |
 | `samsunginter.net` | Yes |
+| `samsynger.com` | No |
 | `samtale.rocks` | No |
 | `samtherapy.net` | No |
 | `samtherapy.xyz` | Yes |
@@ -44155,6 +44162,7 @@ Here's a list of public Fediverse services.
 | `superhighway.social` | No |
 | `superkultur.dk` | No |
 | `superleet.club` | No |
+| `superlifter.blog` | No |
 | `supermeter.social` | Yes |
 | `supermotoaustralia.com` | No |
 | `supermotomagazine.com` | No |
@@ -45745,6 +45753,7 @@ Here's a list of public Fediverse services.
 | `thefreaks.online` | No |
 | `thefreecollective.net` | No |
 | `thefreestate.xyz` | No |
+| `thefrequency.blog` | No |
 | `thefrickinfrogs.gay` | No |
 | `thefrugalgamer.net` | No |
 | `thefurrytiger.net` | Yes |
@@ -52643,8 +52652,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,014 |
-| Normal | 37,581 |
+| Cloudflare | 15,015 |
+| Normal | 37,589 |
 
 
 </details>
