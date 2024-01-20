@@ -350,6 +350,7 @@ Do not create new issue or we will close it as duplicate.
 | [abomjed99@X](https://twitter.com/abomjed99/status/1720713258275934573) | advertise |
 | [aboode63006249@X](https://twitter.com/aboode63006249/status/1494371438358323211) | advertise |
 | [AboOmar51183983@X](https://twitter.com/AboOmar51183983/status/1403644659516198912) | advertise |
+| [abosufeyan786@X](https://twitter.com/abosufeyan786/status/1748783814506328120) | advertise |
 | [AboutBenidorm@X](https://twitter.com/AboutBenidorm/status/1418722295384879105) | advertise |
 | [aboy_321@X](https://twitter.com/aboy_321/status/1562384812572557314) | advertise |
 | [ABRAHAM21227313@X](https://twitter.com/ABRAHAM21227313/status/1388051088507510794) | advertise |
@@ -1189,6 +1190,7 @@ Do not create new issue or we will close it as duplicate.
 | [Arif6417@X](https://twitter.com/Arif6417/status/1566662954195435520) | advertise |
 | [Ariff36174425@X](https://twitter.com/Ariff36174425/status/1501938338902986762) | advertise |
 | [ArifinSunny19@X](https://twitter.com/ArifinSunny19/status/1389227451742523399) | advertise |
+| [ArifMd64453@X](https://twitter.com/ArifMd64453/status/1748782747718750239) | advertise |
 | [arifullah122@X](https://twitter.com/arifullah122/status/1684078301588094977) | advertise |
 | [Arjing66811042@X](https://twitter.com/Arjing66811042/status/1556038266939330560) | advertise |
 | [Arjun63261515@X](https://twitter.com/Arjun63261515/status/1384863027078565892) | advertise |
@@ -7611,6 +7613,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lamm05365016@X](https://twitter.com/Lamm05365016/status/1391000000960679942) | advertise |
 | [Lamnguy05855970@X](https://twitter.com/Lamnguy05855970/status/1404209186574016513) | advertise |
 | [LamNguy87018221@X](https://twitter.com/LamNguy87018221/status/1712165725757198482) | advertise |
+| [lam_quang_1344@X](https://twitter.com/lam_quang_1344/status/1748776929178866084) | advertise |
 | [Lan66639716@X](https://twitter.com/Lan66639716/status/1473305527526379524) | advertise |
 | [LanaLailana@X](https://twitter.com/LanaLailana/status/1660406381923692547) | advertise |
 | [LanceDdot@X](https://twitter.com/LanceDdot/status/1407342921842663426) | advertise |
