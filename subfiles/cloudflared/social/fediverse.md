@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,399 |
+| com | 8,400 |
 | social | 4,773 |
-| net | 4,100 |
+| net | 4,101 |
 | org | 2,751 |
-| de | 2,620 |
+| de | 2,623 |
 
 
 - Mastodon, Pleroma, etc
@@ -10598,6 +10598,7 @@ Here's a list of public Fediverse services.
 | `delamunoza.es` | No |
 | `delange.us` | No |
 | `delat.net` | No |
+| `delaylama.de` | No |
 | `delbertbeta.cc` | No |
 | `delbrouck.ch` | No |
 | `delcake.com` | Yes |
@@ -30860,6 +30861,7 @@ Here's a list of public Fediverse services.
 | `museum.community` | No |
 | `museum.town` | No |
 | `museumsprojekte.de` | No |
+| `museus.gov.br` | No |
 | `musgo.rocks` | No |
 | `musgrovegreen.co.uk` | No |
 | `mush-it.social` | No |
@@ -32770,7 +32772,7 @@ Here's a list of public Fediverse services.
 | `nologs.me` | No |
 | `nologs.top` | No |
 | `nomadic.homes` | No |
-| `nomadic.social` | No |
+| `nomadic.social` | Yes |
 | `nomadlogic.org` | No |
 | `nomagic.uk` | No |
 | `nomanssky.social` | Yes |
@@ -37296,6 +37298,7 @@ Here's a list of public Fediverse services.
 | `punkst.com` | No |
 | `punktrash.club` | Yes |
 | `punktube.net` | No |
+| `punkwhale.de` | No |
 | `puntarella.party` | No |
 | `pup.cloud` | Yes |
 | `pupbrained.xyz` | Yes |
@@ -39529,6 +39532,7 @@ Here's a list of public Fediverse services.
 | `rpgradio.me` | No |
 | `rpgtable.top` | No |
 | `rpi-virtuell.de` | No |
+| `rpicciotti.com` | No |
 | `rpicloud.de` | No |
 | `rpigroup.it` | Yes |
 | `rpix.dk` | No |
@@ -42022,6 +42026,7 @@ Here's a list of public Fediverse services.
 | `skribeworks.com` | No |
 | `skriffle.social` | No |
 | `skrimmage.com` | Yes |
+| `skriptbu.de` | No |
 | `skrivel.se` | No |
 | `skrlet13.cl` | No |
 | `skrlet13.xyz` | No |
@@ -42186,6 +42191,7 @@ Here's a list of public Fediverse services.
 | `slovak.digital` | No |
 | `slow.pictures` | No |
 | `slowblog.de` | No |
+| `slowblog.eu` | No |
 | `slowbrain.net` | No |
 | `slowest.network` | Yes |
 | `slowkidz.social` | No |
@@ -52266,6 +52272,7 @@ Here's a list of public Fediverse services.
 | `zeitung.social` | No |
 | `zeitverschreib.de` | No |
 | `zeka.cloud` | Yes |
+| `zekeblog.net` | No |
 | `zekeweeks.com` | No |
 | `zekjur.net` | Yes |
 | `zeku.org` | Yes |
@@ -52659,8 +52666,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,020 |
-| Normal | 37,591 |
+| Cloudflare | 15,021 |
+| Normal | 37,597 |
 
 
 </details>
