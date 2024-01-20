@@ -3830,6 +3830,7 @@ Do not create new issue or we will close it as duplicate.
 | [eltonfe72717723@X](https://twitter.com/eltonfe72717723/status/1616344393320898561) | advertise |
 | [ElTr72218261@X](https://twitter.com/ElTr72218261/status/1390311899552632834) | advertise |
 | [eLv182@X](https://twitter.com/eLv182/status/1653952746532503552) | advertise |
+| [elyasqayomi046@X](https://twitter.com/elyasqayomi046/status/1748753466531414516) | advertise |
 | [El_Twyce@X](https://twitter.com/El_Twyce/status/1588237297379680258) | advertise |
 | [em24316090@X](https://twitter.com/em24316090/status/1639650916625444864) | advertise |
 | [EMadhavi3@X](https://twitter.com/EMadhavi3/status/1392409666294935553) | advertise |
@@ -9889,6 +9890,7 @@ Do not create new issue or we will close it as duplicate.
 | [NewsRoo81265004@X](https://twitter.com/NewsRoo81265004/status/1405600643323138048) | advertise |
 | [NewsWyer@X](https://twitter.com/NewsWyer/status/1599852749935366145) | advertise |
 | [news_scraper@X](https://twitter.com/news_scraper/status/1370141469613391875) | advertise |
+| [New_MD001@X](https://twitter.com/New_MD001/status/1748750720260579409) | advertise |
 | [new_techo@X](https://twitter.com/new_techo/status/1588558475851755520) | advertise |
 | [NextAds1@X](https://twitter.com/NextAds1/status/1555508312602722304) | advertise |
 | [NextGenTechLLC@X](https://twitter.com/NextGenTechLLC/status/1680687533523337216) | advertise |
