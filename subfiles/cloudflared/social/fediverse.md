@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,399 |
 | social | 4,773 |
-| net | 4,099 |
+| net | 4,100 |
 | org | 2,749 |
 | de | 2,620 |
 
@@ -2145,6 +2145,7 @@ Here's a list of public Fediverse services.
 | `amererican.com` | Yes |
 | `america.social` | No |
 | `american-football.social` | No |
+| `american-online.net` | Yes |
 | `americanthinker.com` | No |
 | `americas.cloud` | No |
 | `americassweethe.art` | No |
@@ -52652,7 +52653,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,015 |
+| Cloudflare | 15,016 |
 | Normal | 37,589 |
 
 
