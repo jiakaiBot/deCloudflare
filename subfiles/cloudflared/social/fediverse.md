@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,773 |
 | net | 4,098 |
 | org | 2,748 |
-| de | 2,619 |
+| de | 2,620 |
 
 
 - Mastodon, Pleroma, etc
@@ -8874,7 +8874,7 @@ Here's a list of public Fediverse services.
 | `costas.dev` | Yes |
 | `coste.video` | No |
 | `costmiku.net` | No |
-| `costodon.social` | No |
+| `costodon.social` | Yes |
 | `costpap.me` | Yes |
 | `cosylab.at` | No |
 | `cota.jp` | Yes |
@@ -14416,6 +14416,7 @@ Here's a list of public Fediverse services.
 | `fedii.me` | Yes |
 | `fedikong.com` | No |
 | `fedilab.app` | No |
+| `fedilab.de` | No |
 | `fediland.in.ua` | No |
 | `fediland.nl` | No |
 | `fedilemmy.net` | Yes |
@@ -26223,6 +26224,7 @@ Here's a list of public Fediverse services.
 | `lordofthedummies.com` | No |
 | `lordoftheplex.com` | Yes |
 | `lore.monster` | Yes |
+| `lorelounge.it` | No |
 | `lorem.club` | Yes |
 | `loren.pics` | No |
 | `lorenzana.engineer` | Yes |
@@ -52640,8 +52642,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,012 |
-| Normal | 37,580 |
+| Cloudflare | 15,013 |
+| Normal | 37,581 |
 
 
 </details>
