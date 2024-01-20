@@ -17689,6 +17689,7 @@ Here's a list of public Fediverse services.
 | `goyim.app` | No |
 | `goyslop.cafe` | No |
 | `goziline.com` | No |
+| `gozou.moe` | Yes |
 | `gpg.ink` | No |
 | `gpgaming.de` | No |
 | `gpiccolo.com` | Yes |
@@ -52642,7 +52643,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,013 |
+| Cloudflare | 15,014 |
 | Normal | 37,581 |
 
 
