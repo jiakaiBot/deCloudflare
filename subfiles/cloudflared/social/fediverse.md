@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 8,399 |
 | social | 4,773 |
 | net | 4,100 |
-| org | 2,750 |
-| de | 2,620 |
+| org | 2,751 |
+| de | 2,621 |
 
 
 - Mastodon, Pleroma, etc
@@ -15063,6 +15063,7 @@ Here's a list of public Fediverse services.
 | `flakm.com` | Yes |
 | `flal.net` | No |
 | `flamewar.social` | No |
+| `flancia.org` | No |
 | `flanigan.engineering` | Yes |
 | `flanintheface.com` | No |
 | `flareon.lol` | Yes |
@@ -37295,6 +37296,7 @@ Here's a list of public Fediverse services.
 | `punkst.com` | No |
 | `punktrash.club` | Yes |
 | `punktube.net` | No |
+| `punkwhale.de` | No |
 | `puntarella.party` | No |
 | `pup.cloud` | Yes |
 | `pupbrained.xyz` | Yes |
@@ -52659,7 +52661,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,020 |
-| Normal | 37,590 |
+| Normal | 37,592 |
 
 
 </details>
