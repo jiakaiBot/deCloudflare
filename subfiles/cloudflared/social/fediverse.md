@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,401 |
 | social | 4,773 |
-| net | 4,101 |
+| net | 4,102 |
 | org | 2,751 |
 | de | 2,623 |
 
@@ -23185,6 +23185,7 @@ Here's a list of public Fediverse services.
 | `keks.top` | No |
 | `kekstorm.club` | No |
 | `kektus.io` | Yes |
+| `kekyo.net` | Yes |
 | `kelarima.com` | No |
 | `kelbie.scot` | No |
 | `kele.one` | No |
@@ -38854,6 +38855,7 @@ Here's a list of public Fediverse services.
 | `revvy.de` | Yes |
 | `rewa.mobi` | No |
 | `rewrite.in.rs` | Yes |
+| `rewt.link` | Yes |
 | `rex.gs` | No |
 | `rexmundi.social` | No |
 | `rey-li.com` | No |
@@ -52669,7 +52671,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,021 |
+| Cloudflare | 15,023 |
 | Normal | 37,600 |
 
 
