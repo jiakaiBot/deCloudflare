@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Workers KV Issues](https://github.com/SecOpsNews/news/issues/23696)
+- [Setting for external server - I need help!](https://github.com/umputun/remark42/issues/1729)
 - [Mentions Module Not Showing Users](https://github.com/freescout-helpdesk/freescout/issues/3712)
 - [Error 'slow down' on localhost e2e test](https://github.com/transitive-bullshit/OpenOpenAI/issues/12)
 - [Login doesn't work through Cloudflare tunnel](https://github.com/gotify/android/issues/332)
