@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,403 |
+| com | 8,404 |
 | social | 4,773 |
 | net | 4,105 |
 | org | 2,752 |
@@ -41679,6 +41679,7 @@ Here's a list of public Fediverse services.
 | `siewert.blog` | No |
 | `sig21.net` | No |
 | `sigatu.com` | No |
+| `sigbonk.com` | No |
 | `sigcrap.org` | No |
 | `sigdrifa.eu` | Yes |
 | `sigfried.be` | No |
@@ -52687,7 +52688,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,032 |
-| Normal | 37,606 |
+| Normal | 37,607 |
 
 
 </details>
