@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [custom_binary_path does not seem to work](https://github.com/einschmidt/hassio-addons/issues/41)
 - [Read status tracking not working](https://github.com/freescout-helpdesk/freescout/issues/3714)
 - [Cloudflare + SEOmatic + Pagination issue](https://github.com/nystudio107/craft-seomatic/issues/1405)
 - [withContent returns a 500 when no body is sent](https://github.com/kwhitley/itty-router/issues/216)
