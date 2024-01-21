@@ -5317,6 +5317,7 @@ Here's a list of public Fediverse services.
 | `blessedgeeks.org` | No |
 | `blessedgeeks.social` | No |
 | `blessedguy.net` | Yes |
+| `blether.org.uk` | No |
 | `blewsky.social` | Yes |
 | `bli.me` | No |
 | `blieb.net` | Yes |
@@ -52693,7 +52694,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,034 |
-| Normal | 37,610 |
+| Normal | 37,611 |
 
 
 </details>
