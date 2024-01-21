@@ -9865,6 +9865,7 @@ Do not create new issue or we will close it as duplicate.
 | [Neotokyo98@X](https://twitter.com/Neotokyo98/status/1687243777822318592) | advertise |
 | [NerdClump@X](https://twitter.com/NerdClump/status/1385680403738947585) | advertise |
 | [NerdJunction@X](https://twitter.com/NerdJunction/status/1379503700805361668) | advertise |
+| [nersujunior@X](https://twitter.com/nersujunior/status/1749202803594072511) | advertise |
 | [NestpressBlog@X](https://twitter.com/NestpressBlog/status/1652180920944807937) | advertise |
 | [Net89M@X](https://twitter.com/Net89M/status/1389576494750392322) | advertise |
 | [NetCo2792007@X](https://twitter.com/NetCo2792007/status/1601590971032301568) | advertise |
