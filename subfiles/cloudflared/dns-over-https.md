@@ -135,7 +135,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | geshido.ru | No |
 | gjrick.tw | Yes |
 | gkonuralp.com | No |
-| haboy.top | Yes |
 | hahnjo.de | No |
 | haringstad.com | No |
 | he.net | No |
@@ -323,7 +322,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tiarap.org | Yes |
 | tienpham.id.vn | Yes |
 | timmes.nl | No |
-| timvo.net | Yes |
 | tls-data.de | No |
 | tooli.ca | Yes |
 | trust404.win | Yes |
@@ -361,8 +359,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 180 |
+| Cloudflare | 178 |
 | Normal | 162 |
 
 
-### 52.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
