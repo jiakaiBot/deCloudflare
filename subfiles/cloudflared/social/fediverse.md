@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,773 |
 | net | 4,104 |
 | org | 2,752 |
-| de | 2,623 |
+| de | 2,624 |
 
 
 - Mastodon, Pleroma, etc
@@ -22646,6 +22646,7 @@ Here's a list of public Fediverse services.
 | `k-ba.net` | No |
 | `k-easti.tk` | No |
 | `k-fortytwo.de` | No |
+| `k-fx.de` | No |
 | `k-moegle.de` | No |
 | `k-on.kr` | Yes |
 | `k-prod.fr` | No |
@@ -52681,7 +52682,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,029 |
-| Normal | 37,603 |
+| Normal | 37,604 |
 
 
 </details>
