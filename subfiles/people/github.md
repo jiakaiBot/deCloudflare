@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Mentions Module Not Showing Users](https://github.com/freescout-helpdesk/freescout/issues/3712)
 - [Error 'slow down' on localhost e2e test](https://github.com/transitive-bullshit/OpenOpenAI/issues/12)
 - [Login doesn't work through Cloudflare tunnel](https://github.com/gotify/android/issues/332)
 - [Mirrors timing out in docker](https://github.com/nroi/flexo/issues/116)
