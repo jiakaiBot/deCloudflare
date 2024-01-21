@@ -4369,6 +4369,7 @@ Here's a list of public Fediverse services.
 | `beach.city` | No |
 | `beachcom.org` | No |
 | `beagle.casa` | Yes |
+| `beah.jp` | No |
 | `beals.rocks` | No |
 | `beamweb.de` | No |
 | `beamy-lake.social` | No |
@@ -52686,7 +52687,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,032 |
-| Normal | 37,605 |
+| Normal | 37,606 |
 
 
 </details>
