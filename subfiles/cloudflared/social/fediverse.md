@@ -33387,6 +33387,7 @@ Here's a list of public Fediverse services.
 | `nyanlout.re` | No |
 | `nyanshell.com` | Yes |
 | `nyanskey.com` | Yes |
+| `nyanstorm.fun` | No |
 | `nyantech.com` | Yes |
 | `nyanya.net` | No |
 | `nyaon.ch` | No |
@@ -52668,7 +52669,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,020 |
-| Normal | 37,599 |
+| Normal | 37,600 |
 
 
 </details>
