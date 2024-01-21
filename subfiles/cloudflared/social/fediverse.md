@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,400 |
+| com | 8,401 |
 | social | 4,773 |
 | net | 4,101 |
 | org | 2,751 |
@@ -13696,6 +13696,7 @@ Here's a list of public Fediverse services.
 | `ewcmi.org` | No |
 | `eweg.be` | No |
 | `ewing.au` | Yes |
+| `ewiplayer.com` | No |
 | `ewonchang.com` | Yes |
 | `eworld.social` | No |
 | `ewp.fyi` | Yes |
@@ -20440,7 +20441,7 @@ Here's a list of public Fediverse services.
 | `im.cm` | No |
 | `im.im` | No |
 | `im.sb` | Yes |
-| `im20a0.com` | No |
+| `im20a0.com` | Yes |
 | `ima.cm` | Yes |
 | `ima1zumi.com` | No |
 | `imaag.de` | No |
@@ -33387,7 +33388,6 @@ Here's a list of public Fediverse services.
 | `nyanlout.re` | No |
 | `nyanshell.com` | Yes |
 | `nyanskey.com` | Yes |
-| `nyanstorm.fun` | No |
 | `nyantech.com` | Yes |
 | `nyanya.net` | No |
 | `nyaon.ch` | No |
@@ -52668,8 +52668,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,020 |
-| Normal | 37,600 |
+| Cloudflare | 15,021 |
+| Normal | 37,599 |
 
 
 </details>
