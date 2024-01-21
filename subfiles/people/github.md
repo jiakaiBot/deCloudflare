@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare + SEOmatic + Pagination issue](https://github.com/nystudio107/craft-seomatic/issues/1405)
 - [withContent returns a 500 when no body is sent](https://github.com/kwhitley/itty-router/issues/216)
 - [CloudFlare Cloudflare Workers KV Issues](https://github.com/SecOpsNews/news/issues/23696)
 - [Setting for external server - I need help!](https://github.com/umputun/remark42/issues/1729)
