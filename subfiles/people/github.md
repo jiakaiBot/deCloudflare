@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Read status tracking not working](https://github.com/freescout-helpdesk/freescout/issues/3714)
 - [Cloudflare + SEOmatic + Pagination issue](https://github.com/nystudio107/craft-seomatic/issues/1405)
 - [withContent returns a 500 when no body is sent](https://github.com/kwhitley/itty-router/issues/216)
 - [CloudFlare Cloudflare Workers KV Issues](https://github.com/SecOpsNews/news/issues/23696)
