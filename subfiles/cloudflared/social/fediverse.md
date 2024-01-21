@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,401 |
+| com | 8,403 |
 | social | 4,773 |
-| net | 4,102 |
-| org | 2,751 |
+| net | 4,104 |
+| org | 2,752 |
 | de | 2,623 |
 
 
@@ -665,6 +665,7 @@ Here's a list of public Fediverse services.
 | `56ksocial.com` | No |
 | `575don.club` | No |
 | `575toot.jp` | No |
+| `57hits.com` | No |
 | `57n.org` | No |
 | `57north.org.uk` | No |
 | `584817.xyz` | Yes |
@@ -8773,6 +8774,7 @@ Here's a list of public Fediverse services.
 | `copyriot.xyz` | No |
 | `coq.social` | No |
 | `coqui.social` | No |
+| `coquillage.club` | Yes |
 | `coralbay.top` | Yes |
 | `coraspect.com` | No |
 | `coraxfm.uk` | No |
@@ -26896,6 +26898,8 @@ Here's a list of public Fediverse services.
 | `maerou.com` | Yes |
 | `maescool.be` | Yes |
 | `maest.as` | Yes |
+| `maestas.photos` | Yes |
+| `maestas.us` | Yes |
 | `maestodon.com` | No |
 | `maestoso.online` | Yes |
 | `maeul.company` | Yes |
@@ -29911,6 +29915,7 @@ Here's a list of public Fediverse services.
 | `moessingen.social` | No |
 | `moestel.eu` | No |
 | `moetz.social` | No |
+| `moeverse.net` | No |
 | `moew.app` | Yes |
 | `moew.science` | Yes |
 | `moewa.social` | No |
@@ -31769,6 +31774,7 @@ Here's a list of public Fediverse services.
 | `nekrofilie.ga` | No |
 | `nekton.social` | No |
 | `nekusoul.de` | No |
+| `nekusuchan.net` | Yes |
 | `nel.sh` | Yes |
 | `nelcomm.org` | No |
 | `nelinka.net` | No |
@@ -34926,6 +34932,7 @@ Here's a list of public Fediverse services.
 | `pandilla4gatos.tk` | No |
 | `pando.social` | No |
 | `pandoli365.com` | No |
+| `pane.nl.eu.org` | No |
 | `panela.in` | No |
 | `pangea.org` | No |
 | `pangeon.jp` | No |
@@ -37233,7 +37240,7 @@ Here's a list of public Fediverse services.
 | `publicidentity.net` | No |
 | `publicinfrastructure.org` | Yes |
 | `publicintegrity.org` | Yes |
-| `publicinterest.town` | No |
+| `publicinterest.town` | Yes |
 | `publiclaw.space` | Yes |
 | `publicmedia.social` | No |
 | `publicmedia.space` | No |
@@ -45378,6 +45385,7 @@ Here's a list of public Fediverse services.
 | `terlson.net` | No |
 | `term.social` | No |
 | `termer.net` | No |
+| `terminal-gravity.com` | No |
 | `terminal.ink` | Yes |
 | `terminalaberto.pt` | No |
 | `terminaldweller.com` | No |
@@ -52671,10 +52679,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,023 |
-| Normal | 37,600 |
+| Cloudflare | 15,028 |
+| Normal | 37,603 |
 
 
 </details>
 
-### 28.5% of public Fediverse services are using Cloudflare.
+### 28.6% of public Fediverse services are using Cloudflare.
