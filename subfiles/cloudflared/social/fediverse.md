@@ -13080,7 +13080,7 @@ Here's a list of public Fediverse services.
 | `enby.club` | No |
 | `enby.life` | No |
 | `enby.me` | Yes |
-| `enby.site` | Yes |
+| `enby.site` | No |
 | `enby.space` | No |
 | `enby.town` | No |
 | `encanarias.info` | No |
@@ -33395,6 +33395,7 @@ Here's a list of public Fediverse services.
 | `nyanlout.re` | No |
 | `nyanshell.com` | Yes |
 | `nyanskey.com` | Yes |
+| `nyanstorm.fun` | No |
 | `nyantech.com` | Yes |
 | `nyanya.net` | No |
 | `nyaon.ch` | No |
@@ -37790,6 +37791,7 @@ Here's a list of public Fediverse services.
 | `r3bl.social` | No |
 | `r3dp1ll.sh` | No |
 | `r3networks.uk` | Yes |
+| `r3o3n3.today` | No |
 | `r3pek.org` | No |
 | `r3s.nrw` | No |
 | `r3valkyrie.com` | Yes |
@@ -40960,7 +40962,7 @@ Here's a list of public Fediverse services.
 | `seifert-online.eu` | No |
 | `seifert.id` | Yes |
 | `seiichiro0185.org` | No |
-| `seijin.jp` | No |
+| `seijin.jp` | Yes |
 | `seikin.club` | No |
 | `seikora.one` | Yes |
 | `seikowo.tk` | No |
@@ -52679,7 +52681,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,029 |
-| Normal | 37,601 |
+| Normal | 37,603 |
 
 
 </details>
