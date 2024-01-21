@@ -33395,7 +33395,6 @@ Here's a list of public Fediverse services.
 | `nyanlout.re` | No |
 | `nyanshell.com` | Yes |
 | `nyanskey.com` | Yes |
-| `nyanstorm.fun` | No |
 | `nyantech.com` | Yes |
 | `nyanya.net` | No |
 | `nyaon.ch` | No |
@@ -43523,7 +43522,7 @@ Here's a list of public Fediverse services.
 | `statyvka.org.ua` | No |
 | `stavros.io` | Yes |
 | `stayas.one` | Yes |
-| `staycuriousandkeepsmil.in` | No |
+| `staycuriousandkeepsmil.in` | Yes |
 | `staysilent.party` | No |
 | `stcat.com` | No |
 | `stcpt.com` | No |
@@ -52679,8 +52678,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,028 |
-| Normal | 37,603 |
+| Cloudflare | 15,029 |
+| Normal | 37,601 |
 
 
 </details>
