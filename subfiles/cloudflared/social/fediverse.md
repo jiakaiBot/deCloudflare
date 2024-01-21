@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,403 |
 | social | 4,773 |
-| net | 4,104 |
+| net | 4,105 |
 | org | 2,752 |
-| de | 2,624 |
+| de | 2,625 |
 
 
 - Mastodon, Pleroma, etc
@@ -6486,6 +6486,7 @@ Here's a list of public Fediverse services.
 | `bynumlaw.net` | No |
 | `byoblu.com` | Yes |
 | `byou.social` | No |
+| `byrdbrnz.me` | No |
 | `byt3.stream` | Yes |
 | `byte.wtf` | Yes |
 | `byte23.net` | No |
@@ -9500,7 +9501,7 @@ Here's a list of public Fediverse services.
 | `cutefunny.net` | Yes |
 | `cutegay.software` | No |
 | `cutelab.space` | Yes |
-| `cutepolicehq.com` | No |
+| `cutepolicehq.com` | Yes |
 | `cuteposting.institute` | Yes |
 | `cutest.monster` | No |
 | `cutest.space` | No |
@@ -12275,6 +12276,7 @@ Here's a list of public Fediverse services.
 | `dymersion.com` | No |
 | `dymorz.net` | No |
 | `dynabox.net` | No |
+| `dynamic-dns.net` | Yes |
 | `dynamic.land` | No |
 | `dynamicfiles.de` | No |
 | `dynastie.org` | No |
@@ -28667,7 +28669,7 @@ Here's a list of public Fediverse services.
 | `melle.social` | No |
 | `mellem.space` | No |
 | `mellentin.eu` | No |
-| `mellified.men` | No |
+| `mellified.men` | Yes |
 | `mellitopia.org` | No |
 | `mello.moe` | No |
 | `mellow.town` | No |
@@ -38153,6 +38155,7 @@ Here's a list of public Fediverse services.
 | `raplst.town` | No |
 | `rapotec.org` | No |
 | `rappappa.com` | No |
+| `rappet.xyz` | No |
 | `rapsons.co` | Yes |
 | `raptnrent.me` | No |
 | `raptol.net` | Yes |
@@ -51911,6 +51914,7 @@ Here's a list of public Fediverse services.
 | `youjo.love` | No |
 | `youjo.observer` | No |
 | `youkai.town` | No |
+| `youkraut.de` | No |
 | `youlog.net` | No |
 | `young-4.com` | Yes |
 | `younger.wtf` | Yes |
@@ -52681,8 +52685,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,029 |
-| Normal | 37,604 |
+| Cloudflare | 15,032 |
+| Normal | 37,605 |
 
 
 </details>
