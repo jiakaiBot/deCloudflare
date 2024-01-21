@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,404 |
-| social | 4,773 |
+| social | 4,774 |
 | net | 4,105 |
 | org | 2,752 |
-| de | 2,625 |
+| de | 2,626 |
 
 
 - Mastodon, Pleroma, etc
@@ -2110,6 +2110,7 @@ Here's a list of public Fediverse services.
 | `amatusika.com` | Yes |
 | `amau.jp` | Yes |
 | `amaurot.city` | Yes |
+| `amaury-db.fr` | Yes |
 | `amauryjoly.fr` | Yes |
 | `amayado.cloud` | Yes |
 | `amazedkoumei.com` | No |
@@ -15115,6 +15116,7 @@ Here's a list of public Fediverse services.
 | `flecken.monster` | No |
 | `fledd.it` | No |
 | `flee.social` | Yes |
+| `flensmarkt.de` | No |
 | `fleshmeat.com` | No |
 | `fleur.social` | Yes |
 | `fleur7.com` | No |
@@ -24773,6 +24775,7 @@ Here's a list of public Fediverse services.
 | `lapuas.xyz` | No |
 | `lapunta.org` | No |
 | `lapy.link` | Yes |
+| `lapy.moe` | Yes |
 | `laramy.black` | No |
 | `larand.net` | No |
 | `larand.one` | No |
@@ -29911,6 +29914,7 @@ Here's a list of public Fediverse services.
 | `moegirl.live` | Yes |
 | `moeism.me` | No |
 | `moejo.io` | No |
+| `moelab.cn` | No |
 | `moeller.email` | No |
 | `moellus.net` | No |
 | `moelrhos.uk` | No |
@@ -31665,6 +31669,7 @@ Here's a list of public Fediverse services.
 | `neconium.com` | Yes |
 | `necoro.dev` | No |
 | `necronomic.online` | No |
+| `necronomicon.social` | No |
 | `necropolis.online` | No |
 | `nectarine.center` | No |
 | `nederland.online` | No |
@@ -52687,8 +52692,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,032 |
-| Normal | 37,607 |
+| Cloudflare | 15,034 |
+| Normal | 37,610 |
 
 
 </details>
