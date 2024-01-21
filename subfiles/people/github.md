@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [withContent returns a 500 when no body is sent](https://github.com/kwhitley/itty-router/issues/216)
 - [CloudFlare Cloudflare Workers KV Issues](https://github.com/SecOpsNews/news/issues/23696)
 - [Setting for external server - I need help!](https://github.com/umputun/remark42/issues/1729)
 - [Mentions Module Not Showing Users](https://github.com/freescout-helpdesk/freescout/issues/3712)
