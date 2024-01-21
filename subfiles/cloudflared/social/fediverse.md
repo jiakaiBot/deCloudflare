@@ -20106,6 +20106,7 @@ Here's a list of public Fediverse services.
 | `iamkonstantin.eu` | Yes |
 | `iammer.net` | No |
 | `iamnate.net` | Yes |
+| `iamninja.ru` | No |
 | `iamor.me` | Yes |
 | `iamover18.org` | No |
 | `iamschulz.com` | Yes |
@@ -33386,6 +33387,7 @@ Here's a list of public Fediverse services.
 | `nyanlout.re` | No |
 | `nyanshell.com` | Yes |
 | `nyanskey.com` | Yes |
+| `nyanstorm.fun` | No |
 | `nyantech.com` | Yes |
 | `nyanya.net` | No |
 | `nyaon.ch` | No |
@@ -42854,7 +42856,7 @@ Here's a list of public Fediverse services.
 | `soulstrata.xyz` | No |
 | `soultribe.net` | Yes |
 | `soulzeppel.in` | No |
-| `soundbored.org` | Yes |
+| `soundbored.org` | No |
 | `soundbyte.social` | No |
 | `soundcafe.nl` | No |
 | `soundcheck.fr` | No |
@@ -52666,8 +52668,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,021 |
-| Normal | 37,597 |
+| Cloudflare | 15,020 |
+| Normal | 37,600 |
 
 
 </details>
