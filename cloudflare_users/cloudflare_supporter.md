@@ -6209,6 +6209,7 @@ Do not create new issue or we will close it as duplicate.
 | [JDShadowline@X](https://twitter.com/JDShadowline/status/1534268616476176388) | advertise |
 | [JD_2020@X](https://twitter.com/JD_2020/status/1742224031166709911) | advertise |
 | [JE2DlAAd0UBr2Rw@X](https://twitter.com/JE2DlAAd0UBr2Rw/status/1384138729485324291) | advertise |
+| [JeanRicard15974@X](https://twitter.com/JeanRicard15974/status/1741279805360804203) | advertise |
 | [Jeary45857239@X](https://twitter.com/Jeary45857239/status/1393838455034195971) | advertise |
 | [jeattoo@X](https://twitter.com/jeattoo/status/1390214402243108864) | advertise |
 | [JebrtinJ@X](https://twitter.com/JebrtinJ/status/1704429426165915910) | advertise |
