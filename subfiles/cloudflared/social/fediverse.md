@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,404 |
+| com | 8,405 |
 | social | 4,774 |
 | net | 4,105 |
 | org | 2,752 |
@@ -5549,6 +5549,7 @@ Here's a list of public Fediverse services.
 | `bobdraws.com` | Yes |
 | `bobek.cz` | No |
 | `boberts.me` | No |
+| `bobhenryphotos.com` | No |
 | `bobiko.blog` | Yes |
 | `bobiko.dev` | Yes |
 | `bobiverse.social` | Yes |
@@ -14231,6 +14232,7 @@ Here's a list of public Fediverse services.
 | `feathers.link` | No |
 | `feathertrail.fun` | Yes |
 | `featyre.xyz` | No |
+| `feb.re` | Yes |
 | `feborg.es` | Yes |
 | `february.social` | No |
 | `fed-it.nu` | No |
@@ -37656,6 +37658,7 @@ Here's a list of public Fediverse services.
 | `queryquokka.xyz` | No |
 | `queso.ninja` | No |
 | `quesos.io` | Yes |
+| `questlog.app` | No |
 | `quet.ch` | Yes |
 | `quetschkommo.de` | No |
 | `quex.cc` | No |
@@ -52693,8 +52696,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,034 |
-| Normal | 37,611 |
+| Cloudflare | 15,035 |
+| Normal | 37,613 |
 
 
 </details>
