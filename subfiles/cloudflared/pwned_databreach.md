@@ -619,6 +619,7 @@ Here's a list of breached sites.
 | Tout | 652,683 | No |
 | TravelOK (Travel Oklahoma) | 637,279 | No |
 | Travelio | 471,376 | Yes |
+| Trello | 15,111,945 | Yes |
 | Trillian | 3,827,238 | Yes |
 | TruckersMP | 83,957 | Yes |
 | TrueFire | 599,667 | Yes |
@@ -728,10 +729,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 411 | 4,446,415,070 |
+| Cloudflare | 412 | 4,461,527,015 |
 | Normal | 296 | 4,662,933,100 |
 
 
 
-### 58.1% of breached sites (pwned sites) are using Cloudflare.
-### 48.8% of leaked accounts are on Cloudflare sites.
+### 58.2% of breached sites (pwned sites) are using Cloudflare.
+### 48.9% of leaked accounts are on Cloudflare sites.
