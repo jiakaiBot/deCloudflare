@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,410 |
 | social | 4,774 |
-| net | 4,106 |
-| org | 2,755 |
+| net | 4,107 |
+| org | 2,756 |
 | de | 2,627 |
 
 
@@ -41216,6 +41216,7 @@ Here's a list of public Fediverse services.
 | `sethmb.xyz` | Yes |
 | `setho.org` | No |
 | `seti.bzh` | No |
+| `setimaarte.net` | No |
 | `setl.ist` | No |
 | `setofprinciples.com` | No |
 | `setonbrown.com` | Yes |
@@ -47191,6 +47192,7 @@ Here's a list of public Fediverse services.
 | `toyboxcomix.com` | No |
 | `toycode.com` | No |
 | `toyoko.in` | Yes |
+| `toyotaro.org` | No |
 | `toyuzuko.dev` | No |
 | `toyvey.xyz` | No |
 | `tpapak.com` | No |
@@ -52722,7 +52724,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,043 |
-| Normal | 37,630 |
+| Normal | 37,632 |
 
 
 </details>
