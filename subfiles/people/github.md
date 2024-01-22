@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Permission denied response on "initial" setup](https://github.com/kchristensen/udm-le/issues/87)
+- [502 server when querying any package](https://github.com/pastelsky/bundlephobia/issues/857)
 - [Link check fails for sites with Cloudflare WAF](https://github.com/tcort/link-check/issues/72)
 - [doc: exposing ollama-webui-lite on the internet](https://github.com/ollama-webui/ollama-webui-lite/issues/14)
 - [Cloudflare issue when trying to connect to blog](https://github.com/abraithwaite/abraithwaite.github.io/issues/1)
