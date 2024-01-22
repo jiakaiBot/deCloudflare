@@ -25315,6 +25315,7 @@ Here's a list of public Fediverse services.
 | `lepoulsdumonde.com` | Yes |
 | `leprette.fr` | No |
 | `lepsir.net` | No |
+| `lepsydutravail.fr` | No |
 | `lepton.work` | No |
 | `leptonics.com` | No |
 | `lequerrec.eu` | No |
@@ -35129,7 +35130,7 @@ Here's a list of public Fediverse services.
 | `paskell.social` | No |
 | `pasokey.net` | Yes |
 | `pass-vault.ru` | No |
-| `passablegardener.com` | Yes |
+| `passablegardener.com` | No |
 | `passageenseine.fr` | No |
 | `passey.cloud` | No |
 | `passionsofaman.com` | No |
@@ -52720,8 +52721,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,044 |
-| Normal | 37,628 |
+| Cloudflare | 15,043 |
+| Normal | 37,630 |
 
 
 </details>
