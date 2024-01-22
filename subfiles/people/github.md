@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [upload client not working on cloudflare workers](https://github.com/web3-storage/w3up/issues/1273)
 - [Permission denied response on "initial" setup](https://github.com/kchristensen/udm-le/issues/87)
 - [502 server when querying any package](https://github.com/pastelsky/bundlephobia/issues/857)
 - [Link check fails for sites with Cloudflare WAF](https://github.com/tcort/link-check/issues/72)
