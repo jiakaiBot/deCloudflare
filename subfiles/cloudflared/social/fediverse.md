@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,405 |
+| com | 8,407 |
 | social | 4,774 |
 | net | 4,105 |
 | org | 2,752 |
@@ -285,7 +285,7 @@ Here's a list of public Fediverse services.
 | `161hz.de` | No |
 | `1641project.jp` | Yes |
 | `1641s.net` | Yes |
-| `1689.social` | Yes |
+| `1689.social` | No |
 | `1689fellowship.com` | Yes |
 | `1701home.com` | Yes |
 | `170908.xyz` | Yes |
@@ -6674,6 +6674,7 @@ Here's a list of public Fediverse services.
 | `californialocal.com` | No |
 | `caligula-sea.net` | No |
 | `calim.club` | No |
+| `calitabby.com` | No |
 | `calkeo.dev` | Yes |
 | `calligraphicspace.com` | No |
 | `callingallpapers.com` | Yes |
@@ -51255,6 +51256,7 @@ Here's a list of public Fediverse services.
 | `xfcab.com` | No |
 | `xffxe4.lol` | Yes |
 | `xfile.click` | No |
+| `xfk48.com` | No |
 | `xfrog.top` | No |
 | `xgix.net` | Yes |
 | `xgold.xyz` | No |
@@ -52700,8 +52702,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,034 |
-| Normal | 37,618 |
+| Cloudflare | 15,033 |
+| Normal | 37,621 |
 
 
 </details>
