@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Conso journalière différente sur HA Energie et l'app/site Ecojoko](https://github.com/jmcruvellier/little_monkey/issues/70)
 - [Mux API error, can't upload videos to Mux. (Or Mux is unable to download video from R2)](https://github.com/Interfacelab/ilab-media-tools/issues/228)
 - [fsSize returns empty array on some devices](https://github.com/sebhildebrandt/systeminformation/issues/885)
 - [1337x enabled cloudflare and ad](https://github.com/joybiswas007/torrents-api/issues/1)
