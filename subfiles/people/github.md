@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Mux API error, can't upload videos to Mux. (Or Mux is unable to download video from R2)](https://github.com/Interfacelab/ilab-media-tools/issues/228)
 - [fsSize returns empty array on some devices](https://github.com/sebhildebrandt/systeminformation/issues/885)
 - [1337x enabled cloudflare and ad](https://github.com/joybiswas007/torrents-api/issues/1)
 - [upload client not working on cloudflare workers](https://github.com/web3-storage/w3up/issues/1273)
