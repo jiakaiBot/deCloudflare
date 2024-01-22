@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,408 |
+| com | 8,410 |
 | social | 4,774 |
 | net | 4,105 |
-| org | 2,752 |
+| org | 2,754 |
 | de | 2,627 |
 
 
@@ -12664,6 +12664,7 @@ Here's a list of public Fediverse services.
 | `egeg.fun` | No |
 | `egermond.ch` | No |
 | `egert.social` | No |
+| `eggcult.org` | No |
 | `eggfarts.com` | No |
 | `eggfreckles.org` | No |
 | `eggipedia.de` | No |
@@ -12989,6 +12990,7 @@ Here's a list of public Fediverse services.
 | `email-versand.net` | No |
 | `emancipation.fr` | No |
 | `emancipe.es` | No |
+| `emanuelecariati.com` | No |
 | `emanuelpina.pt` | No |
 | `emanuelschwarz.io` | No |
 | `emastodon.com` | No |
@@ -14369,6 +14371,7 @@ Here's a list of public Fediverse services.
 | `fedi.tools` | No |
 | `fedi.uk` | Yes |
 | `fedi.video` | No |
+| `fedi.vision` | No |
 | `fedi.wien` | No |
 | `fedi.wtf` | Yes |
 | `fedi.xyz` | Yes |
@@ -18588,6 +18591,7 @@ Here's a list of public Fediverse services.
 | `hardill.me.uk` | No |
 | `harding.dev` | No |
 | `hardlimit.com` | No |
+| `hardly.engineering` | Yes |
 | `hardly.social` | No |
 | `hardr.social` | No |
 | `hardtoast.social` | Yes |
@@ -25626,6 +25630,7 @@ Here's a list of public Fediverse services.
 | `liebevollepraxis.fr` | No |
 | `liedra.net` | No |
 | `liefvanderbaan.com` | Yes |
+| `liefy.org` | Yes |
 | `liege.bike` | No |
 | `liepajnieks.lv` | Yes |
 | `liersch.it` | No |
@@ -30621,7 +30626,7 @@ Here's a list of public Fediverse services.
 | `mstdn.ibaraki.jp` | No |
 | `mstdn.icu` | Yes |
 | `mstdn.id` | No |
-| `mstdn.im` | No |
+| `mstdn.im` | Yes |
 | `mstdn.in` | No |
 | `mstdn.in.th` | Yes |
 | `mstdn.info` | No |
@@ -33097,6 +33102,7 @@ Here's a list of public Fediverse services.
 | `nov29.one` | No |
 | `nova.community` | Yes |
 | `novababilonia.me` | No |
+| `novadata.app` | No |
 | `novadon.social` | No |
 | `novak.to` | No |
 | `novakeith.net` | No |
@@ -34451,6 +34457,7 @@ Here's a list of public Fediverse services.
 | `oschly.me` | No |
 | `osci.io` | No |
 | `osconjunction.net` | No |
+| `osd.dk` | No |
 | `osdn.jp` | No |
 | `osechin.co` | No |
 | `oseka.xyz` | No |
@@ -40224,6 +40231,7 @@ Here's a list of public Fediverse services.
 | `sannalund.se` | No |
 | `sanpo-an.site` | No |
 | `sanrizuka-struggle.com` | Yes |
+| `sanroccostudies.com` | No |
 | `sans-nuage.fr` | No |
 | `sans.fun` | Yes |
 | `sans.pub` | No |
@@ -50145,6 +50153,7 @@ Here's a list of public Fediverse services.
 | `weeb.academy` | No |
 | `weeb.chat` | No |
 | `weeb.cloud` | Yes |
+| `weeb.land` | No |
 | `weeb.run` | Yes |
 | `weeb.su` | No |
 | `weebcouncil.online` | Yes |
@@ -52705,8 +52714,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,036 |
-| Normal | 37,621 |
+| Cloudflare | 15,039 |
+| Normal | 37,627 |
 
 
 </details>
