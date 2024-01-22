@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,407 |
+| com | 8,408 |
 | social | 4,774 |
 | net | 4,105 |
 | org | 2,752 |
-| de | 2,626 |
+| de | 2,627 |
 
 
 - Mastodon, Pleroma, etc
@@ -18396,6 +18396,7 @@ Here's a list of public Fediverse services.
 | `hahmo.site` | Yes |
 | `hahn.de.com` | No |
 | `hai.haus` | Yes |
+| `haialarm-podcast.de` | No |
 | `haibala.com` | Yes |
 | `haibane.info` | No |
 | `haiger.info` | No |
@@ -18404,6 +18405,7 @@ Here's a list of public Fediverse services.
 | `haikara.party` | No |
 | `haikushane.com` | No |
 | `hails.org` | No |
+| `hainsate.com` | No |
 | `haiq.com.au` | No |
 | `hairbow.lol` | No |
 | `hairlessape.org` | No |
@@ -19332,7 +19334,7 @@ Here's a list of public Fediverse services.
 | `hitime.space` | No |
 | `hitithere.cafe` | No |
 | `hitkahaloot.tk` | No |
-| `hitobito.club` | No |
+| `hitobito.club` | Yes |
 | `hitomi.dev` | Yes |
 | `hitomishinozaki.com` | No |
 | `hitoribocchi.org` | Yes |
@@ -52703,8 +52705,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,035 |
-| Normal | 37,620 |
+| Cloudflare | 15,036 |
+| Normal | 37,621 |
 
 
 </details>
