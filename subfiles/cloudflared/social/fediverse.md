@@ -14166,7 +14166,7 @@ Here's a list of public Fediverse services.
 | `fataxl.online` | No |
 | `fatelectron.net` | No |
 | `fathermaurer.com` | Yes |
-| `fatkin.me` | No |
+| `fatkin.me` | Yes |
 | `fatlads.lol` | No |
 | `fatpig.club` | No |
 | `fatpikachu.com` | No |
@@ -43273,6 +43273,7 @@ Here's a list of public Fediverse services.
 | `spruce.ink` | No |
 | `spruchfest.de` | No |
 | `sprunk.me` | Yes |
+| `spse.dev` | No |
 | `spswoodturners.org` | No |
 | `spt.social` | Yes |
 | `spudalicio.us` | Yes |
@@ -45995,6 +45996,7 @@ Here's a list of public Fediverse services.
 | `theonecurly.page` | Yes |
 | `theonetruedimwit.tech` | Yes |
 | `theonetrueginger.ninja` | No |
+| `theophany.world` | No |
 | `theopjones.blog` | Yes |
 | `theopjones.com` | Yes |
 | `theor.io` | Yes |
@@ -52717,8 +52719,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,043 |
-| Normal | 37,626 |
+| Cloudflare | 15,044 |
+| Normal | 37,627 |
 
 
 </details>
