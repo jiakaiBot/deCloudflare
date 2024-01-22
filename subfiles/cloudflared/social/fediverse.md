@@ -17549,7 +17549,7 @@ Here's a list of public Fediverse services.
 | `golangengine.de` | Yes |
 | `goldandblack.club` | No |
 | `goldandblack.xyz` | No |
-| `goldborneroad.dev` | No |
+| `goldborneroad.dev` | Yes |
 | `goldenhillsoftware.com` | No |
 | `goldenplastic.blog` | No |
 | `goldfamily.social` | No |
@@ -37189,6 +37189,7 @@ Here's a list of public Fediverse services.
 | `prysmatic.com` | Yes |
 | `pryst.de` | No |
 | `przej.me` | No |
+| `psec.dev` | Yes |
 | `pseek.fr` | Yes |
 | `pseudo-whiskey.bar` | No |
 | `pseudoramble.com` | No |
@@ -52714,8 +52715,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,039 |
-| Normal | 37,627 |
+| Cloudflare | 15,041 |
+| Normal | 37,626 |
 
 
 </details>
