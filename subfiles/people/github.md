@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [fsSize returns empty array on some devices](https://github.com/sebhildebrandt/systeminformation/issues/885)
 - [1337x enabled cloudflare and ad](https://github.com/joybiswas007/torrents-api/issues/1)
 - [upload client not working on cloudflare workers](https://github.com/web3-storage/w3up/issues/1273)
 - [Permission denied response on "initial" setup](https://github.com/kchristensen/udm-le/issues/87)
