@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,410 |
 | social | 4,774 |
 | net | 4,106 |
-| org | 2,754 |
+| org | 2,755 |
 | de | 2,627 |
 
 
@@ -51748,6 +51748,7 @@ Here's a list of public Fediverse services.
 | `yayforqueers.net` | No |
 | `yayi.me` | Yes |
 | `yayoi.ink` | No |
+| `yazae.eu.org` | No |
 | `yba.dev` | Yes |
 | `ybk28.net` | No |
 | `ycare.de` | No |
@@ -52720,7 +52721,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,044 |
-| Normal | 37,627 |
+| Normal | 37,628 |
 
 
 </details>
