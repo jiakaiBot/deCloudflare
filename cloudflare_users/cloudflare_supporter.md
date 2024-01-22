@@ -2297,6 +2297,7 @@ Do not create new issue or we will close it as duplicate.
 | [bulunahihi@X](https://twitter.com/bulunahihi/status/1594595964635185152) | advertise |
 | [bumrah888@X](https://twitter.com/bumrah888/status/1389055956856705024) | advertise |
 | [BundlesChinx@X](https://twitter.com/BundlesChinx/status/1607908988573855746) | advertise |
+| [BungoRuk@X](https://twitter.com/BungoRuk/status/1728387936172069300) | advertise |
 | [bunkercoin@X](https://twitter.com/bunkercoin/status/1482786162343395328) | advertise |
 | [BunlarSarawut@X](https://twitter.com/BunlarSarawut/status/1727772315016941612) | advertise |
 | [bunny01627359@X](https://twitter.com/bunny01627359/status/1390340286769897475) | advertise |
@@ -6463,6 +6464,7 @@ Do not create new issue or we will close it as duplicate.
 | [Josooo5@X](https://twitter.com/Josooo5/status/1702404818978087023) | advertise |
 | [josuamarcelc@X](https://twitter.com/josuamarcelc/status/1532977015942709248) | advertise |
 | [josuefuentesdev@X](https://twitter.com/josuefuentesdev/status/1570574734806634496) | advertise |
+| [jotjoyy@X](https://twitter.com/jotjoyy/status/1749485608068632630) | advertise |
 | [JoviHaah@X](https://twitter.com/JoviHaah/status/1684806958782803968) | advertise |
 | [JowVmk@X](https://twitter.com/JowVmk/status/1500962137484763142) | advertise |
 | [Joy46233968@X](https://twitter.com/Joy46233968/status/1656865833426231297) | advertise |
