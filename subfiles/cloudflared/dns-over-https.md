@@ -20,7 +20,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 360.cn | No |
 | 4-the.win | Yes |
 | 52306.org | Yes |
-| 58jdl.com | Yes |
 | 5ososea.com | Yes |
 | 888654.xyz | Yes |
 | 8888.google | No |
@@ -215,7 +214,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | moderateinfra.net | No |
 | modr.club | Yes |
 | molinero.dev | Yes |
-| momokko.moe | Yes |
 | mtsoln.com | Yes |
 | mullvad.net | No |
 | mydns.network | Yes |
@@ -284,7 +282,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | servebeer.com | Yes |
 | sev.monster | No |
 | shabi.icu | No |
-| shecan.ir | No |
 | shimmerl.top | Yes |
 | shoupperuser.com | Yes |
 | shutgaming.net | Yes |
@@ -359,8 +356,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 178 |
-| Normal | 162 |
+| Cloudflare | 176 |
+| Normal | 161 |
 
 
-### 52.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
