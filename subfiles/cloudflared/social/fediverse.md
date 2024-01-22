@@ -1339,6 +1339,7 @@ Here's a list of public Fediverse services.
 | `adyxax.org` | Yes |
 | `adzukimame.com` | Yes |
 | `aebok.com` | Yes |
+| `aedifex.dk` | No |
 | `aedileworks.com` | No |
 | `aedius.fr` | No |
 | `aegibson.me` | No |
@@ -5317,7 +5318,6 @@ Here's a list of public Fediverse services.
 | `blessedgeeks.org` | No |
 | `blessedgeeks.social` | No |
 | `blessedguy.net` | Yes |
-| `blether.org.uk` | No |
 | `blewsky.social` | Yes |
 | `bli.me` | No |
 | `blieb.net` | Yes |
@@ -6919,6 +6919,7 @@ Here's a list of public Fediverse services.
 | `caskey-demaret.se` | No |
 | `casoetto.net` | No |
 | `caspar.social` | No |
+| `caspari.saarland` | No |
 | `caspodon.club` | No |
 | `casraf.dev` | No |
 | `cass-dlcm.dev` | No |
@@ -7472,7 +7473,7 @@ Here's a list of public Fediverse services.
 | `chek.social` | Yes |
 | `chelmi.info` | No |
 | `chelseafc.social` | No |
-| `chelsealaurel.com` | Yes |
+| `chelsealaurel.com` | No |
 | `chemnitz.network` | No |
 | `chemnitz.rocks` | No |
 | `chemnitz.social` | No |
@@ -27559,6 +27560,7 @@ Here's a list of public Fediverse services.
 | `mastdc.com` | No |
 | `mastdn.ca` | Yes |
 | `mastdn.com` | No |
+| `mastdn.io` | No |
 | `mastdn.jp` | No |
 | `mastdn.net` | No |
 | `mastdn.social` | No |
@@ -52696,8 +52698,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,035 |
-| Normal | 37,613 |
+| Cloudflare | 15,034 |
+| Normal | 37,616 |
 
 
 </details>
