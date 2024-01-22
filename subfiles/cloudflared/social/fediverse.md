@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,410 |
 | social | 4,774 |
-| net | 4,105 |
+| net | 4,106 |
 | org | 2,754 |
 | de | 2,627 |
 
@@ -34484,6 +34484,7 @@ Here's a list of public Fediverse services.
 | `osna.social` | No |
 | `osouzai-fediverse.com` | No |
 | `osp.gay` | No |
+| `ospio.net` | Yes |
 | `osplin.monster` | No |
 | `osr.community` | No |
 | `osrc.pw` | No |
@@ -39704,7 +39705,7 @@ Here's a list of public Fediverse services.
 | `ruinous.social` | Yes |
 | `ruinouspowe.rs` | No |
 | `ruiter.social` | Yes |
-| `ruizlara.com` | No |
+| `ruizlara.com` | Yes |
 | `ruk.ca` | No |
 | `rukavina.family` | No |
 | `rukavina.net` | No |
@@ -48269,6 +48270,7 @@ Here's a list of public Fediverse services.
 | `umeahackerspace.se` | No |
 | `umearbo.net` | Yes |
 | `umedasp.co.jp` | Yes |
+| `umenoka.link` | No |
 | `umerez.eu` | No |
 | `umet.us` | No |
 | `umiamz.me` | Yes |
@@ -52715,7 +52717,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,041 |
+| Cloudflare | 15,043 |
 | Normal | 37,626 |
 
 
