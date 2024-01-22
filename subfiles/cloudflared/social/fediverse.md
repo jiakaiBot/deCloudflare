@@ -30881,7 +30881,7 @@ Here's a list of public Fediverse services.
 | `musee.social` | No |
 | `muses.gallery` | Yes |
 | `musetech.social` | Yes |
-| `museum.community` | No |
+| `museum.community` | Yes |
 | `museum.town` | No |
 | `museumsprojekte.de` | No |
 | `museus.gov.br` | No |
@@ -42551,7 +42551,7 @@ Here's a list of public Fediverse services.
 | `social.gs` | No |
 | `social.im` | No |
 | `social.lc` | Yes |
-| `social.lol` | No |
+| `social.lol` | Yes |
 | `social.mw` | No |
 | `social.net.ua` | No |
 | `social.oslo.no` | No |
@@ -49167,6 +49167,7 @@ Here's a list of public Fediverse services.
 | `vfd-owl.de` | No |
 | `vffsm.de` | No |
 | `vforge.social` | No |
+| `vfosnar.cz` | No |
 | `vfpmedia.com` | No |
 | `vfsh.dev` | Yes |
 | `vfsh.us` | No |
@@ -52702,8 +52703,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,033 |
-| Normal | 37,621 |
+| Cloudflare | 15,035 |
+| Normal | 37,620 |
 
 
 </details>
