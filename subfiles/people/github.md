@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Link check fails for sites with Cloudflare WAF](https://github.com/tcort/link-check/issues/72)
 - [doc: exposing ollama-webui-lite on the internet](https://github.com/ollama-webui/ollama-webui-lite/issues/14)
 - [Cloudflare issue when trying to connect to blog](https://github.com/abraithwaite/abraithwaite.github.io/issues/1)
 - [custom_binary_path does not seem to work](https://github.com/einschmidt/hassio-addons/issues/41)
