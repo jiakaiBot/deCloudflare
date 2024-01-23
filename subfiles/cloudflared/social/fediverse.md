@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,411 |
-| social | 4,774 |
-| net | 4,107 |
+| com | 8,414 |
+| social | 4,775 |
+| net | 4,108 |
 | org | 2,757 |
-| de | 2,627 |
+| de | 2,628 |
 
 
 - Mastodon, Pleroma, etc
@@ -1471,6 +1471,7 @@ Here's a list of public Fediverse services.
 | `agudesign.cz` | No |
 | `aguiarvieira.pt` | No |
 | `aguilera.soy` | No |
+| `agundy.com` | Yes |
 | `agut.cat` | Yes |
 | `agwa.name` | No |
 | `ahabitual.dev` | No |
@@ -3275,6 +3276,7 @@ Here's a list of public Fediverse services.
 | `asn.mobi` | No |
 | `asobi.world` | No |
 | `asobigbang.net` | No |
+| `asocia.xyz` | Yes |
 | `asocial.dk` | No |
 | `asocial.social` | No |
 | `asohh.eu` | No |
@@ -8450,6 +8452,7 @@ Here's a list of public Fediverse services.
 | `colordisco.com` | No |
 | `colorfur.com` | No |
 | `colorid.es` | Yes |
+| `colorweaver.net` | No |
 | `colovo.com` | No |
 | `colson.re` | No |
 | `colter.social` | No |
@@ -10646,6 +10649,7 @@ Here's a list of public Fediverse services.
 | `deltanauten.de` | No |
 | `delurk.com` | No |
 | `demanderjustice.social` | No |
+| `demariaaviation.com` | No |
 | `dembased.xyz` | No |
 | `dembowski.social` | No |
 | `demedes.social` | No |
@@ -16423,6 +16427,7 @@ Here's a list of public Fediverse services.
 | `g4dpz.me.uk` | No |
 | `g4v.dev` | Yes |
 | `g4wrd.in` | Yes |
+| `g5n.de` | No |
 | `g5r.eu` | No |
 | `g5t.de` | Yes |
 | `g97.top` | Yes |
@@ -27203,6 +27208,7 @@ Here's a list of public Fediverse services.
 | `managingengineers.net` | Yes |
 | `manakeep.social` | No |
 | `manalejandro.com` | No |
+| `manas.website` | No |
 | `manasas.dev` | Yes |
 | `manateeth.club` | No |
 | `mancave.de` | No |
@@ -33582,6 +33588,7 @@ Here's a list of public Fediverse services.
 | `oceanblue.social` | Yes |
 | `oceand.org` | Yes |
 | `oceanplayground.social` | No |
+| `oceansidenevada.com` | No |
 | `oceansocial.us` | No |
 | `oceansurf.org` | Yes |
 | `oceanvibe.nz` | No |
@@ -35170,6 +35177,7 @@ Here's a list of public Fediverse services.
 | `patch.cx` | No |
 | `patchouli.today` | Yes |
 | `patchwork.link` | No |
+| `pate.social` | Yes |
 | `patelish.org` | No |
 | `patesadon.com` | No |
 | `pateti.co` | No |
@@ -52730,8 +52738,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,041 |
-| Normal | 37,641 |
+| Cloudflare | 15,044 |
+| Normal | 37,646 |
 
 
 </details>
