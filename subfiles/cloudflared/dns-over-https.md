@@ -15,7 +15,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | --- | --- |
 | 00dani.me | No |
 | 198.games | No |
-| 257053.xyz | Yes |
 | 354688.xyz | Yes |
 | 360.cn | No |
 | 4-the.win | Yes |
@@ -162,7 +161,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | itxe.net | Yes |
 | jackyes.ovh | No |
 | jfchenier.ca | Yes |
-| jimtay.uk | Yes |
 | jstockley.com | Yes |
 | jundev.org | No |
 | justincounts.com | No |
@@ -267,7 +265,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rethinkdns.com | Yes |
 | rezhajul.io | No |
 | rferee.dev | Yes |
-| rhscz.eu | Yes |
 | rin.sh | Yes |
 | rsaikat.com | No |
 | russel053.com | Yes |
@@ -356,8 +353,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 176 |
+| Cloudflare | 173 |
 | Normal | 161 |
 
 
-### 52.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
