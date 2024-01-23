@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare R2 availability in APAC region](https://github.com/SecOpsNews/news/issues/23776)
 - [Update GeoIP Database not working](https://github.com/mailwatch/MailWatch/issues/1297)
 - [Cannot read properties of undefined (reading 'toLowerCase') on mousemove](https://github.com/getsentry/sentry-javascript/issues/10292)
 - [feature: add a /showcase url](https://github.com/tailcallhq/tailcall/issues/1012)
