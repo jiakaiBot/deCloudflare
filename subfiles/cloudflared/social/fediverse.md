@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,416 |
+| com | 8,418 |
 | social | 4,776 |
 | net | 4,108 |
 | org | 2,757 |
@@ -8627,6 +8627,7 @@ Here's a list of public Fediverse services.
 | `confabb.ing` | No |
 | `confederac.io` | No |
 | `conferences-gesticulees.net` | No |
+| `conffab.com` | Yes |
 | `confidential.exposed` | No |
 | `configure.ac` | No |
 | `confinement.me` | No |
@@ -32541,6 +32542,7 @@ Here's a list of public Fediverse services.
 | `nisso.dev` | No |
 | `nistkasten-dresden.de` | No |
 | `nisu.ly` | Yes |
+| `niszogen.com` | Yes |
 | `nitadori.jp` | Yes |
 | `nitadori.net` | Yes |
 | `nitalia.uno` | No |
@@ -52742,10 +52744,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,044 |
+| Cloudflare | 15,046 |
 | Normal | 37,650 |
 
 
 </details>
 
-### 28.5% of public Fediverse services are using Cloudflare.
+### 28.6% of public Fediverse services are using Cloudflare.
