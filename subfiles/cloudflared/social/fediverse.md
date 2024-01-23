@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,414 |
-| social | 4,775 |
+| com | 8,417 |
+| social | 4,776 |
 | net | 4,108 |
 | org | 2,757 |
-| de | 2,628 |
+| de | 2,629 |
 
 
 - Mastodon, Pleroma, etc
@@ -2058,6 +2058,7 @@ Here's a list of public Fediverse services.
 | `altnews.social` | No |
 | `altoetting.social` | No |
 | `alton.cloud` | No |
+| `altparty.social` | No |
 | `altrinformazione.net` | No |
 | `altsoshl.com` | No |
 | `alttube.fr` | No |
@@ -3601,6 +3602,7 @@ Here's a list of public Fediverse services.
 | `autism.zone` | No |
 | `autisme.social` | No |
 | `autismus-behandlungen.de` | No |
+| `autismus-rhein-neckar.de` | No |
 | `autisten.club` | No |
 | `autistic.blog` | No |
 | `autistic.id` | Yes |
@@ -7523,7 +7525,7 @@ Here's a list of public Fediverse services.
 | `chibatsu.net` | No |
 | `chicago.us.org` | No |
 | `chicagomastodon.net` | No |
-| `chicano.cloud` | No |
+| `chicano.cloud` | Yes |
 | `chicchan.me` | Yes |
 | `chiccou.net` | No |
 | `chickadee.cloud` | Yes |
@@ -17187,6 +17189,7 @@ Here's a list of public Fediverse services.
 | `ginju.de` | No |
 | `ginnannman.com` | Yes |
 | `ginny.chat` | No |
+| `ginnymooy.com` | No |
 | `ginpatu.moe` | Yes |
 | `giobu.cyou` | No |
 | `gioia.cloud` | No |
@@ -37891,6 +37894,7 @@ Here's a list of public Fediverse services.
 | `racer159.com` | No |
 | `racf.guru` | Yes |
 | `racheklos.com` | No |
+| `rachelemmanutrition.com` | No |
 | `rachelnorfolk.me` | No |
 | `racheltheparrot.tf` | No |
 | `rachsmith.com` | No |
@@ -48234,6 +48238,7 @@ Here's a list of public Fediverse services.
 | `uksocial.cloud` | No |
 | `uksocial.net` | No |
 | `ukva.li` | No |
+| `ukwhatn.com` | No |
 | `ul0829.net` | No |
 | `ulap.me` | No |
 | `ulb.ac.be` | No |
@@ -52646,6 +52651,7 @@ Here's a list of public Fediverse services.
 | `zu2.org` | No |
 | `zu26.net` | No |
 | `zucchini.guru` | No |
+| `zuck.dad` | Yes |
 | `zucker.li` | No |
 | `zuckergeist-welt.de` | No |
 | `zuckless.network` | No |
@@ -52738,8 +52744,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,044 |
-| Normal | 37,646 |
+| Cloudflare | 15,046 |
+| Normal | 37,650 |
 
 
 </details>
