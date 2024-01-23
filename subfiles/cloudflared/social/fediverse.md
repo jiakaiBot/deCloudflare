@@ -16211,6 +16211,7 @@ Here's a list of public Fediverse services.
 | `funnylookinhat.com` | Yes |
 | `funnymonkey.com` | No |
 | `funnyna.me` | No |
+| `funnyname.xyz` | Yes |
 | `funposters.club` | Yes |
 | `funs.vn` | Yes |
 | `fuo.fi` | Yes |
@@ -52744,7 +52745,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,046 |
+| Cloudflare | 15,047 |
 | Normal | 37,650 |
 
 
