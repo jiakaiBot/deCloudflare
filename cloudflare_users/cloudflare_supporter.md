@@ -776,6 +776,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlishernavoiI@X](https://twitter.com/AlishernavoiI/status/1614713358120263681) | advertise |
 | [AliTekayResmi@X](https://twitter.com/AliTekayResmi/status/1420368710490013700) | advertise |
 | [alivemp485459@X](https://twitter.com/alivemp485459/status/1729536629281325354) | advertise |
+| [ali_anjum07@X](https://twitter.com/ali_anjum07/status/1749874911601152123) | advertise |
 | [ali_dehdati@X](https://twitter.com/ali_dehdati/status/1642283108090142723) | advertise |
 | [Ali_Francee@X](https://twitter.com/Ali_Francee/status/1665022814879903746) | advertise |
 | [ali_haialy@X](https://twitter.com/ali_haialy/status/1691153071177445376) | advertise |
