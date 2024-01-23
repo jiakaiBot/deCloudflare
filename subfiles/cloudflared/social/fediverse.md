@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,410 |
+| com | 8,411 |
 | social | 4,774 |
 | net | 4,107 |
 | org | 2,757 |
@@ -43347,7 +43347,7 @@ Here's a list of public Fediverse services.
 | `sqweeb.net` | No |
 | `sqwkr.eu` | No |
 | `srb2.org` | Yes |
-| `srbstodon.rs` | Yes |
+| `srbstodon.rs` | No |
 | `srcbeat.com` | No |
 | `srcf.net` | No |
 | `srcfiles.zip` | Yes |
@@ -50330,6 +50330,7 @@ Here's a list of public Fediverse services.
 | `wetdry.world` | No |
 | `wetermater.com` | No |
 | `wetfish.space` | No |
+| `wethethinking.com` | No |
 | `wetofu.top` | Yes |
 | `wetoot.xyz` | No |
 | `wetshaving.social` | No |
@@ -52729,8 +52730,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,042 |
-| Normal | 37,639 |
+| Cloudflare | 15,041 |
+| Normal | 37,641 |
 
 
 </details>
