@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Update GeoIP Database not working](https://github.com/mailwatch/MailWatch/issues/1297)
 - [Cannot read properties of undefined (reading 'toLowerCase') on mousemove](https://github.com/getsentry/sentry-javascript/issues/10292)
 - [feature: add a /showcase url](https://github.com/tailcallhq/tailcall/issues/1012)
 - [Error fetching emails (maybe related to HTMLPurifier) please help](https://github.com/freescout-helpdesk/freescout/issues/3721)
