@@ -4938,6 +4938,7 @@ Here's a list of public Fediverse services.
 | `binarycounter.net` | No |
 | `binarydad.com` | No |
 | `binarydigit.cafe` | No |
+| `binarydigit.coffee` | No |
 | `binarydigit.social` | No |
 | `binaryfeline.com` | Yes |
 | `binaryfour.de` | No |
@@ -52729,7 +52730,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,042 |
-| Normal | 37,638 |
+| Normal | 37,639 |
 
 
 </details>
