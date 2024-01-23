@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,410 |
 | social | 4,774 |
 | net | 4,107 |
-| org | 2,756 |
+| org | 2,757 |
 | de | 2,627 |
 
 
@@ -4799,6 +4799,7 @@ Here's a list of public Fediverse services.
 | `bibinim.me` | Yes |
 | `bible.social` | Yes |
 | `biblenotes.co.uk` | Yes |
+| `biblestudypodcasts.org` | No |
 | `bibletalk.social` | No |
 | `biblewordpress.net` | No |
 | `biblewp.com` | No |
@@ -30066,6 +30067,7 @@ Here's a list of public Fediverse services.
 | `monkeyblog.de` | No |
 | `monkeydiesel.net` | No |
 | `monkeyhex.com` | No |
+| `monkeymatt.racing` | No |
 | `monkeyofhope.com` | No |
 | `monkeyorg.space` | No |
 | `monkeystew.net` | No |
@@ -41128,7 +41130,7 @@ Here's a list of public Fediverse services.
 | `seo-theory.com` | No |
 | `seo.chat` | Yes |
 | `seocommunity.social` | Yes |
-| `seommunity.com` | Yes |
+| `seommunity.com` | No |
 | `seos.fr` | No |
 | `seoul.earth` | Yes |
 | `sepbit.com` | Yes |
@@ -41371,6 +41373,7 @@ Here's a list of public Fediverse services.
 | `shark.community` | No |
 | `shark.moe` | No |
 | `sharkey.social` | No |
+| `sharkey.world` | No |
 | `sharking.com` | Yes |
 | `sharktale.xyz` | Yes |
 | `sharlayan.city` | Yes |
@@ -43702,6 +43705,7 @@ Here's a list of public Fediverse services.
 | `stevesnider.com` | No |
 | `stevestreza.com` | No |
 | `stevesworld.co` | No |
+| `stevex.online` | No |
 | `steviebobbins.com` | No |
 | `stevieness.uk` | No |
 | `stevijo.me` | Yes |
@@ -43998,7 +44002,7 @@ Here's a list of public Fediverse services.
 | `stuttgart.social` | No |
 | `stuvel.eu` | No |
 | `stux.nyc` | Yes |
-| `stux.tv` | Yes |
+| `stux.tv` | No |
 | `stuxie.dev` | Yes |
 | `stuxmedia.com` | No |
 | `stuxnet.ai` | Yes |
@@ -46536,6 +46540,7 @@ Here's a list of public Fediverse services.
 | `tinko.club` | No |
 | `tinnies.club` | Yes |
 | `tinokaltsas.com` | No |
+| `tinou.eu` | Yes |
 | `tinsley.video` | No |
 | `tiny-host.nl` | No |
 | `tiny.gripe` | No |
@@ -52723,8 +52728,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,043 |
-| Normal | 37,632 |
+| Cloudflare | 15,042 |
+| Normal | 37,638 |
 
 
 </details>
