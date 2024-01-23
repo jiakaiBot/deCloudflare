@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,417 |
+| com | 8,416 |
 | social | 4,776 |
 | net | 4,108 |
 | org | 2,757 |
@@ -14358,6 +14358,7 @@ Here's a list of public Fediverse services.
 | `fedi.live` | No |
 | `fedi.love` | No |
 | `fedi.lt` | No |
+| `fedi.markets` | No |
 | `fedi.me` | No |
 | `fedi.ml` | No |
 | `fedi.moe` | No |
@@ -35495,7 +35496,6 @@ Here's a list of public Fediverse services.
 | `peoplesleaders.net` | No |
 | `peoplesrevolution.xyz` | No |
 | `peoplever.se` | No |
-| `pepabo.com` | Yes |
 | `pepecyb.de` | No |
 | `pepecyb.hu` | No |
 | `pepega.club` | Yes |
@@ -51425,7 +51425,6 @@ Here's a list of public Fediverse services.
 | `xn--eckza.jp` | No |
 | `xn--eckza.net` | No |
 | `xn--eekf.net` | No |
-| `xn--eeks.xn--tckwe` | Yes |
 | `xn--einautisterzhlt-clb.de` | No |
 | `xn--erzhlzeitmaschiene-ntb.de` | No |
 | `xn--federao-2wa9a.social` | No |
@@ -51877,7 +51876,6 @@ Here's a list of public Fediverse services.
 | `ylvie.me` | Yes |
 | `ylvie.monster` | Yes |
 | `ylwsgn.cc` | Yes |
-| `ymcpa.jp` | No |
 | `ymkml.online` | No |
 | `ymmel.nl` | No |
 | `ymn.info` | No |
@@ -52744,10 +52742,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,046 |
+| Cloudflare | 15,044 |
 | Normal | 37,650 |
 
 
 </details>
 
-### 28.6% of public Fediverse services are using Cloudflare.
+### 28.5% of public Fediverse services are using Cloudflare.
