@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,407 |
 | social | 4,772 |
 | net | 4,105 |
-| org | 2,755 |
+| org | 2,756 |
 | de | 2,624 |
 
 
@@ -19587,7 +19587,7 @@ Here's a list of public Fediverse services.
 | `honnef.co` | No |
 | `honokanomori.com` | No |
 | `honq.me` | No |
-| `hoob.io` | No |
+| `hoob.io` | Yes |
 | `hoodlem.me` | No |
 | `hoodlem.social` | No |
 | `hoodojo.com` | No |
@@ -28764,6 +28764,7 @@ Here's a list of public Fediverse services.
 | `menhera.org` | No |
 | `menkissing.gay` | Yes |
 | `mensago.org` | No |
+| `mensgardening.club` | No |
 | `mensmaaktmooi.nl` | No |
 | `mensoif.cf` | No |
 | `mental.af` | No |
@@ -49583,6 +49584,7 @@ Here's a list of public Fediverse services.
 | `vostain.net` | No |
 | `voterintegrity.today` | No |
 | `votho.social` | No |
+| `votingaccessforall.org` | Yes |
 | `votreviedautiste.com` | No |
 | `vouaix.com` | No |
 | `vov.camp` | No |
@@ -52700,7 +52702,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,034 |
+| Cloudflare | 15,036 |
 | Normal | 37,618 |
 
 
