@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,418 |
 | social | 4,776 |
 | net | 4,108 |
-| org | 2,757 |
+| org | 2,758 |
 | de | 2,629 |
 
 
@@ -28788,6 +28788,7 @@ Here's a list of public Fediverse services.
 | `menhera.org` | No |
 | `menkissing.gay` | Yes |
 | `mensago.org` | No |
+| `mensgardening.club` | No |
 | `mensmaaktmooi.nl` | No |
 | `mensoif.cf` | No |
 | `mental.af` | No |
@@ -49626,6 +49627,7 @@ Here's a list of public Fediverse services.
 | `vostain.net` | No |
 | `voterintegrity.today` | No |
 | `votho.social` | No |
+| `votingaccessforall.org` | Yes |
 | `votreviedautiste.com` | No |
 | `vouaix.com` | No |
 | `vov.camp` | No |
@@ -52746,8 +52748,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,046 |
-| Normal | 37,652 |
+| Cloudflare | 15,047 |
+| Normal | 37,653 |
 
 
 </details>
