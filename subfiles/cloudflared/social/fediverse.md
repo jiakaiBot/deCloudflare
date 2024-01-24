@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,418 |
 | social | 4,776 |
 | net | 4,108 |
-| org | 2,758 |
+| org | 2,757 |
 | de | 2,629 |
 
 
@@ -53,6 +53,7 @@ Here's a list of public Fediverse services.
 | `01001010.net` | Yes |
 | `01001010.social` | No |
 | `01010011.xyz` | Yes |
+| `010206.xyz` | Yes |
 | `014450.xyz` | Yes |
 | `01bit.xyz` | Yes |
 | `01start.net` | No |
@@ -9415,6 +9416,7 @@ Here's a list of public Fediverse services.
 | `cujian.com` | No |
 | `cuken.net` | Yes |
 | `culair.nl` | No |
+| `cult.tn` | No |
 | `cult.town` | Yes |
 | `cultic.xyz` | No |
 | `cultiv.social` | Yes |
@@ -28788,7 +28790,6 @@ Here's a list of public Fediverse services.
 | `menhera.org` | No |
 | `menkissing.gay` | Yes |
 | `mensago.org` | No |
-| `mensgardening.club` | No |
 | `mensmaaktmooi.nl` | No |
 | `mensoif.cf` | No |
 | `mental.af` | No |
@@ -49627,7 +49628,6 @@ Here's a list of public Fediverse services.
 | `vostain.net` | No |
 | `voterintegrity.today` | No |
 | `votho.social` | No |
-| `votingaccessforall.org` | Yes |
 | `votreviedautiste.com` | No |
 | `vouaix.com` | No |
 | `vov.camp` | No |
