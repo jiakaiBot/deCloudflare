@@ -10121,6 +10121,7 @@ Here's a list of public Fediverse services.
 | `darnell.one` | No |
 | `darnell.ooo` | No |
 | `darnell.tv` | No |
+| `darnielle.me` | No |
 | `darosaweb.com.br` | No |
 | `darpsindustries.com` | No |
 | `darrenhester.com` | No |
@@ -28771,7 +28772,6 @@ Here's a list of public Fediverse services.
 | `menhera.org` | No |
 | `menkissing.gay` | Yes |
 | `mensago.org` | No |
-| `mensgardening.club` | No |
 | `mensmaaktmooi.nl` | No |
 | `mensoif.cf` | No |
 | `mental.af` | No |
