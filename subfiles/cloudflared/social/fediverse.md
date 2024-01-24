@@ -19874,7 +19874,7 @@ Here's a list of public Fediverse services.
 | `hucnet.ch` | No |
 | `huebner.tk` | No |
 | `hueck.social` | No |
-| `hueowo.me` | Yes |
+| `hueowo.me` | No |
 | `huequica.xyz` | Yes |
 | `huey.xyz` | Yes |
 | `huffiy.me` | No |
@@ -26631,6 +26631,7 @@ Here's a list of public Fediverse services.
 | `luoghicomuni.social` | No |
 | `luojola.fi` | No |
 | `luololita.com` | No |
+| `luoma.info` | No |
 | `luon.net` | No |
 | `lupinjacket.party` | No |
 | `lupino.uk` | No |
@@ -52745,8 +52746,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,047 |
-| Normal | 37,650 |
+| Cloudflare | 15,046 |
+| Normal | 37,652 |
 
 
 </details>
