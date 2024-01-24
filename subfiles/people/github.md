@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Pages with Functions yields "NeonDbError: Error connecting to database: Reflect.get called on non-object"](https://github.com/neondatabase/serverless/issues/58)
 - [req.raw.cf types broken in 3.12.4](https://github.com/honojs/hono/issues/2078)
 - [Cannot send email via API](https://github.com/freescout-helpdesk/freescout/issues/3731)
 - [Error when attempting to setup ecommerce integrations](https://github.com/frappe/ecommerce_integrations/issues/304)
