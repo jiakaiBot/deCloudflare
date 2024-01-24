@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [req.raw.cf types broken in 3.12.4](https://github.com/honojs/hono/issues/2078)
 - [Cannot send email via API](https://github.com/freescout-helpdesk/freescout/issues/3731)
 - [Error when attempting to setup ecommerce integrations](https://github.com/frappe/ecommerce_integrations/issues/304)
 - [4.x: "/runtime doesn't exist or isn't writable by PHP. Please fix that." after DDEV-based 3->4 upgrade](https://github.com/craftcms/cms/issues/14177)
