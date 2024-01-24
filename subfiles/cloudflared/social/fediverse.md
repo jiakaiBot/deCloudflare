@@ -28772,7 +28772,6 @@ Here's a list of public Fediverse services.
 | `menhera.org` | No |
 | `menkissing.gay` | Yes |
 | `mensago.org` | No |
-| `mensgardening.club` | No |
 | `mensmaaktmooi.nl` | No |
 | `mensoif.cf` | No |
 | `mental.af` | No |
@@ -52716,7 +52715,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,046 |
-| Normal | 37,621 |
+| Normal | 37,620 |
 
 
 </details>
