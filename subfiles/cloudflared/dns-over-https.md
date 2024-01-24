@@ -191,7 +191,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lov.host | Yes |
 | lvolland.fr | Yes |
 | m-it.ro | No |
-| maige.fun | No |
 | marto.si | No |
 | masters-of-cloud.de | No |
 | mathewakhil.online | No |
@@ -203,7 +202,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | memorialus.eu.org | No |
 | mestdag.fr | No |
 | mikrotikrumahan.my.id | No |
-| milangeorge.com | Yes |
 | milkpie.one | Yes |
 | minilla.store | No |
 | mismat.ch | No |
@@ -249,7 +247,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | privado.ovh | Yes |
 | pukanuragan.ru | No |
 | puregeni.us | No |
-| pyio.top | Yes |
 | qquack.org | Yes |
 | quad9.net | Yes |
 | quic.lol | No |
@@ -338,7 +335,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wang.art | Yes |
 | wargan.io | No |
 | waringer-atg.de | No |
-| wehao.net | Yes |
 | wikimedia-dns.org | No |
 | woodbridge.club | No |
 | wriedts.de | No |
@@ -353,8 +349,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 173 |
-| Normal | 161 |
+| Cloudflare | 170 |
+| Normal | 160 |
 
 
-### 51.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
