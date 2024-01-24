@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,423 |
+| com | 8,424 |
 | social | 4,778 |
 | net | 4,108 |
 | org | 2,758 |
@@ -18957,6 +18957,7 @@ Here's a list of public Fediverse services.
 | `hellinger.wtf` | No |
 | `hellions.cloud` | Yes |
 | `hellmage.com` | No |
+| `hello-kiwi.com` | No |
 | `hello-project.org` | No |
 | `hellofriend.social` | No |
 | `hellohihi.net` | No |
@@ -52768,7 +52769,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,061 |
-| Normal | 37,658 |
+| Normal | 37,659 |
 
 
 </details>
