@@ -4263,6 +4263,7 @@ Do not create new issue or we will close it as duplicate.
 | [Funcky77200595@X](https://twitter.com/Funcky77200595/status/1392335460807155714) | advertise |
 | [funkybear29@X](https://twitter.com/funkybear29/status/1514595662989602821) | advertise |
 | [furain_mushi@X](https://twitter.com/furain_mushi/status/1539651349797019649) | advertise |
+| [furkaneulogy@X](https://twitter.com/furkaneulogy/status/1749987076123058577) | advertise |
 | [fury050605@X](https://twitter.com/fury050605/status/1710865316690211302) | advertise |
 | [fury67804656@X](https://twitter.com/fury67804656/status/1399012818767187969) | advertise |
 | [Furymdy@X](https://twitter.com/Furymdy/status/1380487672875999234) | advertise |
