@@ -11392,7 +11392,7 @@ Here's a list of public Fediverse services.
 | `distsn.org` | No |
 | `disunitedstates.com` | No |
 | `disunitedstates.org` | No |
-| `disvimat.org` | No |
+| `disvimat.org` | Yes |
 | `dit.li` | Yes |
 | `dit11a.de` | Yes |
 | `ditatompel.com` | Yes |
@@ -25807,6 +25807,7 @@ Here's a list of public Fediverse services.
 | `linksjugend-solid.de` | No |
 | `linkwaveconnect.com.br` | Yes |
 | `linkybook.com` | No |
+| `linluwi.la` | No |
 | `lino.cooking` | Yes |
 | `linode.com` | Yes |
 | `linodians.net` | No |
@@ -52766,7 +52767,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,060 |
+| Cloudflare | 15,061 |
 | Normal | 37,658 |
 
 
