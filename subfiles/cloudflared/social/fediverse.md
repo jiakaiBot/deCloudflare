@@ -4596,7 +4596,7 @@ Here's a list of public Fediverse services.
 | `benkard.de` | No |
 | `benkenawell.com` | No |
 | `benki.net` | Yes |
-| `benlikestoco.de` | No |
+| `benlikestoco.de` | Yes |
 | `benlopatin.com` | No |
 | `benmccormick.org` | Yes |
 | `benning.space` | Yes |
@@ -28772,6 +28772,7 @@ Here's a list of public Fediverse services.
 | `menhera.org` | No |
 | `menkissing.gay` | Yes |
 | `mensago.org` | No |
+| `mensgardening.club` | No |
 | `mensmaaktmooi.nl` | No |
 | `mensoif.cf` | No |
 | `mental.af` | No |
@@ -48395,7 +48396,7 @@ Here's a list of public Fediverse services.
 | `ungrind.io` | Yes |
 | `ungzeit.de` | No |
 | `unhandledexpression.com` | No |
-| `unhinged.social` | No |
+| `unhinged.social` | Yes |
 | `unholymemes.com` | No |
 | `uni-corn.me` | No |
 | `uni-greifswald.de` | No |
@@ -52714,8 +52715,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,044 |
-| Normal | 37,622 |
+| Cloudflare | 15,046 |
+| Normal | 37,621 |
 
 
 </details>
