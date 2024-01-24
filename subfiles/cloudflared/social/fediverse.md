@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,407 |
-| social | 4,772 |
+| com | 8,412 |
+| social | 4,774 |
 | net | 4,105 |
 | org | 2,756 |
 | de | 2,624 |
@@ -889,6 +889,7 @@ Here's a list of public Fediverse services.
 | `a1x.com` | No |
 | `a2.io` | Yes |
 | `a2mi.social` | No |
+| `a2x.pub` | Yes |
 | `a3.pm` | Yes |
 | `a3a-services.de` | No |
 | `a3d8.fr` | No |
@@ -6186,6 +6187,7 @@ Here's a list of public Fediverse services.
 | `brunch.zone` | No |
 | `brunetti.social` | No |
 | `bruniau.net` | No |
+| `brunic.com` | Yes |
 | `brunisholz.fr` | No |
 | `brunk.io` | No |
 | `bruno-tatu.com` | No |
@@ -7375,6 +7377,7 @@ Here's a list of public Fediverse services.
 | `charles-axel.com` | Yes |
 | `charlesbartlett.net` | Yes |
 | `charlesbeadle.tech` | No |
+| `charlesroper.com` | Yes |
 | `charlestown.social` | No |
 | `charli.info` | No |
 | `charli.io` | No |
@@ -14619,6 +14622,7 @@ Here's a list of public Fediverse services.
 | `feesta.social` | Yes |
 | `feets.tv` | No |
 | `feff.works` | No |
+| `fefu.social` | Yes |
 | `fehacking.xyz` | No |
 | `fehrsbook.com` | No |
 | `feilimatrisen.net` | No |
@@ -14757,6 +14761,7 @@ Here's a list of public Fediverse services.
 | `fetishmen.group` | No |
 | `fetishrealm.xyz` | No |
 | `fetishsocial.club` | No |
+| `fetistodon.com` | No |
 | `fetswing.org` | Yes |
 | `fetus.jp` | Yes |
 | `fetzer.me` | No |
@@ -15355,6 +15360,7 @@ Here's a list of public Fediverse services.
 | `fonsos.com` | Yes |
 | `fontube.fr` | No |
 | `foo.no` | No |
+| `foo.nz` | Yes |
 | `foo.sx` | Yes |
 | `foobar.social` | No |
 | `foodadventure.org.uk` | No |
@@ -22484,6 +22490,7 @@ Here's a list of public Fediverse services.
 | `juanandzeroes.com` | No |
 | `juandpinto.com` | No |
 | `juanlu.space` | No |
+| `juanpress.com` | Yes |
 | `juantrujillo.xyz` | No |
 | `jubaleth.wtf` | Yes |
 | `jubart.com.br` | Yes |
@@ -33263,6 +33270,7 @@ Here's a list of public Fediverse services.
 | `null.town` | No |
 | `nulla8.stream` | Yes |
 | `nullable.space` | Yes |
+| `nullafati.xyz` | Yes |
 | `nullagilab.com` | Yes |
 | `nullc.at` | Yes |
 | `nullcat.moe` | Yes |
@@ -33701,6 +33709,7 @@ Here's a list of public Fediverse services.
 | `offprint.net` | Yes |
 | `offrealms.space` | No |
 | `offroad.town` | Yes |
+| `offroadinsiders.com` | No |
 | `offsec.exchange` | No |
 | `offshore.ninja` | Yes |
 | `offsign.nl` | No |
@@ -34887,6 +34896,7 @@ Here's a list of public Fediverse services.
 | `paintacu.be` | No |
 | `painted.jp` | No |
 | `paintergoblin.art` | No |
+| `paiokay.com.br` | No |
 | `pair2jeux.tube` | No |
 | `paizi.dev` | Yes |
 | `paizuri.zip` | Yes |
@@ -40817,6 +40827,7 @@ Here's a list of public Fediverse services.
 | `seal.cafe` | Yes |
 | `sealeo.social` | No |
 | `sealion.club` | No |
+| `seals.social` | Yes |
 | `seam.rip` | No |
 | `seamast.club` | No |
 | `sean.party` | Yes |
@@ -45810,6 +45821,7 @@ Here's a list of public Fediverse services.
 | `thegamebreakers.net` | No |
 | `thegarage.world` | No |
 | `thegardencouple.com` | No |
+| `thegather.in` | No |
 | `thegathering.social` | No |
 | `thegay.space` | No |
 | `thegear.page` | No |
@@ -52702,8 +52714,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,036 |
-| Normal | 37,618 |
+| Cloudflare | 15,044 |
+| Normal | 37,622 |
 
 
 </details>
