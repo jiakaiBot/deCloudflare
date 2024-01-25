@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,424 |
+| com | 8,425 |
 | social | 4,779 |
 | net | 4,108 |
 | org | 2,758 |
@@ -31642,6 +31642,7 @@ Here's a list of public Fediverse services.
 | `nazone.info` | No |
 | `nazrin.moe` | No |
 | `nazuwa.de` | No |
+| `nb-tort.com` | No |
 | `nbaden.club` | No |
 | `nbailey.ca` | Yes |
 | `nberg.dk` | No |
@@ -52774,7 +52775,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,061 |
-| Normal | 37,664 |
+| Normal | 37,665 |
 
 
 </details>
