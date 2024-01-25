@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,425 |
 | social | 4,779 |
-| net | 4,108 |
+| net | 4,109 |
 | org | 2,758 |
 | de | 2,629 |
 
@@ -7783,6 +7783,7 @@ Here's a list of public Fediverse services.
 | `chromozone.dev` | Yes |
 | `chronal.net` | No |
 | `chronos-tachyon.net` | No |
+| `chronosaur.us` | No |
 | `chronostase.net` | No |
 | `chronovore.dev` | Yes |
 | `chronrevisited.online` | No |
@@ -16584,6 +16585,7 @@ Here's a list of public Fediverse services.
 | `gamesartliveperformance.com` | No |
 | `gamesathome.net` | No |
 | `gamesatwork.biz` | No |
+| `gamescodex.net` | No |
 | `gamesfera.com` | No |
 | `gamespirit.eu` | No |
 | `gamesreview.pl` | No |
@@ -52775,7 +52777,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,061 |
-| Normal | 37,665 |
+| Normal | 37,667 |
 
 
 </details>
