@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,426 |
+| com | 8,427 |
 | social | 4,779 |
 | net | 4,111 |
 | org | 2,758 |
@@ -35533,6 +35533,7 @@ Here's a list of public Fediverse services.
 | `peoplesleaders.net` | No |
 | `peoplesrevolution.xyz` | No |
 | `peoplever.se` | No |
+| `pepabo.com` | Yes |
 | `pepecyb.de` | No |
 | `pepecyb.hu` | No |
 | `pepega.club` | Yes |
@@ -52784,7 +52785,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,066 |
+| Cloudflare | 15,067 |
 | Normal | 37,670 |
 
 
