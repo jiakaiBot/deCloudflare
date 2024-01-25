@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,424 |
-| social | 4,778 |
+| social | 4,779 |
 | net | 4,108 |
 | org | 2,758 |
 | de | 2,629 |
@@ -27253,6 +27253,7 @@ Here's a list of public Fediverse services.
 | `mangadon.biz` | No |
 | `mangadon.info` | No |
 | `mangadon.net` | No |
+| `manganiello.social` | No |
 | `manganiello.tech` | No |
 | `mangayoh.fr` | No |
 | `mangin.com` | No |
@@ -39742,7 +39743,7 @@ Here's a list of public Fediverse services.
 | `ruhrpott.social` | No |
 | `ruhrspora.de` | No |
 | `ruhuna.jp` | No |
-| `ruin-the.world` | Yes |
+| `ruin-the.world` | No |
 | `ruin.io` | No |
 | `ruinafriends.click` | No |
 | `ruinous.social` | Yes |
@@ -52772,8 +52773,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,062 |
-| Normal | 37,662 |
+| Cloudflare | 15,061 |
+| Normal | 37,664 |
 
 
 </details>
