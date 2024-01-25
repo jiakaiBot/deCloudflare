@@ -37641,6 +37641,7 @@ Here's a list of public Fediverse services.
 | `quaoar.xyz` | Yes |
 | `quaqoostore.net` | No |
 | `quarante-douze.net` | No |
+| `quarium.xyz` | No |
 | `quarterbacks.win` | Yes |
 | `quarteredcircle.net` | No |
 | `quasar.casa` | No |
@@ -52772,7 +52773,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,062 |
-| Normal | 37,661 |
+| Normal | 37,662 |
 
 
 </details>
