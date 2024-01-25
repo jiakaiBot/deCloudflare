@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,426 |
 | social | 4,779 |
-| net | 4,109 |
+| net | 4,110 |
 | org | 2,758 |
 | de | 2,629 |
 
@@ -23584,6 +23584,7 @@ Here's a list of public Fediverse services.
 | `kinkycats.org` | No |
 | `kinkyelephant.com` | No |
 | `kinkytaboo.online` | No |
+| `kinkyvibe.ar` | Yes |
 | `kinl.gq` | No |
 | `kinlan.me` | No |
 | `kinlane.com` | Yes |
@@ -24352,7 +24353,7 @@ Here's a list of public Fediverse services.
 | `kuja.xyz` | No |
 | `kujeger.net` | No |
 | `kujiu.org` | No |
-| `kuk.is` | No |
+| `kuk.is` | Yes |
 | `kuketz.social` | No |
 | `kuki.cloud` | Yes |
 | `kuko.hamburg` | No |
@@ -32576,6 +32577,7 @@ Here's a list of public Fediverse services.
 | `nitecrew.biz` | No |
 | `nitecrew.rip` | No |
 | `nithinkrishna.in` | Yes |
+| `nithou.net` | Yes |
 | `nitiasa.com` | Yes |
 | `nitkiewicz.me` | Yes |
 | `nitro.horse` | No |
@@ -52780,8 +52782,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,061 |
-| Normal | 37,671 |
+| Cloudflare | 15,064 |
+| Normal | 37,670 |
 
 
 </details>
