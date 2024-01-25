@@ -4418,6 +4418,7 @@ Here's a list of public Fediverse services.
 | `beausimensen.com` | Yes |
 | `beautifullosers.org` | No |
 | `beautrait.com` | No |
+| `beaverdamcommunity.tv` | No |
 | `beaware.live` | No |
 | `bebamm.io` | Yes |
 | `bebear.net` | No |
@@ -28723,7 +28724,7 @@ Here's a list of public Fediverse services.
 | `meliora.family` | No |
 | `mell0w-5phere.net` | No |
 | `melle.social` | No |
-| `mellem.space` | No |
+| `mellem.space` | Yes |
 | `mellentin.eu` | No |
 | `mellified.men` | Yes |
 | `mellitopia.org` | No |
@@ -52783,7 +52784,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,065 |
+| Cloudflare | 15,066 |
 | Normal | 37,670 |
 
 
