@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,426 |
 | social | 4,779 |
-| net | 4,110 |
+| net | 4,111 |
 | org | 2,758 |
 | de | 2,629 |
 
@@ -6582,7 +6582,7 @@ Here's a list of public Fediverse services.
 | `c99.org` | Yes |
 | `c9users.io` | No |
 | `ca-os.com` | Yes |
-| `ca.gy` | Yes |
+| `ca.gy` | No |
 | `ca.social` | No |
 | `caa-ins.org` | Yes |
 | `caa.rip` | No |
@@ -21904,6 +21904,7 @@ Here's a list of public Fediverse services.
 | `jenniferking.me` | No |
 | `jennifilm.nz` | No |
 | `jennisspace.com` | Yes |
+| `jenoki.net` | No |
 | `jenot.info` | No |
 | `jenovarain.com` | No |
 | `jenrweb.com` | No |
@@ -31224,7 +31225,7 @@ Here's a list of public Fediverse services.
 | `myselfdot.work` | No |
 | `myselfhosted.net` | Yes |
 | `myserv.one` | Yes |
-| `myside-yourside.net` | No |
+| `myside-yourside.net` | Yes |
 | `mysignal.world` | No |
 | `mysim.online` | No |
 | `mysitemikoh.pl` | Yes |
@@ -32869,7 +32870,7 @@ Here's a list of public Fediverse services.
 | `non-abelian.space` | Yes |
 | `non-designer.studio` | Yes |
 | `non-euclidean.space` | No |
-| `nona.li` | No |
+| `nona.li` | Yes |
 | `nona.social` | No |
 | `nonalogue.space` | No |
 | `nonbinary.be` | No |
@@ -52782,7 +52783,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,064 |
+| Cloudflare | 15,065 |
 | Normal | 37,670 |
 
 
