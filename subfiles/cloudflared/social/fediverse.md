@@ -28539,6 +28539,7 @@ Here's a list of public Fediverse services.
 | `mdg.no` | Yes |
 | `mdhughes.tech` | No |
 | `mdmck10.xyz` | Yes |
+| `mdmlab.fr` | No |
 | `mdon.ee` | No |
 | `mdr-m.net` | No |
 | `mdr-services.com` | No |
@@ -49641,6 +49642,7 @@ Here's a list of public Fediverse services.
 | `vonschack.com` | No |
 | `vonsee.de` | No |
 | `vonste.in` | No |
+| `vool.ie` | No |
 | `voom.social` | Yes |
 | `voomer.co.ke` | No |
 | `voots.org` | Yes |
@@ -52786,7 +52788,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,066 |
-| Normal | 37,671 |
+| Normal | 37,673 |
 
 
 </details>
