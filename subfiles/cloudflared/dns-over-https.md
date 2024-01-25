@@ -207,7 +207,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mobyds.com | Yes |
 | moderateinfra.net | No |
 | modr.club | Yes |
-| molinero.dev | Yes |
 | mtsoln.com | Yes |
 | mullvad.net | No |
 | mydns.network | Yes |
@@ -347,8 +346,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 169 |
+| Cloudflare | 168 |
 | Normal | 159 |
 
 
-### 51.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
