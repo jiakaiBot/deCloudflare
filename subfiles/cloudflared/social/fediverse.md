@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,425 |
+| com | 8,426 |
 | social | 4,779 |
 | net | 4,109 |
 | org | 2,758 |
@@ -4513,7 +4513,7 @@ Here's a list of public Fediverse services.
 | `bejinariu.eu` | No |
 | `bekesi.org` | No |
 | `bekserver.xyz` | No |
-| `bel.social` | Yes |
+| `bel.social` | No |
 | `belajkorpoj.art` | No |
 | `belaska.me` | Yes |
 | `belclayfer.net` | No |
@@ -7144,6 +7144,7 @@ Here's a list of public Fediverse services.
 | `cdi.nu` | Yes |
 | `cdibluetooth.com` | Yes |
 | `cdmx.rocks` | No |
+| `cdonley.com` | Yes |
 | `cdownie.co.uk` | Yes |
 | `cdrom.tokyo` | No |
 | `cdroma.me` | Yes |
@@ -7294,7 +7295,7 @@ Here's a list of public Fediverse services.
 | `chalec.org` | No |
 | `chalk.moe` | Yes |
 | `challenger.city` | No |
-| `chamba.social` | No |
+| `chamba.social` | Yes |
 | `chambel.net` | No |
 | `chameth.com` | No |
 | `chamochi.club` | Yes |
@@ -21447,6 +21448,7 @@ Here's a list of public Fediverse services.
 | `iys.io` | Yes |
 | `izabelamisiak.com` | No |
 | `izanth.xyz` | No |
+| `izarkom.eus` | No |
 | `izaten.net` | Yes |
 | `izayoiwind.net` | No |
 | `izbad.network` | No |
@@ -23076,7 +23078,7 @@ Here's a list of public Fediverse services.
 | `kattsu.com` | No |
 | `katty.me` | No |
 | `katuemon.com` | No |
-| `katy.media` | Yes |
+| `katy.media` | No |
 | `katyucha.ovh` | No |
 | `katz.vision` | Yes |
 | `katze.network` | Yes |
@@ -29156,6 +29158,7 @@ Here's a list of public Fediverse services.
 | `microblog.social` | No |
 | `microconfluence.org` | No |
 | `microdata.co.uk` | No |
+| `microhive.dev` | No |
 | `microhive.net` | No |
 | `microhive.org` | No |
 | `microhive.social` | No |
@@ -47387,6 +47390,7 @@ Here's a list of public Fediverse services.
 | `trashvod.com` | Yes |
 | `trashwigs.wtf` | No |
 | `traumadance.com` | No |
+| `traumatised.monster` | No |
 | `travel-dealz.com` | Yes |
 | `travel-dealz.de` | Yes |
 | `travel-friends.chat` | No |
@@ -52777,7 +52781,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,061 |
-| Normal | 37,667 |
+| Normal | 37,671 |
 
 
 </details>
