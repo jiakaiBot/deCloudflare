@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,429 |
 | social | 4,781 |
-| net | 4,111 |
+| net | 4,112 |
 | org | 2,759 |
 | de | 2,629 |
 
@@ -27466,6 +27466,7 @@ Here's a list of public Fediverse services.
 | `maron.blue` | No |
 | `marosuke2600.work` | No |
 | `marquezkeenan.family` | Yes |
+| `marquiskurt.net` | Yes |
 | `marramgrass.org.uk` | No |
 | `marrok.top` | Yes |
 | `marroq.xyz` | No |
@@ -52805,7 +52806,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,075 |
+| Cloudflare | 15,076 |
 | Normal | 37,682 |
 
 
