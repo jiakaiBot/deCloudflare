@@ -18539,7 +18539,7 @@ Here's a list of public Fediverse services.
 | `hamont.social` | No |
 | `hamradio.social` | No |
 | `hamradio.space` | No |
-| `hamradio.tel` | No |
+| `hamradio.tel` | Yes |
 | `hamrick.xyz` | No |
 | `hamro.social` | Yes |
 | `hamro.world` | No |
@@ -45197,6 +45197,7 @@ Here's a list of public Fediverse services.
 | `tech.lgbt` | No |
 | `techalignment.com` | No |
 | `techandbeer.social` | No |
+| `techandmusic.space` | No |
 | `techbacon.social` | Yes |
 | `techbeat.in` | No |
 | `techbeat.news` | No |
@@ -52791,7 +52792,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,068 |
+| Cloudflare | 15,069 |
 | Normal | 37,675 |
 
 
