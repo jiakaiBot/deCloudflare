@@ -1722,6 +1722,7 @@ Do not create new issue or we will close it as duplicate.
 | [bak_bao@X](https://twitter.com/bak_bao/status/1381263917448454144) | advertise |
 | [Bal3rbyP@X](https://twitter.com/Bal3rbyP/status/1738648125386948711) | advertise |
 | [balbalaarka@X](https://twitter.com/balbalaarka/status/1398161624834445312) | advertise |
+| [BallanDanny@X](https://twitter.com/BallanDanny/status/1750897472669409518) | advertise |
 | [ballSP@X](https://twitter.com/ballSP/status/1554040235922636800) | advertise |
 | [Bally8865@X](https://twitter.com/Bally8865/status/1406071457776537606) | advertise |
 | [BalogZoltan19@X](https://twitter.com/BalogZoltan19/status/1637762282426957824) | advertise |
