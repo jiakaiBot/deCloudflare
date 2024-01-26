@@ -8,3 +8,4 @@
 - For over a decade [x1](foroveradecade.jpg), [x4](foroveradecade_x4.jpg)
 - Cloudflare is the Malware [x1](cfmalware.jpg), [x4](cfmalware_x4.jpg)
 - Correcting Cloudflare Website [x1](correcting_cloudflare_website.jpg), [x4](correcting_cloudflare_website_x4.jpg)
+- Umbrella at your side [x1](star_ombrelo.png)
