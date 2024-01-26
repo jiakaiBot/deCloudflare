@@ -16141,6 +16141,7 @@ Here's a list of public Fediverse services.
 | `fudanchii.net` | No |
 | `fudanshi.org` | No |
 | `fudge.org` | Yes |
+| `fudo.live` | No |
 | `fuerstentum.social` | No |
 | `fuerth.social` | No |
 | `fuet.club` | Yes |
@@ -17537,6 +17538,7 @@ Here's a list of public Fediverse services.
 | `gochisou.photo` | No |
 | `gochiuma.net` | No |
 | `gochiusa.net` | No |
+| `gock.ca` | No |
 | `gock.top` | Yes |
 | `gockandgum.party` | No |
 | `gocloud.fun` | No |
@@ -46756,6 +46758,7 @@ Here's a list of public Fediverse services.
 | `tobedefined.net` | No |
 | `tobias-fischer.eu` | No |
 | `tobias-k.de` | Yes |
+| `tobiasm.dev` | No |
 | `tobiastom.name` | No |
 | `tobiaswiese.com` | No |
 | `tobitti.net` | Yes |
@@ -51484,6 +51487,7 @@ Here's a list of public Fediverse services.
 | `xn--eckza.jp` | No |
 | `xn--eckza.net` | No |
 | `xn--eekf.net` | No |
+| `xn--eeks.xn--tckwe` | Yes |
 | `xn--einautisterzhlt-clb.de` | No |
 | `xn--erzhlzeitmaschiene-ntb.de` | No |
 | `xn--federao-2wa9a.social` | No |
@@ -52801,8 +52805,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,075 |
-| Normal | 37,678 |
+| Cloudflare | 15,076 |
+| Normal | 37,681 |
 
 
 </details>
