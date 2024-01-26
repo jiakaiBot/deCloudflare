@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,427 |
+| com | 8,430 |
 | social | 4,780 |
 | net | 4,111 |
 | org | 2,758 |
@@ -3655,6 +3655,7 @@ Here's a list of public Fediverse services.
 | `auxroro.com` | Yes |
 | `av8r.ca` | No |
 | `avali.co.uk` | Yes |
+| `avali.hu` | Yes |
 | `avali.ink` | No |
 | `avali.one` | No |
 | `avalos.me` | No |
@@ -15171,6 +15172,7 @@ Here's a list of public Fediverse services.
 | `flip-mainz.de` | No |
 | `flipboard.com` | Yes |
 | `flipboard.social` | No |
+| `flipboard.team` | No |
 | `flipboard.video` | No |
 | `flipdot.org` | No |
 | `flippinflips.org` | No |
@@ -22919,6 +22921,7 @@ Here's a list of public Fediverse services.
 | `kangaroo.to` | Yes |
 | `kangaroopunch.com` | No |
 | `kangoulya.org` | No |
+| `kangtaylor.com` | No |
 | `kanhuji.eu` | No |
 | `kani.social` | Yes |
 | `kanikani.ooo` | No |
@@ -37655,6 +37658,7 @@ Here's a list of public Fediverse services.
 | `quantumheap.net` | No |
 | `quantumindigo.org` | Yes |
 | `quantumobserver.eu` | No |
+| `quantumquotidian.com` | No |
 | `quaoar.xyz` | Yes |
 | `quaqoostore.net` | No |
 | `quarante-douze.net` | No |
@@ -38186,6 +38190,7 @@ Here's a list of public Fediverse services.
 | `randome.camp` | No |
 | `randomfoo.net` | No |
 | `randomfox.tk` | No |
+| `randomgeekage.com` | Yes |
 | `randomisland.ca` | No |
 | `randommumble.org` | No |
 | `randommusings.online` | No |
@@ -52792,8 +52797,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,069 |
-| Normal | 37,675 |
+| Cloudflare | 15,071 |
+| Normal | 37,678 |
 
 
 </details>
