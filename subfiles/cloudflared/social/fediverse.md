@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,430 |
+| com | 8,429 |
 | social | 4,781 |
-| net | 4,112 |
-| org | 2,758 |
+| net | 4,111 |
+| org | 2,759 |
 | de | 2,629 |
 
 
@@ -3179,6 +3179,7 @@ Here's a list of public Fediverse services.
 | `as59715.net` | No |
 | `as60927.net` | No |
 | `as62430.net` | Yes |
+| `as743.org` | No |
 | `as89.it` | No |
 | `as9136.social` | No |
 | `asa2.xyz` | No |
@@ -4729,7 +4730,6 @@ Here's a list of public Fediverse services.
 | `betamax65.de` | No |
 | `betchesbubble.com` | No |
 | `bethejustin.com` | No |
-| `betopia.net` | Yes |
 | `bettadelic.art` | No |
 | `better.boston` | Yes |
 | `betterconversations.online` | Yes |
@@ -9236,6 +9236,7 @@ Here's a list of public Fediverse services.
 | `crowleyclub.com` | No |
 | `crownel.monster` | Yes |
 | `crownet.eu` | No |
+| `crows.icu` | Yes |
 | `crows.tokyo` | No |
 | `crowsnest.social` | No |
 | `crpg.info` | Yes |
@@ -49402,7 +49403,6 @@ Here's a list of public Fediverse services.
 | `villemin.work` | No |
 | `villenave.net` | No |
 | `villisek.fr` | Yes |
-| `villstudio.com` | Yes |
 | `vilni.space` | No |
 | `vim.town` | Yes |
 | `vimeo.com` | Yes |
@@ -52805,8 +52805,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,076 |
-| Normal | 37,681 |
+| Cloudflare | 15,075 |
+| Normal | 37,682 |
 
 
 </details>
