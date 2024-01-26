@@ -108,7 +108,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dscloud.me | No |
 | dukun.de | No |
 | edgy-dns.com | No |
-| eliatofani.ovh | No |
 | emiliyan.com | Yes |
 | enjoymylife.net | Yes |
 | eranext.net | Yes |
@@ -280,7 +279,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | silen.org | Yes |
 | silentlybren.com | Yes |
 | simplylinux.ch | No |
-| siudzinski.net | No |
 | skrep.eu | No |
 | skrep.in | No |
 | skrzypiec.pl | No |
@@ -347,7 +345,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 168 |
-| Normal | 159 |
+| Normal | 157 |
 
 
-### 51.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
