@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Scrolling through equipment selector can cause ratelimit issues](https://github.com/weirdgloop/osrs-dps-calc/issues/137)
 - [v3.25.0 truncates domain name leading to Exception with cloudflare](https://github.com/adferrand/dnsrobocert/issues/1157)
 - [MX record for cloudflare gives error 1004](https://github.com/kubernetes-sigs/external-dns/issues/4207)
 - [Cloudflare Pages with Functions yields "NeonDbError: Error connecting to database: Reflect.get called on non-object"](https://github.com/neondatabase/serverless/issues/58)
