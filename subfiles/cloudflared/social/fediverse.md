@@ -16430,6 +16430,7 @@ Here's a list of public Fediverse services.
 | `g0s.de` | No |
 | `g0v.moe` | Yes |
 | `g0v.social` | No |
+| `g1.lu` | No |
 | `g13g.blog` | No |
 | `g1b.me` | Yes |
 | `g1zm0.de` | No |
@@ -26716,7 +26717,7 @@ Here's a list of public Fediverse services.
 | `lyceeconnecte.fr` | No |
 | `lyctor.space` | No |
 | `lydi.as` | Yes |
-| `lyingvoid.social` | No |
+| `lyingvoid.social` | Yes |
 | `lyk.pw` | Yes |
 | `lyker.jp` | No |
 | `lykledevries.nl` | No |
@@ -52790,7 +52791,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,067 |
+| Cloudflare | 15,068 |
 | Normal | 37,675 |
 
 
