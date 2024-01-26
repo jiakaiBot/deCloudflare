@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,430 |
-| social | 4,780 |
+| social | 4,781 |
 | net | 4,111 |
 | org | 2,758 |
 | de | 2,629 |
@@ -18646,6 +18646,7 @@ Here's a list of public Fediverse services.
 | `harmston.ch` | Yes |
 | `harnosoft.com` | Yes |
 | `haroo.ca` | No |
+| `harpia.red` | Yes |
 | `harpsica.net` | No |
 | `harpy.faith` | No |
 | `harpy.life` | No |
@@ -42281,6 +42282,7 @@ Here's a list of public Fediverse services.
 | `slime.global` | No |
 | `slime.land` | No |
 | `slimed.org` | Yes |
+| `slimegirl.social` | No |
 | `sling.monster` | No |
 | `slinkie.art` | No |
 | `slipcrewprod.fr` | Yes |
@@ -52798,8 +52800,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,073 |
-| Normal | 37,677 |
+| Cloudflare | 15,074 |
+| Normal | 37,678 |
 
 
 </details>
