@@ -28178,6 +28178,7 @@ Here's a list of public Fediverse services.
 | `masturbadon.com` | No |
 | `masturbated.one` | No |
 | `masturbatordon.info` | Yes |
+| `mastvie.eu` | No |
 | `mastypek.lol` | No |
 | `masudadon.com` | No |
 | `masuei.net` | No |
@@ -52788,7 +52789,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,066 |
-| Normal | 37,673 |
+| Normal | 37,674 |
 
 
 </details>
