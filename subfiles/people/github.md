@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Provider segfaults when secret was not found](https://github.com/hashicorp/terraform-provider-hcp/issues/737)
 - [Scrolling through equipment selector can cause ratelimit issues](https://github.com/weirdgloop/osrs-dps-calc/issues/137)
 - [v3.25.0 truncates domain name leading to Exception with cloudflare](https://github.com/adferrand/dnsrobocert/issues/1157)
 - [MX record for cloudflare gives error 1004](https://github.com/kubernetes-sigs/external-dns/issues/4207)
