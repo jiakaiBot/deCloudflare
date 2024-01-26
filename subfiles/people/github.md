@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Generating archive doesn't work](https://github.com/mastodon/mastodon/issues/28934)
 - [Provider segfaults when secret was not found](https://github.com/hashicorp/terraform-provider-hcp/issues/737)
 - [Scrolling through equipment selector can cause ratelimit issues](https://github.com/weirdgloop/osrs-dps-calc/issues/137)
 - [v3.25.0 truncates domain name leading to Exception with cloudflare](https://github.com/adferrand/dnsrobocert/issues/1157)
