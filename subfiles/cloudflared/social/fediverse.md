@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,430 |
 | social | 4,781 |
-| net | 4,111 |
+| net | 4,112 |
 | org | 2,758 |
 | de | 2,629 |
 
@@ -7001,6 +7001,7 @@ Here's a list of public Fediverse services.
 | `catenet.dev` | No |
 | `catenet.social` | No |
 | `caterpillarcheesecake.xyz` | Yes |
+| `catflowergames.net` | Yes |
 | `catgirl.army` | Yes |
 | `catgirl.biz` | Yes |
 | `catgirl.cafe` | No |
@@ -52800,7 +52801,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,074 |
+| Cloudflare | 15,075 |
 | Normal | 37,678 |
 
 
