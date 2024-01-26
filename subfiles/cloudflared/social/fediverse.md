@@ -3360,7 +3360,7 @@ Here's a list of public Fediverse services.
 | `astrian.social` | Yes |
 | `astrianzheng.cn` | Yes |
 | `astrid.tech` | Yes |
-| `astridbartels.de` | No |
+| `astridbartels.de` | Yes |
 | `astro.clinic` | Yes |
 | `astrocampania.it` | No |
 | `astrocats.social` | No |
@@ -4834,6 +4834,7 @@ Here's a list of public Fediverse services.
 | `bideoteka.eus` | No |
 | `bidule.app` | No |
 | `bidule.dev` | Yes |
+| `biebje.nl` | No |
 | `bien-etre.social` | Yes |
 | `bien.ee` | No |
 | `biendeo.com` | Yes |
@@ -26230,7 +26231,7 @@ Here's a list of public Fediverse services.
 | `londonleathermen.co.uk` | No |
 | `londonsocial.uk` | No |
 | `londontlife.ca` | No |
-| `londontopia.net` | No |
+| `londontopia.net` | Yes |
 | `lone-starr.net` | No |
 | `loneliness.academy` | No |
 | `lonelocust.com` | No |
@@ -52797,8 +52798,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,071 |
-| Normal | 37,678 |
+| Cloudflare | 15,073 |
+| Normal | 37,677 |
 
 
 </details>
