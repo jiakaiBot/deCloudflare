@@ -4,6 +4,10 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Database Maintenance](https://github.com/SecOpsNews/news/issues/23959)
+- [CloudFlare Database Maintenance](https://github.com/SecOpsNews/news/issues/23958)
+- [CloudFlare Database Maintenance](https://github.com/SecOpsNews/news/issues/23957)
+- [CloudFlare Database Maintenance](https://github.com/SecOpsNews/news/issues/23956)
 - [Generating archive doesn't work](https://github.com/mastodon/mastodon/issues/28934)
 - [Provider segfaults when secret was not found](https://github.com/hashicorp/terraform-provider-hcp/issues/737)
 - [Scrolling through equipment selector can cause ratelimit issues](https://github.com/weirdgloop/osrs-dps-calc/issues/137)
