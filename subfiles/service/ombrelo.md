@@ -14,6 +14,6 @@ They are also providing public API service for developers who wish to use better
 The previous logo was a [man sitting on the chair](../../image/stopcf.jpg). The current logo resembles an [umbrella](https://en.wiktionary.org/wiki/ombrelo). To explain this logo developers said that they want to provide an _umbrella_ to protect people safe against heavy _rain_ caused by the _cloud_.
 
 
-| &#128444; | &#128444; |
-| --- | --- |
-| ![](../../image/ssprotect.jpg) | ![](../../image/ismm_sample.jpg) |
+| &#128444; | &#128444; | &#128444; |
+| --- | --- | --- |
+| ![](../../image/ssprotect.jpg) | ![](../../image/ismm_sample.jpg) | ![](../../image/poster/star_ombrelo.png) |
