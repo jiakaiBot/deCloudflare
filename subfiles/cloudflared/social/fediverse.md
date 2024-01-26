@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,426 |
-| social | 4,779 |
+| com | 8,427 |
+| social | 4,780 |
 | net | 4,111 |
 | org | 2,758 |
 | de | 2,629 |
@@ -4556,7 +4556,7 @@ Here's a list of public Fediverse services.
 | `bemtevi.social` | Yes |
 | `ben-on-vms.com` | Yes |
 | `ben.ie` | No |
-| `ben.land` | No |
+| `ben.land` | Yes |
 | `ben.wtf` | Yes |
 | `benatar.ovh` | No |
 | `benaudalla.casa` | No |
@@ -12766,7 +12766,7 @@ Here's a list of public Fediverse services.
 | `einstieg-in-wp.de` | No |
 | `einsundzwei.ch` | No |
 | `einundausblicke.de` | No |
-| `einval.net` | No |
+| `einval.net` | Yes |
 | `einverne.info` | Yes |
 | `einweckglas.com` | No |
 | `einzbern.moe` | No |
@@ -25680,6 +25680,7 @@ Here's a list of public Fediverse services.
 | `lifeisforhacking.community` | No |
 | `lifeofpablo.com` | Yes |
 | `liferadio.at` | No |
+| `lifergeek.social` | No |
 | `liferuler2001.co.uk` | No |
 | `lifeweb.cc` | No |
 | `lifewithfuschia.com` | No |
@@ -29541,7 +29542,7 @@ Here's a list of public Fediverse services.
 | `mis.ski` | Yes |
 | `misaca.network` | No |
 | `misachan.net` | Yes |
-| `misadventuresinit.com` | Yes |
+| `misadventuresinit.com` | No |
 | `misaka.chat` | Yes |
 | `misaka.ru` | No |
 | `misaka.social` | Yes |
@@ -42388,7 +42389,7 @@ Here's a list of public Fediverse services.
 | `smither.org` | No |
 | `smithfam.info` | No |
 | `smithtodon.org` | No |
-| `smittenkittens.xyz` | Yes |
+| `smittenkittens.xyz` | No |
 | `smnn.ch` | No |
 | `smnz.de` | Yes |
 | `smokecircle.co` | Yes |
@@ -49387,6 +49388,7 @@ Here's a list of public Fediverse services.
 | `villemin.work` | No |
 | `villenave.net` | No |
 | `villisek.fr` | Yes |
+| `villstudio.com` | Yes |
 | `vilni.space` | No |
 | `vim.town` | Yes |
 | `vimeo.com` | Yes |
@@ -52788,8 +52790,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,066 |
-| Normal | 37,674 |
+| Cloudflare | 15,067 |
+| Normal | 37,675 |
 
 
 </details>
