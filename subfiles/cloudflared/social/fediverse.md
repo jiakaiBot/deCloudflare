@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,429 |
-| social | 4,781 |
+| com | 8,430 |
+| social | 4,782 |
 | net | 4,112 |
 | org | 2,759 |
 | de | 2,629 |
@@ -12383,7 +12383,7 @@ Here's a list of public Fediverse services.
 | `eaglefirenation.com` | No |
 | `eaku.net` | No |
 | `eallion.com` | Yes |
-| `ealmuina.xyz` | No |
+| `ealmuina.xyz` | Yes |
 | `eamonn.org` | No |
 | `eanske.eu` | No |
 | `ear.li` | No |
@@ -35240,6 +35240,7 @@ Here's a list of public Fediverse services.
 | `path.pictures` | No |
 | `pathconnect.de` | No |
 | `pathfinder.social` | Yes |
+| `pathfinderdreams.com` | No |
 | `pathofexile-discuss.com` | Yes |
 | `pati.to` | No |
 | `patmulcahy.com` | No |
@@ -38341,8 +38342,10 @@ Here's a list of public Fediverse services.
 | `ravoque.com.br` | Yes |
 | `rawa.io` | No |
 | `rawe.nl` | No |
+| `rawkode.academy` | Yes |
 | `rawkode.com` | Yes |
 | `rawkode.dev` | Yes |
+| `rawkode.social` | Yes |
 | `rawles.io` | No |
 | `rawles.net` | No |
 | `rawr-xd.club` | No |
@@ -52806,7 +52809,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,076 |
+| Cloudflare | 15,079 |
 | Normal | 37,682 |
 
 
