@@ -64,7 +64,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | chadeyron.fr | Yes |
 | charraud.eu | No |
 | chenu.ch | No |
-| chicagocomputers.com.ar | Yes |
 | chocolatezz.xyz | Yes |
 | chungocoai.name.vn | No |
 | cira.ca | Yes |
@@ -74,7 +73,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cloudflare-dns.com | Yes |
 | cloudseriousshit.com | Yes |
 | cloudsides.com | Yes |
-| coconut.id | Yes |
 | cubedns.com | No |
 | cuprum.ru | Yes |
 | cybergroove.net | Yes |
@@ -213,7 +211,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mywire.org | Yes |
 | narl.app | No |
 | ndo.dev | Yes |
-| netcat.one | No |
 | nexific.it | Yes |
 | nhtsky.com | Yes |
 | nic.cz | No |
@@ -324,7 +321,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | urology.wiki | No |
 | viatech.com.tw | Yes |
 | virga.pp.ua | Yes |
-| vlo.cc | Yes |
 | wahr.top | Yes |
 | waifu.cz | Yes |
 | wang.art | Yes |
@@ -344,8 +340,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 168 |
-| Normal | 157 |
+| Cloudflare | 165 |
+| Normal | 156 |
 
 
-### 51.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
