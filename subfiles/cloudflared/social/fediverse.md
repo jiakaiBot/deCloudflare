@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,431 |
-| social | 4,782 |
+| social | 4,783 |
 | net | 4,113 |
 | org | 2,761 |
 | de | 2,631 |
@@ -37592,6 +37592,7 @@ Here's a list of public Fediverse services.
 | `qcx.io` | Yes |
 | `qdnx.org` | No |
 | `qdon.space` | Yes |
+| `qdrei.info` | No |
 | `qeepitsafe.nl` | Yes |
 | `qemfd.net` | No |
 | `qfotografie.de` | Yes |
@@ -49582,6 +49583,7 @@ Here's a list of public Fediverse services.
 | `vocalconstructivists.com` | No |
 | `vocalfry.social` | No |
 | `vocalodon.net` | No |
+| `vocaloid.social` | Yes |
 | `vocalomakets.jp` | No |
 | `vocalounge.cafe` | No |
 | `vocals.gg` | No |
@@ -52822,8 +52824,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,079 |
-| Normal | 37,695 |
+| Cloudflare | 15,080 |
+| Normal | 37,696 |
 
 
 </details>
