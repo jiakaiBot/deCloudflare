@@ -25493,7 +25493,7 @@ Here's a list of public Fediverse services.
 | `lexingtonbitcoin.social` | No |
 | `lexiphanic.com` | No |
 | `lexpierce.social` | No |
-| `lexserv.xyz` | Yes |
+| `lexserv.xyz` | No |
 | `lexvox.org` | Yes |
 | `leyton.social` | No |
 | `lf.je` | Yes |
@@ -38908,7 +38908,7 @@ Here's a list of public Fediverse services.
 | `retrocomputing.at` | No |
 | `retrodev.social` | No |
 | `retrodigital.net` | No |
-| `retrodivergent.com` | Yes |
+| `retrodivergent.com` | No |
 | `retrodon.jp` | No |
 | `retrodon.net` | No |
 | `retroedge.tech` | No |
@@ -43412,6 +43412,7 @@ Here's a list of public Fediverse services.
 | `squiggly.club` | No |
 | `squirefamily.uk` | No |
 | `squirrel.photography` | No |
+| `squirrel.pictures` | No |
 | `squirrel.pub` | No |
 | `squirrelco.social` | No |
 | `squirrelmob.com` | No |
@@ -44175,6 +44176,7 @@ Here's a list of public Fediverse services.
 | `sudrien.net` | No |
 | `sueden.social` | Yes |
 | `suedi.club` | No |
+| `suenkel.name` | No |
 | `suffix.be` | No |
 | `suffix.cloud` | No |
 | `suffocating.org` | No |
@@ -52809,8 +52811,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,079 |
-| Normal | 37,682 |
+| Cloudflare | 15,077 |
+| Normal | 37,686 |
 
 
 </details>
