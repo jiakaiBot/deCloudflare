@@ -6449,6 +6449,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jordan51468849@X](https://twitter.com/Jordan51468849/status/1607577126001336320) | advertise |
 | [jordanbell2357@X](https://twitter.com/jordanbell2357/status/1745657411656917071) | advertise |
 | [jordanblaise39@X](https://twitter.com/jordanblaise39/status/1499532521276678146) | advertise |
+| [JoseCed54640961@X](https://twitter.com/JoseCed54640961/status/1751261824996012192) | advertise |
 | [Joselfmode@X](https://twitter.com/Joselfmode/status/1542250994637094913) | advertise |
 | [JosephDey2@X](https://twitter.com/JosephDey2/status/1401179924237520896) | advertise |
 | [josephillips@X](https://twitter.com/josephillips/status/1378443854110687236) | advertise |
@@ -9002,6 +9003,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinThuraSoe16@X](https://twitter.com/MinThuraSoe16/status/1732401559282360552) | advertise |
 | [MinTun38677756@X](https://twitter.com/MinTun38677756/status/1398261715318439937) | advertise |
 | [MinTun69880451@X](https://twitter.com/MinTun69880451/status/1389979636822466563) | advertise |
+| [MinTwe62748@X](https://twitter.com/MinTwe62748/status/1751264531077288270) | advertise |
 | [mintymintkii@X](https://twitter.com/mintymintkii/status/1670633823481262082) | advertise |
 | [MINVEST18@X](https://twitter.com/MINVEST18/status/1443423830459011078) | advertise |
 | [MinZinAung1@X](https://twitter.com/MinZinAung1/status/1391329935558471686) | advertise |
@@ -11519,6 +11521,7 @@ Do not create new issue or we will close it as duplicate.
 | [quang59720264@X](https://twitter.com/quang59720264/status/1381982756029169671) | advertise |
 | [Quang66385697@X](https://twitter.com/Quang66385697/status/1592898497711583232) | advertise |
 | [Quang91415318@X](https://twitter.com/Quang91415318/status/1552530500756983808) | advertise |
+| [Quang97445687@X](https://twitter.com/Quang97445687/status/1751278811445088710) | advertise |
 | [Quang234567889@X](https://twitter.com/Quang234567889/status/1683393894048993280) | advertise |
 | [quangan00528037@X](https://twitter.com/quangan00528037/status/1380604112140529667) | advertise |
 | [quangbk1@X](https://twitter.com/quangbk1/status/1538084581601341440) | advertise |
@@ -11914,6 +11917,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rikroy16171261@X](https://twitter.com/Rikroy16171261/status/1735291097104990595) | advertise |
 | [RimonIs52049086@X](https://twitter.com/RimonIs52049086/status/1480451386680639488) | advertise |
 | [Rin98111380@X](https://twitter.com/Rin98111380/status/1395429981451284485) | advertise |
+| [RinFutari@X](https://twitter.com/RinFutari/status/1751268609538818527) | advertise |
 | [rinluv0@X](https://twitter.com/rinluv0/status/1391460195566559233) | advertise |
 | [RINO72327156@X](https://twitter.com/RINO72327156/status/1395824730016555009) | advertise |
 | [RinSharz@X](https://twitter.com/RinSharz/status/1553295596680724480) | advertise |
@@ -15647,6 +15651,7 @@ Do not create new issue or we will close it as duplicate.
 | [yashhshd@X](https://twitter.com/yashhshd/status/1403777236600119299) | advertise |
 | [Yasin1Mat@X](https://twitter.com/Yasin1Mat/status/1705489636817240180) | advertise |
 | [yasinozvar@X](https://twitter.com/yasinozvar/status/1449656098777088000) | advertise |
+| [YasinSaleemi@X](https://twitter.com/YasinSaleemi/status/1751288045092098099) | advertise |
 | [YasinUmur@X](https://twitter.com/YasinUmur/status/1411232485376245760) | moral (advertise) |
 | [Yassen75@X](https://twitter.com/Yassen75/status/1528466535928451073) | advertise |
 | [YassenAljassem@X](https://twitter.com/YassenAljassem/status/1551676602236502016) | advertise |
