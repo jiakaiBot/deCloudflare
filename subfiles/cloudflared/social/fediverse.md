@@ -15206,6 +15206,7 @@ Here's a list of public Fediverse services.
 | `floof.org` | No |
 | `floof.rocks` | No |
 | `floof.social` | Yes |
+| `floofy.city` | No |
 | `floofy.club` | No |
 | `floofy.social` | No |
 | `floofy.tech` | Yes |
@@ -52814,7 +52815,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,075 |
-| Normal | 37,690 |
+| Normal | 37,691 |
 
 
 </details>
