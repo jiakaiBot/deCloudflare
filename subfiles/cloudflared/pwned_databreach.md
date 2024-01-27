@@ -267,7 +267,7 @@ Here's a list of breached sites.
 | GateHub | 1,408,078 | Yes |
 | Gawker | 1,247,574 | No |
 | GeekedIn | 1,073,164 | No |
-| Gemini | 5,274,214 | No |
+| Gemini | 5,274,214 | Yes |
 | Gemplex | 4,563,166 | No |
 | GenesisMarket (Genesis Market) | 8,000,000 | Yes |
 | GeniusU | 1,301,460 | Yes |
@@ -424,6 +424,7 @@ Here's a list of breached sites.
 | MyFHA | 972,629 | No |
 | MyFitnessPal | 143,606,147 | Yes |
 | MyHeritage | 91,991,358 | No |
+| MyPertamina | 5,970,416 | Yes |
 | MySpace | 359,420,698 | Yes |
 | MyVidster | 19,863 | Yes |
 | NVIDIA | 71,335 | Yes |
@@ -729,10 +730,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 412 | 4,461,527,015 |
-| Normal | 296 | 4,662,933,100 |
+| Cloudflare | 414 | 4,472,771,645 |
+| Normal | 295 | 4,657,658,886 |
 
 
 
-### 58.2% of breached sites (pwned sites) are using Cloudflare.
-### 48.9% of leaked accounts are on Cloudflare sites.
+### 58.4% of breached sites (pwned sites) are using Cloudflare.
+### 49% of leaked accounts are on Cloudflare sites.
