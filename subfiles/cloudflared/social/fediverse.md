@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,432 |
+| com | 8,433 |
 | social | 4,783 |
 | net | 4,114 |
 | org | 2,761 |
@@ -10348,6 +10348,7 @@ Here's a list of public Fediverse services.
 | `dbot.dev` | Yes |
 | `dbuild.xyz` | No |
 | `dbzer0.com` | No |
+| `dc09.ru` | Yes |
 | `dc2298.org` | No |
 | `dc6jgk.de` | No |
 | `dc7ia.radio` | No |
@@ -15509,7 +15510,7 @@ Here's a list of public Fediverse services.
 | `foss.video` | No |
 | `fossdle.org` | No |
 | `fossfarmers.company` | Yes |
-| `fossforward.com` | Yes |
+| `fossforward.com` | No |
 | `fossfreelancers.com` | No |
 | `fossgalaxy.com` | No |
 | `fossgang.org` | No |
@@ -21104,6 +21105,7 @@ Here's a list of public Fediverse services.
 | `ioxt.tk` | No |
 | `iozzo.me` | Yes |
 | `ip1.info` | Yes |
+| `ipdns.cloud` | Yes |
 | `ipertesti.it` | No |
 | `ipfire.org` | No |
 | `ipfixe.info` | No |
@@ -29819,6 +29821,7 @@ Here's a list of public Fediverse services.
 | `mktoho.social` | No |
 | `mku.social` | No |
 | `mkultra.me` | Yes |
+| `mkultra.monster` | No |
 | `mkwarman.com` | No |
 | `mkwgame.com` | Yes |
 | `ml45.net` | No |
@@ -33697,7 +33700,6 @@ Here's a list of public Fediverse services.
 | `odd.af` | No |
 | `odd.blog` | No |
 | `odd.town` | Yes |
-| `oddballs.fun` | Yes |
 | `oddballs.online` | No |
 | `oddballs.vip` | No |
 | `odditycentral.com` | Yes |
@@ -46084,6 +46086,7 @@ Here's a list of public Fediverse services.
 | `theocevaer.fr` | No |
 | `theocourt.com` | Yes |
 | `theodorejones.consulting` | Yes |
+| `theodorejsalvo.com` | No |
 | `theoerzetic.fr` | No |
 | `theokadas.com` | No |
 | `theoks.net` | Yes |
@@ -52830,7 +52833,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,083 |
-| Normal | 37,698 |
+| Normal | 37,701 |
 
 
 </details>
