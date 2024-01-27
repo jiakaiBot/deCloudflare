@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,433 |
+| com | 8,434 |
 | social | 4,783 |
 | net | 4,114 |
 | org | 2,761 |
@@ -22360,6 +22360,7 @@ Here's a list of public Fediverse services.
 | `joopleberry.garden` | No |
 | `joost.net` | Yes |
 | `joostagterhoek.nl` | No |
+| `joranwitte.com` | No |
 | `jorbo.dev` | Yes |
 | `jordanh.net` | Yes |
 | `jordanhall.co.uk` | No |
@@ -52833,7 +52834,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,083 |
-| Normal | 37,701 |
+| Normal | 37,702 |
 
 
 </details>
