@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Ingress doesn't work very well behind a reverse proxy. getting 404 and 400](https://github.com/home-assistant/core/issues/108982)
 - [Idea "broker-lite" to store only the missing files](https://github.com/bgpkit/bgpkit-broker/issues/39)
 - [CloudFlare Control Plane Test on Thursday, February 15th, 2024](https://github.com/SecOpsNews/news/issues/23962)
 - [CloudFlare Database Maintenance](https://github.com/SecOpsNews/news/issues/23959)
