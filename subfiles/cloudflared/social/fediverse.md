@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,430 |
+| com | 8,431 |
 | social | 4,782 |
-| net | 4,112 |
-| org | 2,760 |
-| de | 2,629 |
+| net | 4,113 |
+| org | 2,761 |
+| de | 2,631 |
 
 
 - Mastodon, Pleroma, etc
@@ -12560,6 +12560,7 @@ Here's a list of public Fediverse services.
 | `edel-ornstein.pro` | Yes |
 | `edelmann.bond` | Yes |
 | `eden.one` | No |
+| `edent.tel` | No |
 | `edequalsaweso.me` | No |
 | `edeverett.co.uk` | No |
 | `edfoc.org.uk` | No |
@@ -13256,6 +13257,7 @@ Here's a list of public Fediverse services.
 | `entropyin.space` | No |
 | `entropyservice.com` | No |
 | `entropysource.ru` | Yes |
+| `entwickler-gilde.de` | No |
 | `entwining.org` | No |
 | `enu8d.com` | Yes |
 | `enum.run` | No |
@@ -23517,6 +23519,7 @@ Here's a list of public Fediverse services.
 | `kigurumi.club` | Yes |
 | `kigurumi.fans` | No |
 | `kigurumi.fun` | No |
+| `kihonya.net` | No |
 | `kiichan.space` | No |
 | `kiichigodon.info` | No |
 | `kiiro.dev` | No |
@@ -35851,7 +35854,7 @@ Here's a list of public Fediverse services.
 | `phoxden.net` | No |
 | `phoxy.space` | Yes |
 | `php.org.es` | Yes |
-| `phparch.social` | No |
+| `phparch.social` | Yes |
 | `phpc.social` | No |
 | `phpman.red` | No |
 | `phrack.fyi` | No |
@@ -38623,6 +38626,7 @@ Here's a list of public Fediverse services.
 | `redstonelp2.com` | Yes |
 | `redstrate.com` | No |
 | `redstrings.club` | No |
+| `redterminal.org` | No |
 | `redterrorcollective.net` | No |
 | `redundantrocker.com` | No |
 | `redvoice.news` | No |
@@ -40742,6 +40746,7 @@ Here's a list of public Fediverse services.
 | `scifi-fantasy-writers.com` | No |
 | `scifi.fyi` | No |
 | `scifi.radio` | No |
+| `scifience.zone` | No |
 | `scimone.net` | Yes |
 | `scinan.science` | No |
 | `scinfolex.com` | No |
@@ -41861,6 +41866,7 @@ Here's a list of public Fediverse services.
 | `silly.land` | Yes |
 | `sillydragon.ca` | No |
 | `sillymo.de` | No |
+| `silosneeded.com` | No |
 | `silsha.me` | No |
 | `siltala.net` | No |
 | `silva.social` | No |
@@ -49464,6 +49470,7 @@ Here's a list of public Fediverse services.
 | `virtim.dev` | No |
 | `virton13.ovh` | No |
 | `virtual-assembly.org` | No |
+| `virtual-earth.de` | No |
 | `virtual-kaf.fun` | Yes |
 | `virtualapero.de` | No |
 | `virtualarchitectures.social` | No |
@@ -52815,8 +52822,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,078 |
-| Normal | 37,689 |
+| Cloudflare | 15,079 |
+| Normal | 37,695 |
 
 
 </details>
