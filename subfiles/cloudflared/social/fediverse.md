@@ -434,6 +434,7 @@ Here's a list of public Fediverse services.
 | `2nd.trade` | No |
 | `2ndamendment.social` | No |
 | `2nx.io` | Yes |
+| `2o4.ca` | No |
 | `2orb.de` | Yes |
 | `2ot.fun` | No |
 | `2p.gg` | Yes |
@@ -16134,7 +16135,7 @@ Here's a list of public Fediverse services.
 | `fuckmu.sk` | No |
 | `fuckonthefirst.date` | No |
 | `fucksocial.net` | No |
-| `fuckthe.cash` | Yes |
+| `fuckthe.cash` | No |
 | `fucktodon.tokyo` | No |
 | `fuckyou.plus` | Yes |
 | `fucs.io` | Yes |
@@ -52812,8 +52813,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,076 |
-| Normal | 37,688 |
+| Cloudflare | 15,075 |
+| Normal | 37,690 |
 
 
 </details>
