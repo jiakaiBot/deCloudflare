@@ -3024,7 +3024,7 @@ Here's a list of public Fediverse services.
 | `armandmgt.fr` | Yes |
 | `armendarizprecioso.ovh` | No |
 | `armingbears.com` | No |
-| `armlet.org` | No |
+| `armlet.org` | Yes |
 | `armoredmask.com` | Yes |
 | `armpc.de` | No |
 | `armpit.me` | Yes |
@@ -3412,7 +3412,7 @@ Here's a list of public Fediverse services.
 | `atarijunge.de` | No |
 | `atariorbit.org` | No |
 | `ataxya.net` | Yes |
-| `atay.dev` | No |
+| `atay.dev` | Yes |
 | `atbdguy.one` | Yes |
 | `atbigelow.com` | No |
 | `atchao.info` | No |
@@ -4846,6 +4846,7 @@ Here's a list of public Fediverse services.
 | `bierzilla.fr` | No |
 | `biesdorfer.com` | No |
 | `big.mt` | Yes |
+| `big.sb` | Yes |
 | `bigaston.me` | Yes |
 | `bigbadapple.com` | No |
 | `bigballchunkyverse.online` | No |
@@ -52814,8 +52815,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,075 |
-| Normal | 37,691 |
+| Cloudflare | 15,078 |
+| Normal | 37,689 |
 
 
 </details>
