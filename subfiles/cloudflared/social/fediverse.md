@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,431 |
 | social | 4,783 |
-| net | 4,113 |
+| net | 4,114 |
 | org | 2,761 |
 | de | 2,631 |
 
@@ -23610,6 +23610,7 @@ Here's a list of public Fediverse services.
 | `kinlan.me` | No |
 | `kinlane.com` | Yes |
 | `kinlproject.rocks` | No |
+| `kinluwi.net` | No |
 | `kinney.social` | No |
 | `kinney.tax` | No |
 | `kino.ma` | No |
@@ -52291,6 +52292,7 @@ Here's a list of public Fediverse services.
 | `z80.moe` | No |
 | `z80.tech` | No |
 | `z8s.de` | Yes |
+| `za.la` | Yes |
 | `zaaltek.net` | No |
 | `zaatar.org` | Yes |
 | `zabaglione.net` | No |
@@ -52826,8 +52828,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,082 |
-| Normal | 37,696 |
+| Cloudflare | 15,083 |
+| Normal | 37,697 |
 
 
 </details>
