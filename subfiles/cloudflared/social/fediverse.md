@@ -2738,6 +2738,7 @@ Here's a list of public Fediverse services.
 | `aperture.ink` | Yes |
 | `aperturelabs.space` | Yes |
 | `aperturescience.net` | Yes |
+| `apes.org.uk` | Yes |
 | `apetersburger.com` | No |
 | `apexnode.dev` | No |
 | `apfed.club` | No |
@@ -16787,7 +16788,7 @@ Here's a list of public Fediverse services.
 | `gc2.jp` | Yes |
 | `gcaillaut.fr` | No |
 | `gcfam.net` | No |
-| `gcfamily.fr` | No |
+| `gcfamily.fr` | Yes |
 | `gchq.icu` | No |
 | `gchq.online` | No |
 | `gclv.es` | Yes |
@@ -27762,6 +27763,7 @@ Here's a list of public Fediverse services.
 | `mastodon-blablalinux.be` | No |
 | `mastodon-choco.jp` | No |
 | `mastodon-dus.de` | No |
+| `mastodon-ero.xyz` | No |
 | `mastodon-fipa.fr` | No |
 | `mastodon-france.social` | No |
 | `mastodon-hss.ml` | No |
@@ -52824,7 +52826,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,080 |
+| Cloudflare | 15,082 |
 | Normal | 37,696 |
 
 
