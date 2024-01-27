@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,430 |
 | social | 4,782 |
 | net | 4,112 |
-| org | 2,759 |
+| org | 2,760 |
 | de | 2,629 |
 
 
@@ -20956,6 +20956,7 @@ Here's a list of public Fediverse services.
 | `interferencias.tech` | No |
 | `interfesse.net` | No |
 | `interflow.org` | Yes |
+| `interfriender.org` | Yes |
 | `interfunt.com` | No |
 | `intergalactic.computer` | No |
 | `intergalactic.social` | No |
@@ -32489,7 +32490,7 @@ Here's a list of public Fediverse services.
 | `nikkisocial.com` | No |
 | `nikkiwordsmith.com` | No |
 | `niklas-meinzer.de` | No |
-| `niklas.life` | Yes |
+| `niklas.life` | No |
 | `niklas.network` | No |
 | `niklas.social` | No |
 | `niklasbarning.de` | No |
@@ -50846,7 +50847,7 @@ Here's a list of public Fediverse services.
 | `wladyspb.pro` | No |
 | `wlcx.industries` | Yes |
 | `wltr.pw` | Yes |
-| `wlw.pw` | Yes |
+| `wlw.pw` | No |
 | `wm-paradise.net` | No |
 | `wmbn.net` | No |
 | `wmcf.de` | No |
@@ -52811,8 +52812,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,077 |
-| Normal | 37,686 |
+| Cloudflare | 15,076 |
+| Normal | 37,688 |
 
 
 </details>
