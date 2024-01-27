@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,434 |
+| com | 8,435 |
 | social | 4,783 |
 | net | 4,114 |
 | org | 2,761 |
@@ -22578,6 +22578,7 @@ Here's a list of public Fediverse services.
 | `jukkaniiranen.com` | Yes |
 | `julekraus.de` | Yes |
 | `juleserver.no` | Yes |
+| `juliaclement.com` | No |
 | `julialang.social` | No |
 | `julianjulian.moe` | No |
 | `juliannthestagelady.co.uk` | Yes |
@@ -52834,7 +52835,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,083 |
-| Normal | 37,702 |
+| Normal | 37,703 |
 
 
 </details>
