@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,437 |
-| social | 4,784 |
+| social | 4,783 |
 | net | 4,116 |
 | org | 2,761 |
 | de | 2,632 |
@@ -3464,6 +3464,7 @@ Here's a list of public Fediverse services.
 | `atoh.me` | No |
 | `atolla.xyz` | No |
 | `atollcoral.xyz` | No |
+| `atom42-games.ru` | No |
 | `atomaka.com` | No |
 | `atomatheoria.com` | No |
 | `atomic-zombie-squirrel.tech` | No |
@@ -4319,6 +4320,7 @@ Here's a list of public Fediverse services.
 | `bavatuesdays.com` | Yes |
 | `bavetta.com` | No |
 | `bawker.net` | No |
+| `bawnet.io` | Yes |
 | `bawue.social` | No |
 | `baxter.sh` | Yes |
 | `bay.ninja` | No |
@@ -32669,6 +32671,7 @@ Here's a list of public Fediverse services.
 | `njal.la` | No |
 | `njalla.social` | No |
 | `njanzen.de` | No |
+| `njcp.uk` | No |
 | `njion.org` | No |
 | `njms.ca` | No |
 | `njoy.social` | Yes |
@@ -39604,7 +39607,6 @@ Here's a list of public Fediverse services.
 | `rosehip.moe` | Yes |
 | `rosei.love` | No |
 | `rosekey.sbs` | Yes |
-| `rosekey.social` | Yes |
 | `rosematcha.party` | Yes |
 | `rosemont.cloud` | Yes |
 | `rosenberg-watt.com` | No |
@@ -48737,7 +48739,7 @@ Here's a list of public Fediverse services.
 | `upho.net` | No |
 | `upinblue.social` | No |
 | `uplink.fail` | No |
-| `uplink.si` | No |
+| `uplink.si` | Yes |
 | `upliving.se` | No |
 | `upload.chat` | No |
 | `uploadvideo.tv` | No |
@@ -52855,8 +52857,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,089 |
-| Normal | 37,718 |
+| Cloudflare | 15,090 |
+| Normal | 37,719 |
 
 
 </details>
