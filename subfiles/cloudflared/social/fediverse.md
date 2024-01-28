@@ -46,7 +46,7 @@ Here's a list of public Fediverse services.
 | `000000420.xyz` | Yes |
 | `000090000.xyz` | No |
 | `000webhostapp.com` | No |
-| `0010100.de` | Yes |
+| `0010100.de` | No |
 | `0011.lt` | No |
 | `00doit.com` | No |
 | `00x.club` | No |
@@ -25360,6 +25360,7 @@ Here's a list of public Fediverse services.
 | `leo.social` | No |
 | `leobrown.net` | No |
 | `leoji.codes` | Yes |
+| `leokochiya.co.uk` | Yes |
 | `leoleoasd.me` | Yes |
 | `leomeloxp.dev` | No |
 | `leon.fyi` | Yes |
@@ -52855,7 +52856,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,089 |
-| Normal | 37,717 |
+| Normal | 37,718 |
 
 
 </details>
