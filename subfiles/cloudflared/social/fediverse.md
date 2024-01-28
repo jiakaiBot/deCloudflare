@@ -7799,6 +7799,7 @@ Here's a list of public Fediverse services.
 | `chroske.com` | No |
 | `chrosy.net` | No |
 | `chrotonic.com` | No |
+| `chrt.dev` | No |
 | `chrxs.net` | No |
 | `chrysanthem.org` | No |
 | `chswx.com` | No |
@@ -32156,7 +32157,7 @@ Here's a list of public Fediverse services.
 | `netzkms.de` | No |
 | `netzkombin.at` | No |
 | `netzkombinat.su` | No |
-| `netzone.cc` | Yes |
+| `netzone.cc` | No |
 | `netzpfa.de` | No |
 | `netzsphaere.xyz` | No |
 | `netzspielplatz.de` | No |
@@ -52834,8 +52835,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,083 |
-| Normal | 37,703 |
+| Cloudflare | 15,082 |
+| Normal | 37,705 |
 
 
 </details>
