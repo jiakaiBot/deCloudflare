@@ -37275,6 +37275,7 @@ Here's a list of public Fediverse services.
 | `prt.blue` | No |
 | `prt.si` | No |
 | `prtl.cc` | No |
+| `prts.top` | Yes |
 | `prude.party` | No |
 | `prudent.studio` | Yes |
 | `prutsclub.nl` | No |
@@ -52848,7 +52849,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,086 |
+| Cloudflare | 15,087 |
 | Normal | 37,714 |
 
 
