@@ -22094,6 +22094,7 @@ Here's a list of public Fediverse services.
 | `jimwilliamson.info` | No |
 | `jimwillis.org` | No |
 | `jinc.io` | Yes |
+| `jing.lgbt` | Yes |
 | `jing8956.com` | Yes |
 | `jingle.email` | No |
 | `jingo.social` | No |
@@ -50114,6 +50115,7 @@ Here's a list of public Fediverse services.
 | `watchmeexplode.net` | No |
 | `watchpoint.social` | No |
 | `watdalos.de` | No |
+| `water.house` | Yes |
 | `waterauditca.org` | Yes |
 | `watercoolertrivia.com` | Yes |
 | `waterford.international` | No |
@@ -52846,7 +52848,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,084 |
+| Cloudflare | 15,086 |
 | Normal | 37,714 |
 
 
