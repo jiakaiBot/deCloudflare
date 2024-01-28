@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,438 |
-| social | 4,783 |
-| net | 4,114 |
+| social | 4,784 |
+| net | 4,115 |
 | org | 2,761 |
 | de | 2,632 |
 
@@ -37907,6 +37907,7 @@ Here's a list of public Fediverse services.
 | `r0r1.de` | No |
 | `r0ss.me` | Yes |
 | `r13w.social` | No |
+| `r14c.net` | No |
 | `r18.social` | No |
 | `r18don.xyz` | No |
 | `r1tsu.com` | Yes |
@@ -39600,6 +39601,7 @@ Here's a list of public Fediverse services.
 | `rosehip.moe` | Yes |
 | `rosei.love` | No |
 | `rosekey.sbs` | Yes |
+| `rosekey.social` | Yes |
 | `rosematcha.party` | Yes |
 | `rosemont.cloud` | Yes |
 | `rosenberg-watt.com` | No |
@@ -52849,8 +52851,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,087 |
-| Normal | 37,714 |
+| Cloudflare | 15,088 |
+| Normal | 37,715 |
 
 
 </details>
