@@ -21,7 +21,6 @@ Here's a list of public Matrix services.
 
 | Service | Cloudflared |
 | --- | --- |
-| 0wnz.at | No |
 | matrix.4d2.org | No |
 | riot.allmende.io | No |
 | alternanet.fr | No |
@@ -29,10 +28,8 @@ Here's a list of public Matrix services.
 | matrix.arcticfoxes.net | Yes |
 | matrix.ari.lt | No |
 | aria.im | No |
-| matrix.bachgau.social | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
-| matrix.breeze.town | No |
 | matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
@@ -73,10 +70,7 @@ Here's a list of public Matrix services.
 | junta.pl | Yes |
 | kitsunes.chat | Yes |
 | matrix.libreon.fr | No |
-| matrix.llamarific.social | No |
 | lugnsk.org | No |
-| mailstation.de | No |
-| matrix.im | No |
 | matrix.org | Yes |
 | matrix.quebec | No |
 | matrixapp.chat | No |
@@ -100,7 +94,6 @@ Here's a list of public Matrix services.
 | riotchat.de | Yes |
 | ru-matrix.org | No |
 | sans-nuage.fr | No |
-| matrix.sibnsk.net | No |
 | matrix.skye.vg | Yes |
 | socialnetwork24.com | No |
 | chat.soziale.cloud | No |
@@ -110,7 +103,6 @@ Here's a list of public Matrix services.
 | matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
 | the-apothecary.club | No |
-| matrix.transfem.org | Yes |
 | synapse.transgirl.cafe | Yes |
 | ungleich.matrix.ungleich.cloud | No |
 | unita.online | No |
@@ -128,8 +120,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 28 |
-| Normal | 73 |
+| Cloudflare | 27 |
+| Normal | 66 |
 
 
-### 27.7% of public Matrix services are using Cloudflare.
+### 29% of public Matrix services are using Cloudflare.
