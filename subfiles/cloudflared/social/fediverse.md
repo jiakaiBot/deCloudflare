@@ -5715,6 +5715,7 @@ Here's a list of public Fediverse services.
 | `books-lighthouse.com` | Yes |
 | `bookshelf.quest` | No |
 | `bookstodon.com` | No |
+| `bookstodon.es` | Yes |
 | `bookstodon.net` | No |
 | `booktoot.club` | No |
 | `booktoot.social` | No |
@@ -34419,7 +34420,7 @@ Here's a list of public Fediverse services.
 | `orchid-cottage.uk` | No |
 | `orchids.social` | No |
 | `orctavern.pub` | No |
-| `ord.social` | No |
+| `ord.social` | Yes |
 | `ordchaos.top` | Yes |
 | `ordeawing.fr` | No |
 | `order-of-gathering.de` | No |
@@ -51050,7 +51051,7 @@ Here's a list of public Fediverse services.
 | `worm.pink` | No |
 | `wormers.net` | No |
 | `wormhole.eu` | No |
-| `worst-friends.chat` | Yes |
+| `worst-friends.chat` | No |
 | `worst.computer` | No |
 | `wortfeld.de` | No |
 | `wortsache.ch` | No |
@@ -52838,7 +52839,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,080 |
+| Cloudflare | 15,081 |
 | Normal | 37,710 |
 
 
