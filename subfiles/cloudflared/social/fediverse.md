@@ -869,7 +869,7 @@ Here's a list of public Fediverse services.
 | `a-mastodon.it` | No |
 | `a-room-ones-own.me` | No |
 | `a-smol-cat.fr` | Yes |
-| `a-tak.com` | No |
+| `a-tak.com` | Yes |
 | `a-trappes-terre.fr` | No |
 | `a-zwenkau.de` | No |
 | `a.nom.pl` | No |
@@ -16750,6 +16750,7 @@ Here's a list of public Fediverse services.
 | `gaydadon.jp` | No |
 | `gayest.cloud` | Yes |
 | `gayest.dev` | Yes |
+| `gayfr.online` | No |
 | `gayfr.social` | No |
 | `gayfurry.space` | No |
 | `gaygary.com` | No |
@@ -36374,7 +36375,7 @@ Here's a list of public Fediverse services.
 | `pleroma.fr` | No |
 | `pleroma.fun` | No |
 | `pleroma.ga` | No |
-| `pleroma.id` | No |
+| `pleroma.id` | Yes |
 | `pleroma.in.th` | No |
 | `pleroma.io` | No |
 | `pleroma.live` | Yes |
@@ -52845,8 +52846,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,082 |
-| Normal | 37,715 |
+| Cloudflare | 15,084 |
+| Normal | 37,714 |
 
 
 </details>
