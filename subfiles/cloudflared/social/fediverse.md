@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,435 |
+| com | 8,438 |
 | social | 4,783 |
 | net | 4,114 |
 | org | 2,761 |
@@ -8194,6 +8194,7 @@ Here's a list of public Fediverse services.
 | `cmd.social` | No |
 | `cmdfoo.com` | No |
 | `cmdln.net` | No |
+| `cmdr-nova.online` | No |
 | `cmdr.social` | No |
 | `cme-hosting.de` | No |
 | `cmer.fr` | Yes |
@@ -23184,6 +23185,7 @@ Here's a list of public Fediverse services.
 | `kbin.sh` | No |
 | `kbin.social` | Yes |
 | `kbinapp.uk` | Yes |
+| `kbpmessick.com` | No |
 | `kbrice.blog` | No |
 | `kbt.social` | No |
 | `kc4kqe.org` | Yes |
@@ -26433,6 +26435,7 @@ Here's a list of public Fediverse services.
 | `lovelive.net` | Yes |
 | `lovelive.social` | No |
 | `lovelyfamilymm.com` | Yes |
+| `lovelysweetdreamers.cool` | No |
 | `lovemoe.net` | Yes |
 | `lovenz.top` | Yes |
 | `loveof.world` | No |
@@ -30913,6 +30916,7 @@ Here's a list of public Fediverse services.
 | `mun.nl` | No |
 | `munchkins.io` | No |
 | `mundane-semantics.net` | Yes |
+| `mundanenoir.com` | No |
 | `mundodesconocido.com` | No |
 | `mundomicro.ai` | Yes |
 | `mundosaparte.com` | No |
@@ -35527,6 +35531,7 @@ Here's a list of public Fediverse services.
 | `pencricket.com` | No |
 | `pendorwright.com` | No |
 | `pendragon.rocks` | No |
+| `penfold.cc` | Yes |
 | `penfount.ink` | No |
 | `penfount.social` | No |
 | `pengi-san.moe` | Yes |
@@ -43133,6 +43138,7 @@ Here's a list of public Fediverse services.
 | `spam.social` | No |
 | `spamalot.one` | Yes |
 | `spamourai.fr` | No |
+| `spangleyed.com` | No |
 | `spank.ws` | No |
 | `spanner.codes` | No |
 | `spanner.works` | No |
@@ -52839,8 +52845,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,081 |
-| Normal | 37,710 |
+| Cloudflare | 15,082 |
+| Normal | 37,715 |
 
 
 </details>
