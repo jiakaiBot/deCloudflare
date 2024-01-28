@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,783 |
 | net | 4,114 |
 | org | 2,761 |
-| de | 2,631 |
+| de | 2,632 |
 
 
 - Mastodon, Pleroma, etc
@@ -9376,6 +9376,7 @@ Here's a list of public Fediverse services.
 | `ctms.me` | No |
 | `ctor.tech` | Yes |
 | `ctrl-shift.net` | No |
+| `ctrl.gay` | No |
 | `ctrlaltdog.xyz` | No |
 | `ctrlaltelite.xyz` | Yes |
 | `ctrlist.org` | No |
@@ -26322,7 +26323,7 @@ Here's a list of public Fediverse services.
 | `lordoftheplex.com` | Yes |
 | `lore.monster` | Yes |
 | `lorelounge.it` | No |
-| `lorem.club` | Yes |
+| `lorem.club` | No |
 | `loren.pics` | No |
 | `lorenzana.engineer` | Yes |
 | `lorenzana.social` | No |
@@ -31395,6 +31396,7 @@ Here's a list of public Fediverse services.
 | `nachof.blog` | No |
 | `nachos.click` | No |
 | `nachrichten.social` | No |
+| `nachtaktivblog.de` | No |
 | `nachtgeschichten.org` | No |
 | `nachtsonnen.de` | No |
 | `nachttaenzer.de` | No |
@@ -39891,7 +39893,7 @@ Here's a list of public Fediverse services.
 | `rva.fyi` | No |
 | `rva.party` | No |
 | `rvagc.social` | No |
-| `rvalgbt.xyz` | Yes |
+| `rvalgbt.xyz` | No |
 | `rverse.club` | Yes |
 | `rvf6.com` | Yes |
 | `rvmathy.net` | No |
@@ -52835,8 +52837,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,082 |
-| Normal | 37,705 |
+| Cloudflare | 15,080 |
+| Normal | 37,709 |
 
 
 </details>
