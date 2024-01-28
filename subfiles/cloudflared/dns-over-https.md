@@ -40,7 +40,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | aquilenet.fr | No |
 | ares-taiwan.com | Yes |
 | artikel10.org | No |
-| atsilva.link | No |
 | avastdns.com | No |
 | avdkishore.dev | Yes |
 | azoris.ovh | No |
@@ -249,7 +248,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ral9005.org | Yes |
 | rasp.tv | Yes |
 | ray0512.win | Yes |
-| rebl.eu.org | Yes |
 | restena.lu | No |
 | retakecs.com | Yes |
 | rethinkdns.com | Yes |
@@ -340,8 +338,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 165 |
-| Normal | 156 |
+| Cloudflare | 164 |
+| Normal | 155 |
 
 
 ### 51.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
