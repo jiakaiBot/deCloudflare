@@ -11650,6 +11650,7 @@ Here's a list of public Fediverse services.
 | `dollarvigilante.tv` | Yes |
 | `dolpen.net` | Yes |
 | `dolphin-emu.org` | No |
+| `dolphin.rodeo` | No |
 | `dolphin.town` | No |
 | `dolphinbox.net` | No |
 | `dolphinhome.net` | Yes |
@@ -52838,7 +52839,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,080 |
-| Normal | 37,709 |
+| Normal | 37,710 |
 
 
 </details>
