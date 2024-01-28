@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [change xz to gz](https://github.com/ORCID/asdf-flarectl/issues/1)
 - [Further Troubleshooting information RE Multi level subdomains and Cloudflare tunnel](https://github.com/plan-player-analytics/Plan/issues/3439)
 - [Watchdog reach limit when internet is down](https://github.com/home-assistant/addons/issues/3439)
 - [Ingress doesn't work very well behind a reverse proxy. getting 404 and 400](https://github.com/home-assistant/core/issues/108982)
