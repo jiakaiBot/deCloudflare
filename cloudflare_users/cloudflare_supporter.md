@@ -7279,6 +7279,7 @@ Do not create new issue or we will close it as duplicate.
 | [KONGE87151365@X](https://twitter.com/KONGE87151365/status/1396747881843806211) | advertise |
 | [KongKeong2@X](https://twitter.com/KongKeong2/status/1621288970931015680) | advertise |
 | [KongSamkong@X](https://twitter.com/KongSamkong/status/1680268829702897665) | advertise |
+| [kontenlokal1@X](https://twitter.com/kontenlokal1/status/1751602330074755149) | advertise |
 | [KoNyi75713606@X](https://twitter.com/KoNyi75713606/status/1397753294240423936) | advertise |
 | [KoNyiMyo1@X](https://twitter.com/KoNyiMyo1/status/1399767904590045187) | advertise |
 | [KookKing11@X](https://twitter.com/KookKing11/status/1391425999661723649) | advertise |
