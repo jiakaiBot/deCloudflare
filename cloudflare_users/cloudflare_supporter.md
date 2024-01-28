@@ -1899,6 +1899,7 @@ Do not create new issue or we will close it as duplicate.
 | [bestboxerburner@X](https://twitter.com/bestboxerburner/status/1665873942802833409) | advertise |
 | [bestdevelopr@X](https://twitter.com/bestdevelopr/status/1650090048564473856) | advertise |
 | [BestForPets4@X](https://twitter.com/BestForPets4/status/1603741708197724161) | advertise |
+| [best_bagros@X](https://twitter.com/best_bagros/status/1751702621050621981) | advertise |
 | [best_rdp@X](https://twitter.com/best_rdp/status/1475830533221490690) | advertise |
 | [Better_API@X](https://twitter.com/Better_API/status/1627948774357192707) | advertise |
 | [beycwrrnna16238@X](https://twitter.com/beycwrrnna16238/status/1724779805915377810) | advertise |
