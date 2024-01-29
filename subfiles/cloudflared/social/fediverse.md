@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,441 |
+| com | 8,442 |
 | social | 4,785 |
 | net | 4,118 |
 | org | 2,762 |
@@ -44181,6 +44181,7 @@ Here's a list of public Fediverse services.
 | `submit.as` | No |
 | `subnivean.zone` | No |
 | `subquestspod.com` | No |
+| `subscribeto.me` | No |
 | `subsonicsoftware.com` | Yes |
 | `subspace.link` | No |
 | `subspace.social` | No |
@@ -51078,6 +51079,7 @@ Here's a list of public Fediverse services.
 | `worldhopper.social` | No |
 | `worldisafuck.com` | No |
 | `worldkey.io` | Yes |
+| `worldnl.com` | Yes |
 | `worldofhauru.xyz` | No |
 | `worldofvids.com` | No |
 | `worldofwonder.net` | Yes |
@@ -52881,8 +52883,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,107 |
-| Normal | 37,726 |
+| Cloudflare | 15,108 |
+| Normal | 37,727 |
 
 
 </details>
