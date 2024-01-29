@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Automation Custom Domain: Resource Configuration](https://github.com/webstudioso/studio/issues/99)
+- [Automation Custom Domain: Resource Creation](https://github.com/webstudioso/studio/issues/98)
 - [Cloudflare Prevents fetching RSS feeds?](https://github.com/yanus171/Handy-News-Reader/issues/935)
 - [Configuration could not be parsed](https://github.com/sveltia/sveltia-cms/issues/97)
 - [Failed to get account from Cloudflare](https://github.com/vvbbnn00/WARP-Clash-API/issues/17)
