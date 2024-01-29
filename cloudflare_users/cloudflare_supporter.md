@@ -3451,6 +3451,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dohuy49780349@X](https://twitter.com/Dohuy49780349/status/1376800199079694336) | advertise |
 | [doilannemdau009@X](https://twitter.com/doilannemdau009/status/1552980916225527808) | advertise |
 | [doimatphonui@X](https://twitter.com/doimatphonui/status/1387455212168749061) | advertise |
+| [doimoandrea@X](https://twitter.com/doimoandrea/status/1751920797394849973) | advertise |
 | [Dojnaz@X](https://twitter.com/Dojnaz/status/1431346378647773187) | advertise |
 | [dokali_skander@X](https://twitter.com/dokali_skander/status/1550205833904099329) | advertise |
 | [dokiestia_8824@X](https://twitter.com/dokiestia_8824/status/1579381040002785280) | advertise |
