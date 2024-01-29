@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,437 |
 | social | 4,785 |
 | net | 4,116 |
-| org | 2,761 |
+| org | 2,762 |
 | de | 2,635 |
 
 
@@ -6721,7 +6721,7 @@ Here's a list of public Fediverse services.
 | `cameko.org` | Yes |
 | `camera-don.com` | No |
 | `camerondcampbell.blog` | No |
-| `cameronheard.com` | No |
+| `cameronheard.com` | Yes |
 | `cameronmonagle.com` | Yes |
 | `cameronseid.com` | Yes |
 | `cametleon.me` | No |
@@ -11199,6 +11199,7 @@ Here's a list of public Fediverse services.
 | `digitaldarkness.com` | No |
 | `digitaldata.social` | No |
 | `digitaldemocracies.org` | Yes |
+| `digitaldragon.dev` | Yes |
 | `digitalesozialearbeit.de` | No |
 | `digitalesparadies.de` | No |
 | `digitalfall.net` | No |
@@ -17216,6 +17217,7 @@ Here's a list of public Fediverse services.
 | `gilespaterson.com` | No |
 | `gilkenson.social` | Yes |
 | `gill.am` | No |
+| `gillesdenizot.space` | Yes |
 | `gillesmertens.com` | No |
 | `gillich.me` | Yes |
 | `gillyb.net` | Yes |
@@ -28885,6 +28887,7 @@ Here's a list of public Fediverse services.
 | `meow.enterprises` | No |
 | `meow.fan` | No |
 | `meow.lgbt` | No |
+| `meow.nl.eu.org` | No |
 | `meow.social` | No |
 | `meow.ws` | No |
 | `meowblackcat.online` | No |
@@ -52863,7 +52866,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,093 |
+| Cloudflare | 15,096 |
 | Normal | 37,722 |
 
 
