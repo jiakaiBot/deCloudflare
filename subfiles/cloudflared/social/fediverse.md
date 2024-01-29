@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,441 |
+| com | 8,440 |
 | social | 4,785 |
 | net | 4,118 |
 | org | 2,762 |
@@ -16182,7 +16182,6 @@ Here's a list of public Fediverse services.
 | `fuko.dev` | Yes |
 | `fukt.lol` | Yes |
 | `fuku.gq` | No |
-| `fukuno.com` | No |
 | `fukuoka-mstdn.work` | No |
 | `ful.social` | No |
 | `fulano.social` | No |
@@ -29575,7 +29574,7 @@ Here's a list of public Fediverse services.
 | `miriamrobern.com` | No |
 | `mirko-schenk.de` | No |
 | `mirkwood.io` | No |
-| `miro-sv.net` | No |
+| `miro-sv.net` | Yes |
 | `mironside.com` | No |
 | `mirr0r.city` | No |
 | `mirror-kt.dev` | Yes |
@@ -38477,7 +38476,7 @@ Here's a list of public Fediverse services.
 | `rdfrn.social` | No |
 | `rdg.world` | No |
 | `rdgx.fr` | No |
-| `rdh27785.net` | No |
+| `rdh27785.net` | Yes |
 | `rdis.dev` | No |
 | `rdl.ph` | Yes |
 | `rdls.dev` | Yes |
@@ -45964,7 +45963,7 @@ Here's a list of public Fediverse services.
 | `thefuturesforge.social` | No |
 | `thefuturist.network` | No |
 | `thefword.club` | No |
-| `thegamebreakers.net` | No |
+| `thegamebreakers.net` | Yes |
 | `thegarage.world` | No |
 | `thegardencouple.com` | No |
 | `thegather.in` | No |
@@ -52880,8 +52879,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,104 |
-| Normal | 37,728 |
+| Cloudflare | 15,107 |
+| Normal | 37,724 |
 
 
 </details>
