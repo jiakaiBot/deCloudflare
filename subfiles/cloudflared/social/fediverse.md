@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,440 |
+| com | 8,441 |
 | social | 4,785 |
 | net | 4,118 |
 | org | 2,762 |
@@ -9581,7 +9581,7 @@ Here's a list of public Fediverse services.
 | `cwoehrl.de` | No |
 | `cwopa.lol` | No |
 | `cwow.ml` | Yes |
-| `cwren.net` | No |
+| `cwren.net` | Yes |
 | `cwts.nl` | Yes |
 | `cx.cx` | Yes |
 | `cyakigasi.net` | Yes |
@@ -16182,6 +16182,7 @@ Here's a list of public Fediverse services.
 | `fuko.dev` | Yes |
 | `fukt.lol` | Yes |
 | `fuku.gq` | No |
+| `fukuno.com` | No |
 | `fukuoka-mstdn.work` | No |
 | `ful.social` | No |
 | `fulano.social` | No |
@@ -40749,7 +40750,7 @@ Here's a list of public Fediverse services.
 | `schuppen.social` | No |
 | `schuppentier.org` | No |
 | `schuppentier.social` | No |
-| `schutt.social` | No |
+| `schutt.social` | Yes |
 | `schutte.me` | No |
 | `schwabenkneipe.de` | No |
 | `schwanksta.com` | Yes |
@@ -52879,8 +52880,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,102 |
-| Normal | 37,729 |
+| Cloudflare | 15,104 |
+| Normal | 37,728 |
 
 
 </details>
