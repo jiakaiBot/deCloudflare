@@ -76,6 +76,7 @@ Do not create new issue or we will close it as duplicate.
 | [1Undefeatable@X](https://twitter.com/1Undefeatable/status/1584515752413253633) | advertise |
 | [1xSlotvn@X](https://twitter.com/1xSlotvn/status/1419205739466280960) | advertise |
 | [1yearandhalf@X](https://twitter.com/1yearandhalf/status/1380825438105317390) | advertise |
+| [1_uiik@X](https://twitter.com/1_uiik/status/1751750607256399948) | advertise |
 | [2Art_YT@X](https://twitter.com/2Art_YT/status/1737058419473781161) | advertise |
 | [2b_an_angel@X](https://twitter.com/2b_an_angel/status/1598726056072155145) | advertise |
 | [2DOkAuz5FGdyO5u@X](https://twitter.com/2DOkAuz5FGdyO5u/status/1390639905290792967) | advertise |
@@ -2419,6 +2420,7 @@ Do not create new issue or we will close it as duplicate.
 | [carvalhorafael@X](https://twitter.com/carvalhorafael/status/1560351128084267009) | advertise |
 | [Car_campbell@X](https://twitter.com/Car_campbell/status/1539598860988948480) | advertise |
 | [casaindigo@X](https://twitter.com/casaindigo/status/1457706371248427018) | advertise |
+| [CashYeahYep@X](https://twitter.com/CashYeahYep/status/1751846101051908496) | advertise |
 | [casinoe7@X](https://twitter.com/casinoe7/status/1610447350413115392) | advertise |
 | [CassFrancisco5@X](https://twitter.com/CassFrancisco5/status/1401267140737392641) | advertise |
 | [cassidysm@X](https://twitter.com/cassidysm/status/1404071235500314630) | advertise |
@@ -2850,6 +2852,7 @@ Do not create new issue or we will close it as duplicate.
 | [crosiderr@X](https://twitter.com/crosiderr/status/1379494464545243136) | advertise |
 | [crossdressing00@X](https://twitter.com/crossdressing00/status/1720081189497901397) | advertise |
 | [CrowdlingoUK@X](https://twitter.com/CrowdlingoUK/status/1676586922381041664) | advertise |
+| [CrryaHan93532@X](https://twitter.com/CrryaHan93532/status/1751858485942469064) | advertise |
 | [CrusaderConsta1@X](https://twitter.com/CrusaderConsta1/status/1524146353596936192) | advertise |
 | [Crush82584793@X](https://twitter.com/Crush82584793/status/1396107509656481794) | advertise |
 | [crxckyt@X](https://twitter.com/crxckyt/status/1385437055799418882) | advertise |
@@ -4559,11 +4562,13 @@ Do not create new issue or we will close it as duplicate.
 | [GotMilk080702@X](https://twitter.com/GotMilk080702/status/1560579136825212928) | advertise |
 | [Gouzer6@X](https://twitter.com/Gouzer6/status/1620709961511882753) | advertise |
 | [governa@X](https://twitter.com/governa/status/1516708406522007558) | advertise |
+| [GoxyKralj@X](https://twitter.com/GoxyKralj/status/1751864293308465362) | advertise |
 | [GoyangiPop@X](https://twitter.com/GoyangiPop/status/1722103865674527137) | advertise |
 | [GoyunInfo@X](https://twitter.com/GoyunInfo/status/1486163916564705281) | advertise |
 | [go_to_happy_@X](https://twitter.com/go_to_happy_/status/1377840144179400704) | advertise |
 | [GP45590673@X](https://twitter.com/GP45590673/status/1391820766912466944) | advertise |
 | [GPaoloFontani@X](https://twitter.com/GPaoloFontani/status/1413095790126505986) | moral (advertise) |
+| [GPpro124@X](https://twitter.com/GPpro124/status/1751811526150025427) | advertise |
 | [Grace11509400@X](https://twitter.com/Grace11509400/status/1398512179226189826) | advertise |
 | [Grace78326388@X](https://twitter.com/Grace78326388/status/1559625321862799362) | advertise |
 | [Gracema90004826@X](https://twitter.com/Gracema90004826/status/1390090100466274306) | advertise |
@@ -11917,6 +11922,7 @@ Do not create new issue or we will close it as duplicate.
 | [RihanMalik70304@X](https://twitter.com/RihanMalik70304/status/1643201086763991040) | advertise |
 | [RijanRijanad123@X](https://twitter.com/RijanRijanad123/status/1738520517521662076) | advertise |
 | [Rikroy16171261@X](https://twitter.com/Rikroy16171261/status/1735291097104990595) | advertise |
+| [rilekstenang@X](https://twitter.com/rilekstenang/status/1751852854246252894) | advertise |
 | [RimonIs52049086@X](https://twitter.com/RimonIs52049086/status/1480451386680639488) | advertise |
 | [Rin98111380@X](https://twitter.com/Rin98111380/status/1395429981451284485) | advertise |
 | [RinFutari@X](https://twitter.com/RinFutari/status/1751268609538818527) | advertise |
@@ -12941,6 +12947,7 @@ Do not create new issue or we will close it as duplicate.
 | [SnigdhaBhardw16@X](https://twitter.com/SnigdhaBhardw16/status/1574016312996958209) | advertise |
 | [Sniper5Szn@X](https://twitter.com/Sniper5Szn/status/1391481893581844482) | advertise |
 | [Snitchblaster9@X](https://twitter.com/Snitchblaster9/status/1396532090141777921) | advertise |
+| [snna1158272@X](https://twitter.com/snna1158272/status/1751860607480205742) | advertise |
 | [SnNguyn070193@X](https://twitter.com/SnNguyn070193/status/1519124575921278976) | advertise |
 | [SnNguyn28343514@X](https://twitter.com/SnNguyn28343514/status/1700915679032115425) | advertise |
 | [SnNguyn58842118@X](https://twitter.com/SnNguyn58842118/status/1383442972981620744) | advertise |
