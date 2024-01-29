@@ -6193,6 +6193,7 @@ Here's a list of public Fediverse services.
 | `brucknerite.net` | No |
 | `bruder.space` | No |
 | `brudos.net` | Yes |
+| `bruegge.dev` | No |
 | `bruff.me` | No |
 | `brugopen.nl` | No |
 | `bruh.social` | Yes |
@@ -52884,7 +52885,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,108 |
-| Normal | 37,727 |
+| Normal | 37,728 |
 
 
 </details>
