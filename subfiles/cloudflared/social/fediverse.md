@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,437 |
-| social | 4,784 |
+| social | 4,785 |
 | net | 4,116 |
 | org | 2,761 |
 | de | 2,635 |
@@ -6008,7 +6008,7 @@ Here's a list of public Fediverse services.
 | `brdr.jp` | No |
 | `brdskggs.online` | No |
 | `brdsnest.net` | No |
-| `bread-z.one` | No |
+| `bread-z.one` | Yes |
 | `bread.social` | No |
 | `breadandroses.cloud` | No |
 | `breadc.at` | Yes |
@@ -50303,6 +50303,7 @@ Here's a list of public Fediverse services.
 | `weeb.su` | No |
 | `weebcouncil.online` | Yes |
 | `weebs.moe` | No |
+| `weebs.social` | No |
 | `weebsite.net` | No |
 | `weebvr.com` | No |
 | `weebvr.social` | No |
@@ -52862,7 +52863,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,092 |
+| Cloudflare | 15,093 |
 | Normal | 37,722 |
 
 
