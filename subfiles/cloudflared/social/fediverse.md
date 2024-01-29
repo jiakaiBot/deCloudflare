@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,437 |
+| com | 8,440 |
 | social | 4,785 |
-| net | 4,116 |
+| net | 4,118 |
 | org | 2,762 |
 | de | 2,636 |
 
@@ -4221,6 +4221,7 @@ Here's a list of public Fediverse services.
 | `barrow.social` | No |
 | `barrowof.gay` | No |
 | `barrucadu.co.uk` | No |
+| `barruf.eu` | No |
 | `barry-moore-ii.com` | No |
 | `barryfrost.com` | Yes |
 | `barrygrahamauthor.site` | No |
@@ -12718,6 +12719,7 @@ Here's a list of public Fediverse services.
 | `eglise-evangelique-estavayer.ch` | No |
 | `eglo.ga` | No |
 | `egotrip.me` | No |
+| `egovernment-podcast.com` | No |
 | `egroc.de` | No |
 | `egyptianhistorypodcast.com` | No |
 | `eh3.ca` | No |
@@ -14098,6 +14100,7 @@ Here's a list of public Fediverse services.
 | `famline.ru` | Yes |
 | `famtrebels.de` | No |
 | `fanaticus.social` | No |
+| `fanbards.net` | Yes |
 | `fanbois.tech` | No |
 | `fanboys.social` | No |
 | `fancat.ml` | Yes |
@@ -15871,6 +15874,7 @@ Here's a list of public Fediverse services.
 | `freitas.net` | No |
 | `freizeitparks.social` | No |
 | `freja.zone` | No |
+| `frejo.dk` | Yes |
 | `frell.co` | No |
 | `fremtenkt.no` | Yes |
 | `frenchindiepop.com` | No |
@@ -19127,6 +19131,7 @@ Here's a list of public Fediverse services.
 | `herr-jemineh.org` | No |
 | `herrbenedikt.de` | Yes |
 | `herrhaensel.de` | No |
+| `herrherrmann.net` | No |
 | `herrkochhatrecht.de` | No |
 | `herrliberg.online` | No |
 | `herrmontag.de` | No |
@@ -29900,6 +29905,7 @@ Here's a list of public Fediverse services.
 | `mndet.net` | No |
 | `mne.social` | No |
 | `mnementh.co.uk` | No |
+| `mnemi.moe` | Yes |
 | `mnemo.social` | No |
 | `mnethome.de` | No |
 | `mnetic.ch` | No |
@@ -32042,6 +32048,7 @@ Here's a list of public Fediverse services.
 | `nerdrooted.com` | No |
 | `nerds.party` | No |
 | `nerds.social` | No |
+| `nerdspace.xyz` | Yes |
 | `nerdstadt.de` | No |
 | `nerdsteria.com` | No |
 | `nerdszondergrenzen.nl` | Yes |
@@ -38323,6 +38330,7 @@ Here's a list of public Fediverse services.
 | `rascalking.com` | No |
 | `rascalking.net` | No |
 | `rascals.net` | Yes |
+| `rascul.xyz` | No |
 | `rasly.cf` | No |
 | `rasom.in` | Yes |
 | `raspberryip.com` | Yes |
@@ -41216,6 +41224,7 @@ Here's a list of public Fediverse services.
 | `senate.social` | No |
 | `senbil.net` | Yes |
 | `sencha.house` | No |
+| `sencha.name` | No |
 | `sendero.social` | No |
 | `sendne.ws` | No |
 | `sendtoot.co` | Yes |
@@ -49448,6 +49457,7 @@ Here's a list of public Fediverse services.
 | `villa-oita-pikapika.net` | No |
 | `villa-straylight.social` | Yes |
 | `villacraft.fr` | Yes |
+| `villadetezontepec.com` | Yes |
 | `village.icu` | No |
 | `village.one` | Yes |
 | `villains.live` | Yes |
@@ -52096,6 +52106,7 @@ Here's a list of public Fediverse services.
 | `youkai.town` | No |
 | `youkraut.de` | No |
 | `youlog.net` | No |
+| `youmewrite.com` | No |
 | `young-4.com` | Yes |
 | `younger.wtf` | Yes |
 | `youngmsc.com` | No |
@@ -52349,6 +52360,7 @@ Here's a list of public Fediverse services.
 | `zachleat.com` | No |
 | `zachmanson.com` | No |
 | `zachnickell.com` | No |
+| `zachwolfe.me` | No |
 | `zackallison.com` | No |
 | `zackboe.hm` | No |
 | `zackery.tv` | No |
@@ -52867,8 +52879,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,097 |
-| Normal | 37,722 |
+| Cloudflare | 15,102 |
+| Normal | 37,729 |
 
 
 </details>
