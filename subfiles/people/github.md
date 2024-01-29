@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to get account from Cloudflare](https://github.com/vvbbnn00/WARP-Clash-API/issues/17)
 - [Not single version after 2.9.19 works for me.](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3506)
 - [Unable to open Foxaholic chapters](https://github.com/LNReader/lnreader-sources/issues/737)
 - [Use behind Authentik](https://github.com/aymene69/stremio-jackett/issues/39)
