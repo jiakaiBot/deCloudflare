@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Isomorphic-dompurify not working with Remix](https://github.com/remix-run/remix/issues/8628)
 - [Automation Custom Domain: Resource Configuration](https://github.com/webstudioso/studio/issues/99)
 - [Automation Custom Domain: Resource Creation](https://github.com/webstudioso/studio/issues/98)
 - [Cloudflare Prevents fetching RSS feeds?](https://github.com/yanus171/Handy-News-Reader/issues/935)
