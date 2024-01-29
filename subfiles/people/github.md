@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to open Foxaholic chapters](https://github.com/LNReader/lnreader-sources/issues/737)
 - [Use behind Authentik](https://github.com/aymene69/stremio-jackett/issues/39)
 - [Tsuki Mangás 404](https://github.com/keiyoushi/extensions-source/issues/763)
 - [change xz to gz](https://github.com/ORCID/asdf-flarectl/issues/1)
