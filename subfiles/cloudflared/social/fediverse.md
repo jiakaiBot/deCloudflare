@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,437 |
-| social | 4,783 |
+| social | 4,784 |
 | net | 4,116 |
 | org | 2,761 |
-| de | 2,632 |
+| de | 2,635 |
 
 
 - Mastodon, Pleroma, etc
@@ -5359,6 +5359,7 @@ Here's a list of public Fediverse services.
 | `blisses.org` | No |
 | `blizzard.systems` | No |
 | `blkspace.net` | Yes |
+| `bln41.de` | No |
 | `bln41.net` | Yes |
 | `bln41.win` | Yes |
 | `bloade.com` | Yes |
@@ -10749,7 +10750,7 @@ Here's a list of public Fediverse services.
 | `deno.dev` | No |
 | `densco.net` | No |
 | `denseanalysis.org` | No |
-| `denshi.live` | Yes |
+| `denshi.live` | No |
 | `denshi.org` | No |
 | `denter-online.de` | No |
 | `denton.social` | No |
@@ -25465,6 +25466,7 @@ Here's a list of public Fediverse services.
 | `letthewookiee.win` | Yes |
 | `lettucegarden.net` | No |
 | `letz.dev` | Yes |
+| `letztes-gasthaus.de` | No |
 | `leuchtetgruen.de` | No |
 | `leuchtetgruen.me` | No |
 | `leuhta.dev` | No |
@@ -27507,6 +27509,7 @@ Here's a list of public Fediverse services.
 | `marstodon.com` | No |
 | `marsupialgurgle.com` | Yes |
 | `mart-e.be` | No |
+| `mart-w.de` | No |
 | `marte.city` | Yes |
 | `martelleur.online` | No |
 | `martelleur.shop` | No |
@@ -39607,6 +39610,7 @@ Here's a list of public Fediverse services.
 | `rosehip.moe` | Yes |
 | `rosei.love` | No |
 | `rosekey.sbs` | Yes |
+| `rosekey.social` | Yes |
 | `rosematcha.party` | Yes |
 | `rosemont.cloud` | Yes |
 | `rosenberg-watt.com` | No |
@@ -52858,7 +52862,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,090 |
-| Normal | 37,719 |
+| Normal | 37,723 |
 
 
 </details>
