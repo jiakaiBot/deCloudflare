@@ -21826,6 +21826,7 @@ Here's a list of public Fediverse services.
 | `jaystevens.me` | Yes |
 | `jayus.net` | No |
 | `jayvii.de` | No |
+| `jaywll.co` | Yes |
 | `jaz.co.uk` | No |
 | `jazz-clarinet.com` | No |
 | `jazz-sax.com` | No |
@@ -49150,6 +49151,7 @@ Here's a list of public Fediverse services.
 | `vaulox.dev` | No |
 | `vault105.ca` | Yes |
 | `vault322.net` | No |
+| `vault37.xyz` | Yes |
 | `vault84.de` | No |
 | `vaultboy.me` | Yes |
 | `vaultliberty.us` | No |
@@ -52884,7 +52886,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,108 |
+| Cloudflare | 15,110 |
 | Normal | 37,728 |
 
 
