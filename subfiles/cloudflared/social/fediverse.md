@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,785 |
 | net | 4,116 |
 | org | 2,762 |
-| de | 2,635 |
+| de | 2,636 |
 
 
 - Mastodon, Pleroma, etc
@@ -10734,7 +10734,7 @@ Here's a list of public Fediverse services.
 | `denden.world` | No |
 | `dendiz.xyz` | No |
 | `deniau.org` | No |
-| `denibol.com` | No |
+| `denibol.com` | Yes |
 | `denimu.ga` | No |
 | `deninet.com` | No |
 | `denizencity.com` | No |
@@ -50768,6 +50768,7 @@ Here's a list of public Fediverse services.
 | `wip.sh` | No |
 | `wiper.dev` | Yes |
 | `wipiano.net` | No |
+| `wir-in-umkirch.de` | No |
 | `wirdbaldfertig.de` | No |
 | `wire.garden` | No |
 | `wire.tf` | Yes |
@@ -52866,7 +52867,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,096 |
+| Cloudflare | 15,097 |
 | Normal | 37,722 |
 
 
