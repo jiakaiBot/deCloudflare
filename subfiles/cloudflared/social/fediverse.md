@@ -16754,6 +16754,7 @@ Here's a list of public Fediverse services.
 | `gaydadon.jp` | No |
 | `gayest.cloud` | Yes |
 | `gayest.dev` | Yes |
+| `gayest.pro` | Yes |
 | `gayfr.online` | No |
 | `gayfr.social` | No |
 | `gayfurry.space` | No |
@@ -19651,7 +19652,7 @@ Here's a list of public Fediverse services.
 | `hoodratshit.org` | Yes |
 | `hookii.space` | No |
 | `hoops.chat` | No |
-| `hooray.computer` | No |
+| `hooray.computer` | Yes |
 | `hoosier.social` | Yes |
 | `hoot-n-tea.art` | No |
 | `hoot.pw` | Yes |
@@ -52861,8 +52862,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,090 |
-| Normal | 37,723 |
+| Cloudflare | 15,092 |
+| Normal | 37,722 |
 
 
 </details>
