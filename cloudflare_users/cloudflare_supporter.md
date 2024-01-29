@@ -8091,6 +8091,7 @@ Do not create new issue or we will close it as duplicate.
 | [LTun59439273@X](https://twitter.com/LTun59439273/status/1630125133825474561) | advertise |
 | [LTunAnh04418449@X](https://twitter.com/LTunAnh04418449/status/1603474166321414145) | advertise |
 | [ltunanh08941347@X](https://twitter.com/ltunanh08941347/status/1557232940559499265) | advertise |
+| [lu3ky13@X](https://twitter.com/lu3ky13/status/1752042880938504237) | advertise |
 | [Lu13Tn@X](https://twitter.com/Lu13Tn/status/1377597764624805888) | advertise |
 | [lu25rs@X](https://twitter.com/lu25rs/status/1377601911893811209) | advertise |
 | [luai_m23@X](https://twitter.com/luai_m23/status/1743669705737433379) | advertise |
