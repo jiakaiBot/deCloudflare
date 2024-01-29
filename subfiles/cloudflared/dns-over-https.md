@@ -52,7 +52,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | bonis.de | No |
 | bonsirven.eu | No |
 | brahma.world | Yes |
-| broadband.ink | No |
 | bugz.fr | No |
 | c-dns.com | No |
 | callies-online.site | No |
@@ -279,7 +278,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | skrzypiec.pl | No |
 | slinkyman.net | Yes |
 | softcom.net | No |
-| songnguyen.name.vn | Yes |
 | spacedns.org | No |
 | sparshbajaj.me | Yes |
 | spectrum.com | Yes |
@@ -331,15 +329,14 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | xx3210766.live | Yes |
 | yandex.net | Yes |
 | ychen.gq | No |
-| zijji.com | Yes |
 
 
 ----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 164 |
-| Normal | 155 |
+| Cloudflare | 162 |
+| Normal | 154 |
 
 
-### 51.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
