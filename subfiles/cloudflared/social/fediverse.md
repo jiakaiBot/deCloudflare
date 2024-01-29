@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,442 |
 | social | 4,785 |
-| net | 4,118 |
+| net | 4,119 |
 | org | 2,762 |
-| de | 2,636 |
+| de | 2,637 |
 
 
 - Mastodon, Pleroma, etc
@@ -184,7 +184,7 @@ Here's a list of public Fediverse services.
 | `0xe.space` | Yes |
 | `0xee.io` | No |
 | `0xemmy.me` | No |
-| `0xf.fr` | No |
+| `0xf.fr` | Yes |
 | `0xf4240.bid` | No |
 | `0xfa.de` | No |
 | `0xfb.xyz` | No |
@@ -1470,7 +1470,7 @@ Here's a list of public Fediverse services.
 | `agostinelli.eu` | No |
 | `agouritin.fr` | No |
 | `agrico.la` | Yes |
-| `agroecologymap.org` | No |
+| `agroecologymap.org` | Yes |
 | `agsj.me` | No |
 | `agudesign.cz` | No |
 | `aguiarvieira.pt` | No |
@@ -3718,6 +3718,7 @@ Here's a list of public Fediverse services.
 | `awaodori.tokyo` | No |
 | `awau.social` | Yes |
 | `awawa.cat` | No |
+| `awawa.club` | No |
 | `awawa.gay` | No |
 | `awaworks.net` | No |
 | `awayfrompeople.com` | No |
@@ -23231,7 +23232,7 @@ Here's a list of public Fediverse services.
 | `kdvr.com` | No |
 | `kdy.ch` | Yes |
 | `ke1go360.net` | No |
-| `keane.ml` | Yes |
+| `keane.ml` | No |
 | `keasti.net` | Yes |
 | `keaton.cool` | Yes |
 | `keazilla.net` | No |
@@ -23727,6 +23728,7 @@ Here's a list of public Fediverse services.
 | `kith.kitchen` | No |
 | `kithop.ca` | No |
 | `kitproject.info` | No |
+| `kitredgrave.net` | No |
 | `kitsi.biz` | No |
 | `kitsub0.xyz` | Yes |
 | `kitsui.life` | Yes |
@@ -30278,6 +30280,7 @@ Here's a list of public Fediverse services.
 | `moonlitfiction.com` | Yes |
 | `moonmoth.de` | No |
 | `moonstars.org` | No |
+| `moonstation.de` | No |
 | `moontreeproject.org` | No |
 | `moonwolf.network` | Yes |
 | `mooo.com` | Yes |
@@ -52886,8 +52889,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,110 |
-| Normal | 37,728 |
+| Cloudflare | 15,111 |
+| Normal | 37,730 |
 
 
 </details>
