@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Configuration could not be parsed](https://github.com/sveltia/sveltia-cms/issues/97)
 - [Failed to get account from Cloudflare](https://github.com/vvbbnn00/WARP-Clash-API/issues/17)
 - [Not single version after 2.9.19 works for me.](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3506)
 - [Unable to open Foxaholic chapters](https://github.com/LNReader/lnreader-sources/issues/737)
