@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Use websites that are behind Cloudflare's CDN for fake websites](https://github.com/VZiChoushaDui/Libertea/issues/70)
 - [Caddy v2 Reverse Proxy Setup?](https://github.com/convos-chat/convos/issues/882)
 - [Cant add AnimeTorrents as an indexer](https://github.com/Prowlarr/Prowlarr/issues/2009)
 - [ChatGPT not working](https://github.com/givanz/Vvveb/issues/75)
