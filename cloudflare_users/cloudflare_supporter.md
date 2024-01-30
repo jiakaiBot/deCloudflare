@@ -3830,6 +3830,7 @@ Do not create new issue or we will close it as duplicate.
 | [elleo549@X](https://twitter.com/elleo549/status/1553222346504187909) | advertise |
 | [Elliot24649070@X](https://twitter.com/Elliot24649070/status/1390939917404966912) | advertise |
 | [ellonmast@X](https://twitter.com/ellonmast/status/1452884018328899589) | advertise |
+| [Elmu172822@X](https://twitter.com/Elmu172822/status/1747934446245093803) | advertise |
 | [elmy_lenert@X](https://twitter.com/elmy_lenert/status/1380440740644286465) | advertise |
 | [ElongatedMusko@X](https://twitter.com/ElongatedMusko/status/1594579143294951424) | advertise |
 | [elpapilo96@X](https://twitter.com/elpapilo96/status/1400973663575457794) | advertise |
@@ -10324,6 +10325,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nizi113@X](https://twitter.com/Nizi113/status/1656242016618188800) | advertise |
 | [njang_zau_mun@X](https://twitter.com/njang_zau_mun/status/1380180638804832256) | advertise |
 | [njoolenesia@X](https://twitter.com/njoolenesia/status/1503838855765856256) | advertise |
+| [njoo_ke@X](https://twitter.com/njoo_ke/status/1751216738929176748) | advertise |
 | [NJTNAS@X](https://twitter.com/NJTNAS/status/1702078419385655729) | advertise |
 | [Njumage01@X](https://twitter.com/Njumage01/status/1738103961293570151) | advertise |
 | [njwmy1624143@X](https://twitter.com/njwmy1624143/status/1739377966763659453) | advertise |
@@ -12322,6 +12324,7 @@ Do not create new issue or we will close it as duplicate.
 | [samaddehgan@X](https://twitter.com/samaddehgan/status/1580077473953292290) | advertise |
 | [SamadNftart@X](https://twitter.com/SamadNftart/status/1611922825832529920) | advertise |
 | [saman136611@X](https://twitter.com/saman136611/status/1577256038935695362) | advertise |
+| [samatorindo@X](https://twitter.com/samatorindo/status/1728080728699646250) | advertise |
 | [Sambhra31401620@X](https://twitter.com/Sambhra31401620/status/1496921994725511199) | advertise |
 | [Sambob_OK@X](https://twitter.com/Sambob_OK/status/1637732961817690115) | advertise |
 | [SameerDangi9@X](https://twitter.com/SameerDangi9/status/1377450627631095808) | advertise |
