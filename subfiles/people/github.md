@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cant add AnimeTorrents as an indexer](https://github.com/Prowlarr/Prowlarr/issues/2009)
 - [ChatGPT not working](https://github.com/givanz/Vvveb/issues/75)
 - [Isomorphic-dompurify not working with Remix](https://github.com/remix-run/remix/issues/8628)
 - [Automation Custom Domain: Resource Configuration](https://github.com/webstudioso/studio/issues/99)
