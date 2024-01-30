@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,447 |
+| com | 8,448 |
 | social | 4,786 |
 | net | 4,120 |
 | org | 2,766 |
@@ -2554,6 +2554,7 @@ Here's a list of public Fediverse services.
 | `another.cymru` | No |
 | `anotherbloody.com` | Yes |
 | `anotherdayu.com` | Yes |
+| `anotherfauxtographer.com` | Yes |
 | `anotherfoxguy.com` | No |
 | `anotherlooser.eu` | No |
 | `anothersuper.social` | Yes |
@@ -13696,6 +13697,7 @@ Here's a list of public Fediverse services.
 | `everlong.org` | No |
 | `eversole.co` | No |
 | `eversole.dev` | Yes |
+| `everton.rocks` | Yes |
 | `evertools.io` | Yes |
 | `evertron.tv` | No |
 | `everwas.com` | Yes |
@@ -52913,7 +52915,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,124 |
+| Cloudflare | 15,126 |
 | Normal | 37,741 |
 
 
