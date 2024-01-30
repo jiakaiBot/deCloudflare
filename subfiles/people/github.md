@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Home Assistant Cloudflare addon fail to connect](https://github.com/brenner-tobias/ha-addons/issues/20)
 - [webconnectivity: server-side blocking limitations](https://github.com/ooni/probe/issues/2661)
 - [Password stored as a plain text](https://github.com/jkotra/eOVPN/issues/46)
 - [Use websites that are behind Cloudflare's CDN for fake websites](https://github.com/VZiChoushaDui/Libertea/issues/70)
