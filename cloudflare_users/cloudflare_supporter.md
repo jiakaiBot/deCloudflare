@@ -7917,6 +7917,7 @@ Do not create new issue or we will close it as duplicate.
 | [liruqi@X](https://twitter.com/liruqi/status/1700061562843836785) | advertise |
 | [lishouping1@X](https://twitter.com/lishouping1/status/1639173214420205568) | advertise |
 | [lishuanglin4319@X](https://twitter.com/lishuanglin4319/status/1690254574312128512) | advertise |
+| [ListingPro2024@X](https://twitter.com/ListingPro2024/status/1744623822211613151) | advertise |
 | [litebias@X](https://twitter.com/litebias/status/1486357079057403906) | advertise |
 | [literallyksmk@X](https://twitter.com/literallyksmk/status/1398613079546605570) | advertise |
 | [littleb41455848@X](https://twitter.com/littleb41455848/status/1391813235620257792) | advertise |
