@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ChatGPT not working](https://github.com/givanz/Vvveb/issues/75)
 - [Isomorphic-dompurify not working with Remix](https://github.com/remix-run/remix/issues/8628)
 - [Automation Custom Domain: Resource Configuration](https://github.com/webstudioso/studio/issues/99)
 - [Automation Custom Domain: Resource Creation](https://github.com/webstudioso/studio/issues/98)
