@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Password stored as a plain text](https://github.com/jkotra/eOVPN/issues/46)
 - [Use websites that are behind Cloudflare's CDN for fake websites](https://github.com/VZiChoushaDui/Libertea/issues/70)
 - [Caddy v2 Reverse Proxy Setup?](https://github.com/convos-chat/convos/issues/882)
 - [Cant add AnimeTorrents as an indexer](https://github.com/Prowlarr/Prowlarr/issues/2009)
