@@ -14,7 +14,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Provider | Cloudflared |
 | --- | --- |
 | 00dani.me | No |
-| 198.games | No |
 | 354688.xyz | Yes |
 | 360.cn | No |
 | 4-the.win | Yes |
@@ -76,7 +75,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cybergroove.net | Yes |
 | cynntex.fun | No |
 | cynthialabs.net | Yes |
-| das.sch.id | Yes |
 | data.haus | No |
 | datahata.by | No |
 | daw.dev | No |
@@ -113,7 +111,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | fancyorg.at | No |
 | fdn.fr | No |
 | fezgate.ovh | No |
-| ff0x.ca | Yes |
 | ffmuc.net | Yes |
 | flm9.net | No |
 | fltn.us | Yes |
@@ -197,9 +194,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mikrotikrumahan.my.id | No |
 | milkpie.one | Yes |
 | minilla.store | No |
-| mismat.ch | No |
 | mo0on15.com | No |
-| mobyds.com | Yes |
 | moderateinfra.net | No |
 | modr.club | Yes |
 | mtsoln.com | Yes |
@@ -275,7 +270,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | simplylinux.ch | No |
 | skrep.eu | No |
 | skrep.in | No |
-| skrzypiec.pl | No |
 | slinkyman.net | Yes |
 | softcom.net | No |
 | spacedns.org | No |
@@ -335,8 +329,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 162 |
-| Normal | 154 |
+| Cloudflare | 159 |
+| Normal | 151 |
 
 
 ### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
