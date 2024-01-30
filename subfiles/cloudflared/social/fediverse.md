@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,447 |
-| social | 4,785 |
+| social | 4,786 |
 | net | 4,120 |
-| org | 2,765 |
+| org | 2,766 |
 | de | 2,639 |
 
 
@@ -14481,6 +14481,7 @@ Here's a list of public Fediverse services.
 | `fedigram.net` | No |
 | `fedigram.social` | Yes |
 | `fedigroup.party` | No |
+| `fedigroups.social` | No |
 | `fedihams.net` | No |
 | `fedihost.io` | No |
 | `fedihost.website` | No |
@@ -42605,6 +42606,7 @@ Here's a list of public Fediverse services.
 | `snet.blog` | No |
 | `snfl.fun` | No |
 | `snfsx.ru` | Yes |
+| `snfsx.xyz` | Yes |
 | `sngsk.info` | No |
 | `sniff122.tech` | Yes |
 | `snipesearch.co.uk` | Yes |
@@ -52355,6 +52357,7 @@ Here's a list of public Fediverse services.
 | `z-n-a-k.net` | Yes |
 | `z.fail` | No |
 | `z.je` | No |
+| `z.org` | Yes |
 | `z0ne.moe` | Yes |
 | `z0ne.social` | Yes |
 | `z0ne.stream` | Yes |
@@ -52910,8 +52913,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,122 |
-| Normal | 37,740 |
+| Cloudflare | 15,124 |
+| Normal | 37,741 |
 
 
 </details>
