@@ -27507,6 +27507,7 @@ Here's a list of public Fediverse services.
 | `maromaro.co.jp` | No |
 | `maron.blue` | No |
 | `marosuke2600.work` | No |
+| `marq42.xyz` | No |
 | `marquezkeenan.family` | Yes |
 | `marquiskurt.net` | Yes |
 | `marramgrass.org.uk` | No |
@@ -52892,7 +52893,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,114 |
-| Normal | 37,729 |
+| Normal | 37,730 |
 
 
 </details>
