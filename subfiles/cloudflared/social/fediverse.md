@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,435 |
+| com | 8,436 |
 | social | 4,781 |
 | net | 4,117 |
 | org | 2,763 |
@@ -8218,7 +8218,7 @@ Here's a list of public Fediverse services.
 | `cn.tc` | No |
 | `cncn.ch` | No |
 | `cncs.io` | No |
-| `cnet.site` | Yes |
+| `cnet.site` | No |
 | `cni-coop.net` | No |
 | `cnmist.xyz` | No |
 | `cnmri.com` | No |
@@ -9523,6 +9523,7 @@ Here's a list of public Fediverse services.
 | `customvisualdesigns.com` | No |
 | `customvisualdesigns.comsocial` | No |
 | `cute.army` | No |
+| `cute.camp` | No |
 | `cute.church` | Yes |
 | `cute.group` | No |
 | `cute.is` | Yes |
@@ -16079,7 +16080,7 @@ Here's a list of public Fediverse services.
 | `fryntiz.cloud` | No |
 | `fs.al` | No |
 | `fsam.one` | No |
-| `fsc.rocks` | No |
+| `fsc.rocks` | Yes |
 | `fsch.dev` | Yes |
 | `fschaar.de` | No |
 | `fschl-co.de` | No |
@@ -26332,6 +26333,7 @@ Here's a list of public Fediverse services.
 | `lordofthedummies.com` | No |
 | `lordoftheplex.com` | Yes |
 | `lore.monster` | Yes |
+| `loreandordure.com` | No |
 | `lorelounge.it` | No |
 | `lorem.club` | No |
 | `loren.pics` | No |
@@ -36731,7 +36733,7 @@ Here's a list of public Fediverse services.
 | `ponytail.in` | No |
 | `ponyworld.net` | No |
 | `ponzu-mstdn.com` | No |
-| `poo.li` | No |
+| `poo.li` | Yes |
 | `poofion.com` | No |
 | `poofy.hair` | No |
 | `pool.social` | No |
@@ -39882,7 +39884,7 @@ Here's a list of public Fediverse services.
 | `russiandiaspora.org` | No |
 | `russiaukraine.world` | No |
 | `russnelson.com` | No |
-| `russtodon.ru` | Yes |
+| `russtodon.ru` | No |
 | `russwinn.org` | No |
 | `russwurm.org` | No |
 | `rust-lang.org` | No |
@@ -52858,7 +52860,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,108 |
-| Normal | 37,701 |
+| Normal | 37,703 |
 
 
 </details>
