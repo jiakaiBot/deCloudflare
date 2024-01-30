@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,442 |
+| com | 8,443 |
 | social | 4,785 |
 | net | 4,119 |
 | org | 2,762 |
@@ -12078,6 +12078,7 @@ Here's a list of public Fediverse services.
 | `drunu.be` | Yes |
 | `drup.no` | No |
 | `drupal.community` | No |
+| `drupalmexico.com` | No |
 | `drusenija.com` | No |
 | `dryad.gay` | No |
 | `dryan.com` | No |
@@ -30980,7 +30981,7 @@ Here's a list of public Fediverse services.
 | `murmur.red` | No |
 | `murmurs.social` | No |
 | `murphnet.uk` | No |
-| `murray.run` | No |
+| `murray.run` | Yes |
 | `murray.social` | No |
 | `murraystreet.media` | Yes |
 | `murty.au` | No |
@@ -52890,7 +52891,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,113 |
+| Cloudflare | 15,114 |
 | Normal | 37,729 |
 
 
