@@ -5723,7 +5723,7 @@ Here's a list of public Fediverse services.
 | `bookstodon.com` | No |
 | `bookstodon.es` | Yes |
 | `bookstodon.net` | No |
-| `booktodon.me` | No |
+| `booktodon.me` | Yes |
 | `booktoot.club` | No |
 | `booktoot.social` | No |
 | `bookwar.info` | No |
@@ -35046,6 +35046,7 @@ Here's a list of public Fediverse services.
 | `palipalimag.com` | No |
 | `pallamondo.net` | No |
 | `palmer.house` | No |
+| `palmie.jp` | No |
 | `palmsy.club` | No |
 | `palom.be` | No |
 | `paloma.social` | Yes |
@@ -52892,7 +52893,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,114 |
+| Cloudflare | 15,115 |
 | Normal | 37,730 |
 
 
