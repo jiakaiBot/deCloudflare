@@ -35443,7 +35443,7 @@ Here's a list of public Fediverse services.
 | `peachybat.com` | No |
 | `peaco.cc` | Yes |
 | `peacock0803sz.com` | Yes |
-| `peak.pub` | No |
+| `peak.pub` | Yes |
 | `peakimage.net` | Yes |
 | `peakthink.org` | No |
 | `peaky.tech` | Yes |
@@ -38543,7 +38543,7 @@ Here's a list of public Fediverse services.
 | `realkane.dev` | No |
 | `reallocats.org` | No |
 | `reallygay.party` | No |
-| `realm.best` | Yes |
+| `realm.best` | No |
 | `realmat.de` | Yes |
 | `realmofespionage.xyz` | No |
 | `realmonsters.rodeo` | No |
@@ -51590,7 +51590,6 @@ Here's a list of public Fediverse services.
 | `xn--eckza.jp` | No |
 | `xn--eckza.net` | No |
 | `xn--eekf.net` | No |
-| `xn--eeks.xn--tckwe` | Yes |
 | `xn--einautisterzhlt-clb.de` | No |
 | `xn--erzhlzeitmaschiene-ntb.de` | No |
 | `xn--federao-2wa9a.social` | No |
@@ -52911,7 +52910,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,123 |
+| Cloudflare | 15,122 |
 | Normal | 37,740 |
 
 
