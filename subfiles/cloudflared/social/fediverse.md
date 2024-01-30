@@ -13178,6 +13178,7 @@ Here's a list of public Fediverse services.
 | `endtimebelievers.com` | No |
 | `endur4.com` | No |
 | `endurance.racing` | No |
+| `enduranceexploration.co.uk` | Yes |
 | `enepippi.com` | No |
 | `energiewende-otzberg.org` | No |
 | `energiewende.social` | No |
@@ -37586,6 +37587,7 @@ Here's a list of public Fediverse services.
 | `pyche.ovh` | No |
 | `pycodon.fr` | No |
 | `pycomtois.com` | No |
+| `pygillier.me` | Yes |
 | `pygos.space` | No |
 | `pym.industries` | Yes |
 | `pymig.com` | No |
@@ -37909,6 +37911,7 @@ Here's a list of public Fediverse services.
 | `qwanturank.social` | No |
 | `qwaser.fr` | No |
 | `qwazix.com` | No |
+| `qwe.one` | No |
 | `qweer.pw` | No |
 | `qwerjk.com` | No |
 | `qwerq33.social` | No |
@@ -52908,8 +52911,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,121 |
-| Normal | 37,739 |
+| Cloudflare | 15,123 |
+| Normal | 37,740 |
 
 
 </details>
