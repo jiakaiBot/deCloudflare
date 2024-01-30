@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,785 |
 | net | 4,119 |
 | org | 2,762 |
-| de | 2,637 |
+| de | 2,638 |
 
 
 - Mastodon, Pleroma, etc
@@ -35757,6 +35757,7 @@ Here's a list of public Fediverse services.
 | `pfft.lol` | No |
 | `pfiffer.org` | Yes |
 | `pfiffimus.de` | No |
+| `pflegezirkus.de` | Yes |
 | `pflenz.com` | No |
 | `pfm.cx` | No |
 | `pfoeh.li` | No |
@@ -42397,7 +42398,7 @@ Here's a list of public Fediverse services.
 | `slurf.net` | Yes |
 | `slurfdier.nl` | No |
 | `slut.systems` | No |
-| `slut.town` | No |
+| `slut.town` | Yes |
 | `slv-valbonne.fr` | No |
 | `slvn.social` | No |
 | `slvtv.fr` | No |
@@ -52889,8 +52890,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,111 |
-| Normal | 37,730 |
+| Cloudflare | 15,113 |
+| Normal | 37,729 |
 
 
 </details>
