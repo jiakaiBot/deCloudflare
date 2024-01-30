@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,433 |
+| com | 8,435 |
 | social | 4,781 |
-| net | 4,116 |
-| org | 2,760 |
-| de | 2,633 |
+| net | 4,117 |
+| org | 2,763 |
+| de | 2,634 |
 
 
 - Mastodon, Pleroma, etc
@@ -3533,6 +3533,7 @@ Here's a list of public Fediverse services.
 | `audiovisuel-participatif.org` | No |
 | `audon.space` | Yes |
 | `audreywatters.com` | Yes |
+| `auengun.net` | Yes |
 | `auf1.eu` | No |
 | `aufdeine.art` | Yes |
 | `aufeinohr.de` | No |
@@ -7969,6 +7970,7 @@ Here's a list of public Fediverse services.
 | `cksv.jp` | No |
 | `cktec.net` | No |
 | `ckyln.com` | No |
+| `cl0ckw0rkw1nd.world` | No |
 | `clac.link` | No |
 | `clacks.eu` | No |
 | `clacks.link` | No |
@@ -10780,6 +10782,7 @@ Here's a list of public Fediverse services.
 | `dequbed.space` | No |
 | `dequevolem.com` | No |
 | `dequis.org` | Yes |
+| `der-boese-metaller.de` | No |
 | `der-gedankenleser.info` | No |
 | `der-postillon.com` | No |
 | `der.gs` | No |
@@ -16171,6 +16174,7 @@ Here's a list of public Fediverse services.
 | `fuko.dev` | Yes |
 | `fukt.lol` | Yes |
 | `fuku.gq` | No |
+| `fukuno.com` | No |
 | `fukuoka-mstdn.work` | No |
 | `ful.social` | No |
 | `fulano.social` | No |
@@ -16783,6 +16787,7 @@ Here's a list of public Fediverse services.
 | `gbdev.io` | Yes |
 | `gbenjamin.fr` | No |
 | `gbg.social` | No |
+| `gbif.org` | No |
 | `gbl08ma.com` | No |
 | `gbnet.net` | No |
 | `gbo.social` | No |
@@ -19009,6 +19014,7 @@ Here's a list of public Fediverse services.
 | `helmholtz.social` | No |
 | `helmi.social` | Yes |
 | `helms.social` | No |
+| `helotage.com` | Yes |
 | `helpchangethe.world` | No |
 | `helpfulpodcasters.social` | No |
 | `helpmedog.com` | Yes |
@@ -27073,6 +27079,7 @@ Here's a list of public Fediverse services.
 | `mahncke.net` | No |
 | `maho-do.jp` | No |
 | `maho.app` | No |
+| `maho.dev` | No |
 | `mahodou.moe` | No |
 | `mahohodon.jp` | No |
 | `mahood.dev` | Yes |
@@ -30003,6 +30010,7 @@ Here's a list of public Fediverse services.
 | `moec.top` | Yes |
 | `moeda.me` | No |
 | `moee.fr` | Yes |
+| `moefan.top` | Yes |
 | `moegirl.live` | Yes |
 | `moeism.me` | No |
 | `moejo.io` | No |
@@ -35326,6 +35334,7 @@ Here's a list of public Fediverse services.
 | `pawlicker.com` | No |
 | `pawn.nl` | No |
 | `pawoo.net` | Yes |
+| `pawoo.org` | Yes |
 | `pawopawo.net` | No |
 | `paws.gay` | No |
 | `paws.moe` | No |
@@ -35821,6 +35830,7 @@ Here's a list of public Fediverse services.
 | `phirat.club` | No |
 | `phire.place` | No |
 | `phishermanswarf.com` | No |
+| `phite.ro` | Yes |
 | `phiy.me` | Yes |
 | `phl.social` | Yes |
 | `phlox.me` | No |
@@ -39310,6 +39320,7 @@ Here's a list of public Fediverse services.
 | `roanapur.de` | No |
 | `roaries.social` | Yes |
 | `roarke.industries` | No |
+| `roastbeast.org` | No |
 | `roastinghouse.co.uk` | No |
 | `rob-earth.com` | No |
 | `rob.in.net` | No |
@@ -41261,6 +41272,7 @@ Here's a list of public Fediverse services.
 | `sergio101.com` | No |
 | `sergiomoraesj.com` | No |
 | `sergiosgc.com` | Yes |
+| `sergitsa.nz` | No |
 | `seri.gr.jp` | No |
 | `serial-experiments.com` | Yes |
 | `serial.io` | Yes |
@@ -52845,8 +52857,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,103 |
-| Normal | 37,694 |
+| Cloudflare | 15,108 |
+| Normal | 37,701 |
 
 
 </details>
