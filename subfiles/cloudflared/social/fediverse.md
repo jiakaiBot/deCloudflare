@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,452 |
+| com | 8,453 |
 | social | 4,786 |
 | net | 4,121 |
 | org | 2,767 |
@@ -12707,6 +12707,7 @@ Here's a list of public Fediverse services.
 | `efournie.com` | No |
 | `efradaphi.de` | No |
 | `efrainmartinezfigueroa.com` | No |
+| `efsj.eu` | No |
 | `efwends.xyz` | No |
 | `egalwaat.lu` | No |
 | `egatu.work` | No |
@@ -24374,6 +24375,7 @@ Here's a list of public Fediverse services.
 | `ksite.de` | No |
 | `ksj.social` | No |
 | `ksl-bmx.de` | No |
+| `ksoeteman.nl` | No |
 | `ksr.org` | Yes |
 | `ksrgte.ch` | Yes |
 | `ksu-mastodon.com` | No |
@@ -50041,6 +50043,7 @@ Here's a list of public Fediverse services.
 | `wakuwaku.boo` | Yes |
 | `wakuwaku.gg` | No |
 | `wakuwaku.social` | No |
+| `wakuwakuanimals.com` | Yes |
 | `wakuwakup.net` | Yes |
 | `wala2x.de` | Yes |
 | `walamana.de` | Yes |
@@ -52933,8 +52936,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,137 |
-| Normal | 37,748 |
+| Cloudflare | 15,138 |
+| Normal | 37,750 |
 
 
 </details>
