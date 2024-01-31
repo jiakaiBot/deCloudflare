@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,448 |
+| com | 8,449 |
 | social | 4,786 |
 | net | 4,120 |
 | org | 2,766 |
@@ -3758,6 +3758,7 @@ Here's a list of public Fediverse services.
 | `awoo.fi` | No |
 | `awoo.fun` | No |
 | `awoo.fyi` | Yes |
+| `awoo.ing` | No |
 | `awoo.pub` | Yes |
 | `awoo.space` | No |
 | `awoo.studio` | Yes |
@@ -8138,6 +8139,7 @@ Here's a list of public Fediverse services.
 | `cloudns.cc` | Yes |
 | `cloudns.cl` | Yes |
 | `cloudns.nz` | Yes |
+| `cloudnull.network` | No |
 | `cloudonaut.io` | Yes |
 | `cloudops.space` | Yes |
 | `cloudpirat.es` | No |
@@ -18627,7 +18629,7 @@ Here's a list of public Fediverse services.
 | `hansenerd.de` | No |
 | `hansenpartnership.com` | No |
 | `hansinge.net` | No |
-| `hanson.social` | Yes |
+| `hanson.social` | No |
 | `hansup.be` | No |
 | `hanton.at` | No |
 | `haojia-wu.com` | No |
@@ -29422,6 +29424,7 @@ Here's a list of public Fediverse services.
 | `milli.ng` | Yes |
 | `milliondoubts.com` | No |
 | `millironx.com` | No |
+| `millistice.com` | Yes |
 | `milliways.social` | No |
 | `milll.ws` | No |
 | `mills.io` | Yes |
@@ -52916,7 +52919,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,126 |
-| Normal | 37,741 |
+| Normal | 37,744 |
 
 
 </details>
