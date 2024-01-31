@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,451 |
+| com | 8,452 |
 | social | 4,786 |
 | net | 4,121 |
 | org | 2,767 |
@@ -15126,6 +15126,7 @@ Here's a list of public Fediverse services.
 | `fl0w.fr` | No |
 | `fla.am` | Yes |
 | `fla.red` | Yes |
+| `flaath.no` | No |
 | `flabs.org` | No |
 | `flach.land` | No |
 | `flaem.ing` | No |
@@ -31359,6 +31360,7 @@ Here's a list of public Fediverse services.
 | `mythology.social` | No |
 | `mythos-one.de` | Yes |
 | `mythoughtprocess.info` | No |
+| `mytokyokitchen.com` | No |
 | `mytoot.de` | No |
 | `mytoot.net` | No |
 | `mytransponder.com` | No |
@@ -52932,7 +52934,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,137 |
-| Normal | 37,746 |
+| Normal | 37,748 |
 
 
 </details>
