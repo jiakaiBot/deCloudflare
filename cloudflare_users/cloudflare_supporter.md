@@ -7943,6 +7943,7 @@ Do not create new issue or we will close it as duplicate.
 | [LKDavidHt1@X](https://twitter.com/LKDavidHt1/status/1391671487652720640) | advertise |
 | [LKhngNinh2@X](https://twitter.com/LKhngNinh2/status/1381900715262550016) | advertise |
 | [lknk_adorebot@X](https://twitter.com/lknk_adorebot/status/1390972492995432454) | advertise |
+| [lktechsky@X](https://twitter.com/lktechsky/status/1752473735918149781) | advertise |
 | [llama_cadu@X](https://twitter.com/llama_cadu/status/1480054499846856710) | advertise |
 | [llAnh_Hungll@X](https://twitter.com/llAnh_Hungll/status/1563110667812425733) | advertise |
 | [LlcBillionaire@X](https://twitter.com/LlcBillionaire/status/1498441224264552455) | advertise |
