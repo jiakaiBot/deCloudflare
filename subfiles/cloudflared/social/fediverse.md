@@ -8398,7 +8398,7 @@ Here's a list of public Fediverse services.
 | `cogley.jp` | No |
 | `cogneon.de` | Yes |
 | `cogneon.io` | No |
-| `cognitheurge.com` | No |
+| `cognitheurge.com` | Yes |
 | `cognize.co` | Yes |
 | `cogwheel.social` | No |
 | `cohaes.io` | Yes |
@@ -18556,6 +18556,7 @@ Here's a list of public Fediverse services.
 | `hallole.eu` | No |
 | `hallsofamenti.io` | Yes |
 | `hallucigenia.ga` | No |
+| `halo.nu` | No |
 | `halodub.xyz` | No |
 | `halstead.email` | No |
 | `halt.cl` | Yes |
@@ -22480,7 +22481,7 @@ Here's a list of public Fediverse services.
 | `journa.host` | Yes |
 | `journalism.place` | No |
 | `journalism.social` | No |
-| `journalist.social` | Yes |
+| `journalist.social` | No |
 | `journeytotaiwan.asia` | No |
 | `journme.social` | No |
 | `journodao.xyz` | Yes |
@@ -52919,7 +52920,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,126 |
-| Normal | 37,744 |
+| Normal | 37,745 |
 
 
 </details>
