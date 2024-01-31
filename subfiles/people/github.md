@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Create cloudflare tunnel helmchart](https://github.com/gooseops/ops/issues/8)
+- [Perma rate limit](https://github.com/tangrams/heightmapper/issues/49)
 - [i cant use the vscode plugin sudden](https://github.com/ferib/lua-obfuscator-plugin/issues/9)
 - [Error ・ Cloudflare Access](https://github.com/Ginabigi/gibi/issues/1)
 - [Global twitch emotes are not being tab-completed and no global twitch emote menu](https://github.com/FrankerFaceZ/FrankerFaceZ/issues/1457)
