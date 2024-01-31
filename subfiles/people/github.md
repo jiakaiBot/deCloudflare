@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [i cant use the vscode plugin sudden](https://github.com/ferib/lua-obfuscator-plugin/issues/9)
 - [Error ・ Cloudflare Access](https://github.com/Ginabigi/gibi/issues/1)
 - [Global twitch emotes are not being tab-completed and no global twitch emote menu](https://github.com/FrankerFaceZ/FrankerFaceZ/issues/1457)
 - [Home Assistant Cloudflare addon fail to connect](https://github.com/brenner-tobias/ha-addons/issues/20)
