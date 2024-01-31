@@ -31387,6 +31387,7 @@ Here's a list of public Fediverse services.
 | `n-kaiwai.info` | No |
 | `n-kaiwai.work` | Yes |
 | `n-kru.se` | No |
+| `n-m-y.jp` | Yes |
 | `n-odes.social` | No |
 | `n-s.tokyo` | Yes |
 | `n-sr.org` | No |
@@ -50684,6 +50685,7 @@ Here's a list of public Fediverse services.
 | `wiggle.pw` | No |
 | `wiggle.website` | No |
 | `wihel.de` | Yes |
+| `wiimote.party` | No |
 | `wiki-tube.de` | No |
 | `wiki.gd` | Yes |
 | `wiki.style` | No |
@@ -52926,8 +52928,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,129 |
-| Normal | 37,749 |
+| Cloudflare | 15,130 |
+| Normal | 37,750 |
 
 
 </details>
