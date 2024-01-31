@@ -22722,7 +22722,7 @@ Here's a list of public Fediverse services.
 | `jxmsocial.xyz` | No |
 | `jxs.me` | Yes |
 | `jykeji.online` | No |
-| `jyln.dev` | No |
+| `jyln.dev` | Yes |
 | `jymuoyu.com` | Yes |
 | `jynxd.it` | Yes |
 | `jyrgi.de` | No |
@@ -24854,6 +24854,7 @@ Here's a list of public Fediverse services.
 | `laoda.life` | Yes |
 | `laohu.de` | No |
 | `lap.social` | Yes |
+| `lapaginagiuridica.it` | Yes |
 | `lapidak.is` | Yes |
 | `lapincretin.fr` | Yes |
 | `lapineige.fr` | No |
@@ -46456,7 +46457,7 @@ Here's a list of public Fediverse services.
 | `thomaswebb.net` | No |
 | `thomaswictor.com` | No |
 | `thomaszwirner.de` | No |
-| `thomcat.rocks` | No |
+| `thomcat.rocks` | Yes |
 | `thomsen-jones.dk` | No |
 | `thon.kr` | Yes |
 | `thopex.de` | No |
@@ -52879,8 +52880,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,121 |
-| Normal | 37,710 |
+| Cloudflare | 15,124 |
+| Normal | 37,708 |
 
 
 </details>
