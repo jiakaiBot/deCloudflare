@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,453 |
+| com | 8,454 |
 | social | 4,786 |
-| net | 4,121 |
+| net | 4,122 |
 | org | 2,767 |
 | de | 2,639 |
 
@@ -2600,7 +2600,7 @@ Here's a list of public Fediverse services.
 | `anticapitalistcatgirl.club` | No |
 | `anticom.world` | No |
 | `anticontent.net` | No |
-| `anticorrectiv.de` | Yes |
+| `anticorrectiv.de` | No |
 | `antidisplacement.nyc` | No |
 | `antifa.ceo` | No |
 | `antifa.gmbh` | No |
@@ -5015,6 +5015,7 @@ Here's a list of public Fediverse services.
 | `birb.casa` | No |
 | `birb.cc` | Yes |
 | `birb.haus` | No |
+| `birb.horse` | Yes |
 | `birb.site` | No |
 | `birb.social` | No |
 | `birb.space` | No |
@@ -12691,6 +12692,7 @@ Here's a list of public Fediverse services.
 | `ef.gg` | No |
 | `ef67daisuki.club` | No |
 | `ef7.cc` | Yes |
+| `efa-dl.com` | No |
 | `efact.ro` | No |
 | `efdn.club` | No |
 | `efdnet.com` | No |
@@ -25192,6 +25194,7 @@ Here's a list of public Fediverse services.
 | `legfr.social` | No |
 | `legionify.com` | Yes |
 | `legionpodcasts.com` | No |
+| `legionworlds.net` | Yes |
 | `legit.dog` | No |
 | `legitimatesounding.com` | No |
 | `legodard.fr` | Yes |
@@ -28715,6 +28718,7 @@ Here's a list of public Fediverse services.
 | `meenzen.net` | Yes |
 | `meep.tech` | No |
 | `meeple.social` | No |
+| `meeples.org.au` | No |
 | `meeps.dk` | No |
 | `meerjungfrauengrotte.de` | No |
 | `meetandgreet.at` | No |
@@ -52936,8 +52940,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,138 |
-| Normal | 37,750 |
+| Cloudflare | 15,139 |
+| Normal | 37,753 |
 
 
 </details>
