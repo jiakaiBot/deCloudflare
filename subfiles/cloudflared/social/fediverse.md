@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,449 |
+| com | 8,451 |
 | social | 4,786 |
 | net | 4,120 |
-| org | 2,766 |
+| org | 2,767 |
 | de | 2,639 |
 
 
@@ -95,6 +95,7 @@ Here's a list of public Fediverse services.
 | `0n.ee` | Yes |
 | `0ne.day` | Yes |
 | `0oooo0.ooo` | No |
+| `0p0.top` | Yes |
 | `0pp.us` | Yes |
 | `0pt.jp` | Yes |
 | `0px.io` | Yes |
@@ -4808,6 +4809,7 @@ Here's a list of public Fediverse services.
 | `bhsnw.com` | Yes |
 | `bi119ate5hxk.net` | Yes |
 | `bian-fu.net` | No |
+| `biasedbytes.tech` | No |
 | `biatek.org` | No |
 | `bibeogaem.zone` | No |
 | `bibernasen.de` | No |
@@ -26018,6 +26020,7 @@ Here's a list of public Fediverse services.
 | `littleplanet.life` | No |
 | `littleroom.io` | No |
 | `littletheorem.com` | Yes |
+| `littletimemachine.com` | Yes |
 | `littleturnip.net` | Yes |
 | `littr.me` | Yes |
 | `litu.at` | No |
@@ -30457,6 +30460,7 @@ Here's a list of public Fediverse services.
 | `motogp.space` | No |
 | `motorcity.ml` | No |
 | `motoreitaliacarlonegri.it` | Yes |
+| `motoristic.org` | No |
 | `motorradfan.net` | No |
 | `motorsport.org.uk` | Yes |
 | `motorsports.social` | Yes |
@@ -35920,6 +35924,7 @@ Here's a list of public Fediverse services.
 | `photonflux.club` | No |
 | `photophrenic.online` | No |
 | `photosharing.work` | No |
+| `phouon.com` | Yes |
 | `phoxden.net` | No |
 | `phoxy.space` | Yes |
 | `php.org.es` | Yes |
@@ -39714,6 +39719,7 @@ Here's a list of public Fediverse services.
 | `roxysocks.xyz` | Yes |
 | `royalaid.me` | Yes |
 | `royalhellcustoms.com` | No |
+| `royalscale.blog` | No |
 | `royaltechnology.net` | Yes |
 | `royniang.com` | No |
 | `roysbeer.place` | No |
@@ -44518,6 +44524,7 @@ Here's a list of public Fediverse services.
 | `svenmasuhr.de` | No |
 | `svenwal.de` | No |
 | `sverit.de` | No |
+| `svgun.ru` | No |
 | `svhub.de` | No |
 | `svij.org` | No |
 | `svita.cz` | No |
@@ -52919,8 +52926,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,126 |
-| Normal | 37,745 |
+| Cloudflare | 15,129 |
+| Normal | 37,749 |
 
 
 </details>
