@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,446 |
+| com | 8,447 |
 | social | 4,782 |
 | net | 4,121 |
 | org | 2,767 |
@@ -8544,7 +8544,7 @@ Here's a list of public Fediverse services.
 | `commfurnity.com` | Yes |
 | `commodore.social` | No |
 | `commodorian.org` | No |
-| `commojun.com` | No |
+| `commojun.com` | Yes |
 | `common.se` | No |
 | `common.social` | No |
 | `commonhouse.social` | No |
@@ -9201,7 +9201,7 @@ Here's a list of public Fediverse services.
 | `crixu.blog` | No |
 | `crlf.io` | No |
 | `crlf.ninja` | No |
-| `crlzff.xyz` | No |
+| `crlzff.xyz` | Yes |
 | `crmbl.uk` | No |
 | `cro-k.net` | Yes |
 | `cro-maat.com` | Yes |
@@ -24878,6 +24878,7 @@ Here's a list of public Fediverse services.
 | `laprest.cat` | No |
 | `lapuacase.info` | Yes |
 | `lapuas.xyz` | No |
+| `lapuertaescrita.com` | No |
 | `lapunta.org` | No |
 | `lapy.link` | Yes |
 | `lapy.moe` | Yes |
@@ -46215,7 +46216,7 @@ Here's a list of public Fediverse services.
 | `therealadam.com` | No |
 | `therealblue.de` | No |
 | `therealium.xyz` | No |
-| `theredbees.be` | Yes |
+| `theredbees.be` | No |
 | `theredcaps.net` | Yes |
 | `therednv.com` | No |
 | `thereeferal.com` | No |
@@ -49657,7 +49658,7 @@ Here's a list of public Fediverse services.
 | `vocabar.net` | No |
 | `vocal.vc` | No |
 | `vocalconstructivists.com` | No |
-| `vocalfry.social` | No |
+| `vocalfry.social` | Yes |
 | `vocalodon.net` | No |
 | `vocaloid.social` | Yes |
 | `vocalomakets.jp` | No |
@@ -52908,8 +52909,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,132 |
-| Normal | 37,728 |
+| Cloudflare | 15,134 |
+| Normal | 37,727 |
 
 
 </details>
