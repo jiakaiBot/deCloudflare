@@ -8581,6 +8581,7 @@ Do not create new issue or we will close it as duplicate.
 | [maxime_lpbgg@X](https://twitter.com/maxime_lpbgg/status/1592299581450207234) | advertise |
 | [maximum_speed1@X](https://twitter.com/maximum_speed1/status/1400619592158953478) | advertise |
 | [MaxSuwarna@X](https://twitter.com/MaxSuwarna/status/1642923878635950080) | advertise |
+| [MaxTheSyntax@X](https://twitter.com/MaxTheSyntax/status/1753161420831707167) | advertise |
 | [MAXx256568816@X](https://twitter.com/MAXx256568816/status/1588570798264287232) | advertise |
 | [Maxz081@X](https://twitter.com/Maxz081/status/1384668008048513026) | advertise |
 | [May2maple@X](https://twitter.com/May2maple/status/1707066236784492894) | advertise |
