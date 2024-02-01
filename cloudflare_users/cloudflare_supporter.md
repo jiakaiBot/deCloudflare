@@ -3601,6 +3601,7 @@ Do not create new issue or we will close it as duplicate.
 | [dukeyunz@X](https://twitter.com/dukeyunz/status/1471327151656153088) | advertise |
 | [DumpKaito@X](https://twitter.com/DumpKaito/status/1552327487723425792) | advertise |
 | [DumTay@X](https://twitter.com/DumTay/status/1382699009144406017) | advertise |
+| [DuncanCharles00@X](https://twitter.com/DuncanCharles00/status/1753072887681171477) | advertise |
 | [dung62528155@X](https://twitter.com/dung62528155/status/1679074973787488258) | advertise |
 | [dung69191410@X](https://twitter.com/dung69191410/status/1552322346274340867) | advertise |
 | [dungbuws@X](https://twitter.com/dungbuws/status/1571582374130884611) | advertise |
