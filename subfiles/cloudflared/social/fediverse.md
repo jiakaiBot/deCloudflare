@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,447 |
 | social | 4,782 |
-| net | 4,121 |
-| org | 2,767 |
+| net | 4,122 |
+| org | 2,768 |
 | de | 2,635 |
 
 
@@ -2690,6 +2690,7 @@ Here's a list of public Fediverse services.
 | `aobuta.yokohama` | No |
 | `aogamers.net` | Yes |
 | `aoi-life.link` | No |
+| `aoi.onl` | No |
 | `aoikaze.social` | Yes |
 | `aoir.social` | No |
 | `aoirint.com` | Yes |
@@ -6752,6 +6753,7 @@ Here's a list of public Fediverse services.
 | `campfire.website` | No |
 | `campfollow.life` | No |
 | `camph.net` | Yes |
+| `campiinrete.org` | No |
 | `campus-it.eu` | No |
 | `campus.yokohama` | Yes |
 | `campuschat.io` | No |
@@ -23809,6 +23811,7 @@ Here's a list of public Fediverse services.
 | `kksk.one` | Yes |
 | `kl1pp3l.de` | No |
 | `klaaspier.nl` | No |
+| `klacker.net` | No |
 | `klaewyss.fr` | No |
 | `klageweib.de` | No |
 | `klahowya.net` | No |
@@ -52910,7 +52913,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,134 |
-| Normal | 37,727 |
+| Normal | 37,730 |
 
 
 </details>
