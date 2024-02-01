@@ -11024,6 +11024,7 @@ Here's a list of public Fediverse services.
 | `dffm.de` | No |
 | `dfir.social` | Yes |
 | `dflatmajor.social` | No |
+| `dfmab.eu` | No |
 | `dfsek.com` | Yes |
 | `dftba.club` | Yes |
 | `dftba.xyz` | Yes |
@@ -52945,7 +52946,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,137 |
-| Normal | 37,759 |
+| Normal | 37,760 |
 
 
 </details>
