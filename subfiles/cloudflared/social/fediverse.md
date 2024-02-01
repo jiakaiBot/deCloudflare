@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,454 |
+| com | 8,455 |
 | social | 4,786 |
 | net | 4,122 |
 | org | 2,768 |
@@ -35957,6 +35957,7 @@ Here's a list of public Fediverse services.
 | `phutu.re` | No |
 | `phx.pub` | No |
 | `phx.social` | No |
+| `phxrailfood.com` | No |
 | `phy25.com` | No |
 | `phycon.me` | No |
 | `phyl.me` | Yes |
@@ -52945,7 +52946,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,136 |
-| Normal | 37,760 |
+| Normal | 37,761 |
 
 
 </details>
