@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Caching DoH proxy for delegated ENS resolution](https://github.com/ipshipyard/waterworks-community/issues/6)
+- [Unable to open LeadSeason.eu inside of local net.](https://github.com/LeadSeason/LeadLab/issues/1)
 - [Inefficient chunking for dense/urban dataset](https://github.com/flatgeobuf/flatgeobuf/issues/343)
 - [Problem at remote-play](https://github.com/KoboldAI/KoboldAI-Client/issues/427)
 - [404 error every few times](https://github.com/weserv/images/issues/406)
