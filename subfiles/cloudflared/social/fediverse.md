@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,448 |
+| com | 8,449 |
 | social | 4,782 |
 | net | 4,122 |
 | org | 2,768 |
-| de | 2,636 |
+| de | 2,638 |
 
 
 - Mastodon, Pleroma, etc
@@ -253,6 +253,7 @@ Here's a list of public Fediverse services.
 | `128k.blog` | No |
 | `128k.site` | No |
 | `1296000.xyz` | No |
+| `12mon.online` | Yes |
 | `12mon.space` | Yes |
 | `12vpx.com` | Yes |
 | `13-dx.de` | Yes |
@@ -5085,6 +5086,7 @@ Here's a list of public Fediverse services.
 | `bitcoin.ninja` | No |
 | `bitcoinadon.social` | No |
 | `bitcoinasylum.org` | No |
+| `bitcoinaudible.de` | No |
 | `bitcoinenemies.com` | No |
 | `bitcoiner.guide` | No |
 | `bitcoiner.social` | No |
@@ -6561,6 +6563,7 @@ Here's a list of public Fediverse services.
 | `c-onr.de` | Yes |
 | `c-p-b.com` | No |
 | `c-pool.jp` | Yes |
+| `c-privacy.de` | Yes |
 | `c-r-t.tk` | Yes |
 | `c-radar.de` | No |
 | `c-u-tech.com` | No |
@@ -7620,6 +7623,7 @@ Here's a list of public Fediverse services.
 | `chinese.org` | Yes |
 | `chino.tw` | Yes |
 | `chinstrap.org` | No |
+| `chinwag.au` | No |
 | `chinwag.im` | Yes |
 | `chinwag.org` | Yes |
 | `chipmnk.dev` | No |
@@ -8628,6 +8632,7 @@ Here's a list of public Fediverse services.
 | `computersocial.club` | No |
 | `computerwerk.org` | No |
 | `computing.zone` | Yes |
+| `computingcache.com` | Yes |
 | `compuverse.uk` | Yes |
 | `comradekitty.net` | No |
 | `comradesinarms.social` | No |
@@ -15849,6 +15854,7 @@ Here's a list of public Fediverse services.
 | `freethinkers.lgbt` | No |
 | `freethought.online` | Yes |
 | `freetobe.social` | No |
+| `freetobealiberal.blog` | No |
 | `freetorrent.fr` | No |
 | `freetreasures.shop` | No |
 | `freetube.cc` | Yes |
@@ -29124,6 +29130,7 @@ Here's a list of public Fediverse services.
 | `mfyo.jp` | Yes |
 | `mfz.jp` | No |
 | `mg-webservices.de` | No |
+| `mg.com.gh` | Yes |
 | `mg.social` | No |
 | `mgattozzi.dev` | No |
 | `mgcomm.de` | No |
@@ -32048,6 +32055,7 @@ Here's a list of public Fediverse services.
 | `nerdfest.nl` | No |
 | `nerdfight.online` | Yes |
 | `nerdfoo.dev` | No |
+| `nerdgasm.studio` | Yes |
 | `nerdgineer.com` | No |
 | `nerdgobragh.org` | No |
 | `nerdhaven.de` | No |
@@ -33467,6 +33475,7 @@ Here's a list of public Fediverse services.
 | `nureinblog.at` | No |
 | `nuremberg.social` | No |
 | `nurh.org` | No |
+| `nuro.lol` | No |
 | `nurs.or.jp` | No |
 | `nursanamar.com` | No |
 | `nursetonyf.com` | No |
@@ -52917,8 +52926,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,135 |
-| Normal | 37,734 |
+| Cloudflare | 15,140 |
+| Normal | 37,738 |
 
 
 </details>
