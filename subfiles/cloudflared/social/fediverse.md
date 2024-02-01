@@ -660,6 +660,7 @@ Here's a list of public Fediverse services.
 | `54park.de` | No |
 | `5505.industries` | Yes |
 | `551.social` | No |
+| `5550d.xyz` | No |
 | `56k.es` | No |
 | `56k.guru` | No |
 | `56k.social` | Yes |
@@ -45047,7 +45048,7 @@ Here's a list of public Fediverse services.
 | `tangel.me` | Yes |
 | `tangentbordet.se` | No |
 | `tangentfox.com` | No |
-| `tangentideas.info` | No |
+| `tangentideas.info` | Yes |
 | `tanghus.net` | No |
 | `tangledbankforaging.uk` | No |
 | `tangofam.space` | No |
@@ -52916,7 +52917,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,134 |
+| Cloudflare | 15,135 |
 | Normal | 37,734 |
 
 
