@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Inefficient chunking for dense/urban dataset](https://github.com/flatgeobuf/flatgeobuf/issues/343)
 - [Problem at remote-play](https://github.com/KoboldAI/KoboldAI-Client/issues/427)
 - [404 error every few times](https://github.com/weserv/images/issues/406)
 - [Create cloudflare tunnel helmchart](https://github.com/gooseops/ops/issues/8)
