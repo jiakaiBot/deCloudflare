@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare adapter i18ndomains error with Astro 4.3](https://github.com/withastro/adapters/issues/148)
 - [Caching DoH proxy for delegated ENS resolution](https://github.com/ipshipyard/waterworks-community/issues/6)
 - [Unable to open LeadSeason.eu inside of local net.](https://github.com/LeadSeason/LeadLab/issues/1)
 - [Inefficient chunking for dense/urban dataset](https://github.com/flatgeobuf/flatgeobuf/issues/343)
