@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,454 |
+| com | 8,455 |
 | social | 4,786 |
 | net | 4,122 |
 | org | 2,767 |
-| de | 2,639 |
+| de | 2,640 |
 
 
 - Mastodon, Pleroma, etc
@@ -15900,7 +15900,7 @@ Here's a list of public Fediverse services.
 | `frenchindiepop.com` | No |
 | `frenetic.ink` | No |
 | `frenfiverse.net` | No |
-| `frennet.link` | Yes |
+| `frennet.link` | No |
 | `frennet.xyz` | Yes |
 | `frentalk.com` | No |
 | `frentanyl.farm` | No |
@@ -27321,6 +27321,7 @@ Here's a list of public Fediverse services.
 | `manas.website` | No |
 | `manasas.dev` | Yes |
 | `manateeth.club` | No |
+| `manawyrm.de` | No |
 | `mancave.de` | No |
 | `mancavgeek.co.uk` | No |
 | `manchoukuo.men` | Yes |
@@ -33663,7 +33664,7 @@ Here's a list of public Fediverse services.
 | `obermui.de` | No |
 | `oberpfalz.social` | No |
 | `obese.cat` | Yes |
-| `obey.photos` | Yes |
+| `obey.photos` | No |
 | `obey.social` | Yes |
 | `obeya.social` | No |
 | `obeygravity.de` | No |
@@ -35954,6 +35955,7 @@ Here's a list of public Fediverse services.
 | `phutu.re` | No |
 | `phx.pub` | No |
 | `phx.social` | No |
+| `phxrailfood.com` | No |
 | `phy25.com` | No |
 | `phycon.me` | No |
 | `phyl.me` | Yes |
@@ -39479,7 +39481,7 @@ Here's a list of public Fediverse services.
 | `rockman.zip` | No |
 | `rockoo.pw` | No |
 | `rockosbasilisk.com` | Yes |
-| `rockpaperjelly.com` | Yes |
+| `rockpaperjelly.com` | No |
 | `rockprofile.com` | Yes |
 | `rockyroad.social` | No |
 | `roclongboarding.info` | No |
@@ -47447,6 +47449,7 @@ Here's a list of public Fediverse services.
 | `training-fitness.fun` | No |
 | `trains.coffee` | No |
 | `trainsgende.red` | No |
+| `trainsgender.today` | Yes |
 | `trainyard.au` | No |
 | `tramasoli.com` | Yes |
 | `trammenti.org` | No |
@@ -52940,8 +52943,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,139 |
-| Normal | 37,753 |
+| Cloudflare | 15,137 |
+| Normal | 37,758 |
 
 
 </details>
