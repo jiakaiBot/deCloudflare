@@ -2408,7 +2408,7 @@ Here's a list of public Fediverse services.
 | `anemoneya.me` | No |
 | `anesthetizeme.net` | Yes |
 | `anfield.social` | Yes |
-| `anfora.social` | Yes |
+| `anfora.social` | No |
 | `anfora.xyz` | No |
 | `ang.social` | No |
 | `angeidhealur.scot` | Yes |
@@ -11213,6 +11213,7 @@ Here's a list of public Fediverse services.
 | `digitaldata.social` | No |
 | `digitaldemocracies.org` | Yes |
 | `digitaldragon.dev` | Yes |
+| `digitaldragons.eu` | No |
 | `digitalesozialearbeit.de` | No |
 | `digitalesparadies.de` | No |
 | `digitalfall.net` | No |
@@ -23755,7 +23756,7 @@ Here's a list of public Fediverse services.
 | `kitsunes.cloud` | No |
 | `kitsunes.club` | Yes |
 | `kitsunes.gay` | Yes |
-| `kitsunes.world` | Yes |
+| `kitsunes.world` | No |
 | `kitsunesoba.com` | Yes |
 | `kitsunet.net` | No |
 | `kitsunet.org` | No |
@@ -52916,8 +52917,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,135 |
-| Normal | 37,733 |
+| Cloudflare | 15,133 |
+| Normal | 37,736 |
 
 
 </details>
