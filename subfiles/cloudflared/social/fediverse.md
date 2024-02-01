@@ -16151,7 +16151,6 @@ Here's a list of public Fediverse services.
 | `ftt.gmbh` | No |
 | `fu-jp.net` | No |
 | `fuba.dev` | Yes |
-| `fubuki.one` | No |
 | `fuc3.com` | No |
 | `fuchicolove.com` | No |
 | `fuchs.social` | No |
@@ -32569,7 +32568,7 @@ Here's a list of public Fediverse services.
 | `niklas.network` | No |
 | `niklas.social` | No |
 | `niklasbarning.de` | No |
-| `niklasrosenstein.com` | No |
+| `niklasrosenstein.com` | Yes |
 | `niko.lgbt` | Yes |
 | `nikola.love` | Yes |
 | `nikolagroup.uk` | Yes |
@@ -52917,8 +52916,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,133 |
-| Normal | 37,736 |
+| Cloudflare | 15,134 |
+| Normal | 37,734 |
 
 
 </details>
