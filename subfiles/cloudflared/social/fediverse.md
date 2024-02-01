@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,455 |
 | social | 4,786 |
 | net | 4,122 |
-| org | 2,767 |
+| org | 2,768 |
 | de | 2,640 |
 
 
@@ -673,7 +673,7 @@ Here's a list of public Fediverse services.
 | `57n.org` | No |
 | `57north.org.uk` | No |
 | `584817.xyz` | Yes |
-| `5950x.lol` | Yes |
+| `5950x.lol` | No |
 | `59ry.jp` | Yes |
 | `5ch.pink` | Yes |
 | `5ch4um1.es` | No |
@@ -33246,6 +33246,7 @@ Here's a list of public Fediverse services.
 | `noushi.chat` | No |
 | `noussommes.org` | No |
 | `noutori.space` | Yes |
+| `nouveauprintemps.org` | Yes |
 | `nov.im` | No |
 | `nov.re` | No |
 | `nov29.one` | No |
@@ -52944,7 +52945,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,137 |
-| Normal | 37,758 |
+| Normal | 37,759 |
 
 
 </details>
