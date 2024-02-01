@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Problem at remote-play](https://github.com/KoboldAI/KoboldAI-Client/issues/427)
 - [404 error every few times](https://github.com/weserv/images/issues/406)
 - [Create cloudflare tunnel helmchart](https://github.com/gooseops/ops/issues/8)
 - [Perma rate limit](https://github.com/tangrams/heightmapper/issues/49)
