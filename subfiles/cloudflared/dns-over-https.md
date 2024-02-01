@@ -138,7 +138,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | huyct.net | Yes |
 | huyhoangit.net | Yes |
 | i81.ru | No |
-| iddqd.uk | Yes |
 | iij.jp | Yes |
 | ikarosalpha.xyz | Yes |
 | imkvq.com | No |
@@ -148,7 +147,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | inpssh.online | Yes |
 | inria.fr | No |
 | interhub.cc | Yes |
-| itxe.net | Yes |
 | jackyes.ovh | No |
 | jfchenier.ca | Yes |
 | jstockley.com | Yes |
@@ -261,7 +259,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | servebeer.com | Yes |
 | sev.monster | No |
 | shabi.icu | No |
-| shimmerl.top | Yes |
 | shoupperuser.com | Yes |
 | shutgaming.net | Yes |
 | shuting.idv.tw | Yes |
@@ -329,8 +326,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 159 |
+| Cloudflare | 156 |
 | Normal | 151 |
 
 
-### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
