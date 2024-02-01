@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [404 error every few times](https://github.com/weserv/images/issues/406)
 - [Create cloudflare tunnel helmchart](https://github.com/gooseops/ops/issues/8)
 - [Perma rate limit](https://github.com/tangrams/heightmapper/issues/49)
 - [i cant use the vscode plugin sudden](https://github.com/ferib/lua-obfuscator-plugin/issues/9)
