@@ -37495,6 +37495,7 @@ Here's a list of public Fediverse services.
 | `puls.im` | No |
 | `puls.social` | No |
 | `pumba.space` | No |
+| `pumpfirst.cc` | No |
 | `pumpitbetter.com` | No |
 | `pumpkinvrar.com` | No |
 | `punchdrunker.org` | No |
@@ -52944,7 +52945,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,146 |
-| Normal | 37,749 |
+| Normal | 37,750 |
 
 
 </details>
