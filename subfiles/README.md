@@ -104,6 +104,7 @@
     - [How many % of public Matrix services are using Cloudflare?](cloudflared/social/matrix.md)
     - [How many % of domains listed on Webring are using Cloudflare?](cloudflared/social/webring.md)
     - [How many % of links people publicly shared on IRC are using Cloudflare?](cloudflared/social/irc_share_url.md)
+    - [How many % of URLs cited in X community notes are using Cloudflare?](cloudflared/social/xcomnotes.md)
   - `Software, Public API`
     - [How many % of SSL certificates are issued to Cloudflare sites?](cloudflared/ssl_certificate.md)
     - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared/mozilla_rootca.md)
