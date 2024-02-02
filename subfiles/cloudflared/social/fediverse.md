@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,449 |
+| com | 8,450 |
 | social | 4,782 |
 | net | 4,122 |
 | org | 2,768 |
@@ -11171,6 +11171,7 @@ Here's a list of public Fediverse services.
 | `diepaula.de` | No |
 | `dieploegers.de` | No |
 | `dieselgoth.com` | No |
+| `difficultopinions.com` | No |
 | `diffraction.pt` | Yes |
 | `digeridu.de` | No |
 | `digfish.org` | No |
@@ -15226,6 +15227,7 @@ Here's a list of public Fediverse services.
 | `flipvandevoort.com` | Yes |
 | `flirtingwithnihilism.com` | No |
 | `flisol.com.br` | No |
+| `flisol.info` | No |
 | `flitpix.net` | No |
 | `flittermice.club` | Yes |
 | `flm9.me` | No |
@@ -32399,7 +32401,7 @@ Here's a list of public Fediverse services.
 | `nhcclub.net` | No |
 | `nhcrossing.com` | No |
 | `nheko.io` | Yes |
-| `nhentai.ink` | Yes |
+| `nhentai.ink` | No |
 | `nhg.moe` | No |
 | `nho.io` | No |
 | `nhs69ers.com.au` | No |
@@ -32785,6 +32787,7 @@ Here's a list of public Fediverse services.
 | `no.zone` | No |
 | `no2nd.earth` | No |
 | `noagenda.social` | No |
+| `noagendashow.io` | No |
 | `noagendasocial.com` | Yes |
 | `noagendasocial.nl` | No |
 | `noagendasocialist.com` | No |
@@ -52927,8 +52930,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,140 |
-| Normal | 37,739 |
+| Cloudflare | 15,139 |
+| Normal | 37,743 |
 
 
 </details>
