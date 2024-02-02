@@ -119,11 +119,11 @@ X (Twitter) users cited 640,271 URLs in their community notes.
 | `state.gov` | 720 (0%) | Yes |
 
 
-# 51.96
+# 51.96%
 ### of URLs cited in X community notes are using Cloudflare.
 
 
 ### History
-| Date | CN Has URL | CN without URL | All Community Notes |
-| --- | --- | --- | --- |
-| 2024-02-01 | 410,707 (75.36%) | 134,288 (24.64%) | 544,995 |
+| Date | CN Has URL | CN without URL | All Community Notes | CF URLs (%) |
+| --- | --- | --- | --- | --- |
+| 2024-02-01 | 410,707 (75.36%) | 134,288 (24.64%) | 544,995 | 332,661 (51.96%) |
