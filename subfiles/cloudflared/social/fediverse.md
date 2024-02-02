@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,452 |
-| social | 4,782 |
+| social | 4,783 |
 | net | 4,123 |
 | org | 2,768 |
 | de | 2,639 |
@@ -652,7 +652,7 @@ Here's a list of public Fediverse services.
 | `51yyds.tk` | No |
 | `52537887.xyz` | Yes |
 | `5273.me` | Yes |
-| `5280.city` | No |
+| `5280.city` | Yes |
 | `52poke.net` | Yes |
 | `52wochen.me` | No |
 | `52wochen.org` | Yes |
@@ -661,7 +661,7 @@ Here's a list of public Fediverse services.
 | `54park.de` | No |
 | `5505.industries` | Yes |
 | `551.social` | No |
-| `5550d.xyz` | No |
+| `5550d.xyz` | Yes |
 | `56k.es` | No |
 | `56k.guru` | No |
 | `56k.social` | Yes |
@@ -2712,7 +2712,7 @@ Here's a list of public Fediverse services.
 | `aotake91.net` | No |
 | `aouh.fr` | No |
 | `aow.show` | No |
-| `aowolfie.com` | No |
+| `aowolfie.com` | Yes |
 | `aoxiang.online` | Yes |
 | `aozaki.cc` | Yes |
 | `aozora.uk` | Yes |
@@ -31673,7 +31673,7 @@ Here's a list of public Fediverse services.
 | `nate601.me` | Yes |
 | `natedickson.com` | No |
 | `nategullion.com` | Yes |
-| `natehiggers.online` | Yes |
+| `natehiggers.online` | No |
 | `natehiggers.org` | Yes |
 | `natehn.com` | No |
 | `natehub.com` | Yes |
@@ -50681,6 +50681,7 @@ Here's a list of public Fediverse services.
 | `wiedenhoeft.net` | Yes |
 | `wiegandtech.net` | Yes |
 | `wiegehts.cloud` | No |
+| `wielding.social` | No |
 | `wien.rocks` | Yes |
 | `wienermobile.rentals` | No |
 | `wieners.lol` | No |
@@ -52940,8 +52941,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,143 |
-| Normal | 37,749 |
+| Cloudflare | 15,145 |
+| Normal | 37,748 |
 
 
 </details>
