@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increased Errors in CDG for R2 and Cache Reserve](https://github.com/SecOpsNews/news/issues/24264)
+- [Configuration with Cloudflare](https://github.com/SatelliteWP/rocket-nginx/issues/209)
 - [Cloudflare tunnel error](https://github.com/gethomepage/homepage/issues/2818)
 - [CloudFlare Increased Errors in FRA](https://github.com/SecOpsNews/news/issues/24257)
 - [Cloudflare adapter i18ndomains error with Astro 4.3](https://github.com/withastro/adapters/issues/148)
