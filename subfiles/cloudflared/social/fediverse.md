@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,450 |
+| com | 8,452 |
 | social | 4,782 |
-| net | 4,122 |
+| net | 4,123 |
 | org | 2,768 |
-| de | 2,638 |
+| de | 2,639 |
 
 
 - Mastodon, Pleroma, etc
@@ -9740,6 +9740,7 @@ Here's a list of public Fediverse services.
 | `cyberyoga.org` | No |
 | `cybik.moe` | Yes |
 | `cybikbase.com` | Yes |
+| `cybirdtech.com` | Yes |
 | `cybnox.de` | No |
 | `cyborch.com` | No |
 | `cyborgcentral.net` | No |
@@ -10749,6 +10750,7 @@ Here's a list of public Fediverse services.
 | `den1.cz` | Yes |
 | `den6262.net` | Yes |
 | `denachtvlinders.nl` | Yes |
+| `denbby.com` | Yes |
 | `dendai.app` | Yes |
 | `denden.world` | No |
 | `dendiz.xyz` | No |
@@ -11406,7 +11408,7 @@ Here's a list of public Fediverse services.
 | `dissident.business` | No |
 | `dissidents.social` | No |
 | `dissidents.tv` | No |
-| `dissimilitu.de` | Yes |
+| `dissimilitu.de` | No |
 | `dissociatedpress.net` | No |
 | `dissonanz.xyz` | Yes |
 | `distance.blue` | No |
@@ -12973,6 +12975,7 @@ Here's a list of public Fediverse services.
 | `ellenburg.computer` | Yes |
 | `ellenburg.org` | Yes |
 | `ellie.chat` | No |
+| `ellie.pet` | Yes |
 | `ellie.social` | No |
 | `ellieayla.net` | No |
 | `ellied.net` | No |
@@ -22890,6 +22893,7 @@ Here's a list of public Fediverse services.
 | `kaiserslautern.chat` | No |
 | `kaisin.cc` | Yes |
 | `kaitaia.life` | No |
+| `kaiteki.app` | No |
 | `kaitou.org` | No |
 | `kaixinguo.site` | Yes |
 | `kaiz.jp` | Yes |
@@ -32265,6 +32269,7 @@ Here's a list of public Fediverse services.
 | `neuromatch.social` | No |
 | `neuron.city` | No |
 | `neuropunks.org` | No |
+| `neuroqueer.net` | Yes |
 | `neuroscience-mastodon.com` | No |
 | `neuroscience.day` | Yes |
 | `neurosciencenews.com` | Yes |
@@ -34414,6 +34419,7 @@ Here's a list of public Fediverse services.
 | `operationpuppet.live` | No |
 | `operationtulip.com` | No |
 | `operator.asia` | No |
+| `opernmagazin.de` | No |
 | `opetus.org` | No |
 | `opgezwolle.nl` | No |
 | `opiat.es` | Yes |
@@ -37648,6 +37654,7 @@ Here's a list of public Fediverse services.
 | `pyxis.one` | No |
 | `pyyhepaiva.fi` | Yes |
 | `pyyython.org` | No |
+| `pz.lc` | Yes |
 | `pzelawski.xyz` | No |
 | `pzn.lgbt` | No |
 | `pztrn.name` | No |
@@ -47512,6 +47519,7 @@ Here's a list of public Fediverse services.
 | `transrights.art` | Yes |
 | `transrights.ovh` | No |
 | `transsafety.network` | Yes |
+| `trantion.uk` | No |
 | `tranvender.site` | Yes |
 | `trap.lol` | Yes |
 | `trapezial.com` | Yes |
@@ -52932,8 +52940,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,139 |
-| Normal | 37,745 |
+| Cloudflare | 15,143 |
+| Normal | 37,749 |
 
 
 </details>
