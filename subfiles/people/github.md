@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare verify checkbox not found on the page.](https://github.com/FlareSolverr/FlareSolverr/issues/1051)
 - [CloudFlare Increased Errors in CDG for R2 and Cache Reserve](https://github.com/SecOpsNews/news/issues/24264)
 - [Configuration with Cloudflare](https://github.com/SatelliteWP/rocket-nginx/issues/209)
 - [Cloudflare tunnel error](https://github.com/gethomepage/homepage/issues/2818)
