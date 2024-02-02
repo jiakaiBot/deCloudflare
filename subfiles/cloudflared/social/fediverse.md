@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,452 |
+| com | 8,453 |
 | social | 4,783 |
 | net | 4,123 |
 | org | 2,768 |
@@ -19507,6 +19507,7 @@ Here's a list of public Fediverse services.
 | `hobbs-end.uk` | No |
 | `hobbyhorse.dev` | No |
 | `hobbymetzgerei.de` | No |
+| `hobbyr.com` | No |
 | `hobbytech.club` | No |
 | `hoboninjachicken.com` | Yes |
 | `hobotheology.com` | No |
@@ -52943,7 +52944,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,146 |
-| Normal | 37,748 |
+| Normal | 37,749 |
 
 
 </details>
