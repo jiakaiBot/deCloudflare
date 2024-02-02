@@ -3284,6 +3284,7 @@ Here's a list of public Fediverse services.
 | `asmodeus.red` | No |
 | `asmodeus.tokyo` | No |
 | `asmp.social` | No |
+| `asmr.works` | No |
 | `asn.mobi` | No |
 | `asobi.world` | No |
 | `asobigbang.net` | No |
@@ -52932,7 +52933,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,139 |
-| Normal | 37,744 |
+| Normal | 37,745 |
 
 
 </details>
