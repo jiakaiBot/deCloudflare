@@ -6157,6 +6157,7 @@ Here's a list of public Fediverse services.
 | `brokenintuition.com` | Yes |
 | `brokenmirror.cc` | No |
 | `brokenpipe.de` | No |
+| `brokentech.cloud` | No |
 | `brokentoys.social` | No |
 | `brokep.com` | No |
 | `brokep.net` | No |
@@ -52927,7 +52928,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,140 |
-| Normal | 37,738 |
+| Normal | 37,739 |
 
 
 </details>
