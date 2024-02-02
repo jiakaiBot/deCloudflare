@@ -30730,6 +30730,7 @@ Here's a list of public Fediverse services.
 | `mstdn.biz` | No |
 | `mstdn.blue` | Yes |
 | `mstdn.business` | Yes |
+| `mstdn.buzz` | Yes |
 | `mstdn.ca` | Yes |
 | `mstdn.cafe` | No |
 | `mstdn.camera` | No |
@@ -52941,7 +52942,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,145 |
+| Cloudflare | 15,146 |
 | Normal | 37,748 |
 
 
