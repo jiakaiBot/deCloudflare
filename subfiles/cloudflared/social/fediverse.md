@@ -14008,6 +14008,7 @@ Here's a list of public Fediverse services.
 | `faggot.zone` | No |
 | `fahrenheit.net.pl` | No |
 | `fahrin.me` | No |
+| `fahrradtermine.berlin` | No |
 | `fai.st` | No |
 | `fai.su` | Yes |
 | `faidra.net` | No |
@@ -52931,7 +52932,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,139 |
-| Normal | 37,743 |
+| Normal | 37,744 |
 
 
 </details>
