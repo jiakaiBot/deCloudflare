@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare tunnel error](https://github.com/gethomepage/homepage/issues/2818)
 - [CloudFlare Increased Errors in FRA](https://github.com/SecOpsNews/news/issues/24257)
 - [Cloudflare adapter i18ndomains error with Astro 4.3](https://github.com/withastro/adapters/issues/148)
 - [Caching DoH proxy for delegated ENS resolution](https://github.com/ipshipyard/waterworks-community/issues/6)
