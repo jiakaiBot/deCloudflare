@@ -43,7 +43,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | avdkishore.dev | Yes |
 | azoris.ovh | No |
 | b-cdn.net | No |
-| b612.me | Yes |
 | bancuh.com | No |
 | bitdefender.net | Yes |
 | blaze-sk.ru | No |
@@ -73,7 +72,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cubedns.com | No |
 | cuprum.ru | Yes |
 | cybergroove.net | Yes |
-| cynntex.fun | No |
 | cynthialabs.net | Yes |
 | data.haus | No |
 | datahata.by | No |
@@ -326,8 +324,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 156 |
-| Normal | 151 |
+| Cloudflare | 155 |
+| Normal | 150 |
 
 
 ### 50.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
