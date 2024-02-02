@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,453 |
+| com | 8,454 |
 | social | 4,783 |
 | net | 4,123 |
 | org | 2,768 |
@@ -24025,6 +24025,7 @@ Here's a list of public Fediverse services.
 | `kogak.xyz` | No |
 | `kogasa.de` | No |
 | `kohan.pl` | Yes |
+| `kohanikin.com` | No |
 | `koharu.app` | Yes |
 | `kohl.dev` | No |
 | `kohler.is` | No |
@@ -47921,7 +47922,7 @@ Here's a list of public Fediverse services.
 | `tube-nachrichten.com` | No |
 | `tube.org.il` | No |
 | `tubedu.org` | No |
-| `tubee.fr` | Yes |
+| `tubee.fr` | No |
 | `tubejar.com` | No |
 | `tubelab.video` | No |
 | `tubercul.es` | No |
@@ -52944,8 +52945,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,146 |
-| Normal | 37,750 |
+| Cloudflare | 15,145 |
+| Normal | 37,752 |
 
 
 </details>
