@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Worker 一个文件快速为你的出海产品实现购买力平价（Purchasing Power Parity）](https://github.com/auv1107/blug/issues/6)
 - ["layout" in "content" doesn't get full schema applied](https://github.com/withastro/astro/issues/9950)
 - [Cloudflare verify checkbox not found on the page.](https://github.com/FlareSolverr/FlareSolverr/issues/1051)
 - [CloudFlare Increased Errors in CDG for R2 and Cache Reserve](https://github.com/SecOpsNews/news/issues/24264)
