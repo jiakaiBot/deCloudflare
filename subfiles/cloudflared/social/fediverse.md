@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,457 |
 | social | 4,783 |
-| net | 4,123 |
-| org | 2,769 |
-| de | 2,640 |
+| net | 4,124 |
+| org | 2,770 |
+| de | 2,641 |
 
 
 - Mastodon, Pleroma, etc
@@ -4339,6 +4339,7 @@ Here's a list of public Fediverse services.
 | `bayfur.club` | No |
 | `bayliss.social` | No |
 | `baym.lol` | No |
+| `bayofislands.community` | Yes |
 | `baz.bar` | No |
 | `baz.com` | No |
 | `bazbaze.com` | No |
@@ -19341,6 +19342,7 @@ Here's a list of public Fediverse services.
 | `hillenius.net` | No |
 | `hillexplorer.com` | No |
 | `hillion.co.uk` | Yes |
+| `hillprice.net` | No |
 | `hilltown.studio` | No |
 | `hilmarp.com` | Yes |
 | `hilmarp.social` | No |
@@ -39993,6 +39995,7 @@ Here's a list of public Fediverse services.
 | `rustyshackleford.cfd` | No |
 | `rustysoft.de` | No |
 | `rustywinks.net` | Yes |
+| `rusx.org` | No |
 | `rutan.info` | No |
 | `ruth.run` | Yes |
 | `ruthenic.com` | Yes |
@@ -45246,6 +45249,7 @@ Here's a list of public Fediverse services.
 | `taxion.xyz` | No |
 | `taxodon.com` | No |
 | `taxtech.social` | No |
+| `tay-tec.de` | No |
 | `tayfun.cloud` | Yes |
 | `taylanpince.com` | Yes |
 | `tayledras.social` | No |
@@ -52974,8 +52978,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,146 |
-| Normal | 37,780 |
+| Cloudflare | 15,147 |
+| Normal | 37,783 |
 
 
 </details>
