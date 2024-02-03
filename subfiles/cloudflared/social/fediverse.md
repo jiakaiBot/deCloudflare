@@ -11440,7 +11440,7 @@ Here's a list of public Fediverse services.
 | `disunitedstates.org` | No |
 | `disvimat.org` | Yes |
 | `dit.li` | Yes |
-| `dit11a.de` | Yes |
+| `dit11a.de` | No |
 | `ditatompel.com` | Yes |
 | `ditchthebird.eu` | No |
 | `dithernet.org` | No |
@@ -34658,6 +34658,7 @@ Here's a list of public Fediverse services.
 | `osp.gay` | No |
 | `ospio.net` | Yes |
 | `osplin.monster` | No |
+| `ospn.jp` | No |
 | `osr.community` | No |
 | `osrc.pw` | No |
 | `osrs.club` | No |
@@ -52966,8 +52967,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,146 |
-| Normal | 37,772 |
+| Cloudflare | 15,145 |
+| Normal | 37,774 |
 
 
 </details>
