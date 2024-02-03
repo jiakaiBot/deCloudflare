@@ -15109,7 +15109,7 @@ Here's a list of public Fediverse services.
 | `fivem.social` | Yes |
 | `fiveop.de` | No |
 | `fivest.one` | Yes |
-| `fivestone.info` | Yes |
+| `fivestone.info` | No |
 | `fivetanley.com` | No |
 | `fivethirtyeight.com` | No |
 | `fivewords.uk` | No |
@@ -15533,7 +15533,7 @@ Here's a list of public Fediverse services.
 | `fortyoz.org` | Yes |
 | `fortytwo.site` | No |
 | `forum-lucifer.com` | No |
-| `forum.fail` | Yes |
+| `forum.fail` | No |
 | `forumanalogue.fr` | No |
 | `forummuenchen.org` | No |
 | `foruq.ir` | No |
@@ -17677,6 +17677,7 @@ Here's a list of public Fediverse services.
 | `gonta.net` | No |
 | `gonzohacker.com` | No |
 | `goob.social` | Yes |
+| `goober.cloud` | Yes |
 | `goochiegoo.net` | Yes |
 | `good-dragon.com` | No |
 | `good-eris.net` | No |
@@ -48288,7 +48289,7 @@ Here's a list of public Fediverse services.
 | `u-srv.net` | Yes |
 | `u-tokyo.social` | No |
 | `u-v.de` | No |
-| `u.fail` | Yes |
+| `u.fail` | No |
 | `u0conveni.club` | Yes |
 | `u16.io` | Yes |
 | `u1l.de` | No |
@@ -52945,8 +52946,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,145 |
-| Normal | 37,752 |
+| Cloudflare | 15,143 |
+| Normal | 37,755 |
 
 
 </details>
