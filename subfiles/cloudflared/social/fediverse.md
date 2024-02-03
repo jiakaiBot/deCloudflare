@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,455 |
 | social | 4,783 |
 | net | 4,123 |
-| org | 2,768 |
+| org | 2,769 |
 | de | 2,640 |
 
 
@@ -12169,6 +12169,7 @@ Here's a list of public Fediverse services.
 | `dubdub.space` | No |
 | `dubdubdub.lol` | No |
 | `dubitaristes.fr` | No |
+| `dublinfreelance.org` | No |
 | `dubnation.social` | Yes |
 | `dubost.name` | No |
 | `dubroy.com` | Yes |
@@ -39589,6 +39590,8 @@ Here's a list of public Fediverse services.
 | `roll.cafe` | No |
 | `rollcake.site` | No |
 | `rolldice.online` | Yes |
+| `rolle.design` | No |
+| `rollekino.fi` | Yes |
 | `rollemaa.fi` | Yes |
 | `rollenspiel.events` | No |
 | `rollenspiel.forum` | No |
@@ -43046,6 +43049,7 @@ Here's a list of public Fediverse services.
 | `sonet.ws` | Yes |
 | `songbird.cloud` | Yes |
 | `songdogtech.net` | Yes |
+| `songmu.jp` | Yes |
 | `songngu.xyz` | Yes |
 | `songsforno.one` | Yes |
 | `songtronix.com` | No |
@@ -52968,8 +52972,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,145 |
-| Normal | 37,775 |
+| Cloudflare | 15,147 |
+| Normal | 37,777 |
 
 
 </details>
