@@ -1749,6 +1749,7 @@ Do not create new issue or we will close it as duplicate.
 | [bang_kun@X](https://twitter.com/bang_kun/status/1724856260892450894) | advertise |
 | [banhbaothitvien@X](https://twitter.com/banhbaothitvien/status/1553339442387361792) | advertise |
 | [Banikau1@X](https://twitter.com/Banikau1/status/1395272624633040898) | advertise |
+| [banirisset@X](https://twitter.com/banirisset/status/1753644982349770822) | advertise |
 | [BaNk72020586@X](https://twitter.com/BaNk72020586/status/1685687039814148096) | advertise |
 | [BankSilasap@X](https://twitter.com/BankSilasap/status/1552668171693625344) | advertise |
 | [BantinJalloh@X](https://twitter.com/BantinJalloh/status/1734896210803118238) | advertise |
