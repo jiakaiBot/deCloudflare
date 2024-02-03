@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,456 |
 | social | 4,783 |
-| net | 4,124 |
+| net | 4,123 |
 | org | 2,769 |
 | de | 2,640 |
 
@@ -24894,7 +24894,6 @@ Here's a list of public Fediverse services.
 | `lanservice.de` | No |
 | `lansky.name` | No |
 | `lansley.com` | Yes |
-| `lantana.moe` | Yes |
 | `lanterner.cf` | No |
 | `lantredugeek.net` | No |
 | `lanuevebastarda.es` | No |
@@ -26913,7 +26912,6 @@ Here's a list of public Fediverse services.
 | `m87.pp.ua` | Yes |
 | `m9esports.online` | No |
 | `ma-nic.de` | No |
-| `ma2wa.net` | Yes |
 | `ma3ali.net` | No |
 | `ma3ki.net` | No |
 | `ma8.company` | No |
@@ -52975,7 +52973,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,148 |
+| Cloudflare | 15,146 |
 | Normal | 37,779 |
 
 
