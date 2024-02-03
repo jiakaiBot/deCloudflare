@@ -39863,6 +39863,7 @@ Here's a list of public Fediverse services.
 | `ruby.social` | No |
 | `ruby2sday.net` | Yes |
 | `rubyonmac.dev` | No |
+| `rubyowo.me` | Yes |
 | `rubywhite.com` | Yes |
 | `rucknium.me` | No |
 | `rucksfuchs.de` | No |
@@ -52949,7 +52950,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,143 |
+| Cloudflare | 15,144 |
 | Normal | 37,758 |
 
 
