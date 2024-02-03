@@ -3157,6 +3157,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dax009YT@X](https://twitter.com/Dax009YT/status/1456765975043379210) | advertise |
 | [Daxi84938888@X](https://twitter.com/Daxi84938888/status/1382196765445660673) | advertise |
 | [DAYALSINGHMEEN4@X](https://twitter.com/DAYALSINGHMEEN4/status/1699418802180526554) | advertise |
+| [DayatKhan19@X](https://twitter.com/DayatKhan19/status/1753629642739831013) | advertise |
 | [daylatenminhh@X](https://twitter.com/daylatenminhh/status/1377812028593643521) | advertise |
 | [dayphuc160275@X](https://twitter.com/dayphuc160275/status/1701259929011790116) | advertise |
 | [dayunboi@X](https://twitter.com/dayunboi/status/1405146696695398401) | advertise |
