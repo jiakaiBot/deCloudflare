@@ -16385,6 +16385,7 @@ Here's a list of public Fediverse services.
 | `fussblog.net` | Yes |
 | `fusselkater.org` | No |
 | `fussenegger.pro` | No |
+| `fussy.fun` | No |
 | `futa.gg` | Yes |
 | `futa.moe` | Yes |
 | `futaba-works.com` | Yes |
@@ -52968,7 +52969,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,145 |
-| Normal | 37,774 |
+| Normal | 37,775 |
 
 
 </details>
