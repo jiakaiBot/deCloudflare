@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,456 |
+| com | 8,457 |
 | social | 4,783 |
 | net | 4,123 |
 | org | 2,769 |
@@ -3453,6 +3453,7 @@ Here's a list of public Fediverse services.
 | `atiltedtree.dev` | No |
 | `ating.press` | No |
 | `atis.social` | Yes |
+| `atiusamy.com` | No |
 | `atkinson.life` | Yes |
 | `atla.digital` | No |
 | `atlantasoccer.social` | Yes |
@@ -52974,7 +52975,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,146 |
-| Normal | 37,779 |
+| Normal | 37,780 |
 
 
 </details>
