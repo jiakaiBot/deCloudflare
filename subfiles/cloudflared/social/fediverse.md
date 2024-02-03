@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,455 |
+| com | 8,456 |
 | social | 4,783 |
 | net | 4,124 |
 | org | 2,769 |
@@ -12194,6 +12194,7 @@ Here's a list of public Fediverse services.
 | `ducnn.com` | Yes |
 | `ductuspress.eu` | No |
 | `dudadavies.world` | No |
+| `dude.fi` | Yes |
 | `dudeami.win` | Yes |
 | `dudebronation.com` | No |
 | `dudehabits.net` | No |
@@ -18269,6 +18270,7 @@ Here's a list of public Fediverse services.
 | `gutwin.org` | No |
 | `guya.ml` | No |
 | `guyfawkes.social` | No |
+| `guyjeanbikes.com` | No |
 | `guysden.online` | No |
 | `guyvernk.com` | No |
 | `guzmer.social` | Yes |
@@ -25188,7 +25190,7 @@ Here's a list of public Fediverse services.
 | `leftarchive.ie` | No |
 | `lefti.sh` | No |
 | `leftic.club` | No |
-| `lefties.social` | Yes |
+| `lefties.social` | No |
 | `leftish.media` | Yes |
 | `leftism.su` | No |
 | `leftist.network` | No |
@@ -52974,7 +52976,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,148 |
-| Normal | 37,777 |
+| Normal | 37,779 |
 
 
 </details>
