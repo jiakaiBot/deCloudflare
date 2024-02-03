@@ -790,6 +790,7 @@ Do not create new issue or we will close it as duplicate.
 | [allincapital@X](https://twitter.com/allincapital/status/1645535194785648652) | advertise |
 | [allindialeads@X](https://twitter.com/allindialeads/status/1487816693346824194) | advertise |
 | [Allis98048947@X](https://twitter.com/Allis98048947/status/1396348863519371272) | advertise |
+| [AllVibez@X](https://twitter.com/AllVibez/status/1753567062973124765) | advertise |
 | [all_aludu@X](https://twitter.com/all_aludu/status/1689482368288169984) | advertise |
 | [all_kauthsar@X](https://twitter.com/all_kauthsar/status/1745866442938220974) | advertise |
 | [AlmakLimited@X](https://twitter.com/AlmakLimited/status/1400534263007678464) | advertise |
@@ -10464,6 +10465,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nuam30225369@X](https://twitter.com/Nuam30225369/status/1394706534412820501) | advertise |
 | [nuaprohero@X](https://twitter.com/nuaprohero/status/1477548490184015875) | advertise |
 | [nubogz@X](https://twitter.com/nubogz/status/1540012868837740544) | advertise |
+| [NuFreedom1049@X](https://twitter.com/NuFreedom1049/status/1753568850338312461) | advertise |
 | [nuhhtz@X](https://twitter.com/nuhhtz/status/1523842726306795520) | advertise |
 | [Nui88888888@X](https://twitter.com/Nui88888888/status/1502913643968872452) | advertise |
 | [NukesmAn99@X](https://twitter.com/NukesmAn99/status/1496611582834585604) | advertise |
@@ -15108,6 +15110,7 @@ Do not create new issue or we will close it as duplicate.
 | [VtbKo@X](https://twitter.com/VtbKo/status/1395561904467185664) | advertise |
 | [Vtcialis2022@X](https://twitter.com/Vtcialis2022/status/1609693415024857089) | advertise |
 | [VTG4real@X](https://twitter.com/VTG4real/status/1644357576380010496) | advertise |
+| [vti15543@X](https://twitter.com/vti15543/status/1753587705387389437) | advertise |
 | [vu1408@X](https://twitter.com/vu1408/status/1377882512286867460) | advertise |
 | [Vu567105Vu@X](https://twitter.com/Vu567105Vu/status/1596477348840284161) | advertise |
 | [Vu33317074@X](https://twitter.com/Vu33317074/status/1594572608665980929) | advertise |
