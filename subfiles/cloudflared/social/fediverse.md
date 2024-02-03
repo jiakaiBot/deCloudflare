@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,455 |
 | social | 4,783 |
-| net | 4,123 |
+| net | 4,124 |
 | org | 2,769 |
 | de | 2,640 |
 
@@ -48386,6 +48386,7 @@ Here's a list of public Fediverse services.
 | `udt3000.org` | No |
 | `ue4-mstdn.tokyo` | No |
 | `uec-mstdn.com` | No |
+| `uec-tech.net` | Yes |
 | `uec.tokyo` | Yes |
 | `uefi.jp` | No |
 | `uei.co.jp` | No |
@@ -52972,7 +52973,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,147 |
+| Cloudflare | 15,148 |
 | Normal | 37,777 |
 
 
