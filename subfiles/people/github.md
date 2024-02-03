@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot post with a 4chan Pass](https://github.com/K1rakishou/Kuroba-Experimental/issues/1007)
 - [go vulncheck fails on v0.34.x-celestia branch](https://github.com/celestiaorg/celestia-core/issues/1210)
 - [404 Error on Some Series](https://github.com/danbulant/Mangades/issues/15)
 - [Cloudflare Worker 一个文件快速为你的出海产品实现购买力平价（Purchasing Power Parity）](https://github.com/auv1107/blug/issues/6)
