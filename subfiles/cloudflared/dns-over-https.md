@@ -141,7 +141,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | imkvq.com | No |
 | in-berlin.de | No |
 | indybanipal.com | No |
-| infracell.net | Yes |
 | inpssh.online | Yes |
 | inria.fr | No |
 | interhub.cc | Yes |
@@ -324,8 +323,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 155 |
+| Cloudflare | 154 |
 | Normal | 150 |
 
 
-### 50.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
