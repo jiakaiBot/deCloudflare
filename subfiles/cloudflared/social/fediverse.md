@@ -22256,6 +22256,7 @@ Here's a list of public Fediverse services.
 | `joedean.dev` | No |
 | `joeforrest.com` | Yes |
 | `joeinn.es` | Yes |
+| `joek.eu` | No |
 | `joel-smolski.com` | No |
 | `joelanders.net` | No |
 | `joelaro.com` | No |
@@ -35763,6 +35764,7 @@ Here's a list of public Fediverse services.
 | `petko.me` | No |
 | `petlover.eu.org` | Yes |
 | `petorikoru.site` | Yes |
+| `petr.biz.id` | No |
 | `petras.space` | No |
 | `petre.family` | No |
 | `petrichor.pt` | No |
@@ -47786,6 +47788,7 @@ Here's a list of public Fediverse services.
 | `trunkle.social` | No |
 | `truongan.name.vn` | No |
 | `truska.xyz` | No |
+| `trust.photography` | No |
 | `trustfundme.site` | No |
 | `trustory.fm` | Yes |
 | `trustzero.nl` | Yes |
@@ -52947,7 +52950,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,143 |
-| Normal | 37,755 |
+| Normal | 37,758 |
 
 
 </details>
