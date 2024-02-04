@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,458 |
-| social | 4,784 |
+| com | 8,459 |
+| social | 4,786 |
 | net | 4,124 |
 | org | 2,770 |
 | de | 2,641 |
@@ -7452,6 +7452,7 @@ Here's a list of public Fediverse services.
 | `chating.xyz` | No |
 | `chatio.eu` | No |
 | `chatsafemedia.online` | No |
+| `chatsafemediapodcasts.site` | No |
 | `chatslibres.com` | No |
 | `chatstodon.com` | No |
 | `chatstorm.io` | No |
@@ -14168,6 +14169,7 @@ Here's a list of public Fediverse services.
 | `fantastici.de` | No |
 | `fantasticlimburg.nl` | No |
 | `fantasyhaven.me` | Yes |
+| `fantasyhockey.social` | No |
 | `fantorovevo.com` | No |
 | `fantranslation.org` | No |
 | `fanty.xyz` | No |
@@ -15483,6 +15485,7 @@ Here's a list of public Fediverse services.
 | `forensicpsychiatry.social` | No |
 | `fores.top` | No |
 | `foresdon.jp` | No |
+| `forestodon.com` | No |
 | `forestriver.rocks` | No |
 | `forestroad.xyz` | Yes |
 | `forestver.se` | No |
@@ -15574,6 +15577,7 @@ Here's a list of public Fediverse services.
 | `fossware.space` | Yes |
 | `fossworld.hu` | No |
 | `fost.hu` | Yes |
+| `fostergram.uk` | Yes |
 | `fostodon.uk` | No |
 | `fotoclub.ml` | No |
 | `fotofed.nl` | No |
@@ -17191,6 +17195,7 @@ Here's a list of public Fediverse services.
 | `ghostlevel.net` | No |
 | `ghostly.garden` | No |
 | `ghostoctopus.monster` | No |
+| `ghostsigns.co.uk` | No |
 | `ghostsinthelab.org` | No |
 | `ghostsinultraviolet.com` | Yes |
 | `ghosty.ch` | No |
@@ -22132,6 +22137,7 @@ Here's a list of public Fediverse services.
 | `jim.bo` | Yes |
 | `jimblimey.com` | No |
 | `jimcarroll.com` | Yes |
+| `jimhope.me` | Yes |
 | `jimicorp.com` | No |
 | `jimkapsalis.com` | No |
 | `jimkubicek.com` | No |
@@ -24277,6 +24283,7 @@ Here's a list of public Fediverse services.
 | `kozlovsky.institute` | Yes |
 | `kozow.com` | Yes |
 | `kozterulethasznalatienge.day` | No |
+| `kpaxradio.live` | No |
 | `kpc.bz` | Yes |
 | `kpherox.dev` | Yes |
 | `kpodon.jp` | No |
@@ -34367,6 +34374,7 @@ Here's a list of public Fediverse services.
 | `openforfuture.org` | No |
 | `openformation.io` | No |
 | `openhood.ru` | No |
+| `openiap.io` | Yes |
 | `openinfra.dev` | Yes |
 | `openjournalism.app` | No |
 | `openlab-augsburg.de` | No |
@@ -38015,6 +38023,7 @@ Here's a list of public Fediverse services.
 | `r1tsu.com` | Yes |
 | `r2.do` | No |
 | `r23s.eu` | Yes |
+| `r2beat.jp` | No |
 | `r2fish.com` | No |
 | `r2r0.de` | No |
 | `r2squared.io` | No |
@@ -38166,6 +38175,7 @@ Here's a list of public Fediverse services.
 | `raeven.net` | Yes |
 | `raeven.social` | No |
 | `raf.hamburg` | No |
+| `raf.rs` | No |
 | `rafaelbailon.com` | Yes |
 | `rafaelbekkema.nl` | No |
 | `rafal06.dev` | No |
@@ -48216,6 +48226,7 @@ Here's a list of public Fediverse services.
 | `twoeightseven.industries` | Yes |
 | `twofifth.one` | No |
 | `twofirstnames.org` | Yes |
+| `twogate.social` | Yes |
 | `twoheaded.monster` | No |
 | `twojs.us` | Yes |
 | `twolife.be` | No |
@@ -48608,6 +48619,7 @@ Here's a list of public Fediverse services.
 | `undernopretext.social` | No |
 | `undersco.re` | No |
 | `underscore.world` | No |
+| `understars.dev` | Yes |
 | `underthediamondmoon.com` | Yes |
 | `undertone.org` | No |
 | `underwear.social` | No |
@@ -48729,6 +48741,7 @@ Here's a list of public Fediverse services.
 | `unixmail.fr` | No |
 | `unixnerd.de` | No |
 | `unixporn.pro` | No |
+| `unixspace.online` | Yes |
 | `unixweb.de` | No |
 | `unixweb.net` | No |
 | `unixwolf.com` | No |
@@ -52983,8 +52996,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,147 |
-| Normal | 37,788 |
+| Cloudflare | 15,153 |
+| Normal | 37,795 |
 
 
 </details>
