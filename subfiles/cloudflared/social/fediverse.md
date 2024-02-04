@@ -28826,6 +28826,7 @@ Here's a list of public Fediverse services.
 | `melcore.fr` | No |
 | `meld.de` | No |
 | `melder.social` | No |
+| `melendez.land` | No |
 | `melijn.me` | Yes |
 | `melikule.xyz` | No |
 | `melilot.icu` | No |
@@ -52982,7 +52983,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,146 |
-| Normal | 37,787 |
+| Normal | 37,788 |
 
 
 </details>
