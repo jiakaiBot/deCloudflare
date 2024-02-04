@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Thingiverse import not working](https://github.com/seasick/openscad-web-gui/issues/28)
 - [Unclear error when no DB connection is setup and trying to run migrations](https://github.com/drizzle-team/drizzle-kit-mirror/issues/308)
 - [Unable to start dev with Cloudflare adapter: file already exists, mkdir './node_modules/.astro/'](https://github.com/withastro/adapters/issues/151)
 - [Using acme along with UDP based inbounds leads to malfunction](https://github.com/SagerNet/sing-box/issues/1435)
