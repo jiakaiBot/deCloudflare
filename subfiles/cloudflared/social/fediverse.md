@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,459 |
-| social | 4,786 |
-| net | 4,125 |
+| com | 8,460 |
+| social | 4,787 |
+| net | 4,127 |
 | org | 2,770 |
 | de | 2,641 |
 
@@ -837,6 +837,7 @@ Here's a list of public Fediverse services.
 | `91x.gg` | Yes |
 | `940213.xyz` | Yes |
 | `9478.ch` | No |
+| `9600bps.com` | No |
 | `963.pm` | No |
 | `98degrees.co.uk` | Yes |
 | `999983.xyz` | No |
@@ -3883,6 +3884,7 @@ Here's a list of public Fediverse services.
 | `b-ark.ca` | No |
 | `b-ark.online` | No |
 | `b-c.social` | No |
+| `b-guild.net` | No |
 | `b-root-force.de` | No |
 | `b-shock.org` | No |
 | `b.mp` | Yes |
@@ -10984,6 +10986,7 @@ Here's a list of public Fediverse services.
 | `devolio.net` | Yes |
 | `devolutionnet.com` | No |
 | `devolver.social` | No |
+| `devon.social` | Yes |
 | `devonrjohnson.stream` | No |
 | `devontechnologies.com` | No |
 | `devops.pizza` | No |
@@ -38382,6 +38385,7 @@ Here's a list of public Fediverse services.
 | `rants.org` | No |
 | `rantz.xyz` | No |
 | `ranz.io` | Yes |
+| `raodaozao.net` | No |
 | `rap.pm` | Yes |
 | `rap.social` | Yes |
 | `rapadura.site` | No |
@@ -48749,7 +48753,6 @@ Here's a list of public Fediverse services.
 | `unixmail.fr` | No |
 | `unixnerd.de` | No |
 | `unixporn.pro` | No |
-| `unixspace.online` | Yes |
 | `unixweb.de` | No |
 | `unixweb.net` | No |
 | `unixwolf.com` | No |
@@ -53006,7 +53009,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,154 |
-| Normal | 37,803 |
+| Normal | 37,806 |
 
 
 </details>
