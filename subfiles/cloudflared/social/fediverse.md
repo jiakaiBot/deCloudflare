@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,459 |
 | social | 4,786 |
-| net | 4,124 |
+| net | 4,125 |
 | org | 2,770 |
 | de | 2,641 |
 
@@ -36794,6 +36794,7 @@ Here's a list of public Fediverse services.
 | `pom.community` | No |
 | `pom02.top` | No |
 | `pom18.top` | No |
+| `pomatron.dev` | Yes |
 | `pomdon.top` | No |
 | `pomdon.work` | No |
 | `pomegranate.social` | Yes |
@@ -40455,6 +40456,7 @@ Here's a list of public Fediverse services.
 | `sanifair.xyz` | No |
 | `sanin.club` | No |
 | `sanin.link` | Yes |
+| `saniwwar-touken.net` | No |
 | `sanjuanislands.social` | No |
 | `sanjuans.life` | No |
 | `sankaku.io` | No |
@@ -53001,8 +53003,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,153 |
-| Normal | 37,800 |
+| Cloudflare | 15,154 |
+| Normal | 37,801 |
 
 
 </details>
