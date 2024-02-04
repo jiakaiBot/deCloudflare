@@ -360,6 +360,7 @@ Do not create new issue or we will close it as duplicate.
 | [abrar31820285@X](https://twitter.com/abrar31820285/status/1585631033071783944) | advertise |
 | [Abre74180404@X](https://twitter.com/Abre74180404/status/1396704011009413120) | advertise |
 | [abshireto33@X](https://twitter.com/abshireto33/status/1638831403281383424) | advertise |
+| [Abuadam__@X](https://twitter.com/Abuadam__/status/1754084566438969617) | advertise |
 | [AbubakarrD44884@X](https://twitter.com/AbubakarrD44884/status/1735721758664040567) | advertise |
 | [AbuDaudAhmad1@X](https://twitter.com/AbuDaudAhmad1/status/1546309538747678720) | advertise |
 | [Abuleen84@X](https://twitter.com/Abuleen84/status/1689967069347946496) | advertise |
