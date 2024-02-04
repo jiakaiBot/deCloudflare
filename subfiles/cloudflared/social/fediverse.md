@@ -2211,6 +2211,7 @@ Here's a list of public Fediverse services.
 | `amoonrabbit.reisen` | No |
 | `amor-fati.social` | No |
 | `amoraslucha.info` | No |
+| `amormor.art` | No |
 | `amosamos.net` | No |
 | `amoteofbeing.blog` | No |
 | `amoved.es` | No |
@@ -20509,6 +20510,7 @@ Here's a list of public Fediverse services.
 | `iko.soy` | Yes |
 | `ikubai.club` | No |
 | `ikx.kr` | Yes |
+| `il-magnifico.xyz` | No |
 | `ilammy.net` | No |
 | `ilbery.family` | No |
 | `ilbery.social` | No |
@@ -25502,6 +25504,7 @@ Here's a list of public Fediverse services.
 | `lesinfos.top` | No |
 | `leskor.com` | Yes |
 | `leskowsky.net` | Yes |
+| `leslionsfloorball.fr` | No |
 | `lespocky.de` | No |
 | `lespoesiesdheloise.fr` | No |
 | `less-log.com` | Yes |
@@ -25659,6 +25662,7 @@ Here's a list of public Fediverse services.
 | `liberal.city` | No |
 | `liberal.lgbt` | No |
 | `liberal.win` | No |
+| `liberalsociety.uk` | No |
 | `liberated.network` | No |
 | `liberated.press` | No |
 | `liberatedsystems.co.uk` | No |
@@ -52890,6 +52894,7 @@ Here's a list of public Fediverse services.
 | `zrq.io` | Yes |
 | `zrx.one` | No |
 | `zrythm.org` | No |
+| `zs-studanka.cz` | No |
 | `zsemberi.de` | No |
 | `zsh.li` | Yes |
 | `zsiegel.social` | Yes |
@@ -52997,7 +53002,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,153 |
-| Normal | 37,795 |
+| Normal | 37,800 |
 
 
 </details>
