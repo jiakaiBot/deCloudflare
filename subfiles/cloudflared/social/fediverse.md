@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,458 |
-| social | 4,783 |
+| social | 4,784 |
 | net | 4,124 |
 | org | 2,770 |
 | de | 2,641 |
@@ -39283,6 +39283,7 @@ Here's a list of public Fediverse services.
 | `rimworld.gallery` | No |
 | `rin.fo` | Yes |
 | `rin.pink` | Yes |
+| `rinarin.social` | Yes |
 | `rince.de` | No |
 | `rincha.club` | Yes |
 | `rinconcito.digital` | No |
@@ -52982,7 +52983,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,146 |
+| Cloudflare | 15,147 |
 | Normal | 37,788 |
 
 
