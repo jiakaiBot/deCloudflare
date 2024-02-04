@@ -24,6 +24,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | aa.net.uk | No |
 | abd.ong | Yes |
 | abdullahabas.de | Yes |
+| abppro.ru | Yes |
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
@@ -33,6 +34,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | alekberg.net | No |
 | alidns.com | No |
 | amlegion.org | No |
+| andersfarms.ltd | Yes |
 | andrewnw.xyz | Yes |
 | anudeep.me | Yes |
 | apad.pro | Yes |
@@ -77,6 +79,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | datahata.by | No |
 | daw.dev | No |
 | despagne.net | No |
+| digitaladapt.com | Yes |
 | digitale-gesellschaft.ch | No |
 | digitalsize.net | No |
 | disconnect.app | Yes |
@@ -146,6 +149,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | interhub.cc | Yes |
 | jackyes.ovh | No |
 | jfchenier.ca | Yes |
+| jnraptor.net | Yes |
 | jstockley.com | Yes |
 | jundev.org | No |
 | justincounts.com | No |
@@ -280,6 +284,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | switch.ch | No |
 | syaifullah.com | Yes |
 | syshero.org | No |
+| systemfall.ru | Yes |
 | sytes.net | Yes |
 | t53.de | No |
 | telekom.de | Yes |
@@ -310,6 +315,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wang.art | Yes |
 | wargan.io | No |
 | waringer-atg.de | No |
+| wellstsai.com | No |
 | wikimedia-dns.org | No |
 | woodbridge.club | No |
 | wriedts.de | No |
@@ -323,8 +329,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 154 |
-| Normal | 150 |
+| Cloudflare | 159 |
+| Normal | 151 |
 
 
-### 50.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
