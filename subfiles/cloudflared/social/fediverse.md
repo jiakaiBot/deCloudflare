@@ -21535,7 +21535,7 @@ Here's a list of public Fediverse services.
 | `izumi.pw` | No |
 | `izumiz.me` | Yes |
 | `izza.party` | Yes |
-| `izzie.mom` | Yes |
+| `izzie.mom` | No |
 | `izzodlaw.com` | Yes |
 | `izzup.com` | No |
 | `izzy.rodeo` | No |
@@ -38258,6 +38258,7 @@ Here's a list of public Fediverse services.
 | `rako.space` | No |
 | `rakozy.us` | No |
 | `raku.party` | Yes |
+| `rakupottery.ca` | No |
 | `rakyat.cc` | No |
 | `rakyatbiasa.blog` | No |
 | `rakyll.org` | No |
@@ -52979,8 +52980,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,147 |
-| Normal | 37,784 |
+| Cloudflare | 15,146 |
+| Normal | 37,786 |
 
 
 </details>
