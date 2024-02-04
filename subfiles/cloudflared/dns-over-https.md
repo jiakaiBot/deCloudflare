@@ -28,7 +28,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
-| aerro.in | Yes |
 | ahadns.net | Yes |
 | albony.xyz | Yes |
 | alekberg.net | No |
@@ -188,7 +187,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | maxfong.cc | Yes |
 | meddy94.de | No |
 | meganerd.nl | No |
-| memorialus.eu.org | No |
 | mestdag.fr | No |
 | mikrotikrumahan.my.id | No |
 | milkpie.one | Yes |
@@ -329,8 +327,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 159 |
-| Normal | 151 |
+| Cloudflare | 158 |
+| Normal | 150 |
 
 
 ### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
