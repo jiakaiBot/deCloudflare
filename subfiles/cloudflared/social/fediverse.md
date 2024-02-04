@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,457 |
+| com | 8,458 |
 | social | 4,783 |
 | net | 4,124 |
 | org | 2,770 |
@@ -51158,6 +51158,7 @@ Here's a list of public Fediverse services.
 | `workbus.com` | No |
 | `workers.dev` | Yes |
 | `workersreviews.com` | No |
+| `working-directory.com` | No |
 | `workingweb.nl` | No |
 | `workisboring.com` | No |
 | `worklifepsych.social` | No |
@@ -52979,7 +52980,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,147 |
-| Normal | 37,783 |
+| Normal | 37,784 |
 
 
 </details>
