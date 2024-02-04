@@ -14296,6 +14296,7 @@ Here's a list of public Fediverse services.
 | `fdvrs.xyz` | No |
 | `fe-mastodon.tk` | No |
 | `feaneron.com` | No |
+| `fear.garden` | No |
 | `fearisfreedom.com` | No |
 | `fearness.org` | No |
 | `feastcoast.com` | Yes |
@@ -52981,7 +52982,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,146 |
-| Normal | 37,786 |
+| Normal | 37,787 |
 
 
 </details>
