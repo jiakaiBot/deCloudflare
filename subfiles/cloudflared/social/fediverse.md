@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,460 |
-| social | 4,787 |
+| social | 4,788 |
 | net | 4,127 |
-| org | 2,770 |
-| de | 2,641 |
+| org | 2,771 |
+| de | 2,642 |
 
 
 - Mastodon, Pleroma, etc
@@ -949,6 +949,7 @@ Here's a list of public Fediverse services.
 | `abakas.com` | No |
 | `abakdash.com` | No |
 | `abando.social` | No |
+| `abandoned.systems` | No |
 | `abandonedsocialnetwork.com` | No |
 | `abaweb.online` | No |
 | `abaweb.social` | No |
@@ -25741,6 +25742,7 @@ Here's a list of public Fediverse services.
 | `librenet.gr` | No |
 | `librenet.uy` | No |
 | `librenet.xyz` | No |
+| `librenode.org` | No |
 | `libreoffice.lat` | No |
 | `libreon.fr` | No |
 | `libreplanetbr.org` | No |
@@ -33592,6 +33594,7 @@ Here's a list of public Fediverse services.
 | `nyaa.tech` | Yes |
 | `nyaaa.net` | No |
 | `nyaafire.com` | No |
+| `nyaan.social` | Yes |
 | `nyac.at` | Yes |
 | `nyadobe.online` | No |
 | `nyago.cyou` | Yes |
@@ -35650,6 +35653,7 @@ Here's a list of public Fediverse services.
 | `penguin42.com` | No |
 | `penguinability.net` | No |
 | `penguinhub.org` | Yes |
+| `penguinite.dev` | No |
 | `penguinore.net` | No |
 | `penguinpete.com` | No |
 | `penguinproducer.com` | Yes |
@@ -43275,6 +43279,7 @@ Here's a list of public Fediverse services.
 | `spaekhugger.de` | No |
 | `spaeth.social` | No |
 | `spaetzle.info` | No |
+| `spaffel.de` | Yes |
 | `spaghettimonster.church` | No |
 | `spaill.net` | Yes |
 | `spainco.net` | No |
@@ -48753,6 +48758,7 @@ Here's a list of public Fediverse services.
 | `unixmail.fr` | No |
 | `unixnerd.de` | No |
 | `unixporn.pro` | No |
+| `unixspace.online` | Yes |
 | `unixweb.de` | No |
 | `unixweb.net` | No |
 | `unixwolf.com` | No |
@@ -53008,8 +53014,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,154 |
-| Normal | 37,806 |
+| Cloudflare | 15,157 |
+| Normal | 37,809 |
 
 
 </details>
