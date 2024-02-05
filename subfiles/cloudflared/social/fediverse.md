@@ -32571,6 +32571,7 @@ Here's a list of public Fediverse services.
 | `nifty.cc` | No |
 | `niftycloud.info` | No |
 | `nigerianow.social` | No |
+| `nigga.academy` | Yes |
 | `nigger.tax` | No |
 | `niggers.auction` | No |
 | `night.coffee` | No |
@@ -53036,7 +53037,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,157 |
+| Cloudflare | 15,158 |
 | Normal | 37,831 |
 
 
