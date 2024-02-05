@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,788 |
 | net | 4,127 |
 | org | 2,771 |
-| de | 2,642 |
+| de | 2,643 |
 
 
 - Mastodon, Pleroma, etc
@@ -11417,6 +11417,7 @@ Here's a list of public Fediverse services.
 | `dissidents.social` | No |
 | `dissidents.tv` | No |
 | `dissimilitu.de` | No |
+| `dissociat.ing` | Yes |
 | `dissociatedpress.net` | No |
 | `dissonanz.xyz` | Yes |
 | `distance.blue` | No |
@@ -16794,7 +16795,7 @@ Here's a list of public Fediverse services.
 | `gay-pirate-assassins.de` | No |
 | `gay-skater-caster.de` | No |
 | `gay.camera` | No |
-| `gay.coffee` | Yes |
+| `gay.coffee` | No |
 | `gay.mba` | No |
 | `gaybaby.club` | No |
 | `gaybdsm.group` | Yes |
@@ -34058,6 +34059,7 @@ Here's a list of public Fediverse services.
 | `oldfriends.live` | No |
 | `oldgraygamer.com` | Yes |
 | `oldinternet.net` | No |
+| `oldkid.de` | No |
 | `oldkid.digital` | No |
 | `oldos.me` | No |
 | `oldpeople.cafe` | No |
@@ -53015,7 +53017,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,157 |
-| Normal | 37,809 |
+| Normal | 37,811 |
 
 
 </details>
