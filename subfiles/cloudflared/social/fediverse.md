@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,788 |
 | net | 4,128 |
 | org | 2,771 |
-| de | 2,645 |
+| de | 2,646 |
 
 
 - Mastodon, Pleroma, etc
@@ -3368,6 +3368,7 @@ Here's a list of public Fediverse services.
 | `astralchan.xyz` | No |
 | `astralsystem.com` | Yes |
 | `astrel.la` | No |
+| `astri.family` | No |
 | `astria.city` | No |
 | `astrian.social` | Yes |
 | `astrianzheng.cn` | Yes |
@@ -22110,6 +22111,7 @@ Here's a list of public Fediverse services.
 | `jgaskins.wtf` | Yes |
 | `jgc.org` | Yes |
 | `jgd.ovh` | No |
+| `jgdresden.de` | No |
 | `jgholistic.com` | No |
 | `jgilje.net` | No |
 | `jgregorymcverry.com` | No |
@@ -53040,7 +53042,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,164 |
-| Normal | 37,827 |
+| Normal | 37,829 |
 
 
 </details>
