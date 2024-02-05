@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when using vite with mdx, and navigating from link](https://github.com/remix-run/remix/issues/8685)
 - [WebRTC causes webpage to become "Not Secure"](https://github.com/bluenviron/mediamtx/issues/2991)
 - [403 CSRF Token Mismatch Error with nuxt-csurf in Nuxt 3 Application](https://github.com/Morgbn/nuxt-csurf/issues/28)
 - [Thingiverse import not working](https://github.com/seasick/openscad-web-gui/issues/28)
