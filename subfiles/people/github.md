@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Chromium windows appearing despite HEADLESS=true](https://github.com/FlareSolverr/FlareSolverr/issues/1058)
 - [Uploading fails with a 502 error](https://github.com/thunderbird/addons-server/issues/268)
 - [Avoid Forcing SSL in Production Environment](https://github.com/maybe-finance/maybe/issues/308)
 - [CloudFlare Control Plane Test on Thursday, February 15th, 2024](https://github.com/SecOpsNews/news/issues/24342)
