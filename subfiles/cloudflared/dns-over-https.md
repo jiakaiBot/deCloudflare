@@ -287,7 +287,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | t53.de | No |
 | telekom.de | Yes |
 | thebuckners.org | No |
-| thethorsens.org | No |
 | tiar.app | No |
 | tiarap.org | Yes |
 | tienpham.id.vn | Yes |
@@ -304,7 +303,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | undo.it | Yes |
 | unstoppable.io | Yes |
 | unx.io | No |
-| uradoori.org | Yes |
 | urology.wiki | No |
 | viatech.com.tw | Yes |
 | virga.pp.ua | Yes |
@@ -327,8 +325,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 158 |
-| Normal | 150 |
+| Cloudflare | 157 |
+| Normal | 149 |
 
 
 ### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
