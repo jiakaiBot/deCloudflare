@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,788 |
 | net | 4,127 |
 | org | 2,771 |
-| de | 2,643 |
+| de | 2,645 |
 
 
 - Mastodon, Pleroma, etc
@@ -944,6 +944,7 @@ Here's a list of public Fediverse services.
 | `aatomu.work` | Yes |
 | `ab2m.cf` | Yes |
 | `ab62.icu` | Yes |
+| `ababil.au` | Yes |
 | `abacusswitch.me` | No |
 | `abaft.co` | No |
 | `abakas.com` | No |
@@ -4222,6 +4223,7 @@ Here's a list of public Fediverse services.
 | `baroukh.com` | No |
 | `barr0w.net` | No |
 | `barra.bar` | No |
+| `barredo.work` | No |
 | `barrenfrozenwasteland.com` | No |
 | `barrett.dog` | No |
 | `barrett.fish` | No |
@@ -5923,6 +5925,7 @@ Here's a list of public Fediverse services.
 | `boykissers.club` | No |
 | `boymoder.biz` | No |
 | `boyos.org` | No |
+| `boys-love.xyz` | No |
 | `boys.computer` | No |
 | `boyslove.jp` | No |
 | `boyter.org` | No |
@@ -6248,6 +6251,7 @@ Here's a list of public Fediverse services.
 | `brydge.dev` | Yes |
 | `bryla.tk` | Yes |
 | `brytonlacquement.com` | No |
+| `bryx.fr` | No |
 | `brz9.dev` | No |
 | `brzozka.tv` | No |
 | `brzozow.xyz` | No |
@@ -9184,6 +9188,7 @@ Here's a list of public Fediverse services.
 | `crinstamcamp.com` | No |
 | `cripplepunk.club` | No |
 | `criptica.org` | No |
+| `crisis.city` | No |
 | `crisiscommons.net` | No |
 | `crisismodel.com` | No |
 | `crisisproof.it` | No |
@@ -11042,6 +11047,7 @@ Here's a list of public Fediverse services.
 | `dfir.social` | Yes |
 | `dflatmajor.social` | No |
 | `dfmab.eu` | No |
+| `dfri.se` | No |
 | `dfsek.com` | Yes |
 | `dftba.club` | Yes |
 | `dftba.xyz` | Yes |
@@ -11658,6 +11664,7 @@ Here's a list of public Fediverse services.
 | `doglet.ca` | No |
 | `dogno.se` | Yes |
 | `dogo.pictures` | Yes |
+| `dogondo.de` | No |
 | `dogphilosophy.net` | No |
 | `dogs.chat` | No |
 | `dogs.photos` | No |
@@ -16168,6 +16175,7 @@ Here's a list of public Fediverse services.
 | `fstube.net` | No |
 | `fsu-snuipp.fr` | Yes |
 | `fsub.de` | No |
+| `ft-k.de` | No |
 | `ftb.moe` | No |
 | `ftdrd.xyz` | No |
 | `ftfl.ca` | No |
@@ -20462,7 +20470,7 @@ Here's a list of public Fediverse services.
 | `igu.fi` | Yes |
 | `igualdad.cf` | No |
 | `iguana.coffee` | Yes |
-| `iguanodon.net` | Yes |
+| `iguanodon.net` | No |
 | `igw.ovh` | No |
 | `igwan.fr` | No |
 | `igwigg.space` | No |
@@ -24099,8 +24107,10 @@ Here's a list of public Fediverse services.
 | `kollegin.eu` | Yes |
 | `kolly.eu` | No |
 | `kolombo.xyz` | No |
+| `kolosowscy.pl` | No |
 | `kolotipy.cz` | No |
 | `kom-in.de` | No |
+| `komachan.jp` | No |
 | `komaedak.in` | No |
 | `komaniya.work` | Yes |
 | `komaverse.de` | No |
@@ -32349,6 +32359,7 @@ Here's a list of public Fediverse services.
 | `newland.world` | No |
 | `newmusic.social` | Yes |
 | `newnebraska.online` | No |
+| `newnet.live` | No |
 | `neworleanssaints.social` | No |
 | `newpublicsquare.com` | No |
 | `news-p.com` | No |
@@ -40967,6 +40978,7 @@ Here's a list of public Fediverse services.
 | `scoutingnl.social` | No |
 | `scoutnet.swiss` | No |
 | `scramble.city` | No |
+| `scrambled.news` | No |
 | `scrapist.xyz` | No |
 | `scrapp.app` | No |
 | `scrappydog.com` | No |
@@ -42465,6 +42477,7 @@ Here's a list of public Fediverse services.
 | `slightlycyberpunk.com` | No |
 | `slikr.net` | No |
 | `slime.computer` | No |
+| `slime.digital` | Yes |
 | `slime.global` | No |
 | `slime.land` | No |
 | `slimed.org` | Yes |
@@ -47518,6 +47531,7 @@ Here's a list of public Fediverse services.
 | `trainasone.com` | Yes |
 | `trainhobo.com` | No |
 | `training-fitness.fun` | No |
+| `trainnet.kr` | Yes |
 | `trains.coffee` | No |
 | `trainsgende.red` | No |
 | `trainsgender.today` | Yes |
@@ -49898,6 +49912,7 @@ Here's a list of public Fediverse services.
 | `voxmojo.com` | No |
 | `voxpop.social` | No |
 | `voxtech.studio` | No |
+| `voxtek.enterprises` | No |
 | `vpalepu.com` | No |
 | `vpclmulqdq.moe` | No |
 | `vplays.live` | Yes |
@@ -50277,6 +50292,7 @@ Here's a list of public Fediverse services.
 | `watadon.com` | No |
 | `watchmeexplode.net` | No |
 | `watchpoint.social` | No |
+| `watchword.blog` | No |
 | `watdalos.de` | No |
 | `water.house` | Yes |
 | `waterauditca.org` | Yes |
@@ -53020,8 +53036,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,155 |
-| Normal | 37,817 |
+| Cloudflare | 15,157 |
+| Normal | 37,831 |
 
 
 </details>
