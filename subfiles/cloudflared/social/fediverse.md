@@ -3368,6 +3368,7 @@ Here's a list of public Fediverse services.
 | `astralchan.xyz` | No |
 | `astralsystem.com` | Yes |
 | `astrel.la` | No |
+| `astri.family` | No |
 | `astria.city` | No |
 | `astrian.social` | Yes |
 | `astrianzheng.cn` | Yes |
@@ -16607,7 +16608,7 @@ Here's a list of public Fediverse services.
 | `galaxybound.com` | Yes |
 | `galaxybrain.co` | Yes |
 | `galaxycrow.de` | Yes |
-| `galaxyrailway.link` | No |
+| `galaxyrailway.link` | Yes |
 | `galbo.io` | Yes |
 | `galegale.online` | No |
 | `galenabell.com` | No |
@@ -27620,7 +27621,7 @@ Here's a list of public Fediverse services.
 | `martinchapman.co.uk` | Yes |
 | `martinez.sh` | No |
 | `martinezperspective.org` | No |
-| `martinfernandez.info` | No |
+| `martinfernandez.info` | Yes |
 | `martingale.family` | No |
 | `martinh.net` | No |
 | `martinhaagen.se` | No |
@@ -35668,7 +35669,7 @@ Here's a list of public Fediverse services.
 | `penguin42.com` | No |
 | `penguinability.net` | No |
 | `penguinhub.org` | Yes |
-| `penguinite.dev` | No |
+| `penguinite.dev` | Yes |
 | `penguinore.net` | No |
 | `penguinpete.com` | No |
 | `penguinproducer.com` | Yes |
@@ -49912,7 +49913,7 @@ Here's a list of public Fediverse services.
 | `voxint.pw` | No |
 | `voxmojo.com` | No |
 | `voxpop.social` | No |
-| `voxtech.studio` | No |
+| `voxtech.studio` | Yes |
 | `voxtek.enterprises` | No |
 | `vpalepu.com` | No |
 | `vpclmulqdq.moe` | No |
@@ -51942,7 +51943,7 @@ Here's a list of public Fediverse services.
 | `y.community` | No |
 | `y.la` | No |
 | `y2k-cy.com` | No |
-| `y2k.zone` | No |
+| `y2k.zone` | Yes |
 | `yaat.org` | Yes |
 | `yabtm.us` | No |
 | `yaddayaddayadda.xyz` | No |
@@ -53037,8 +53038,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,158 |
-| Normal | 37,831 |
+| Cloudflare | 15,163 |
+| Normal | 37,827 |
 
 
 </details>
