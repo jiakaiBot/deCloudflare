@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,461 |
+| com | 8,462 |
 | social | 4,788 |
 | net | 4,127 |
 | org | 2,771 |
@@ -22323,6 +22323,7 @@ Here's a list of public Fediverse services.
 | `johnbredesen.com` | No |
 | `johnconway.art` | Yes |
 | `johndevine.co.uk` | No |
+| `johndewees.com` | No |
 | `johndoe.gq` | Yes |
 | `johneckman.com` | No |
 | `johnhenry.us` | No |
@@ -25862,7 +25863,7 @@ Here's a list of public Fediverse services.
 | `lilychan.dev` | No |
 | `lilygl.net` | Yes |
 | `lilymagic.com` | Yes |
-| `lilypad.works` | Yes |
+| `lilypad.works` | No |
 | `lilypadding.me` | Yes |
 | `lilysthings.org` | Yes |
 | `limelee.xyz` | No |
@@ -53019,8 +53020,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,156 |
-| Normal | 37,815 |
+| Cloudflare | 15,155 |
+| Normal | 37,817 |
 
 
 </details>
