@@ -4510,6 +4510,7 @@ Do not create new issue or we will close it as duplicate.
 | [global354921@X](https://twitter.com/global354921/status/1393984954078400513) | advertise |
 | [globalgamerguy@X](https://twitter.com/globalgamerguy/status/1658526706687148049) | advertise |
 | [GlobeTechnologi@X](https://twitter.com/GlobeTechnologi/status/1731577384921698673) | advertise |
+| [Gloobally@X](https://twitter.com/Gloobally/status/1754585861356732668) | advertise |
 | [GloriaThein2022@X](https://twitter.com/GloriaThein2022/status/1723751000799056355) | advertise |
 | [GLsaisai@X](https://twitter.com/GLsaisai/status/1394137969024401410) | advertise |
 | [GMinzolt@X](https://twitter.com/GMinzolt/status/1516134801056575491) | advertise |
