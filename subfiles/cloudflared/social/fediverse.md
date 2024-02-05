@@ -3368,6 +3368,7 @@ Here's a list of public Fediverse services.
 | `astralchan.xyz` | No |
 | `astralsystem.com` | Yes |
 | `astrel.la` | No |
+| `astri.family` | No |
 | `astria.city` | No |
 | `astrian.social` | Yes |
 | `astrianzheng.cn` | Yes |
@@ -53038,7 +53039,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,163 |
-| Normal | 37,826 |
+| Normal | 37,827 |
 
 
 </details>
