@@ -3368,7 +3368,6 @@ Here's a list of public Fediverse services.
 | `astralchan.xyz` | No |
 | `astralsystem.com` | Yes |
 | `astrel.la` | No |
-| `astri.family` | No |
 | `astria.city` | No |
 | `astrian.social` | Yes |
 | `astrianzheng.cn` | Yes |
@@ -6989,6 +6988,7 @@ Here's a list of public Fediverse services.
 | `castlecannon.house` | No |
 | `castleton.family` | No |
 | `castling.club` | No |
+| `castmast.nl` | No |
 | `castodon.jp` | No |
 | `castopod.it` | Yes |
 | `castopod.social` | No |
