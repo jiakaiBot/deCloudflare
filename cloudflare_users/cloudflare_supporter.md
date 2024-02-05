@@ -2115,6 +2115,7 @@ Do not create new issue or we will close it as duplicate.
 | [bnhnguy10869985@X](https://twitter.com/bnhnguy10869985/status/1556859719465472002) | advertise |
 | [BnhNguynth69220@X](https://twitter.com/BnhNguynth69220/status/1686582150433517568) | advertise |
 | [BnjamenJaleel@X](https://twitter.com/BnjamenJaleel/status/1689279552894226434) | advertise |
+| [bnm1212814982@X](https://twitter.com/bnm1212814982/status/1754460256451834170) | advertise |
 | [Bo24354593@X](https://twitter.com/Bo24354593/status/1404093711986827266) | advertise |
 | [Bo50994020@X](https://twitter.com/Bo50994020/status/1586130148004622337) | advertise |
 | [Bo90364251@X](https://twitter.com/Bo90364251/status/1392359546568417281) | advertise |
@@ -2856,6 +2857,7 @@ Do not create new issue or we will close it as duplicate.
 | [CROauditor@X](https://twitter.com/CROauditor/status/1627508426925572097) | advertise |
 | [crofflendcoffee@X](https://twitter.com/crofflendcoffee/status/1536313341504720896) | advertise |
 | [CRONUSISLIVE@X](https://twitter.com/CRONUSISLIVE/status/1513956818644783104) | advertise |
+| [CRoopan68704@X](https://twitter.com/CRoopan68704/status/1754459085603525058) | advertise |
 | [crosiderr@X](https://twitter.com/crosiderr/status/1379494464545243136) | advertise |
 | [crossdressing00@X](https://twitter.com/crossdressing00/status/1720081189497901397) | advertise |
 | [CrowdlingoUK@X](https://twitter.com/CrowdlingoUK/status/1676586922381041664) | advertise |
@@ -6514,6 +6516,7 @@ Do not create new issue or we will close it as duplicate.
 | [jsilvadestaques@X](https://twitter.com/jsilvadestaques/status/1546111425898287105) | advertise |
 | [jsneheheiie@X](https://twitter.com/jsneheheiie/status/1552562016937984000) | advertise |
 | [Jso90803827@X](https://twitter.com/Jso90803827/status/1580284379284529152) | advertise |
+| [JSonbalee@X](https://twitter.com/JSonbalee/status/1754436102453342382) | advertise |
 | [JSongtakri@X](https://twitter.com/JSongtakri/status/1380804099340439556) | advertise |
 | [Jspiral360@X](https://twitter.com/Jspiral360/status/1539858076802637824) | advertise |
 | [jst79@X](https://twitter.com/jst79/status/1536882259101290496) | advertise |
@@ -7807,6 +7810,7 @@ Do not create new issue or we will close it as duplicate.
 | [LGQuang1989@X](https://twitter.com/LGQuang1989/status/1552674772571471875) | advertise |
 | [LHin00071152@X](https://twitter.com/LHin00071152/status/1377265697613508612) | advertise |
 | [LHiuAnh3@X](https://twitter.com/LHiuAnh3/status/1552344011804880896) | advertise |
+| [LHnum44611@X](https://twitter.com/LHnum44611/status/1754446542705197160) | advertise |
 | [LHuHng10@X](https://twitter.com/LHuHng10/status/1533151029885566976) | advertise |
 | [LHunh1358844190@X](https://twitter.com/LHunh1358844190/status/1730833906205909406) | advertise |
 | [Lhunhc31661166@X](https://twitter.com/Lhunhc31661166/status/1741655718179340295) | advertise |
@@ -10855,6 +10859,7 @@ Do not create new issue or we will close it as duplicate.
 | [papajuce100@X](https://twitter.com/papajuce100/status/1399211216061407233) | advertise |
 | [PaPaNaingLinTun@X](https://twitter.com/PaPaNaingLinTun/status/1390941738303299586) | advertise |
 | [papas68@X](https://twitter.com/papas68/status/1485710848983244806) | advertise |
+| [PaphanP@X](https://twitter.com/PaphanP/status/1754448570101694833) | advertise |
 | [PapiAdryell@X](https://twitter.com/PapiAdryell/status/1715384674237767888) | advertise |
 | [papimii@X](https://twitter.com/papimii/status/1582258872512761856) | advertise |
 | [PAPPY_JEFF12@X](https://twitter.com/PAPPY_JEFF12/status/1588182457098309632) | advertise |
@@ -15447,6 +15452,7 @@ Do not create new issue or we will close it as duplicate.
 | [wi_no_haf_sry@X](https://twitter.com/wi_no_haf_sry/status/1625902149480718336) | advertise |
 | [wkfar@X](https://twitter.com/wkfar/status/1598157904825417729) | advertise |
 | [wL5X7lOTQMmoHiG@X](https://twitter.com/wL5X7lOTQMmoHiG/status/1398145990977327104) | advertise |
+| [wml5QTb7zqRDEQm@X](https://twitter.com/wml5QTb7zqRDEQm/status/1754442340117491822) | advertise |
 | [WMT48027007@X](https://twitter.com/WMT48027007/status/1393435090273800195) | advertise |
 | [WobblyWiFi@X](https://twitter.com/WobblyWiFi/status/1456571906006650883) | advertise |
 | [woden_0141@X](https://twitter.com/woden_0141/status/1534876459688337408) | advertise |
