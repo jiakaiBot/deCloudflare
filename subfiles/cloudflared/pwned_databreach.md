@@ -570,6 +570,7 @@ Here's a list of breached sites.
 | SpecialKSpamList (Special K Data Feed Spam List) | 30,741,620 | No |
 | Sphero | 832,255 | Yes |
 | Spirol | 55,622 | Yes |
+| Spoutible | 207,114 | Yes |
 | SprashivaiRu (Спрашивай.ру) | 3,474,763 | Yes |
 | SpyFone | 44,109 | Yes |
 | Staminus | 26,815 | No |
@@ -730,10 +731,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 414 | 4,472,771,645 |
+| Cloudflare | 415 | 4,472,978,759 |
 | Normal | 295 | 4,657,658,886 |
 
 
 
-### 58.4% of breached sites (pwned sites) are using Cloudflare.
+### 58.5% of breached sites (pwned sites) are using Cloudflare.
 ### 49% of leaked accounts are on Cloudflare sites.
