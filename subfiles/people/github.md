@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Erreur dans la récupération de la consommation](https://github.com/bokub/conso-api/issues/30)
+- [Captcha required stuck (infinite looping)](https://github.com/KotatsuApp/kotatsu-parsers/issues/546)
 - [Captcha required stuck (infinite looping)](https://github.com/KotatsuApp/Kotatsu/issues/741)
 - [Error when using vite with mdx, and navigating from link](https://github.com/remix-run/remix/issues/8685)
 - [WebRTC causes webpage to become "Not Secure"](https://github.com/bluenviron/mediamtx/issues/2991)
