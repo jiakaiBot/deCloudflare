@@ -48762,7 +48762,6 @@ Here's a list of public Fediverse services.
 | `unixmail.fr` | No |
 | `unixnerd.de` | No |
 | `unixporn.pro` | No |
-| `unixspace.online` | Yes |
 | `unixweb.de` | No |
 | `unixweb.net` | No |
 | `unixwolf.com` | No |
@@ -53019,7 +53018,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,156 |
+| Cloudflare | 15,155 |
 | Normal | 37,815 |
 
 
