@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,462 |
 | social | 4,788 |
-| net | 4,127 |
+| net | 4,128 |
 | org | 2,771 |
 | de | 2,645 |
 
@@ -4752,6 +4752,7 @@ Here's a list of public Fediverse services.
 | `betamax65.de` | No |
 | `betchesbubble.com` | No |
 | `bethejustin.com` | No |
+| `betopia.net` | Yes |
 | `bettadelic.art` | No |
 | `better.boston` | Yes |
 | `betterconversations.online` | Yes |
@@ -53038,7 +53039,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,163 |
+| Cloudflare | 15,164 |
 | Normal | 37,827 |
 
 
