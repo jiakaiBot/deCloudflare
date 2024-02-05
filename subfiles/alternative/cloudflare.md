@@ -34,7 +34,9 @@ We might create a guide for some self-hosting basics which don't require Cloudfl
 | Voxility | ? | ? | https://www.voxility.com/ |
 | eQualitie | not gratis | gratis during COVID19 | https://equalit.ie/ |
 | neoCities | static pages | Free | https://neocities.org/ |
-| sucuri | not gratis; tor hostility at ~3.483% | $200+ | https://sucuri.net/|
+| sucuri | not gratis; tor hostility at ~3.483% | $200+ | https://sucuri.net/ |
+| Deflect | ? | ? | https://deflect.ca/ |
+| Sakura Cloud | not English | $10- | https://cloud.sakura.ad.jp/ |
 
 
 ## Not researched yet
