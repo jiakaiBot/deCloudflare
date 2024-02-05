@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,460 |
+| com | 8,461 |
 | social | 4,788 |
 | net | 4,127 |
 | org | 2,771 |
@@ -40597,6 +40597,7 @@ Here's a list of public Fediverse services.
 | `satoshiswap.exchange` | Yes |
 | `sattvalife.ru` | No |
 | `saturation.social` | No |
+| `saturnforge.com` | No |
 | `saturno.black` | No |
 | `saturno.com.ve` | No |
 | `satvrn.net` | No |
@@ -48761,7 +48762,6 @@ Here's a list of public Fediverse services.
 | `unixmail.fr` | No |
 | `unixnerd.de` | No |
 | `unixporn.pro` | No |
-| `unixspace.online` | Yes |
 | `unixweb.de` | No |
 | `unixweb.net` | No |
 | `unixwolf.com` | No |
@@ -53017,8 +53017,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,156 |
-| Normal | 37,813 |
+| Cloudflare | 15,155 |
+| Normal | 37,814 |
 
 
 </details>
