@@ -53,6 +53,7 @@ Do not create new issue or we will close it as duplicate.
 | [0111_wwanz@X](https://twitter.com/0111_wwanz/status/1622585998235553792) | advertise |
 | [01227770316min2@X](https://twitter.com/01227770316min2/status/1385909202766508032) | advertise |
 | [021Brayoo@X](https://twitter.com/021Brayoo/status/1602594924091920386) | advertise |
+| [03Jiraphong@X](https://twitter.com/03Jiraphong/status/1754521470955557108) | advertise |
 | [0339608959a@X](https://twitter.com/0339608959a/status/1606933443279204352) | advertise |
 | [05Tuns@X](https://twitter.com/05Tuns/status/1395807741583585281) | advertise |
 | [07_phcanh1@X](https://twitter.com/07_phcanh1/status/1678412267514216459) | advertise |
@@ -1729,6 +1730,7 @@ Do not create new issue or we will close it as duplicate.
 | [bak_bao@X](https://twitter.com/bak_bao/status/1381263917448454144) | advertise |
 | [Bal3rbyP@X](https://twitter.com/Bal3rbyP/status/1738648125386948711) | advertise |
 | [balbalaarka@X](https://twitter.com/balbalaarka/status/1398161624834445312) | advertise |
+| [BalkrishnaGiri@X](https://twitter.com/BalkrishnaGiri/status/1754510532256641108) | advertise |
 | [BallanDanny@X](https://twitter.com/BallanDanny/status/1750897472669409518) | advertise |
 | [ballSP@X](https://twitter.com/ballSP/status/1554040235922636800) | advertise |
 | [Bally8865@X](https://twitter.com/Bally8865/status/1406071457776537606) | advertise |
@@ -2035,6 +2037,7 @@ Do not create new issue or we will close it as duplicate.
 | [bk0607@X](https://twitter.com/bk0607/status/1381984827524534273) | advertise |
 | [bkflyn@X](https://twitter.com/bkflyn/status/1569293300821270528) | advertise |
 | [BKhanthtal@X](https://twitter.com/BKhanthtal/status/1391690284749127688) | advertise |
+| [BkkmobileB95426@X](https://twitter.com/BkkmobileB95426/status/1754520714395447708) | advertise |
 | [Bksafi9@X](https://twitter.com/Bksafi9/status/1672868889309630464) | advertise |
 | [bkstout@X](https://twitter.com/bkstout/status/1552998686841618432) | advertise |
 | [Bl4ckDyck@X](https://twitter.com/Bl4ckDyck/status/1618313331244421120) | advertise |
@@ -2498,6 +2501,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chahin303@X](https://twitter.com/Chahin303/status/1504562221426298886) | advertise |
 | [chainsa93470930@X](https://twitter.com/chainsa93470930/status/1478629139682717696) | advertise |
 | [ChairatNamkaew@X](https://twitter.com/ChairatNamkaew/status/1584230257779171328) | advertise |
+| [ChaiwatSuwan8@X](https://twitter.com/ChaiwatSuwan8/status/1754516529797091588) | advertise |
 | [ChaiwichitJarn3@X](https://twitter.com/ChaiwichitJarn3/status/1406515044427259904) | advertise |
 | [Chakkrit_bank24@X](https://twitter.com/Chakkrit_bank24/status/1392631487460114436) | advertise |
 | [Chaloewut09@X](https://twitter.com/Chaloewut09/status/1503882755629019138) | advertise |
@@ -10601,6 +10605,7 @@ Do not create new issue or we will close it as duplicate.
 | [OfClicking@X](https://twitter.com/OfClicking/status/1509091140884070400) | advertise |
 | [official22023@X](https://twitter.com/official22023/status/1700849345896304833) | advertise |
 | [OfficialD3ds3c@X](https://twitter.com/OfficialD3ds3c/status/1497239247199293442) | advertise |
+| [officialmbtq@X](https://twitter.com/officialmbtq/status/1754509278877045130) | advertise |
 | [officialmiplay@X](https://twitter.com/officialmiplay/status/1411076180300779530) | moral (advertise) |
 | [OfficialSs34@X](https://twitter.com/OfficialSs34/status/1389541392251293705) | advertise |
 | [Official_Aidzyy@X](https://twitter.com/Official_Aidzyy/status/1429092121550667785) | advertise |
@@ -11036,6 +11041,7 @@ Do not create new issue or we will close it as duplicate.
 | [phc50518173@X](https://twitter.com/phc50518173/status/1552572949785624576) | advertise |
 | [phcastroalves@X](https://twitter.com/phcastroalves/status/1505924208035041282) | advertise |
 | [PhD_Blood@X](https://twitter.com/PhD_Blood/status/1483835015373139968) | advertise |
+| [PheiybSo54248@X](https://twitter.com/PheiybSo54248/status/1754522157902966801) | advertise |
 | [Phenomytian@X](https://twitter.com/Phenomytian/status/1457220077695094788) | advertise |
 | [PheThitZaw@X](https://twitter.com/PheThitZaw/status/1402660507362861060) | advertise |
 | [Phghoang11@X](https://twitter.com/Phghoang11/status/1515348519896317953) | advertise |
