@@ -39834,6 +39834,7 @@ Here's a list of public Fediverse services.
 | `rqd2.net` | No |
 | `rrgeorge.live` | No |
 | `rroki.net` | No |
+| `rrr.sh` | No |
 | `rrrr.wtf` | Yes |
 | `rrrrrichard.social` | No |
 | `rs-einrich.de` | No |
@@ -48004,7 +48005,7 @@ Here's a list of public Fediverse services.
 | `tudgwal.fr` | No |
 | `tue.su` | Yes |
 | `tuebingen.network` | No |
-| `tuetue.org` | Yes |
+| `tuetue.org` | No |
 | `tuffert.de` | No |
 | `tuffi.org` | Yes |
 | `tuffidon.de` | No |
@@ -53016,8 +53017,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,157 |
-| Normal | 37,811 |
+| Cloudflare | 15,156 |
+| Normal | 37,813 |
 
 
 </details>
