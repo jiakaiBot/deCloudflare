@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [WebRTC causes webpage to become "Not Secure"](https://github.com/bluenviron/mediamtx/issues/2991)
 - [403 CSRF Token Mismatch Error with nuxt-csurf in Nuxt 3 Application](https://github.com/Morgbn/nuxt-csurf/issues/28)
 - [Thingiverse import not working](https://github.com/seasick/openscad-web-gui/issues/28)
 - [Unclear error when no DB connection is setup and trying to run migrations](https://github.com/drizzle-team/drizzle-kit-mirror/issues/308)
