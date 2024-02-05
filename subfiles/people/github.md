@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Captcha required stuck (infinite looping)](https://github.com/KotatsuApp/Kotatsu/issues/741)
 - [Error when using vite with mdx, and navigating from link](https://github.com/remix-run/remix/issues/8685)
 - [WebRTC causes webpage to become "Not Secure"](https://github.com/bluenviron/mediamtx/issues/2991)
 - [403 CSRF Token Mismatch Error with nuxt-csurf in Nuxt 3 Application](https://github.com/Morgbn/nuxt-csurf/issues/28)
