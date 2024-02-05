@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Avoid Forcing SSL in Production Environment](https://github.com/maybe-finance/maybe/issues/308)
 - [CloudFlare Control Plane Test on Thursday, February 15th, 2024](https://github.com/SecOpsNews/news/issues/24342)
 - [Erreur dans la récupération de la consommation](https://github.com/bokub/conso-api/issues/30)
 - [Captcha required stuck (infinite looping)](https://github.com/KotatsuApp/kotatsu-parsers/issues/546)
