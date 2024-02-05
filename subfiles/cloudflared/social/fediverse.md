@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,462 |
+| com | 8,468 |
 | social | 4,788 |
 | net | 4,128 |
 | org | 2,771 |
-| de | 2,646 |
+| de | 2,648 |
 
 
 - Mastodon, Pleroma, etc
@@ -2045,6 +2045,7 @@ Here's a list of public Fediverse services.
 | `alternatiba.eu` | No |
 | `alternativebit.fr` | No |
 | `alternativeliste.at` | No |
+| `alternatives-numeriques.fr` | No |
 | `alternatives.network` | No |
 | `alternativons.com` | No |
 | `alternativos.pt` | No |
@@ -6487,6 +6488,7 @@ Here's a list of public Fediverse services.
 | `buttersc.one` | Yes |
 | `buttonhost.net` | No |
 | `buttonmaste.rs` | No |
+| `buttonmonkeys.de` | No |
 | `buttplug.engineer` | No |
 | `buttplug.zone` | No |
 | `butts.moe` | Yes |
@@ -9997,6 +9999,7 @@ Here's a list of public Fediverse services.
 | `danaamundsen.com` | No |
 | `danampersanderic.social` | No |
 | `dananglin.me.uk` | No |
+| `danasmith.com` | No |
 | `danbruno.net` | No |
 | `dance-dance-dance.space` | No |
 | `dancefight.club` | No |
@@ -20473,6 +20476,7 @@ Here's a list of public Fediverse services.
 | `igu.fi` | Yes |
 | `igualdad.cf` | No |
 | `iguana.coffee` | Yes |
+| `iguanapalace.com` | No |
 | `iguanodon.net` | No |
 | `igw.ovh` | No |
 | `igwan.fr` | No |
@@ -21458,6 +21462,7 @@ Here's a list of public Fediverse services.
 | `itsg.host` | Yes |
 | `itsgarrett.com` | Yes |
 | `itsgonna.com` | Yes |
+| `itsjustdj.com` | No |
 | `itsjustthis.com` | No |
 | `itskevin.social` | No |
 | `itskil.com` | No |
@@ -33194,6 +33199,7 @@ Here's a list of public Fediverse services.
 | `not-a.top` | No |
 | `not-enough-sci.fi` | No |
 | `not-enough.space` | No |
+| `not-existing.com` | Yes |
 | `not-in.de` | No |
 | `not-ok.computer` | No |
 | `not-really.me` | No |
@@ -34932,6 +34938,7 @@ Here's a list of public Fediverse services.
 | `ow3.cn` | No |
 | `owari.nl` | No |
 | `owari.shop` | Yes |
+| `owasikohu.com` | Yes |
 | `owatan.jp` | No |
 | `owenryan.us` | No |
 | `owenyoung.com` | Yes |
@@ -37793,6 +37800,7 @@ Here's a list of public Fediverse services.
 | `qqfoq.xyz` | Yes |
 | `qqs.tw` | Yes |
 | `qr.dev` | No |
+| `qratedspace.com` | No |
 | `qrbt.ch` | No |
 | `qrewhub.com` | No |
 | `qrk.social` | No |
@@ -44610,6 +44618,7 @@ Here's a list of public Fediverse services.
 | `suzusiro.com` | Yes |
 | `suzy.is` | No |
 | `sv-antares.de` | No |
+| `sv-hke.de` | No |
 | `sv7.cc` | No |
 | `sva.social` | No |
 | `svallee.fr` | No |
@@ -53041,8 +53050,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,164 |
-| Normal | 37,829 |
+| Cloudflare | 15,166 |
+| Normal | 37,836 |
 
 
 </details>
