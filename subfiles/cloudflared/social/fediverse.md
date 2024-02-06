@@ -26052,6 +26052,7 @@ Here's a list of public Fediverse services.
 | `lisamelton.net` | No |
 | `lisathomasius.de` | No |
 | `lisboa.social` | Yes |
+| `liscivila.cz` | No |
 | `liseklucek.pl` | Yes |
 | `lislegaard.stream` | No |
 | `lisp.buzz` | No |
@@ -53082,7 +53083,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,172 |
-| Normal | 37,861 |
+| Normal | 37,862 |
 
 
 </details>
