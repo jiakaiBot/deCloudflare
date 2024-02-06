@@ -642,6 +642,7 @@ Do not create new issue or we will close it as duplicate.
 | [AkbarSoraya@X](https://twitter.com/AkbarSoraya/status/1384364220091826176) | advertise |
 | [akchibash_ka@X](https://twitter.com/akchibash_ka/status/1504048412341248001) | advertise |
 | [akcreations_hot@X](https://twitter.com/akcreations_hot/status/1388050959922724867) | advertise |
+| [Ake1989291312@X](https://twitter.com/Ake1989291312/status/1754897018559099294) | advertise |
 | [Akechiiii@X](https://twitter.com/Akechiiii/status/1402238624620449793) | advertise |
 | [AkhilGeddam4@X](https://twitter.com/AkhilGeddam4/status/1386608139215147010) | advertise |
 | [akhilreddy1431@X](https://twitter.com/akhilreddy1431/status/1391641491353653250) | advertise |
@@ -929,6 +930,7 @@ Do not create new issue or we will close it as duplicate.
 | [AmMussolini@X](https://twitter.com/AmMussolini/status/1383118744621363202) | advertise |
 | [amokhunlee4143@X](https://twitter.com/amokhunlee4143/status/1732065155977269732) | advertise |
 | [AmortyH@X](https://twitter.com/AmortyH/status/1394286641179611139) | advertise |
+| [AmphosriPi83398@X](https://twitter.com/AmphosriPi83398/status/1754885675441332228) | advertise |
 | [amrabbasamr@X](https://twitter.com/amrabbasamr/status/1643504330752897024) | advertise |
 | [AMrasri89@X](https://twitter.com/AMrasri89/status/1690917901270978560) | advertise |
 | [AmrElakad3@X](https://twitter.com/AmrElakad3/status/1706001605407940966) | advertise |
@@ -2037,6 +2039,7 @@ Do not create new issue or we will close it as duplicate.
 | [BitMagge@X](https://twitter.com/BitMagge/status/1571636052884062208) | advertise |
 | [bits121787@X](https://twitter.com/bits121787/status/1725340728216474014) | advertise |
 | [BizganCostin@X](https://twitter.com/BizganCostin/status/1382363988013555713) | advertise |
+| [Bi_Hi79@X](https://twitter.com/Bi_Hi79/status/1754887958103294408) | advertise |
 | [bjordanpeterson@X](https://twitter.com/bjordanpeterson/status/1724667022556962996) | advertise |
 | [bk0607@X](https://twitter.com/bk0607/status/1381984827524534273) | advertise |
 | [bkflyn@X](https://twitter.com/bkflyn/status/1569293300821270528) | advertise |
@@ -9641,6 +9644,7 @@ Do not create new issue or we will close it as duplicate.
 | [MZykky@X](https://twitter.com/MZykky/status/1552553256861470722) | advertise |
 | [m_abdelmaboud@X](https://twitter.com/m_abdelmaboud/status/1657391869473562626) | advertise |
 | [M_alamin95@X](https://twitter.com/M_alamin95/status/1376986669270847497) | advertise |
+| [m_h_aljasem@X](https://twitter.com/m_h_aljasem/status/1754888017112604910) | advertise |
 | [m_isaac@X](https://twitter.com/m_isaac/status/1608218349036777472) | advertise |
 | [m_mazeed2011@X](https://twitter.com/m_mazeed2011/status/1488809662917091330) | advertise |
 | [m_ooo_ooo_n@X](https://twitter.com/m_ooo_ooo_n/status/1710032108536647865) | advertise |
@@ -10323,6 +10327,7 @@ Do not create new issue or we will close it as duplicate.
 | [niloomeraj@X](https://twitter.com/niloomeraj/status/1607485496762204161) | advertise |
 | [nilou1995@X](https://twitter.com/nilou1995/status/1573241066312302594) | advertise |
 | [nilo_asl@X](https://twitter.com/nilo_asl/status/1575209653176528897) | advertise |
+| [NilSithph90323@X](https://twitter.com/NilSithph90323/status/1754885298960638271) | advertise |
 | [Nima1980@X](https://twitter.com/Nima1980/status/1623344875059003393) | advertise |
 | [NimaNaji@X](https://twitter.com/NimaNaji/status/1495309685401993216) | advertise |
 | [nima_jalilzadeh@X](https://twitter.com/nima_jalilzadeh/status/1383908849791340555) | advertise |
@@ -10423,6 +10428,7 @@ Do not create new issue or we will close it as duplicate.
 | [None58240167@X](https://twitter.com/None58240167/status/1395073106876801026) | advertise |
 | [Nonkogee3W@X](https://twitter.com/Nonkogee3W/status/1403011044998488066) | advertise |
 | [NooLee94593774@X](https://twitter.com/NooLee94593774/status/1404108442504105989) | advertise |
+| [Noon535616@X](https://twitter.com/Noon535616/status/1754885319068098859) | advertise |
 | [Noon42186000@X](https://twitter.com/Noon42186000/status/1568583681064706048) | advertise |
 | [Noonewillkn@X](https://twitter.com/Noonewillkn/status/1556941477644627968) | advertise |
 | [Nooo52576592@X](https://twitter.com/Nooo52576592/status/1384054067714871296) | advertise |
