@@ -165,7 +165,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lashes-brow.ru | No |
 | lastentarvike.fi | No |
 | lavate.ch | Yes |
-| leenit.kr | Yes |
 | lefolgoc.net | No |
 | lgprk.com | No |
 | libredns.gr | No |
@@ -323,8 +322,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 156 |
+| Cloudflare | 155 |
 | Normal | 148 |
 
 
-### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
