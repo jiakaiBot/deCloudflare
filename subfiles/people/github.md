@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Enabling Cloudflare will cause payment issues.](https://github.com/mollie/magento2/issues/741)
 - [Error and issue to reach the system/status page. Install broken](https://github.com/freescout-helpdesk/freescout/issues/3771)
 - [CloudFlare Cloudflare Analytics issues](https://github.com/SecOpsNews/news/issues/24399)
 - [Question about Export conversations and Date and Time upload](https://github.com/freescout-helpdesk/freescout/issues/3767)
