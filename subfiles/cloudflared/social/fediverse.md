@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,472 |
+| com | 8,473 |
 | social | 4,789 |
-| net | 4,131 |
+| net | 4,130 |
 | org | 2,772 |
 | de | 2,648 |
 
@@ -4755,7 +4755,6 @@ Here's a list of public Fediverse services.
 | `betamax65.de` | No |
 | `betchesbubble.com` | No |
 | `bethejustin.com` | No |
-| `betopia.net` | Yes |
 | `bettadelic.art` | No |
 | `better.boston` | Yes |
 | `betterconversations.online` | Yes |
@@ -16053,6 +16052,7 @@ Here's a list of public Fediverse services.
 | `friendxone.com` | No |
 | `friendzone.lol` | No |
 | `friendzone.social` | No |
+| `frieren.icu` | Yes |
 | `frig.social` | No |
 | `friheter.com` | No |
 | `friki.lol` | No |
@@ -20570,6 +20570,7 @@ Here's a list of public Fediverse services.
 | `illegitimate.technology` | Yes |
 | `illi.social` | No |
 | `illithid.online` | No |
+| `illmarks.com` | No |
 | `illo.social` | No |
 | `illoda.com` | No |
 | `illum.dev` | Yes |
@@ -33330,6 +33331,7 @@ Here's a list of public Fediverse services.
 | `nouni.sh` | No |
 | `noupti.me` | No |
 | `noury.ee` | Yes |
+| `noury.li` | Yes |
 | `noushi.chat` | No |
 | `noussommes.org` | No |
 | `noutori.space` | Yes |
@@ -48117,6 +48119,7 @@ Here's a list of public Fediverse services.
 | `tupo.space` | Yes |
 | `tupot.pl` | Yes |
 | `tur.bot` | No |
+| `turath.tn` | No |
 | `turbinekreuzberg.com` | No |
 | `turbo.chat` | No |
 | `turbo.ooo` | Yes |
@@ -53078,8 +53081,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,171 |
-| Normal | 37,859 |
+| Cloudflare | 15,172 |
+| Normal | 37,861 |
 
 
 </details>
