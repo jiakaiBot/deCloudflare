@@ -419,6 +419,7 @@ Do not create new issue or we will close it as duplicate.
 | [AdelSara12@X](https://twitter.com/AdelSara12/status/1638829506893938690) | advertise |
 | [adelxsaidx@X](https://twitter.com/adelxsaidx/status/1380592782633545734) | advertise |
 | [Adel_Abdada@X](https://twitter.com/Adel_Abdada/status/1514528584110686212) | advertise |
+| [adel_ljaljic@X](https://twitter.com/adel_ljaljic/status/1754868545257611470) | advertise |
 | [AdemolGlob32730@X](https://twitter.com/AdemolGlob32730/status/1652195919427690496) | advertise |
 | [AdemoyejeSeun@X](https://twitter.com/AdemoyejeSeun/status/1571106868763951105) | advertise |
 | [Adeniyi21541202@X](https://twitter.com/Adeniyi21541202/status/1378442961571221513) | advertise |
@@ -1096,6 +1097,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnsahEm11089423@X](https://twitter.com/AnsahEm11089423/status/1600414671009239040) | advertise |
 | [anshulkmr01@X](https://twitter.com/anshulkmr01/status/1441856756288606209) | advertise |
 | [ansi_ansee21282@X](https://twitter.com/ansi_ansee21282/status/1685747870010343424) | advertise |
+| [Ansue23@X](https://twitter.com/Ansue23/status/1754859313158602998) | advertise |
 | [anteku5@X](https://twitter.com/anteku5/status/1734353688838197422) | advertise |
 | [Anthonio_de_la_@X](https://twitter.com/Anthonio_de_la_/status/1690263890855370752) | advertise |
 | [anthonylucas109@X](https://twitter.com/anthonylucas109/status/1701244437815230869) | advertise |
@@ -14039,6 +14041,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThiVo230808@X](https://twitter.com/ThiVo230808/status/1688083258586845184) | advertise |
 | [Thiyaga51603164@X](https://twitter.com/Thiyaga51603164/status/1386631785392525313) | advertise |
 | [THJ0322@X](https://twitter.com/THJ0322/status/1740697394889752687) | advertise |
+| [thnakr_kra@X](https://twitter.com/thnakr_kra/status/1754862601694253360) | advertise |
 | [Thng06599499@X](https://twitter.com/Thng06599499/status/1528032291347238913) | advertise |
 | [Thng914@X](https://twitter.com/Thng914/status/1588549751867584512) | advertise |
 | [Thng11329609@X](https://twitter.com/Thng11329609/status/1385624068355858432) | advertise |
@@ -15595,6 +15598,7 @@ Do not create new issue or we will close it as duplicate.
 | [xmxm07@X](https://twitter.com/xmxm07/status/1688898672681975808) | advertise |
 | [XmzFc@X](https://twitter.com/XmzFc/status/1390881317877735427) | advertise |
 | [xnnnkhrbb15293@X](https://twitter.com/xnnnkhrbb15293/status/1697451852957417780) | advertise |
+| [xnnth893682607@X](https://twitter.com/xnnth893682607/status/1754861377460818078) | advertise |
 | [XoerBiston@X](https://twitter.com/XoerBiston/status/1681467700886007808) | advertise |
 | [xol_au@X](https://twitter.com/xol_au/status/1552234529355595778) | advertise |
 | [xomtrosv@X](https://twitter.com/xomtrosv/status/1646382409485807618) | advertise |
