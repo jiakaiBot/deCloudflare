@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,467 |
+| com | 8,469 |
 | social | 4,789 |
 | net | 4,129 |
 | org | 2,772 |
@@ -845,6 +845,7 @@ Here's a list of public Fediverse services.
 | `9chen.org` | No |
 | `9fs.net` | No |
 | `9grid.net` | No |
+| `9hz.xyz` | Yes |
 | `9ineverse.com` | Yes |
 | `9kb.me` | No |
 | `9lab.jp` | No |
@@ -1491,6 +1492,7 @@ Here's a list of public Fediverse services.
 | `aheradin.com` | No |
 | `ahermitforhire.net` | No |
 | `ahhhhhh.social` | No |
+| `ahito.com` | No |
 | `ahlamon.org` | No |
 | `ahlcode.fi` | No |
 | `ahlers.space` | No |
@@ -6184,6 +6186,7 @@ Here's a list of public Fediverse services.
 | `brony.lgbt` | Yes |
 | `bronyfurry.com` | Yes |
 | `bronzedrose.com` | Yes |
+| `brookins.info` | Yes |
 | `brookshelley.com` | Yes |
 | `bropartment.party` | Yes |
 | `bropartment.social` | Yes |
@@ -11186,6 +11189,7 @@ Here's a list of public Fediverse services.
 | `diedyoung.com` | No |
 | `diefreien.club` | No |
 | `diego.codes` | No |
+| `diegogabriele.it` | No |
 | `diegopeinador.com` | Yes |
 | `diegoveralli.net` | No |
 | `diehildebrands.de` | No |
@@ -13680,6 +13684,7 @@ Here's a list of public Fediverse services.
 | `euonymus.xyz` | Yes |
 | `euphorian.net` | Yes |
 | `eupolicy.social` | No |
+| `euproject.info` | No |
 | `eupublic.social` | No |
 | `eur.social` | No |
 | `eureka.chat` | No |
@@ -24398,6 +24403,7 @@ Here's a list of public Fediverse services.
 | `kristianfreeman.com` | Yes |
 | `kristoffer-strube.dk` | No |
 | `kristofferjohansson.com` | Yes |
+| `krisu.eu` | No |
 | `krisztianfekete.org` | No |
 | `krivokuca.dev` | Yes |
 | `krivosik.cz` | No |
@@ -24845,6 +24851,7 @@ Here's a list of public Fediverse services.
 | `lainternet.online` | No |
 | `laipower.xyz` | No |
 | `lair.be` | No |
+| `lair.systems` | No |
 | `lairds.com` | No |
 | `laisa.family` | No |
 | `laissez-faire.social` | No |
@@ -42845,6 +42852,7 @@ Here's a list of public Fediverse services.
 | `social.aero` | Yes |
 | `social.archi` | No |
 | `social.as` | Yes |
+| `social.barcelona` | No |
 | `social.bbc` | No |
 | `social.bzh` | No |
 | `social.cologne` | Yes |
@@ -45837,6 +45845,7 @@ Here's a list of public Fediverse services.
 | `tfemily.com` | No |
 | `tffppodcast.com` | No |
 | `tfk.one` | No |
+| `tfkhdyt.my.id` | Yes |
 | `tfl.net.pl` | No |
 | `tfnux.org` | No |
 | `tfq.social` | No |
@@ -46199,6 +46208,7 @@ Here's a list of public Fediverse services.
 | `thelandofooops.icu` | No |
 | `thelaserguy.online` | No |
 | `thelastelemental.art` | No |
+| `thelastexpressionist.com` | No |
 | `thelballwiki.gq` | No |
 | `thele.me` | Yes |
 | `theledger.fyi` | Yes |
@@ -53059,8 +53069,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,165 |
-| Normal | 37,846 |
+| Cloudflare | 15,168 |
+| Normal | 37,853 |
 
 
 </details>
