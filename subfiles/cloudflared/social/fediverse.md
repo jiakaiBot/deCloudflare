@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,469 |
+| com | 8,470 |
 | social | 4,789 |
-| net | 4,129 |
+| net | 4,131 |
 | org | 2,772 |
 | de | 2,648 |
 
@@ -12633,6 +12633,7 @@ Here's a list of public Fediverse services.
 | `edgarpierre.fr` | No |
 | `edge4cube.work` | Yes |
 | `edgecats.network` | No |
+| `edgechip.net` | No |
 | `edgeoftheuniver.se` | No |
 | `edgerunner.network` | No |
 | `edgerunners.club` | No |
@@ -20709,6 +20710,7 @@ Here's a list of public Fediverse services.
 | `in-purple.de` | Yes |
 | `in-stuggi.de` | No |
 | `in-ter.net` | Yes |
+| `in-two.com` | No |
 | `in-ulm.de` | No |
 | `in-visible.eu` | No |
 | `in0rdr.ch` | No |
@@ -29759,6 +29761,7 @@ Here's a list of public Fediverse services.
 | `misskey-f.com` | No |
 | `misskey-forkbomb.cf` | Yes |
 | `misskey-iriam.net` | No |
+| `misskey-naosuki.net` | No |
 | `misskey-pechoco.com` | No |
 | `misskey-square.net` | Yes |
 | `misskey-sugartarou.com` | Yes |
@@ -35850,7 +35853,7 @@ Here's a list of public Fediverse services.
 | `petrolkorps.cc` | No |
 | `petronel.info` | No |
 | `petroskowo.pl` | No |
-| `petrovs.info` | No |
+| `petrovs.info` | Yes |
 | `petrus.sk` | No |
 | `petrzprahy.cz` | No |
 | `pets-in.space` | Yes |
@@ -53069,8 +53072,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,168 |
-| Normal | 37,853 |
+| Cloudflare | 15,169 |
+| Normal | 37,855 |
 
 
 </details>
