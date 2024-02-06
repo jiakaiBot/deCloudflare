@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,473 |
+| com | 8,474 |
 | social | 4,789 |
-| net | 4,130 |
-| org | 2,772 |
+| net | 4,131 |
+| org | 2,773 |
 | de | 2,648 |
 
 
@@ -10399,6 +10399,7 @@ Here's a list of public Fediverse services.
 | `dbot.dev` | Yes |
 | `dbuild.xyz` | No |
 | `dbzer0.com` | No |
+| `dbzfans.online` | No |
 | `dc09.ru` | Yes |
 | `dc2298.org` | No |
 | `dc6jgk.de` | No |
@@ -19711,6 +19712,7 @@ Here's a list of public Fediverse services.
 | `honey.church` | No |
 | `honey.town` | No |
 | `honeybadger.social` | No |
+| `honeybank.net` | No |
 | `honeyguide.net` | No |
 | `honeypot.im` | No |
 | `honeypot.net` | No |
@@ -20856,6 +20858,7 @@ Here's a list of public Fediverse services.
 | `infinity-labs.eu` | No |
 | `infinity.garden` | No |
 | `infinitybeardesigns.com` | No |
+| `infinitychuu.xyz` | No |
 | `inflatable.computer` | Yes |
 | `inflo.ws` | No |
 | `info-screen.me` | Yes |
@@ -21077,6 +21080,7 @@ Here's a list of public Fediverse services.
 | `interior.edu.uy` | No |
 | `interlace.space` | No |
 | `interlan.ec` | No |
+| `interledger.org` | Yes |
 | `interledger.social` | No |
 | `interlinked.me` | No |
 | `intermittent.network` | No |
@@ -21164,6 +21168,7 @@ Here's a list of public Fediverse services.
 | `inzomnodon.xyz` | No |
 | `io-cantina.com` | No |
 | `io-milkbar.com` | No |
+| `io.day` | Yes |
 | `io.lu` | Yes |
 | `io.seg.br` | No |
 | `io0288.cn` | No |
@@ -46040,6 +46045,7 @@ Here's a list of public Fediverse services.
 | `thechad.zone` | No |
 | `thechairman.info` | No |
 | `thechangebook.org` | No |
+| `thecheis.com` | No |
 | `thechimp.zone` | Yes |
 | `thechurchofmemes.com` | No |
 | `thecitadel.social` | No |
@@ -52358,6 +52364,7 @@ Here's a list of public Fediverse services.
 | `yrk06.dev` | No |
 | `yrm.xyz` | Yes |
 | `yrr0r.net` | Yes |
+| `yrret.me` | Yes |
 | `ys217.tokyo` | No |
 | `ysan.moe` | No |
 | `ysarris.xyz` | No |
@@ -53082,8 +53089,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,172 |
-| Normal | 37,862 |
+| Cloudflare | 15,175 |
+| Normal | 37,866 |
 
 
 </details>
