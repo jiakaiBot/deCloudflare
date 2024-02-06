@@ -1127,7 +1127,7 @@ Here's a list of public Fediverse services.
 | `acid.wtf` | No |
 | `acidental.de` | No |
 | `acidflowermusic.dance` | Yes |
-| `acidrow.com` | Yes |
+| `acidrow.com` | No |
 | `acilhaberles.net` | No |
 | `acillba-coeur.com` | No |
 | `acillba-lux.com` | No |
@@ -10619,7 +10619,7 @@ Here's a list of public Fediverse services.
 | `deferpanic.dev` | No |
 | `deff.no` | Yes |
 | `deffo.com.au` | Yes |
-| `defialliance.finance` | Yes |
+| `defialliance.finance` | No |
 | `defiant-tomato.social` | No |
 | `defigogallery.com` | No |
 | `definitely-for.me` | Yes |
@@ -20949,6 +20949,7 @@ Here's a list of public Fediverse services.
 | `inn4tel.social` | Yes |
 | `inndy.tw` | Yes |
 | `inne.city` | No |
+| `innerinsight.industries` | No |
 | `innernet.link` | Yes |
 | `innernette.social` | Yes |
 | `innerwebs.social` | No |
@@ -53049,8 +53050,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,163 |
-| Normal | 37,838 |
+| Cloudflare | 15,161 |
+| Normal | 37,841 |
 
 
 </details>
