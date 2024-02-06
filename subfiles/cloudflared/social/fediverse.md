@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,467 |
-| social | 4,788 |
+| social | 4,789 |
 | net | 4,129 |
 | org | 2,772 |
 | de | 2,648 |
@@ -18760,6 +18760,7 @@ Here's a list of public Fediverse services.
 | `harter.us` | Yes |
 | `hartgute.software` | No |
 | `hartley.cc` | No |
+| `harton.social` | No |
 | `haru-jishnu.eu` | No |
 | `haru2036.com` | No |
 | `haru3.me` | No |
@@ -20689,6 +20690,7 @@ Here's a list of public Fediverse services.
 | `imsim.dev` | Yes |
 | `imsorryforsayingpogchampafteryounuttedin.me` | No |
 | `imthe.party` | No |
+| `imu.li` | Yes |
 | `imvegan.fyi` | No |
 | `imveganb.tw` | Yes |
 | `imverified.online` | Yes |
@@ -40583,6 +40585,7 @@ Here's a list of public Fediverse services.
 | `sasachi.tokyo` | No |
 | `sasakimasato.net` | No |
 | `sasakulab.com` | Yes |
+| `sasasa14.online` | No |
 | `sasasin.net` | Yes |
 | `sasbaen.be` | No |
 | `sascamooch.com` | Yes |
@@ -53054,8 +53057,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,163 |
-| Normal | 37,843 |
+| Cloudflare | 15,164 |
+| Normal | 37,845 |
 
 
 </details>
