@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,467 |
 | social | 4,788 |
-| net | 4,128 |
+| net | 4,129 |
 | org | 2,771 |
 | de | 2,648 |
 
@@ -5672,6 +5672,7 @@ Here's a list of public Fediverse services.
 | `bolha.photos` | Yes |
 | `bolha.review` | Yes |
 | `bolha.social` | Yes |
+| `bolha.studio` | No |
 | `bolha.tec.br` | No |
 | `bolha.tube` | No |
 | `bolha.us` | Yes |
@@ -14140,6 +14141,7 @@ Here's a list of public Fediverse services.
 | `familleborne.com` | No |
 | `famillegiovannini.ch` | No |
 | `family-m.art` | No |
+| `familyds.net` | Yes |
 | `familyds.org` | No |
 | `familyhistoriespodcast.com` | No |
 | `familyhistory.page` | No |
@@ -31631,6 +31633,7 @@ Here's a list of public Fediverse services.
 | `nan1.casa` | Yes |
 | `nana.sh` | No |
 | `nanaaki.com` | No |
+| `nanachi.store` | Yes |
 | `nanaka.love` | No |
 | `nanakumo.xyz` | Yes |
 | `nanamachi.net` | No |
@@ -53050,8 +53053,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,161 |
-| Normal | 37,841 |
+| Cloudflare | 15,163 |
+| Normal | 37,842 |
 
 
 </details>
