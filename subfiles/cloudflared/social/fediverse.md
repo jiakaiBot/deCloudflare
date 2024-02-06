@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,468 |
+| com | 8,467 |
 | social | 4,788 |
 | net | 4,128 |
 | org | 2,771 |
@@ -15695,7 +15695,7 @@ Here's a list of public Fediverse services.
 | `fractalthreads.net` | No |
 | `fractopia.org` | No |
 | `fractum.gq` | No |
-| `fracturedhosting.social` | Yes |
+| `fracturedhosting.social` | No |
 | `fragdev.com` | No |
 | `fragefix.de` | No |
 | `fraggr.com` | Yes |
@@ -34938,7 +34938,6 @@ Here's a list of public Fediverse services.
 | `ow3.cn` | No |
 | `owari.nl` | No |
 | `owari.shop` | Yes |
-| `owasikohu.com` | Yes |
 | `owatan.jp` | No |
 | `owenryan.us` | No |
 | `owenyoung.com` | Yes |
@@ -35450,7 +35449,7 @@ Here's a list of public Fediverse services.
 | `pavot.ca` | No |
 | `paw.best` | No |
 | `paw.cafe` | Yes |
-| `paw.college` | Yes |
+| `paw.college` | No |
 | `paw.im` | Yes |
 | `paw.photo` | No |
 | `paw.su` | Yes |
@@ -53050,8 +53049,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,166 |
-| Normal | 37,836 |
+| Cloudflare | 15,163 |
+| Normal | 37,838 |
 
 
 </details>
