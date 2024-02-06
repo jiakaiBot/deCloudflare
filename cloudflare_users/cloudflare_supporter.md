@@ -2439,6 +2439,7 @@ Do not create new issue or we will close it as duplicate.
 | [CaruTn@X](https://twitter.com/CaruTn/status/1688603896443449345) | advertise |
 | [carvalhorafael@X](https://twitter.com/carvalhorafael/status/1560351128084267009) | advertise |
 | [Car_campbell@X](https://twitter.com/Car_campbell/status/1539598860988948480) | advertise |
+| [CAS2540@X](https://twitter.com/CAS2540/status/1754907470005469504) | advertise |
 | [casaindigo@X](https://twitter.com/casaindigo/status/1457706371248427018) | advertise |
 | [CashYeahYep@X](https://twitter.com/CashYeahYep/status/1751846101051908496) | advertise |
 | [casinoe7@X](https://twitter.com/casinoe7/status/1610447350413115392) | advertise |
@@ -12467,6 +12468,7 @@ Do not create new issue or we will close it as duplicate.
 | [saraikinewss@X](https://twitter.com/saraikinewss/status/1419637755487965190) | advertise |
 | [sarangrasalsR@X](https://twitter.com/sarangrasalsR/status/1393452921992318977) | advertise |
 | [saravanarao@X](https://twitter.com/saravanarao/status/1662240983311073280) | advertise |
+| [sarawut33665905@X](https://twitter.com/sarawut33665905/status/1754901793950314544) | advertise |
 | [sara_suc@X](https://twitter.com/sara_suc/status/1407674919186403332) | advertise |
 | [sarbalgyi12@X](https://twitter.com/sarbalgyi12/status/1389785687021457408) | advertise |
 | [sarbaz_vatan_ir@X](https://twitter.com/sarbaz_vatan_ir/status/1601340311888093184) | advertise |
