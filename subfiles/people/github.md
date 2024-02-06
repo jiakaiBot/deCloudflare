@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issues in running traefik on (micro)k8s](https://github.com/ChristianLempa/boilerplates/issues/138)
+- [Cloudflare Middleware Env Throws an Error](https://github.com/withastro/adapters/issues/157)
 - [Enabling Cloudflare will cause payment issues.](https://github.com/mollie/magento2/issues/741)
 - [Error and issue to reach the system/status page. Install broken](https://github.com/freescout-helpdesk/freescout/issues/3771)
 - [CloudFlare Cloudflare Analytics issues](https://github.com/SecOpsNews/news/issues/24399)
