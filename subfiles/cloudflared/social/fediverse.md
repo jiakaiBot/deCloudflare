@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,467 |
 | social | 4,788 |
 | net | 4,129 |
-| org | 2,771 |
+| org | 2,772 |
 | de | 2,648 |
 
 
@@ -3459,7 +3459,7 @@ Here's a list of public Fediverse services.
 | `atiltedtree.dev` | No |
 | `ating.press` | No |
 | `atis.social` | Yes |
-| `atiusamy.com` | No |
+| `atiusamy.com` | Yes |
 | `atkinson.life` | Yes |
 | `atla.digital` | No |
 | `atlantasoccer.social` | Yes |
@@ -37951,6 +37951,7 @@ Here's a list of public Fediverse services.
 | `quietzero.net` | Yes |
 | `quigleys.org` | No |
 | `quigs.blog` | Yes |
+| `quiltro.org` | No |
 | `quine.codes` | No |
 | `quinlan.cloud` | Yes |
 | `quinnter.net` | No |
@@ -42517,7 +42518,7 @@ Here's a list of public Fediverse services.
 | `slothcloud.com` | No |
 | `slothfc.net` | No |
 | `sloths.chat` | Yes |
-| `sloths.club` | Yes |
+| `sloths.club` | No |
 | `slothy.win` | Yes |
 | `slovak.digital` | No |
 | `slow.pictures` | No |
@@ -53054,7 +53055,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,163 |
-| Normal | 37,842 |
+| Normal | 37,843 |
 
 
 </details>
