@@ -9962,6 +9962,7 @@ Here's a list of public Fediverse services.
 | `dale.camp` | No |
 | `dalek.one` | No |
 | `dalek.zone` | Yes |
+| `daleth.cafe` | No |
 | `dallas.lu` | Yes |
 | `dallasgroot.ca` | No |
 | `dallashackers.com` | No |
@@ -22067,6 +22068,7 @@ Here's a list of public Fediverse services.
 | `jeronimodesign.net` | Yes |
 | `jerry.business` | No |
 | `jerrybase.com` | No |
+| `jerrynya.fun` | No |
 | `jerstation.com` | No |
 | `jes.xxx` | No |
 | `jeslo.app` | No |
@@ -53073,7 +53075,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,169 |
-| Normal | 37,855 |
+| Normal | 37,857 |
 
 
 </details>
