@@ -2580,6 +2580,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChestrTuan@X](https://twitter.com/ChestrTuan/status/1384504491978858503) | advertise |
 | [Chethiyaf0520@X](https://twitter.com/Chethiyaf0520/status/1398684445691969537) | advertise |
 | [chetth@X](https://twitter.com/chetth/status/1635468875054870528) | advertise |
+| [CheuixPheng@X](https://twitter.com/CheuixPheng/status/1754850239151013971) | advertise |
 | [chevosqi@X](https://twitter.com/chevosqi/status/1646803212069138432) | advertise |
 | [ChhinTran139374@X](https://twitter.com/ChhinTran139374/status/1640011761561780224) | advertise |
 | [ChiaseMxh@X](https://twitter.com/ChiaseMxh/status/1404487226386354179) | advertise |
@@ -2640,6 +2641,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChoMee34586348@X](https://twitter.com/ChoMee34586348/status/1390339608395739136) | advertise |
 | [chom_reon@X](https://twitter.com/chom_reon/status/1727933146904383930) | advertise |
 | [cHong784950@X](https://twitter.com/cHong784950/status/1673199763997728771) | advertise |
+| [ChongsakBo92028@X](https://twitter.com/ChongsakBo92028/status/1754853872777195996) | advertise |
 | [ChoonHtun@X](https://twitter.com/ChoonHtun/status/1380902744744062977) | advertise |
 | [Chop_paza@X](https://twitter.com/Chop_paza/status/1394814812010422277) | advertise |
 | [ChothaniMahek@X](https://twitter.com/ChothaniMahek/status/1396494925001199620) | advertise |
@@ -2709,6 +2711,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cine_Ward@X](https://twitter.com/Cine_Ward/status/1391183622074290178) | advertise |
 | [CinnyTech@X](https://twitter.com/CinnyTech/status/1732239976517996776) | advertise |
 | [CircleOnCircles@X](https://twitter.com/CircleOnCircles/status/1473203051871703042) | advertise |
+| [cirphthnce14033@X](https://twitter.com/cirphthnce14033/status/1754840221622178014) | advertise |
 | [citasweetieee@X](https://twitter.com/citasweetieee/status/1391727785274654725) | advertise |
 | [CitiBE@X](https://twitter.com/CitiBE/status/1665889152234029057) | advertise |
 | [CitizenofKS@X](https://twitter.com/CitizenofKS/status/1712043549422694768) | advertise |
@@ -4504,6 +4507,7 @@ Do not create new issue or we will close it as duplicate.
 | [GiVTnh87561860@X](https://twitter.com/GiVTnh87561860/status/1585233563972431872) | advertise |
 | [gjdunga@X](https://twitter.com/gjdunga/status/1400492766312890368) | advertise |
 | [GJoeFurniture@X](https://twitter.com/GJoeFurniture/status/1383717145461153795) | advertise |
+| [GjUr289943@X](https://twitter.com/GjUr289943/status/1754835216093565151) | advertise |
 | [gjzuckerman@X](https://twitter.com/gjzuckerman/status/1688512773397852161) | advertise |
 | [GLACIER98271181@X](https://twitter.com/GLACIER98271181/status/1391728548960870401) | advertise |
 | [GLIZZY49306620@X](https://twitter.com/GLIZZY49306620/status/1393570520843493382) | advertise |
@@ -6159,6 +6163,7 @@ Do not create new issue or we will close it as duplicate.
 | [jame_satapon@X](https://twitter.com/jame_satapon/status/1381621249554542595) | advertise |
 | [Jamir95222748@X](https://twitter.com/Jamir95222748/status/1389106669594890241) | advertise |
 | [Jammy14140649@X](https://twitter.com/Jammy14140649/status/1409355298049982468) | moral (advertise) |
+| [Jammy386617921@X](https://twitter.com/Jammy386617921/status/1754832040716104064) | advertise |
 | [jamphus@X](https://twitter.com/jamphus/status/1684044115665879045) | advertise |
 | [JamshidiParsa@X](https://twitter.com/JamshidiParsa/status/1590343354679963649) | advertise |
 | [jamza6024@X](https://twitter.com/jamza6024/status/1394436651519119362) | advertise |
@@ -7605,6 +7610,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kyousukilalabs@X](https://twitter.com/Kyousukilalabs/status/1389630473375158273) | advertise |
 | [kyroskoh5@X](https://twitter.com/kyroskoh5/status/1503428687303118849) | advertise |
 | [Kyuayethit2@X](https://twitter.com/Kyuayethit2/status/1392326306151354370) | advertise |
+| [KyuiiiJ@X](https://twitter.com/KyuiiiJ/status/1754830571426263473) | advertise |
 | [KyuKyu24893176@X](https://twitter.com/KyuKyu24893176/status/1396055932291862532) | advertise |
 | [KyuThin16@X](https://twitter.com/KyuThin16/status/1391667230966906883) | advertise |
 | [Kzzxx2@X](https://twitter.com/Kzzxx2/status/1396512309795688451) | advertise |
