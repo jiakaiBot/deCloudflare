@@ -15072,6 +15072,7 @@ Here's a list of public Fediverse services.
 | `firefish.boo` | No |
 | `firefish.city` | No |
 | `firefish.community` | No |
+| `firefish.dev` | No |
 | `firefish.jp` | Yes |
 | `firefish.lgbt` | No |
 | `firefish.lol` | No |
@@ -43040,7 +43041,7 @@ Here's a list of public Fediverse services.
 | `solawi.social` | No |
 | `solchefreu.de` | No |
 | `sold.pk` | Yes |
-| `solderma.sk` | No |
+| `solderma.sk` | Yes |
 | `soldyn.net` | Yes |
 | `soleus.nu` | No |
 | `solhack.com` | Yes |
@@ -52109,6 +52110,7 @@ Here's a list of public Fediverse services.
 | `yegle.blog` | Yes |
 | `yeldirium.de` | No |
 | `yelling.it` | No |
+| `yellingata.cloud` | No |
 | `yellow-brick-code.org` | No |
 | `yellow-turtle.org` | No |
 | `yellowbucketredhandle.online` | No |
@@ -53057,8 +53059,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,164 |
-| Normal | 37,845 |
+| Cloudflare | 15,165 |
+| Normal | 37,846 |
 
 
 </details>
