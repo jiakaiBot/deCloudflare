@@ -61,7 +61,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | chadeyron.fr | Yes |
 | charraud.eu | No |
 | chenu.ch | No |
-| chocolatezz.xyz | Yes |
 | chungocoai.name.vn | No |
 | cira.ca | Yes |
 | circl.lu | No |
@@ -256,7 +255,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | scuola.org | No |
 | seby.io | Yes |
 | servebeer.com | Yes |
-| sev.monster | No |
 | shabi.icu | No |
 | shoupperuser.com | Yes |
 | shutgaming.net | Yes |
@@ -325,8 +323,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 157 |
-| Normal | 149 |
+| Cloudflare | 156 |
+| Normal | 148 |
 
 
 ### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
