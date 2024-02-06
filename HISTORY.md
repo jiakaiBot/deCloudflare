@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-02-06: [Issues with DNS Load Balancers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g92bt3l4lcjt)
 - 2024-02-05: [Network Connectivity Issues in Helsinki(HEL)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/79pckmk8463c)
 - 2024-02-05: [Challenge issues in China](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5qlb6kjbm0t2)
 - 2024-02-02: [Increased Errors in CDG for R2 and Cache Reserve](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9pzrq9v4ks54)
