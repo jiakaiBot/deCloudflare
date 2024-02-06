@@ -12537,6 +12537,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sciz0r1@X](https://twitter.com/Sciz0r1/status/1384091634455900161) | advertise |
 | [sclathrop@X](https://twitter.com/sclathrop/status/1458423494719459332) | advertise |
 | [scmx1123@X](https://twitter.com/scmx1123/status/1711068678941470984) | advertise |
+| [ScotSells@X](https://twitter.com/ScotSells/status/1754689892150632865) | advertise |
 | [ScottMortimer@infosec.exchange](https://infosec.exchange/@ScottMortimer/108277117754849928) | Scott Mortimer "Crimeflare is ridiculous and hyperbolic." |
 | [scpriday@X](https://twitter.com/scpriday/status/1688227203371458560) | advertise |
 | [Scrimzy_@X](https://twitter.com/Scrimzy_/status/1380087112993632257) | advertise |
