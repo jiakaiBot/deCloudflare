@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Question about Export conversations and Date and Time upload](https://github.com/freescout-helpdesk/freescout/issues/3767)
 - [使用对话报错“a padding to disable MSlE and Chromefriendly error page”](https://github.com/xiaolai/everyone-can-use-english/issues/271)
 - [550 5.7.0 bad DKIM signature data (in reply to end of DATA command)](https://github.com/freescout-helpdesk/freescout/issues/3765)
 - [Chromium windows appearing despite HEADLESS=true](https://github.com/FlareSolverr/FlareSolverr/issues/1058)
