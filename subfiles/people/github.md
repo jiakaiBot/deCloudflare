@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Federation issues on v4.3.0-alpha.1+glitch](https://github.com/glitch-soc/mastodon/issues/2609)
+- [Fails with error: too many values to unpack (expected 2)](https://github.com/polhenarejos/acme_email/issues/38)
 - [Issues in running traefik on (micro)k8s](https://github.com/ChristianLempa/boilerplates/issues/138)
 - [Cloudflare Middleware Env Throws an Error](https://github.com/withastro/adapters/issues/157)
 - [Enabling Cloudflare will cause payment issues.](https://github.com/mollie/magento2/issues/741)
