@@ -1673,6 +1673,7 @@ Do not create new issue or we will close it as duplicate.
 | [B4LE01@X](https://twitter.com/B4LE01/status/1624404474570903553) | advertise |
 | [B4TNarobae@X](https://twitter.com/B4TNarobae/status/1587792556192333824) | advertise |
 | [b7b4c7d8e0a04ec@X](https://twitter.com/b7b4c7d8e0a04ec/status/1505572845442662401) | advertise |
+| [B103797705@X](https://twitter.com/B103797705/status/1754880360402256209) | advertise |
 | [ba11z1@X](https://twitter.com/ba11z1/status/1585907997930188800) | advertise |
 | [baabajaylani1@X](https://twitter.com/baabajaylani1/status/1610099588643397636) | advertise |
 | [Baalolenvadi@X](https://twitter.com/Baalolenvadi/status/1555616002037383168) | advertise |
@@ -2412,6 +2413,7 @@ Do not create new issue or we will close it as duplicate.
 | [CantThinkOfUsnm@X](https://twitter.com/CantThinkOfUsnm/status/1412673732406042624) | moral (advertise) |
 | [CanturyN@X](https://twitter.com/CanturyN/status/1508572957173764097) | advertise |
 | [CanvasCapitol@X](https://twitter.com/CanvasCapitol/status/1633042229114830848) | advertise |
+| [can_phum@X](https://twitter.com/can_phum/status/1754881413592002943) | advertise |
 | [CaoKhChinh2@X](https://twitter.com/CaoKhChinh2/status/1377461966738841601) | advertise |
 | [CaokhiemN@X](https://twitter.com/CaokhiemN/status/1539358069398052864) | advertise |
 | [caothuong123@X](https://twitter.com/caothuong123/status/1636648444025786368) | advertise |
@@ -11788,6 +11790,7 @@ Do not create new issue or we will close it as duplicate.
 | [RannaPrado@X](https://twitter.com/RannaPrado/status/1507544094003892226) | advertise |
 | [Rapestate54@X](https://twitter.com/Rapestate54/status/1479114971019571203) | advertise |
 | [raphend@X](https://twitter.com/raphend/status/1480757145477865472) | advertise |
+| [RaPradis27922@X](https://twitter.com/RaPradis27922/status/1754881223002898747) | advertise |
 | [RapYan100@X](https://twitter.com/RapYan100/status/1404834104072454147) | advertise |
 | [raqebpress@X](https://twitter.com/raqebpress/status/1475851899844845570) | advertise |
 | [rare_sauce1@X](https://twitter.com/rare_sauce1/status/1574476001689866240) | advertise |
@@ -12945,6 +12948,7 @@ Do not create new issue or we will close it as duplicate.
 | [Skylider2001@X](https://twitter.com/Skylider2001/status/1724779104539722182) | advertise |
 | [Skythewolf22@X](https://twitter.com/Skythewolf22/status/1412424567625289735) | moral (advertise) |
 | [SkyzGaming12@X](https://twitter.com/SkyzGaming12/status/1400060043710517248) | advertise |
+| [SlAerqzrqlopVHv@X](https://twitter.com/SlAerqzrqlopVHv/status/1754877640798883955) | advertise |
 | [SlavomirRychna3@X](https://twitter.com/SlavomirRychna3/status/1548046291799666690) | advertise |
 | [SleazyDemon666@X](https://twitter.com/SleazyDemon666/status/1682153365378154498) | advertise |
 | [sleepsnoop12071@X](https://twitter.com/sleepsnoop12071/status/1656097038176772096) | advertise |
