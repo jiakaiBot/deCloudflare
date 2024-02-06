@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,470 |
+| com | 8,472 |
 | social | 4,789 |
 | net | 4,131 |
 | org | 2,772 |
@@ -6530,6 +6530,7 @@ Here's a list of public Fediverse services.
 | `byecasts.com` | Yes |
 | `byecorps.com` | Yes |
 | `byemc.live` | No |
+| `byeol.world` | No |
 | `byeolvit.space` | Yes |
 | `bygg.land` | No |
 | `byjc.co` | No |
@@ -14584,6 +14585,7 @@ Here's a list of public Fediverse services.
 | `fedir.de` | No |
 | `fedireads.com` | No |
 | `fedirelay.xyz` | Yes |
+| `fedirunner.com` | No |
 | `fedisabled.de` | No |
 | `fedisabled.social` | No |
 | `fedisaur.us` | No |
@@ -36952,6 +36954,7 @@ Here's a list of public Fediverse services.
 | `port53.me` | Yes |
 | `port87.social` | Yes |
 | `porta.fi` | No |
+| `portableofuton.com` | Yes |
 | `portaesgnos.org` | No |
 | `portal.org` | Yes |
 | `portend.place` | Yes |
@@ -53074,8 +53077,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,169 |
-| Normal | 37,857 |
+| Cloudflare | 15,170 |
+| Normal | 37,859 |
 
 
 </details>
