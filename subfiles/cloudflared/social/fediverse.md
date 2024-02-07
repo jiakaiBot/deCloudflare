@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,474 |
-| social | 4,789 |
+| social | 4,790 |
 | net | 4,131 |
 | org | 2,773 |
 | de | 2,648 |
@@ -18934,6 +18934,7 @@ Here's a list of public Fediverse services.
 | `headcrashing.eu` | No |
 | `headhearthands.xyz` | No |
 | `headmat.es` | No |
+| `headmates.social` | No |
 | `headpat.cafe` | Yes |
 | `headpat.exchange` | No |
 | `headpat.moe` | No |
@@ -28191,7 +28192,7 @@ Here's a list of public Fediverse services.
 | `mastodong.art` | No |
 | `mastodong.club` | No |
 | `mastodong.lol` | No |
-| `mastodong.net` | Yes |
+| `mastodong.net` | No |
 | `mastodongolf.club` | No |
 | `mastodongroup.social` | No |
 | `mastodongx.com` | No |
@@ -29770,7 +29771,7 @@ Here's a list of public Fediverse services.
 | `misskey-dabansky.com` | No |
 | `misskey-experiment.tokyo` | No |
 | `misskey-f.com` | No |
-| `misskey-forkbomb.cf` | Yes |
+| `misskey-forkbomb.cf` | No |
 | `misskey-iriam.net` | No |
 | `misskey-naosuki.net` | No |
 | `misskey-pechoco.com` | No |
@@ -44892,7 +44893,7 @@ Here's a list of public Fediverse services.
 | `syslul.de` | Yes |
 | `sysmike.net` | No |
 | `sysprotect.eu` | No |
-| `syspxl.xyz` | Yes |
+| `syspxl.xyz` | No |
 | `sysreturn.net` | No |
 | `sysrq.in` | No |
 | `system-imperator.de` | No |
@@ -53089,8 +53090,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,175 |
-| Normal | 37,866 |
+| Cloudflare | 15,172 |
+| Normal | 37,870 |
 
 
 </details>
