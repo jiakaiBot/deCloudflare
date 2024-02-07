@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,474 |
-| social | 4,790 |
+| social | 4,791 |
 | net | 4,131 |
 | org | 2,773 |
 | de | 2,648 |
@@ -50315,6 +50315,7 @@ Here's a list of public Fediverse services.
 | `waseda.ac.jp` | Yes |
 | `waseigo.com` | No |
 | `waserryt.me` | No |
+| `washcan.social` | No |
 | `washcaps.fans` | No |
 | `washdcmail.com` | No |
 | `washingtonbeach.online` | No |
@@ -53091,7 +53092,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,172 |
-| Normal | 37,870 |
+| Normal | 37,871 |
 
 
 </details>
