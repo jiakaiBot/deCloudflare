@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,484 |
-| social | 4,793 |
+| social | 4,794 |
 | net | 4,132 |
 | org | 2,774 |
-| de | 2,649 |
+| de | 2,648 |
 
 
 - Mastodon, Pleroma, etc
@@ -4581,6 +4581,7 @@ Here's a list of public Fediverse services.
 | `bemani.world` | No |
 | `bemedia.at` | No |
 | `bemoe.online` | No |
+| `bemrose.social` | No |
 | `bemrose.us` | No |
 | `bemtevi.social` | Yes |
 | `ben-on-vms.com` | Yes |
@@ -11388,7 +11389,6 @@ Here's a list of public Fediverse services.
 | `discordian.social` | No |
 | `discorevenge.xyz` | No |
 | `discorporea.com` | No |
-| `discorsia.de` | No |
 | `discothe.quest` | Yes |
 | `discourse-research.net` | No |
 | `discourse.org` | Yes |
