@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-02-07: [Issues with classification of some verified bot traffic](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fcfgfgw4kdwj)
 - 2024-02-07: [Browser Isolation services unable to set remote clipboard in Safari](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fstr6dzzr0c6)
 - 2024-02-07: [Elevated 5xx errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r4gtlyk4r8qr)
 - 2024-02-06: [Issues with DNS Load Balancers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g92bt3l4lcjt)
