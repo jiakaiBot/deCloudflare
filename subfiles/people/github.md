@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Netbird up command not working and unable to login any clients on any platform (self hosted)](https://github.com/netbirdio/netbird/issues/1538)
 - [TMOhentai is not working](https://github.com/keiyoushi/extensions-source/issues/1072)
 - [Federation issues on v4.3.0-alpha.1+glitch](https://github.com/glitch-soc/mastodon/issues/2609)
 - [Fails with error: too many values to unpack (expected 2)](https://github.com/polhenarejos/acme_email/issues/38)
