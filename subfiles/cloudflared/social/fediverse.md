@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,793 |
 | net | 4,132 |
 | org | 2,774 |
-| de | 2,648 |
+| de | 2,649 |
 
 
 - Mastodon, Pleroma, etc
@@ -11388,6 +11388,7 @@ Here's a list of public Fediverse services.
 | `discordian.social` | No |
 | `discorevenge.xyz` | No |
 | `discorporea.com` | No |
+| `discorsia.de` | No |
 | `discothe.quest` | Yes |
 | `discourse-research.net` | No |
 | `discourse.org` | Yes |
@@ -53127,7 +53128,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,193 |
-| Normal | 37,885 |
+| Normal | 37,886 |
 
 
 </details>
