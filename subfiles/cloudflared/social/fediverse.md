@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,483 |
+| com | 8,484 |
 | social | 4,793 |
 | net | 4,132 |
 | org | 2,774 |
@@ -349,6 +349,7 @@ Here's a list of public Fediverse services.
 | `1xx.io` | Yes |
 | `1z2.net` | No |
 | `1z28.com` | No |
+| `1zl.nl` | Yes |
 | `2-blog.net` | No |
 | `2000cho.me` | Yes |
 | `20011012.xyz` | Yes |
@@ -34992,6 +34993,7 @@ Here's a list of public Fediverse services.
 | `ow3.cn` | No |
 | `owari.nl` | No |
 | `owari.shop` | Yes |
+| `owasikohu.com` | Yes |
 | `owatan.jp` | No |
 | `owenryan.us` | No |
 | `owenyoung.com` | Yes |
@@ -37451,7 +37453,6 @@ Here's a list of public Fediverse services.
 | `protom.eu` | No |
 | `protomolecule.com` | No |
 | `proton.stream` | No |
-| `protopia.tk` | No |
 | `protoxin.net` | Yes |
 | `prou.be` | No |
 | `proud.social` | No |
@@ -52688,7 +52689,6 @@ Here's a list of public Fediverse services.
 | `zbrx.org` | No |
 | `zbucaao2-liquidwebsites.com` | No |
 | `zbuffer.com` | No |
-| `zcjwechat.tk` | No |
 | `zcmi.social` | No |
 | `zcri.dev` | Yes |
 | `zct-mrl.com` | Yes |
@@ -53126,8 +53126,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,191 |
-| Normal | 37,887 |
+| Cloudflare | 15,193 |
+| Normal | 37,885 |
 
 
 </details>
