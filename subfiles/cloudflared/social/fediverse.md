@@ -6765,6 +6765,7 @@ Here's a list of public Fediverse services.
 | `camixo.com` | No |
 | `camjam.page` | Yes |
 | `camnet.site` | No |
+| `camora.dev` | Yes |
 | `campaignhub.org` | No |
 | `campbell.social` | No |
 | `campbells.social` | No |
@@ -53093,7 +53094,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,172 |
+| Cloudflare | 15,173 |
 | Normal | 37,873 |
 
 
