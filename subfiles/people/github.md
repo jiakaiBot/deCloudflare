@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issue with Sat Rating Workflow Conditions Triggering After Rating Submission](https://github.com/freescout-helpdesk/freescout/issues/3774)
 - [Add support for proxies like Cloudflare Warp or Netskope](https://github.com/ferdium/ferdium-app/issues/1560)
 - [Wish to stop sending emails to user's email address](https://github.com/freescout-helpdesk/freescout/issues/3772)
 - [Netbird up command not working and unable to login any clients on any platform (self hosted)](https://github.com/netbirdio/netbird/issues/1538)
