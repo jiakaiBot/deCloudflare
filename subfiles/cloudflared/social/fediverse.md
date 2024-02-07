@@ -23390,7 +23390,7 @@ Here's a list of public Fediverse services.
 | `kellygreening.co.uk` | No |
 | `kellygreeningmoore.co.uk` | No |
 | `kellyndelgado.com` | No |
-| `kelnet.social` | Yes |
+| `kelnet.social` | No |
 | `kelp.community` | No |
 | `kelp.photo` | No |
 | `kelseyz.org` | No |
@@ -26433,6 +26433,7 @@ Here's a list of public Fediverse services.
 | `loomy.li` | No |
 | `loon.club` | Yes |
 | `loonarmys.com` | No |
+| `loop0.sh` | Yes |
 | `loopa.site` | No |
 | `loopcase.com` | No |
 | `looped.network` | Yes |
@@ -34826,6 +34827,7 @@ Here's a list of public Fediverse services.
 | `ottawa.place` | No |
 | `ottawaks.us` | Yes |
 | `otter.buzz` | No |
+| `otter.cx` | No |
 | `otter.garden` | No |
 | `otter.homes` | Yes |
 | `otter.sh` | No |
@@ -53092,7 +53094,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,172 |
-| Normal | 37,871 |
+| Normal | 37,873 |
 
 
 </details>
