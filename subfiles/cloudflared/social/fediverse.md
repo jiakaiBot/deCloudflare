@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,479 |
+| com | 8,480 |
 | social | 4,793 |
 | net | 4,132 |
 | org | 2,773 |
@@ -40333,6 +40333,7 @@ Here's a list of public Fediverse services.
 | `sahagyo.com` | Yes |
 | `sahilister.in` | No |
 | `sai-miyahara-jrw207-1035.com` | No |
+| `saiaku.tech` | No |
 | `saibo.world` | No |
 | `saibou.work` | No |
 | `said.social` | No |
@@ -40716,6 +40717,7 @@ Here's a list of public Fediverse services.
 | `saxonroad.uk` | No |
 | `saxony.social` | Yes |
 | `say.lt` | Yes |
+| `sayaka-mikey.com` | No |
 | `sayfeel.tw` | Yes |
 | `sayhey.site` | No |
 | `sayit.world` | No |
@@ -49523,6 +49525,7 @@ Here's a list of public Fediverse services.
 | `verstandlxs.com` | Yes |
 | `verteiltegedanken.de` | No |
 | `vertexspew.social` | No |
+| `veru.moe` | No |
 | `verumsocial.com` | Yes |
 | `vervology.social` | Yes |
 | `verweg.com` | No |
@@ -53113,7 +53116,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,180 |
-| Normal | 37,884 |
+| Normal | 37,887 |
 
 
 </details>
