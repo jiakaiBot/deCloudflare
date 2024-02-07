@@ -105,7 +105,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | enjoymylife.net | Yes |
 | eranext.net | Yes |
 | extrawdw.net | Yes |
-| f7b6h9.tk | No |
 | f97.xyz | Yes |
 | fancyorg.at | No |
 | fdn.fr | No |
@@ -134,7 +133,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hunga1k47.com | No |
 | huque.com | No |
 | huseynov.work | Yes |
-| huyct.net | Yes |
 | huyhoangit.net | Yes |
 | i81.ru | No |
 | iij.jp | Yes |
@@ -315,15 +313,14 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | xcom.pro | No |
 | xx3210766.live | Yes |
 | yandex.net | Yes |
-| ychen.gq | No |
 
 
 ----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 155 |
-| Normal | 148 |
+| Cloudflare | 154 |
+| Normal | 146 |
 
 
-### 51.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
