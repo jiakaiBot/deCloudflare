@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,478 |
+| com | 8,479 |
 | social | 4,793 |
 | net | 4,132 |
 | org | 2,773 |
@@ -26774,6 +26774,7 @@ Here's a list of public Fediverse services.
 | `lukesmith.xyz` | No |
 | `lukyan.eu` | No |
 | `lullis.net` | Yes |
+| `lulurl.fr` | No |
 | `lulusworld.art` | No |
 | `lulz.blog` | No |
 | `lulz.foo` | No |
@@ -44368,6 +44369,7 @@ Here's a list of public Fediverse services.
 | `subcon.pub` | No |
 | `subculdon.com` | No |
 | `subculdon.jp` | No |
+| `subculture-space.com` | No |
 | `subculture.chat` | Yes |
 | `subdued.social` | No |
 | `subduethesloth.com` | No |
@@ -53111,7 +53113,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,180 |
-| Normal | 37,882 |
+| Normal | 37,884 |
 
 
 </details>
