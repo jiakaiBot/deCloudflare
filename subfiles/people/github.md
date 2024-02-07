@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Wish to stop sending emails to user's email address](https://github.com/freescout-helpdesk/freescout/issues/3772)
 - [Netbird up command not working and unable to login any clients on any platform (self hosted)](https://github.com/netbirdio/netbird/issues/1538)
 - [TMOhentai is not working](https://github.com/keiyoushi/extensions-source/issues/1072)
 - [Federation issues on v4.3.0-alpha.1+glitch](https://github.com/glitch-soc/mastodon/issues/2609)
