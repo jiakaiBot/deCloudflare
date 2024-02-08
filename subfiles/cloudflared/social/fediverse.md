@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,794 |
 | net | 4,133 |
 | org | 2,775 |
-| de | 2,649 |
+| de | 2,650 |
 
 
 - Mastodon, Pleroma, etc
@@ -33938,6 +33938,7 @@ Here's a list of public Fediverse services.
 | `odorite.tokyo` | No |
 | `odosys.net` | No |
 | `odous.app` | Yes |
+| `odragaover.de` | Yes |
 | `ody.si` | No |
 | `odysseus.social` | No |
 | `odyssey346.dev` | No |
@@ -53147,7 +53148,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,196 |
+| Cloudflare | 15,197 |
 | Normal | 37,903 |
 
 
