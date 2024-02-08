@@ -5931,6 +5931,7 @@ Here's a list of public Fediverse services.
 | `boxofbugs.com` | Yes |
 | `boxp.tk` | No |
 | `boxpleats.com` | No |
+| `boyd.cloud` | Yes |
 | `boyf.gay` | No |
 | `boyfails.me` | No |
 | `boykisser.systems` | Yes |
@@ -52547,6 +52548,7 @@ Here's a list of public Fediverse services.
 | `yusuke.pub` | Yes |
 | `yusukebe.com` | Yes |
 | `yutacar.info` | No |
+| `yutanmain.xyz` | Yes |
 | `yutasan.co` | No |
 | `yuto-shin.net` | No |
 | `yutsuku.net` | Yes |
@@ -53144,7 +53146,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,193 |
+| Cloudflare | 15,195 |
 | Normal | 37,903 |
 
 
