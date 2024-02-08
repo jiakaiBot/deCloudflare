@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [HA - Deprecation of TEMP_CELSIUS](https://github.com/bmcclure/ha-aquanta/issues/66)
 - [HAProxy 4.3 Broken with Cloudflare Origin Cert and OCSP Automatic Update](https://github.com/opnsense/plugins/issues/3808)
 - [Can't parse config that includes comment after match statement](https://github.com/cyjake/ssh-config/issues/73)
 - [Issue with Sat Rating Workflow Conditions Triggering After Rating Submission](https://github.com/freescout-helpdesk/freescout/issues/3774)
