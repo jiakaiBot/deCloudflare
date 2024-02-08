@@ -22572,6 +22572,7 @@ Here's a list of public Fediverse services.
 | `joshuastrobl.social` | No |
 | `joshumax.me` | Yes |
 | `joshwithers.blog` | Yes |
+| `josiah.link` | No |
 | `josias.dev` | No |
 | `joslin.io` | Yes |
 | `josoko.net` | No |
@@ -53136,7 +53137,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,192 |
-| Normal | 37,895 |
+| Normal | 37,896 |
 
 
 </details>
