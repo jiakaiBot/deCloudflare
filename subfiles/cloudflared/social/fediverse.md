@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,485 |
+| com | 8,486 |
 | social | 4,794 |
 | net | 4,133 |
 | org | 2,774 |
@@ -2866,6 +2866,7 @@ Here's a list of public Fediverse services.
 | `arasaka.uk` | Yes |
 | `arasaka.vip` | No |
 | `arashi.news` | No |
+| `arashic.info` | No |
 | `arathe.net` | No |
 | `arazil.net` | Yes |
 | `arbitrarion.com` | No |
@@ -18759,6 +18760,7 @@ Here's a list of public Fediverse services.
 | `hareware.xyz` | No |
 | `harfang.social` | Yes |
 | `harijs.id.lv` | No |
+| `haris.paris` | No |
 | `harishpillay.com` | No |
 | `harkonen.pw` | No |
 | `harmandar.co` | No |
@@ -36534,6 +36536,7 @@ Here's a list of public Fediverse services.
 | `play-my.video` | No |
 | `playadust.social` | No |
 | `playcomics.com` | No |
+| `player1mga.com` | Yes |
 | `playexperience.org` | No |
 | `playgames.jp` | Yes |
 | `playground.ws` | No |
@@ -47211,7 +47214,7 @@ Here's a list of public Fediverse services.
 | `tonesplace.com` | No |
 | `tongfamily.com` | No |
 | `tonholzpixel.de` | No |
-| `toni.im` | Yes |
+| `toni.im` | No |
 | `tonikawa.social` | Yes |
 | `toniotti.be` | No |
 | `toniozz75.fr` | Yes |
@@ -53132,7 +53135,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,192 |
-| Normal | 37,891 |
+| Normal | 37,894 |
 
 
 </details>
