@@ -177,7 +177,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | m-it.ro | No |
 | marto.si | No |
 | masters-of-cloud.de | No |
-| mathewakhil.online | No |
 | mattiafenzi.uk | Yes |
 | max.net.id | Yes |
 | maxfong.cc | Yes |
@@ -320,7 +319,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 154 |
-| Normal | 146 |
+| Normal | 145 |
 
 
-### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
