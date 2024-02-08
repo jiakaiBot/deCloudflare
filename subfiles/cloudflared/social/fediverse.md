@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,485 |
 | social | 4,794 |
-| net | 4,132 |
+| net | 4,133 |
 | org | 2,774 |
-| de | 2,649 |
+| de | 2,648 |
 
 
 - Mastodon, Pleroma, etc
@@ -11390,7 +11390,6 @@ Here's a list of public Fediverse services.
 | `discordian.social` | No |
 | `discorevenge.xyz` | No |
 | `discorporea.com` | No |
-| `discorsia.de` | No |
 | `discothe.quest` | Yes |
 | `discourse-research.net` | No |
 | `discourse.org` | Yes |
@@ -21106,6 +21105,7 @@ Here's a list of public Fediverse services.
 | `interlinked.me` | No |
 | `intermittent.network` | No |
 | `intern.at` | No |
+| `internaldebate.net` | No |
 | `internaluse.net` | No |
 | `internationalextraditionblog.com` | Yes |
 | `internationalotaku.com` | No |
