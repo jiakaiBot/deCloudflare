@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Self Hosting from Docker-Compose: 404s, bad route mappings](https://github.com/nhost/nhost/issues/2522)
 - [HA - Deprecation of TEMP_CELSIUS](https://github.com/bmcclure/ha-aquanta/issues/66)
 - [HAProxy 4.3 Broken with Cloudflare Origin Cert and OCSP Automatic Update](https://github.com/opnsense/plugins/issues/3808)
 - [Can't parse config that includes comment after match statement](https://github.com/cyjake/ssh-config/issues/73)
