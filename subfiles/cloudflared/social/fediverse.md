@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,486 |
+| com | 8,487 |
 | social | 4,794 |
 | net | 4,133 |
 | org | 2,775 |
@@ -49720,6 +49720,7 @@ Here's a list of public Fediverse services.
 | `villemin.work` | No |
 | `villenave.net` | No |
 | `villisek.fr` | Yes |
+| `villstudio.com` | Yes |
 | `vilni.space` | No |
 | `vim.town` | Yes |
 | `vimeo.com` | Yes |
@@ -53146,7 +53147,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,195 |
+| Cloudflare | 15,196 |
 | Normal | 37,903 |
 
 
