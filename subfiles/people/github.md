@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Is SAML SSO module is working with an IDP Shibboleth ?](https://github.com/freescout-helpdesk/freescout/issues/3778)
 - [Self Hosting from Docker-Compose: 404s, bad route mappings](https://github.com/nhost/nhost/issues/2522)
 - [HA - Deprecation of TEMP_CELSIUS](https://github.com/bmcclure/ha-aquanta/issues/66)
 - [HAProxy 4.3 Broken with Cloudflare Origin Cert and OCSP Automatic Update](https://github.com/opnsense/plugins/issues/3808)
