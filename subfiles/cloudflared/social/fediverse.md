@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,794 |
 | net | 4,133 |
 | org | 2,775 |
-| de | 2,648 |
+| de | 2,649 |
 
 
 - Mastodon, Pleroma, etc
@@ -4459,6 +4459,7 @@ Here's a list of public Fediverse services.
 | `becauseimbored.com` | Yes |
 | `becauseofprog.fr` | No |
 | `becausetrigger.ga` | No |
+| `bechster.dk` | No |
 | `beck.technology` | No |
 | `beckend.tk` | No |
 | `becker-mayer.com` | No |
@@ -48232,6 +48233,7 @@ Here's a list of public Fediverse services.
 | `tuulaniemi.net` | Yes |
 | `tuvie.com` | Yes |
 | `tuwien.ac.at` | No |
+| `tux-hausen.de` | No |
 | `tux-mania.de` | No |
 | `tux.land` | No |
 | `tux.ovh` | No |
@@ -53143,7 +53145,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,193 |
-| Normal | 37,901 |
+| Normal | 37,903 |
 
 
 </details>
