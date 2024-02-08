@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,484 |
+| com | 8,485 |
 | social | 4,794 |
 | net | 4,132 |
 | org | 2,774 |
-| de | 2,648 |
+| de | 2,649 |
 
 
 - Mastodon, Pleroma, etc
@@ -7427,6 +7427,7 @@ Here's a list of public Fediverse services.
 | `charcha.cc` | No |
 | `charcolle.art` | No |
 | `chare.social` | No |
+| `chargeholidays.com` | Yes |
 | `chargen.one` | Yes |
 | `chariri.moe` | Yes |
 | `chariz.com` | Yes |
@@ -11389,6 +11390,7 @@ Here's a list of public Fediverse services.
 | `discordian.social` | No |
 | `discorevenge.xyz` | No |
 | `discorporea.com` | No |
+| `discorsia.de` | No |
 | `discothe.quest` | Yes |
 | `discourse-research.net` | No |
 | `discourse.org` | Yes |
@@ -13098,7 +13100,7 @@ Here's a list of public Fediverse services.
 | `emanuelecariati.com` | No |
 | `emanuelschwarz.io` | No |
 | `emastodon.com` | No |
-| `emaw.social` | Yes |
+| `emaw.social` | No |
 | `embassy.social` | No |
 | `embeddedarm.com` | No |
 | `ember.lgbt` | Yes |
@@ -20924,7 +20926,7 @@ Here's a list of public Fediverse services.
 | `infra.de` | No |
 | `infra.social` | Yes |
 | `infra4future.de` | Yes |
-| `infrab.jp` | Yes |
+| `infrab.jp` | No |
 | `infrageeks.social` | No |
 | `inframed.net` | No |
 | `infranix.eu` | No |
@@ -22823,6 +22825,7 @@ Here's a list of public Fediverse services.
 | `juvenesco.eu` | No |
 | `juzt.social` | No |
 | `jv-net.digital` | No |
+| `jvalleroy.me` | No |
 | `jvan.be` | Yes |
 | `jvbf.dev` | Yes |
 | `jvdidactics.de` | No |
@@ -22984,6 +22987,7 @@ Here's a list of public Fediverse services.
 | `kaitaia.life` | No |
 | `kaiteki.app` | No |
 | `kaitou.org` | No |
+| `kaixin.meme` | No |
 | `kaixinguo.site` | Yes |
 | `kaiz.jp` | Yes |
 | `kajalinifi.de` | No |
@@ -53127,8 +53131,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,193 |
-| Normal | 37,886 |
+| Cloudflare | 15,192 |
+| Normal | 37,891 |
 
 
 </details>
