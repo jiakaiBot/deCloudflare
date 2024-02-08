@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,486 |
 | social | 4,794 |
 | net | 4,133 |
-| org | 2,774 |
+| org | 2,775 |
 | de | 2,648 |
 
 
@@ -1165,6 +1165,7 @@ Here's a list of public Fediverse services.
 | `acticiel.org` | No |
 | `acting-man.com` | No |
 | `action0.com` | No |
+| `actionpack.ph` | No |
 | `actionsecit.de` | No |
 | `activism.live` | No |
 | `activists.family` | No |
@@ -8442,6 +8443,7 @@ Here's a list of public Fediverse services.
 | `cohan.tv` | Yes |
 | `coinchan.com` | No |
 | `coindesk.com` | Yes |
+| `coinfund.app` | No |
 | `coinfundit.com` | Yes |
 | `coinop.social` | No |
 | `coisas.dev.br` | No |
@@ -16606,6 +16608,7 @@ Here's a list of public Fediverse services.
 | `gaehn.org` | No |
 | `gaeilge.social` | No |
 | `gaelicwizard.net` | No |
+| `gaeremyn.be` | No |
 | `gafamfree.party` | No |
 | `gaffeltr.uk` | No |
 | `gaftnochec.tokyo` | No |
@@ -42480,6 +42483,7 @@ Here's a list of public Fediverse services.
 | `skyline.monster` | Yes |
 | `skylinehub.live` | No |
 | `skyliu.me` | Yes |
+| `skylord.io` | No |
 | `skylord.org` | No |
 | `skymethod.com` | Yes |
 | `skymocha.net` | Yes |
@@ -46171,6 +46175,7 @@ Here's a list of public Fediverse services.
 | `theferret.social` | No |
 | `thefire.work` | Yes |
 | `thefirethesetimes.com` | No |
+| `thefishbowl.link` | Yes |
 | `thefishcrow.com` | No |
 | `thefishermenandthepriestess.com` | No |
 | `thefloatinglab.world` | No |
@@ -50833,6 +50838,7 @@ Here's a list of public Fediverse services.
 | `whn.social` | No |
 | `whoaimin.space` | No |
 | `whoisnick.com` | No |
+| `wholelottanothing.org` | No |
 | `wholemars.com` | Yes |
 | `wholesalehosting.co.uk` | No |
 | `wholesome.computer` | No |
@@ -53136,8 +53142,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,192 |
-| Normal | 37,896 |
+| Cloudflare | 15,193 |
+| Normal | 37,901 |
 
 
 </details>
