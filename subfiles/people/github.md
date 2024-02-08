@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [502: Bad Gateway](https://github.com/llamafilm/tesla-http-proxy-addon/issues/4)
 - [Is SAML SSO module is working with an IDP Shibboleth ?](https://github.com/freescout-helpdesk/freescout/issues/3778)
 - [Self Hosting from Docker-Compose: 404s, bad route mappings](https://github.com/nhost/nhost/issues/2522)
 - [HA - Deprecation of TEMP_CELSIUS](https://github.com/bmcclure/ha-aquanta/issues/66)
