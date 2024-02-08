@@ -121,7 +121,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gac.edu | No |
 | geshido.ru | No |
 | gjrick.tw | Yes |
-| gkonuralp.com | No |
 | hahnjo.de | No |
 | haringstad.com | No |
 | he.net | No |
@@ -318,7 +317,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 152 |
-| Normal | 146 |
+| Normal | 145 |
 
 
-### 51% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
