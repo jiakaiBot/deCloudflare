@@ -33343,6 +33343,7 @@ Here's a list of public Fediverse services.
 | `notr.app` | Yes |
 | `notreal.pw` | No |
 | `notreally.info` | No |
+| `notroot.online` | No |
 | `notroot.social` | No |
 | `notryden.com` | Yes |
 | `notso.cloud` | Yes |
@@ -53135,7 +53136,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,192 |
-| Normal | 37,894 |
+| Normal | 37,895 |
 
 
 </details>
