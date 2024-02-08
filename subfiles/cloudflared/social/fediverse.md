@@ -18491,6 +18491,7 @@ Here's a list of public Fediverse services.
 | `hackinglordsutch.co` | No |
 | `hackistliebe.de` | No |
 | `hackjob.solutions` | No |
+| `hacklab.fi` | No |
 | `hacklab.science` | No |
 | `hackliberty.org` | No |
 | `hacklog.de` | Yes |
@@ -53149,7 +53150,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,197 |
-| Normal | 37,903 |
+| Normal | 37,904 |
 
 
 </details>
