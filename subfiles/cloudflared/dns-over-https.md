@@ -183,6 +183,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meddy94.de | No |
 | meganerd.nl | No |
 | mestdag.fr | No |
+| midping.ir | No |
 | mikrotikrumahan.my.id | No |
 | milkpie.one | Yes |
 | minilla.store | No |
@@ -319,7 +320,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 154 |
-| Normal | 145 |
+| Normal | 146 |
 
 
-### 51.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
