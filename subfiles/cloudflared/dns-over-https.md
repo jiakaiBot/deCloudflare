@@ -171,7 +171,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lista.my.id | Yes |
 | londonwebnerd.cloud | Yes |
 | lonet.org | Yes |
-| lothuscorp.com.br | Yes |
 | lov.host | Yes |
 | lvolland.fr | Yes |
 | m-it.ro | No |
@@ -234,7 +233,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ragnvindr.org | Yes |
 | ral9005.org | Yes |
 | rasp.tv | Yes |
-| ray0512.win | Yes |
 | restena.lu | No |
 | retakecs.com | Yes |
 | rethinkdns.com | Yes |
@@ -319,8 +317,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 154 |
+| Cloudflare | 152 |
 | Normal | 146 |
 
 
-### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51% of DNS-over-HTTPS (DoH) are using Cloudflare.
