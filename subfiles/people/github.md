@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Shopify headers stripped from Remix GraphQL client responses](https://github.com/Shopify/shopify-app-js/issues/637)
 - [GraphQL api is down](https://github.com/PokeAPI/pokeapi/issues/1039)
 - [SSR and dependencies sections cause hydration errors.](https://github.com/rjsf-team/react-jsonschema-form/issues/4083)
 - [502: Bad Gateway](https://github.com/llamafilm/tesla-http-proxy-addon/issues/4)
