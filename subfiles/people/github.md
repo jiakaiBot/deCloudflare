@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [GraphQL api is down](https://github.com/PokeAPI/pokeapi/issues/1039)
 - [SSR and dependencies sections cause hydration errors.](https://github.com/rjsf-team/react-jsonschema-form/issues/4083)
 - [502: Bad Gateway](https://github.com/llamafilm/tesla-http-proxy-addon/issues/4)
 - [Is SAML SSO module is working with an IDP Shibboleth ?](https://github.com/freescout-helpdesk/freescout/issues/3778)
