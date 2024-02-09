@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,494 |
 | social | 4,796 |
-| net | 4,135 |
+| net | 4,137 |
 | org | 2,775 |
 | de | 2,652 |
 
@@ -2204,6 +2204,7 @@ Here's a list of public Fediverse services.
 | `amity.gay` | No |
 | `amity.zone` | No |
 | `amiva.cc` | No |
+| `amiverse.net` | Yes |
 | `amk.ie` | Yes |
 | `amk.pub` | No |
 | `aml.ink` | Yes |
@@ -45832,6 +45833,7 @@ Here's a list of public Fediverse services.
 | `ternoc.com` | No |
 | `ternoc.social` | No |
 | `terokankaanpera.fi` | No |
+| `terpotiz.net` | No |
 | `terra.social` | No |
 | `terracrypt.net` | No |
 | `terradaliberdade.pt` | Yes |
@@ -52420,7 +52422,6 @@ Here's a list of public Fediverse services.
 | `yourwalls.today` | No |
 | `yousack.net` | No |
 | `youshallnotpass.com` | Yes |
-| `youtaite.xyz` | No |
 | `youten.xyz` | No |
 | `youth.social` | No |
 | `youthdon.com` | No |
@@ -53172,7 +53173,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,199 |
+| Cloudflare | 15,200 |
 | Normal | 37,925 |
 
 
