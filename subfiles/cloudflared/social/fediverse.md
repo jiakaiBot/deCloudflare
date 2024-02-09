@@ -1936,6 +1936,7 @@ Here's a list of public Fediverse services.
 | `allofti.me` | No |
 | `allot256.net` | No |
 | `allout.site` | No |
+| `allovertheplace.ca` | No |
 | `allowed.org` | Yes |
 | `allpeep.com` | No |
 | `allpeep.social` | No |
@@ -4979,7 +4980,7 @@ Here's a list of public Fediverse services.
 | `bimbo.social` | No |
 | `bimbo.systems` | No |
 | `bimbo.video` | No |
-| `bimmer.social` | No |
+| `bimmer.social` | Yes |
 | `binah.blue` | Yes |
 | `binarycat.org` | No |
 | `binarycounter.net` | No |
@@ -8450,7 +8451,7 @@ Here's a list of public Fediverse services.
 | `cohan.tv` | Yes |
 | `coinchan.com` | No |
 | `coindesk.com` | Yes |
-| `coinfund.app` | No |
+| `coinfund.app` | Yes |
 | `coinfundit.com` | Yes |
 | `coinop.social` | No |
 | `coisas.dev.br` | No |
@@ -42105,7 +42106,7 @@ Here's a list of public Fediverse services.
 | `signalfel.org` | No |
 | `signalnine.net` | No |
 | `signalstation.com` | No |
-| `signboard.fun` | No |
+| `signboard.fun` | Yes |
 | `significantbullet.co` | No |
 | `signofthe.fish` | No |
 | `signs.codes` | No |
@@ -53169,8 +53170,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,196 |
-| Normal | 37,925 |
+| Cloudflare | 15,199 |
+| Normal | 37,923 |
 
 
 </details>
