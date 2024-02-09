@@ -51,6 +51,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | bonis.de | No |
 | bonsirven.eu | No |
 | brahma.world | Yes |
+| bravoc.one | Yes |
 | bugz.fr | No |
 | c-dns.com | No |
 | callies-online.site | No |
@@ -315,8 +316,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 152 |
+| Cloudflare | 153 |
 | Normal | 144 |
 
 
-### 51.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
