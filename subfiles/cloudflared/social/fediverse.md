@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,487 |
+| com | 8,489 |
 | social | 4,794 |
 | net | 4,133 |
 | org | 2,775 |
-| de | 2,650 |
+| de | 2,651 |
 
 
 - Mastodon, Pleroma, etc
@@ -6822,6 +6822,7 @@ Here's a list of public Fediverse services.
 | `canica.pe` | No |
 | `canicula.jp` | Yes |
 | `canid.one` | No |
+| `canids.de` | No |
 | `canine.cloud` | No |
 | `canineandkeyboard.com` | No |
 | `canion.blog` | No |
@@ -12556,6 +12557,7 @@ Here's a list of public Fediverse services.
 | `ecarlate.app` | Yes |
 | `ecchi.cf` | No |
 | `ecclesias.net` | No |
+| `ecclesicon.com` | No |
 | `eccs.world` | No |
 | `ecdfeaa2.moe` | Yes |
 | `ece.one` | No |
@@ -19783,7 +19785,7 @@ Here's a list of public Fediverse services.
 | `hope.tube` | No |
 | `hopefullyread.com` | No |
 | `hopeinthefield.net` | Yes |
-| `hopeph.com` | Yes |
+| `hopeph.com` | No |
 | `hopfenshop.ch` | No |
 | `hopman.nl` | No |
 | `hopmann.xyz` | No |
@@ -25925,6 +25927,7 @@ Here's a list of public Fediverse services.
 | `liliso.com` | Yes |
 | `lilith.codes` | Yes |
 | `lilith.im` | No |
+| `lilithdiringer.com` | No |
 | `lilithsaintcrow.com` | Yes |
 | `lilkev.dev` | No |
 | `lilledame.nl` | No |
@@ -37822,7 +37825,7 @@ Here's a list of public Fediverse services.
 | `qapp.cloud` | No |
 | `qaq.gay` | Yes |
 | `qaq.jp` | Yes |
-| `qaq.rip` | Yes |
+| `qaq.rip` | No |
 | `qaq.social` | Yes |
 | `qaq.wiki` | Yes |
 | `qassim.uk` | No |
@@ -53149,8 +53152,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,197 |
-| Normal | 37,904 |
+| Cloudflare | 15,195 |
+| Normal | 37,909 |
 
 
 </details>
