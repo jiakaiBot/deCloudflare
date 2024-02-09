@@ -126,7 +126,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | haringstad.com | No |
 | he.net | No |
 | henek.ovh | Yes |
-| hosmatic.com | Yes |
 | hostme.co.il | Yes |
 | hugo0.moe | Yes |
 | hujiayucc.cn | No |
@@ -316,8 +315,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 153 |
+| Cloudflare | 152 |
 | Normal | 144 |
 
 
-### 51.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
