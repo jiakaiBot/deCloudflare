@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Control Plane Test on Thursday, February 15th, 2024](https://github.com/SecOpsNews/news/issues/24577)
 - [Cloudflare blocked when 4chan xt is enabled](https://github.com/TuxedoTako/4chan-xt/issues/31)
 - [www.immobilienscout24.de - site is not usable](https://github.com/webcompat/web-bugs/issues/133215)
 - [Shopify headers stripped from Remix GraphQL client responses](https://github.com/Shopify/shopify-app-js/issues/637)
