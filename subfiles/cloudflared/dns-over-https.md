@@ -249,7 +249,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | scuola.org | No |
 | seby.io | Yes |
 | servebeer.com | Yes |
-| shabi.icu | No |
 | shoupperuser.com | Yes |
 | shutgaming.net | Yes |
 | shuting.idv.tw | Yes |
@@ -317,7 +316,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 152 |
-| Normal | 145 |
+| Normal | 144 |
 
 
-### 51.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
