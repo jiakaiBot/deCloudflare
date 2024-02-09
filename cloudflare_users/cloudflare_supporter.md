@@ -3211,6 +3211,7 @@ Do not create new issue or we will close it as duplicate.
 | [DeannaWils19897@X](https://twitter.com/DeannaWils19897/status/1669890104272506886) | advertise |
 | [debadri95@X](https://twitter.com/debadri95/status/1392537186545790976) | advertise |
 | [debil37959584@X](https://twitter.com/debil37959584/status/1645171376490258433) | advertise |
+| [debjyotib4@X](https://twitter.com/debjyotib4/status/1745785857389310311) | advertise |
 | [DecadeIX@X](https://twitter.com/DecadeIX/status/1634244556760969216) | advertise |
 | [decontented@X](https://twitter.com/decontented/status/1499834132129628167) | advertise |
 | [dedbixth@X](https://twitter.com/dedbixth/status/1586528000484311040) | advertise |
