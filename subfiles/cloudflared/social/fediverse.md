@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,493 |
 | social | 4,796 |
-| net | 4,134 |
+| net | 4,135 |
 | org | 2,775 |
 | de | 2,652 |
 
@@ -1370,7 +1370,7 @@ Here's a list of public Fediverse services.
 | `aeon-hq.net` | No |
 | `aeons-library.gq` | No |
 | `aeosskey.io` | Yes |
-| `aep.systems` | Yes |
+| `aep.systems` | No |
 | `aeracode.org` | No |
 | `aere-sanctuary.net` | No |
 | `aerian.icu` | Yes |
@@ -25085,6 +25085,7 @@ Here's a list of public Fediverse services.
 | `latex.haus` | No |
 | `latex.monster` | Yes |
 | `latex.pet` | No |
+| `latgalia.net` | No |
 | `latinos.social` | No |
 | `latinx.space` | No |
 | `latner.us` | No |
@@ -53168,8 +53169,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,197 |
-| Normal | 37,923 |
+| Cloudflare | 15,196 |
+| Normal | 37,925 |
 
 
 </details>
