@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,490 |
+| com | 8,493 |
 | social | 4,796 |
-| net | 4,133 |
+| net | 4,134 |
 | org | 2,775 |
-| de | 2,651 |
+| de | 2,652 |
 
 
 - Mastodon, Pleroma, etc
@@ -1678,6 +1678,7 @@ Here's a list of public Fediverse services.
 | `aktion-nordost.tv` | No |
 | `aktives-muensterland.de` | No |
 | `aktivtube.com` | Yes |
+| `aktsys.de` | No |
 | `aku-san.net` | No |
 | `akubidon.com` | No |
 | `akunyiba.net` | No |
@@ -4315,6 +4316,7 @@ Here's a list of public Fediverse services.
 | `bath.social` | No |
 | `batichi.net` | No |
 | `batlord.org` | Yes |
+| `batpa.ws` | No |
 | `batsense.net` | Yes |
 | `battle7.net` | No |
 | `battleangels.net` | No |
@@ -17129,6 +17131,7 @@ Here's a list of public Fediverse services.
 | `geolyceum.com` | No |
 | `geontime.com` | No |
 | `geoplanetary.net` | Yes |
+| `geor.gs` | No |
 | `geordieguy.au` | No |
 | `geore.pub` | Yes |
 | `georg-rosenbaum.de` | No |
@@ -22152,6 +22155,7 @@ Here's a list of public Fediverse services.
 | `jews.international` | No |
 | `jews.run` | No |
 | `jewy.blog` | Yes |
+| `jexetic.com` | No |
 | `jeykey.org` | No |
 | `jezdez.social` | No |
 | `jezner.com` | Yes |
@@ -23877,6 +23881,7 @@ Here's a list of public Fediverse services.
 | `kitsune.moe` | Yes |
 | `kitsune.social` | No |
 | `kitsunebi-ya.com` | Yes |
+| `kitsunech.jp.net` | No |
 | `kitsunemimi.club` | No |
 | `kitsunes.cloud` | No |
 | `kitsunes.club` | Yes |
@@ -42014,6 +42019,7 @@ Here's a list of public Fediverse services.
 | `shufudon.com` | No |
 | `shugetsu.space` | Yes |
 | `shuklafam.club` | No |
+| `shukriadams.com` | Yes |
 | `shumihub.net` | Yes |
 | `shun-shin.com` | Yes |
 | `shun1s.com` | No |
@@ -42284,6 +42290,7 @@ Here's a list of public Fediverse services.
 | `siotter.tk` | No |
 | `siotter.xyz` | Yes |
 | `siou.ga` | Yes |
+| `sip.sh` | No |
 | `sip3.de` | No |
 | `sipassa.gq` | No |
 | `sipior.net` | No |
@@ -45633,6 +45640,7 @@ Here's a list of public Fediverse services.
 | `tecmint.com` | Yes |
 | `tecnfy.com` | No |
 | `tecnocracia.com.co` | Yes |
+| `tecnologiageek.com` | No |
 | `tecnoriflessioni.com` | No |
 | `ted.social` | No |
 | `tedandrachel.com` | No |
@@ -53159,8 +53167,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,195 |
-| Normal | 37,916 |
+| Cloudflare | 15,196 |
+| Normal | 37,923 |
 
 
 </details>
