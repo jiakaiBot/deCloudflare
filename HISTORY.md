@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-02-09: [5XX errors in NVT](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jb0t70ljzy3z)
 - 2024-02-07: [Issues with classification of some verified bot traffic](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fcfgfgw4kdwj)
 - 2024-02-07: [Browser Isolation services unable to set remote clipboard in Safari](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fstr6dzzr0c6)
 - 2024-02-07: [Elevated 5xx errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r4gtlyk4r8qr)
