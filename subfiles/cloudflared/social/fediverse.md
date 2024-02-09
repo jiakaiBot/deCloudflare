@@ -23007,7 +23007,7 @@ Here's a list of public Fediverse services.
 | `kaitaia.life` | No |
 | `kaiteki.app` | No |
 | `kaitou.org` | No |
-| `kaixin.meme` | No |
+| `kaixin.meme` | Yes |
 | `kaixinguo.site` | Yes |
 | `kaiz.jp` | Yes |
 | `kajalinifi.de` | No |
@@ -42114,6 +42114,7 @@ Here's a list of public Fediverse services.
 | `sigterm.wtf` | No |
 | `sigure.net` | Yes |
 | `sihailiuyun.gift` | No |
+| `siina.live` | No |
 | `siina.wtf` | No |
 | `sijobling.com` | Yes |
 | `sikademo.com` | Yes |
@@ -53167,7 +53168,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,196 |
+| Cloudflare | 15,197 |
 | Normal | 37,923 |
 
 
