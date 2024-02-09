@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Max values for settings](https://github.com/supabase/supautils/issues/82)
 - [secretKey not being detected in Cloudflare Pages](https://github.com/clerk/javascript/issues/2778)
 - [0.0.0.0 and SSL Issue - Windows Server](https://github.com/ever-co/ever-gauzy/issues/7522)
 - [CloudFlare Control Plane Test on Thursday, February 15th, 2024](https://github.com/SecOpsNews/news/issues/24577)
