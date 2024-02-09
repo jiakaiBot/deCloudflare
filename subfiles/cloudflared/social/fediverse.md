@@ -6983,6 +6983,7 @@ Here's a list of public Fediverse services.
 | `caselibre.fr` | No |
 | `caserio.de` | No |
 | `cashless.gr.jp` | Yes |
+| `cashscam.us` | Yes |
 | `casioguy.com` | No |
 | `caskey-demaret.se` | No |
 | `casoetto.net` | No |
@@ -16271,7 +16272,7 @@ Here's a list of public Fediverse services.
 | `fujii-yuji.net` | No |
 | `fujimo.top` | No |
 | `fujita.style` | Yes |
-| `fukahire.tokyo` | Yes |
+| `fukahire.tokyo` | No |
 | `fukeaka.ink` | No |
 | `fukka.co.uk` | No |
 | `fukn.jp` | No |
@@ -35538,7 +35539,7 @@ Here's a list of public Fediverse services.
 | `pawdev.me` | Yes |
 | `paweljw.al` | Yes |
 | `pawelko.net` | No |
-| `pawesome.online` | No |
+| `pawesome.online` | Yes |
 | `pawlicker.com` | No |
 | `pawn.nl` | No |
 | `pawoo.net` | Yes |
@@ -53157,7 +53158,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,194 |
+| Cloudflare | 15,195 |
 | Normal | 37,915 |
 
 
