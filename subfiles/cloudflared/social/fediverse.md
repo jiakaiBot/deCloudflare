@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,490 |
-| social | 4,795 |
+| social | 4,796 |
 | net | 4,133 |
 | org | 2,775 |
 | de | 2,651 |
@@ -11131,6 +11131,7 @@ Here's a list of public Fediverse services.
 | `diacrown.com` | No |
 | `diafri.social` | No |
 | `diagonalley.club` | No |
+| `diagonlemmy.social` | No |
 | `dialectica.red` | No |
 | `dialog.pics` | No |
 | `dialogstadt.de` | No |
@@ -53159,7 +53160,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,195 |
-| Normal | 37,915 |
+| Normal | 37,916 |
 
 
 </details>
