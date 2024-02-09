@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,493 |
+| com | 8,494 |
 | social | 4,796 |
 | net | 4,135 |
 | org | 2,775 |
@@ -2338,7 +2338,7 @@ Here's a list of public Fediverse services.
 | `andinfinity.de` | No |
 | `andlang.me` | No |
 | `andma.la` | No |
-| `andoria.social` | Yes |
+| `andoria.social` | No |
 | `andoria.space` | No |
 | `andr3.net` | No |
 | `andr3w.net` | Yes |
@@ -45717,6 +45717,7 @@ Here's a list of public Fediverse services.
 | `telent.net` | No |
 | `telepath.ee` | No |
 | `telepati.ch` | No |
+| `teleportal-13.com` | No |
 | `teleprinter.exchange` | Yes |
 | `telescope.garden` | No |
 | `teletoot.nl` | No |
@@ -52588,6 +52589,7 @@ Here's a list of public Fediverse services.
 | `yuwinet.com` | No |
 | `yuwinet.win` | No |
 | `yuyat.jp` | No |
+| `yuyutsu.one` | Yes |
 | `yuzu.tk` | No |
 | `yuzuhi.me` | No |
 | `yuzulia.com` | Yes |
@@ -53171,7 +53173,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,199 |
-| Normal | 37,923 |
+| Normal | 37,925 |
 
 
 </details>
