@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,494 |
 | social | 4,796 |
-| net | 4,137 |
+| net | 4,136 |
 | org | 2,775 |
 | de | 2,652 |
 
@@ -45833,7 +45833,6 @@ Here's a list of public Fediverse services.
 | `ternoc.com` | No |
 | `ternoc.social` | No |
 | `terokankaanpera.fi` | No |
-| `terpotiz.net` | No |
 | `terra.social` | No |
 | `terracrypt.net` | No |
 | `terradaliberdade.pt` | Yes |
@@ -53174,7 +53173,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,200 |
-| Normal | 37,925 |
+| Normal | 37,924 |
 
 
 </details>
