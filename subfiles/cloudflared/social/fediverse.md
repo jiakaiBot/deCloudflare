@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,489 |
-| social | 4,794 |
+| com | 8,490 |
+| social | 4,795 |
 | net | 4,133 |
 | org | 2,775 |
 | de | 2,651 |
@@ -199,6 +199,7 @@ Here's a list of public Fediverse services.
 | `100010101.xyz` | No |
 | `1000dollars.info` | No |
 | `1000grad.com` | No |
+| `1001otheralbums.com` | No |
 | `1001solutions.net` | No |
 | `100bureaux.com` | No |
 | `100club.social` | No |
@@ -14695,6 +14696,7 @@ Here's a list of public Fediverse services.
 | `fediverseis.fun` | No |
 | `fediversekey.com` | No |
 | `fediversereport.com` | No |
+| `fediversity.eu` | No |
 | `fediversity.site` | No |
 | `fediverso.club` | No |
 | `fediverso.gal` | No |
@@ -17565,6 +17567,7 @@ Here's a list of public Fediverse services.
 | `gmr.news` | No |
 | `gmtz.me` | No |
 | `gn-tronics.dev` | No |
+| `gn2.social` | No |
 | `gnampftoast.de` | No |
 | `gnarfhead.social` | No |
 | `gnarlen.us` | Yes |
@@ -21513,7 +21516,7 @@ Here's a list of public Fediverse services.
 | `itsfoss.com` | Yes |
 | `itsfree.realestate.pl` | No |
 | `itsg.host` | Yes |
-| `itsgarrett.com` | Yes |
+| `itsgarrett.com` | No |
 | `itsgonna.com` | Yes |
 | `itsjustdj.com` | No |
 | `itsjustthis.com` | No |
@@ -41204,6 +41207,7 @@ Here's a list of public Fediverse services.
 | `seann.ca` | Yes |
 | `seanneil.co.uk` | Yes |
 | `seanos.net` | Yes |
+| `seanpatrick.phd` | No |
 | `seanreiser.com` | Yes |
 | `seanstaffiery.com` | Yes |
 | `seanut.app` | Yes |
@@ -51404,6 +51408,7 @@ Here's a list of public Fediverse services.
 | `wrasstodon.pro` | No |
 | `wreck.rocks` | No |
 | `wreckedcarzz.cloud` | No |
+| `wrenix.eu` | No |
 | `wrestle.town` | No |
 | `wrestling.social` | No |
 | `wrestlr.social` | No |
@@ -53152,8 +53157,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,195 |
-| Normal | 37,909 |
+| Cloudflare | 15,194 |
+| Normal | 37,915 |
 
 
 </details>
