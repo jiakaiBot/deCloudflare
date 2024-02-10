@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [APKMirror: Set up custom user agent to bypass Cloudflare protection](https://github.com/ImranR98/Obtainium/issues/1387)
 - [Cannot add as repository](https://github.com/ylabonte/proconip-hass/issues/54)
 - [ExOpenAI.Audio.create_speech tries to parse response as JSON when it is the raw MP3 string](https://github.com/dvcrn/ex_openai/issues/19)
 - [supervisor check_connectivity is broken](https://github.com/home-assistant/supervisor/issues/4883)
