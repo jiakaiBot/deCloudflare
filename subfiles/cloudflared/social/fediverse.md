@@ -5263,6 +5263,7 @@ Here's a list of public Fediverse services.
 | `blackleaf.ca` | No |
 | `blackmentwerking.live` | No |
 | `blackmesa.space` | No |
+| `blackmetal.club` | Yes |
 | `blacknapkins.co.uk` | No |
 | `blackoutstout.space` | No |
 | `blackpacket.net` | Yes |
@@ -53187,7 +53188,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,202 |
+| Cloudflare | 15,203 |
 | Normal | 37,937 |
 
 
