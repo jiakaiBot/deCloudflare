@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,494 |
 | social | 4,796 |
-| net | 4,136 |
+| net | 4,137 |
 | org | 2,775 |
 | de | 2,652 |
 
@@ -1163,6 +1163,7 @@ Here's a list of public Fediverse services.
 | `acromotivator.com` | No |
 | `acrylicjam.xyz` | No |
 | `act2restore.org` | No |
+| `acter.global` | Yes |
 | `acticiel.org` | No |
 | `acting-man.com` | No |
 | `action0.com` | No |
@@ -6807,6 +6808,7 @@ Here's a list of public Fediverse services.
 | `canard.tube` | No |
 | `canary.city` | Yes |
 | `canarygateway.com` | No |
+| `canayjun.ca` | No |
 | `canbaysal.com` | No |
 | `canberrasocial.net` | No |
 | `cancelcultu.re` | No |
@@ -7224,7 +7226,7 @@ Here's a list of public Fediverse services.
 | `cedard.me` | Yes |
 | `cedgrim.be` | No |
 | `cedricbonhomme.org` | No |
-| `cedwardsmedia.social` | Yes |
+| `cedwardsmedia.social` | No |
 | `ceejayoz.io` | No |
 | `ceilidh.online` | No |
 | `ceilidh.space` | No |
@@ -29074,6 +29076,7 @@ Here's a list of public Fediverse services.
 | `meowchat.xyz` | No |
 | `meowcity.club` | No |
 | `meowclown.de` | No |
+| `meowdy.club` | No |
 | `meowhome.xyz` | Yes |
 | `meowing.online` | Yes |
 | `meowly.org` | Yes |
@@ -45833,6 +45836,7 @@ Here's a list of public Fediverse services.
 | `ternoc.com` | No |
 | `ternoc.social` | No |
 | `terokankaanpera.fi` | No |
+| `terpotiz.net` | No |
 | `terra.social` | No |
 | `terracrypt.net` | No |
 | `terradaliberdade.pt` | Yes |
@@ -53173,7 +53177,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,200 |
-| Normal | 37,924 |
+| Normal | 37,928 |
 
 
 </details>
