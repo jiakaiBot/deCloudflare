@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,494 |
+| com | 8,495 |
 | social | 4,796 |
 | net | 4,137 |
 | org | 2,775 |
@@ -10107,6 +10107,7 @@ Here's a list of public Fediverse services.
 | `danslesbois.net` | No |
 | `dansmith.online` | No |
 | `dansmonorage.blue` | No |
+| `dansonline.space` | Yes |
 | `danstodon.com` | No |
 | `dansu.org` | No |
 | `dantappanphotos.com` | No |
@@ -37124,7 +37125,7 @@ Here's a list of public Fediverse services.
 | `potswift.org` | No |
 | `pottbayer.de` | No |
 | `potwatcher.ca` | No |
-| `potzdorf.cc` | Yes |
+| `potzdorf.cc` | No |
 | `pouchi.ca` | No |
 | `pouet.ca` | No |
 | `pouet.it` | No |
@@ -43228,6 +43229,7 @@ Here's a list of public Fediverse services.
 | `sonicbunny.com` | No |
 | `sonichu.com` | No |
 | `sonichu.social` | No |
+| `sonicstatus.com` | No |
 | `sonnenmulde.at` | No |
 | `sonntag.fr` | No |
 | `sonogatto.it` | No |
@@ -53177,7 +53179,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,200 |
-| Normal | 37,928 |
+| Normal | 37,930 |
 
 
 </details>
