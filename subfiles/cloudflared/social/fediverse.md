@@ -37672,6 +37672,7 @@ Here's a list of public Fediverse services.
 | `puni.moe` | Yes |
 | `puniana.icu` | Yes |
 | `puniman.co` | No |
+| `punipoka.pink` | No |
 | `punipuni.eu` | Yes |
 | `punk.pizza` | Yes |
 | `punkchords.com` | No |
@@ -53187,7 +53188,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,202 |
-| Normal | 37,936 |
+| Normal | 37,937 |
 
 
 </details>
