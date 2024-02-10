@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,495 |
+| com | 8,496 |
 | social | 4,796 |
 | net | 4,137 |
 | org | 2,775 |
-| de | 2,652 |
+| de | 2,653 |
 
 
 - Mastodon, Pleroma, etc
@@ -270,6 +270,7 @@ Here's a list of public Fediverse services.
 | `137i.de` | No |
 | `13ad.de` | No |
 | `13bells.com` | No |
+| `13mmy.io` | No |
 | `141.lv` | No |
 | `14141004.xyz` | Yes |
 | `143420.xyz` | Yes |
@@ -2434,7 +2435,7 @@ Here's a list of public Fediverse services.
 | `angelstrapped.com` | No |
 | `angezeckt.de` | No |
 | `angie.org.uk` | No |
-| `anglotopia.net` | No |
+| `anglotopia.net` | Yes |
 | `angraecumnote.net` | Yes |
 | `angristan.fr` | Yes |
 | `angristan.xyz` | Yes |
@@ -7084,7 +7085,7 @@ Here's a list of public Fediverse services.
 | `catgirl.works` | Yes |
 | `catgirl.zone` | No |
 | `catgirlin.space` | No |
-| `catgirlmeike.eu` | Yes |
+| `catgirlmeike.eu` | No |
 | `catgirlon.top` | Yes |
 | `catgirls.cafe` | Yes |
 | `catgirls.ink` | No |
@@ -10658,6 +10659,7 @@ Here's a list of public Fediverse services.
 | `defis.info` | No |
 | `defloration.ml` | No |
 | `defluence.me` | Yes |
+| `defragment.tech` | No |
 | `defulmere.name` | No |
 | `deg.social` | No |
 | `degenerate-senate.online` | No |
@@ -13176,7 +13178,7 @@ Here's a list of public Fediverse services.
 | `empathytech.net` | No |
 | `empathytree.org` | No |
 | `emperorofmars.org` | No |
-| `emphisia.nl` | No |
+| `emphisia.nl` | Yes |
 | `empod.cat` | No |
 | `empoer.li` | No |
 | `emprendedon.network` | No |
@@ -20018,6 +20020,7 @@ Here's a list of public Fediverse services.
 | `hu-e.uk` | Yes |
 | `huaren.social` | No |
 | `hub.lol` | Yes |
+| `hub13.xyz` | Yes |
 | `hubbr.org` | No |
 | `hubbz.de` | No |
 | `huber-67.fr` | No |
@@ -26903,6 +26906,7 @@ Here's a list of public Fediverse services.
 | `luuk180.dev` | Yes |
 | `luvdb.com` | No |
 | `luvdon.cc` | No |
+| `luvndestiny.com` | No |
 | `luvz.me` | Yes |
 | `lux-nightclub.com` | No |
 | `lux.blue` | No |
@@ -35821,6 +35825,7 @@ Here's a list of public Fediverse services.
 | `peq42.com` | Yes |
 | `perceptiontravel.tv` | Yes |
 | `perceptiveconstructs.com` | No |
+| `perchinup.top` | No |
 | `peregrinecoast.press` | Yes |
 | `peregrinecross.com` | No |
 | `peregrinor.net` | No |
@@ -36286,6 +36291,7 @@ Here's a list of public Fediverse services.
 | `pinky.st` | No |
 | `pinniped.pub` | No |
 | `pinnoto.org` | No |
+| `pinqin.cloud` | No |
 | `pinseri.com` | No |
 | `pinskiy.space` | No |
 | `pint.com` | Yes |
@@ -41339,6 +41345,7 @@ Here's a list of public Fediverse services.
 | `seediqbale.xyz` | No |
 | `seedoubleyou.me` | No |
 | `seeds.social` | No |
+| `seedy.cc` | No |
 | `seedy.gq` | Yes |
 | `seedy.xyz` | Yes |
 | `seeedstudio.social` | Yes |
@@ -50658,6 +50665,7 @@ Here's a list of public Fediverse services.
 | `weisnix.social` | No |
 | `weissen.me` | Yes |
 | `weisser-zwerg.dev` | No |
+| `weiznich.de` | No |
 | `welance.cn` | No |
 | `weldin.social` | No |
 | `welford.me` | Yes |
@@ -53178,8 +53186,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,200 |
-| Normal | 37,930 |
+| Cloudflare | 15,202 |
+| Normal | 37,936 |
 
 
 </details>
