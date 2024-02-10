@@ -14998,6 +14998,7 @@ Here's a list of public Fediverse services.
 | `fifi.club` | Yes |
 | `fifitido.net` | Yes |
 | `fifo-f.eu` | No |
+| `fifteen.wtf` | No |
 | `fifteen40.com` | No |
 | `fifthcity.social` | No |
 | `fifthdread.com` | No |
@@ -23922,6 +23923,7 @@ Here's a list of public Fediverse services.
 | `kittyshards.net` | No |
 | `kittyunpretty.com` | No |
 | `kittyverse.co` | No |
+| `kittywi.re` | No |
 | `kitunetya-ya-mastdom.com` | No |
 | `kitwalz.xyz` | No |
 | `kity.wtf` | Yes |
@@ -53191,7 +53193,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,205 |
-| Normal | 37,937 |
+| Normal | 37,939 |
 
 
 </details>
