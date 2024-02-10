@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,496 |
+| com | 8,497 |
 | social | 4,796 |
-| net | 4,137 |
+| net | 4,138 |
 | org | 2,775 |
 | de | 2,653 |
 
@@ -7458,6 +7458,7 @@ Here's a list of public Fediverse services.
 | `charlie.software` | No |
 | `charlie2alpha.org` | No |
 | `charliedeets.photo` | No |
+| `charlielaabs.com` | Yes |
 | `charmed.social` | No |
 | `charon.monster` | Yes |
 | `charr.engineer` | Yes |
@@ -16435,6 +16436,7 @@ Here's a list of public Fediverse services.
 | `furryrefuge.com` | Yes |
 | `furrysp.top` | Yes |
 | `furrytf.club` | No |
+| `furryvile.net` | Yes |
 | `furs.social` | Yes |
 | `furs.town` | Yes |
 | `fursocial.xyz` | No |
@@ -53188,7 +53190,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,203 |
+| Cloudflare | 15,205 |
 | Normal | 37,937 |
 
 
