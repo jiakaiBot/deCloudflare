@@ -108,7 +108,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | f97.xyz | Yes |
 | fancyorg.at | No |
 | fdn.fr | No |
-| fezgate.ovh | No |
 | ffmuc.net | Yes |
 | flm9.net | No |
 | fltn.us | Yes |
@@ -315,7 +314,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 153 |
-| Normal | 142 |
+| Normal | 141 |
 
 
-### 51.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52% of DNS-over-HTTPS (DoH) are using Cloudflare.
