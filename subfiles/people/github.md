@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ExOpenAI.Audio.create_speech tries to parse response as JSON when it is the raw MP3 string](https://github.com/dvcrn/ex_openai/issues/19)
 - [supervisor check_connectivity is broken](https://github.com/home-assistant/supervisor/issues/4883)
 - [Website down until tomorrow](https://github.com/esteinig/brick/issues/76)
 - [Help: Unhealthy ip addresses do not match](https://github.com/qdm12/ddns-updater/issues/645)
