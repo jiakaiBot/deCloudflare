@@ -60,7 +60,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | catdns.org | Yes |
 | cgnat.net | No |
 | chadeyron.fr | Yes |
-| charraud.eu | No |
 | chenu.ch | No |
 | chungocoai.name.vn | No |
 | cira.ca | Yes |
@@ -184,7 +183,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | midping.ir | No |
 | mikrotikrumahan.my.id | No |
 | milkpie.one | Yes |
-| minilla.store | No |
 | mo0on15.com | No |
 | moderateinfra.net | No |
 | modr.club | Yes |
@@ -276,6 +274,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | systemfall.ru | Yes |
 | sytes.net | Yes |
 | t53.de | No |
+| teknoholistik.com | Yes |
 | telekom.de | Yes |
 | thebuckners.org | No |
 | tiar.app | No |
@@ -315,8 +314,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 152 |
-| Normal | 144 |
+| Cloudflare | 153 |
+| Normal | 142 |
 
 
-### 51.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
