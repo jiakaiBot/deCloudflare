@@ -13775,6 +13775,7 @@ Here's a list of public Fediverse services.
 | `everafter.digital` | No |
 | `evergood.me` | No |
 | `everlong.org` | No |
+| `evermorestud.io` | No |
 | `eversole.co` | No |
 | `eversole.dev` | Yes |
 | `everton.rocks` | Yes |
@@ -21154,6 +21155,7 @@ Here's a list of public Fediverse services.
 | `internot.no` | No |
 | `interocitor.parts` | No |
 | `interordi.com` | No |
+| `interplanetary.cafe` | No |
 | `interrobang.pizza` | No |
 | `interru.io` | No |
 | `intersects.art` | No |
@@ -53193,7 +53195,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,205 |
-| Normal | 37,939 |
+| Normal | 37,941 |
 
 
 </details>
