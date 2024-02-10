@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [supervisor check_connectivity is broken](https://github.com/home-assistant/supervisor/issues/4883)
 - [Website down until tomorrow](https://github.com/esteinig/brick/issues/76)
 - [Help: Unhealthy ip addresses do not match](https://github.com/qdm12/ddns-updater/issues/645)
 - [Max values for settings](https://github.com/supabase/supautils/issues/82)
