@@ -21153,6 +21153,7 @@ Here's a list of public Fediverse services.
 | `internot.no` | No |
 | `interocitor.parts` | No |
 | `interordi.com` | No |
+| `interplanetary.cafe` | No |
 | `interrobang.pizza` | No |
 | `interru.io` | No |
 | `intersects.art` | No |
@@ -53191,7 +53192,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,205 |
-| Normal | 37,937 |
+| Normal | 37,938 |
 
 
 </details>
