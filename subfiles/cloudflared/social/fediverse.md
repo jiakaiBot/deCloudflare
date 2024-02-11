@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,499 |
-| social | 4,796 |
-| net | 4,139 |
-| org | 2,775 |
+| com | 8,503 |
+| social | 4,798 |
+| net | 4,140 |
+| org | 2,777 |
 | de | 2,655 |
 
 
@@ -5468,6 +5468,7 @@ Here's a list of public Fediverse services.
 | `blogueur-de-france.fr` | No |
 | `bloguslibrus.fr` | No |
 | `blombus.com` | No |
+| `bloodfames.monster` | No |
 | `bloodmoon-network.de` | Yes |
 | `bloodshed.party` | No |
 | `bloom.casa` | Yes |
@@ -6122,6 +6123,7 @@ Here's a list of public Fediverse services.
 | `briantajuddin.com` | No |
 | `brianturner.info` | No |
 | `brianwolf.tv` | No |
+| `brianzegeer.com` | No |
 | `bricetebbs.com` | No |
 | `bricin.net` | No |
 | `brick.camp` | No |
@@ -22129,6 +22131,7 @@ Here's a list of public Fediverse services.
 | `jeroenpraat.nl` | Yes |
 | `jeroensangers.com` | No |
 | `jeroenvd.nl` | Yes |
+| `jerometevans.com` | No |
 | `jeronimo.dev.br` | Yes |
 | `jeronimodesign.com` | Yes |
 | `jeronimodesign.net` | Yes |
@@ -26541,6 +26544,7 @@ Here's a list of public Fediverse services.
 | `loria.fr` | No |
 | `losangeles.social` | Yes |
 | `loschinski.net` | No |
+| `loscuadernosdevieco.blog` | No |
 | `loser.academy` | No |
 | `loser.cafe` | No |
 | `loser.space` | No |
@@ -27558,6 +27562,7 @@ Here's a list of public Fediverse services.
 | `mapgas.org` | No |
 | `maphammond.art` | No |
 | `maphammond.club` | No |
+| `maphew.com` | No |
 | `maphia.net` | Yes |
 | `mapicardie.fr` | No |
 | `maple.social` | No |
@@ -29374,6 +29379,7 @@ Here's a list of public Fediverse services.
 | `michaelscotthand.com` | No |
 | `michaelthinks.com` | No |
 | `michaelthomet.com` | No |
+| `michalzelazny.com` | No |
 | `michaonline.net` | No |
 | `michaz.de` | No |
 | `michci.ooo` | No |
@@ -29519,6 +29525,7 @@ Here's a list of public Fediverse services.
 | `mikeinspace.nl` | No |
 | `mikelittle.com` | No |
 | `mikelsigler.com` | No |
+| `mikelynch.org` | No |
 | `mikemcbrideonline.com` | No |
 | `mikemcquaid.com` | Yes |
 | `mikemestnik.net` | No |
@@ -32472,6 +32479,7 @@ Here's a list of public Fediverse services.
 | `newmusic.social` | Yes |
 | `newnebraska.online` | No |
 | `newnet.live` | No |
+| `newnet.social` | No |
 | `neworleanssaints.social` | No |
 | `newpublicsquare.com` | No |
 | `news-p.com` | No |
@@ -38849,6 +38857,7 @@ Here's a list of public Fediverse services.
 | `red-panda.cz` | No |
 | `redacted.life` | No |
 | `redasadki.me` | No |
+| `redbeard.social` | No |
 | `redbeardsec.com` | No |
 | `redbeardthe.ninja` | No |
 | `redchops.com` | No |
@@ -43559,6 +43568,7 @@ Here's a list of public Fediverse services.
 | `spiezmaestro.ch` | No |
 | `spiffy.social` | No |
 | `spike-el-clopero.org` | No |
+| `spikker.org` | No |
 | `spill-the-tea.ninja` | No |
 | `spimescape.com` | No |
 | `spin-2.net` | No |
@@ -51826,6 +51836,7 @@ Here's a list of public Fediverse services.
 | `xmh.one` | No |
 | `xmit.xyz` | No |
 | `xmitter.cc` | No |
+| `xmitter.net` | No |
 | `xmob.me` | No |
 | `xmob.social` | No |
 | `xmpp.moe` | No |
@@ -53205,7 +53216,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,204 |
-| Normal | 37,952 |
+| Normal | 37,963 |
 
 
 </details>
