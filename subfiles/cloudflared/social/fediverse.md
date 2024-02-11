@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,796 |
 | net | 4,138 |
 | org | 2,775 |
-| de | 2,653 |
+| de | 2,654 |
 
 
 - Mastodon, Pleroma, etc
@@ -18202,6 +18202,7 @@ Here's a list of public Fediverse services.
 | `gru.social` | No |
 | `grudge.space` | No |
 | `gruene-badoeynhausen.de` | No |
+| `gruene-harsefeld.de` | No |
 | `gruene-urbach.de` | No |
 | `gruene.social` | No |
 | `gruenehoelle.nl` | Yes |
@@ -22222,7 +22223,7 @@ Here's a list of public Fediverse services.
 | `jidong.in` | Yes |
 | `jidoridon.com` | No |
 | `jiejinghe.co` | Yes |
-| `jieke.me` | Yes |
+| `jieke.me` | No |
 | `jifish.co.uk` | No |
 | `jigawatt.io` | No |
 | `jigensha.info` | Yes |
@@ -53198,8 +53199,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,203 |
-| Normal | 37,947 |
+| Cloudflare | 15,202 |
+| Normal | 37,949 |
 
 
 </details>
