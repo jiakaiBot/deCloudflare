@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,503 |
 | social | 4,798 |
-| net | 4,141 |
-| org | 2,777 |
+| net | 4,142 |
+| org | 2,778 |
 | de | 2,655 |
 
 
@@ -15395,6 +15395,7 @@ Here's a list of public Fediverse services.
 | `fluffcord.social` | Yes |
 | `fluffderg.me` | No |
 | `fluffel.io` | No |
+| `fluffplump.net` | No |
 | `fluffpri.de` | No |
 | `fluffs.au` | No |
 | `fluffy.family` | No |
@@ -17109,6 +17110,7 @@ Here's a list of public Fediverse services.
 | `geno.is` | No |
 | `geno.social` | No |
 | `genomic.social` | No |
+| `genoq.org` | No |
 | `genrefinity.com` | No |
 | `genserver.social` | Yes |
 | `genshin.social` | No |
@@ -53220,7 +53222,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,205 |
-| Normal | 37,966 |
+| Normal | 37,968 |
 
 
 </details>
