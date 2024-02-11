@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [error 1010 on cloudflare](https://github.com/qutebrowser/qutebrowser/issues/8100)
 - [Not working on serverless edge functions](https://github.com/nodemailer/nodemailer/issues/1623)
 - [APKMirror: Set up custom user agent to bypass Cloudflare protection](https://github.com/ImranR98/Obtainium/issues/1387)
 - [Cannot add as repository](https://github.com/ylabonte/proconip-hass/issues/54)
