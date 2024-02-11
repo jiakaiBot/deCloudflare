@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,503 |
-| social | 4,799 |
+| social | 4,800 |
 | net | 4,142 |
 | org | 2,778 |
 | de | 2,655 |
@@ -38372,6 +38372,7 @@ Here's a list of public Fediverse services.
 | `ragol.uk` | No |
 | `ragt.ag` | No |
 | `ragtag.moe` | Yes |
+| `raguenaud.social` | No |
 | `rah.social` | No |
 | `rahim.li` | Yes |
 | `rahlstedt.biz` | No |
@@ -53223,7 +53224,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,206 |
-| Normal | 37,968 |
+| Normal | 37,969 |
 
 
 </details>
