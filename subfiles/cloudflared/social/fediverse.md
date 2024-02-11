@@ -6636,7 +6636,7 @@ Here's a list of public Fediverse services.
 | `c4.social` | No |
 | `c4103.com` | No |
 | `c44.pl` | No |
-| `c4l.io` | Yes |
+| `c4l.io` | No |
 | `c63.dev` | Yes |
 | `c64.chat` | No |
 | `c64.social` | No |
@@ -25778,7 +25778,7 @@ Here's a list of public Fediverse services.
 | `libcyb.so` | No |
 | `libella.social` | No |
 | `liber.cx` | No |
-| `libera.blue` | Yes |
+| `libera.blue` | No |
 | `libera.site` | No |
 | `libera.tokyo` | No |
 | `liberafolio.org` | No |
@@ -43040,7 +43040,7 @@ Here's a list of public Fediverse services.
 | `socialite.cloud` | No |
 | `socialites.social` | Yes |
 | `socializa.es` | Yes |
-| `socialize.cyou` | Yes |
+| `socialize.cyou` | No |
 | `socialjungle.space` | No |
 | `socialjustice.engineering` | No |
 | `socialloods.nl` | No |
@@ -49763,6 +49763,7 @@ Here's a list of public Fediverse services.
 | `vignette.cloud` | No |
 | `viid.ga` | No |
 | `viidalepp.me` | No |
+| `viii.fi` | No |
 | `viisphere.me` | No |
 | `vijf.life` | Yes |
 | `vikavo.lt` | No |
@@ -53224,8 +53225,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,206 |
-| Normal | 37,970 |
+| Cloudflare | 15,203 |
+| Normal | 37,974 |
 
 
 </details>
