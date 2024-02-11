@@ -205,7 +205,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | novali.date | Yes |
 | o0o.re | No |
 | ofdoom.net | Yes |
-| oms-ctr.ru | No |
 | openbld.net | No |
 | opendns.com | Yes |
 | ours.luxe | No |
@@ -261,7 +260,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | spectrum.com | Yes |
 | sriedmueadguard.casa | No |
 | sscw.win | Yes |
-| sstomp.nl | No |
 | startupstack.tech | Yes |
 | sufly.top | Yes |
 | sundalandia.pp.ua | Yes |
@@ -314,7 +312,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 153 |
-| Normal | 141 |
+| Normal | 139 |
 
 
-### 52% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
