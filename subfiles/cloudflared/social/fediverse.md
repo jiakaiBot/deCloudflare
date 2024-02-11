@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,499 |
 | social | 4,796 |
-| net | 4,138 |
+| net | 4,139 |
 | org | 2,775 |
 | de | 2,655 |
 
@@ -27650,6 +27650,7 @@ Here's a list of public Fediverse services.
 | `mariotaku.me` | Yes |
 | `mariovavti.com` | No |
 | `marisabel.nl` | No |
+| `marisakirisame.net` | Yes |
 | `maritime.social` | Yes |
 | `mariu5.de` | Yes |
 | `mariusdavid.fr` | No |
@@ -53200,7 +53201,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,202 |
+| Cloudflare | 15,203 |
 | Normal | 37,950 |
 
 
