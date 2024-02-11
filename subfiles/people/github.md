@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to create new user using the Oauth module](https://github.com/freescout-helpdesk/freescout/issues/3782)
 - [ACME client failed to get certificate](https://github.com/apernet/hysteria/issues/942)
 - [error 1010 on cloudflare](https://github.com/qutebrowser/qutebrowser/issues/8100)
 - [Not working on serverless edge functions](https://github.com/nodemailer/nodemailer/issues/1623)
