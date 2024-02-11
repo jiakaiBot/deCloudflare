@@ -9120,6 +9120,7 @@ Do not create new issue or we will close it as duplicate.
 | [mlev@X](https://twitter.com/mlev/status/1519336801906966528) | advertise |
 | [Mlmartincore@X](https://twitter.com/Mlmartincore/status/1574161999461699585) | advertise |
 | [MlMitsuki@X](https://twitter.com/MlMitsuki/status/1636642627926851584) | advertise |
+| [mlodybogo@X](https://twitter.com/mlodybogo/status/1756474836849692903) | advertise |
 | [mlogan999984@X](https://twitter.com/mlogan999984/status/1711758216630063233) | advertise |
 | [MmadMmad1054554@X](https://twitter.com/MmadMmad1054554/status/1686392179277832193) | advertise |
 | [MMARMY98815463@X](https://twitter.com/MMARMY98815463/status/1383095144606441473) | advertise |
