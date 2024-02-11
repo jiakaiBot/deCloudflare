@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,497 |
+| com | 8,499 |
 | social | 4,796 |
 | net | 4,138 |
 | org | 2,775 |
@@ -13775,6 +13775,7 @@ Here's a list of public Fediverse services.
 | `everafter.digital` | No |
 | `evergood.me` | No |
 | `everlong.org` | No |
+| `evermorestud.io` | No |
 | `eversole.co` | No |
 | `eversole.dev` | Yes |
 | `everton.rocks` | Yes |
@@ -19393,6 +19394,7 @@ Here's a list of public Fediverse services.
 | `highlandarrow.com` | No |
 | `highlandschurch.net` | No |
 | `highlightmilk.net` | Yes |
+| `highperformancelaravel.com` | No |
 | `highplains.social` | No |
 | `highspirits.games` | No |
 | `highteq.net` | Yes |
@@ -37853,7 +37855,7 @@ Here's a list of public Fediverse services.
 | `qahel.io` | No |
 | `qamoe.cyou` | Yes |
 | `qapp.cloud` | No |
-| `qaq.gay` | Yes |
+| `qaq.gay` | No |
 | `qaq.jp` | Yes |
 | `qaq.rip` | No |
 | `qaq.social` | Yes |
@@ -39876,6 +39878,7 @@ Here's a list of public Fediverse services.
 | `roseraie.me` | No |
 | `rosettast0ned.com` | No |
 | `roshless.me` | No |
+| `rosiemma.online` | No |
 | `rosiesocosy.com` | No |
 | `rosnovsky.us` | Yes |
 | `rosqvist.net` | No |
@@ -41810,6 +41813,7 @@ Here's a list of public Fediverse services.
 | `shellbytes.me` | No |
 | `shelldog.de` | No |
 | `shellgei.org` | No |
+| `shellwaffle.com` | No |
 | `shelter.moe` | No |
 | `shelter.social` | Yes |
 | `shelton.chat` | No |
@@ -43516,7 +43520,7 @@ Here's a list of public Fediverse services.
 | `spejset.org` | No |
 | `spekadyon.org` | No |
 | `spelt.io` | No |
-| `sperg.city` | Yes |
+| `sperg.city` | No |
 | `sperg.world` | No |
 | `spergi.ng` | Yes |
 | `spesh.com` | No |
@@ -49669,6 +49673,7 @@ Here's a list of public Fediverse services.
 | `vickerson.me` | No |
 | `victimcache.com` | Yes |
 | `victor.earth` | Yes |
+| `victor.skin` | No |
 | `victorbezrukov.com` | No |
 | `victorhawleyjr.me` | Yes |
 | `victorhckinthefreeworld.com` | No |
@@ -53193,8 +53198,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,205 |
-| Normal | 37,940 |
+| Cloudflare | 15,203 |
+| Normal | 37,947 |
 
 
 </details>
