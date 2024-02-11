@@ -270,7 +270,7 @@ Here's a list of public Fediverse services.
 | `137i.de` | No |
 | `13ad.de` | No |
 | `13bells.com` | No |
-| `13mmy.io` | No |
+| `13mmy.io` | Yes |
 | `141.lv` | No |
 | `14141004.xyz` | Yes |
 | `143420.xyz` | Yes |
@@ -3536,6 +3536,7 @@ Here's a list of public Fediverse services.
 | `atyh.net` | No |
 | `atylerrobertson.com` | No |
 | `atypical.social` | No |
+| `atypikal.life` | No |
 | `atypique.net` | No |
 | `au2pb.net` | No |
 | `aubrielee.com` | No |
@@ -42849,6 +42850,7 @@ Here's a list of public Fediverse services.
 | `snel.host` | No |
 | `snel.im` | No |
 | `snel.social` | No |
+| `snep.place` | No |
 | `snepi.space` | Yes |
 | `snet.blog` | No |
 | `snfl.fun` | No |
@@ -53202,8 +53204,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,203 |
-| Normal | 37,951 |
+| Cloudflare | 15,204 |
+| Normal | 37,952 |
 
 
 </details>
