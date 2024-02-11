@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,503 |
 | social | 4,798 |
-| net | 4,140 |
+| net | 4,141 |
 | org | 2,777 |
 | de | 2,655 |
 
@@ -20491,6 +20491,7 @@ Here's a list of public Fediverse services.
 | `idw-online.social` | No |
 | `idw.zone` | No |
 | `idyllic.dev` | Yes |
+| `idyllisch.monster` | No |
 | `idylls.net` | No |
 | `idzerda.dev` | Yes |
 | `ie9.org` | Yes |
@@ -23256,6 +23257,7 @@ Here's a list of public Fediverse services.
 | `kassel.social` | No |
 | `kassepied.org` | No |
 | `kassius.org` | No |
+| `kastaspuods.lt` | No |
 | `kastelo.dev` | No |
 | `kastelo.social` | No |
 | `kastube.com` | No |
@@ -28796,6 +28798,7 @@ Here's a list of public Fediverse services.
 | `mdx.ac.uk` | Yes |
 | `me.dm` | Yes |
 | `meadandgreed.de` | No |
+| `meadmadeeasy.info` | No |
 | `meadow.social` | No |
 | `meadowlark.cc` | Yes |
 | `mean.engineer` | No |
@@ -47151,6 +47154,7 @@ Here's a list of public Fediverse services.
 | `today4u.xyz` | No |
 | `todayindigital.com` | No |
 | `todayiwilllaunchmyinfantsonintoorbit.com` | No |
+| `todaypic.net` | Yes |
 | `todays.run` | No |
 | `todayyoutomorrow.me` | No |
 | `toddcast.website` | Yes |
@@ -53215,8 +53219,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,204 |
-| Normal | 37,963 |
+| Cloudflare | 15,205 |
+| Normal | 37,966 |
 
 
 </details>
