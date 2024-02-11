@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ACME client failed to get certificate](https://github.com/apernet/hysteria/issues/942)
 - [error 1010 on cloudflare](https://github.com/qutebrowser/qutebrowser/issues/8100)
 - [Not working on serverless edge functions](https://github.com/nodemailer/nodemailer/issues/1623)
 - [APKMirror: Set up custom user agent to bypass Cloudflare protection](https://github.com/ImranR98/Obtainium/issues/1387)
