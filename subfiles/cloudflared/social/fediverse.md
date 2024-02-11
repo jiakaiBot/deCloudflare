@@ -25956,7 +25956,7 @@ Here's a list of public Fediverse services.
 | `lil-bird.xyz` | No |
 | `lil.mn` | Yes |
 | `lila.network` | Yes |
-| `lilac.place` | Yes |
+| `lilac.place` | No |
 | `lilahexe.top` | No |
 | `lilbyte.dev` | No |
 | `lile.cl` | Yes |
@@ -36205,7 +36205,7 @@ Here's a list of public Fediverse services.
 | `pieceoplastic.com` | No |
 | `piecewise.im` | No |
 | `piedmontnons.top` | No |
-| `piefed.social` | No |
+| `piefed.social` | Yes |
 | `pieho.me` | Yes |
 | `piejacker.net` | No |
 | `pien.dev` | No |
@@ -37296,6 +37296,7 @@ Here's a list of public Fediverse services.
 | `prettyboytellem.com` | No |
 | `prettygrouse.com` | No |
 | `prettyhefty.com` | Yes |
+| `prettypics.eu` | No |
 | `prettyqueer.online` | No |
 | `prettyrequiem.com` | Yes |
 | `prettyshiny.org` | No |
@@ -53224,7 +53225,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,206 |
-| Normal | 37,969 |
+| Normal | 37,970 |
 
 
 </details>
