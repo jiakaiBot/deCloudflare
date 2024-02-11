@@ -13621,6 +13621,7 @@ Do not create new issue or we will close it as duplicate.
 | [techtweetlive@X](https://twitter.com/techtweetlive/status/1447213119869050886) | advertise |
 | [TechWithWTD@X](https://twitter.com/TechWithWTD/status/1675182811043512320) | advertise |
 | [tech_dts@X](https://twitter.com/tech_dts/status/1620981471401099264) | advertise |
+| [tech_lily@X](https://twitter.com/tech_lily/status/1756758910000656873) | advertise |
 | [tech_midget@X](https://twitter.com/tech_midget/status/1706410287459361204) | advertise |
 | [Teddy2100@X](https://twitter.com/Teddy2100/status/1379049599210512384) | advertise |
 | [TedionBirhanu@X](https://twitter.com/TedionBirhanu/status/1558365661835010054) | advertise |
