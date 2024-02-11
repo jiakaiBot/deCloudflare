@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,796 |
 | net | 4,138 |
 | org | 2,775 |
-| de | 2,654 |
+| de | 2,655 |
 
 
 - Mastodon, Pleroma, etc
@@ -19260,6 +19260,7 @@ Here's a list of public Fediverse services.
 | `herr-jemineh.org` | No |
 | `herrbenedikt.de` | Yes |
 | `herrhaensel.de` | No |
+| `herrhannes.de` | No |
 | `herrherrmann.net` | No |
 | `herrkochhatrecht.de` | No |
 | `herrliberg.online` | No |
@@ -53200,7 +53201,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,202 |
-| Normal | 37,949 |
+| Normal | 37,950 |
 
 
 </details>
