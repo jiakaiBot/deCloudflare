@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,503 |
-| social | 4,798 |
+| social | 4,799 |
 | net | 4,142 |
 | org | 2,778 |
 | de | 2,655 |
@@ -17489,6 +17489,7 @@ Here's a list of public Fediverse services.
 | `glenparva.com` | No |
 | `glenplonk.fr` | No |
 | `glenux.net` | No |
+| `glib.social` | Yes |
 | `glibre.org` | No |
 | `glidden.life` | No |
 | `glie.town` | No |
@@ -53221,7 +53222,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,205 |
+| Cloudflare | 15,206 |
 | Normal | 37,968 |
 
 
