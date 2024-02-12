@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,503 |
+| com | 8,504 |
 | social | 4,800 |
 | net | 4,142 |
 | org | 2,778 |
@@ -20909,6 +20909,7 @@ Here's a list of public Fediverse services.
 | `infini.fr` | No |
 | `infinimatix.net` | Yes |
 | `infinit7even.it` | Yes |
+| `infinitas.me.uk` | No |
 | `infinite.jetzt` | No |
 | `infinite.pink` | No |
 | `infinitedisk.com` | No |
@@ -27211,7 +27212,7 @@ Here's a list of public Fediverse services.
 | `maff.scot` | No |
 | `mafis242.de` | No |
 | `mafoo.org.uk` | No |
-| `mafumafu.xyz` | Yes |
+| `mafumafu.xyz` | No |
 | `mafunke.de` | No |
 | `maga.host` | No |
 | `magamogreen.net` | Yes |
@@ -33056,6 +33057,7 @@ Here's a list of public Fediverse services.
 | `noelle.codes` | No |
 | `noelware.cloud` | Yes |
 | `noemis.me` | No |
+| `noeontheend.com` | No |
 | `noescapevg.com` | Yes |
 | `noexce.pt` | Yes |
 | `noexpectations.show` | No |
@@ -53225,8 +53227,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,203 |
-| Normal | 37,974 |
+| Cloudflare | 15,202 |
+| Normal | 37,977 |
 
 
 </details>
