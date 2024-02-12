@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,508 |
-| social | 4,801 |
+| social | 4,802 |
 | net | 4,143 |
 | org | 2,779 |
 | de | 2,656 |
@@ -11739,6 +11739,7 @@ Here's a list of public Fediverse services.
 | `dokodare.ovh` | Yes |
 | `dokushodon.life` | No |
 | `dokushonary.com` | No |
+| `dokyun.club` | No |
 | `dolciss.net` | Yes |
 | `dolec.fr` | No |
 | `dolezal.one` | No |
@@ -23626,6 +23627,7 @@ Here's a list of public Fediverse services.
 | `keyedlimepie.org` | No |
 | `keyhub.id` | No |
 | `keyoxide.org` | No |
+| `keysmash.social` | Yes |
 | `keysmash.xn--q9jyb4c` | Yes |
 | `keysmash.xyz` | No |
 | `keystroke.social` | No |
@@ -53240,8 +53242,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,214 |
-| Normal | 37,978 |
+| Cloudflare | 15,215 |
+| Normal | 37,979 |
 
 
 </details>
