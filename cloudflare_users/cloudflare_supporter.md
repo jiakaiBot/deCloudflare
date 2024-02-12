@@ -7987,6 +7987,7 @@ Do not create new issue or we will close it as duplicate.
 | [lknk_adorebot@X](https://twitter.com/lknk_adorebot/status/1390972492995432454) | advertise |
 | [lktechsky@X](https://twitter.com/lktechsky/status/1752473735918149781) | advertise |
 | [llama_cadu@X](https://twitter.com/llama_cadu/status/1480054499846856710) | advertise |
+| [llama_gen@X](https://twitter.com/llama_gen/status/1756931169642537010) | advertise |
 | [llAnh_Hungll@X](https://twitter.com/llAnh_Hungll/status/1563110667812425733) | advertise |
 | [LlcBillionaire@X](https://twitter.com/LlcBillionaire/status/1498441224264552455) | advertise |
 | [LloydGalic55293@X](https://twitter.com/LloydGalic55293/status/1639795719782506499) | advertise |
