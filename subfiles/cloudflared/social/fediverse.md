@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 8,508 |
 | social | 4,802 |
 | net | 4,143 |
-| org | 2,779 |
-| de | 2,656 |
+| org | 2,780 |
+| de | 2,657 |
 
 
 - Mastodon, Pleroma, etc
@@ -16043,6 +16043,7 @@ Here's a list of public Fediverse services.
 | `fridaysforfuturefvg.it` | No |
 | `friedbumblebees.com` | No |
 | `friede.cc` | No |
+| `friedenstreff.org` | No |
 | `friedhofstrasse.ch` | No |
 | `friediversum.de` | No |
 | `friedresistors.com` | No |
@@ -21677,6 +21678,7 @@ Here's a list of public Fediverse services.
 | `j4.lc` | No |
 | `j4c.me` | No |
 | `j4nk.dev` | No |
+| `j5155.page` | No |
 | `j51b5.me` | Yes |
 | `j62.de` | No |
 | `j621.net` | Yes |
@@ -21687,6 +21689,7 @@ Here's a list of public Fediverse services.
 | `ja1ykl.com` | Yes |
 | `ja91.uk` | Yes |
 | `jaajko.com` | Yes |
+| `jaandrle.cz` | No |
 | `jabb.in` | No |
 | `jabbadu.de` | No |
 | `jabberhead.tk` | No |
@@ -25182,6 +25185,7 @@ Here's a list of public Fediverse services.
 | `lawrenceks.social` | No |
 | `lawrenceli.me` | Yes |
 | `lawsocial.org` | Yes |
+| `lawson.productions` | No |
 | `lawtalk.app` | No |
 | `lawtalk.social` | No |
 | `layer0.dev` | No |
@@ -44104,6 +44108,7 @@ Here's a list of public Fediverse services.
 | `step.im` | No |
 | `stepaday.tech` | Yes |
 | `steph.tools` | No |
+| `stephan-unter.de` | No |
 | `stephanbeer.de` | No |
 | `stephanbradshaw.com` | No |
 | `stephane-klein.info` | Yes |
@@ -53243,7 +53248,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,215 |
-| Normal | 37,979 |
+| Normal | 37,984 |
 
 
 </details>
