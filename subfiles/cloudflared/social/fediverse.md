@@ -90,6 +90,7 @@ Here's a list of public Fediverse services.
 | `0ko.me` | Yes |
 | `0kqnet.work` | No |
 | `0lb.be` | No |
+| `0m.ax` | Yes |
 | `0mph.de` | No |
 | `0ms.me` | No |
 | `0n.ee` | Yes |
@@ -41379,7 +41380,7 @@ Here's a list of public Fediverse services.
 | `seediqbale.xyz` | No |
 | `seedoubleyou.me` | No |
 | `seeds.social` | No |
-| `seedy.cc` | No |
+| `seedy.cc` | Yes |
 | `seedy.gq` | Yes |
 | `seedy.xyz` | Yes |
 | `seeedstudio.social` | Yes |
@@ -53227,8 +53228,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,202 |
-| Normal | 37,977 |
+| Cloudflare | 15,204 |
+| Normal | 37,976 |
 
 
 </details>
