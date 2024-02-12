@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,504 |
-| social | 4,800 |
+| com | 8,508 |
+| social | 4,801 |
 | net | 4,143 |
-| org | 2,778 |
-| de | 2,655 |
+| org | 2,779 |
+| de | 2,656 |
 
 
 - Mastodon, Pleroma, etc
@@ -3740,6 +3740,7 @@ Here's a list of public Fediverse services.
 | `avtweeps.social` | No |
 | `awa.im` | Yes |
 | `awadwatt.com` | No |
+| `awakari.com` | No |
 | `awakeningproject.net` | No |
 | `awaodori.tokyo` | No |
 | `awau.social` | Yes |
@@ -4112,6 +4113,8 @@ Here's a list of public Fediverse services.
 | `baleafunk.eus` | No |
 | `balena-devices.com` | Yes |
 | `balerno.town` | No |
+| `balfolk.jetzt` | No |
+| `balfolk.social` | No |
 | `ballantine.family` | No |
 | `ballhaus.community` | No |
 | `ballhaus.dk` | No |
@@ -15643,6 +15646,7 @@ Here's a list of public Fediverse services.
 | `fossgalaxy.com` | No |
 | `fossgang.org` | No |
 | `fosshost.com` | Yes |
+| `fossibl.com` | No |
 | `fossil.wang` | No |
 | `fossilsfiction.co` | No |
 | `fossium.space` | Yes |
@@ -26483,6 +26487,7 @@ Here's a list of public Fediverse services.
 | `lonewolfcomic.com` | No |
 | `longcovid.social` | No |
 | `longden.me` | No |
+| `longhorns747.com` | No |
 | `longlandclan.id.au` | No |
 | `longley.ws` | No |
 | `longlines.org` | No |
@@ -26841,6 +26846,7 @@ Here's a list of public Fediverse services.
 | `lukepreston.xyz` | No |
 | `lukesmith.xyz` | No |
 | `lukyan.eu` | No |
+| `lul.im` | Yes |
 | `lullis.net` | Yes |
 | `lulurl.fr` | No |
 | `lulusworld.art` | No |
@@ -31195,6 +31201,7 @@ Here's a list of public Fediverse services.
 | `murphnet.uk` | No |
 | `murray.run` | Yes |
 | `murray.social` | No |
+| `murraydata.uk` | No |
 | `murraystreet.media` | Yes |
 | `murty.au` | No |
 | `murty.social` | No |
@@ -33219,6 +33226,7 @@ Here's a list of public Fediverse services.
 | `nope.social` | No |
 | `nopeeking.link` | Yes |
 | `nophase.net` | No |
+| `nopineapples.com` | Yes |
 | `noplasticshowers.com` | No |
 | `noppy.jp` | No |
 | `nopro.be` | Yes |
@@ -33953,6 +33961,7 @@ Here's a list of public Fediverse services.
 | `octodon.social` | No |
 | `octofloofy.ink` | Yes |
 | `octoling.ink` | Yes |
+| `octopuce.fr` | No |
 | `octopusx.de` | Yes |
 | `octosrv.me` | Yes |
 | `octoturt.net` | No |
@@ -48029,6 +48038,7 @@ Here's a list of public Fediverse services.
 | `truecolors.space` | Yes |
 | `truedat.social` | No |
 | `trueffzido.de` | No |
+| `truekillers.org` | No |
 | `truesciphi.org` | Yes |
 | `trueten.de` | No |
 | `truetube.media` | No |
@@ -48980,6 +48990,7 @@ Here's a list of public Fediverse services.
 | `unlucio.com` | No |
 | `unmadegaming.com` | No |
 | `unmappd.site` | No |
+| `unmedial.de` | No |
 | `unmensch.xyz` | No |
 | `unmondemeilleur.eu` | No |
 | `unmus.de` | No |
@@ -53229,8 +53240,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,205 |
-| Normal | 37,976 |
+| Cloudflare | 15,207 |
+| Normal | 37,985 |
 
 
 </details>
