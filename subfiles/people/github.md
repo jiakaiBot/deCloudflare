@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Connecting to database with SSL on Cloudflare 804](https://github.com/brianc/node-postgres/issues/3144)
+- [Connecting to database with SSL on Cloudflare](https://github.com/porsager/postgres/issues/804)
+- [Reference error process is not defined when using in coudflare pages](https://github.com/james-elicx/cf-bindings-proxy/issues/49)
 - [Unable to create new user using the Oauth module](https://github.com/freescout-helpdesk/freescout/issues/3782)
 - [ACME client failed to get certificate](https://github.com/apernet/hysteria/issues/942)
 - [error 1010 on cloudflare](https://github.com/qutebrowser/qutebrowser/issues/8100)
