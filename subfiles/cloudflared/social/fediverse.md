@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,508 |
 | social | 4,802 |
-| net | 4,143 |
+| net | 4,144 |
 | org | 2,780 |
 | de | 2,657 |
 
@@ -50060,6 +50060,7 @@ Here's a list of public Fediverse services.
 | `voltage.vn` | No |
 | `voltagecontrol.com` | Yes |
 | `voltaicforge.com` | Yes |
+| `voltrina.net` | No |
 | `volumetrics.social` | Yes |
 | `voluminum.net` | No |
 | `volun.tech` | No |
@@ -53248,7 +53249,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,215 |
-| Normal | 37,984 |
+| Normal | 37,985 |
 
 
 </details>
