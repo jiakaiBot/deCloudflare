@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [how to fix the error?](https://github.com/aashishsec/JS.Scanner/issues/2)
+- [Fix this source](https://github.com/dipu-bd/lightnovel-crawler/issues/2267)
+- [Gateway API - Connection reset by peer](https://github.com/cilium/cilium/issues/30720)
 - [Connecting to database with SSL on Cloudflare 804](https://github.com/brianc/node-postgres/issues/3144)
 - [Connecting to database with SSL on Cloudflare](https://github.com/porsager/postgres/issues/804)
 - [Reference error process is not defined when using in coudflare pages](https://github.com/james-elicx/cf-bindings-proxy/issues/49)
