@@ -3880,7 +3880,7 @@ Here's a list of public Fediverse services.
 | `azuki.cf` | Yes |
 | `azuki.co` | No |
 | `azumabashi.dev` | No |
-| `azumanga.gay` | No |
+| `azumanga.gay` | Yes |
 | `azumarill.net` | No |
 | `azumi.fr` | No |
 | `azunyan.info` | No |
@@ -18675,7 +18675,7 @@ Here's a list of public Fediverse services.
 | `halo.nu` | No |
 | `halodub.xyz` | No |
 | `halstead.email` | No |
-| `halt.cl` | Yes |
+| `halt.cl` | No |
 | `halu.ink` | No |
 | `halvbrax.se` | No |
 | `halzi.one` | No |
@@ -42554,7 +42554,7 @@ Here's a list of public Fediverse services.
 | `skyline.monster` | Yes |
 | `skylinehub.live` | No |
 | `skyliu.me` | Yes |
-| `skylord.io` | No |
+| `skylord.io` | Yes |
 | `skylord.org` | No |
 | `skymethod.com` | Yes |
 | `skymocha.net` | Yes |
@@ -53228,8 +53228,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,204 |
-| Normal | 37,976 |
+| Cloudflare | 15,205 |
+| Normal | 37,975 |
 
 
 </details>
