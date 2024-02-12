@@ -9818,6 +9818,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nath73616642@X](https://twitter.com/Nath73616642/status/1399415551819075584) | advertise |
 | [Nathan33310057@X](https://twitter.com/Nathan33310057/status/1389756877311942657) | advertise |
 | [NathanLands@X](https://twitter.com/NathanLands/status/1665888820586504193) | advertise |
+| [nathanluxford@X](https://twitter.com/nathanluxford/status/1757078895059214776) | advertise |
 | [nathhowso53@X](https://twitter.com/nathhowso53/status/1729063564898709535) | advertise |
 | [NathnPhoth64298@X](https://twitter.com/NathnPhoth64298/status/1754530128573743170) | advertise |
 | [NathVichea@X](https://twitter.com/NathVichea/status/1696637968214065347) | advertise |
