@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,509 |
+| com | 8,510 |
 | social | 4,802 |
 | net | 4,144 |
 | org | 2,780 |
@@ -51000,6 +51000,7 @@ Here's a list of public Fediverse services.
 | `wiggle.website` | No |
 | `wihel.de` | Yes |
 | `wiimote.party` | No |
+| `wijgaanervoor.com` | Yes |
 | `wiki-tube.de` | No |
 | `wiki.gd` | Yes |
 | `wiki.style` | No |
@@ -53249,7 +53250,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,215 |
+| Cloudflare | 15,216 |
 | Normal | 37,986 |
 
 
