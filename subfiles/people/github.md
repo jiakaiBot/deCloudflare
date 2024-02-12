@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Home Assistant WebSocket API Timeout](https://github.com/home-assistant/supervisor/issues/4889)
 - [Access blocked by cloudflare for exile-tools Gemplanner](https://github.com/Dav1dde/pasteofexile/issues/28)
 - [how to fix the error?](https://github.com/aashishsec/JS.Scanner/issues/2)
 - [Fix this source](https://github.com/dipu-bd/lightnovel-crawler/issues/2267)
