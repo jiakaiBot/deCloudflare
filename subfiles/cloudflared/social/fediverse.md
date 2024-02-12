@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,504 |
 | social | 4,800 |
-| net | 4,142 |
+| net | 4,143 |
 | org | 2,778 |
 | de | 2,655 |
 
@@ -13512,6 +13512,7 @@ Here's a list of public Fediverse services.
 | `erikkemp.eu` | No |
 | `erikxxon.se` | No |
 | `erin.lgbt` | No |
+| `erincandescent.net` | No |
 | `eriqcobra.com.br` | Yes |
 | `erirun.net` | No |
 | `eris.moe` | No |
@@ -53229,7 +53230,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,205 |
-| Normal | 37,975 |
+| Normal | 37,976 |
 
 
 </details>
