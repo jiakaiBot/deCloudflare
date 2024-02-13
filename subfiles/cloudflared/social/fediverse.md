@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,517 |
-| social | 4,802 |
+| social | 4,803 |
 | net | 4,145 |
-| org | 2,781 |
+| org | 2,782 |
 | de | 2,658 |
 
 
@@ -40340,6 +40340,7 @@ Here's a list of public Fediverse services.
 | `s-w2.de` | No |
 | `s-yurama.com` | No |
 | `s.ai` | No |
+| `s.cz` | No |
 | `s.place` | Yes |
 | `s0.is` | No |
 | `s0c.in` | Yes |
@@ -42480,6 +42481,7 @@ Here's a list of public Fediverse services.
 | `skewed.de` | No |
 | `skia.net` | Yes |
 | `skiant.net` | No |
+| `skibidi.social` | No |
 | `skid.do` | Yes |
 | `skiddle.id` | Yes |
 | `skiddle.network` | No |
@@ -42963,6 +42965,7 @@ Here's a list of public Fediverse services.
 | `snowracer.se` | No |
 | `snowshaven.space` | No |
 | `snowstorm.online` | Yes |
+| `snowyhills.xyz` | Yes |
 | `snptrs.com` | Yes |
 | `sns-sakura.jp` | No |
 | `sns.onl` | No |
@@ -44046,6 +44049,7 @@ Here's a list of public Fediverse services.
 | `steakandgravy.com` | No |
 | `steakatzee.it` | No |
 | `stealingyour.info` | No |
+| `stealthy.club` | No |
 | `steam-don.fun` | Yes |
 | `steamdb.info` | Yes |
 | `steamedbread.pro` | No |
@@ -49385,6 +49389,7 @@ Here's a list of public Fediverse services.
 | `vaguelydamp.com` | No |
 | `vah.sh` | Yes |
 | `vahera.social` | Yes |
+| `vajonet.org` | No |
 | `vakaruge.com` | No |
 | `vaku.org.ua` | No |
 | `val-sans-retour.fr` | Yes |
@@ -53269,8 +53274,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,222 |
-| Normal | 37,999 |
+| Cloudflare | 15,223 |
+| Normal | 38,003 |
 
 
 </details>
