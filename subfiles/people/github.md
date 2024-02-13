@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Test Server Reachability fails](https://github.com/hassio-addons/addon-nginx-proxy-manager/issues/540)
 - [Broken Pipe if RPI loses connection](https://github.com/RedMeKool/HA-Raspberry-pi-GPIO-PWM/issues/35)
 - [trojan ws does not work](https://github.com/SagerNet/sing-box/issues/1463)
 - [Error when running in Cloudflare Workers](https://github.com/auth70/argon2-wasi/issues/1)
