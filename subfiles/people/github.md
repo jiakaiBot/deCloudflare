@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Broken Pipe if RPI loses connection](https://github.com/RedMeKool/HA-Raspberry-pi-GPIO-PWM/issues/35)
 - [trojan ws does not work](https://github.com/SagerNet/sing-box/issues/1463)
 - [Error when running in Cloudflare Workers](https://github.com/auth70/argon2-wasi/issues/1)
 - [Issue on arm64 centos with latest docker Module ip6_tables not found in directory](https://github.com/Mon-ius/Docker-Warp-Socks/issues/23)
