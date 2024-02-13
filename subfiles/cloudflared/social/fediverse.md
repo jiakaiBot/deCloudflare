@@ -26347,6 +26347,7 @@ Here's a list of public Fediverse services.
 | `lnxt.cloud` | No |
 | `lnyan.com` | Yes |
 | `lo-li.art` | No |
+| `lo-tek.info` | No |
 | `lo.hn` | Yes |
 | `lo0.uk` | No |
 | `lo3.online` | Yes |
@@ -53268,7 +53269,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,222 |
-| Normal | 37,997 |
+| Normal | 37,998 |
 
 
 </details>
