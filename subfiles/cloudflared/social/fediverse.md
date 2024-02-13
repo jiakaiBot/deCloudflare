@@ -22698,6 +22698,7 @@ Here's a list of public Fediverse services.
 | `jre.villas` | Yes |
 | `jreinert.com` | No |
 | `jres.org` | No |
+| `jrg.systems` | No |
 | `jrgnsn.net` | No |
 | `jrgnsn.social` | No |
 | `jrgnsn.video` | No |
@@ -53269,7 +53270,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,222 |
-| Normal | 37,998 |
+| Normal | 37,999 |
 
 
 </details>
