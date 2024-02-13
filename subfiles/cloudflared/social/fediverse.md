@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,511 |
+| com | 8,512 |
 | social | 4,802 |
 | net | 4,144 |
 | org | 2,780 |
-| de | 2,657 |
+| de | 2,658 |
 
 
 - Mastodon, Pleroma, etc
@@ -5992,6 +5992,7 @@ Here's a list of public Fediverse services.
 | `brain404.com` | No |
 | `brainbaking.com` | Yes |
 | `brainjuice.ca` | No |
+| `brainofshawn.com` | Yes |
 | `brainport.social` | Yes |
 | `brainsoap.net` | No |
 | `brainsocks.xyz` | No |
@@ -20624,6 +20625,7 @@ Here's a list of public Fediverse services.
 | `ilbro.com` | Yes |
 | `ilchub.net` | Yes |
 | `ildiditansigt.nu` | No |
+| `ileif.de` | No |
 | `ilex.nagoya` | No |
 | `ilgstrasse.de` | No |
 | `ili.land` | No |
@@ -30801,6 +30803,7 @@ Here's a list of public Fediverse services.
 | `mrroman.pl` | Yes |
 | `mrrp.cat` | No |
 | `mrrps.net` | No |
+| `mrsimon.dev` | Yes |
 | `mrsmckhaos.me` | No |
 | `mrt.al` | No |
 | `mrtino.eu` | No |
@@ -53251,8 +53254,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,215 |
-| Normal | 37,988 |
+| Cloudflare | 15,217 |
+| Normal | 37,989 |
 
 
 </details>
