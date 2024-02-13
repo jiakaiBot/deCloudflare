@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,518 |
 | social | 4,803 |
-| net | 4,145 |
+| net | 4,146 |
 | org | 2,782 |
 | de | 2,658 |
 
@@ -39487,6 +39487,7 @@ Here's a list of public Fediverse services.
 | `rikadon.club` | No |
 | `rikapimatome.fun` | No |
 | `rikka-zine.jp` | No |
+| `rikkalab.net` | Yes |
 | `rikmeijer.nl` | No |
 | `rikozone.net` | No |
 | `riku1227.social` | No |
@@ -53276,7 +53277,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,223 |
+| Cloudflare | 15,224 |
 | Normal | 38,005 |
 
 
