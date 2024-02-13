@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when running in Cloudflare Workers](https://github.com/auth70/argon2-wasi/issues/1)
+- [Issue on arm64 centos with latest docker Module ip6_tables not found in directory](https://github.com/Mon-ius/Docker-Warp-Socks/issues/23)
 - [Home Assistant WebSocket API Timeout](https://github.com/home-assistant/supervisor/issues/4889)
 - [Access blocked by cloudflare for exile-tools Gemplanner](https://github.com/Dav1dde/pasteofexile/issues/28)
 - [how to fix the error?](https://github.com/aashishsec/JS.Scanner/issues/2)
