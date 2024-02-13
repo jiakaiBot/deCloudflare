@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,517 |
+| com | 8,518 |
 | social | 4,803 |
 | net | 4,145 |
 | org | 2,782 |
@@ -6169,6 +6169,7 @@ Here's a list of public Fediverse services.
 | `bristow.ch` | Yes |
 | `bristow.one` | Yes |
 | `britishbogroll.com` | No |
+| `brittanyerinlee.com` | No |
 | `brittg.com` | Yes |
 | `brittle.st` | No |
 | `britton.me` | No |
@@ -21393,6 +21394,7 @@ Here's a list of public Fediverse services.
 | `is-he.re` | Yes |
 | `is-heckin.gay` | No |
 | `is-here.com` | No |
+| `is-in.space` | No |
 | `is-pretty.gay` | No |
 | `is-super.moe` | No |
 | `is.horse` | Yes |
@@ -53275,7 +53277,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,223 |
-| Normal | 38,003 |
+| Normal | 38,005 |
 
 
 </details>
