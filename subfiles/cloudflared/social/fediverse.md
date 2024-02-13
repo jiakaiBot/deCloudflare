@@ -33042,6 +33042,7 @@ Here's a list of public Fediverse services.
 | `nocopyrightintended.tv` | Yes |
 | `nocorp.net` | No |
 | `nocserv.de` | No |
+| `noctalgia.space` | No |
 | `noctilucent.blue` | No |
 | `noctrl.tk` | No |
 | `noctua.social` | Yes |
@@ -53256,7 +53257,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,219 |
-| Normal | 37,988 |
+| Normal | 37,989 |
 
 
 </details>
