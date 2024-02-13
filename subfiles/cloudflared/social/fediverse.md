@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,510 |
+| com | 8,511 |
 | social | 4,802 |
 | net | 4,144 |
 | org | 2,780 |
@@ -5318,6 +5318,7 @@ Here's a list of public Fediverse services.
 | `blaho.info` | No |
 | `blahut.tech` | Yes |
 | `blairhq.com` | Yes |
+| `blairwadman.com` | No |
 | `blaise.ca` | No |
 | `blaisehartley.com` | No |
 | `blaisemcrowly.com` | No |
@@ -31436,7 +31437,7 @@ Here's a list of public Fediverse services.
 | `myit.cologne` | No |
 | `myjot.net` | No |
 | `myk3s.de` | No |
-| `mykal.social` | Yes |
+| `mykal.social` | No |
 | `mykdeen.com` | No |
 | `myke.social` | No |
 | `mykhoury.com` | Yes |
@@ -53250,8 +53251,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,216 |
-| Normal | 37,986 |
+| Cloudflare | 15,215 |
+| Normal | 37,988 |
 
 
 </details>
