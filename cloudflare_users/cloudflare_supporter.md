@@ -7895,6 +7895,7 @@ Do not create new issue or we will close it as duplicate.
 | [Limbo121@X](https://twitter.com/Limbo121/status/1603036932396589056) | advertise |
 | [LimHtar@X](https://twitter.com/LimHtar/status/1379706457453555712) | advertise |
 | [Lin123He@X](https://twitter.com/Lin123He/status/1394868986932654080) | advertise |
+| [lin869443@X](https://twitter.com/lin869443/status/1757249502757392851) | advertise |
 | [Lin12335892663@X](https://twitter.com/Lin12335892663/status/1392413770782183427) | advertise |
 | [linalintanajib@X](https://twitter.com/linalintanajib/status/1518761726728368128) | advertise |
 | [LinCBs2@X](https://twitter.com/LinCBs2/status/1408086534041964545) | advertise |
@@ -8571,6 +8572,7 @@ Do not create new issue or we will close it as duplicate.
 | [MaSubashlama@X](https://twitter.com/MaSubashlama/status/1549434266144354304) | advertise |
 | [Mat71017572@X](https://twitter.com/Mat71017572/status/1573066318437404674) | advertise |
 | [mata458912476@X](https://twitter.com/mata458912476/status/1679072124193984512) | advertise |
+| [MataFak37124160@X](https://twitter.com/MataFak37124160/status/1757242282980290694) | advertise |
 | [mATAsBokaklIPdM@X](https://twitter.com/mATAsBokaklIPdM/status/1394944549911359497) | advertise |
 | [MateusG40984986@X](https://twitter.com/MateusG40984986/status/1746596375473615161) | advertise |
 | [matfitt@X](https://twitter.com/matfitt/status/1386357122070310912) | advertise |
@@ -9253,6 +9255,7 @@ Do not create new issue or we will close it as duplicate.
 | [MOHDZAKIBINABU7@X](https://twitter.com/MOHDZAKIBINABU7/status/1549984504806195200) | advertise |
 | [mohhamedsanosey@X](https://twitter.com/mohhamedsanosey/status/1434116716469030921) | advertise |
 | [mohibbur95@X](https://twitter.com/mohibbur95/status/1444960885051572225) | advertise |
+| [mohitmpking006@X](https://twitter.com/mohitmpking006/status/1757420799081017567) | advertise |
 | [MohMoh08333940@X](https://twitter.com/MohMoh08333940/status/1391065381360574468) | advertise |
 | [mohsen19233957@X](https://twitter.com/mohsen19233957/status/1578302399399485442) | advertise |
 | [MohsenEslami18@X](https://twitter.com/MohsenEslami18/status/1501860809902800896) | advertise |
@@ -10048,6 +10051,7 @@ Do not create new issue or we will close it as duplicate.
 | [ngThng40292776@X](https://twitter.com/ngThng40292776/status/1403367249797292041) | advertise |
 | [ngtnt5@X](https://twitter.com/ngtnt5/status/1747245356872859741) | advertise |
 | [ngTriu03346680@X](https://twitter.com/ngTriu03346680/status/1648979643515678720) | advertise |
+| [ngtunlong495362@X](https://twitter.com/ngtunlong495362/status/1757372257914294661) | advertise |
 | [ngu08847288@X](https://twitter.com/ngu08847288/status/1491035728742318083) | advertise |
 | [ngu1hdu@X](https://twitter.com/ngu1hdu/status/1746575307694625048) | advertise |
 | [ngu60217140@X](https://twitter.com/ngu60217140/status/1548887446649466880) | advertise |
@@ -15652,6 +15656,7 @@ Do not create new issue or we will close it as duplicate.
 | [xWARBEARx@X](https://twitter.com/xWARBEARx/status/1563595325159268352) | advertise |
 | [xx1dd@X](https://twitter.com/xx1dd/status/1615040249268142083) | advertise |
 | [XxBestGanexX@X](https://twitter.com/XxBestGanexX/status/1400081132989734914) | advertise |
+| [XxllphillyllxX@X](https://twitter.com/XxllphillyllxX/status/1757217999248113848) | advertise |
 | [xxnv69_u@X](https://twitter.com/xxnv69_u/status/1714690829967581519) | advertise |
 | [xXPlexXx@X](https://twitter.com/xXPlexXx/status/1612825085630455809) | advertise |
 | [XxPoNaGeXx@X](https://twitter.com/XxPoNaGeXx/status/1383560559707049998) | advertise |
