@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,512 |
+| com | 8,513 |
 | social | 4,802 |
 | net | 4,144 |
 | org | 2,780 |
@@ -11733,6 +11733,7 @@ Here's a list of public Fediverse services.
 | `doingyourmom.club` | No |
 | `doisakura.moe` | No |
 | `doithere.live` | No |
+| `dojin.com` | No |
 | `dojos.social` | No |
 | `dojpride.org` | No |
 | `dokasen.com` | No |
@@ -39923,7 +39924,7 @@ Here's a list of public Fediverse services.
 | `roseraie.me` | No |
 | `rosettast0ned.com` | No |
 | `roshless.me` | No |
-| `rosiemma.online` | No |
+| `rosiemma.online` | Yes |
 | `rosiesocosy.com` | No |
 | `rosnovsky.us` | Yes |
 | `rosqvist.net` | No |
@@ -48660,7 +48661,7 @@ Here's a list of public Fediverse services.
 | `ufoi.info` | No |
 | `ufoo9k.space` | Yes |
 | `ufotofu.cc` | Yes |
-| `ug-mayen.de` | No |
+| `ug-mayen.de` | Yes |
 | `uggs.io` | No |
 | `uglymachine.social` | No |
 | `ugm.ac.id` | No |
@@ -53254,8 +53255,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,217 |
-| Normal | 37,989 |
+| Cloudflare | 15,219 |
+| Normal | 37,988 |
 
 
 </details>
