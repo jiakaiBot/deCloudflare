@@ -10522,6 +10522,7 @@ Here's a list of public Fediverse services.
 | `deadgnu.org` | No |
 | `deadinsi.de` | Yes |
 | `deadline.com` | Yes |
+| `deadlymilehigh.club` | No |
 | `deadman.ca` | No |
 | `deadname.gay` | No |
 | `deadnftsociety.com` | No |
@@ -53278,7 +53279,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,224 |
-| Normal | 38,005 |
+| Normal | 38,006 |
 
 
 </details>
