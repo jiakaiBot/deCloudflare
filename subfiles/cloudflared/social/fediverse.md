@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,513 |
+| com | 8,517 |
 | social | 4,802 |
-| net | 4,144 |
-| org | 2,780 |
+| net | 4,145 |
+| org | 2,781 |
 | de | 2,658 |
 
 
@@ -4078,6 +4078,7 @@ Here's a list of public Fediverse services.
 | `bahn.social` | No |
 | `bahnhof.cz` | No |
 | `bahuma.io` | No |
+| `baie.me` | No |
 | `bailtr.ee` | Yes |
 | `bainroom.info` | Yes |
 | `baiqinglyu.com` | No |
@@ -5729,6 +5730,7 @@ Here's a list of public Fediverse services.
 | `bongocats.town` | No |
 | `bongoit.co.uk` | Yes |
 | `bonifacelabs.ca` | No |
+| `bonito.cafe` | No |
 | `bonk.expert` | Yes |
 | `bonk.social` | No |
 | `bonn.jetzt` | No |
@@ -8101,6 +8103,7 @@ Here's a list of public Fediverse services.
 | `clemenshermanns.de` | Yes |
 | `clemio.de` | No |
 | `clerks.me` | No |
+| `clerval.com` | No |
 | `clesports.social` | No |
 | `cleverangel.org` | No |
 | `cleverdevil.club` | No |
@@ -10464,6 +10467,7 @@ Here's a list of public Fediverse services.
 | `dctr.uk` | No |
 | `dcu.ie` | Yes |
 | `dcvz.io` | No |
+| `dcxxiv.com` | No |
 | `dd-dns.de` | No |
 | `dd.works` | No |
 | `dd0s.lol` | No |
@@ -11297,6 +11301,7 @@ Here's a list of public Fediverse services.
 | `digitalispeople.org` | No |
 | `digitalkr.am` | No |
 | `digitally.cool` | No |
+| `digitalmalayali.in` | Yes |
 | `digitalmarketer.social` | No |
 | `digitalmethods.net` | No |
 | `digitalmoney.social` | No |
@@ -14166,7 +14171,7 @@ Here's a list of public Fediverse services.
 | `falsy.cat` | Yes |
 | `falto.net` | Yes |
 | `falx.tech` | No |
-| `falyxeon.com` | Yes |
+| `falyxeon.com` | No |
 | `fam-ribbers.com` | No |
 | `fam-stu.de` | No |
 | `fam.cx` | No |
@@ -18983,6 +18988,7 @@ Here's a list of public Fediverse services.
 | `hd-dn.com` | No |
 | `hd0.eu` | Yes |
 | `hda.zone` | No |
+| `hdansin.com` | No |
 | `hdcraft.xyz` | Yes |
 | `hdev.im` | No |
 | `hdez.nl` | No |
@@ -20088,6 +20094,7 @@ Here's a list of public Fediverse services.
 | `huggles.club` | No |
 | `hugh.buzz` | No |
 | `hugh.run` | No |
+| `hughhollowell.org` | No |
 | `hughlashbrooke.com` | Yes |
 | `hughsviewsandnews.com` | No |
 | `huginn.dev` | Yes |
@@ -20239,6 +20246,7 @@ Here's a list of public Fediverse services.
 | `hygge.ovh` | No |
 | `hyggeverset.dk` | No |
 | `hyl.uk` | No |
+| `hylas.au` | Yes |
 | `hylianux.com` | No |
 | `hylobatidae.org` | No |
 | `hyly.dev` | No |
@@ -37214,6 +37222,7 @@ Here's a list of public Fediverse services.
 | `powerg.love` | Yes |
 | `powerlineblog.com` | Yes |
 | `powerlot.net` | No |
+| `powernut.rocks` | Yes |
 | `powersrv.de` | No |
 | `poweruser.forum` | No |
 | `powerweb.io` | No |
@@ -40291,6 +40300,7 @@ Here's a list of public Fediverse services.
 | `rymnd.net` | Yes |
 | `ryne.moe` | No |
 | `rynftz.gr` | No |
+| `rynth.net` | Yes |
 | `ryo-saeba.xyz` | No |
 | `ryona.agency` | Yes |
 | `ryonatodon.com` | No |
@@ -48040,6 +48050,7 @@ Here's a list of public Fediverse services.
 | `trpg.cloud` | Yes |
 | `trpg.social` | No |
 | `trpger.us` | Yes |
+| `trplane.com` | No |
 | `trshnet.de` | No |
 | `trtl.in` | No |
 | `trtmn.io` | Yes |
@@ -53256,8 +53267,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,219 |
-| Normal | 37,989 |
+| Cloudflare | 15,222 |
+| Normal | 37,997 |
 
 
 </details>
