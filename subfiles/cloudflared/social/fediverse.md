@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,518 |
+| com | 8,519 |
 | social | 4,804 |
 | net | 4,146 |
 | org | 2,782 |
@@ -4319,7 +4319,7 @@ Here's a list of public Fediverse services.
 | `bastiat.social` | No |
 | `bastien.social` | No |
 | `bastique.com` | No |
-| `bastodon.org` | Yes |
+| `bastodon.org` | No |
 | `baswag.de` | No |
 | `bat.chat` | No |
 | `batato.be` | No |
@@ -7759,7 +7759,7 @@ Here's a list of public Fediverse services.
 | `chosonclip.net` | No |
 | `chosonsocial.net` | No |
 | `chosto.me` | No |
-| `chotchkies.club` | Yes |
+| `chotchkies.club` | No |
 | `chotto.moe` | No |
 | `choucho.jp` | No |
 | `chouech.org` | No |
@@ -42186,6 +42186,7 @@ Here's a list of public Fediverse services.
 | `sigint.sx` | No |
 | `sigma-project.jp` | Yes |
 | `sigma-star.io` | No |
+| `sigmaenterprisesltd.com` | No |
 | `sigmaris.info` | Yes |
 | `sigmoid.social` | No |
 | `sigmundvoid.net` | Yes |
@@ -53283,8 +53284,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,224 |
-| Normal | 38,011 |
+| Cloudflare | 15,222 |
+| Normal | 38,014 |
 
 
 </details>
