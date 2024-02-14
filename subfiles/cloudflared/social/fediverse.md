@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,521 |
-| social | 4,804 |
+| social | 4,806 |
 | net | 4,147 |
 | org | 2,783 |
 | de | 2,659 |
@@ -7134,6 +7134,7 @@ Here's a list of public Fediverse services.
 | `catodon.social` | No |
 | `catona.cloud` | No |
 | `catonmat.net` | No |
+| `catops.social` | No |
 | `catoptric.com` | No |
 | `catposter.club` | No |
 | `catposting.agency` | Yes |
@@ -9838,6 +9839,7 @@ Here's a list of public Fediverse services.
 | `cymaphore.net` | No |
 | `cynder.me` | Yes |
 | `cynigma.com` | No |
+| `cynikobecny.cz` | No |
 | `cynosura.one` | Yes |
 | `cyoum.xyz` | No |
 | `cyph.club` | No |
@@ -34766,6 +34768,7 @@ Here's a list of public Fediverse services.
 | `organizing.social` | No |
 | `orgdup.media` | No |
 | `orgless.org` | No |
+| `ori.social` | No |
 | `orientalnews.top` | Yes |
 | `orientando.org` | Yes |
 | `origami.community` | Yes |
@@ -50424,6 +50427,7 @@ Here's a list of public Fediverse services.
 | `walnuts.ml` | No |
 | `walrus.social` | Yes |
 | `walrusmafia.com` | No |
+| `walrusz.hu` | No |
 | `walsh.dog` | No |
 | `waltdn.com` | No |
 | `walterebert.com` | No |
@@ -53297,7 +53301,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,234 |
-| Normal | 38,014 |
+| Normal | 38,018 |
 
 
 </details>
