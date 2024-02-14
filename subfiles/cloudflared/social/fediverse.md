@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,520 |
+| com | 8,521 |
 | social | 4,804 |
-| net | 4,146 |
+| net | 4,147 |
 | org | 2,782 |
 | de | 2,659 |
 
@@ -21118,6 +21118,7 @@ Here's a list of public Fediverse services.
 | `insomniaonline.de` | No |
 | `insoumis-es.net` | No |
 | `insoumis.social` | No |
+| `inspired.consulting` | No |
 | `inspiredlife.fun` | Yes |
 | `instaart.org` | No |
 | `instadon.ru` | No |
@@ -38911,6 +38912,7 @@ Here's a list of public Fediverse services.
 | `red-panda.cz` | No |
 | `redacted.life` | No |
 | `redasadki.me` | No |
+| `redbarrel.net` | Yes |
 | `redbeard.social` | No |
 | `redbeardsec.com` | No |
 | `redbeardthe.ninja` | No |
@@ -46885,6 +46887,7 @@ Here's a list of public Fediverse services.
 | `thumpr.social` | No |
 | `thunderirc.net` | No |
 | `thunderkeys.net` | No |
+| `thunkdeep.com` | No |
 | `thurk.org` | No |
 | `thurman.org.uk` | No |
 | `thurse.de` | No |
@@ -53291,8 +53294,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,226 |
-| Normal | 38,017 |
+| Cloudflare | 15,227 |
+| Normal | 38,019 |
 
 
 </details>
