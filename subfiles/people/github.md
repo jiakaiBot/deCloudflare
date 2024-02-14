@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Errors in Cloudflare Workers environment with recent versions](https://github.com/muratgozel/MIMEText/issues/64)
 - [Agent panic allocating address](https://github.com/cilium/cilium/issues/30746)
 - [It Doesn't Give Me The Option To Mask - Facebook](https://github.com/princekrvert/Ravana/issues/11)
 - [Test Server Reachability fails](https://github.com/hassio-addons/addon-nginx-proxy-manager/issues/540)
