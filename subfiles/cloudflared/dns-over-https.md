@@ -93,7 +93,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dnsforge.de | No |
 | dnshome.de | No |
 | dnslow.me | No |
-| dnssilo.top | No |
 | doh.best | No |
 | doh.lv | No |
 | doh.sb | Yes |
@@ -139,7 +138,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | indybanipal.com | No |
 | inpssh.online | Yes |
 | inria.fr | No |
-| interhub.cc | Yes |
 | jackyes.ovh | No |
 | jfchenier.ca | Yes |
 | jnraptor.net | Yes |
@@ -266,7 +264,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | superstefan.win | Yes |
 | swin.pro | Yes |
 | switch.ch | No |
-| syaifullah.com | Yes |
 | syshero.org | No |
 | systemfall.ru | Yes |
 | sytes.net | Yes |
@@ -311,8 +308,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 153 |
-| Normal | 139 |
+| Cloudflare | 151 |
+| Normal | 138 |
 
 
-### 52.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
