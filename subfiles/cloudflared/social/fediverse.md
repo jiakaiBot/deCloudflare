@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,521 |
 | social | 4,804 |
 | net | 4,147 |
-| org | 2,782 |
+| org | 2,783 |
 | de | 2,659 |
 
 
@@ -240,6 +240,7 @@ Here's a list of public Fediverse services.
 | `117net.co.uk` | Yes |
 | `11defebrero.org` | No |
 | `11h22.be` | No |
+| `11n.org` | No |
 | `1204.org` | Yes |
 | `120v.ac` | Yes |
 | `1210.nl` | No |
@@ -5503,7 +5504,7 @@ Here's a list of public Fediverse services.
 | `blue-mastodon.club` | No |
 | `blue-sky.world` | No |
 | `blue-write.com` | No |
-| `blue0a6m5c.yokohama` | No |
+| `blue0a6m5c.yokohama` | Yes |
 | `blueadair.net` | Yes |
 | `blueand.red` | No |
 | `blueb.me` | Yes |
@@ -17673,7 +17674,7 @@ Here's a list of public Fediverse services.
 | `gnusocial.today` | No |
 | `gnusocial.xyz` | No |
 | `gnutan.club` | No |
-| `gnutan.xyz` | No |
+| `gnutan.xyz` | Yes |
 | `gnuu.org` | Yes |
 | `gnuweeb.org` | Yes |
 | `gnuwood.org` | No |
@@ -21400,7 +21401,7 @@ Here's a list of public Fediverse services.
 | `is-he.re` | Yes |
 | `is-heckin.gay` | No |
 | `is-here.com` | No |
-| `is-in.space` | No |
+| `is-in.space` | Yes |
 | `is-pretty.gay` | No |
 | `is-super.moe` | No |
 | `is.horse` | Yes |
@@ -33564,7 +33565,7 @@ Here's a list of public Fediverse services.
 | `nsg.cc` | No |
 | `nsgn.eu` | No |
 | `nsh.social` | Yes |
-| `nshl.xyz` | No |
+| `nshl.xyz` | Yes |
 | `nsinteger.com` | Yes |
 | `nsivertsen.com` | No |
 | `nsk.io` | Yes |
@@ -40265,6 +40266,7 @@ Here's a list of public Fediverse services.
 | `rwenot.men` | No |
 | `rwhb.me` | No |
 | `rwn.lol` | No |
+| `rwright.co` | No |
 | `rwsr-xr-x.de` | No |
 | `rwx.ch` | No |
 | `rwx.moe` | No |
@@ -42496,7 +42498,7 @@ Here's a list of public Fediverse services.
 | `skewed.de` | No |
 | `skia.net` | Yes |
 | `skiant.net` | No |
-| `skibidi.social` | No |
+| `skibidi.social` | Yes |
 | `skid.do` | Yes |
 | `skiddle.id` | Yes |
 | `skiddle.network` | No |
@@ -43306,7 +43308,7 @@ Here's a list of public Fediverse services.
 | `somtic.cat` | No |
 | `son3.de` | No |
 | `sona.live` | Yes |
-| `sonanoka.net` | No |
+| `sonanoka.net` | Yes |
 | `sonar.news` | Yes |
 | `sonatagreen.com` | No |
 | `sonck.nl` | Yes |
@@ -47835,7 +47837,7 @@ Here's a list of public Fediverse services.
 | `transrights.art` | Yes |
 | `transrights.ovh` | No |
 | `transsafety.network` | Yes |
-| `transwo.men` | No |
+| `transwo.men` | Yes |
 | `trantion.uk` | No |
 | `tranvender.site` | Yes |
 | `trap.lol` | Yes |
@@ -53294,8 +53296,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,227 |
-| Normal | 38,019 |
+| Cloudflare | 15,234 |
+| Normal | 38,014 |
 
 
 </details>
