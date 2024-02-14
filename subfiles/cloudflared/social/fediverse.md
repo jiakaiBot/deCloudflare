@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,518 |
-| social | 4,803 |
+| social | 4,804 |
 | net | 4,146 |
 | org | 2,782 |
 | de | 2,658 |
@@ -3035,6 +3035,7 @@ Here's a list of public Fediverse services.
 | `arky.gg` | Yes |
 | `arlecchino.org` | Yes |
 | `arles-linux.org` | No |
+| `arles.cloud` | Yes |
 | `arles.io` | No |
 | `arles.red` | No |
 | `arles.us` | No |
@@ -5854,7 +5855,7 @@ Here's a list of public Fediverse services.
 | `bornsleepy.com` | No |
 | `boromil.space` | No |
 | `borosa.social` | No |
-| `borromeo.social` | Yes |
+| `borromeo.social` | No |
 | `borsos.at` | No |
 | `borstis.cloud` | Yes |
 | `bortzmeyer.fr` | No |
@@ -16570,6 +16571,7 @@ Here's a list of public Fediverse services.
 | `fycth.com` | Yes |
 | `fyeshit.com` | No |
 | `fyfy.eu.org` | No |
+| `fygod.life` | Yes |
 | `fygod.xyz` | No |
 | `fyksen.me` | Yes |
 | `fyle.uk` | Yes |
@@ -25751,6 +25753,7 @@ Here's a list of public Fediverse services.
 | `leyton.social` | No |
 | `lf.je` | Yes |
 | `lfat.de` | No |
+| `lfnt.site` | No |
 | `lfsr.net` | No |
 | `lfx.dev` | No |
 | `lgbt.im` | No |
@@ -30926,7 +30929,7 @@ Here's a list of public Fediverse services.
 | `mstdn.agency` | No |
 | `mstdn.ai` | No |
 | `mstdn.ar` | Yes |
-| `mstdn.art` | Yes |
+| `mstdn.art` | No |
 | `mstdn.at` | No |
 | `mstdn.bar` | Yes |
 | `mstdn.beer` | No |
@@ -39121,6 +39124,7 @@ Here's a list of public Fediverse services.
 | `remotesec.io` | Yes |
 | `remouk.fr` | No |
 | `removelogic.org` | No |
+| `rempath.social` | No |
 | `remram.fr` | Yes |
 | `remujin.com` | No |
 | `remy.city` | No |
@@ -47823,6 +47827,7 @@ Here's a list of public Fediverse services.
 | `transrights.art` | Yes |
 | `transrights.ovh` | No |
 | `transsafety.network` | Yes |
+| `transwo.men` | No |
 | `trantion.uk` | No |
 | `tranvender.site` | Yes |
 | `trap.lol` | Yes |
@@ -53279,7 +53284,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,224 |
-| Normal | 38,006 |
+| Normal | 38,011 |
 
 
 </details>
