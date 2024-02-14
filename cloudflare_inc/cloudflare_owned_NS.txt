@@ -811,6 +811,7 @@ ns0249.secondary.cloudflare.com
 ns0250.secondary.cloudflare.com
 ns0251.secondary.cloudflare.com
 ns1.cloudflare.com
+ns1.desiree.ns.cloudflare.com
 ns1.harley.ns.cloudflare.com
 ns115.dns.cf-ns.net
 ns188.dns.cf-ns.net
