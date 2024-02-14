@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ["Unexpected end of JSON input" when streaming on edge environments (Vercel Edge, Cloudflare Workers)](https://github.com/anthropics/anthropic-sdk-typescript/issues/292)
+- [Cloudflare Deployment fails, huge worker.js file with large base64 WASM file](https://github.com/withastro/adapters/issues/167)
 - [CloudFlare Cloudflare Workers AI Issues](https://github.com/SecOpsNews/news/issues/24748)
 - [Derived feeds stopped updating a week ago](https://github.com/jcsalterego/Contrails/issues/26)
 - [خطاي Can not connect to Cloudflare. Authentication error](https://github.com/hiddify/Hiddify-Manager/issues/3624)
