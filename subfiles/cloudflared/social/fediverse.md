@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,519 |
+| com | 8,520 |
 | social | 4,804 |
 | net | 4,146 |
 | org | 2,782 |
@@ -49554,6 +49554,7 @@ Here's a list of public Fediverse services.
 | `vdoor.ch` | No |
 | `vdurdome.net` | Yes |
 | `veamstudios.social` | No |
+| `vebinet.com` | Yes |
 | `vecinos.fi` | No |
 | `vecna.xyz` | No |
 | `vectemis.co.uk` | Yes |
@@ -52529,6 +52530,7 @@ Here's a list of public Fediverse services.
 | `yourlife.social` | No |
 | `yournearestbar.com` | Yes |
 | `yournetwork.cloud` | No |
+| `youronly.one` | Yes |
 | `yourownnet.cloud` | No |
 | `yourrhythm.jp` | No |
 | `yourshit.rocks` | No |
@@ -53288,7 +53290,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,223 |
+| Cloudflare | 15,225 |
 | Normal | 38,017 |
 
 
