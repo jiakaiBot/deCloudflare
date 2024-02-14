@@ -33966,6 +33966,7 @@ Here's a list of public Fediverse services.
 | `oceanvibe.nz` | No |
 | `ocellaris.dev` | Yes |
 | `ocert.at` | No |
+| `ocfox.me` | Yes |
 | `ochagavia.nl` | No |
 | `ochakai.moe` | Yes |
 | `ochinchin.dev` | Yes |
@@ -53290,7 +53291,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,225 |
+| Cloudflare | 15,226 |
 | Normal | 38,017 |
 
 
