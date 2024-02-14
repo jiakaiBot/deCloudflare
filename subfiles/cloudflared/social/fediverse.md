@@ -25086,6 +25086,7 @@ Here's a list of public Fediverse services.
 | `lapuas.xyz` | No |
 | `lapuertaescrita.com` | No |
 | `lapunta.org` | No |
+| `lapy.kr` | No |
 | `lapy.link` | Yes |
 | `lapy.moe` | Yes |
 | `laramy.black` | No |
@@ -53301,7 +53302,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,234 |
-| Normal | 38,018 |
+| Normal | 38,019 |
 
 
 </details>
