@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,521 |
+| com | 8,522 |
 | social | 4,806 |
 | net | 4,147 |
 | org | 2,783 |
@@ -1579,6 +1579,7 @@ Here's a list of public Fediverse services.
 | `aitor-sama.es` | Yes |
 | `aitorpazos.es` | No |
 | `aiursoft.cn` | No |
+| `aiwanxiongxiong.com` | Yes |
 | `aix-en-provence.social` | No |
 | `aiyoku.xyz` | Yes |
 | `aj.immo` | Yes |
@@ -8738,6 +8739,7 @@ Here's a list of public Fediverse services.
 | `confluxhq.org` | No |
 | `confraria.dev` | Yes |
 | `confraria.me` | Yes |
+| `confraria.xyz` | Yes |
 | `confusedyeti.com` | No |
 | `confusi.one` | No |
 | `conglomer.net` | Yes |
@@ -53301,7 +53303,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,234 |
+| Cloudflare | 15,236 |
 | Normal | 38,019 |
 
 
