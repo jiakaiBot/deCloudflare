@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Workers AI Issues](https://github.com/SecOpsNews/news/issues/24748)
 - [Derived feeds stopped updating a week ago](https://github.com/jcsalterego/Contrails/issues/26)
 - [خطاي Can not connect to Cloudflare. Authentication error](https://github.com/hiddify/Hiddify-Manager/issues/3624)
 - [Help 🤔 codesandbox doesn't work](https://github.com/Harry-zklcdc/go-proxy-bingai/issues/348)
