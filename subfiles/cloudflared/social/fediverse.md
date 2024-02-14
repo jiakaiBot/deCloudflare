@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,804 |
 | net | 4,146 |
 | org | 2,782 |
-| de | 2,658 |
+| de | 2,659 |
 
 
 - Mastodon, Pleroma, etc
@@ -5403,6 +5403,7 @@ Here's a list of public Fediverse services.
 | `bliry.fr` | No |
 | `blisscampus.com` | No |
 | `blisses.org` | No |
+| `blitz-netzwerk.de` | No |
 | `blizzard.systems` | No |
 | `blkspace.net` | Yes |
 | `bln41.de` | No |
@@ -6084,6 +6085,7 @@ Here's a list of public Fediverse services.
 | `breizh.me` | Yes |
 | `breizh.pm` | No |
 | `breizh.social` | No |
+| `brekke.it` | No |
 | `brembs.net` | No |
 | `bremen-social-sciences.de` | No |
 | `bremen.digital` | No |
@@ -53081,6 +53083,7 @@ Here's a list of public Fediverse services.
 | `zn80.net` | No |
 | `znark.us` | No |
 | `znet.li` | No |
+| `znsk.ca` | Yes |
 | `znw.social` | No |
 | `zoc.me` | Yes |
 | `zocial.cc` | Yes |
@@ -53284,8 +53287,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,222 |
-| Normal | 38,014 |
+| Cloudflare | 15,223 |
+| Normal | 38,016 |
 
 
 </details>
