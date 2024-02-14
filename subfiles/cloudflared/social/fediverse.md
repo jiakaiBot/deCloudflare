@@ -23088,6 +23088,7 @@ Here's a list of public Fediverse services.
 | `kakurady.ca` | No |
 | `kalabradas.club` | No |
 | `kalaclista.com` | Yes |
+| `kalafiorek.eu` | No |
 | `kalakukko.social` | Yes |
 | `kalam.digital` | No |
 | `kalamazoo.social` | No |
@@ -53288,7 +53289,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,223 |
-| Normal | 38,016 |
+| Normal | 38,017 |
 
 
 </details>
