@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,274 |
 | social | 4,798 |
-| net | 4,091 |
+| net | 4,092 |
 | org | 2,723 |
 | de | 2,640 |
 
@@ -10991,6 +10991,7 @@ Here's a list of public Fediverse services.
 | `dgrammatiko.dev` | Yes |
 | `dgs.town` | No |
 | `dgsy-official.com` | Yes |
+| `dgtale.net` | No |
 | `dgtl-service.com` | No |
 | `dgtz.info` | Yes |
 | `dgunn.uk` | Yes |
@@ -52696,7 +52697,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,040 |
-| Normal | 37,607 |
+| Normal | 37,608 |
 
 
 </details>
