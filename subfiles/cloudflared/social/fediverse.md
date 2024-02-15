@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,274 |
-| social | 4,798 |
+| social | 4,799 |
 | net | 4,092 |
 | org | 2,723 |
 | de | 2,640 |
@@ -8950,6 +8950,7 @@ Here's a list of public Fediverse services.
 | `coyp.us` | No |
 | `coywolf.photos` | Yes |
 | `coywolf.social` | Yes |
+| `coywolf.today` | Yes |
 | `coza.cloud` | No |
 | `coziness.xyz` | Yes |
 | `cozy-space.blue` | No |
@@ -9416,6 +9417,7 @@ Here's a list of public Fediverse services.
 | `culturacanibal.com` | No |
 | `culturaeinnovacion.social` | No |
 | `culture0.cc` | Yes |
+| `cultureelpersbureau.nl` | No |
 | `culturewar.radio` | No |
 | `culturewar.site` | No |
 | `culturewar.us` | No |
@@ -40296,6 +40298,7 @@ Here's a list of public Fediverse services.
 | `sarasoueidan.dev` | No |
 | `saratov.ch` | No |
 | `sarber.plus` | Yes |
+| `sarber.social` | No |
 | `sarcasm.stream` | No |
 | `sarcasmstardust.com` | No |
 | `sardegna.social` | No |
@@ -52696,8 +52699,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,040 |
-| Normal | 37,608 |
+| Cloudflare | 15,041 |
+| Normal | 37,610 |
 
 
 </details>
