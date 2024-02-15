@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,273 |
+| com | 8,274 |
 | social | 4,798 |
-| net | 4,090 |
+| net | 4,091 |
 | org | 2,723 |
 | de | 2,640 |
 
@@ -22030,7 +22030,6 @@ Here's a list of public Fediverse services.
 | `jimkapsalis.com` | No |
 | `jimkubicek.com` | No |
 | `jimlunsford.com` | No |
-| `jimmitchell.dev` | No |
 | `jimmitchell.org` | Yes |
 | `jimmitchell.xyz` | No |
 | `jimmitchellmedia.net` | Yes |
@@ -29858,6 +29857,7 @@ Here's a list of public Fediverse services.
 | `mobile-bot.de` | No |
 | `mobile.co` | Yes |
 | `mobile.st` | No |
+| `mobileatom.net` | Yes |
 | `mobiledads.live` | No |
 | `mobiledevs.social` | No |
 | `mobilehackerz.jp` | No |
@@ -44763,6 +44763,7 @@ Here's a list of public Fediverse services.
 | `takios.de` | No |
 | `takiverse.tk` | No |
 | `tako774.net` | Yes |
+| `takosaba.com` | No |
 | `takoyaki.xyz` | No |
 | `takpika.jp` | Yes |
 | `taks.garden` | No |
@@ -49927,6 +49928,7 @@ Here's a list of public Fediverse services.
 | `waseda.ac.jp` | Yes |
 | `waseigo.com` | No |
 | `waserryt.me` | No |
+| `washburn.at` | No |
 | `washcan.social` | No |
 | `washcaps.fans` | No |
 | `washdcmail.com` | No |
@@ -52692,8 +52694,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,039 |
-| Normal | 37,605 |
+| Cloudflare | 15,040 |
+| Normal | 37,606 |
 
 
 </details>
