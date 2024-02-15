@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [API fora do ar](https://github.com/cuducos/minha-receita/issues/204)
 - [Firebase Emulator doesn't sign idToken, trips web-auth-library up](https://github.com/kriasoft/web-auth-library/issues/27)
 - ["Unexpected end of JSON input" when streaming on edge environments (Vercel Edge, Cloudflare Workers)](https://github.com/anthropics/anthropic-sdk-typescript/issues/292)
 - [Cloudflare Deployment fails, huge worker.js file with large base64 WASM file](https://github.com/withastro/adapters/issues/167)
