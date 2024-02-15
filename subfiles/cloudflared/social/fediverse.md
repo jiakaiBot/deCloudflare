@@ -18460,7 +18460,7 @@ Here's a list of public Fediverse services.
 | `h3z.jp` | Yes |
 | `h4.io` | Yes |
 | `h4x.group` | No |
-| `h4x0r.army` | Yes |
+| `h4x0r.army` | No |
 | `h4x0r.host` | Yes |
 | `h55.social` | No |
 | `h5q.net` | Yes |
@@ -36737,6 +36737,7 @@ Here's a list of public Fediverse services.
 | `plnetwork.xyz` | No |
 | `plock.social` | No |
 | `ploen.social` | Yes |
+| `ploetzli.ch` | No |
 | `ploink.land` | No |
 | `plom.net` | Yes |
 | `plomlompom.com` | No |
@@ -50568,6 +50569,7 @@ Here's a list of public Fediverse services.
 | `wattsupwiththat.com` | No |
 | `watzonmanor.com` | Yes |
 | `wauland.de` | No |
+| `wavebird.party` | No |
 | `waveform.social` | Yes |
 | `wavers.us` | No |
 | `wawa-huayuan.blue` | Yes |
@@ -50677,7 +50679,7 @@ Here's a list of public Fediverse services.
 | `webm.ink` | No |
 | `webmages.com` | No |
 | `webmapping.social` | No |
-| `webmdma.live` | Yes |
+| `webmdma.live` | No |
 | `webmink.com` | No |
 | `webmontag-kiel.de` | No |
 | `webopt.eu` | Yes |
@@ -53308,8 +53310,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,237 |
-| Normal | 38,023 |
+| Cloudflare | 15,235 |
+| Normal | 38,027 |
 
 
 </details>
