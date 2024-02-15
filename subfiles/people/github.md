@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Wordpress: Switching homepage to static page breaks the probes](https://github.com/truecharts/charts/issues/18255)
 - [Improve test execution speed on WSL](https://github.com/honojs/hono/issues/2221)
 - [API fora do ar](https://github.com/cuducos/minha-receita/issues/204)
 - [Firebase Emulator doesn't sign idToken, trips web-auth-library up](https://github.com/kriasoft/web-auth-library/issues/27)
