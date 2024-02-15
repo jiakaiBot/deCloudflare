@@ -8711,6 +8711,7 @@ Do not create new issue or we will close it as duplicate.
 | [MdSAmi06045379@X](https://twitter.com/MdSAmi06045379/status/1382387062549086211) | advertise |
 | [Mdsamiu21620514@X](https://twitter.com/Mdsamiu21620514/status/1547009359624151040) | advertise |
 | [MDShahed1115405@X](https://twitter.com/MDShahed1115405/status/1702161163184922711) | advertise |
+| [MdShahi34972556@X](https://twitter.com/MdShahi34972556/status/1758153816896422017) | advertise |
 | [MdShaki27581136@X](https://twitter.com/MdShaki27581136/status/1509762315385643011) | advertise |
 | [MDSHAKIBMDSHA13@X](https://twitter.com/MDSHAKIBMDSHA13/status/1603819098093236224) | advertise |
 | [MdShauk19707675@X](https://twitter.com/MdShauk19707675/status/1383835265383370760) | advertise |
