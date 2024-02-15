@@ -9128,6 +9128,7 @@ Here's a list of public Fediverse services.
 | `cringe.zip` | Yes |
 | `crinklefur.club` | No |
 | `crinstamcamp.com` | No |
+| `criomagan.scot` | No |
 | `cripplepunk.club` | No |
 | `criptica.org` | No |
 | `crisis.city` | No |
@@ -52695,7 +52696,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,040 |
-| Normal | 37,606 |
+| Normal | 37,607 |
 
 
 </details>
