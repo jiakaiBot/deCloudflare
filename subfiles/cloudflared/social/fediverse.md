@@ -21580,6 +21580,7 @@ Here's a list of public Fediverse services.
 | `itschristophers.life` | No |
 | `itsdaves.site` | No |
 | `itseris.dev` | Yes |
+| `itservice.guru` | Yes |
 | `itsfoss.com` | Yes |
 | `itsfree.realestate.pl` | No |
 | `itsg.host` | Yes |
@@ -53310,7 +53311,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,235 |
+| Cloudflare | 15,236 |
 | Normal | 38,027 |
 
 
