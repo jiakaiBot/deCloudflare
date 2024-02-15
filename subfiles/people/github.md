@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [fds block Asia crashes](https://github.com/dvershinin/fds/issues/36)
 - [Wordpress: Switching homepage to static page breaks the probes](https://github.com/truecharts/charts/issues/18255)
 - [Improve test execution speed on WSL](https://github.com/honojs/hono/issues/2221)
 - [API fora do ar](https://github.com/cuducos/minha-receita/issues/204)
