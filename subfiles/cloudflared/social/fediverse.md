@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,522 |
-| social | 4,806 |
+| social | 4,808 |
 | net | 4,148 |
-| org | 2,783 |
+| org | 2,785 |
 | de | 2,659 |
 
 
@@ -1989,7 +1989,7 @@ Here's a list of public Fediverse services.
 | `aloneroid.one` | No |
 | `alongtheray.social` | Yes |
 | `aloysius.best` | No |
-| `alpa.social` | Yes |
+| `alpa.social` | No |
 | `alpaca.dad` | No |
 | `alpaca.gold` | Yes |
 | `alpacaverse.games` | No |
@@ -7936,6 +7936,7 @@ Here's a list of public Fediverse services.
 | `ciccarello.me` | Yes |
 | `cidemi.lol` | No |
 | `cidiso.com` | No |
+| `cidney.org` | No |
 | `ciechom.eu` | Yes |
 | `ciecuo.club` | No |
 | `cienciadoamanha.com` | Yes |
@@ -15020,6 +15021,7 @@ Here's a list of public Fediverse services.
 | `fieldfamilytree.ca` | No |
 | `fieldnotes.social` | No |
 | `fiely.net` | Yes |
+| `fiera.social` | No |
 | `fietkau.social` | No |
 | `fietkau.software` | No |
 | `fiets.uk` | No |
@@ -38100,6 +38102,7 @@ Here's a list of public Fediverse services.
 | `quent1.fr` | No |
 | `quentel.social` | No |
 | `quentin.paris` | No |
+| `queralt.social` | No |
 | `querbeetblog.ch` | No |
 | `querdenken-711.de` | No |
 | `querie.net` | No |
@@ -52157,6 +52160,7 @@ Here's a list of public Fediverse services.
 | `xwiki.com` | Yes |
 | `xwolf.de` | No |
 | `xwx.moe` | No |
+| `xwyqi.org` | Yes |
 | `xwyqi.top` | No |
 | `xx0r.eu` | No |
 | `xxhe.de` | No |
@@ -53305,7 +53309,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,237 |
-| Normal | 38,019 |
+| Normal | 38,023 |
 
 
 </details>
