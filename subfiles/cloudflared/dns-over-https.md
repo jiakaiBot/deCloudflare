@@ -130,7 +130,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | huque.com | No |
 | huseynov.work | Yes |
 | huyhoangit.net | Yes |
-| i81.ru | No |
 | iij.jp | Yes |
 | ikarosalpha.xyz | Yes |
 | imkvq.com | No |
@@ -295,7 +294,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wang.art | Yes |
 | wargan.io | No |
 | waringer-atg.de | No |
-| wellstsai.com | No |
 | wikimedia-dns.org | No |
 | woodbridge.club | No |
 | wriedts.de | No |
@@ -309,7 +307,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 151 |
-| Normal | 138 |
+| Normal | 136 |
 
 
-### 52.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
