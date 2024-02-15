@@ -9504,6 +9504,7 @@ Here's a list of public Fediverse services.
 | `cuche.cc` | No |
 | `cucinato.com` | No |
 | `cucked.me` | Yes |
+| `cuculus.jp` | No |
 | `cuddle.network` | No |
 | `cuddle.science` | Yes |
 | `cuddlegirls.cafe` | No |
@@ -53317,7 +53318,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,239 |
-| Normal | 38,029 |
+| Normal | 38,030 |
 
 
 </details>
