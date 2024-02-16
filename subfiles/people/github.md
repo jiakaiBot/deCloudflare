@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error solving the challenge when using cookies.Cloudflare 'Verify you are human' button not found.](https://github.com/FlareSolverr/FlareSolverr/issues/1068)
+- [Problem with the latest puppater](https://github.com/gologinapp/gologin/issues/127)
 - [TempleScan is Broken](https://github.com/keiyoushi/extensions-source/issues/1285)
 - [502 error when looking up room alias from dead homeserver](https://github.com/element-hq/synapse/issues/16926)
 - [fds block Asia crashes](https://github.com/dvershinin/fds/issues/36)
