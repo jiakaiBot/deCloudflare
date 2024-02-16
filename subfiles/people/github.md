@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fix Market 502 error](https://github.com/Fl4m3Ph03n1x/market_manager/issues/109)
+- [HELP: Cannot access any assigned domain after power outage](https://github.com/azukaar/Cosmos-Server/issues/198)
 - [Need a failover proxy to localhost/remote server](https://github.com/McPizza0/random/issues/1)
 - [Blocked autofocusing on a form control in a cross-origin subframe on Contact-Widget](https://github.com/freescout-helpdesk/freescout/issues/3794)
 - [Error solving the challenge when using cookies.Cloudflare 'Verify you are human' button not found.](https://github.com/FlareSolverr/FlareSolverr/issues/1068)
