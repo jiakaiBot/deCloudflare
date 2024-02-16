@@ -10096,7 +10096,7 @@ Here's a list of public Fediverse services.
 | `darksocial.party` | No |
 | `darkstar.social` | No |
 | `darktable.org.es` | No |
-| `darktech.org` | No |
+| `darktech.org` | Yes |
 | `darktundra.xyz` | Yes |
 | `darkwitch.net` | Yes |
 | `darkyonmasto.ch` | No |
@@ -20285,6 +20285,7 @@ Here's a list of public Fediverse services.
 | `idw.zone` | No |
 | `idyllic.dev` | Yes |
 | `idyllisch.monster` | Yes |
+| `idyllische.monster` | No |
 | `idylls.net` | No |
 | `idzerda.dev` | Yes |
 | `ie9.org` | Yes |
@@ -52706,7 +52707,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,041 |
+| Cloudflare | 15,042 |
 | Normal | 37,617 |
 
 
