@@ -9330,7 +9330,6 @@ Here's a list of public Fediverse services.
 | `csomar.com` | Yes |
 | `csos95.com` | No |
 | `csoundc.info` | No |
-| `csparker.co.uk` | No |
 | `csparker.uk` | No |
 | `csphy.pw` | No |
 | `cspray.io` | Yes |
@@ -15012,7 +15011,7 @@ Here's a list of public Fediverse services.
 | `fish-404.club` | No |
 | `fish.pm` | Yes |
 | `fishandbits.es` | No |
-| `fishbowl.ink` | No |
+| `fishbowl.ink` | Yes |
 | `fishingblog.org` | No |
 | `fishking.studio` | No |
 | `fishnchips.buzz` | No |
@@ -24229,7 +24228,7 @@ Here's a list of public Fediverse services.
 | `krbonne.net` | No |
 | `krc.lol` | No |
 | `krdtube.org` | No |
-| `kreato.dev` | No |
+| `kreato.dev` | Yes |
 | `kreatv.org` | No |
 | `krebsco.de` | No |
 | `krefeld.club` | Yes |
@@ -34194,7 +34193,7 @@ Here's a list of public Fediverse services.
 | `openchessbooks.org` | No |
 | `opencloud.io` | Yes |
 | `opencloud.lu` | No |
-| `opencoaster.net` | No |
+| `opencoaster.net` | Yes |
 | `opencocon.org` | No |
 | `opencollective.com` | Yes |
 | `opencourse.kr` | Yes |
@@ -46538,7 +46537,7 @@ Here's a list of public Fediverse services.
 | `tinnies.club` | Yes |
 | `tinokaltsas.com` | No |
 | `tinou.eu` | Yes |
-| `tinsley.video` | No |
+| `tinsley.video` | Yes |
 | `tiny-host.nl` | No |
 | `tiny.gripe` | No |
 | `tinyblip.com` | No |
@@ -52726,8 +52725,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,051 |
-| Normal | 37,627 |
+| Cloudflare | 15,055 |
+| Normal | 37,622 |
 
 
 </details>
