@@ -3741,6 +3741,7 @@ Here's a list of public Fediverse services.
 | `awoo.ing` | No |
 | `awoo.pub` | Yes |
 | `awoo.space` | No |
+| `awoo.st` | No |
 | `awoo.studio` | Yes |
 | `awoo.su` | Yes |
 | `awoo.today` | No |
@@ -52700,7 +52701,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,041 |
-| Normal | 37,610 |
+| Normal | 37,611 |
 
 
 </details>
