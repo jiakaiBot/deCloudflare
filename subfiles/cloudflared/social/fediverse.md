@@ -3532,6 +3532,7 @@ Here's a list of public Fediverse services.
 | `auka.me` | No |
 | `aukfood.net` | No |
 | `aukondk.com` | No |
+| `aulia.me` | No |
 | `auliviet.com` | No |
 | `aumetra.xyz` | No |
 | `aunaturel.club` | No |
@@ -52704,7 +52705,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,041 |
-| Normal | 37,614 |
+| Normal | 37,615 |
 
 
 </details>
