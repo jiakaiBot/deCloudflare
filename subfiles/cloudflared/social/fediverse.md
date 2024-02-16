@@ -9330,7 +9330,6 @@ Here's a list of public Fediverse services.
 | `csomar.com` | Yes |
 | `csos95.com` | No |
 | `csoundc.info` | No |
-| `csparker.co.uk` | No |
 | `csparker.uk` | No |
 | `csphy.pw` | No |
 | `cspray.io` | Yes |
@@ -52731,7 +52730,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,057 |
-| Normal | 37,625 |
+| Normal | 37,624 |
 
 
 </details>
