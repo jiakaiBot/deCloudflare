@@ -32900,6 +32900,7 @@ Here's a list of public Fediverse services.
 | `noodle.social` | No |
 | `noods.fun` | Yes |
 | `noogs.me` | Yes |
+| `nook.moe` | Yes |
 | `noon.social` | No |
 | `noordstar.me` | No |
 | `noorul.xyz` | No |
@@ -52731,7 +52732,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,057 |
+| Cloudflare | 15,058 |
 | Normal | 37,626 |
 
 
