@@ -4705,6 +4705,7 @@ Here's a list of public Fediverse services.
 | `best-friends.tk` | No |
 | `bestcodes.de` | No |
 | `bestdet.com` | No |
+| `besteam.top` | Yes |
 | `bestgore.fun` | Yes |
 | `besthairypussy.com` | No |
 | `bestiaexmachina.com` | No |
@@ -5867,7 +5868,7 @@ Here's a list of public Fediverse services.
 | `bowlofpetunias.net` | No |
 | `box.sh` | Yes |
 | `box464.com` | Yes |
-| `box464.social` | No |
+| `box464.social` | Yes |
 | `box94.com` | No |
 | `boxbox.site` | No |
 | `boxertwin.info` | No |
@@ -9329,6 +9330,7 @@ Here's a list of public Fediverse services.
 | `csomar.com` | Yes |
 | `csos95.com` | No |
 | `csoundc.info` | No |
+| `csparker.co.uk` | No |
 | `csparker.uk` | No |
 | `csphy.pw` | No |
 | `cspray.io` | Yes |
@@ -26668,6 +26670,7 @@ Here's a list of public Fediverse services.
 | `lust4love.eu.org` | Yes |
 | `lustaufleben.at` | No |
 | `lustigetiernamenbubble.de` | Yes |
+| `lustli.online` | No |
 | `luther.social` | No |
 | `lutoma.org` | No |
 | `lutra-it.eu` | No |
@@ -28160,6 +28163,7 @@ Here's a list of public Fediverse services.
 | `mastpub.com` | No |
 | `mastrodon.space` | No |
 | `masts.lv` | No |
+| `mastschwe.in` | No |
 | `mastsocial.de` | No |
 | `mastsocial.xyz` | No |
 | `mastudon.com` | No |
@@ -28656,7 +28660,7 @@ Here's a list of public Fediverse services.
 | `megorei.net` | No |
 | `meguhub.com` | Yes |
 | `megumin.org` | Yes |
-| `meh.social` | No |
+| `meh.social` | Yes |
 | `mehalter.com` | Yes |
 | `mehdibenadel.com` | No |
 | `mehlmann.info` | No |
@@ -38258,7 +38262,7 @@ Here's a list of public Fediverse services.
 | `rathe.social` | Yes |
 | `rather.social` | No |
 | `ratherbemaking.games` | No |
-| `rathersafe.social` | No |
+| `rathersafe.social` | Yes |
 | `rathersafe.space` | No |
 | `rathur.eu` | No |
 | `ratingen.social` | No |
@@ -40314,7 +40318,7 @@ Here's a list of public Fediverse services.
 | `sarasoueidan.dev` | No |
 | `saratov.ch` | No |
 | `sarber.plus` | Yes |
-| `sarber.social` | No |
+| `sarber.social` | Yes |
 | `sarcasm.stream` | No |
 | `sarcasmstardust.com` | No |
 | `sardegna.social` | No |
@@ -44462,6 +44466,7 @@ Here's a list of public Fediverse services.
 | `swtlo.com` | No |
 | `swungda.sh` | No |
 | `swurl.land` | Yes |
+| `sxa.org.uk` | No |
 | `sxgr.fun` | No |
 | `sxl.cc` | Yes |
 | `sxnlabs.social` | No |
@@ -52721,7 +52726,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,046 |
+| Cloudflare | 15,051 |
 | Normal | 37,627 |
 
 
