@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,275 |
-| social | 4,799 |
+| social | 4,800 |
 | net | 4,092 |
 | org | 2,724 |
 | de | 2,640 |
@@ -36850,6 +36850,7 @@ Here's a list of public Fediverse services.
 | `pp-social.com` | Yes |
 | `pp.lu` | No |
 | `pp.social` | Yes |
+| `ppb.social` | No |
 | `ppcis.org` | No |
 | `ppiotrr.pl` | Yes |
 | `ppiy.ac` | Yes |
@@ -52706,7 +52707,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,041 |
-| Normal | 37,616 |
+| Normal | 37,617 |
 
 
 </details>
