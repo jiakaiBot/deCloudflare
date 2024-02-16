@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,274 |
 | social | 4,799 |
 | net | 4,092 |
-| org | 2,723 |
+| org | 2,724 |
 | de | 2,640 |
 
 
@@ -7318,6 +7318,7 @@ Here's a list of public Fediverse services.
 | `chaos-goeppingen.de` | No |
 | `chaos-gp.social` | No |
 | `chaos.futbol` | No |
+| `chaos.fyi` | No |
 | `chaos.is` | No |
 | `chaos.koeln` | Yes |
 | `chaos.nrw` | No |
@@ -17570,7 +17571,7 @@ Here's a list of public Fediverse services.
 | `gonelemmy.xyz` | No |
 | `gonerd.me` | Yes |
 | `gonext.gg` | Yes |
-| `gonit.org` | Yes |
+| `gonit.org` | No |
 | `gonk.social` | No |
 | `gonsphere.tk` | No |
 | `gonta.net` | No |
@@ -42076,7 +42077,7 @@ Here's a list of public Fediverse services.
 | `skoop.hu` | No |
 | `skoops.social` | No |
 | `skorpil.cz` | No |
-| `skota11.com` | No |
+| `skota11.com` | Yes |
 | `skrasek.us` | No |
 | `skree.social` | No |
 | `skrep.eu` | No |
@@ -46328,7 +46329,7 @@ Here's a list of public Fediverse services.
 | `thraeryn.red` | No |
 | `thrailkill.cloud` | Yes |
 | `thrash.club` | No |
-| `thrashzone.org` | Yes |
+| `thrashzone.org` | No |
 | `threadinburgh.scot` | No |
 | `threadintheweb.com` | No |
 | `threads.net` | No |
@@ -49202,6 +49203,7 @@ Here's a list of public Fediverse services.
 | `victorwynne.com` | No |
 | `vicx.fr` | No |
 | `vidasana.social` | No |
+| `vidbin.org` | Yes |
 | `vidcommons.org` | No |
 | `vidd.la` | Yes |
 | `vide.social` | No |
@@ -52701,7 +52703,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,041 |
-| Normal | 37,611 |
+| Normal | 37,613 |
 
 
 </details>
