@@ -29405,6 +29405,7 @@ Here's a list of public Fediverse services.
 | `minet.net` | No |
 | `minetaro12.com` | Yes |
 | `minetest.ch` | No |
+| `minetestserver.ru` | No |
 | `mingel.nl` | No |
 | `mingus.social` | No |
 | `mingxingsex.com` | No |
@@ -52705,7 +52706,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,041 |
-| Normal | 37,615 |
+| Normal | 37,616 |
 
 
 </details>
