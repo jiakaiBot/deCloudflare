@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Blocked autofocusing on a form control in a cross-origin subframe on Contact-Widget](https://github.com/freescout-helpdesk/freescout/issues/3794)
 - [Error solving the challenge when using cookies.Cloudflare 'Verify you are human' button not found.](https://github.com/FlareSolverr/FlareSolverr/issues/1068)
 - [Problem with the latest puppater](https://github.com/gologinapp/gologin/issues/127)
 - [TempleScan is Broken](https://github.com/keiyoushi/extensions-source/issues/1285)
