@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,274 |
+| com | 8,275 |
 | social | 4,799 |
 | net | 4,092 |
 | org | 2,724 |
@@ -13554,6 +13554,7 @@ Here's a list of public Fediverse services.
 | `etxetik.org` | Yes |
 | `eu-bots.net` | Yes |
 | `eu5.org` | No |
+| `eu90h.com` | No |
 | `eubf.net` | No |
 | `eudemocracy.eu` | No |
 | `eug.social` | No |
@@ -52703,7 +52704,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,041 |
-| Normal | 37,613 |
+| Normal | 37,614 |
 
 
 </details>
