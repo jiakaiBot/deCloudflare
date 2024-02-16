@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Need a failover proxy to localhost/remote server](https://github.com/McPizza0/random/issues/1)
 - [Blocked autofocusing on a form control in a cross-origin subframe on Contact-Widget](https://github.com/freescout-helpdesk/freescout/issues/3794)
 - [Error solving the challenge when using cookies.Cloudflare 'Verify you are human' button not found.](https://github.com/FlareSolverr/FlareSolverr/issues/1068)
 - [Problem with the latest puppater](https://github.com/gologinapp/gologin/issues/127)
