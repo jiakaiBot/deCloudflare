@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,278 |
+| com | 8,279 |
 | social | 4,802 |
 | net | 4,095 |
 | org | 2,726 |
@@ -6141,6 +6141,7 @@ Here's a list of public Fediverse services.
 | `bronzedrose.com` | Yes |
 | `brookins.info` | Yes |
 | `brookshelley.com` | Yes |
+| `brookslawson.com` | No |
 | `bropartment.party` | Yes |
 | `bropartment.social` | Yes |
 | `broski.me` | Yes |
@@ -13463,7 +13464,7 @@ Here's a list of public Fediverse services.
 | `esparrec.net` | Yes |
 | `especiallyrelative.net` | No |
 | `espectro.observer` | Yes |
-| `espeech.org` | Yes |
+| `espeech.org` | No |
 | `espeon.social` | No |
 | `esper.lol` | Yes |
 | `esperant.io` | No |
@@ -52732,8 +52733,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,058 |
-| Normal | 37,626 |
+| Cloudflare | 15,057 |
+| Normal | 37,628 |
 
 
 </details>
