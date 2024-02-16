@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [502 error when looking up room alias from dead homeserver](https://github.com/element-hq/synapse/issues/16926)
 - [fds block Asia crashes](https://github.com/dvershinin/fds/issues/36)
 - [Wordpress: Switching homepage to static page breaks the probes](https://github.com/truecharts/charts/issues/18255)
 - [Improve test execution speed on WSL](https://github.com/honojs/hono/issues/2221)
