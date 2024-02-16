@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,275 |
-| social | 4,801 |
-| net | 4,092 |
-| org | 2,725 |
+| com | 8,276 |
+| social | 4,802 |
+| net | 4,094 |
+| org | 2,726 |
 | de | 2,640 |
 
 
@@ -8579,6 +8579,7 @@ Here's a list of public Fediverse services.
 | `computer-club.online` | Yes |
 | `computer.surgery` | No |
 | `computeralltag.blog` | No |
+| `computerclub.forum` | Yes |
 | `computerclub.online` | Yes |
 | `computerclub.social` | Yes |
 | `computerfairi.es` | Yes |
@@ -10342,6 +10343,7 @@ Here's a list of public Fediverse services.
 | `dcj.im` | No |
 | `dcj.me` | No |
 | `dcmrobertson.com` | Yes |
+| `dcnh.cloud` | No |
 | `dcntr.org` | No |
 | `dcomm.net.ua` | No |
 | `dcotta.eu` | Yes |
@@ -11990,6 +11992,7 @@ Here's a list of public Fediverse services.
 | `drjensrecoveryreadings.com` | No |
 | `drjpdns.com` | No |
 | `drk.network` | No |
+| `drk.st` | No |
 | `drl.me` | Yes |
 | `drlemmy.net` | Yes |
 | `drmandrewtoad.com` | No |
@@ -30930,6 +30933,7 @@ Here's a list of public Fediverse services.
 | `mushroom.gay` | No |
 | `mushroomfm.com` | No |
 | `mushus.net` | No |
+| `music-social.com` | No |
 | `music.blog` | No |
 | `music.social` | No |
 | `musicafolk.es` | No |
@@ -33553,6 +33557,7 @@ Here's a list of public Fediverse services.
 | `objectopia.xyz` | No |
 | `objektiv2.net` | Yes |
 | `obkkszd.club` | Yes |
+| `obl.ong` | Yes |
 | `oblivion.social` | No |
 | `obnh.network` | No |
 | `obo.sh` | Yes |
@@ -35056,6 +35061,7 @@ Here's a list of public Fediverse services.
 | `paranoiac-thoughts.com` | No |
 | `paranoiakids.net` | No |
 | `paranoidpengu.in` | No |
+| `paranoidpenguin.net` | No |
 | `parapheum.com` | Yes |
 | `parasocial.land` | No |
 | `parasocial.network` | Yes |
@@ -38252,6 +38258,7 @@ Here's a list of public Fediverse services.
 | `rathe.social` | Yes |
 | `rather.social` | No |
 | `ratherbemaking.games` | No |
+| `rathersafe.social` | No |
 | `rathersafe.space` | No |
 | `rathur.eu` | No |
 | `ratingen.social` | No |
@@ -42998,6 +43005,7 @@ Here's a list of public Fediverse services.
 | `sp4ke.com` | No |
 | `sp8key.monster` | Yes |
 | `spaadd.no` | No |
+| `spacc.eu.org` | No |
 | `space-pirates.org` | No |
 | `spaceagency.space` | No |
 | `spaceandtim.es` | No |
@@ -45411,6 +45419,7 @@ Here's a list of public Fediverse services.
 | `teqqnet.de` | Yes |
 | `teqqy.de` | Yes |
 | `teqqy.social` | Yes |
+| `ter0.net` | No |
 | `terabyte-computing.com` | No |
 | `terakoya-backstage.com` | No |
 | `terapeldigitaal.nl` | Yes |
@@ -45528,6 +45537,7 @@ Here's a list of public Fediverse services.
 | `textrhet.com` | No |
 | `texttheater.net` | No |
 | `teyvat.cloud` | No |
+| `tezartube.space` | Yes |
 | `tezcat.social` | No |
 | `tezos.lol` | No |
 | `tezos.rocks` | No |
@@ -48109,6 +48119,7 @@ Here's a list of public Fediverse services.
 | `uchun.net` | Yes |
 | `uckermark-blog.de` | No |
 | `uckermark.social` | No |
+| `ucml.dev` | No |
 | `ucn.social` | No |
 | `ucode.space` | Yes |
 | `ucy.de` | No |
@@ -52072,6 +52083,7 @@ Here's a list of public Fediverse services.
 | `yumuhole.com` | No |
 | `yumulab.org` | No |
 | `yunase.com` | No |
+| `yung.au` | Yes |
 | `yunkuangao.com` | Yes |
 | `yunochi.com` | Yes |
 | `yunochi.moe` | Yes |
@@ -52709,8 +52721,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,042 |
-| Normal | 37,619 |
+| Cloudflare | 15,046 |
+| Normal | 37,627 |
 
 
 </details>
