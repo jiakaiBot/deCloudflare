@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,277 |
+| com | 8,278 |
 | social | 4,802 |
 | net | 4,095 |
 | org | 2,726 |
@@ -9330,6 +9330,7 @@ Here's a list of public Fediverse services.
 | `csomar.com` | Yes |
 | `csos95.com` | No |
 | `csoundc.info` | No |
+| `csparker.co.uk` | No |
 | `csparker.uk` | No |
 | `csphy.pw` | No |
 | `cspray.io` | Yes |
@@ -17358,6 +17359,7 @@ Here's a list of public Fediverse services.
 | `globetvs.com` | No |
 | `globulous.com` | No |
 | `gloc.al` | Yes |
+| `glocalplus.com` | No |
 | `glod.org` | Yes |
 | `glomzubuk.fr` | No |
 | `gloom.nexus` | No |
@@ -52730,7 +52732,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,057 |
-| Normal | 37,624 |
+| Normal | 37,626 |
 
 
 </details>
