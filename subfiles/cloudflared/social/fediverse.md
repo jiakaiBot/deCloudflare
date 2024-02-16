@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,276 |
+| com | 8,277 |
 | social | 4,802 |
-| net | 4,094 |
+| net | 4,095 |
 | org | 2,726 |
 | de | 2,640 |
 
@@ -9330,6 +9330,7 @@ Here's a list of public Fediverse services.
 | `csomar.com` | Yes |
 | `csos95.com` | No |
 | `csoundc.info` | No |
+| `csparker.co.uk` | No |
 | `csparker.uk` | No |
 | `csphy.pw` | No |
 | `cspray.io` | Yes |
@@ -11534,6 +11535,7 @@ Here's a list of public Fediverse services.
 | `doamm.com` | Yes |
 | `doan.me` | Yes |
 | `doany.io` | Yes |
+| `dob.jp` | Yes |
 | `dobbs.town` | No |
 | `dobergroup.org.ua` | Yes |
 | `doble.ee` | No |
@@ -15027,6 +15029,7 @@ Here's a list of public Fediverse services.
 | `fitchfamily.org` | No |
 | `fitopen.org` | No |
 | `fitt.au` | Yes |
+| `fitudao.work` | Yes |
 | `fitzrovianews.com` | No |
 | `fiume.club` | No |
 | `fivebyfive.social` | No |
@@ -16290,6 +16293,7 @@ Here's a list of public Fediverse services.
 | `furuyoni-misskey.online` | Yes |
 | `fury.net.nz` | No |
 | `furytech.net` | Yes |
+| `fusagi.com` | No |
 | `fuse.pl` | No |
 | `fused.com` | No |
 | `fusenigk.de` | No |
@@ -32438,6 +32442,7 @@ Here's a list of public Fediverse services.
 | `niice.social` | Yes |
 | `niichan.top` | No |
 | `niicow974.fr` | No |
+| `nijbakker.net` | No |
 | `niji.fi` | Yes |
 | `niji.space` | Yes |
 | `nijiato.nagoya` | No |
@@ -52725,8 +52730,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,055 |
-| Normal | 37,622 |
+| Cloudflare | 15,057 |
+| Normal | 37,625 |
 
 
 </details>
