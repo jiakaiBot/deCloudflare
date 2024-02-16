@@ -12009,6 +12009,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rip_Aizen60@X](https://twitter.com/Rip_Aizen60/status/1680012634123300864) | advertise |
 | [rip_lunchables@X](https://twitter.com/rip_lunchables/status/1665889036152586245) | advertise |
 | [Rip_nonameeee@X](https://twitter.com/Rip_nonameeee/status/1665705629120438280) | advertise |
+| [risepedia@X](https://twitter.com/risepedia/status/1758406438890963136) | advertise |
 | [RishiKu66@X](https://twitter.com/RishiKu66/status/1392000250408144899) | advertise |
 | [RisingHighPrie1@X](https://twitter.com/RisingHighPrie1/status/1478009018245390338) | advertise |
 | [Ritasako@X](https://twitter.com/Ritasako/status/1553334921107611648) | advertise |
