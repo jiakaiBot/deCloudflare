@@ -11808,6 +11808,7 @@ Do not create new issue or we will close it as duplicate.
 | [RannaPrado@X](https://twitter.com/RannaPrado/status/1507544094003892226) | advertise |
 | [Rapestate54@X](https://twitter.com/Rapestate54/status/1479114971019571203) | advertise |
 | [raphend@X](https://twitter.com/raphend/status/1480757145477865472) | advertise |
+| [RapidexW@X](https://twitter.com/RapidexW/status/1758377815710253462) | advertise |
 | [RaPradis27922@X](https://twitter.com/RaPradis27922/status/1754881223002898747) | advertise |
 | [RapYan100@X](https://twitter.com/RapYan100/status/1404834104072454147) | advertise |
 | [raqebpress@X](https://twitter.com/raqebpress/status/1475851899844845570) | advertise |
