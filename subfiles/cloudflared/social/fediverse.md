@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,275 |
 | social | 4,801 |
 | net | 4,092 |
-| org | 2,724 |
+| org | 2,725 |
 | de | 2,640 |
 
 
@@ -9114,6 +9114,7 @@ Here's a list of public Fediverse services.
 | `criaz.ru` | No |
 | `crid.land` | No |
 | `crikey.social` | No |
+| `crime-net.org` | No |
 | `crime.cafe` | No |
 | `crime.group` | No |
 | `crime.st` | No |
@@ -52709,7 +52710,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,042 |
-| Normal | 37,618 |
+| Normal | 37,619 |
 
 
 </details>
