@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,275 |
-| social | 4,800 |
+| social | 4,801 |
 | net | 4,092 |
 | org | 2,724 |
 | de | 2,640 |
@@ -5867,6 +5867,7 @@ Here's a list of public Fediverse services.
 | `bowlofpetunias.net` | No |
 | `box.sh` | Yes |
 | `box464.com` | Yes |
+| `box464.social` | No |
 | `box94.com` | No |
 | `boxbox.site` | No |
 | `boxertwin.info` | No |
@@ -52708,7 +52709,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,042 |
-| Normal | 37,617 |
+| Normal | 37,618 |
 
 
 </details>
