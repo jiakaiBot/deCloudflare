@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,282 |
+| com | 8,283 |
 | social | 4,804 |
 | net | 4,095 |
 | org | 2,727 |
@@ -38017,6 +38017,7 @@ Here's a list of public Fediverse services.
 | `rafal06.dev` | No |
 | `rafale.blue` | No |
 | `rafe.name` | Yes |
+| `rafelangston.com` | No |
 | `rafferty.net` | No |
 | `raffi.de` | No |
 | `rafting.io` | No |
@@ -52749,7 +52750,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,056 |
-| Normal | 37,644 |
+| Normal | 37,645 |
 
 
 </details>
