@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,277 |
 | social | 4,805 |
-| net | 4,089 |
+| net | 4,090 |
 | org | 2,725 |
 | de | 2,640 |
 
@@ -1850,6 +1850,7 @@ Here's a list of public Fediverse services.
 | `alicevie.space` | Yes |
 | `alicey.dev` | Yes |
 | `alicia.ne.jp` | No |
+| `alico.nexus` | No |
 | `alid.pw` | No |
 | `aliel.fr` | No |
 | `alien.moe` | Yes |
@@ -3892,6 +3893,7 @@ Here's a list of public Fediverse services.
 | `b4f7.de` | No |
 | `b4nk0flov3.com` | No |
 | `b4tech.cc` | No |
+| `b4tman.ru` | No |
 | `b4uact.org` | No |
 | `b4udw3rk5.com` | No |
 | `b4yp.co.uk` | No |
@@ -33886,6 +33888,7 @@ Here's a list of public Fediverse services.
 | `oldb.social` | No |
 | `oldbytes.space` | No |
 | `oldcoder.org` | No |
+| `oldeink.net` | No |
 | `oldf.uk` | No |
 | `oldfolksadventures.com` | No |
 | `oldfriends.live` | No |
@@ -52715,7 +52718,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,046 |
-| Normal | 37,620 |
+| Normal | 37,623 |
 
 
 </details>
