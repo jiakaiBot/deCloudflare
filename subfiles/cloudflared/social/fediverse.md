@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,274 |
+| com | 8,275 |
 | social | 4,805 |
 | net | 4,089 |
 | org | 2,725 |
@@ -28181,6 +28181,7 @@ Here's a list of public Fediverse services.
 | `matcha-fest.xyz` | Yes |
 | `matcha-soft.com` | Yes |
 | `matcha.pub` | Yes |
+| `matcha1919.com` | No |
 | `matchdon.com` | No |
 | `matchu.dev` | No |
 | `matchy.jp` | No |
@@ -52709,7 +52710,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,043 |
-| Normal | 37,617 |
+| Normal | 37,618 |
 
 
 </details>
