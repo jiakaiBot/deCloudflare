@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,280 |
-| social | 4,803 |
+| social | 4,804 |
 | net | 4,095 |
 | org | 2,727 |
 | de | 2,640 |
@@ -3829,6 +3829,7 @@ Here's a list of public Fediverse services.
 | `azbycx.xyz` | Yes |
 | `azbyka.ru` | No |
 | `azcyouth.in` | Yes |
+| `azemet.space` | No |
 | `azfedi.social` | No |
 | `azimuth.place` | Yes |
 | `azisserver.me` | Yes |
@@ -47186,6 +47187,7 @@ Here's a list of public Fediverse services.
 | `tourmentine.com` | No |
 | `tourtoise.quest` | No |
 | `touscontremacron.fr` | No |
+| `toutournai.social` | No |
 | `towa.li` | No |
 | `towade.me` | No |
 | `towards.vision` | No |
@@ -52742,7 +52744,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,056 |
-| Normal | 37,637 |
+| Normal | 37,639 |
 
 
 </details>
