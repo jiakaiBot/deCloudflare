@@ -47857,6 +47857,7 @@ Here's a list of public Fediverse services.
 | `tuto-craft.com` | No |
 | `tutor.social` | Yes |
 | `tutoteket.no` | No |
+| `tuttipazzi.cyou` | No |
 | `tuu.fi` | No |
 | `tuukkao.net` | No |
 | `tuulaniemi.net` | Yes |
@@ -52750,7 +52751,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,056 |
-| Normal | 37,645 |
+| Normal | 37,646 |
 
 
 </details>
