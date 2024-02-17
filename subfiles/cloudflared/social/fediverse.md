@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,283 |
-| social | 4,804 |
-| net | 4,095 |
-| org | 2,727 |
-| de | 2,640 |
+| com | 8,285 |
+| social | 4,806 |
+| net | 4,096 |
+| org | 2,728 |
+| de | 2,641 |
 
 
 - Mastodon, Pleroma, etc
@@ -1336,6 +1336,7 @@ Here's a list of public Fediverse services.
 | `adxm.social` | No |
 | `adyxax.org` | Yes |
 | `adzukimame.com` | Yes |
+| `ae02.de` | No |
 | `aebok.com` | Yes |
 | `aedifex.dk` | No |
 | `aedileworks.com` | No |
@@ -17196,6 +17197,7 @@ Here's a list of public Fediverse services.
 | `giobu.cyou` | No |
 | `gioia.cloud` | No |
 | `gioia.news` | No |
+| `gioia.photos` | No |
 | `gioia.social` | No |
 | `giom.fr` | No |
 | `gion.me` | No |
@@ -17533,6 +17535,7 @@ Here's a list of public Fediverse services.
 | `godzillasbigjeans.com` | Yes |
 | `goe.land` | No |
 | `goehler.digital` | No |
+| `goeppingen.social` | No |
 | `goes.social` | No |
 | `goethe12.de` | No |
 | `goettingen.social` | No |
@@ -23949,6 +23952,7 @@ Here's a list of public Fediverse services.
 | `koenvh.nl` | No |
 | `koesters.xyz` | No |
 | `koetodon.com` | No |
+| `kofo.com` | Yes |
 | `kofuk.org` | Yes |
 | `kog.to` | No |
 | `kogak.ninja` | No |
@@ -28710,6 +28714,7 @@ Here's a list of public Fediverse services.
 | `mel.social` | Yes |
 | `mela.de` | No |
 | `melalandia.tk` | No |
+| `melamar.xyz` | No |
 | `melancho.ly` | No |
 | `melanson.ca` | No |
 | `melanson.social` | No |
@@ -29450,6 +29455,7 @@ Here's a list of public Fediverse services.
 | `minimal.click` | No |
 | `minimal.social` | No |
 | `minimalistedtech.com` | No |
+| `minimalistedtech.org` | No |
 | `minimally.online` | No |
 | `minimalstate.dev` | No |
 | `minimeadow.art` | No |
@@ -31668,6 +31674,7 @@ Here's a list of public Fediverse services.
 | `nbsp.one` | No |
 | `nbwp.uk` | No |
 | `nc.social` | Yes |
+| `nc.to` | Yes |
 | `nca10.net` | Yes |
 | `ncaq.net` | Yes |
 | `ncat.dev` | Yes |
@@ -36460,6 +36467,7 @@ Here's a list of public Fediverse services.
 | `pnw.social` | No |
 | `pnw.zone` | Yes |
 | `pnyhf.eu` | No |
+| `po0.online` | Yes |
 | `poa.st` | Yes |
 | `poag.one` | Yes |
 | `poast.lol` | No |
@@ -42223,6 +42231,7 @@ Here's a list of public Fediverse services.
 | `slayers.com.br` | Yes |
 | `slayers.online` | Yes |
 | `slcb.xyz` | No |
+| `sldon.com` | No |
 | `sldon.jp` | No |
 | `sled.social` | No |
 | `sledj.net` | No |
@@ -45568,6 +45577,7 @@ Here's a list of public Fediverse services.
 | `tf-net.cloud` | Yes |
 | `tf.au` | No |
 | `tf.fi` | Yes |
+| `tf3.social` | No |
 | `tfcconnection.org` | No |
 | `tfdn.cloud` | Yes |
 | `tfemily.com` | No |
@@ -46133,6 +46143,7 @@ Here's a list of public Fediverse services.
 | `thesocialbridge.net` | No |
 | `thesolarrepublic.org` | Yes |
 | `thesovereign.one` | No |
+| `thespawn.net` | Yes |
 | `thespence.space` | No |
 | `thespinning.top` | No |
 | `thespiralbound.com` | No |
@@ -52360,6 +52371,7 @@ Here's a list of public Fediverse services.
 | `zekeweeks.com` | No |
 | `zekjur.net` | Yes |
 | `zeku.org` | Yes |
+| `zela.uk` | No |
 | `zelibertinegamer.me` | No |
 | `zelifcam.social` | No |
 | `zell-mbc.com` | No |
@@ -52750,8 +52762,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,056 |
-| Normal | 37,646 |
+| Cloudflare | 15,060 |
+| Normal | 37,654 |
 
 
 </details>
