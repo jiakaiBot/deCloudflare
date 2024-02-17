@@ -31054,6 +31054,7 @@ Here's a list of public Fediverse services.
 | `mxh.nu` | No |
 | `mxhdr.net` | No |
 | `mxhl.de` | Yes |
+| `mxin.fun` | No |
 | `mxin.moe` | No |
 | `mxin.org` | Yes |
 | `mxinfo.fr` | No |
@@ -52745,7 +52746,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,055 |
-| Normal | 37,641 |
+| Normal | 37,642 |
 
 
 </details>
