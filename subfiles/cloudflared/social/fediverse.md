@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,279 |
+| com | 8,280 |
 | social | 4,803 |
 | net | 4,095 |
 | org | 2,726 |
@@ -30262,6 +30262,7 @@ Here's a list of public Fediverse services.
 | `moreofthesa.me.uk` | No |
 | `morepablo.com` | No |
 | `moresci.sale` | Yes |
+| `morettigiuseppe.com` | No |
 | `morfternight.com` | Yes |
 | `morg.i.ng` | No |
 | `morgane.io` | Yes |
@@ -47490,7 +47491,7 @@ Here's a list of public Fediverse services.
 | `trivernis.dev` | Yes |
 | `trivia.to` | No |
 | `trivia.town` | No |
-| `trivial.business` | Yes |
+| `trivial.business` | No |
 | `trivial.observer` | No |
 | `trizz.io` | Yes |
 | `trm.md` | Yes |
@@ -52737,8 +52738,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,057 |
-| Normal | 37,632 |
+| Cloudflare | 15,056 |
+| Normal | 37,634 |
 
 
 </details>
