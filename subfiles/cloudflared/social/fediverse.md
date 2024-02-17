@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,279 |
-| social | 4,802 |
+| social | 4,803 |
 | net | 4,095 |
 | org | 2,726 |
 | de | 2,640 |
@@ -993,6 +993,7 @@ Here's a list of public Fediverse services.
 | `ableism.rip` | No |
 | `ableppo.net` | No |
 | `ablin.de` | No |
+| `abmgrt.dev` | Yes |
 | `abnd.space` | No |
 | `abnormalfreq.com` | No |
 | `abnv.me` | Yes |
@@ -3576,6 +3577,7 @@ Here's a list of public Fediverse services.
 | `austerlitz.social` | No |
 | `austin.community` | No |
 | `austinite.online` | No |
+| `austinmountain.bike` | No |
 | `austintexas.social` | Yes |
 | `austinwadeheller.com` | No |
 | `austodon.com` | No |
@@ -4260,6 +4262,7 @@ Here's a list of public Fediverse services.
 | `bassam.social` | Yes |
 | `basskey.net` | No |
 | `basspistol.org` | No |
+| `bassrock.social` | Yes |
 | `basstdn.jp` | Yes |
 | `bastelbude.eu` | No |
 | `bastelfreak.cloud` | No |
@@ -28792,6 +28795,7 @@ Here's a list of public Fediverse services.
 | `memorablepress.com` | Yes |
 | `memories.am` | Yes |
 | `memoriski.cc` | Yes |
+| `memory-art.xyz` | No |
 | `memoryandthought.me` | No |
 | `memtech.social` | Yes |
 | `memtech.website` | Yes |
@@ -49657,7 +49661,7 @@ Here's a list of public Fediverse services.
 | `vrse.be` | No |
 | `vrse.my.id` | Yes |
 | `vrsocial.network` | No |
-| `vrt36.com` | Yes |
+| `vrt36.com` | No |
 | `vrutkovs.eu` | No |
 | `vrvg.xyz` | No |
 | `vs-the.world` | No |
@@ -49853,7 +49857,7 @@ Here's a list of public Fediverse services.
 | `waldstepperbu.de` | No |
 | `waldvogel.family` | No |
 | `wale.au` | Yes |
-| `wale.run` | Yes |
+| `wale.run` | No |
 | `wales2600.com` | No |
 | `walfie.dev` | Yes |
 | `walkah.social` | Yes |
@@ -52734,7 +52738,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,057 |
-| Normal | 37,628 |
+| Normal | 37,632 |
 
 
 </details>
