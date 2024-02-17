@@ -117,7 +117,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | furrydns.de | No |
 | gac.edu | No |
 | geshido.ru | No |
-| gjrick.tw | Yes |
 | hahnjo.de | No |
 | haringstad.com | No |
 | he.net | No |
@@ -153,7 +152,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | krnl.eu | Yes |
 | l337.site | Yes |
 | lacontrevoie.fr | No |
-| lashes-brow.ru | No |
 | lastentarvike.fi | No |
 | lavate.ch | Yes |
 | lefolgoc.net | No |
@@ -214,7 +212,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pleumkungz.com | Yes |
 | pragmasec.nl | No |
 | privado.ovh | Yes |
-| pukanuragan.ru | No |
 | puregeni.us | No |
 | qquack.org | Yes |
 | quad9.net | Yes |
@@ -305,8 +302,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 150 |
-| Normal | 136 |
+| Cloudflare | 149 |
+| Normal | 134 |
 
 
-### 52.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
