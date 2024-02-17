@@ -48024,7 +48024,7 @@ Here's a list of public Fediverse services.
 | `txmrl.net` | No |
 | `txnet.social` | No |
 | `txs.es` | No |
-| `txsocial.club` | Yes |
+| `txsocial.club` | No |
 | `txwb.org` | Yes |
 | `ty-penguin.org.uk` | No |
 | `tyage.net` | Yes |
@@ -49443,6 +49443,7 @@ Here's a list of public Fediverse services.
 | `vk4msl.com` | No |
 | `vk5fj.net` | No |
 | `vkdn.jp` | No |
+| `vkfksdmltl.co` | No |
 | `vkl.world` | No |
 | `vladcampos.com` | Yes |
 | `vladcampos.eu` | Yes |
@@ -52743,8 +52744,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,056 |
-| Normal | 37,639 |
+| Cloudflare | 15,055 |
+| Normal | 37,641 |
 
 
 </details>
