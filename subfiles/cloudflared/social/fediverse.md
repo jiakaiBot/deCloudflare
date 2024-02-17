@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,276 |
+| com | 8,277 |
 | social | 4,805 |
 | net | 4,089 |
 | org | 2,725 |
@@ -16756,6 +16756,7 @@ Here's a list of public Fediverse services.
 | `gcmastodon.win` | Yes |
 | `gcn.sh` | Yes |
 | `gcreate.jp` | No |
+| `gctaisentl.com` | No |
 | `gctxl.com` | No |
 | `gd.social` | No |
 | `gdamsbo.dk` | No |
@@ -30933,7 +30934,7 @@ Here's a list of public Fediverse services.
 | `mushroom.gay` | No |
 | `mushroomfm.com` | No |
 | `mushus.net` | No |
-| `music-social.com` | No |
+| `music-social.com` | Yes |
 | `music.blog` | No |
 | `music.social` | No |
 | `musicafolk.es` | No |
@@ -52713,7 +52714,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,045 |
+| Cloudflare | 15,046 |
 | Normal | 37,620 |
 
 
