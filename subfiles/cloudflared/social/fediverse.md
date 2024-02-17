@@ -17875,6 +17875,7 @@ Here's a list of public Fediverse services.
 | `greg.city` | No |
 | `greggallardo.com` | No |
 | `gregism.com` | No |
+| `gregismy.name` | No |
 | `gregmakes.xyz` | No |
 | `gregmoore.me` | No |
 | `gregnewman.io` | Yes |
@@ -28343,6 +28344,7 @@ Here's a list of public Fediverse services.
 | `mattyaski.co` | Yes |
 | `mattyatea.me` | Yes |
 | `matubusi.com` | No |
+| `matus.cc` | No |
 | `matus.faith` | No |
 | `matus.rocks` | No |
 | `matya.social` | No |
@@ -52739,7 +52741,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,056 |
-| Normal | 37,634 |
+| Normal | 37,636 |
 
 
 </details>
