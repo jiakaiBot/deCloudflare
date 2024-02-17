@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,280 |
+| com | 8,282 |
 | social | 4,804 |
 | net | 4,095 |
 | org | 2,727 |
@@ -29632,6 +29632,7 @@ Here's a list of public Fediverse services.
 | `misskey.life` | Yes |
 | `misskey.lol` | No |
 | `misskey.love` | No |
+| `misskey.media` | No |
 | `misskey.meme` | Yes |
 | `misskey.ml` | No |
 | `misskey.moe` | Yes |
@@ -51163,6 +51164,7 @@ Here's a list of public Fediverse services.
 | `wzrds.fun` | No |
 | `x-just-4.fun` | No |
 | `x-serv.ovh` | No |
+| `x-sns.com` | Yes |
 | `x0.com` | No |
 | `x0.dk` | No |
 | `x0f.org` | No |
@@ -52611,6 +52613,7 @@ Here's a list of public Fediverse services.
 | `zornhau.de` | No |
 | `zorns.eu` | No |
 | `zoroark.cafe` | No |
+| `zorqz.com` | No |
 | `zoski.fr` | No |
 | `zot.social` | No |
 | `zota.la` | No |
@@ -52745,8 +52748,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,055 |
-| Normal | 37,642 |
+| Cloudflare | 15,056 |
+| Normal | 37,644 |
 
 
 </details>
