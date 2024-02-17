@@ -164,6 +164,7 @@ Do not create new issue or we will close it as duplicate.
 | [46Gaemr@X](https://twitter.com/46Gaemr/status/1588683647431118848) | advertise |
 | [59c7260cd4ad489@X](https://twitter.com/59c7260cd4ad489/status/1605265496877985792) | advertise |
 | [59_nishi@X](https://twitter.com/59_nishi/status/1396310715548323842) | advertise |
+| [63a8f876cc14485@X](https://twitter.com/63a8f876cc14485/status/1758877370092802206) | advertise |
 | [63FIwW0WqHvus55@X](https://twitter.com/63FIwW0WqHvus55/status/1405398057202630657) | advertise |
 | [65akon@X](https://twitter.com/65akon/status/1537224409861484544) | advertise |
 | [68Mjd@X](https://twitter.com/68Mjd/status/1579154746451296256) | advertise |
@@ -4108,6 +4109,7 @@ Do not create new issue or we will close it as duplicate.
 | [fasttrend786@X](https://twitter.com/fasttrend786/status/1671812313958195201) | advertise |
 | [fasvienta@X](https://twitter.com/fasvienta/status/1710091632408924316) | advertise |
 | [fatiherikliuniq@X](https://twitter.com/fatiherikliuniq/status/1542403905472053248) | advertise |
+| [FatimaAjmalPak@X](https://twitter.com/FatimaAjmalPak/status/1758908167096799324) | advertise |
 | [fatimav699@X](https://twitter.com/fatimav699/status/1665889185839058944) | advertise |
 | [fatma_perween@X](https://twitter.com/fatma_perween/status/1720890234282664412) | advertise |
 | [fatts_el@X](https://twitter.com/fatts_el/status/1569365314122514433) | advertise |
@@ -4893,6 +4895,7 @@ Do not create new issue or we will close it as duplicate.
 | [HarshNiranjan6@X](https://twitter.com/HarshNiranjan6/status/1394353667080298499) | advertise |
 | [HarukawaSayaka@X](https://twitter.com/HarukawaSayaka/status/1634247948887531529) | advertise |
 | [HarukoTomatsu@X](https://twitter.com/HarukoTomatsu/status/1726615817264255386) | advertise |
+| [harusoft@X](https://twitter.com/harusoft/status/1758828117500600399) | advertise |
 | [haruyq_@X](https://twitter.com/haruyq_/status/1686237868698783744) | advertise |
 | [HarveyRamer@X](https://twitter.com/HarveyRamer/status/1628381650013851649) | advertise |
 | [haryadh66480571@X](https://twitter.com/haryadh66480571/status/1602709011907973123) | advertise |
@@ -5337,6 +5340,7 @@ Do not create new issue or we will close it as duplicate.
 | [honhonhon15@X](https://twitter.com/honhonhon15/status/1391140808623939585) | advertise |
 | [Honziiin1@X](https://twitter.com/Honziiin1/status/1536496120448303105) | advertise |
 | [Hoo20967296@X](https://twitter.com/Hoo20967296/status/1552675581833097216) | advertise |
+| [hoohuoliang@X](https://twitter.com/hoohuoliang/status/1758889378204746163) | advertise |
 | [hooman1350@X](https://twitter.com/hooman1350/status/1673065874717130754) | advertise |
 | [hooman37328255@X](https://twitter.com/hooman37328255/status/1573217858431090689) | advertise |
 | [Hoomn291051823@X](https://twitter.com/Hoomn291051823/status/1578348160292118529) | advertise |
@@ -5401,6 +5405,7 @@ Do not create new issue or we will close it as duplicate.
 | [hrekinator@X](https://twitter.com/hrekinator/status/1733327011756601452) | advertise |
 | [HrichikM@X](https://twitter.com/HrichikM/status/1473991252827783168) | advertise |
 | [hrolikhrolik@X](https://twitter.com/hrolikhrolik/status/1570812559011516416) | advertise |
+| [hrphthrlkphykh1@X](https://twitter.com/hrphthrlkphykh1/status/1758894467216740722) | advertise |
 | [HRVerma90134169@X](https://twitter.com/HRVerma90134169/status/1398638317449539588) | advertise |
 | [hr_apsgs@X](https://twitter.com/hr_apsgs/status/1587383488637939712) | advertise |
 | [HS91AN@X](https://twitter.com/HS91AN/status/1647217020445003776) | advertise |
@@ -5817,6 +5822,7 @@ Do not create new issue or we will close it as duplicate.
 | [ij369@X](https://twitter.com/ij369/status/1504354187559067648) | advertise |
 | [ijasxyz@X](https://twitter.com/ijasxyz/status/1385240805003071490) | advertise |
 | [ijfirestone@X](https://twitter.com/ijfirestone/status/1639089417468928000) | advertise |
+| [IJJ1865703@X](https://twitter.com/IJJ1865703/status/1758910282556915735) | advertise |
 | [ijsf2EvmedCgFOq@X](https://twitter.com/ijsf2EvmedCgFOq/status/1377093871902060545) | advertise |
 | [ijturton@X](https://twitter.com/ijturton/status/1514990711472545806) | advertise |
 | [ikevin457@X](https://twitter.com/ikevin457/status/1377224916789948422) | advertise |
@@ -11256,6 +11262,7 @@ Do not create new issue or we will close it as duplicate.
 | [pihoang08@X](https://twitter.com/pihoang08/status/1638334226717110275) | advertise |
 | [PikaChuu1081367@X](https://twitter.com/PikaChuu1081367/status/1709533816313036999) | advertise |
 | [pikaibaoooo@X](https://twitter.com/pikaibaoooo/status/1405738285477990404) | advertise |
+| [piksitidaknyata@X](https://twitter.com/piksitidaknyata/status/1758902287181979665) | advertise |
 | [pin500295@X](https://twitter.com/pin500295/status/1405570904269025280) | advertise |
 | [Pineapp43234632@X](https://twitter.com/Pineapp43234632/status/1377259907519373322) | advertise |
 | [pinkydinkydoo0@X](https://twitter.com/pinkydinkydoo0/status/1386988862241742852) | advertise |
