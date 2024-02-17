@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,275 |
+| com | 8,276 |
 | social | 4,805 |
 | net | 4,089 |
 | org | 2,725 |
@@ -38415,6 +38415,7 @@ Here's a list of public Fediverse services.
 | `realize.be` | No |
 | `realkane.dev` | No |
 | `reallocats.org` | No |
+| `reallybigh.at` | No |
 | `reallygay.party` | No |
 | `realm.best` | No |
 | `realmat.de` | Yes |
@@ -51314,6 +51315,7 @@ Here's a list of public Fediverse services.
 | `xivdata.com` | Yes |
 | `xiven.com` | No |
 | `xiweb.de` | No |
+| `xizero.com` | Yes |
 | `xj-ix.luxe` | No |
 | `xjmaoyaoyao.monster` | Yes |
 | `xkcd.network` | No |
@@ -52709,8 +52711,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,043 |
-| Normal | 37,618 |
+| Cloudflare | 15,044 |
+| Normal | 37,619 |
 
 
 </details>
