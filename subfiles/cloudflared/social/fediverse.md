@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,280 |
 | social | 4,803 |
 | net | 4,095 |
-| org | 2,726 |
+| org | 2,727 |
 | de | 2,640 |
 
 
@@ -6126,6 +6126,7 @@ Here's a list of public Fediverse services.
 | `broken.social` | No |
 | `brokenarrow.network` | No |
 | `brokenbydesign.org` | No |
+| `brokenhedge.org` | No |
 | `brokenintuition.com` | Yes |
 | `brokenmirror.cc` | No |
 | `brokenpipe.de` | No |
@@ -52741,7 +52742,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,056 |
-| Normal | 37,636 |
+| Normal | 37,637 |
 
 
 </details>
