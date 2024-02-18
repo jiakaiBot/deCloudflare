@@ -40946,6 +40946,7 @@ Here's a list of public Fediverse services.
 | `secline.de` | No |
 | `secluded.ch` | No |
 | `secluded.site` | No |
+| `seclusionis.me` | No |
 | `secnd.me` | No |
 | `secondjarl.com` | Yes |
 | `secondpartysoftware.com` | No |
@@ -43844,6 +43845,7 @@ Here's a list of public Fediverse services.
 | `storo.social` | No |
 | `story.st` | Yes |
 | `storydragon.nl` | No |
+| `storyfae.blog` | No |
 | `storymin.es` | No |
 | `storynetworks.kr` | Yes |
 | `storyteller.social` | No |
@@ -44856,6 +44858,7 @@ Here's a list of public Fediverse services.
 | `tallwireless.com` | No |
 | `talokan.social` | Yes |
 | `talos.link` | No |
+| `tals.dev` | Yes |
 | `tama.ac.jp` | No |
 | `tama.pro` | No |
 | `tama.social` | Yes |
@@ -52731,8 +52734,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,048 |
-| Normal | 37,635 |
+| Cloudflare | 15,049 |
+| Normal | 37,637 |
 
 
 </details>
