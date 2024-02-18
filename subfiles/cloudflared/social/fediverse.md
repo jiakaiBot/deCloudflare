@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,278 |
 | social | 4,805 |
-| net | 4,091 |
+| net | 4,092 |
 | org | 2,725 |
 | de | 2,640 |
 
@@ -22527,6 +22527,7 @@ Here's a list of public Fediverse services.
 | `jugendarbe.it` | Yes |
 | `jugendhacker.de` | No |
 | `jugendtrier.de` | No |
+| `jugesuke.net` | Yes |
 | `jugg.xyz` | Yes |
 | `juggler.jp` | No |
 | `jugglers.network` | No |
@@ -52722,7 +52723,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,044 |
+| Cloudflare | 15,045 |
 | Normal | 37,630 |
 
 
