@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,281 |
 | social | 4,805 |
-| net | 4,094 |
+| net | 4,095 |
 | org | 2,726 |
 | de | 2,640 |
 
@@ -22986,6 +22986,7 @@ Here's a list of public Fediverse services.
 | `karkatdyinginagluetrap.com` | No |
 | `karl.guru` | No |
 | `karlender.net` | No |
+| `karliner.net` | No |
 | `karliner.org` | No |
 | `karlmarx.social` | No |
 | `karlnotcarl.com` | No |
@@ -27317,6 +27318,7 @@ Here's a list of public Fediverse services.
 | `maphew.com` | No |
 | `maphia.net` | Yes |
 | `mapicardie.fr` | No |
+| `maplatefor.me` | Yes |
 | `maple.social` | No |
 | `maplecrew.org` | No |
 | `maplelawn.net` | No |
@@ -52736,8 +52738,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,050 |
-| Normal | 37,638 |
+| Cloudflare | 15,051 |
+| Normal | 37,639 |
 
 
 </details>
