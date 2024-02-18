@@ -4493,6 +4493,7 @@ Here's a list of public Fediverse services.
 | `before.dog` | No |
 | `beforethefuture.space` | No |
 | `begbie.party` | No |
+| `begin.app` | No |
 | `beginnerl.xyz` | No |
 | `begoo.bar` | No |
 | `begovoy.club` | No |
@@ -30437,7 +30438,7 @@ Here's a list of public Fediverse services.
 | `mpda.ru` | No |
 | `mpg.de` | Yes |
 | `mpgaming.social` | Yes |
-| `mpinet.dev` | Yes |
+| `mpinet.dev` | No |
 | `mpmilestogo.site` | No |
 | `mpp-service.de` | No |
 | `mpsf.group` | No |
@@ -52721,8 +52722,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,045 |
-| Normal | 37,628 |
+| Cloudflare | 15,044 |
+| Normal | 37,630 |
 
 
 </details>
