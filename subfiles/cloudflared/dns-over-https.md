@@ -175,8 +175,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mestdag.fr | No |
 | midping.ir | No |
 | mikrotikrumahan.my.id | No |
-| milkpie.one | Yes |
-| mo0on15.com | No |
 | moderateinfra.net | No |
 | modr.club | Yes |
 | mtsoln.com | Yes |
@@ -289,10 +287,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | waifu.cz | Yes |
 | wang.art | Yes |
 | wargan.io | No |
-| waringer-atg.de | No |
 | wikimedia-dns.org | No |
 | woodbridge.club | No |
-| wriedts.de | No |
 | xcom.pro | No |
 | xx3210766.live | Yes |
 | yandex.net | Yes |
@@ -302,8 +298,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 149 |
-| Normal | 134 |
+| Cloudflare | 148 |
+| Normal | 131 |
 
 
-### 52.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53% of DNS-over-HTTPS (DoH) are using Cloudflare.
