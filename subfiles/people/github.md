@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No stacktrace sources in denoflare serve](https://github.com/skymethod/denoflare/issues/71)
 - [Verbindung zu JDownloader instabil/Fehlermeldung bei Abruf](https://github.com/rix1337/FeedCrawler/issues/770)
 - [Error run on archlinux docker](https://github.com/MHSanaei/3x-ui/issues/1837)
 - [Add or remove agent bot response with 401 Unauthorized](https://github.com/chatwoot/chatwoot/issues/8960)
