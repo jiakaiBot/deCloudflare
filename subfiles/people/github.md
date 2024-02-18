@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Blocked by Cloudflare](https://github.com/Podcastindex-org/docs-api/issues/117)
 - [No stacktrace sources in denoflare serve](https://github.com/skymethod/denoflare/issues/71)
 - [Verbindung zu JDownloader instabil/Fehlermeldung bei Abruf](https://github.com/rix1337/FeedCrawler/issues/770)
 - [Error run on archlinux docker](https://github.com/MHSanaei/3x-ui/issues/1837)
