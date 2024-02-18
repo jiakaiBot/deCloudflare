@@ -4315,6 +4315,7 @@ Do not create new issue or we will close it as duplicate.
 | [fuxklif@X](https://twitter.com/fuxklif/status/1377696833498050565) | advertise |
 | [fuxkslxkk@X](https://twitter.com/fuxkslxkk/status/1713037604755833333) | advertise |
 | [Fuxyou01@X](https://twitter.com/Fuxyou01/status/1563007305687629829) | advertise |
+| [Fuzz390490@X](https://twitter.com/Fuzz390490/status/1759100963128742163) | advertise |
 | [fuzzybooze@X](https://twitter.com/fuzzybooze/status/1573284746968576000) | advertise |
 | [fv_sestan@X](https://twitter.com/fv_sestan/status/1397051138210369538) | advertise |
 | [Fx23107599@X](https://twitter.com/Fx23107599/status/1598858984777056256) | advertise |
