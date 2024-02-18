@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error run on archlinux docker](https://github.com/MHSanaei/3x-ui/issues/1837)
 - [Add or remove agent bot response with 401 Unauthorized](https://github.com/chatwoot/chatwoot/issues/8960)
 - [Incompatibility with Cloudflare Workers](https://github.com/workos/workos-node/issues/964)
 - [Fix Market 502 error](https://github.com/Fl4m3Ph03n1x/market_manager/issues/109)
