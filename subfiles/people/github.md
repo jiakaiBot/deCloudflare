@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare CF_API_TOKEN doesn't work](https://github.com/kubernetes-sigs/external-dns/issues/4263)
 - [Blocked by Cloudflare](https://github.com/Podcastindex-org/docs-api/issues/117)
 - [No stacktrace sources in denoflare serve](https://github.com/skymethod/denoflare/issues/71)
 - [Verbindung zu JDownloader instabil/Fehlermeldung bei Abruf](https://github.com/rix1337/FeedCrawler/issues/770)
