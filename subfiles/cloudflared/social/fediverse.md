@@ -12904,7 +12904,6 @@ Here's a list of public Fediverse services.
 | `ellemef.com` | No |
 | `ellenburg.computer` | Yes |
 | `ellenburg.org` | Yes |
-| `ellenhp.me` | Yes |
 | `ellie.chat` | No |
 | `ellie.pet` | Yes |
 | `ellie.social` | No |
@@ -23331,7 +23330,6 @@ Here's a list of public Fediverse services.
 | `kessoku.club` | Yes |
 | `kestrelsnest.social` | No |
 | `kesuek.de` | No |
-| `ketanjoshi.co` | No |
 | `ketanvijayvargiya.com` | Yes |
 | `ketchupma.io` | No |
 | `ketenburhan.me` | No |
@@ -52724,8 +52722,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,046 |
-| Normal | 37,630 |
+| Cloudflare | 15,045 |
+| Normal | 37,629 |
 
 
 </details>
