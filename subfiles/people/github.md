@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Incompatibility with Cloudflare Workers](https://github.com/workos/workos-node/issues/964)
 - [Fix Market 502 error](https://github.com/Fl4m3Ph03n1x/market_manager/issues/109)
 - [HELP: Cannot access any assigned domain after power outage](https://github.com/azukaar/Cosmos-Server/issues/198)
 - [Need a failover proxy to localhost/remote server](https://github.com/McPizza0/random/issues/1)
