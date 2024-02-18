@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot Get Domain Working with + Soft-Serve Docker](https://github.com/charmbracelet/soft-serve/issues/477)
 - [As of latest update SmartThings integration no longer works](https://github.com/home-assistant/core/issues/110893)
 - [Cloudflare CF_API_TOKEN doesn't work](https://github.com/kubernetes-sigs/external-dns/issues/4263)
 - [Blocked by Cloudflare](https://github.com/Podcastindex-org/docs-api/issues/117)
