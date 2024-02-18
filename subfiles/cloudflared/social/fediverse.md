@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,277 |
+| com | 8,278 |
 | social | 4,805 |
-| net | 4,090 |
+| net | 4,091 |
 | org | 2,725 |
 | de | 2,640 |
 
@@ -15780,7 +15780,7 @@ Here's a list of public Fediverse services.
 | `freetobealiberal.blog` | No |
 | `freetorrent.fr` | No |
 | `freetreasures.shop` | No |
-| `freetube.cc` | Yes |
+| `freetube.cc` | No |
 | `freetubeapp.io` | No |
 | `freetubehub.live` | Yes |
 | `freevariable.com` | No |
@@ -19990,6 +19990,7 @@ Here's a list of public Fediverse services.
 | `hwl.li` | Yes |
 | `hwsc.link` | Yes |
 | `hxbus.net` | No |
+| `hxck.casa` | Yes |
 | `hxl.io` | Yes |
 | `hxr.social` | No |
 | `hyam.net` | No |
@@ -23636,6 +23637,7 @@ Here's a list of public Fediverse services.
 | `kirk.at` | No |
 | `kirk.social` | No |
 | `kirkmanskorner.com` | No |
+| `kirkwise.com` | No |
 | `kirota.net` | No |
 | `kirov.one` | No |
 | `kirstenmalzwei.de` | No |
@@ -27655,6 +27657,7 @@ Here's a list of public Fediverse services.
 | `masto.host` | No |
 | `masto.hr` | No |
 | `masto.id` | No |
+| `masto.ink` | No |
 | `masto.io` | No |
 | `masto.la` | No |
 | `masto.land` | No |
@@ -32029,6 +32032,7 @@ Here's a list of public Fediverse services.
 | `netafull.net` | No |
 | `netaka.net` | Yes |
 | `netauthority.org` | No |
+| `netbat.net` | No |
 | `netcorsoft.de` | No |
 | `netcup.cafe` | No |
 | `netcup.social` | No |
@@ -40094,7 +40098,7 @@ Here's a list of public Fediverse services.
 | `sakura-rage.net` | No |
 | `sakura.church` | No |
 | `sakura.ne.jp` | No |
-| `sakuradancer.zone` | Yes |
+| `sakuradancer.zone` | No |
 | `sakuradon.jp` | No |
 | `sakuragawa.moe` | Yes |
 | `sakurajima.moe` | No |
@@ -52717,8 +52721,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,046 |
-| Normal | 37,623 |
+| Cloudflare | 15,045 |
+| Normal | 37,628 |
 
 
 </details>
