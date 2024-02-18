@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,281 |
 | social | 4,805 |
-| net | 4,093 |
-| org | 2,725 |
+| net | 4,094 |
+| org | 2,726 |
 | de | 2,640 |
 
 
@@ -34345,6 +34345,7 @@ Here's a list of public Fediverse services.
 | `orangespatula.com` | No |
 | `orangestarsocial.com` | No |
 | `orani.co` | No |
+| `oranki.net` | Yes |
 | `oransns.com` | No |
 | `orapp.net` | Yes |
 | `orasi.io` | No |
@@ -46564,6 +46565,7 @@ Here's a list of public Fediverse services.
 | `tinykitten.me` | Yes |
 | `tinylad.social` | No |
 | `tinymst.xyz` | No |
+| `tinynews.org` | No |
 | `tinypod.org` | No |
 | `tinyrobots.pub` | No |
 | `tinysubversions.com` | No |
@@ -52734,8 +52736,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,049 |
-| Normal | 37,637 |
+| Cloudflare | 15,050 |
+| Normal | 37,638 |
 
 
 </details>
