@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,278 |
+| com | 8,281 |
 | social | 4,805 |
-| net | 4,092 |
+| net | 4,093 |
 | org | 2,725 |
 | de | 2,640 |
 
@@ -351,6 +351,7 @@ Here's a list of public Fediverse services.
 | `2-blog.net` | No |
 | `2000cho.me` | Yes |
 | `20011012.xyz` | Yes |
+| `200418.xyz` | Yes |
 | `2017derby.biz` | No |
 | `20320514.com` | No |
 | `204.jp` | Yes |
@@ -2253,6 +2254,7 @@ Here's a list of public Fediverse services.
 | `anarchistakozosseg.hu` | No |
 | `anarchmusicall.net` | No |
 | `anarchy-nomad.de` | No |
+| `anarchy.bg` | No |
 | `anarchy.center` | Yes |
 | `anarchy.land` | Yes |
 | `anarchy.moe` | No |
@@ -10300,6 +10302,7 @@ Here's a list of public Fediverse services.
 | `davralin.work` | Yes |
 | `davsgarage.com` | No |
 | `davydepauw.social` | No |
+| `daw50n.net` | No |
 | `dawdle.space` | Yes |
 | `dawdling.net` | No |
 | `dawidpotocki.com` | Yes |
@@ -10347,6 +10350,7 @@ Here's a list of public Fediverse services.
 | `dcmrobertson.com` | Yes |
 | `dcnh.cloud` | No |
 | `dcntr.org` | No |
+| `dcntrlzd.co` | No |
 | `dcomm.net.ua` | No |
 | `dcotta.eu` | Yes |
 | `dcr.pw` | Yes |
@@ -12904,6 +12908,7 @@ Here's a list of public Fediverse services.
 | `ellemef.com` | No |
 | `ellenburg.computer` | Yes |
 | `ellenburg.org` | Yes |
+| `ellenhp.me` | Yes |
 | `ellie.chat` | No |
 | `ellie.pet` | Yes |
 | `ellie.social` | No |
@@ -23330,6 +23335,7 @@ Here's a list of public Fediverse services.
 | `kessoku.club` | Yes |
 | `kestrelsnest.social` | No |
 | `kesuek.de` | No |
+| `ketanjoshi.co` | No |
 | `ketanvijayvargiya.com` | Yes |
 | `ketchupma.io` | No |
 | `ketenburhan.me` | No |
@@ -47153,6 +47159,7 @@ Here's a list of public Fediverse services.
 | `totse.tube` | No |
 | `tottoriscout.org` | No |
 | `toucans.social` | No |
+| `touchingdoodles.com` | No |
 | `toughcreator.com` | No |
 | `touha.me` | No |
 | `touhey.org` | No |
@@ -47675,6 +47682,7 @@ Here's a list of public Fediverse services.
 | `tsuruga.net` | No |
 | `tsuyabashi.dev` | No |
 | `tsuyure.net` | Yes |
+| `tsxs1.com` | No |
 | `tsyesika.se` | No |
 | `tta.wtf` | Yes |
 | `ttanimichi.com` | No |
@@ -49175,6 +49183,7 @@ Here's a list of public Fediverse services.
 | `vexingworkshop.com` | No |
 | `vfd-owl.de` | No |
 | `vffsm.de` | No |
+| `vfly2.com` | Yes |
 | `vforge.social` | No |
 | `vfosnar.cz` | No |
 | `vfpmedia.com` | No |
@@ -52722,8 +52731,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,045 |
-| Normal | 37,629 |
+| Cloudflare | 15,048 |
+| Normal | 37,635 |
 
 
 </details>
