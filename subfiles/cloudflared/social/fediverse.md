@@ -3570,7 +3570,7 @@ Here's a list of public Fediverse services.
 | `ausloos.kim` | Yes |
 | `ausmed.social` | No |
 | `ausnahmsweise.net` | No |
-| `auspol.cafe` | Yes |
+| `auspol.cafe` | No |
 | `ausretrogamer.com` | No |
 | `ausrineblackthorn.com` | No |
 | `aussie-bbq.com` | No |
@@ -27665,7 +27665,7 @@ Here's a list of public Fediverse services.
 | `masto.host` | No |
 | `masto.hr` | No |
 | `masto.id` | No |
-| `masto.ink` | No |
+| `masto.ink` | Yes |
 | `masto.io` | No |
 | `masto.la` | No |
 | `masto.land` | No |
@@ -34251,6 +34251,7 @@ Here's a list of public Fediverse services.
 | `openrealm.org` | No |
 | `openrightsgroup.org` | No |
 | `openrpg.de` | No |
+| `opens.science` | No |
 | `opensalon.social` | No |
 | `openshare.me` | No |
 | `openshell.no` | No |
@@ -52739,7 +52740,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,051 |
-| Normal | 37,639 |
+| Normal | 37,640 |
 
 
 </details>
