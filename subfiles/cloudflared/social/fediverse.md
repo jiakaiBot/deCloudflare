@@ -41067,7 +41067,7 @@ Here's a list of public Fediverse services.
 | `selbstlernserver.de` | No |
 | `selden.page` | No |
 | `seldo.dev` | No |
-| `selea.se` | No |
+| `selea.se` | Yes |
 | `selectallfromdual.com` | No |
 | `seledreams.com` | No |
 | `selenian.space` | No |
@@ -44122,6 +44122,7 @@ Here's a list of public Fediverse services.
 | `suffix.be` | No |
 | `suffix.cloud` | No |
 | `suffocating.org` | No |
+| `sufl.dev` | Yes |
 | `suganthan.social` | No |
 | `sugar-free-jazz.com` | No |
 | `sugar.dad` | Yes |
@@ -50973,7 +50974,7 @@ Here's a list of public Fediverse services.
 | `wptoots.social` | No |
 | `wpwatercooler.com` | Yes |
 | `wq64.net` | No |
-| `wr.ci` | Yes |
+| `wr.ci` | No |
 | `wrannek.de` | No |
 | `wrannek.me` | No |
 | `wrasstodon.pro` | No |
@@ -52723,7 +52724,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,045 |
+| Cloudflare | 15,046 |
 | Normal | 37,630 |
 
 
