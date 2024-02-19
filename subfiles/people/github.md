@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Custom Fields translation](https://github.com/freescout-helpdesk/freescout/issues/3804)
+- [The search stopped working](https://github.com/freescout-helpdesk/freescout/issues/3803)
 - [Cloudflare proxy support](https://github.com/zitadel/terraform-provider-zitadel/issues/159)
 - [Cannot Get Domain Working with + Soft-Serve Docker](https://github.com/charmbracelet/soft-serve/issues/477)
 - [As of latest update SmartThings integration no longer works](https://github.com/home-assistant/core/issues/110893)
