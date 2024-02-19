@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,281 |
 | social | 4,806 |
 | net | 4,095 |
-| org | 2,726 |
+| org | 2,727 |
 | de | 2,641 |
 
 
@@ -32411,6 +32411,7 @@ Here's a list of public Fediverse services.
 | `nien.house` | Yes |
 | `nieuwspaal.nl` | Yes |
 | `nieuwwestbrabant.nl` | No |
+| `niflheim.monster` | No |
 | `niflheim.social` | No |
 | `nifty-moose.com` | No |
 | `nifty.cc` | No |
@@ -33900,6 +33901,7 @@ Here's a list of public Fediverse services.
 | `olchis.net` | No |
 | `olcy.fr` | No |
 | `old-home.faith` | No |
+| `old-home.org` | No |
 | `oldb.social` | No |
 | `oldbytes.space` | No |
 | `oldcoder.org` | No |
@@ -52743,7 +52745,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,050 |
-| Normal | 37,644 |
+| Normal | 37,646 |
 
 
 </details>
