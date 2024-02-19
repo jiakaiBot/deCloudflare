@@ -30070,6 +30070,7 @@ Here's a list of public Fediverse services.
 | `momoiro9.ro` | No |
 | `momok.xyz` | Yes |
 | `momose.org` | No |
+| `momostr.pink` | Yes |
 | `momoyo.digital` | No |
 | `mon-desu.com` | No |
 | `mona.do` | Yes |
@@ -52762,7 +52763,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,064 |
+| Cloudflare | 15,065 |
 | Normal | 37,650 |
 
 
