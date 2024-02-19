@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,805 |
 | net | 4,095 |
 | org | 2,726 |
-| de | 2,640 |
+| de | 2,641 |
 
 
 - Mastodon, Pleroma, etc
@@ -27065,6 +27065,7 @@ Here's a list of public Fediverse services.
 | `mailcow.social` | No |
 | `maildog.ru` | No |
 | `maildoggo.net` | No |
+| `mailgourmet.de` | No |
 | `maillard.im` | No |
 | `mailpace.com` | Yes |
 | `mailpile.is` | No |
@@ -52740,7 +52741,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,051 |
-| Normal | 37,640 |
+| Normal | 37,641 |
 
 
 </details>
