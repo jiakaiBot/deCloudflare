@@ -29450,6 +29450,7 @@ Here's a list of public Fediverse services.
 | `minimalistedtech.org` | No |
 | `minimally.online` | No |
 | `minimalstate.dev` | No |
+| `minimarimo3.jp` | No |
 | `minimeadow.art` | No |
 | `minimmill.com` | No |
 | `minin0la.xyz` | Yes |
@@ -52745,7 +52746,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,050 |
-| Normal | 37,646 |
+| Normal | 37,647 |
 
 
 </details>
