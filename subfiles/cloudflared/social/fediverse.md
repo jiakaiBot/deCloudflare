@@ -23881,6 +23881,7 @@ Here's a list of public Fediverse services.
 | `knthost.com` | No |
 | `kntnr.wtf` | Yes |
 | `knubbel.me` | No |
+| `knucklebones.rip` | No |
 | `knusdem.nu` | No |
 | `knuspel.eu` | Yes |
 | `knusper-land.de` | Yes |
@@ -52746,7 +52747,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,050 |
-| Normal | 37,647 |
+| Normal | 37,648 |
 
 
 </details>
