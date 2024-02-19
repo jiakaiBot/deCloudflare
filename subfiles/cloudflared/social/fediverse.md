@@ -44650,6 +44650,7 @@ Here's a list of public Fediverse services.
 | `syui.cf` | Yes |
 | `syui.ml` | No |
 | `syuilo.dev` | Yes |
+| `syuilo.moe` | No |
 | `syukuma.net` | Yes |
 | `syum.ai` | Yes |
 | `syundo.org` | No |
@@ -52766,7 +52767,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,065 |
-| Normal | 37,652 |
+| Normal | 37,653 |
 
 
 </details>
