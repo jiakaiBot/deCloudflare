@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,281 |
-| social | 4,805 |
+| social | 4,806 |
 | net | 4,095 |
 | org | 2,726 |
 | de | 2,641 |
@@ -26613,7 +26613,7 @@ Here's a list of public Fediverse services.
 | `lumos.network` | No |
 | `lumpen.work` | No |
 | `lumpen.world` | No |
-| `lumpen.xyz` | Yes |
+| `lumpen.xyz` | No |
 | `luna.fyi` | No |
 | `luna.social` | No |
 | `luna.town` | No |
@@ -30132,6 +30132,7 @@ Here's a list of public Fediverse services.
 | `monolith-rave.xyz` | No |
 | `monolith.social` | No |
 | `monomarchos.agency` | No |
+| `monospacedmagic.dev` | Yes |
 | `monotremata.xyz` | No |
 | `monotropa-satellite.social` | No |
 | `monotropism.org` | No |
@@ -32343,6 +32344,7 @@ Here's a list of public Fediverse services.
 | `nichipon.com` | No |
 | `nicholson.is` | No |
 | `nicholson.social` | Yes |
+| `nicht-so.social` | No |
 | `nickbell.uk` | Yes |
 | `nickbohle.de` | No |
 | `nickbuilds.net` | Yes |
@@ -51323,7 +51325,7 @@ Here's a list of public Fediverse services.
 | `xinghaizhandui.com` | No |
 | `xinglili.love` | Yes |
 | `xingxing.digital` | No |
-| `xinsto.xyz` | Yes |
+| `xinsto.xyz` | No |
 | `xinu.me` | No |
 | `xinyang.life` | Yes |
 | `xion.social` | Yes |
@@ -52740,8 +52742,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,051 |
-| Normal | 37,641 |
+| Cloudflare | 15,050 |
+| Normal | 37,644 |
 
 
 </details>
