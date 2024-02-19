@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,281 |
 | social | 4,807 |
-| net | 4,098 |
-| org | 2,729 |
+| net | 4,099 |
+| org | 2,730 |
 | de | 2,641 |
 
 
@@ -3614,7 +3614,7 @@ Here's a list of public Fediverse services.
 | `auto.coffee` | No |
 | `autobild.bg` | No |
 | `autobots.run` | Yes |
-| `autochthonia.net` | No |
+| `autochthonia.net` | Yes |
 | `autogeree.net` | No |
 | `autogestion.org` | No |
 | `autogestioncitoyenne.org` | No |
@@ -13461,6 +13461,7 @@ Here's a list of public Fediverse services.
 | `esp.nl` | No |
 | `espace.si` | No |
 | `esparrec.ml` | No |
+| `esparrec.net` | Yes |
 | `especiallyrelative.net` | No |
 | `espectro.observer` | Yes |
 | `espeech.org` | No |
@@ -29340,7 +29341,7 @@ Here's a list of public Fediverse services.
 | `millcrick.social` | No |
 | `millefeuilles.cloud` | Yes |
 | `milleiro.com` | No |
-| `millenium.red` | No |
+| `millenium.red` | Yes |
 | `millennial.space` | No |
 | `millennials.social` | No |
 | `miller.cm` | Yes |
@@ -37517,6 +37518,7 @@ Here's a list of public Fediverse services.
 | `pyry.me` | Yes |
 | `pyscript.social` | No |
 | `pythia.cloud` | No |
+| `python-gsoc.org` | No |
 | `python-podcast.de` | No |
 | `python.it` | Yes |
 | `python.szkola.pl` | No |
@@ -52756,8 +52758,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,052 |
-| Normal | 37,656 |
+| Cloudflare | 15,055 |
+| Normal | 37,655 |
 
 
 </details>
