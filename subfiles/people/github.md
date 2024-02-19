@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CI: checking dead links hits bot detection or similar](https://github.com/FuelLabs/fuel-specs/issues/547)
 - [nginx reload each hour](https://github.com/ZoeyVid/NPMplus/issues/656)
 - [Custom Fields translation](https://github.com/freescout-helpdesk/freescout/issues/3804)
 - [The search stopped working](https://github.com/freescout-helpdesk/freescout/issues/3803)
