@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,281 |
+| com | 8,283 |
 | social | 4,807 |
 | net | 4,099 |
 | org | 2,730 |
@@ -1256,7 +1256,7 @@ Here's a list of public Fediverse services.
 | `adhocon.com` | No |
 | `adhs.page` | Yes |
 | `adida.net` | No |
-| `adinfinitum.social` | No |
+| `adinfinitum.social` | Yes |
 | `adistance.tk` | No |
 | `adit.casa` | No |
 | `adju.st` | Yes |
@@ -2853,6 +2853,7 @@ Here's a list of public Fediverse services.
 | `arbolitoloco.xyz` | Yes |
 | `arc.sh` | Yes |
 | `arcade.ooo` | No |
+| `arcadellama.com` | Yes |
 | `arcades.agency` | Yes |
 | `arcadia.video` | No |
 | `arcadiaroad.com` | No |
@@ -17659,7 +17660,7 @@ Here's a list of public Fediverse services.
 | `gosia.lol` | No |
 | `goslar.social` | No |
 | `gosocial.au` | Yes |
-| `gosocial.click` | No |
+| `gosocial.click` | Yes |
 | `gossler.family` | No |
 | `gostomski.co.uk` | No |
 | `gosuslugi.social` | Yes |
@@ -20299,7 +20300,7 @@ Here's a list of public Fediverse services.
 | `idw.zone` | No |
 | `idyllic.dev` | Yes |
 | `idyllisch.monster` | Yes |
-| `idyllische.monster` | No |
+| `idyllische.monster` | Yes |
 | `idylls.net` | No |
 | `idzerda.dev` | Yes |
 | `ie9.org` | Yes |
@@ -20442,6 +20443,7 @@ Here's a list of public Fediverse services.
 | `illum.dev` | Yes |
 | `illuminada.io` | No |
 | `illuminati.org` | No |
+| `illumos.am` | No |
 | `illuneko.com` | Yes |
 | `illusionfxnet.com` | Yes |
 | `illusory.ink` | No |
@@ -23379,6 +23381,7 @@ Here's a list of public Fediverse services.
 | `kevinweirauch.com` | No |
 | `kevinwhalen.me` | No |
 | `kevinwhalen.org` | No |
+| `kevinwherron.com` | No |
 | `kevinyank.com` | No |
 | `kevitprojects.com` | Yes |
 | `kevjack.eu` | No |
@@ -26676,7 +26679,7 @@ Here's a list of public Fediverse services.
 | `lust4love.eu.org` | Yes |
 | `lustaufleben.at` | No |
 | `lustigetiernamenbubble.de` | Yes |
-| `lustli.online` | No |
+| `lustli.online` | Yes |
 | `luther.social` | No |
 | `lutoma.org` | No |
 | `lutra-it.eu` | No |
@@ -39991,7 +39994,7 @@ Here's a list of public Fediverse services.
 | `saas.yachts` | Yes |
 | `saastisfy.com` | No |
 | `saastodon.social` | Yes |
-| `saasycloud.social` | No |
+| `saasycloud.social` | Yes |
 | `saatanantunar.it` | No |
 | `saayaa.space` | No |
 | `saba.run` | Yes |
@@ -49361,7 +49364,7 @@ Here's a list of public Fediverse services.
 | `vincode.io` | No |
 | `vindelicum.eu` | No |
 | `vindi.ca` | Yes |
-| `vinegarinn.studio` | No |
+| `vinegarinn.studio` | Yes |
 | `vinerivisions.com` | No |
 | `vinilox.eu` | No |
 | `vino.blue` | Yes |
@@ -52758,8 +52761,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,055 |
-| Normal | 37,655 |
+| Cloudflare | 15,062 |
+| Normal | 37,651 |
 
 
 </details>
