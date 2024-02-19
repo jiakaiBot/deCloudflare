@@ -27084,7 +27084,7 @@ Here's a list of public Fediverse services.
 | `maindreieck-tv.de` | No |
 | `maindron.io` | No |
 | `mainesocial.xyz` | No |
-| `mainframe.club` | No |
+| `mainframe.club` | Yes |
 | `mainframe.community` | Yes |
 | `mainframesociety.com` | Yes |
 | `mainichi.social` | No |
@@ -36183,6 +36183,7 @@ Here's a list of public Fediverse services.
 | `pixie.garden` | No |
 | `pixie.town` | No |
 | `pixificial.xyz` | No |
+| `pixl.fi` | Yes |
 | `pixlb.de` | No |
 | `pixodes.com` | No |
 | `pixopat.social` | No |
@@ -52761,8 +52762,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,062 |
-| Normal | 37,651 |
+| Cloudflare | 15,064 |
+| Normal | 37,650 |
 
 
 </details>
