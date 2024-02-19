@@ -4662,6 +4662,7 @@ Do not create new issue or we will close it as duplicate.
 | [guguxmeong@X](https://twitter.com/guguxmeong/status/1729050519212327039) | advertise |
 | [Guide10498925@X](https://twitter.com/Guide10498925/status/1553106103126200323) | advertise |
 | [Guiltyklab@X](https://twitter.com/Guiltyklab/status/1550137506489778176) | advertise |
+| [guiyumin@X](https://twitter.com/guiyumin/status/1759475861697519825) | advertise |
 | [gujzlar@X](https://twitter.com/gujzlar/status/1386371400739352578) | advertise |
 | [GuKa53117269@X](https://twitter.com/GuKa53117269/status/1492047858501296128) | advertise |
 | [gulumkar_a50025@X](https://twitter.com/gulumkar_a50025/status/1687389036917211136) | advertise |
