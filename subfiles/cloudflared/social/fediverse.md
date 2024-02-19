@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,281 |
-| social | 4,806 |
-| net | 4,096 |
-| org | 2,727 |
+| social | 4,807 |
+| net | 4,098 |
+| org | 2,729 |
 | de | 2,641 |
 
 
@@ -8014,6 +8014,7 @@ Here's a list of public Fediverse services.
 | `clearly.rocks` | Yes |
 | `clearpilled.lgbt` | No |
 | `clearpixels.org` | Yes |
+| `clearwayzen.ca` | No |
 | `cleary.au` | No |
 | `cleasky.blue` | No |
 | `cleave.nz` | Yes |
@@ -32635,6 +32636,7 @@ Here's a list of public Fediverse services.
 | `nkantar.social` | No |
 | `nkb.fr` | No |
 | `nkb.moe` | No |
+| `nkcmr.net` | Yes |
 | `nkmi.cc` | No |
 | `nksm.in.net` | No |
 | `nku.ovh` | No |
@@ -33920,6 +33922,7 @@ Here's a list of public Fediverse services.
 | `oldr.uk` | Yes |
 | `olds.town` | No |
 | `oldschool.community` | No |
+| `oldstyle-project.org` | No |
 | `oldtr.uk` | Yes |
 | `oldyellowhouse.se` | No |
 | `ole.md` | Yes |
@@ -39764,6 +39767,7 @@ Here's a list of public Fediverse services.
 | `rule-of-three.club` | No |
 | `ruleit.stream` | No |
 | `rulix.info` | No |
+| `rulla.net` | No |
 | `rulook.net` | Yes |
 | `rumbly.net` | No |
 | `rumia.tk` | Yes |
@@ -41990,6 +41994,7 @@ Here's a list of public Fediverse services.
 | `siru.tokyo` | Yes |
 | `sirward.com` | No |
 | `sisao.de` | No |
+| `sisifilmcollective.org` | No |
 | `siskinsocial.me` | No |
 | `sissom.net` | No |
 | `sisters.pink` | No |
@@ -48536,6 +48541,7 @@ Here's a list of public Fediverse services.
 | `unnoted.xyz` | No |
 | `unnovae.net` | No |
 | `uno.today` | No |
+| `unocha.social` | No |
 | `unooverse.com` | No |
 | `unordentlich.space` | No |
 | `unorder.xyz` | No |
@@ -51145,6 +51151,7 @@ Here's a list of public Fediverse services.
 | `wyndix.dev` | No |
 | `wyngraphs.com` | No |
 | `wynning.tech` | Yes |
+| `wynnwyrm.cyou` | No |
 | `wyomingfriendfinder.com` | No |
 | `wyomingjarbo.com` | Yes |
 | `wyrd.social` | No |
@@ -52749,8 +52756,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,051 |
-| Normal | 37,650 |
+| Cloudflare | 15,052 |
+| Normal | 37,656 |
 
 
 </details>
