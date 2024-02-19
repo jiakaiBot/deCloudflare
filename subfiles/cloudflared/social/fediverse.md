@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,281 |
 | social | 4,806 |
-| net | 4,095 |
+| net | 4,096 |
 | org | 2,727 |
 | de | 2,641 |
 
@@ -40760,6 +40760,7 @@ Here's a list of public Fediverse services.
 | `scottfr.ee` | Yes |
 | `scottishlad.me.uk` | No |
 | `scottkf.xyz` | No |
+| `scottkra.us` | No |
 | `scottlabs.io` | Yes |
 | `scottmallinson.com` | Yes |
 | `scottmorrison.net` | No |
@@ -47958,6 +47959,7 @@ Here's a list of public Fediverse services.
 | `twinkaga.in` | No |
 | `twinksonly.club` | No |
 | `twinports.us` | No |
+| `twintense.net` | No |
 | `twipo.net` | No |
 | `twipped.social` | No |
 | `twirper.com` | No |
@@ -50097,6 +50099,7 @@ Here's a list of public Fediverse services.
 | `web3music.land` | No |
 | `web4.us` | No |
 | `web4u.jp` | No |
+| `webaard.nl` | Yes |
 | `webair.xyz` | No |
 | `webalpen.de` | No |
 | `webarch.org.uk` | No |
@@ -52746,8 +52749,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,050 |
-| Normal | 37,648 |
+| Cloudflare | 15,051 |
+| Normal | 37,650 |
 
 
 </details>
