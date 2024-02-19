@@ -14201,6 +14201,7 @@ Do not create new issue or we will close it as duplicate.
 | [TianekoLy@X](https://twitter.com/TianekoLy/status/1659265952372989974) | advertise |
 | [TianXiaDiYi8888@X](https://twitter.com/TianXiaDiYi8888/status/1532010863649263616) | advertise |
 | [TiBi_Tzuyu@X](https://twitter.com/TiBi_Tzuyu/status/1401756577011408900) | advertise |
+| [TickoGray@X](https://twitter.com/TickoGray/status/1759442129427001528) | advertise |
 | [tidatidaeiei@X](https://twitter.com/tidatidaeiei/status/1552580057591214080) | advertise |
 | [tieanngame29651@X](https://twitter.com/tieanngame29651/status/1743304742435164658) | advertise |
 | [TielureepiraTOR@X](https://twitter.com/TielureepiraTOR/status/1723117881120944614) | advertise |
