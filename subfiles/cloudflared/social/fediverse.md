@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,283 |
+| com | 8,284 |
 | social | 4,807 |
 | net | 4,099 |
 | org | 2,730 |
@@ -1395,7 +1395,7 @@ Here's a list of public Fediverse services.
 | `affinityforest.com` | No |
 | `affixed.art` | No |
 | `afghan.social` | No |
-| `afhub.dev` | Yes |
+| `afhub.dev` | No |
 | `afix.space` | No |
 | `afk.social` | Yes |
 | `afn.social` | No |
@@ -8003,6 +8003,7 @@ Here's a list of public Fediverse services.
 | `claycord.social` | No |
 | `clayt.in` | No |
 | `clayto.com` | Yes |
+| `claytonerrington.com` | Yes |
 | `clazy.org` | No |
 | `clb92.xyz` | No |
 | `clc.plus` | No |
@@ -52764,7 +52765,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,065 |
-| Normal | 37,650 |
+| Normal | 37,651 |
 
 
 </details>
