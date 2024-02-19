@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,284 |
 | social | 4,807 |
-| net | 4,099 |
+| net | 4,100 |
 | org | 2,730 |
 | de | 2,641 |
 
@@ -31321,6 +31321,7 @@ Here's a list of public Fediverse services.
 | `n0.is` | No |
 | `n0.social` | Yes |
 | `n00b.fr` | No |
+| `n00q.net` | No |
 | `n07070.xyz` | No |
 | `n0budget.com` | No |
 | `n0g.de` | No |
@@ -52765,7 +52766,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,065 |
-| Normal | 37,651 |
+| Normal | 37,652 |
 
 
 </details>
