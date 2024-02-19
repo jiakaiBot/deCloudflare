@@ -12643,6 +12643,7 @@ Do not create new issue or we will close it as duplicate.
 | [seospecialistrk@X](https://twitter.com/seospecialistrk/status/1391178243244380164) | advertise |
 | [Sep19810@X](https://twitter.com/Sep19810/status/1403778268524806144) | advertise |
 | [sepehrmohaghegh@X](https://twitter.com/sepehrmohaghegh/status/1577881648506576898) | advertise |
+| [sepisoad@X](https://twitter.com/sepisoad/status/1759339913940480172) | advertise |
 | [septicloneduap1@X](https://twitter.com/septicloneduap1/status/1587472034212515840) | advertise |
 | [SERAJPUBG7@X](https://twitter.com/SERAJPUBG7/status/1606858784835502080) | advertise |
 | [Seraphino2021@X](https://twitter.com/Seraphino2021/status/1391001738505637893) | advertise |
