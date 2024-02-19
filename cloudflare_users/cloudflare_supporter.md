@@ -16332,6 +16332,7 @@ Do not create new issue or we will close it as duplicate.
 | [_shouth@X](https://twitter.com/_shouth/status/1686787487187054594) | advertise |
 | [_Sumitha_@X](https://twitter.com/_Sumitha_/status/1508090635131420678) | advertise |
 | [_TheIdealMan@X](https://twitter.com/_TheIdealMan/status/1585269975996137472) | advertise |
+| [_TheLostMoon@X](https://twitter.com/_TheLostMoon/status/1759324445788008920) | advertise |
 | [_TheyLuvAng@X](https://twitter.com/_TheyLuvAng/status/1598188075209076736) | advertise |
 | [_tonygaeta@X](https://twitter.com/_tonygaeta/status/1646243957947375618) | advertise |
 | [_UmmuUmairah_@X](https://twitter.com/_UmmuUmairah_/status/1394222981342060544) | advertise |
