@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,288 |
 | social | 4,809 |
 | net | 4,101 |
-| org | 2,733 |
+| org | 2,734 |
 | de | 2,645 |
 
 
@@ -18644,7 +18644,7 @@ Here's a list of public Fediverse services.
 | `harry.cat` | No |
 | `harryet.social` | Yes |
 | `harrykantas.com` | Yes |
-| `harrystyl.es` | Yes |
+| `harrystyl.es` | No |
 | `harshadsharma.com` | No |
 | `harshnoise.club` | No |
 | `harter.us` | Yes |
@@ -25460,6 +25460,7 @@ Here's a list of public Fediverse services.
 | `levallo.is` | No |
 | `levallois.social` | No |
 | `levant.social` | No |
+| `level-up.zone` | No |
 | `level8tech.com` | Yes |
 | `level99.club` | No |
 | `levelxstudios.live` | No |
@@ -34900,6 +34901,7 @@ Here's a list of public Fediverse services.
 | `p2w.social` | Yes |
 | `p3n.cc` | No |
 | `p3n.pw` | No |
+| `p3nguin.org` | No |
 | `p3x.de` | No |
 | `p45.nl` | No |
 | `p4g.club` | Yes |
@@ -52791,8 +52793,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,072 |
-| Normal | 37,671 |
+| Cloudflare | 15,071 |
+| Normal | 37,674 |
 
 
 </details>
