@@ -20828,6 +20828,7 @@ Here's a list of public Fediverse services.
 | `inked.social` | No |
 | `inkgenious.ml` | No |
 | `inkladde.blog` | No |
+| `inkling.moe` | No |
 | `inkling.social` | Yes |
 | `inkommit.com` | No |
 | `inkopolis.cafe` | No |
@@ -45293,7 +45294,7 @@ Here's a list of public Fediverse services.
 | `techopolis.social` | Yes |
 | `techotakugamerz.com` | No |
 | `techpolicy.social` | No |
-| `techporn.club` | Yes |
+| `techporn.club` | No |
 | `techpriesthub.xyz` | Yes |
 | `techrekt.com` | Yes |
 | `techromancer.club` | No |
@@ -52349,6 +52350,7 @@ Here's a list of public Fediverse services.
 | `zatta.dev` | No |
 | `zaunspringer.de` | No |
 | `zaveryn.gay` | No |
+| `zawieruszony.blog` | No |
 | `zazamankh.com` | No |
 | `zb-server.de` | Yes |
 | `zb3.org` | Yes |
@@ -52796,8 +52798,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,071 |
-| Normal | 37,677 |
+| Cloudflare | 15,070 |
+| Normal | 37,680 |
 
 
 </details>
