@@ -75,6 +75,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | data.haus | No |
 | datahata.by | No |
 | daw.dev | No |
+| dekedin.me | No |
 | despagne.net | No |
 | digitaladapt.com | Yes |
 | digitale-gesellschaft.ch | No |
@@ -297,7 +298,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 147 |
-| Normal | 130 |
+| Normal | 131 |
 
 
-### 53.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
