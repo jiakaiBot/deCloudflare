@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare workers are missing process.env](https://github.com/e2b-dev/E2B/issues/315)
 - [The Cloudflare 'Verify you are human' button not found on the page.](https://github.com/FlareSolverr/FlareSolverr/issues/1079)
 - [Prisma doesn't work in the Cloudflare Miniflare 2 Jest test environment](https://github.com/prisma/prisma/issues/23193)
 - [CI: checking dead links hits bot detection or similar](https://github.com/FuelLabs/fuel-specs/issues/547)
