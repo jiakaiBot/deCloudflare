@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [MySQL configuration error during installation](https://github.com/freescout-helpdesk/freescout/issues/3807)
 - [How send Mail to Postbox if contact widget is submitted](https://github.com/freescout-helpdesk/freescout/issues/3806)
 - [A failure in the SSL library occurred: X509_V_ERR_CERT_HAS_EXPIRED](https://github.com/fukamachi/qlot/issues/234)
 - [Cloudflare workers are missing process.env](https://github.com/e2b-dev/E2B/issues/315)
