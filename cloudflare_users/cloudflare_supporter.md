@@ -11728,6 +11728,7 @@ Do not create new issue or we will close it as duplicate.
 | [radio7toronto@X](https://twitter.com/radio7toronto/status/1512422850833133572) | advertise |
 | [radithyaputra@X](https://twitter.com/radithyaputra/status/1642274476514758664) | advertise |
 | [radityoarifn@X](https://twitter.com/radityoarifn/status/1600883998162812928) | advertise |
+| [radoslavhusar@X](https://twitter.com/radoslavhusar/status/1759712095745044545) | advertise |
 | [radpaluszak@X](https://twitter.com/radpaluszak/status/1398323773435265028) | advertise |
 | [radrohamymailc1@X](https://twitter.com/radrohamymailc1/status/1494955192973942785) | advertise |
 | [radthebad007@X](https://twitter.com/radthebad007/status/1395685973443452929) | advertise |
