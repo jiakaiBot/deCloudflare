@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error returned from Supervisor: System is not ready with state: setup](https://github.com/home-assistant/supervisor/issues/4907)
+- [SR routing issue around dynamic and static-dynamic routes in the same directory causes unexpected route matching](https://github.com/withastro/astro/issues/10173)
 - [Timeout for all solving attempts](https://github.com/FlareSolverr/FlareSolverr/issues/1082)
 - [MySQL configuration error during installation](https://github.com/freescout-helpdesk/freescout/issues/3807)
 - [How send Mail to Postbox if contact widget is submitted](https://github.com/freescout-helpdesk/freescout/issues/3806)
