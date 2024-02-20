@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,808 |
 | net | 4,100 |
 | org | 2,730 |
-| de | 2,642 |
+| de | 2,643 |
 
 
 - Mastodon, Pleroma, etc
@@ -13316,7 +13316,7 @@ Here's a list of public Fediverse services.
 | `equinux.social` | No |
 | `equt.social` | Yes |
 | `eqver.se` | No |
-| `era.social` | Yes |
+| `era.social` | No |
 | `erabo.de` | No |
 | `eradicatinglove.xyz` | Yes |
 | `eragon.re` | No |
@@ -16522,6 +16522,7 @@ Here's a list of public Fediverse services.
 | `gallifrey.social` | Yes |
 | `gallinula.com` | No |
 | `gallion.sh` | No |
+| `gallwiese.de` | No |
 | `galm.io` | No |
 | `galooph.com` | No |
 | `galumph.com` | No |
@@ -24571,7 +24572,7 @@ Here's a list of public Fediverse services.
 | `l2d2.de` | No |
 | `l33t.city` | Yes |
 | `l33t.codes` | Yes |
-| `l33t.link` | Yes |
+| `l33t.link` | No |
 | `l3ib.org` | No |
 | `l3mmy.com` | Yes |
 | `l3r.me` | No |
@@ -29468,6 +29469,7 @@ Here's a list of public Fediverse services.
 | `mininull.com` | Yes |
 | `minionflo.net` | No |
 | `minions.social` | No |
+| `minipaint.ing` | No |
 | `minish.org` | No |
 | `miniskey.com` | Yes |
 | `ministeriumfuerinternet.de` | No |
@@ -31843,6 +31845,7 @@ Here's a list of public Fediverse services.
 | `nekoport.com` | No |
 | `nekoruri.dev` | Yes |
 | `nekoruri.jp` | No |
+| `nekos.cloud` | Yes |
 | `nekos.io` | No |
 | `nekos.one` | Yes |
 | `nekos.us` | Yes |
@@ -52769,8 +52772,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,065 |
-| Normal | 37,656 |
+| Cloudflare | 15,064 |
+| Normal | 37,660 |
 
 
 </details>
