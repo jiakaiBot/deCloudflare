@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,284 |
-| social | 4,807 |
+| social | 4,808 |
 | net | 4,100 |
 | org | 2,730 |
-| de | 2,641 |
+| de | 2,642 |
 
 
 - Mastodon, Pleroma, etc
@@ -2615,7 +2615,7 @@ Here's a list of public Fediverse services.
 | `antisocial.dk` | No |
 | `antisocial.ly` | No |
 | `antisocial.science` | Yes |
-| `antisocial.zone` | Yes |
+| `antisocial.zone` | No |
 | `antisocialsocialnetwork.it` | No |
 | `antispecisme.net` | No |
 | `antiterf.club` | No |
@@ -14205,6 +14205,7 @@ Here's a list of public Fediverse services.
 | `fbxl.net` | No |
 | `fc2.page` | No |
 | `fckmsk.social` | No |
+| `fcktrmp.xyz` | No |
 | `fcourtois.net` | No |
 | `fctu.win` | Yes |
 | `fd-ag.de` | No |
@@ -22124,6 +22125,7 @@ Here's a list of public Fediverse services.
 | `jling.dev` | Yes |
 | `jlinuxer.org` | Yes |
 | `jliu.xyz` | Yes |
+| `jlkj.de` | No |
 | `jlm.name` | No |
 | `jln.io` | No |
 | `jlperidot.com` | No |
@@ -50255,6 +50257,7 @@ Here's a list of public Fediverse services.
 | `weirds.org` | Yes |
 | `weirdstar.stream` | No |
 | `weirdwords.org` | No |
+| `weirwood.social` | Yes |
 | `weisensee.me` | No |
 | `weiser.social` | No |
 | `weisnix.social` | No |
@@ -52767,7 +52770,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,065 |
-| Normal | 37,653 |
+| Normal | 37,656 |
 
 
 </details>
