@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Grafana Cloud Support](https://github.com/Altinity/clickhouse-grafana/issues/516)
+- [USACO submissions are broken](https://github.com/cpinitiative/ide/issues/138)
 - [Error returned from Supervisor: System is not ready with state: setup](https://github.com/home-assistant/supervisor/issues/4907)
 - [SR routing issue around dynamic and static-dynamic routes in the same directory causes unexpected route matching](https://github.com/withastro/astro/issues/10173)
 - [Timeout for all solving attempts](https://github.com/FlareSolverr/FlareSolverr/issues/1082)
