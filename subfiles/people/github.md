@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [TypeError: getPlatformProxy is not a function](https://github.com/remix-run/remix/issues/8811)
 - [Grafana Cloud Support](https://github.com/Altinity/clickhouse-grafana/issues/516)
 - [USACO submissions are broken](https://github.com/cpinitiative/ide/issues/138)
 - [Error returned from Supervisor: System is not ready with state: setup](https://github.com/home-assistant/supervisor/issues/4907)
