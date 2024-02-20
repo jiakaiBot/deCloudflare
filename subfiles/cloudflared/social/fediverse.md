@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,290 |
 | social | 4,809 |
-| net | 4,101 |
+| net | 4,102 |
 | org | 2,734 |
 | de | 2,645 |
 
@@ -5095,6 +5095,7 @@ Here's a list of public Fediverse services.
 | `bitfolk.com` | No |
 | `bitforged.social` | Yes |
 | `bitforged.space` | Yes |
+| `bitforged.stream` | Yes |
 | `bitfroest.cloud` | No |
 | `bitfrost.gg` | No |
 | `bitfudge.com` | Yes |
@@ -7926,6 +7927,7 @@ Here's a list of public Fediverse services.
 | `citw.lgbt` | Yes |
 | `city-of-glass.net` | No |
 | `city17.online` | No |
+| `citycountry.town` | No |
 | `citydweller.social` | No |
 | `cityfellas.com` | Yes |
 | `cityofchicago.live` | No |
@@ -19844,7 +19846,7 @@ Here's a list of public Fediverse services.
 | `htcraft.ml` | Yes |
 | `htcwowdev.com` | No |
 | `html-curiositi.es` | No |
-| `html5accessibility.com` | No |
+| `html5accessibility.com` | Yes |
 | `htmt41.com` | No |
 | `htotw.com` | Yes |
 | `htp.live` | No |
@@ -33803,6 +33805,7 @@ Here's a list of public Fediverse services.
 | `oflosky.com` | Yes |
 | `ofm.bar` | No |
 | `ofmd.social` | No |
+| `ofplayers.net` | No |
 | `ofraglapis.net` | No |
 | `oft.social` | Yes |
 | `ofthe.top` | No |
@@ -52798,8 +52801,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,070 |
-| Normal | 37,680 |
+| Cloudflare | 15,072 |
+| Normal | 37,681 |
 
 
 </details>
