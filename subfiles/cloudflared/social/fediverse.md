@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,284 |
+| com | 8,285 |
 | social | 4,808 |
 | net | 4,100 |
 | org | 2,730 |
@@ -12776,6 +12776,7 @@ Here's a list of public Fediverse services.
 | `ekkoklang.xyz` | Yes |
 | `eklundhome.com` | No |
 | `ekoms.top` | No |
+| `ekosystems.fr` | No |
 | `eksb.net` | No |
 | `eksp.at` | Yes |
 | `ekurea.net` | Yes |
@@ -22586,6 +22587,7 @@ Here's a list of public Fediverse services.
 | `jungley.net` | Yes |
 | `juni.tube` | No |
 | `junia.social` | No |
+| `junimo.party` | No |
 | `juniorjpdj.pl` | No |
 | `junk.rs` | No |
 | `junkbox69.online` | No |
@@ -39409,6 +39411,7 @@ Here's a list of public Fediverse services.
 | `roflblog.net` | Yes |
 | `roflcopter.fr` | No |
 | `rogafe.pw` | No |
+| `rogbone.com` | No |
 | `roger.family` | Yes |
 | `rogers-net.com` | Yes |
 | `rogers.plus` | No |
@@ -52773,7 +52776,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,064 |
-| Normal | 37,660 |
+| Normal | 37,663 |
 
 
 </details>
