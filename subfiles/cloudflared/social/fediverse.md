@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,285 |
+| com | 8,286 |
 | social | 4,808 |
 | net | 4,100 |
 | org | 2,730 |
@@ -17953,6 +17953,7 @@ Here's a list of public Fediverse services.
 | `grimace.life` | No |
 | `grimbrook.community` | No |
 | `grimerica.ca` | No |
+| `grimfeast.com` | No |
 | `grimgreenfo.rest` | No |
 | `grimhe.art` | No |
 | `grimkroton.de` | No |
@@ -36893,7 +36894,7 @@ Here's a list of public Fediverse services.
 | `poweruser.forum` | No |
 | `powerweb.io` | No |
 | `poya.icu` | No |
-| `poyo.me` | No |
+| `poyo.me` | Yes |
 | `poyoro.id` | Yes |
 | `poyusbuddy.com` | Yes |
 | `pp-social.com` | Yes |
@@ -52775,7 +52776,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,064 |
+| Cloudflare | 15,065 |
 | Normal | 37,663 |
 
 
