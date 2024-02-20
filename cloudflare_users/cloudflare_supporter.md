@@ -4412,6 +4412,7 @@ Do not create new issue or we will close it as duplicate.
 | [gaymyanmarboy@X](https://twitter.com/gaymyanmarboy/status/1395204364327743489) | advertise |
 | [GaysohbetTurk@X](https://twitter.com/GaysohbetTurk/status/1450949056872816640) | advertise |
 | [gay_ass_link@X](https://twitter.com/gay_ass_link/status/1665874486703591425) | advertise |
+| [GaziMurtaz27298@X](https://twitter.com/GaziMurtaz27298/status/1759731637653320113) | advertise |
 | [GaziSarama@X](https://twitter.com/GaziSarama/status/1526025726138494981) | advertise |
 | [GBARJ9mXVV94FKx@X](https://twitter.com/GBARJ9mXVV94FKx/status/1723503398098805039) | advertise |
 | [gc_lv81652@X](https://twitter.com/gc_lv81652/status/1734779921363591624) | advertise |
@@ -5971,6 +5972,7 @@ Do not create new issue or we will close it as duplicate.
 | [Irfan47682067@X](https://twitter.com/Irfan47682067/status/1585890980536156160) | advertise |
 | [Irfankh04933214@X](https://twitter.com/Irfankh04933214/status/1398707064839548929) | advertise |
 | [IrfanKh53230465@X](https://twitter.com/IrfanKh53230465/status/1389479001853366274) | advertise |
+| [IrfanUl82124748@X](https://twitter.com/IrfanUl82124748/status/1759813854115033165) | advertise |
 | [IrinAkt53311722@X](https://twitter.com/IrinAkt53311722/status/1519997951439159297) | advertise |
 | [irishdash@X](https://twitter.com/irishdash/status/1676254244209569794) | advertise |
 | [IrisNaw101@X](https://twitter.com/IrisNaw101/status/1393070529100328960) | advertise |
@@ -5994,6 +5996,7 @@ Do not create new issue or we will close it as duplicate.
 | [Islam2712@X](https://twitter.com/Islam2712/status/1710626563614503316) | advertise |
 | [IslamerAlo18@X](https://twitter.com/IslamerAlo18/status/1586672156456681475) | advertise |
 | [islamicempower@X](https://twitter.com/islamicempower/status/1643019938032939008) | advertise |
+| [Islamshahbuneri@X](https://twitter.com/Islamshahbuneri/status/1759628005130051855) | advertise |
 | [Ismael25945424@X](https://twitter.com/Ismael25945424/status/1548610463944118272) | advertise |
 | [ismaillanigi@X](https://twitter.com/ismaillanigi/status/1504047577154854912) | advertise |
 | [IsmailSiraaji@X](https://twitter.com/IsmailSiraaji/status/1681013753360310274) | advertise |
@@ -8909,6 +8912,7 @@ Do not create new issue or we will close it as duplicate.
 | [mikeeowino@X](https://twitter.com/mikeeowino/status/1375217393354612745) | advertise |
 | [MikeJohnson9266@X](https://twitter.com/MikeJohnson9266/status/1637911772509216769) | advertise |
 | [mikelk808@X](https://twitter.com/mikelk808/status/1590207477895041024) | advertise |
+| [mikel_trader@X](https://twitter.com/mikel_trader/status/1759708991490261128) | advertise |
 | [MikeMcD80319429@X](https://twitter.com/MikeMcD80319429/status/1721228819242062137) | advertise |
 | [miketooyoung@X](https://twitter.com/miketooyoung/status/1477071358815178757) | advertise |
 | [MikeWooter@X](https://twitter.com/MikeWooter/status/1584693646560882689) | advertise |
@@ -9426,6 +9430,7 @@ Do not create new issue or we will close it as duplicate.
 | [MrSp0t@X](https://twitter.com/MrSp0t/status/1386835114705911810) | advertise |
 | [mrstraiber@X](https://twitter.com/mrstraiber/status/1649837580505034754) | advertise |
 | [MrStrangeBD@X](https://twitter.com/MrStrangeBD/status/1385590266598359042) | advertise |
+| [mrs_saman@X](https://twitter.com/mrs_saman/status/1759820863577227437) | advertise |
 | [MrTa51961807@X](https://twitter.com/MrTa51961807/status/1394127394152218624) | advertise |
 | [MrTit09@X](https://twitter.com/MrTit09/status/1552664804535373824) | advertise |
 | [mrtrkmn_@X](https://twitter.com/mrtrkmn_/status/1511854610713124865) | advertise |
@@ -9813,6 +9818,7 @@ Do not create new issue or we will close it as duplicate.
 | [narin_mana46328@X](https://twitter.com/narin_mana46328/status/1729556108719628618) | advertise |
 | [narkarsarkie@X](https://twitter.com/narkarsarkie/status/1379118031050141697) | advertise |
 | [narumirinq@X](https://twitter.com/narumirinq/status/1674828938449940480) | advertise |
+| [naruto_uzon@X](https://twitter.com/naruto_uzon/status/1759781904222474403) | advertise |
 | [nas00831184@X](https://twitter.com/nas00831184/status/1401008152036790277) | advertise |
 | [naser_lodr_5@X](https://twitter.com/naser_lodr_5/status/1546216367765987329) | advertise |
 | [nasirmy1@X](https://twitter.com/nasirmy1/status/1547358308042178561) | advertise |
