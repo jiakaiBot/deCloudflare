@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,288 |
+| com | 8,290 |
 | social | 4,809 |
 | net | 4,101 |
 | org | 2,734 |
@@ -4343,6 +4343,7 @@ Here's a list of public Fediverse services.
 | `bbcmic.ro` | No |
 | `bbdao.dev` | Yes |
 | `bbfactory.it` | No |
+| `bbguimaraes.com` | No |
 | `bbiz.io` | No |
 | `bblaze.xyz` | No |
 | `bbngh.com` | Yes |
@@ -30932,6 +30933,7 @@ Here's a list of public Fediverse services.
 | `murasame.moe` | Yes |
 | `murat.io` | No |
 | `murata.jp.net` | No |
+| `murayakey.com` | No |
 | `murciavegana.com` | No |
 | `murcier.fr` | No |
 | `murder.town` | No |
@@ -49403,6 +49405,7 @@ Here's a list of public Fediverse services.
 | `vintagemac1984.com` | No |
 | `vintagepointofsale.com` | No |
 | `vintageracing.social` | No |
+| `vintagetech.xyz` | No |
 | `vinyl-41.de` | No |
 | `vinyldistractions.com` | Yes |
 | `vinylor.com` | Yes |
@@ -52794,7 +52797,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,071 |
-| Normal | 37,674 |
+| Normal | 37,677 |
 
 
 </details>
