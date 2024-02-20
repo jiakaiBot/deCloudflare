@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Timeout for all solving attempts](https://github.com/FlareSolverr/FlareSolverr/issues/1082)
 - [MySQL configuration error during installation](https://github.com/freescout-helpdesk/freescout/issues/3807)
 - [How send Mail to Postbox if contact widget is submitted](https://github.com/freescout-helpdesk/freescout/issues/3806)
 - [A failure in the SSL library occurred: X509_V_ERR_CERT_HAS_EXPIRED](https://github.com/fukamachi/qlot/issues/234)
