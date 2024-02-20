@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,290 |
 | social | 4,809 |
-| net | 4,102 |
+| net | 4,103 |
 | org | 2,734 |
 | de | 2,645 |
 
@@ -19741,6 +19741,7 @@ Here's a list of public Fediverse services.
 | `hoto.moe` | Yes |
 | `hoto.rocks` | Yes |
 | `hoto.us` | Yes |
+| `hotous.net` | Yes |
 | `hotpot.social` | No |
 | `hotspiderdemonsinyourarea.com` | Yes |
 | `hottake.city` | No |
@@ -52801,7 +52802,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,072 |
+| Cloudflare | 15,073 |
 | Normal | 37,681 |
 
 
