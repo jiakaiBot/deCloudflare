@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,307 |
+| com | 8,308 |
 | social | 4,814 |
 | net | 4,110 |
 | org | 2,737 |
@@ -12848,7 +12848,7 @@ Here's a list of public Fediverse services.
 | `electriceye.info` | No |
 | `electricglen.com` | No |
 | `electrickite.org` | No |
-| `electricladylan.net` | No |
+| `electricladylan.net` | Yes |
 | `electricmonk.de` | No |
 | `electricmonk.social` | No |
 | `electricpaper.love` | No |
@@ -19614,7 +19614,7 @@ Here's a list of public Fediverse services.
 | `homoo.social` | No |
 | `homothrive.com` | No |
 | `homunyan.com` | Yes |
-| `homura.space` | No |
+| `homura.space` | Yes |
 | `honahuku.com` | Yes |
 | `honex.life` | Yes |
 | `honey.church` | No |
@@ -20861,7 +20861,7 @@ Here's a list of public Fediverse services.
 | `inked.social` | No |
 | `inkgenious.ml` | No |
 | `inkladde.blog` | No |
-| `inkling.moe` | No |
+| `inkling.moe` | Yes |
 | `inkling.social` | Yes |
 | `inkommit.com` | No |
 | `inkopolis.cafe` | No |
@@ -23350,7 +23350,7 @@ Here's a list of public Fediverse services.
 | `kennyqin.com` | No |
 | `kenobit.it` | No |
 | `kenodriscoll.com` | Yes |
-| `kenpo.social` | No |
+| `kenpo.social` | Yes |
 | `kenscott.me` | No |
 | `kensei.dev` | No |
 | `kensimon.io` | No |
@@ -28036,7 +28036,7 @@ Here's a list of public Fediverse services.
 | `mastodon.tk` | No |
 | `mastodon.tn` | No |
 | `mastodon.to` | No |
-| `mastodon.tokyo` | No |
+| `mastodon.tokyo` | Yes |
 | `mastodon.top` | Yes |
 | `mastodon.training` | No |
 | `mastodon.uk.com` | Yes |
@@ -31205,6 +31205,7 @@ Here's a list of public Fediverse services.
 | `myfriendica.com` | No |
 | `myfriendsare.gay` | No |
 | `myfritz.net` | No |
+| `myftpupload.com` | No |
 | `mygaia.org` | No |
 | `mygaming.network` | No |
 | `mygaming.news` | Yes |
@@ -31288,7 +31289,7 @@ Here's a list of public Fediverse services.
 | `myporntv.com` | No |
 | `myportal.social` | No |
 | `myprayer.center` | No |
-| `myprivate.social` | No |
+| `myprivate.social` | Yes |
 | `myprivatecloud.uk` | No |
 | `myprostatecancerjourney.us` | No |
 | `mypsx.net` | No |
@@ -37826,7 +37827,7 @@ Here's a list of public Fediverse services.
 | `quic.fr` | No |
 | `quickbrb.chat` | Yes |
 | `quickbrb.com` | Yes |
-| `quickbrb.social` | No |
+| `quickbrb.social` | Yes |
 | `quickfix.es` | No |
 | `quickodon.social` | Yes |
 | `quiescent.nexus` | No |
@@ -44746,7 +44747,7 @@ Here's a list of public Fediverse services.
 | `syui.cf` | Yes |
 | `syui.ml` | No |
 | `syuilo.dev` | Yes |
-| `syuilo.moe` | No |
+| `syuilo.moe` | Yes |
 | `syukuma.net` | Yes |
 | `syum.ai` | Yes |
 | `syundo.org` | No |
@@ -45054,7 +45055,7 @@ Here's a list of public Fediverse services.
 | `tanudon.com` | No |
 | `tanukey.chat` | Yes |
 | `tanukey.work` | Yes |
-| `tanuki.social` | No |
+| `tanuki.social` | Yes |
 | `tanukitsu.net` | No |
 | `tanukitunes.com` | Yes |
 | `tanztee.social` | No |
@@ -52352,6 +52353,7 @@ Here's a list of public Fediverse services.
 | `zaatar.org` | Yes |
 | `zabaglione.net` | No |
 | `zabutone.com` | No |
+| `zacekj.cz` | No |
 | `zacepil.com` | Yes |
 | `zach.rocks` | No |
 | `zachartajuddin.com` | No |
@@ -52883,8 +52885,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,102 |
-| Normal | 37,733 |
+| Cloudflare | 15,111 |
+| Normal | 37,726 |
 
 
 </details>
