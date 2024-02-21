@@ -52397,6 +52397,7 @@ Here's a list of public Fediverse services.
 | `zbrx.org` | No |
 | `zbucaao2-liquidwebsites.com` | No |
 | `zbuffer.com` | No |
+| `zcjwechat.tk` | No |
 | `zcmi.social` | No |
 | `zcri.dev` | Yes |
 | `zct-mrl.com` | Yes |
@@ -52835,7 +52836,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,095 |
-| Normal | 37,691 |
+| Normal | 37,692 |
 
 
 </details>
