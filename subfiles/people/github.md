@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: Error solving the challenge. Timeout after 60.0 seconds.](https://github.com/FlareSolverr/FlareSolverr/issues/1090)
 - [Publish schemas to static website for shorter URL](https://github.com/fluxcd-community/flux2-schemas/issues/22)
 - [Clouflare error during develop deployment](https://github.com/element-hq/element-web/issues/27048)
 - [Type error for the upload example in the docs](https://github.com/web3-storage/www/issues/82)
