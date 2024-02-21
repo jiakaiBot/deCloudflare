@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,305 |
-| social | 4,813 |
+| social | 4,814 |
 | net | 4,109 |
 | org | 2,737 |
 | de | 2,647 |
@@ -35213,7 +35213,6 @@ Here's a list of public Fediverse services.
 | `parpok.lomza.pl` | Yes |
 | `parpok.xyz` | Yes |
 | `parrot-ctfs.com` | Yes |
-| `parrotfashion.xyz` | No |
 | `parrygod.club` | No |
 | `pars.ee` | No |
 | `parsaranjbar.com` | No |
@@ -43254,6 +43253,7 @@ Here's a list of public Fediverse services.
 | `speicherwolke.net` | No |
 | `spejset.org` | No |
 | `spekadyon.org` | No |
+| `spellcaster.social` | Yes |
 | `spelt.io` | No |
 | `sperg.city` | No |
 | `sperg.world` | No |
@@ -52871,8 +52871,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,099 |
-| Normal | 37,724 |
+| Cloudflare | 15,100 |
+| Normal | 37,723 |
 
 
 </details>
