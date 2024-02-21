@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Doesn't seem to work with cloudflare analytics and grafana cloud](https://github.com/grafana/clickhouse-datasource/issues/723)
 - [Not able to use Autodownloader](https://github.com/5rahim/seanime/issues/16)
 - [CloudFlare Elevated 5xx Error Rate](https://github.com/SecOpsNews/news/issues/25042)
 - [Create script to register Providers in Flux and Cloudflare](https://github.com/prosopo/captcha/issues/1046)
