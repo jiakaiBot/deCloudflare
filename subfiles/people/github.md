@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [file management functions don't work](https://github.com/fjalldev/NWS/issues/2)
 - [Workerd incompatibility (Cloudflare Workers)](https://github.com/nuxt-modules/icon/issues/142)
 - [file management functions don't work](https://github.com/FjallWX/NWS/issues/2)
 - [TypeError: getPlatformProxy is not a function](https://github.com/remix-run/remix/issues/8811)
