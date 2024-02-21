@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,305 |
+| com | 8,307 |
 | social | 4,814 |
-| net | 4,109 |
+| net | 4,110 |
 | org | 2,737 |
 | de | 2,647 |
 
@@ -1086,6 +1086,7 @@ Here's a list of public Fediverse services.
 | `access.ly` | No |
 | `accessbhsystems.com` | No |
 | `accessibility.social` | No |
+| `accessijeux.ch` | No |
 | `accessinformationnews.com` | No |
 | `accessnow.social` | Yes |
 | `accidental.yoga` | No |
@@ -1762,6 +1763,7 @@ Here's a list of public Fediverse services.
 | `alexander-schnapper.de` | No |
 | `alexander-vollmer.de` | No |
 | `alexander.social` | Yes |
+| `alexanderbellgram.com` | No |
 | `alexanderdunkel.com` | Yes |
 | `alexanderkeane.com` | No |
 | `alexanderkucera.com` | Yes |
@@ -7001,7 +7003,7 @@ Here's a list of public Fediverse services.
 | `catcatnya.com` | No |
 | `catcore.life` | Yes |
 | `catdog.me` | No |
-| `catdon.app` | Yes |
+| `catdon.app` | No |
 | `catdon.jp` | No |
 | `catdon.life` | No |
 | `categoryurls.eu.org` | No |
@@ -8163,6 +8165,7 @@ Here's a list of public Fediverse services.
 | `clovr.cc` | Yes |
 | `clown-wife-clown.life` | No |
 | `clown.center` | No |
+| `clown.garden` | No |
 | `clown.social` | No |
 | `clowncar.computer` | No |
 | `clowneggs.social` | No |
@@ -10643,6 +10646,7 @@ Here's a list of public Fediverse services.
 | `delange.us` | No |
 | `delat.net` | No |
 | `delaylama.de` | No |
+| `delayofgame.com` | Yes |
 | `delbertbeta.cc` | No |
 | `delbrouck.ch` | No |
 | `delcake.com` | Yes |
@@ -18410,6 +18414,7 @@ Here's a list of public Fediverse services.
 | `hactivedirectory.com` | Yes |
 | `hacusk.net` | Yes |
 | `haddock.cc` | Yes |
+| `hades.is` | No |
 | `hades.town` | No |
 | `hadna.space` | Yes |
 | `hadret.com` | Yes |
@@ -28855,6 +28860,7 @@ Here's a list of public Fediverse services.
 | `memo-village.online` | Yes |
 | `memo.systems` | Yes |
 | `memomo.me` | Yes |
+| `memorabilium.net` | No |
 | `memorablepress.com` | Yes |
 | `memories.am` | Yes |
 | `memoriski.cc` | Yes |
@@ -34795,11 +34801,13 @@ Here's a list of public Fediverse services.
 | `outsiders.network` | No |
 | `outsidethecloset.com` | No |
 | `outskirts.dk` | No |
+| `outskirts.town` | No |
 | `outsourcedmath.com` | Yes |
 | `outsourceyour.it` | No |
 | `outv.im` | Yes |
 | `outwith.biz` | No |
 | `ouvaton.coop` | No |
+| `ouvre-boites.coop` | No |
 | `ouzu.im` | No |
 | `oval.cc` | No |
 | `ovalerio.net` | Yes |
@@ -35666,6 +35674,7 @@ Here's a list of public Fediverse services.
 | `personaleum.at` | No |
 | `personalfinance.social` | No |
 | `personaljournal.ca` | No |
+| `personalspaceshow.lawyer` | Yes |
 | `personashield.com` | No |
 | `personk.com` | No |
 | `perspectist.com` | No |
@@ -39440,6 +39449,7 @@ Here's a list of public Fediverse services.
 | `rockosbasilisk.com` | Yes |
 | `rockpaperjelly.com` | No |
 | `rockprofile.com` | Yes |
+| `rockster.tv` | No |
 | `rockyroad.social` | No |
 | `roclongboarding.info` | No |
 | `rocu.de` | Yes |
@@ -50131,6 +50141,7 @@ Here's a list of public Fediverse services.
 | `waterauditca.org` | Yes |
 | `watercoolertrivia.com` | Yes |
 | `waterford.international` | No |
+| `waterfountain.one` | No |
 | `waterfowl.social` | No |
 | `waterlily.tokyo` | No |
 | `watmoetjeanders.nl` | Yes |
@@ -52871,8 +52882,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,100 |
-| Normal | 37,723 |
+| Cloudflare | 15,101 |
+| Normal | 37,733 |
 
 
 </details>
