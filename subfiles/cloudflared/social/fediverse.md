@@ -32491,7 +32491,7 @@ Here's a list of public Fediverse services.
 | `nien.house` | Yes |
 | `nieuwspaal.nl` | Yes |
 | `nieuwwestbrabant.nl` | No |
-| `niflheim.monster` | No |
+| `niflheim.monster` | Yes |
 | `niflheim.social` | No |
 | `nifty-moose.com` | No |
 | `nifty.cc` | No |
@@ -37629,6 +37629,7 @@ Here's a list of public Fediverse services.
 | `pztrn.online` | No |
 | `pzyk.de` | No |
 | `q-gin.info` | No |
+| `q-t-a.uk` | No |
 | `q12.im` | Yes |
 | `q1z.net` | No |
 | `q2r.net` | No |
@@ -52882,7 +52883,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,101 |
+| Cloudflare | 15,102 |
 | Normal | 37,733 |
 
 
