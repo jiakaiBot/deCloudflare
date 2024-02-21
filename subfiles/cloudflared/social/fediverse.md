@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,302 |
-| social | 4,810 |
+| social | 4,813 |
 | net | 4,109 |
 | org | 2,737 |
 | de | 2,647 |
@@ -16452,6 +16452,7 @@ Here's a list of public Fediverse services.
 | `g2od.ch` | No |
 | `g307m.com` | No |
 | `g33ks.coffee` | Yes |
+| `g33ks.social` | Yes |
 | `g3l.org` | No |
 | `g3ms.io` | No |
 | `g3rv4.com` | Yes |
@@ -36578,6 +36579,7 @@ Here's a list of public Fediverse services.
 | `podlibre.fr` | No |
 | `podlibre.social` | No |
 | `podlibre.video` | No |
+| `podmed.tech` | Yes |
 | `podnews.net` | No |
 | `podnutz.us` | No |
 | `podpro.biz` | No |
@@ -37811,6 +37813,7 @@ Here's a list of public Fediverse services.
 | `quic.fr` | No |
 | `quickbrb.chat` | Yes |
 | `quickbrb.com` | Yes |
+| `quickbrb.social` | No |
 | `quickfix.es` | No |
 | `quickodon.social` | Yes |
 | `quiescent.nexus` | No |
@@ -50022,6 +50025,7 @@ Here's a list of public Fediverse services.
 | `wanderingwires.xyz` | No |
 | `wandern.social` | No |
 | `wanderview.com` | Yes |
+| `wandy.dev` | Yes |
 | `wandzeitung.xyz` | No |
 | `wang.nz` | Yes |
 | `wangdahoo.space` | No |
@@ -52088,6 +52092,7 @@ Here's a list of public Fediverse services.
 | `younger.wtf` | Yes |
 | `youngmsc.com` | No |
 | `youngroyals.net` | No |
+| `your-face.social` | No |
 | `your-server.de` | No |
 | `your-storageshare.de` | No |
 | `yourautisticlife.com` | No |
@@ -52859,8 +52864,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,092 |
-| Normal | 37,719 |
+| Cloudflare | 15,095 |
+| Normal | 37,721 |
 
 
 </details>
