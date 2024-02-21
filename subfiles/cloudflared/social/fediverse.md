@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,304 |
+| com | 8,305 |
 | social | 4,813 |
 | net | 4,109 |
 | org | 2,737 |
@@ -39392,6 +39392,7 @@ Here's a list of public Fediverse services.
 | `robocollective.org` | No |
 | `robodon.social` | No |
 | `robold.com` | Yes |
+| `robomwm.com` | Yes |
 | `robonomics.network` | Yes |
 | `robot-9.com` | No |
 | `robot-disco.net` | No |
@@ -52868,7 +52869,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,097 |
+| Cloudflare | 15,098 |
 | Normal | 37,723 |
 
 
