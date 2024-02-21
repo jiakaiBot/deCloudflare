@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Workerd incompatibility (Cloudflare Workers)](https://github.com/nuxt-modules/icon/issues/142)
+- [file management functions don't work](https://github.com/FjallWX/NWS/issues/2)
 - [TypeError: getPlatformProxy is not a function](https://github.com/remix-run/remix/issues/8811)
 - [Grafana Cloud Support](https://github.com/Altinity/clickhouse-grafana/issues/516)
 - [USACO submissions are broken](https://github.com/cpinitiative/ide/issues/138)
