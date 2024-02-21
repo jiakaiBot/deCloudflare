@@ -8459,6 +8459,7 @@ Do not create new issue or we will close it as duplicate.
 | [Manoj29630Manoj@X](https://twitter.com/Manoj29630Manoj/status/1642349301971193857) | advertise |
 | [ManouHosting@X](https://twitter.com/ManouHosting/status/1660827055582216193) | advertise |
 | [manph_smph98674@X](https://twitter.com/manph_smph98674/status/1742936844772495396) | advertise |
+| [MansAndrIam@X](https://twitter.com/MansAndrIam/status/1760377546783272992) | advertise |
 | [ManSem_95@X](https://twitter.com/ManSem_95/status/1391726222770458627) | advertise |
 | [Mansoor81118164@X](https://twitter.com/Mansoor81118164/status/1400092367953154053) | advertise |
 | [mansor_malleki4@X](https://twitter.com/mansor_malleki4/status/1530961700962373632) | advertise |
@@ -12237,6 +12238,7 @@ Do not create new issue or we will close it as duplicate.
 | [RyderReidSW@X](https://twitter.com/RyderReidSW/status/1709145978115436807) | advertise |
 | [RyduTempesta@X](https://twitter.com/RyduTempesta/status/1498907656458686470) | advertise |
 | [rymtechTCO@X](https://twitter.com/rymtechTCO/status/1648817405261488128) | advertise |
+| [ryreal_@X](https://twitter.com/ryreal_/status/1760304109587251424) | advertise |
 | [RyunosukeHaruki@X](https://twitter.com/RyunosukeHaruki/status/1390218243734835206) | advertise |
 | [RyuOshiro284352@X](https://twitter.com/RyuOshiro284352/status/1709526395448152187) | advertise |
 | [ryuuji_58@X](https://twitter.com/ryuuji_58/status/1379328982147997699) | advertise |
