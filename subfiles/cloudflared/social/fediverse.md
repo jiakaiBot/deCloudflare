@@ -13729,6 +13729,7 @@ Here's a list of public Fediverse services.
 | `evri1s-connected.online` | No |
 | `evsyukov.org` | Yes |
 | `evu-group.de` | Yes |
+| `evulid.cc` | Yes |
 | `evvk.fi` | Yes |
 | `ewaf.club` | No |
 | `ewatchers.org` | No |
@@ -52869,7 +52870,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,098 |
+| Cloudflare | 15,099 |
 | Normal | 37,723 |
 
 
