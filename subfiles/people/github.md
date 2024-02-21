@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Not able to use Autodownloader](https://github.com/5rahim/seanime/issues/16)
 - [CloudFlare Elevated 5xx Error Rate](https://github.com/SecOpsNews/news/issues/25042)
 - [Create script to register Providers in Flux and Cloudflare](https://github.com/prosopo/captcha/issues/1046)
 - [Unable to resolve discussions or add comments](https://github.com/harrisoncramer/gitlab.nvim/issues/189)
