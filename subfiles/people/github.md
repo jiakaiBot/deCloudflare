@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Publish schemas to static website for shorter URL](https://github.com/fluxcd-community/flux2-schemas/issues/22)
+- [Clouflare error during develop deployment](https://github.com/element-hq/element-web/issues/27048)
 - [Type error for the upload example in the docs](https://github.com/web3-storage/www/issues/82)
 - [file management functions don't work](https://github.com/fjalldev/NWS/issues/2)
 - [Workerd incompatibility (Cloudflare Workers)](https://github.com/nuxt-modules/icon/issues/142)
