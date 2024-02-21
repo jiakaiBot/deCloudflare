@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Type error for the upload example in the docs](https://github.com/web3-storage/www/issues/82)
 - [file management functions don't work](https://github.com/fjalldev/NWS/issues/2)
 - [Workerd incompatibility (Cloudflare Workers)](https://github.com/nuxt-modules/icon/issues/142)
 - [file management functions don't work](https://github.com/FjallWX/NWS/issues/2)
