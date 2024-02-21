@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to resolve discussions or add comments](https://github.com/harrisoncramer/gitlab.nvim/issues/189)
 - [Error: Error solving the challenge. Timeout after 60.0 seconds.](https://github.com/FlareSolverr/FlareSolverr/issues/1090)
 - [Publish schemas to static website for shorter URL](https://github.com/fluxcd-community/flux2-schemas/issues/22)
 - [Clouflare error during develop deployment](https://github.com/element-hq/element-web/issues/27048)
