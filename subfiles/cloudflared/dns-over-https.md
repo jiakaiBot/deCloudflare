@@ -186,7 +186,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | korzhyk.pp.ua | Yes |
 | kriswerry.nl | No |
 | krnl.eu | Yes |
-| kstdownload.com | Yes |
 | l337.site | Yes |
 | lacontrevoie.fr | No |
 | lastentarvike.fi | No |
@@ -372,8 +371,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 191 |
+| Cloudflare | 190 |
 | Normal | 162 |
 
 
-### 54.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54% of DNS-over-HTTPS (DoH) are using Cloudflare.
