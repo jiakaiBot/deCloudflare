@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,308 |
-| social | 4,814 |
+| social | 4,815 |
 | net | 4,110 |
 | org | 2,737 |
 | de | 2,647 |
@@ -981,6 +981,7 @@ Here's a list of public Fediverse services.
 | `abhlach.ie` | No |
 | `abhrajit.com` | Yes |
 | `abid.cc` | No |
+| `abide.social` | No |
 | `abigo.de` | No |
 | `abikewithnowheels.com` | No |
 | `abiscuola.com` | No |
@@ -52886,7 +52887,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,111 |
-| Normal | 37,726 |
+| Normal | 37,727 |
 
 
 </details>
