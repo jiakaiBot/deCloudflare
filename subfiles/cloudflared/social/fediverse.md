@@ -2239,6 +2239,7 @@ Here's a list of public Fediverse services.
 | `anakut.org` | Yes |
 | `analogdreams.blog` | No |
 | `analogphoto.social` | No |
+| `analogpixels.online` | No |
 | `analogue.social` | No |
 | `ananace.dev` | No |
 | `ananasbananas.com` | No |
@@ -44258,6 +44259,7 @@ Here's a list of public Fediverse services.
 | `sumeru.top` | Yes |
 | `sumi.space` | Yes |
 | `sumikko.club` | Yes |
+| `sumisky.xyz` | Yes |
 | `summary.ink` | Yes |
 | `summerhill.cafe` | No |
 | `summerlin.social` | No |
@@ -52837,8 +52839,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,095 |
-| Normal | 37,694 |
+| Cloudflare | 15,096 |
+| Normal | 37,695 |
 
 
 </details>
