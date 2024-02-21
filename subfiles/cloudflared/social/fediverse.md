@@ -7361,6 +7361,7 @@ Here's a list of public Fediverse services.
 | `chaoswork.cn` | No |
 | `chaosworks.org` | No |
 | `chaoszone.tv` | No |
+| `chaotic.fun` | Yes |
 | `chaotic.moe` | No |
 | `chaotic.ninja` | No |
 | `chaotic.social` | No |
@@ -42614,6 +42615,7 @@ Here's a list of public Fediverse services.
 | `snowmastodon.social` | Yes |
 | `snowmew.gay` | No |
 | `snowp.io` | No |
+| `snowpiercer.co.uk` | No |
 | `snowracer.se` | No |
 | `snowshaven.space` | No |
 | `snowstorm.online` | Yes |
@@ -52832,8 +52834,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,094 |
-| Normal | 37,690 |
+| Cloudflare | 15,095 |
+| Normal | 37,691 |
 
 
 </details>
