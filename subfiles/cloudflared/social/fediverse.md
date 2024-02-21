@@ -23059,6 +23059,7 @@ Here's a list of public Fediverse services.
 | `kasa-tomo.com` | No |
 | `kasa12.dev` | No |
 | `kasakoso.lol` | Yes |
+| `kasdopuods.lt` | No |
 | `kasei.ski` | Yes |
 | `kasesag.gay` | Yes |
 | `kashayokai.com` | Yes |
@@ -52082,6 +52083,7 @@ Here's a list of public Fediverse services.
 | `yourwalls.today` | No |
 | `yousack.net` | Yes |
 | `youshallnotpass.com` | Yes |
+| `youtaite.xyz` | No |
 | `youten.xyz` | No |
 | `youth.social` | No |
 | `youthdon.com` | No |
@@ -52836,7 +52838,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,095 |
-| Normal | 37,692 |
+| Normal | 37,694 |
 
 
 </details>
