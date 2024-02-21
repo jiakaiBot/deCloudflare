@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Elevated 5xx Error Rate](https://github.com/SecOpsNews/news/issues/25042)
+- [Create script to register Providers in Flux and Cloudflare](https://github.com/prosopo/captcha/issues/1046)
 - [Unable to resolve discussions or add comments](https://github.com/harrisoncramer/gitlab.nvim/issues/189)
 - [Error: Error solving the challenge. Timeout after 60.0 seconds.](https://github.com/FlareSolverr/FlareSolverr/issues/1090)
 - [Publish schemas to static website for shorter URL](https://github.com/fluxcd-community/flux2-schemas/issues/22)
