@@ -133,12 +133,10 @@ Details:
 
 Thank you for your contribution!
 
-| User | Score |
-| -- | -- |
-| TBA | TBA |
-
-
-
 _We need warriors to assist our hunters :)_
 
 ![](../../image/what_are_you_hunting_cloudflare.png)
+
+| User | Score |
+| -- | -- |
+| TBA | TBA |
