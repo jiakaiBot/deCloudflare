@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,309 |
-| social | 4,815 |
+| com | 8,310 |
+| social | 4,816 |
 | net | 4,111 |
 | org | 2,737 |
 | de | 2,647 |
@@ -1653,6 +1653,7 @@ Here's a list of public Fediverse services.
 | `akkoma.nl` | No |
 | `akkoremaji.club` | Yes |
 | `akkoverse.xyz` | Yes |
+| `aklp.club` | No |
 | `aklsh.me` | Yes |
 | `akme.ink` | No |
 | `akmentins.com` | Yes |
@@ -13636,7 +13637,7 @@ Here's a list of public Fediverse services.
 | `europlus.zone` | No |
 | `eurostaryurtdisiegitim.net` | No |
 | `eurotrib.com` | No |
-| `eurovision.social` | Yes |
+| `eurovision.social` | No |
 | `euroxs.org` | No |
 | `eus.jp` | No |
 | `euskarabildua.eus` | No |
@@ -20612,6 +20613,7 @@ Here's a list of public Fediverse services.
 | `improv.social` | No |
 | `improved-madness.de` | No |
 | `impulsait.com` | No |
+| `imrannazar.com` | No |
 | `imreh.net` | Yes |
 | `imrich.net` | No |
 | `imsb.app` | Yes |
@@ -35907,6 +35909,7 @@ Here's a list of public Fediverse services.
 | `photocave.net` | No |
 | `photodn.net` | No |
 | `photodon.org` | No |
+| `photofed.world` | No |
 | `photofeed.social` | Yes |
 | `photog.social` | No |
 | `photogabble.co.uk` | No |
@@ -48612,6 +48615,7 @@ Here's a list of public Fediverse services.
 | `universetoday.com` | Yes |
 | `universiteruraledescevennes.org` | No |
 | `universoalterno.es` | No |
+| `univox.social` | No |
 | `uniwa.gr` | No |
 | `unix.dog` | Yes |
 | `unix.family` | No |
@@ -51620,6 +51624,7 @@ Here's a list of public Fediverse services.
 | `xn--qp9h.ml` | No |
 | `xn--qpr179gg5o.work` | No |
 | `xn--qubec-csa.tk` | No |
+| `xn--r8j3ad6o0c.xn--q9jyb4c` | Yes |
 | `xn--r9j630glz6a.xn--q9jyb4c` | No |
 | `xn--ratatskr-r4a.de` | No |
 | `xn--rdstrupe-54a.net` | No |
@@ -52898,7 +52903,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,112 |
-| Normal | 37,737 |
+| Normal | 37,742 |
 
 
 </details>
