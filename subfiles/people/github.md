@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Deeply nested route grouping with regexp breaks client param type inference](https://github.com/honojs/hono/issues/2253)
 - [integrate with ChatGPT, how to use](https://github.com/react-native-community/fetch/issues/24)
 - [New Feature: allow specifying of target host machine on every individual resource/data source](https://github.com/dmacvicar/terraform-provider-libvirt/issues/1071)
 - [Handle rate limiting internally](https://github.com/yongfook/bannerbear-ruby/issues/2)
