@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Not possible to download from 1337x.to](https://github.com/FlareSolverr/FlareSolverr/issues/1092)
 - [Deeply nested route grouping with regexp breaks client param type inference](https://github.com/honojs/hono/issues/2253)
 - [integrate with ChatGPT, how to use](https://github.com/react-native-community/fetch/issues/24)
 - [New Feature: allow specifying of target host machine on every individual resource/data source](https://github.com/dmacvicar/terraform-provider-libvirt/issues/1071)
