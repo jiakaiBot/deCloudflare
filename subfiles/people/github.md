@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Hono deploy production workflow is not injecting secrets properly](https://github.com/radicalplatforms/shafa/issues/58)
 - [YGG YGGTorrent & YGGCookie with Prolarr](https://github.com/FlareSolverr/FlareSolverr/issues/1093)
 - [Invalid content in cache](https://github.com/unjs/nitro/issues/2160)
 - [Not possible to download from 1337x.to](https://github.com/FlareSolverr/FlareSolverr/issues/1092)
