@@ -228,6 +228,7 @@ Here's a list of breached sites.
 | FFShrine (Final Fantasy Shrine) | 620,677 | Yes |
 | FLVS (Florida Virtual School) | 542,902 | Yes |
 | FaceUP | 87,633 | No |
+| FacebookMarketplace (Facebook Marketplace) | 77,267 | No |
 | Facebook | 509,458,528 | No |
 | Facepunch | 342,913 | Yes |
 | Factual | 2,461,696 | Yes |
@@ -629,8 +630,8 @@ Here's a list of breached sites.
 | Tumblr (tumblr) | 65,469,298 | Yes |
 | TunedGlobal (Tuned Global) | 985,586 | Yes |
 | Tunngle | 8,192,928 | No |
-| Twitter200M (Twitter (200M)) | 211,524,284 | No |
-| Twitter | 6,682,453 | No |
+| Twitter200M (Twitter (200M)) | 211,524,284 | Yes |
+| Twitter | 6,682,453 | Yes |
 | UC (University of California) | 547,422 | Yes |
 | Uiggy | 2,682,650 | No |
 | Ulmon | 777,769 | No |
@@ -731,10 +732,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 415 | 4,472,978,759 |
-| Normal | 295 | 4,657,658,886 |
+| Cloudflare | 417 | 4,691,185,496 |
+| Normal | 294 | 4,439,529,416 |
 
 
 
-### 58.5% of breached sites (pwned sites) are using Cloudflare.
-### 49% of leaked accounts are on Cloudflare sites.
+### 58.6% of breached sites (pwned sites) are using Cloudflare.
+### 51.4% of leaked accounts are on Cloudflare sites.
