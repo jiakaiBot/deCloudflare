@@ -139,7 +139,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | furrydns.de | No |
 | gac.edu | No |
 | geshido.ru | No |
-| ghost.pm | No |
 | gmserv.cc | Yes |
 | guard.io | Yes |
 | hahnjo.de | No |
@@ -217,7 +216,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meganerd.nl | No |
 | mestdag.fr | No |
 | midping.ir | No |
-| mii-xms.com | Yes |
 | mikrotikrumahan.my.id | No |
 | minetown.eu.org | No |
 | moderateinfra.net | No |
@@ -256,7 +254,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pacificmonster.com | Yes |
 | paesa.es | Yes |
 | panszelescik.pl | Yes |
-| passby.eu.org | No |
 | pathofgrace.com | No |
 | paxavemedia.com | Yes |
 | pernika.net | Yes |
@@ -370,8 +367,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 190 |
-| Normal | 161 |
+| Cloudflare | 189 |
+| Normal | 159 |
 
 
-### 54.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
