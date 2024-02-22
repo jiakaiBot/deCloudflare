@@ -14866,6 +14866,7 @@ Do not create new issue or we will close it as duplicate.
 | [ULay99705792@X](https://twitter.com/ULay99705792/status/1394445652147404802) | advertise |
 | [ulaygyi245@X](https://twitter.com/ulaygyi245/status/1389821983290892290) | advertise |
 | [umar_pama@X](https://twitter.com/umar_pama/status/1733798149502697872) | advertise |
+| [umbsoldotcom@X](https://twitter.com/umbsoldotcom/status/1760440887539077340) | advertise |
 | [UMinthu84921464@X](https://twitter.com/UMinthu84921464/status/1381438301366747136) | advertise |
 | [UmmahNewsTV@X](https://twitter.com/UmmahNewsTV/status/1625906513113141248) | advertise |
 | [UmSaldanha@X](https://twitter.com/UmSaldanha/status/1586835109298192385) | advertise |
