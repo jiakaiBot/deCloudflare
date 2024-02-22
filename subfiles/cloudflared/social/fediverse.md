@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,310 |
-| social | 4,816 |
+| social | 4,817 |
 | net | 4,111 |
-| org | 2,738 |
+| org | 2,739 |
 | de | 2,648 |
 
 
@@ -13183,6 +13183,7 @@ Here's a list of public Fediverse services.
 | `engadgets.news` | No |
 | `engagemedia.org` | Yes |
 | `engard.me` | No |
+| `engawa.social` | No |
 | `engdal.fi` | No |
 | `engekidon.net` | No |
 | `engelke.contact` | Yes |
@@ -22196,6 +22197,7 @@ Here's a list of public Fediverse services.
 | `jmenning.com` | Yes |
 | `jmessage.org` | No |
 | `jmiguel.eu` | No |
+| `jmilo.ir` | No |
 | `jmittendorfer.at` | Yes |
 | `jmizzle.com` | No |
 | `jmjordan.io` | Yes |
@@ -43056,6 +43058,7 @@ Here's a list of public Fediverse services.
 | `soshi.social` | No |
 | `soshl.one` | No |
 | `sosialist.party` | No |
+| `sosmaires.org` | No |
 | `sotamedia.org` | No |
 | `sotatek.works` | Yes |
 | `soteria.tel` | Yes |
@@ -52912,7 +52915,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,111 |
-| Normal | 37,752 |
+| Normal | 37,755 |
 
 
 </details>
