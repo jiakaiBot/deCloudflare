@@ -131,12 +131,12 @@ Details:
 
 ### Leaderboard
 
-Thank you for your contribution!
+- Thank you for your contribution! _We need warriors to assist our hunters :)_
+- How to find yourself: CRC32 your warrior ID.
 
-_We need warriors to assist our hunters :)_
-
-![](../../image/what_are_you_hunting_cloudflare.png)
 
 | User | Score |
 | -- | -- |
 | TBA | TBA |
+
+![](../../image/what_are_you_hunting_cloudflare.png)
