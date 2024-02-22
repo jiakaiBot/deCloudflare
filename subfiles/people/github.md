@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Handle rate limiting internally](https://github.com/yongfook/bannerbear-ruby/issues/2)
 - [Doesn't seem to work with cloudflare analytics and grafana cloud](https://github.com/grafana/clickhouse-datasource/issues/723)
 - [Not able to use Autodownloader](https://github.com/5rahim/seanime/issues/16)
 - [CloudFlare Elevated 5xx Error Rate](https://github.com/SecOpsNews/news/issues/25042)
