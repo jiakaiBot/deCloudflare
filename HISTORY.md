@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-02-22: [Impact to object uploads in R2](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w1r5x1vfmcs8)
 - 2024-02-21: [Elevated 5xx Error Rate](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/75517hxt48rt)
 - 2024-02-08: [JWT Validation Failures](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bv4rw7vcmg3l)
 - 2024-02-09: [5XX errors in NVT](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jb0t70ljzy3z)
