@@ -4477,6 +4477,7 @@ Do not create new issue or we will close it as duplicate.
 | [GhostOfATown@X](https://twitter.com/GhostOfATown/status/1370596077007732737) | advertise |
 | [Ghostri94806311@X](https://twitter.com/Ghostri94806311/status/1638138457137504256) | advertise |
 | [GhostSlayeri@X](https://twitter.com/GhostSlayeri/status/1445450768836743171) | advertise |
+| [GhostyTongue@X](https://twitter.com/GhostyTongue/status/1760436454457827791) | advertise |
 | [Ghost_dragon_VN@X](https://twitter.com/Ghost_dragon_VN/status/1497163614540603394) | advertise |
 | [ghtoot@X](https://twitter.com/ghtoot/status/1733822328872566868) | advertise |
 | [GhulamJaved@X](https://twitter.com/GhulamJaved/status/1380050148135378944) | advertise |
