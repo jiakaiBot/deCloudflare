@@ -43849,6 +43849,7 @@ Here's a list of public Fediverse services.
 | `stepman.guide` | No |
 | `steppe.club` | No |
 | `steppenwolf.me` | No |
+| `ster.email` | Yes |
 | `sterahi.gay` | No |
 | `steren.fr` | No |
 | `stereo-graphica.com` | Yes |
@@ -52916,7 +52917,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,111 |
+| Cloudflare | 15,112 |
 | Normal | 37,757 |
 
 
