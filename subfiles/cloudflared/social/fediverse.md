@@ -19410,6 +19410,7 @@ Here's a list of public Fediverse services.
 | `hitotsu.me` | No |
 | `hitoxu.com` | No |
 | `hits.social` | No |
+| `hitsuji.cloud` | No |
 | `hitsuji.work` | No |
 | `hivane.net` | No |
 | `hive.institute` | No |
@@ -39254,6 +39255,7 @@ Here's a list of public Fediverse services.
 | `rinkko.moe` | No |
 | `rinma.stream` | No |
 | `rinpuhome.monster` | No |
+| `rinri-d.xyz` | No |
 | `rinsuki.net` | Yes |
 | `rintik.xyz` | No |
 | `rio.social` | No |
@@ -52915,7 +52917,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,111 |
-| Normal | 37,755 |
+| Normal | 37,757 |
 
 
 </details>
