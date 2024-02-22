@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Invalid content in cache](https://github.com/unjs/nitro/issues/2160)
 - [Not possible to download from 1337x.to](https://github.com/FlareSolverr/FlareSolverr/issues/1092)
 - [Deeply nested route grouping with regexp breaks client param type inference](https://github.com/honojs/hono/issues/2253)
 - [integrate with ChatGPT, how to use](https://github.com/react-native-community/fetch/issues/24)
