@@ -37532,6 +37532,7 @@ Here's a list of public Fediverse services.
 | `purr.gq` | No |
 | `purrucker.de` | No |
 | `pusang-ina-mo.ooo` | No |
+| `puscii.nl` | No |
 | `pushakar.com` | No |
 | `pushingelectrons.net` | No |
 | `pussyhat.party` | No |
@@ -48519,6 +48520,7 @@ Here's a list of public Fediverse services.
 | `undrground.org` | Yes |
 | `une.fi` | Yes |
 | `une33.club` | No |
+| `uneabeille.blog` | No |
 | `uneex.net` | No |
 | `unehre.de` | No |
 | `uneu.net` | Yes |
@@ -52896,7 +52898,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,112 |
-| Normal | 37,735 |
+| Normal | 37,737 |
 
 
 </details>
