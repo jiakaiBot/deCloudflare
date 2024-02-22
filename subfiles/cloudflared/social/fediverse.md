@@ -51624,7 +51624,6 @@ Here's a list of public Fediverse services.
 | `xn--qp9h.ml` | No |
 | `xn--qpr179gg5o.work` | No |
 | `xn--qubec-csa.tk` | No |
-| `xn--r8j3ad6o0c.xn--q9jyb4c` | Yes |
 | `xn--r9j630glz6a.xn--q9jyb4c` | No |
 | `xn--ratatskr-r4a.de` | No |
 | `xn--rdstrupe-54a.net` | No |
@@ -52902,7 +52901,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,112 |
+| Cloudflare | 15,111 |
 | Normal | 37,742 |
 
 
