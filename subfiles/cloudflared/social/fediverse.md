@@ -38420,6 +38420,7 @@ Here's a list of public Fediverse services.
 | `raven.dog` | No |
 | `raven.xyz` | No |
 | `ravenation.club` | Yes |
+| `ravenholm.club` | No |
 | `ravenoak.dev` | No |
 | `ravenoffice.de` | No |
 | `ravens-nest.io` | Yes |
@@ -52911,7 +52912,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,111 |
-| Normal | 37,751 |
+| Normal | 37,752 |
 
 
 </details>
