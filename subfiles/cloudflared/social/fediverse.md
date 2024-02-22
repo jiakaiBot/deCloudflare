@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 8,310 |
 | social | 4,816 |
 | net | 4,111 |
-| org | 2,737 |
-| de | 2,647 |
+| org | 2,738 |
+| de | 2,648 |
 
 
 - Mastodon, Pleroma, etc
@@ -8776,6 +8776,7 @@ Here's a list of public Fediverse services.
 | `cool110.xyz` | Yes |
 | `coolbowties.xyz` | No |
 | `coolboys.jp` | No |
+| `coolbug.org` | No |
 | `cooler.mom` | No |
 | `coolest.zone` | Yes |
 | `cooleysekula.net` | No |
@@ -9914,6 +9915,7 @@ Here's a list of public Fediverse services.
 | `dair-institute.org` | Yes |
 | `dairydemon.net` | No |
 | `daishouri.moe` | No |
+| `daism.io` | No |
 | `daize.xin` | No |
 | `daizhige.org` | No |
 | `daizin.net` | Yes |
@@ -11090,6 +11092,7 @@ Here's a list of public Fediverse services.
 | `dianaband.info` | No |
 | `diananatalini.it` | No |
 | `diani.xyz` | No |
+| `dianthus.site` | No |
 | `diapo.photo` | No |
 | `diarbagus.id` | Yes |
 | `dias.chat` | Yes |
@@ -24353,6 +24356,7 @@ Here's a list of public Fediverse services.
 | `krokodil.se` | Yes |
 | `kromeboy.net` | No |
 | `kromonos.net` | No |
+| `kronk.info` | No |
 | `krononot.com` | Yes |
 | `kroo.co` | No |
 | `kroo.is` | No |
@@ -24909,6 +24913,7 @@ Here's a list of public Fediverse services.
 | `larryrusswurm.com` | No |
 | `larrysanger.org` | Yes |
 | `lars-christian.com` | No |
+| `lars.li` | No |
 | `larsen.social` | Yes |
 | `larsfosdal.blog` | No |
 | `larsmueller.net` | Yes |
@@ -35967,6 +35972,7 @@ Here's a list of public Fediverse services.
 | `piatrouski.com` | No |
 | `piaty.ovh` | No |
 | `piazza.today` | No |
+| `piberio.com` | Yes |
 | `pibvt.net` | Yes |
 | `picandocodigo.net` | No |
 | `picasoft.net` | No |
@@ -40285,6 +40291,7 @@ Here's a list of public Fediverse services.
 | `samcday.com` | Yes |
 | `samcday.social` | Yes |
 | `samcepeda.com` | No |
+| `samclarke.space` | No |
 | `samdavies.me` | No |
 | `samedi.pm` | No |
 | `samedwards.ca` | No |
@@ -41386,6 +41393,7 @@ Here's a list of public Fediverse services.
 | `seti.bzh` | No |
 | `setimaarte.net` | No |
 | `setl.ist` | No |
+| `setoffandtravel.de` | No |
 | `setofprinciples.com` | No |
 | `setonbrown.com` | Yes |
 | `setouchiexplorer.com` | Yes |
@@ -46084,7 +46092,6 @@ Here's a list of public Fediverse services.
 | `themays.me` | Yes |
 | `themazuma.net` | No |
 | `themazzarella.net` | No |
-| `thembo-industries.com` | No |
 | `themcbros.com` | Yes |
 | `themcphails.uk` | No |
 | `themelancholaholic.com` | No |
@@ -48144,6 +48151,7 @@ Here's a list of public Fediverse services.
 | `twt.rip` | Yes |
 | `twt.rs` | Yes |
 | `twt.wtf` | No |
+| `twtcomm.shop` | No |
 | `twtr.plus` | No |
 | `twtrbridge.de` | No |
 | `twtxt.net` | Yes |
@@ -48796,7 +48804,7 @@ Here's a list of public Fediverse services.
 | `urbaninversion.com` | Yes |
 | `urbanists.social` | Yes |
 | `urbanists.video` | Yes |
-| `urbanistscollective.ca` | Yes |
+| `urbanistscollective.ca` | No |
 | `urbanmind.net` | Yes |
 | `urbanodin.org` | Yes |
 | `urbansolarpunk.social` | Yes |
@@ -52903,7 +52911,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,111 |
-| Normal | 37,743 |
+| Normal | 37,751 |
 
 
 </details>
