@@ -5,7 +5,7 @@
 - Look up Cloudflare domain list, offline or online
 - Replace CF links in your writings (text, HTML and Markdown)
 - Categorise the domain list
-- Join as warrior to help our mission
+- Join as warrior to help our mission (CfDomains Warrior)
 
 
 ### What is CfDomains Warrior?
@@ -42,7 +42,7 @@ rm -r .cfdomains_conf
   - Uninstall: Just delete the file and `.cfdomains_conf`(configuration) file.
 
 
-### Download
+### Download (cfdomains)
 Current Version: **1.0.5**
 
 - [Windows](https://0xacab.org/dCF/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.exe?inline=false)
@@ -119,6 +119,25 @@ Details:
                 Run this to help with the #Karma domain verification efforts.
                 This will download some domain from #Karma and report changes.
 ```
+
+
+### Download (cfdomains warrior ONLY)
+
+- If you have "cfdomains" you do not need this. For people who wants only "cfdomains --warrior."
+- Source
+  - [cfdomain_warrior.php](cfdomain_warrior.php)
+    - e.g. Edit the file then run `php -f cfdomain_warrior.php`
+
+
+### Leaderboard
+
+Thank you for your contribution!
+
+| User | Score |
+| -- | -- |
+| TBA | TBA |
+
+
 
 _We need warriors to assist our hunters :)_
 
