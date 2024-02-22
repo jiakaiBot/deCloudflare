@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [New Feature: allow specifying of target host machine on every individual resource/data source](https://github.com/dmacvicar/terraform-provider-libvirt/issues/1071)
 - [Handle rate limiting internally](https://github.com/yongfook/bannerbear-ruby/issues/2)
 - [Doesn't seem to work with cloudflare analytics and grafana cloud](https://github.com/grafana/clickhouse-datasource/issues/723)
 - [Not able to use Autodownloader](https://github.com/5rahim/seanime/issues/16)
