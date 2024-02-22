@@ -52070,6 +52070,7 @@ Here's a list of public Fediverse services.
 | `yonatand.me` | Yes |
 | `yonder.computer` | No |
 | `yonix.eu` | No |
+| `yonkeydonkey.be` | No |
 | `yonkoudai.space` | No |
 | `yonne-numerique.fr` | No |
 | `yontengop.com` | No |
@@ -52902,7 +52903,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,111 |
-| Normal | 37,742 |
+| Normal | 37,743 |
 
 
 </details>
