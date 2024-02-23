@@ -12767,7 +12767,7 @@ Here's a list of public Fediverse services.
 | `eifelcoworking.space` | No |
 | `eigadon.net` | Yes |
 | `eigendatabaas.nl` | No |
-| `eigenellies.space` | Yes |
+| `eigenellies.space` | No |
 | `eigener.host` | No |
 | `eigenlab.org` | No |
 | `eigenmagic.net` | Yes |
@@ -42168,7 +42168,7 @@ Here's a list of public Fediverse services.
 | `site.nz` | No |
 | `site404containment.zone` | No |
 | `sitedethib.com` | No |
-| `sitely.cc` | Yes |
+| `sitely.cc` | No |
 | `siteop.biz` | No |
 | `sitesource.be` | No |
 | `siteyui.site` | No |
@@ -44337,6 +44337,7 @@ Here's a list of public Fediverse services.
 | `suicide.holiday` | Yes |
 | `suicidepolice.com` | No |
 | `suikoden.info` | Yes |
+| `suiminn.moe` | No |
 | `suinot.org` | No |
 | `suitbertmonz.de` | No |
 | `suitwaffle.com` | Yes |
@@ -52966,8 +52967,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,125 |
-| Normal | 37,793 |
+| Cloudflare | 15,123 |
+| Normal | 37,796 |
 
 
 </details>
