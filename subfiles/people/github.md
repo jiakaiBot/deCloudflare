@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Install broken after the latest update freescout 1.8.121](https://github.com/freescout-helpdesk/freescout/issues/3818)
 - [Update (pihole -up) fails as installer (basic-install.sh) bypasses local DoH proxy](https://github.com/pi-hole/pi-hole/issues/5587)
 - [Hono deploy production workflow is not injecting secrets properly](https://github.com/radicalplatforms/shafa/issues/58)
 - [YGG YGGTorrent & YGGCookie with Prolarr](https://github.com/FlareSolverr/FlareSolverr/issues/1093)
