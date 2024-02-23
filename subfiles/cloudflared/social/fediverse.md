@@ -17476,6 +17476,7 @@ Here's a list of public Fediverse services.
 | `gmartin.net` | Yes |
 | `gmastod.online` | No |
 | `gmb.cz` | No |
+| `gmbh.ink` | No |
 | `gme.one` | Yes |
 | `gmem.ca` | Yes |
 | `gmgall.net` | No |
@@ -52987,7 +52988,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,139 |
-| Normal | 37,799 |
+| Normal | 37,800 |
 
 
 </details>
