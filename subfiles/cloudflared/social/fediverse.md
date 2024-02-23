@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,318 |
-| social | 4,817 |
+| social | 4,818 |
 | net | 4,114 |
 | org | 2,748 |
 | de | 2,651 |
@@ -11870,7 +11870,7 @@ Here's a list of public Fediverse services.
 | `douvk.co.uk` | No |
 | `douwes.co.uk` | No |
 | `doux.fun` | No |
-| `douzepoints.social` | Yes |
+| `douzepoints.social` | No |
 | `dov.moe` | Yes |
 | `dovac.org` | Yes |
 | `dowata.xyz` | No |
@@ -41438,6 +41438,7 @@ Here's a list of public Fediverse services.
 | `setoffandtravel.de` | No |
 | `setofprinciples.com` | No |
 | `setonbrown.com` | Yes |
+| `setouchi.social` | No |
 | `setouchiexplorer.com` | Yes |
 | `setsetset.space` | No |
 | `setsuna.kr` | No |
@@ -41721,6 +41722,7 @@ Here's a list of public Fediverse services.
 | `shiptoaster.xyz` | No |
 | `shiro.dog` | No |
 | `shiro.ink` | Yes |
+| `shiro.ws` | Yes |
 | `shirogal.xyz` | Yes |
 | `shiroganedon.net` | No |
 | `shirokurostone.com` | Yes |
@@ -52965,7 +52967,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,125 |
-| Normal | 37,791 |
+| Normal | 37,793 |
 
 
 </details>
