@@ -13427,6 +13427,7 @@ Do not create new issue or we will close it as duplicate.
 | [su_ndrhlaing@X](https://twitter.com/su_ndrhlaing/status/1399618984626905088) | advertise |
 | [SVeejakumaran@X](https://twitter.com/SVeejakumaran/status/1613255511914483719) | advertise |
 | [svencaos@X](https://twitter.com/svencaos/status/1599352328712499200) | advertise |
+| [Svvayyz1337@X](https://twitter.com/Svvayyz1337/status/1761010726083145846) | advertise |
 | [Svvvvyi@X](https://twitter.com/Svvvvyi/status/1383555195305484292) | advertise |
 | [Swag124455@X](https://twitter.com/Swag124455/status/1397945567238627332) | advertise |
 | [SwagDheeraj@X](https://twitter.com/SwagDheeraj/status/1388806316752183298) | advertise |
