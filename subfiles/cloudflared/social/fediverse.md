@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,318 |
-| social | 4,818 |
-| net | 4,115 |
-| org | 2,748 |
-| de | 2,651 |
+| com | 8,319 |
+| social | 4,820 |
+| net | 4,118 |
+| org | 2,750 |
+| de | 2,652 |
 
 
 - Mastodon, Pleroma, etc
@@ -1618,6 +1618,7 @@ Here's a list of public Fediverse services.
 | `akarinext.org` | Yes |
 | `akarisu.eu` | No |
 | `akasa.red` | Yes |
+| `akasaka.org` | No |
 | `akashi.cloud` | No |
 | `akashiensis.com` | No |
 | `akashiensis.online` | No |
@@ -7154,6 +7155,7 @@ Here's a list of public Fediverse services.
 | `cccp.io` | No |
 | `cccwi.social` | No |
 | `ccf.sh` | No |
+| `ccghell.com` | No |
 | `ccianet.org` | Yes |
 | `ccllssd.com` | Yes |
 | `ccp.ovh` | Yes |
@@ -14007,6 +14009,7 @@ Here's a list of public Fediverse services.
 | `fairdinkum.one` | Yes |
 | `fairground.moe` | No |
 | `fairilu.net` | No |
+| `fairly.social` | No |
 | `fairmove.net` | No |
 | `fairmuenchen.de` | No |
 | `fairphone.community` | No |
@@ -20848,6 +20851,7 @@ Here's a list of public Fediverse services.
 | `inframed.net` | No |
 | `infranix.eu` | No |
 | `infraspread.net` | Yes |
+| `infrastruct.social` | No |
 | `infsea.com` | Yes |
 | `infullflow.net` | No |
 | `infurnalcreatures.org` | No |
@@ -22668,6 +22672,7 @@ Here's a list of public Fediverse services.
 | `junia.social` | No |
 | `junimo.party` | No |
 | `juniorjpdj.pl` | No |
+| `juniperrae.net` | No |
 | `junk.rs` | No |
 | `junkbox69.online` | No |
 | `junkeidon.com` | No |
@@ -30593,6 +30598,7 @@ Here's a list of public Fediverse services.
 | `mreair.jp` | Yes |
 | `mrehler.com` | No |
 | `mrelay.link` | No |
+| `mreow.de` | No |
 | `mrfunkedude.com` | No |
 | `mrh.io` | No |
 | `mrhands.horse` | No |
@@ -31660,6 +31666,7 @@ Here's a list of public Fediverse services.
 | `narravista.blog.br` | No |
 | `narrow.world` | No |
 | `naru.cafe` | Yes |
+| `naru.pub` | Yes |
 | `naruciakk.eu` | No |
 | `naruh.com` | Yes |
 | `naruniwa.cc` | No |
@@ -36990,6 +36997,7 @@ Here's a list of public Fediverse services.
 | `potzdorf.cc` | No |
 | `pouchi.ca` | No |
 | `pouet.ca` | No |
+| `pouet.im` | No |
 | `pouet.it` | No |
 | `pouet.me` | No |
 | `pouet.pt` | No |
@@ -39940,6 +39948,7 @@ Here's a list of public Fediverse services.
 | `runarcn.no` | No |
 | `runaway-melancholy.com` | Yes |
 | `runbsd.ca` | Yes |
+| `runcheck.net` | Yes |
 | `rundfunker.net` | No |
 | `runfox.tk` | No |
 | `rungirls.run` | No |
@@ -41491,6 +41500,7 @@ Here's a list of public Fediverse services.
 | `sfl.pro.br` | No |
 | `sflan.uk` | Yes |
 | `sfnotes.page` | No |
+| `sfomuseum.org` | No |
 | `sfsfc.org` | No |
 | `sfss.space` | No |
 | `sfstandard.com` | Yes |
@@ -43776,6 +43786,7 @@ Here's a list of public Fediverse services.
 | `statusq.org` | No |
 | `statyvka.org.ua` | No |
 | `stavros.io` | Yes |
+| `stawz.lol` | No |
 | `stayas.one` | Yes |
 | `staycuriousandkeepsmil.in` | Yes |
 | `staysilent.party` | No |
@@ -52129,6 +52140,7 @@ Here's a list of public Fediverse services.
 | `yojik.net` | No |
 | `yojohan.cc` | Yes |
 | `yokai.cafe` | No |
+| `yokotetsu.net` | No |
 | `yolo.ventures` | No |
 | `yolops.net` | No |
 | `yomi.moe` | No |
@@ -52968,8 +52980,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,123 |
-| Normal | 37,797 |
+| Cloudflare | 15,125 |
+| Normal | 37,807 |
 
 
 </details>
