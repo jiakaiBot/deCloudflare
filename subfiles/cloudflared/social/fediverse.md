@@ -24382,6 +24382,7 @@ Here's a list of public Fediverse services.
 | `kryptykphysh.xyz` | No |
 | `kryta.app` | Yes |
 | `kryta.xyz` | No |
+| `krzysiu69.ovh` | Yes |
 | `ksgaming.it` | No |
 | `ksidi.top` | No |
 | `ksite.de` | No |
@@ -45497,6 +45498,7 @@ Here's a list of public Fediverse services.
 | `telescope.garden` | No |
 | `teletoot.nl` | No |
 | `teleurstellend.nl` | No |
+| `televerse.mov` | No |
 | `television.social` | No |
 | `teleyal.blog` | No |
 | `tellco.ca` | Yes |
@@ -52917,8 +52919,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,112 |
-| Normal | 37,757 |
+| Cloudflare | 15,113 |
+| Normal | 37,758 |
 
 
 </details>
