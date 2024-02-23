@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,319 |
-| social | 4,821 |
+| social | 4,822 |
 | net | 4,118 |
 | org | 2,750 |
 | de | 2,653 |
@@ -3957,6 +3957,7 @@ Here's a list of public Fediverse services.
 | `babycastles.com` | No |
 | `babychou.me` | No |
 | `babyfurs.social` | No |
+| `babyhollywood.social` | No |
 | `babyl.ca` | No |
 | `babylon5.social` | No |
 | `babymetal.party` | No |
@@ -52991,7 +52992,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,140 |
-| Normal | 37,802 |
+| Normal | 37,803 |
 
 
 </details>
