@@ -43932,6 +43932,7 @@ Here's a list of public Fediverse services.
 | `stibi.social` | Yes |
 | `stibma.com` | Yes |
 | `stic.earth` | No |
+| `stic.it` | No |
 | `stickbear.me` | Yes |
 | `stiehler.dev` | Yes |
 | `stigatle.no` | No |
@@ -52964,7 +52965,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,125 |
-| Normal | 37,790 |
+| Normal | 37,791 |
 
 
 </details>
