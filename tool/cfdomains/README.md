@@ -135,6 +135,7 @@ Details:
 - How to find yourself: CRC32 your WarriorID.
 - Your WarriorID will be deleted from our server after 7 days of inactivity.
 
+Top 10
 
 | User | Score |
 | -- | -- |
