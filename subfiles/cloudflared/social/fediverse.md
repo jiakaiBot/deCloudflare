@@ -2312,6 +2312,7 @@ Here's a list of public Fediverse services.
 | `andalys.com` | No |
 | `andalys.fi` | No |
 | `andbutso.net` | No |
+| `andeby.city` | No |
 | `anders.dev` | No |
 | `andersb.org` | No |
 | `andersen.one` | No |
@@ -12010,6 +12011,7 @@ Here's a list of public Fediverse services.
 | `drenth.xyz` | No |
 | `dreo.io` | No |
 | `dresden-perl-mongers.social` | No |
+| `dresden.beer` | No |
 | `dresden.network` | No |
 | `dresserfamily.social` | No |
 | `drew.life` | No |
@@ -24240,6 +24242,7 @@ Here's a list of public Fediverse services.
 | `kostnixladen.de` | No |
 | `kostodon.com` | No |
 | `kostyn.ca` | No |
+| `kosui.me` | Yes |
 | `kosuzu.net` | No |
 | `koszarek.dev` | Yes |
 | `kot.jp` | No |
@@ -52987,8 +52990,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,139 |
-| Normal | 37,800 |
+| Cloudflare | 15,140 |
+| Normal | 37,802 |
 
 
 </details>
