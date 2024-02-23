@@ -5331,7 +5331,7 @@ Here's a list of public Fediverse services.
 | `blazingopen.space` | Yes |
 | `bldg.pw` | No |
 | `bldg7.social` | No |
-| `bldon.net` | No |
+| `bldon.net` | Yes |
 | `bldrweb.org` | Yes |
 | `bleatbox.net` | Yes |
 | `bleauweb.net` | Yes |
@@ -7824,7 +7824,7 @@ Here's a list of public Fediverse services.
 | `chroske.com` | No |
 | `chrosy.net` | No |
 | `chrotonic.com` | No |
-| `chrt.dev` | No |
+| `chrt.dev` | Yes |
 | `chrxs.net` | No |
 | `chrysanthem.org` | No |
 | `chswx.com` | No |
@@ -13197,7 +13197,7 @@ Here's a list of public Fediverse services.
 | `engadgets.news` | No |
 | `engagemedia.org` | Yes |
 | `engard.me` | No |
-| `engawa.social` | No |
+| `engawa.social` | Yes |
 | `engdal.fi` | No |
 | `engekidon.net` | No |
 | `engelke.contact` | Yes |
@@ -15110,7 +15110,7 @@ Here's a list of public Fediverse services.
 | `fixionauta.net` | No |
 | `fixitbear.com` | Yes |
 | `fizmo.org` | No |
-| `fjall.net` | No |
+| `fjall.net` | Yes |
 | `fjara.re` | No |
 | `fjdk.uk` | Yes |
 | `fjedon.com` | No |
@@ -18572,7 +18572,7 @@ Here's a list of public Fediverse services.
 | `hamburger.city` | No |
 | `hamdorf.org` | No |
 | `hameln.social` | No |
-| `hamik.net` | No |
+| `hamik.net` | Yes |
 | `hamiller.net` | No |
 | `hamilton.social` | No |
 | `hamington.net` | Yes |
@@ -28192,7 +28192,7 @@ Here's a list of public Fediverse services.
 | `mastodont.social` | No |
 | `mastodont.tk` | No |
 | `mastodonte.ar` | No |
-| `mastodonte.club` | No |
+| `mastodonte.club` | Yes |
 | `mastodonte.me` | Yes |
 | `mastodonte.ml` | No |
 | `mastodonte.online` | No |
@@ -30983,6 +30983,7 @@ Here's a list of public Fediverse services.
 | `multed.com` | No |
 | `multicast.social` | Yes |
 | `multiclan.ninja` | No |
+| `multicorp.properties` | Yes |
 | `multijeux.fr` | Yes |
 | `multimedialoft.eu` | No |
 | `multimob.be` | No |
@@ -35717,7 +35718,7 @@ Here's a list of public Fediverse services.
 | `perriot.fr` | No |
 | `perron-service.de` | No |
 | `perron-tube.de` | Yes |
-| `perron.live` | No |
+| `perron.live` | Yes |
 | `perry.cool` | No |
 | `persadon.com` | No |
 | `persempio.de` | No |
@@ -38469,7 +38470,7 @@ Here's a list of public Fediverse services.
 | `raven.dog` | No |
 | `raven.xyz` | No |
 | `ravenation.club` | Yes |
-| `ravenholm.club` | No |
+| `ravenholm.club` | Yes |
 | `ravenoak.dev` | No |
 | `ravenoffice.de` | No |
 | `ravens-nest.io` | Yes |
@@ -43415,7 +43416,7 @@ Here's a list of public Fediverse services.
 | `splat00n.ink` | Yes |
 | `splatnet3.com` | Yes |
 | `splatoon3.ink` | Yes |
-| `splats.club` | No |
+| `splats.club` | Yes |
 | `splatsville.social` | No |
 | `spliffito.com` | No |
 | `spline.de` | No |
@@ -47510,7 +47511,7 @@ Here's a list of public Fediverse services.
 | `transistorcafe.net` | Yes |
 | `transitieweb.nl` | No |
 | `transition-waedenswil.ch` | No |
-| `transitory.social` | No |
+| `transitory.social` | Yes |
 | `transkitties.party` | No |
 | `translesbian.top` | No |
 | `transliminal.space` | No |
@@ -52980,8 +52981,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,125 |
-| Normal | 37,807 |
+| Cloudflare | 15,136 |
+| Normal | 37,797 |
 
 
 </details>
