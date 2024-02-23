@@ -132,7 +132,8 @@ Details:
 ### Leaderboard
 
 - Thank you for your contribution! _We need warriors to assist our hunters :)_
-- How to find yourself: CRC32 your warrior ID.
+- How to find yourself: CRC32 your WarriorID.
+- Your WarriorID will be deleted from our server after 7 days of inactivity.
 
 
 | User | Score |
@@ -141,7 +142,7 @@ Details:
 | _fafe2746_ | 20,088 |
 | _153e5c3e_ | 20,035 |
 | _064b7e51_ | 19,785 |
-| _de3b18a0_ | 19,672 |
+| _de3b18a0_ | 19,639 |
 | _a249e3a9_ | 19,554 |
 | _1e3f3fa9_ | 19,537 |
 | _afb066bb_ | 19,529 |
