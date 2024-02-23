@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,319 |
-| social | 4,820 |
+| social | 4,821 |
 | net | 4,118 |
 | org | 2,750 |
-| de | 2,652 |
+| de | 2,653 |
 
 
 - Mastodon, Pleroma, etc
@@ -13690,6 +13690,7 @@ Here's a list of public Fediverse services.
 | `eveningzoo.club` | No |
 | `evenpace.social` | Yes |
 | `event-federation.eu` | No |
+| `eventbikezero.de` | No |
 | `eventide.town` | No |
 | `eventphotographie.com` | Yes |
 | `eventprofs.social` | No |
@@ -31794,6 +31795,7 @@ Here's a list of public Fediverse services.
 | `nbwp.uk` | No |
 | `nc.social` | Yes |
 | `nc.to` | Yes |
+| `nca10.moe` | Yes |
 | `nca10.net` | Yes |
 | `ncaq.net` | Yes |
 | `ncat.dev` | Yes |
@@ -44841,6 +44843,7 @@ Here's a list of public Fediverse services.
 | `syvi.net` | No |
 | `syvita.club` | No |
 | `syzito.xyz` | No |
+| `szalacsi.social` | No |
 | `szeged.social` | No |
 | `szilviavirag.com` | No |
 | `szkdon.com` | No |
@@ -46703,6 +46706,7 @@ Here's a list of public Fediverse services.
 | `timefall.eu.org` | No |
 | `timeglass.de` | No |
 | `timeloop.tv` | Yes |
+| `timemachiner.io` | Yes |
 | `timeriver.xyz` | Yes |
 | `timespiral.co.jp` | No |
 | `timetheft.social` | No |
@@ -52982,8 +52986,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,137 |
-| Normal | 37,797 |
+| Cloudflare | 15,139 |
+| Normal | 37,799 |
 
 
 </details>
