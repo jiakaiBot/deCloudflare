@@ -37621,6 +37621,7 @@ Here's a list of public Fediverse services.
 | `pwk.land` | No |
 | `pwm.social` | No |
 | `pwn.institute` | No |
+| `pwn.moe` | Yes |
 | `pwn3d.eu` | No |
 | `pwned.lol` | No |
 | `pwning.social` | No |
@@ -52981,7 +52982,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,136 |
+| Cloudflare | 15,137 |
 | Normal | 37,797 |
 
 
