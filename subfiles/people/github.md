@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [docs.rapidql.com is down](https://github.com/RapidAPI/rapidql/issues/40)
 - [Workerd SSR issues](https://github.com/iconify/iconify/issues/285)
 - [Problems deploying to Cloudflare](https://github.com/pages-cms/pages-cms/issues/7)
 - [Need to show error-explanation on UI when Cloudflare blocks files on EPAM Prod environment](https://github.com/epam/ai-dial-chat/issues/844)
