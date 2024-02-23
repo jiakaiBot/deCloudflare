@@ -28871,6 +28871,7 @@ Here's a list of public Fediverse services.
 | `meme.moe` | No |
 | `meme.technology` | No |
 | `memecorporation.de` | No |
+| `memecpy.xyz` | Yes |
 | `memedecarbono.com.br` | No |
 | `memefirst.social` | No |
 | `memehub.eu` | Yes |
@@ -52962,7 +52963,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,124 |
+| Cloudflare | 15,125 |
 | Normal | 37,790 |
 
 
