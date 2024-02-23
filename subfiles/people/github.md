@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Problems deploying to Cloudflare](https://github.com/pages-cms/pages-cms/issues/7)
 - [Need to show error-explanation on UI when Cloudflare blocks files on EPAM Prod environment](https://github.com/epam/ai-dial-chat/issues/844)
 - [Cannot connect through CloudFlare Zero Trust](https://github.com/hashicorp/vault-secrets-operator/issues/622)
 - [Install broken after the latest update freescout 1.8.121](https://github.com/freescout-helpdesk/freescout/issues/3818)
