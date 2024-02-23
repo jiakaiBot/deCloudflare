@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,318 |
 | social | 4,818 |
-| net | 4,114 |
+| net | 4,115 |
 | org | 2,748 |
 | de | 2,651 |
 
@@ -216,6 +216,7 @@ Here's a list of public Fediverse services.
 | `103.social` | Yes |
 | `1037.pub` | No |
 | `1040.casa` | No |
+| `1040ste.net` | No |
 | `1042.info` | Yes |
 | `1066.social` | No |
 | `10daidon.net` | No |
@@ -52968,7 +52969,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,123 |
-| Normal | 37,796 |
+| Normal | 37,797 |
 
 
 </details>
