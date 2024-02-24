@@ -84,7 +84,7 @@ Qhov chaw cia no yog ib daim ntawv teev npe ntawm lub vev xaib uas nyob tom qab 
 **Cov Ntaub Ntawv**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cov neeg siv Cloudflare](../cloudflare_users/)
-* [Cloudflare Thawj Vaj Tsev](../cloudflare_users/domains/)
+* [Cloudflare Thawj Vaj Tsev](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Cov neeg siv tsis-Cloudflare CDN](../not_cloudflare/)
 * [Cov neeg siv khoom tiv thaiv Tor](../anti-tor_users/)
 
