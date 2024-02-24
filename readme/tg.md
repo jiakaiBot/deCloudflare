@@ -84,7 +84,7 @@
 **Маълумот**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Истифодабарандагони Cloudflare](../cloudflare_users/)
-* [Доменҳои Cloudflare](../cloudflare_users/domains/)
+* [Доменҳои Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Корбарони Non-Cloudflare CDN](../not_cloudflare/)
 * [Корбарони Анти Тор](../anti-tor_users/)
 
