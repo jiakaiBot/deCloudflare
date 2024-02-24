@@ -20,9 +20,7 @@ Replace the `(base url)` to:
 
 - List data is almost identical to [this git data](http://crimeflare.eu.org).
 - For looking up domain's existence as a [MITM domain](../../cloudflare_users/domains/README.md).
-- Also try: `Listed as Cloudflare` website
-  - [Clearnet](https://karma.crimeflare.eu.org/api/is/cloudflare/html/)
-  - [Tor](http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is/cloudflare/html/)
+- Also try: [Listed as Cloudflare](https://services.crimeflare.eu.org/is_cloudflare/) website
 
 | ? | ? |
 | -- | -- |
