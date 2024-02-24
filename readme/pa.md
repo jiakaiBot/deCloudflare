@@ -84,7 +84,7 @@
 **ਡਾਟਾ**
 * [ਕਲਾਉਡਫਲੇਅਰ ਇੰਕ.](../cloudflare_inc/)
 * [ਕਲਾਉਡਫਲੇਅਰ ਉਪਭੋਗਤਾ](../cloudflare_users/)
-* [ਕਲਾਉਡਫਲੇਅਰ ਡੋਮੇਨ](../cloudflare_users/domains/)
+* [ਕਲਾਉਡਫਲੇਅਰ ਡੋਮੇਨ](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [ਗੈਰ-ਕਲਾਉਡਫਲੇਅਰ ਸੀ ਡੀ ਐਨ ਉਪਭੋਗਤਾ](../not_cloudflare/)
 * [ਐਂਟੀ-ਟੋਰ ਉਪਭੋਗਤਾ](../anti-tor_users/)
 
