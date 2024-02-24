@@ -18,7 +18,7 @@ Replace the `(base url)` to:
 ### Cloudflare Domains Lookup
 
 - List data is almost identical to [this git data](http://crimeflare.eu.org).
-- For looking up domain's existence as a [MITM domain](../../cloudflare_users/domains/README.md).
+- For looking up domain's existence as a [MITM domain](http://cloudflare-domains.project.crimeflare.eu.org/).
 - Also try: [Listed as Cloudflare](https://services.crimeflare.eu.org/is_cloudflare/) website
 
 | ? | ? |

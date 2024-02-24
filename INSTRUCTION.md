@@ -38,7 +38,7 @@ There are many ways to detect it:
 - Visit a website via Tor or VPN, and you will be greeted by "_Attention Required! Cloudflare_" or "_Checking your browser_" webpage.
 - Karma's ["Find Cloudflare Domains" API](subfiles/service/karma_api.md)
 - Use "[Search domain](subfiles/service/ombrelo.md)" webpage.
-- Search [cloudflare domain list](cloudflare_users/domains/).
+- Search [cloudflare domain list](http://cloudflare-domains.project.crimeflare.eu.org/).
   - [CfDomains report tool](tool/cfdomains/README.md)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
@@ -135,12 +135,12 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 
 | List name | Description |
 | -------- | -------- |
-| [/domains/*/antitor_?.txt](anti-tor_users/domains/)     | Split files (FQDN) |
+| [/domains/*/antitor_?.txt](http://antitor-domains.project.crimeflare.eu.org/)     | Split files (FQDN) |
 | [/misc/hostility.md](anti-tor_users/misc/hostility.md) | **Does NOT block Tor access BUT** Domain and Comment |
 
 - Add-on "[Which website rejected me?](subfiles/addon/urjm.md)" will help your domain collection.
 - Add-on "[Will these links block Tor user?](subfiles/addon/isat.md)" will tell you which link rejected Tor visitor.
-- Search [anti-tor fqdn list](anti-tor_users/domains/).
+- Search [anti-tor fqdn list](http://antitor-domains.project.crimeflare.eu.org/).
   - Karma's ["Find Anti-Tor FQDN" API](subfiles/service/karma_api.md)
 
 ![](image/tor_nontor_diff.jpg)
