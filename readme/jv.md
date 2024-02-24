@@ -84,7 +84,7 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Great Cloudwal
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Pangguna Cloudflare](../cloudflare_users/)
-* [Domain Cloudflare](../cloudflare_users/domains/)
+* [Domain Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Pangguna CDN Non-Cloudflare](../not_cloudflare/)
 * [Pangguna anti-Tor](../anti-tor_users/)
 
