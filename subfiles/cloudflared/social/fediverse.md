@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,319 |
+| com | 8,320 |
 | social | 4,822 |
 | net | 4,120 |
 | org | 2,750 |
@@ -12283,7 +12283,7 @@ Here's a list of public Fediverse services.
 | `dusanmitrovic.xyz` | No |
 | `dusanstamenkovic.com` | No |
 | `dusepo.co.uk` | No |
-| `dust-net.systems` | Yes |
+| `dust-net.systems` | No |
 | `dustbuster.club` | Yes |
 | `dustinrue.com` | Yes |
 | `dustinthe.net` | No |
@@ -21742,6 +21742,7 @@ Here's a list of public Fediverse services.
 | `janhamisch.de` | No |
 | `janherm.de` | No |
 | `jani.digital` | No |
+| `janiak.cc` | No |
 | `janian.de` | No |
 | `janitor.chat` | No |
 | `jank.town` | No |
@@ -38015,7 +38016,7 @@ Here's a list of public Fediverse services.
 | `r-o-o-t.net` | Yes |
 | `r-pe.net` | Yes |
 | `r-sauna.fi` | No |
-| `r-sky.jp` | No |
+| `r-sky.jp` | Yes |
 | `r-tekne.net` | No |
 | `r.nf` | Yes |
 | `r.town` | No |
@@ -42485,6 +42486,7 @@ Here's a list of public Fediverse services.
 | `slothy.win` | Yes |
 | `slovak.digital` | No |
 | `slow.pictures` | No |
+| `slowbitcoin.com` | Yes |
 | `slowblog.de` | No |
 | `slowblog.eu` | No |
 | `slowbrain.net` | No |
@@ -52999,8 +53001,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,141 |
-| Normal | 37,810 |
+| Cloudflare | 15,142 |
+| Normal | 37,811 |
 
 
 </details>
