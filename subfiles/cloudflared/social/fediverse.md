@@ -13169,6 +13169,7 @@ Here's a list of public Fediverse services.
 | `end-is-owari.xyz` | No |
 | `end-the-stigma.com` | Yes |
 | `end.io` | Yes |
+| `end0.ru` | No |
 | `endaaman.me` | No |
 | `endeavr.de` | No |
 | `enderman.xyz` | Yes |
@@ -22617,7 +22618,7 @@ Here's a list of public Fediverse services.
 | `jubes.io` | No |
 | `jubi.life` | No |
 | `jubison.fr` | No |
-| `jubjub.club` | No |
+| `jubjub.club` | Yes |
 | `juche.town` | No |
 | `judahbrown.dev` | Yes |
 | `judaism.social` | No |
@@ -29131,7 +29132,7 @@ Here's a list of public Fediverse services.
 | `meuschke.cloud` | No |
 | `meutel.net` | No |
 | `mevideo.host` | No |
-| `mevo.xyz` | No |
+| `mevo.xyz` | Yes |
 | `mew.cat` | Yes |
 | `mew.lgbt` | No |
 | `mew.pm` | Yes |
@@ -53009,8 +53010,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,143 |
-| Normal | 37,818 |
+| Cloudflare | 15,145 |
+| Normal | 37,817 |
 
 
 </details>
