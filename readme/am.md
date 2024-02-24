@@ -84,7 +84,7 @@
 **ውሂብ**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [የደመና ፍሰት ተጠቃሚዎች](../cloudflare_users/)
-* [Cloudflare ጎራዎች](../cloudflare_users/domains/)
+* [Cloudflare ጎራዎች](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Cloud-Blalare CDN ተጠቃሚዎች](../not_cloudflare/)
 * [ፀረ-ቶር ተጠቃሚዎች](../anti-tor_users/)
 
