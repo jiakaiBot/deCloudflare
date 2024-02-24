@@ -86,7 +86,7 @@
 **البيانات**
 * [شركة Cloudflare](../cloudflare_inc/)
 * [مستخدمو Cloudflare](../cloudflare_users/)
-* [مجالات Cloudflare](http://antitor-domains.project.crimeflare.eu.org/)
+* [مجالات Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [مستخدمي CDN غير Cloudflare](../not_cloudflare/)
 * [مستخدمي Anti-Tor](../anti-tor_users/)
 
