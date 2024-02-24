@@ -84,7 +84,7 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "The Great Cloudwall
 **Maglumatlar**
 * [“Cloudflare Inc.”](../cloudflare_inc/)
 * [“Cloudflare” ulanyjylary](../cloudflare_users/)
-* [“Cloudflare” domenleri](../cloudflare_users/domains/)
+* [“Cloudflare” domenleri](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [“Cloudflare” däl CDN ulanyjylary](../not_cloudflare/)
 * [Anti-Tor ulanyjylary](../anti-tor_users/)
 
