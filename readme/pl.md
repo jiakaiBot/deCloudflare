@@ -84,7 +84,7 @@ To repozytorium to lista stron internetowych, które stoją za „Wielką zapor�
 **Dane**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Użytkownicy Cloudflare](../cloudflare_users/)
-* [Domeny Cloudflare](../cloudflare_users/domains/)
+* [Domeny Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Użytkownicy spoza Cloudflare CDN](../not_cloudflare/)
 * [Użytkownicy Anti-Tor](../anti-tor_users/)
 
