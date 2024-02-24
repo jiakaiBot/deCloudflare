@@ -84,7 +84,7 @@ Aquest dipòsit és una llista de llocs web que hi ha al darrere de "The Great C
 **Dades**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Usuaris de Cloudflare](../cloudflare_users/)
-* [Domini de núvols incloents](../cloudflare_users/domains/)
+* [Domini de núvols incloents](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Usuaris de CDN que no siguin Cloudflare](../not_cloudflare/)
 * [Usuaris anti-Tor](../anti-tor_users/)
 
