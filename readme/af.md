@@ -84,7 +84,7 @@ Hierdie bewaarplek is 'n lys van webwerwe wat agter "The Great Cloudwall" staan,
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare-gebruikers](../cloudflare_users/)
-* [Cloudflare-domeine](../cloudflare_users/domains/)
+* [Cloudflare-domeine](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Nie-Cloudflare CDN-gebruikers](../not_cloudflare/)
 * [Anti-Tor-gebruikers](../anti-tor_users/)
 
