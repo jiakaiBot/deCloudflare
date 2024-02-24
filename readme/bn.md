@@ -84,7 +84,7 @@
 **ডেটা**
 * [ক্লাউডফ্লেয়ার ইনক।](../cloudflare_inc/)
 * [ক্লাউডফ্লেয়ার ব্যবহারকারীরা](../cloudflare_users/)
-* [ক্লাউডফ্লেয়ার ডোমেন](../cloudflare_users/domains/)
+* [ক্লাউডফ্লেয়ার ডোমেন](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [নন-ক্লাউডফ্লেয়ার সিডিএন ব্যবহারকারী](../not_cloudflare/)
 * [অ্যান্টি-টর ব্যবহারকারীরা](../anti-tor_users/)
 
