@@ -84,7 +84,7 @@ Dette depot er en liste over websteder, der ligger bag "The Great Cloudwall", de
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare-brugere](../cloudflare_users/)
-* [Cloudflare-domæner](../cloudflare_users/domains/)
+* [Cloudflare-domæner](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Ikke-Cloudflare CDN-brugere](../not_cloudflare/)
 * [Anti-Tor brugere](../anti-tor_users/)
 
