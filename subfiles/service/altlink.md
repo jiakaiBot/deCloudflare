@@ -132,7 +132,7 @@ https://...
 
 ### Settings
 
-You can configure it from [this website](https://mitigator.crimeflare.eu.org).
+You can configure it from [this website](https://services.crimeflare.eu.org/mitigator/).
 
 
 - **Easier way**: From your Mastodon, send a Direct Message with keyword below.
@@ -144,7 +144,7 @@ You can configure it from [this website](https://mitigator.crimeflare.eu.org).
 
 For your poster/meme needs.
 
-- Try [Meme Generator](https://mitigator.crimeflare.eu.org/meme/)
+- Try [Meme Generator](https://services.crimeflare.eu.org/mitigator/meme/)
 
 MitiGator's profile image shows an orange shield and a cartoon of the mascot character, 𝙈𝙞𝙩𝙞𝙂𝙖𝙩𝙤𝙧, who stands proud as the MITM Prevention Alligator.
 The mascot wears a referee top and red sash across chest. Above the shield is 'MitiGator' in arching, bold, small caps, serif lettering.
