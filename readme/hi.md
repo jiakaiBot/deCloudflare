@@ -84,7 +84,7 @@
 **डेटा**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare उपयोगकर्ता](../cloudflare_users/)
-* [Cloudflare Domains](../cloudflare_users/domains/)
+* [Cloudflare Domains](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [गैर Cloudflare CDN उपयोगकर्ता](../not_cloudflare/)
 * [टॉर विरोधी उपयोगकर्ता](../anti-tor_users/)
 
