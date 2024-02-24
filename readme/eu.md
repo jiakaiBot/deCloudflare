@@ -84,7 +84,7 @@ Biltegi hau "The Great Cloudwall" atzean dauden webguneen zerrenda da, Tor erabi
 **Datuak**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare erabiltzaileak](../cloudflare_users/)
-* [Cloudflare domeinuak](../cloudflare_users/domains/)
+* [Cloudflare domeinuak](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Cloudflare CDN erabiltzaileak ez direnak](../not_cloudflare/)
 * [Torrearen aurkako erabiltzaileak](../anti-tor_users/)
 
