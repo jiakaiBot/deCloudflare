@@ -84,7 +84,7 @@ Ibi ipamọ yii jẹ atokọ ti awọn oju opo wẹẹbu ti o wa lẹhin "The Cl
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Awọn olumulo Cloudflare](../cloudflare_users/)
-* [Awọn ibugbe Cloudflare](../cloudflare_users/domains/)
+* [Awọn ibugbe Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Awọn olumulo CDN ti kii ṣe Cloudflare](../not_cloudflare/)
 * [Awọn olumulo Anti-Tor](../anti-tor_users/)
 
