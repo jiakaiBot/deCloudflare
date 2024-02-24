@@ -84,7 +84,7 @@
 **ຂໍ້ມູນ**
 * [ບໍລິສັດ Cloudflare Inc.](../cloudflare_inc/)
 * [ຜູ້ໃຊ້ Cloudflare](../cloudflare_users/)
-* [ໂດເມນ Cloudflare](../cloudflare_users/domains/)
+* [ໂດເມນ Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [ຜູ້ໃຊ້ CDN ທີ່ບໍ່ແມ່ນ Cloudflare](../not_cloudflare/)
 * [ຜູ້ໃຊ້ຕ້ານ Tor](../anti-tor_users/)
 
