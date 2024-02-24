@@ -84,7 +84,7 @@ Repositori ini adalah senarai laman web yang berada di belakang "The Great Cloud
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Pengguna Cloudflare](../cloudflare_users/)
-* [Domain Cloudflare](../cloudflare_users/domains/)
+* [Domain Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Pengguna CDN Bukan Cloudflare](../not_cloudflare/)
 * [Pengguna Anti-Tor](../anti-tor_users/)
 
