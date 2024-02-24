@@ -84,7 +84,7 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Bulud" a
 **Məlumat**
 * [Şirkət Adı Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare İstifadəçiləri](../cloudflare_users/)
-* [Cloudflare Domains](../cloudflare_users/domains/)
+* [Cloudflare Domains](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Cloudflare olmayan CDN istifadəçiləri](../not_cloudflare/)
 * [Anti-Tor istifadəçiləri](../anti-tor_users/)
 
