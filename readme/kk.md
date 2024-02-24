@@ -84,7 +84,7 @@
 **Деректер**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare пайдаланушылары](../cloudflare_users/)
-* [Cloudflare домендері](../cloudflare_users/domains/)
+* [Cloudflare домендері](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Cloudflare емес CDN пайдаланушылары](../not_cloudflare/)
 * [Торға қарсы қолданушылар](../anti-tor_users/)
 
