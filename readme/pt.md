@@ -84,7 +84,7 @@ Este repositório é uma lista de sites que estão por trás do "The Great Cloud
 **Dados**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Usuários Cloudflare](../cloudflare_users/)
-* [Domínios Cloudflare](http://antitor-domains.project.crimeflare.eu.org/)
+* [Domínios Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Usuários que não são do Cloudflare CDN](../not_cloudflare/)
 * [Usuários Anti-Tor](../anti-tor_users/)
 
