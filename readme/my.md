@@ -84,7 +84,7 @@
 **ဒေတာ**
 * [Cloudflare Inc](../cloudflare_inc/)
 * [Cloudflare အသုံးပြုသူများ](../cloudflare_users/)
-* [Cloudflare ဒိုမိန်းများ](../cloudflare_users/domains/)
+* [Cloudflare ဒိုမိန်းများ](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Non-Cloudflare CDN အသုံးပြုသူများ](../not_cloudflare/)
 * [Tor ဆန့်ကျင်သူများ](../anti-tor_users/)
 
