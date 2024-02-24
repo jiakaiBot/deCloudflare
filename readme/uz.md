@@ -84,7 +84,7 @@ Ushbu ombor Tor foydalanuvchilari va boshqa CDN-larni blokirovka qiladigan "Grea
 **Ma'lumotlar**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare foydalanuvchilari](../cloudflare_users/)
-* [Cloudflare domenlari](../cloudflare_users/domains/)
+* [Cloudflare domenlari](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Cloudflare bo'lmagan CDN foydalanuvchilari](../not_cloudflare/)
 * [Torga qarshi foydalanuvchilar](../anti-tor_users/)
 
