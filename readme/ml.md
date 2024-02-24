@@ -84,7 +84,7 @@
 **ഡാറ്റ**
 * [ക്ലൗഡ്ഫ്ലെയർ Inc.](../cloudflare_inc/)
 * [ക്ലൗഡ്ഫ്ലെയർ ഉപയോക്താക്കൾ](../cloudflare_users/)
-* [ക്ലൗഡ്ഫ്ലെയർ ഡൊമെയ്‌നുകൾ](../cloudflare_users/domains/)
+* [ക്ലൗഡ്ഫ്ലെയർ ഡൊമെയ്‌നുകൾ](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [നോൺ-ക്ലൗഡ്ഫ്ലെയർ സിഡിഎൻ ഉപയോക്താക്കൾ](../not_cloudflare/)
 * [ആന്റി-ടോർ ഉപയോക്താക്കൾ](../anti-tor_users/)
 
