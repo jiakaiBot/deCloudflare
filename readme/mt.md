@@ -84,7 +84,7 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "Il-Great Cloudwall", l
 **Dejta**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Utenti ta 'Cloudflare](../cloudflare_users/)
-* [Dominji Cloudflare](../cloudflare_users/domains/)
+* [Dominji Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Utenti CDN mhux Cloudflare](../not_cloudflare/)
 * [Utenti ta 'kontra t-Tor](../anti-tor_users/)
 
