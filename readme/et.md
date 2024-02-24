@@ -84,7 +84,7 @@ See hoidla on loetelu veebisaitidest, mis asuvad "Suure pilvaseina" taga, blokee
 **Andmed**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare kasutajad](../cloudflare_users/)
-* [Pilvede hägususe domeenid](../cloudflare_users/domains/)
+* [Pilvede hägususe domeenid](http://antitor-domains.project.crimeflare.eu.org/)
 * [CDN-i kasutajad, kes ei kasuta pilve](../not_cloudflare/)
 * [Tor-vastased kasutajad](../anti-tor_users/)
 
