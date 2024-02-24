@@ -84,7 +84,7 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "The Great Cloudwa
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Mpampiasa Cloudflare](../cloudflare_users/)
-* [Domains Cloudflare](../cloudflare_users/domains/)
+* [Domains Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Mpampiasa CDN tsy Cloudflare](../not_cloudflare/)
 * [Mpampiasa anti-Tor](../anti-tor_users/)
 
