@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Is celery configuration require?](https://github.com/silverlogic/baseapp-backend/issues/79)
 - [docs.rapidql.com is down](https://github.com/RapidAPI/rapidql/issues/40)
 - [Workerd SSR issues](https://github.com/iconify/iconify/issues/285)
 - [Problems deploying to Cloudflare](https://github.com/pages-cms/pages-cms/issues/7)
