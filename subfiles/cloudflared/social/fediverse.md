@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,319 |
 | social | 4,822 |
-| net | 4,118 |
+| net | 4,119 |
 | org | 2,750 |
 | de | 2,653 |
 
@@ -26389,6 +26389,7 @@ Here's a list of public Fediverse services.
 | `loopsaisei.ooo` | No |
 | `loovto.net` | No |
 | `looxee.com` | No |
+| `lopez-snowhill.net` | Yes |
 | `lopez.social` | No |
 | `lopezjuan.com` | No |
 | `lopeztel.xyz` | No |
@@ -52995,7 +52996,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,133 |
+| Cloudflare | 15,134 |
 | Normal | 37,814 |
 
 
