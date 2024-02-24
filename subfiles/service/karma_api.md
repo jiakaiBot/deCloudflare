@@ -2,10 +2,9 @@
 
 - Operated by `Crimeflare #Karma` with `No log` policy.
   - There is a rate-limit and anti-attack system so please be nice.
-
-There are many wide-range APIs live on Karma.
-
-In this page we explain some of read-only APIs.
+- There are many wide-range APIs live on Karma.
+  - In this page we explain some of read-only APIs.
+  - Contact us for other specific needs.
 
 
 Replace the `(base url)` to:
