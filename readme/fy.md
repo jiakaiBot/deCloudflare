@@ -84,7 +84,7 @@ Dit repository is in list fan websides dy't efter "The Great Cloudwall" steane, 
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare-brûkers](../cloudflare_users/)
-* [Cloudflare-domeinen](../cloudflare_users/domains/)
+* [Cloudflare-domeinen](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Net-Cloudflare CDN-brûkers](../not_cloudflare/)
 * [Anti-Tor brûkers](../anti-tor_users/)
 
