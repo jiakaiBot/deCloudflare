@@ -84,7 +84,7 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "Great Cloudwall la", blok
 **Done**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare Itilizatè yo](../cloudflare_users/)
-* [Cloudflare Domèn yo](../cloudflare_users/domains/)
+* [Cloudflare Domèn yo](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Itilizatè CDN ki pa Cloudflare](../not_cloudflare/)
 * [Itilizatè Anti-Tor](../anti-tor_users/)
 
