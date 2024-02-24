@@ -84,7 +84,7 @@ Acest depozit este o listă de site-uri web care se află în spatele „Marelui
 **Date**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Utilizatori Cloudflare](../cloudflare_users/)
-* [Domenii Cloudflare](http://antitor-domains.project.crimeflare.eu.org/)
+* [Domenii Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Utilizatori CDN non-Cloudflare](../not_cloudflare/)
 * [Utilizatori anti-Tor](../anti-tor_users/)
 
