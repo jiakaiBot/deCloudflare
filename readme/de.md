@@ -84,7 +84,7 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
 **Daten**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare-Benutzer](../cloudflare_users/)
-* [Cloudflare-Domänen](../cloudflare_users/domains/)
+* [Cloudflare-Domänen](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Nicht-Cloudflare-CDN-Benutzer](../not_cloudflare/)
 * [Anti-Tor-Benutzer](../anti-tor_users/)
 
