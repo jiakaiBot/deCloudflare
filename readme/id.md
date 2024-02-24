@@ -84,7 +84,7 @@ Repositori ini adalah daftar situs web yang berada di belakang "The Great Cloudw
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Pengguna Cloudflare](../cloudflare_users/)
-* [Domain Cloudflare](../cloudflare_users/domains/)
+* [Domain Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Non-Cloudflare CDN pengguna](../not_cloudflare/)
 * [Pengguna Anti-Tor](../anti-tor_users/)
 
