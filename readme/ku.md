@@ -84,7 +84,7 @@ Vê repoya navnîşek malperên ku li paş "The Cloudwall mezin" in, rawestandin
 **Jimare**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Bikarhênerên Cloudflare](../cloudflare_users/)
-* [Domainên Cloudflare](../cloudflare_users/domains/)
+* [Domainên Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Bikarhênerên CDN yên ne-Cloudflare](../not_cloudflare/)
 * [Bikarhênerên dijî-Tor](../anti-tor_users/)
 
