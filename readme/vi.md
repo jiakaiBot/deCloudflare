@@ -84,7 +84,7 @@ Kho lưu trữ này là danh sách các trang web đứng sau "Bức tường m�
 **Dữ liệu**
 * [Tập đoàn Cloudflare.](../cloudflare_inc/)
 * [Người dùng Cloudflare](../cloudflare_users/)
-* [Các tên miền Cloudflare](../cloudflare_users/domains/)
+* [Các tên miền Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Người dùng CDN không phải Cloudflare](../not_cloudflare/)
 * [Người dùng chống Tor](../anti-tor_users/)
 
