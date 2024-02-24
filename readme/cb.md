@@ -84,7 +84,7 @@ Ang kini nga repositoryo usa ka lista sa mga website nga sa luyo sa "The Great C
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Mga Gumagamit sa Cloudflare](../cloudflare_users/)
-* [Mga Pundo sa Cloudflare](../cloudflare_users/domains/)
+* [Mga Pundo sa Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Mga tiggamit nga Non-Cloudflare CDN](../not_cloudflare/)
 * [Ang mga tiggamit nga Anti-Tor](../anti-tor_users/)
 
