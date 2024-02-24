@@ -84,7 +84,7 @@ Ububiko ni urutonde rwurubuga ruri inyuma ya "The Great Cloudwall", rukumira aba
 **Amakuru**
 * [Yamazaki Inc.](../cloudflare_inc/)
 * [Abakoresha Igicu](../cloudflare_users/)
-* [Igicu](../cloudflare_users/domains/)
+* [Igicu](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Abakoresha CDN itari Cloudflare](../not_cloudflare/)
 * [Abakoresha anti-Tor](../anti-tor_users/)
 
