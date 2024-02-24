@@ -84,7 +84,7 @@ Ko tenei kohinga tetahi raarangi o nga paetukutuku kei muri i te "The Cloudwall 
 **Raraunga**
 * [Kapua Inc.](../cloudflare_inc/)
 * [Kaiwhakamahi Kapua](../cloudflare_users/)
-* [Nga Puka Kapahaka](../cloudflare_users/domains/)
+* [Nga Puka Kapahaka](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Kaiwhakamahi-kore-Cloudflare CDN](../not_cloudflare/)
 * [Kaiwhakamahi anti-Tor](../anti-tor_users/)
 
