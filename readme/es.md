@@ -84,7 +84,7 @@ Este repositorio es una lista de sitios web que están detrás de "The Great Clo
 **Datos**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Usuarios de Cloudflare](../cloudflare_users/)
-* [Dominios de Cloudflare](../cloudflare_users/domains/)
+* [Dominios de Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Usuarios de CDN que no son de Cloudflare](../not_cloudflare/)
 * [Usuarios de Anti-Tor](../anti-tor_users/)
 
