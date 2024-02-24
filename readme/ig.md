@@ -84,7 +84,7 @@ Ebe a bụ ndepụta nke weebụsaịtị dị n'azụ "The Great Cloudwall", na
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Ndị ọrụ Cloudflare](../cloudflare_users/)
-* [Ngalaba Cloudflare](../cloudflare_users/domains/)
+* [Ngalaba Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Ndị ọrụ CDN na-abụghị Cloudflare](../not_cloudflare/)
 * [Ndị na-eme Anti-Tor](../anti-tor_users/)
 
