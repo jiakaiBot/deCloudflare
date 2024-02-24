@@ -84,7 +84,7 @@
 **ទិន្នន័យ**
 * [Cloudflare Inc ។](../cloudflare_inc/)
 * [អ្នកប្រើប្រាស់ Cloudflare](../cloudflare_users/)
-* [ដែនពពក](../cloudflare_users/domains/)
+* [ដែនពពក](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [អ្នកប្រើ CDN មិនមែន Cloudflare](../not_cloudflare/)
 * [អ្នកប្រើប្រាស់ប្រឆាំងនឹងតូ](../anti-tor_users/)
 
