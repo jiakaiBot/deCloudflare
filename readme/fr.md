@@ -84,7 +84,7 @@ Ce référentiel est une liste de sites Web derrière « The Great Cloudwall »,
 **Les données**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Utilisateurs de Cloudflare](../cloudflare_users/)
-* [Domaines Cloudflare](../cloudflare_users/domains/)
+* [Domaines Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Utilisateurs CDN non Cloudflare](../not_cloudflare/)
 * [Utilisateurs Anti-Tor](../anti-tor_users/)
 
