@@ -84,7 +84,7 @@ Ez a lerakat azon webhelyek listája, amelyek a "Nagy felhőfal" mögött állna
 **Adat**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare felhasználók](../cloudflare_users/)
-* [Cloudflare tartományok](../cloudflare_users/domains/)
+* [Cloudflare tartományok](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Nem Cloudflare CDN felhasználók](../not_cloudflare/)
 * [Tor-ellenes felhasználók](../anti-tor_users/)
 
