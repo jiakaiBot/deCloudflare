@@ -86,7 +86,7 @@
 **數據**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare用戶](../cloudflare_users/)
-* [Cloudflare域](../cloudflare_users/domains/)
+* [Cloudflare域](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [非Cloudflare CDN用戶](../not_cloudflare/)
 * [反Tor用戶](../anti-tor_users/)
 
