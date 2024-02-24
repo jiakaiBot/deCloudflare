@@ -84,7 +84,7 @@ Repositori ieu mangrupikeun daptar situs wéb anu aya di tukangeun "The Great Cl
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Pangguna Cloudflare](../cloudflare_users/)
-* [Cloudflare Domain](../cloudflare_users/domains/)
+* [Cloudflare Domain](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Pamaké CDN Non-Cloudflare](../not_cloudflare/)
 * [Pamaké anti-Tor](../anti-tor_users/)
 
