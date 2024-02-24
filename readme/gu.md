@@ -84,7 +84,7 @@
 **ડેટા**
 * [ક્લાઉડફ્લેર ઇન્ક.](../cloudflare_inc/)
 * [ક્લાઉડફ્લેર વપરાશકર્તાઓ](../cloudflare_users/)
-* [ક્લાઉડફ્લેર ડોમેન્સ](../cloudflare_users/domains/)
+* [ક્લાઉડફ્લેર ડોમેન્સ](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [નોન-ક્લાઉડફ્લેર સીડીએન વપરાશકર્તાઓ](../not_cloudflare/)
 * [વિરોધી ટોર વપરાશકર્તાઓ](../anti-tor_users/)
 
