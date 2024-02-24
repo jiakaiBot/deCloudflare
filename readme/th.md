@@ -84,7 +84,7 @@
 **ข้อมูล**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [ผู้ใช้ Cloudflare](../cloudflare_users/)
-* [โดเมน Cloudflare](../cloudflare_users/domains/)
+* [โดเมน Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [ผู้ใช้ CDN ที่ไม่ใช่ Cloudflare](../not_cloudflare/)
 * [ผู้ใช้ Anti-Tor](../anti-tor_users/)
 
