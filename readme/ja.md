@@ -84,7 +84,7 @@
 **データ**
 * [クラウドフレア企業](../cloudflare_inc/)
 * [クラウドフレア利用者](../cloudflare_users/)
-* [クラウドフレアドメイン](../cloudflare_users/domains/)
+* [クラウドフレアドメイン](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [クラウドフレア以外のCDNユーザー](../not_cloudflare/)
 * [Anti-Torユーザー](../anti-tor_users/)
 
