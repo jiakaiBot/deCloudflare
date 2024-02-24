@@ -84,7 +84,7 @@ Detta förvar är en lista över webbplatser som ligger bakom "The Great Cloudwa
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare-användare](../cloudflare_users/)
-* [Cloudflare-domäner](../cloudflare_users/domains/)
+* [Cloudflare-domäner](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [CDN-användare som inte är Cloudflare](../not_cloudflare/)
 * [Anti-Tor-användare](../anti-tor_users/)
 
