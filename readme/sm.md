@@ -84,7 +84,7 @@ O lenei fale teu oloa o se lisi o uepisaite o loʻo i tua o le "The Great Cloudw
 **Faamatalaga**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare Tagata e Faʻaaogaina](../cloudflare_users/)
-* [Cloudflare tuatusi](../cloudflare_users/domains/)
+* [Cloudflare tuatusi](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Tagata e le Cloudflare CDN tagata](../not_cloudflare/)
 * [Aneti-Tor tagata faaaoga](../anti-tor_users/)
 
