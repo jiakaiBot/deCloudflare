@@ -84,7 +84,7 @@
 **දත්ත**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare භාවිතා කරන්නන්](../cloudflare_users/)
-* [Cloudflare වසම්](../cloudflare_users/domains/)
+* [Cloudflare වසම්](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Cloudflare නොවන CDN භාවිතා කරන්නන්](../not_cloudflare/)
 * [ටෝර් විරෝධී භාවිතා කරන්නන්](../anti-tor_users/)
 
