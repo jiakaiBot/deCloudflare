@@ -119,7 +119,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | edgy-dns.com | No |
 | emiliyan.com | Yes |
 | enjoymylife.net | Yes |
-| eranext.net | Yes |
 | eumera.de | No |
 | extrawdw.net | Yes |
 | f97.xyz | Yes |
@@ -144,7 +143,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hahnjo.de | No |
 | haringstad.com | No |
 | he.net | No |
-| hempfoundation.net | Yes |
 | henek.ovh | Yes |
 | hostme.co.il | Yes |
 | hugo0.moe | Yes |
@@ -183,7 +181,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | korzhyk.pp.ua | Yes |
 | kriswerry.nl | No |
 | krnl.eu | Yes |
-| l337.site | Yes |
 | lacontrevoie.fr | No |
 | lastentarvike.fi | No |
 | lavate.ch | Yes |
@@ -223,7 +220,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mtsoln.com | Yes |
 | mullvad.net | No |
 | mydns.network | Yes |
-| myon.lu | No |
 | mywire.org | Yes |
 | narl.app | No |
 | ndo.dev | Yes |
@@ -366,8 +362,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 189 |
-| Normal | 158 |
+| Cloudflare | 186 |
+| Normal | 157 |
 
 
-### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
