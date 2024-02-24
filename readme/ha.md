@@ -84,7 +84,7 @@ Wannan wurin ajiyar kaya akwai jerin rukunin yanar gizon da ke bayan "Babban Clo
 **Bayanai**
 * [Yankawar Inc](../cloudflare_inc/)
 * [Masu amfani da Cloudflare](../cloudflare_users/)
-* [Yankunan Cloudflare](../cloudflare_users/domains/)
+* [Yankunan Cloudflare](http://antitor-domains.project.crimeflare.eu.org/)
 * [Masu amfani da CDN marasa amfani](../not_cloudflare/)
 * [Masu amfani da Anti-Tor](../anti-tor_users/)
 
