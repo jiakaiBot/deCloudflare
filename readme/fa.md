@@ -86,7 +86,7 @@
 **داده ها**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [کاربران Cloudflare](../cloudflare_users/)
-* [دامنه های Cloudflare](../cloudflare_users/domains/)
+* [دامنه های Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [کاربران CDN غیر Cloudflare](../not_cloudflare/)
 * [کاربران ضد تور](../anti-tor_users/)
 
