@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,320 |
 | social | 4,822 |
-| net | 4,120 |
-| org | 2,750 |
+| net | 4,121 |
+| org | 2,751 |
 | de | 2,653 |
 
 
@@ -3689,6 +3689,7 @@ Here's a list of public Fediverse services.
 | `avery-weir.net` | No |
 | `avery.cafe` | No |
 | `avery.garden` | No |
+| `averyfun.party` | Yes |
 | `averyjenkinsauthor.com` | No |
 | `averymatt.com` | Yes |
 | `averythefurry.com` | No |
@@ -4363,6 +4364,7 @@ Here's a list of public Fediverse services.
 | `bbfactory.it` | No |
 | `bbguimaraes.com` | No |
 | `bbiz.io` | No |
+| `bbktsk.io` | Yes |
 | `bblaze.xyz` | No |
 | `bbngh.com` | Yes |
 | `bbq.golf` | No |
@@ -4958,8 +4960,8 @@ Here's a list of public Fediverse services.
 | `billys.mom` | Yes |
 | `bim.boats` | Yes |
 | `bim.land` | No |
-| `bimal.link` | Yes |
-| `bimal.social` | Yes |
+| `bimal.link` | No |
+| `bimal.social` | No |
 | `bimbiribase.xyz` | No |
 | `bimbo.social` | No |
 | `bimbo.systems` | No |
@@ -10043,6 +10045,7 @@ Here's a list of public Fediverse services.
 | `dankmemes.gg` | Yes |
 | `danksquad.org` | Yes |
 | `danksquad.xyz` | No |
+| `danlife.co` | No |
 | `danmaku.moe` | No |
 | `danmark.party` | No |
 | `danny.page` | Yes |
@@ -25754,6 +25757,7 @@ Here's a list of public Fediverse services.
 | `libretechni.ca` | No |
 | `libreti.net` | No |
 | `libretic.fr` | No |
+| `libretics.org` | No |
 | `libretooth.gr` | No |
 | `libretube.org` | No |
 | `libretube.ru` | No |
@@ -43145,6 +43149,7 @@ Here's a list of public Fediverse services.
 | `soul.ua` | Yes |
 | `soulcrash.net` | No |
 | `soulice.moe` | No |
+| `soulism.net` | No |
 | `soulstrata.xyz` | No |
 | `soultribe.net` | Yes |
 | `soulzeppel.in` | No |
@@ -45775,6 +45780,7 @@ Here's a list of public Fediverse services.
 | `textrhet.com` | No |
 | `texttheater.net` | No |
 | `teyvat.cloud` | No |
+| `tezartube.ru` | Yes |
 | `tezartube.space` | Yes |
 | `tezcat.social` | No |
 | `tezos.lol` | No |
@@ -50511,6 +50517,7 @@ Here's a list of public Fediverse services.
 | `weltraum.social` | Yes |
 | `weltverbessern.de` | No |
 | `wem.st` | No |
+| `weme.wtf` | No |
 | `went2thebridge.org` | No |
 | `wentam.net` | No |
 | `wentsch.me` | No |
@@ -53001,8 +53008,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,142 |
-| Normal | 37,811 |
+| Cloudflare | 15,143 |
+| Normal | 37,817 |
 
 
 </details>
