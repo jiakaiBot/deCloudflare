@@ -84,7 +84,7 @@
 **Податоци**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Корисници на Cloudflare](../cloudflare_users/)
-* [Домени на Cloudflare](http://antitor-domains.project.crimeflare.eu.org/)
+* [Домени на Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Корисници на не-Cloudflare CDN](../not_cloudflare/)
 * [Анти-тор корисници](../anti-tor_users/)
 
