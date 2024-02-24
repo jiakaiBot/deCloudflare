@@ -84,7 +84,7 @@
 **ڊيٽا**
 * [ڪلائو فليئر اي سي](../cloudflare_inc/)
 * [ڪلائوڊ فلير جا صارف](../cloudflare_users/)
-* [ڪلائوڊ فليئر ڊومينز](../cloudflare_users/domains/)
+* [ڪلائوڊ فليئر ڊومينز](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [غير ڪلائوڊ فليئر سي ڊي اين استعمال ڪندڙ](../not_cloudflare/)
 * [انسٽي ٽور استعمال ڪندڙ](../anti-tor_users/)
 
