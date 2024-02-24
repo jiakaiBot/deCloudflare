@@ -86,7 +86,7 @@
 **נתונים**
 * [Cloudflare בע"מ](../cloudflare_inc/)
 * [משתמשי Cloudflare](../cloudflare_users/)
-* [תחומי ענן](../cloudflare_users/domains/)
+* [תחומי ענן](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [משתמשי CDN שאינם עננים](../not_cloudflare/)
 * [משתמשי אנטי טור](../anti-tor_users/)
 
