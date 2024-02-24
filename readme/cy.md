@@ -84,7 +84,7 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "The Great Cloudwall", ga
 **Data**
 * [Mae Cloudflare Inc.](../cloudflare_inc/)
 * [Defnyddwyr Cloudflare](../cloudflare_users/)
-* [Parthoedd Cloudflare](../cloudflare_users/domains/)
+* [Parthoedd Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Defnyddwyr CDN nad ydynt yn Cloudflare](../not_cloudflare/)
 * [Defnyddwyr gwrth-Tor](../anti-tor_users/)
 
