@@ -84,7 +84,7 @@
 **ʻIkepili**
 * [ʻO Cloudflare Inc.](../cloudflare_inc/)
 * [Mea hoʻohana Cloudflare](../cloudflare_users/)
-* [Nā Cloudflare Domains](../cloudflare_users/domains/)
+* [Nā Cloudflare Domains](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Nā mea hoʻohana CDN Non-Cloudflare](../not_cloudflare/)
 * [Mea hoʻohana Anti-Tor](../anti-tor_users/)
 
