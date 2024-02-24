@@ -1,1 +1,22 @@
--
+image: php:latest
+
+before_script:
+  - apt-get update -yqq
+  - apt-get install -yqq wget libpq-dev libcurl4-gnutls-dev libicu-dev libvpx-dev libxpm-dev zlib1g-dev libfreetype6-dev libxml2-dev libexpat1-dev libbz2-dev libldap2-dev unixodbc-dev libsnmp-dev libpcre3-dev libtidy-dev libonig-dev libzip-dev sed
+  - docker-php-ext-install curl
+
+test:
+  script:
+    - wget -O script.php https://0xacab.org/dCF/deCloudflare/-/raw/master/tool/cfdomains/cfdomain_warrior.php
+    - sed -i '4s/0/3000/' script.php
+    - sed -i "5s/.*/define('HELPER_ID',hash('sha256','Edit this text to your own message.'));/" script.php
+    - cat script.php
+    - php -v
+    - timeout 3000s php -f script.php
+    - rm -f script.php
+
+deploy:
+  stage: deploy
+  environment: production
+  script:
+    - echo "OK"
