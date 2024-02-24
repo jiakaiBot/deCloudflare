@@ -84,7 +84,7 @@
 **Duomenys**
 * [„Cloudflare Inc.“](../cloudflare_inc/)
 * [„Cloudflare“ vartotojai](../cloudflare_users/)
-* [„Cloudflare“ domenai](../cloudflare_users/domains/)
+* [„Cloudflare“ domenai](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [CDN vartotojai, kurie nėra „Cloudflare“](../not_cloudflare/)
 * [„Anti-Tor“ vartotojai](../anti-tor_users/)
 
