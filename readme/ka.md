@@ -84,7 +84,7 @@
 **მონაცემები**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare მომხმარებლები](../cloudflare_users/)
-* [Cloudflare დომენები](../cloudflare_users/domains/)
+* [Cloudflare დომენები](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Cloudflare CDN მომხმარებლები](../not_cloudflare/)
 * [ანტი-ტორის მომხმარებლები](../anti-tor_users/)
 
