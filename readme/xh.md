@@ -84,7 +84,7 @@ Olu luhlu luluhlu lwewebhusayithi ezingasemva "kweyona Cloudwall", ezithintela a
 **Idatha**
 * [I-Cloudflare Inc.](../cloudflare_inc/)
 * [Abasebenzisi be-Cloudflare](../cloudflare_users/)
-* [I-Cloudflare Domain](../cloudflare_users/domains/)
+* [I-Cloudflare Domain](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Abasebenzisi be-CDN abanga-Cloudflare](../not_cloudflare/)
 * [Abasebenzisi be-Anti-Tor](../anti-tor_users/)
 
