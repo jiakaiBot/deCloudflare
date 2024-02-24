@@ -84,7 +84,7 @@ Bu depo, Tor kullanıcılarını ve diğer CDN'leri engelleyen "The Great Cloudw
 **Veri**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare Kullanıcıları](../cloudflare_users/)
-* [Cloudflare Alanları](../cloudflare_users/domains/)
+* [Cloudflare Alanları](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Cloudflare olmayan CDN kullanıcıları](../not_cloudflare/)
 * [Anti-Tor kullanıcıları](../anti-tor_users/)
 
