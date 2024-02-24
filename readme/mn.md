@@ -84,7 +84,7 @@
 **Мэдээлэл**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare хэрэглэгчид](../cloudflare_users/)
-* [Cloudflare домэйнууд](../cloudflare_users/domains/)
+* [Cloudflare домэйнууд](http://antitor-domains.project.crimeflare.eu.org/)
 * [Cloudflare бус CDN хэрэглэгчид](../not_cloudflare/)
 * [Anti-Tor хэрэглэгчид](../anti-tor_users/)
 
