@@ -84,7 +84,7 @@
 **Подаци**
 * [Цлоудфларе Инц.](../cloudflare_inc/)
 * [Корисници Цлоудфларе-а](../cloudflare_users/)
-* [Цлоудфларе домене](../cloudflare_users/domains/)
+* [Цлоудфларе домене](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [ЦДН корисници који нису Цлоудфларе](../not_cloudflare/)
 * [Корисници против Тор-а](../anti-tor_users/)
 
