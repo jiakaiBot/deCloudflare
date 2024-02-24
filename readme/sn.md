@@ -84,7 +84,7 @@ Iyi repository runyorwa rwemawebhusaiti ari kumashure kwe "Iyo huru Cloudwall", 
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare Users](../cloudflare_users/)
-* [Cloudflare Domain](../cloudflare_users/domains/)
+* [Cloudflare Domain](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Vasiri-Cloudflare vanoshandisa CDN](../not_cloudflare/)
 * [Vanoshandisa Anti-Tor](../anti-tor_users/)
 
