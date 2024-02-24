@@ -84,7 +84,7 @@
 **సమాచారం**
 * [క్లౌడ్‌ఫ్లేర్ ఇంక్.](../cloudflare_inc/)
 * [క్లౌడ్‌ఫ్లేర్ యూజర్లు](../cloudflare_users/)
-* [క్లౌడ్‌ఫ్లేర్ డొమైన్‌లు](../cloudflare_users/domains/)
+* [క్లౌడ్‌ఫ్లేర్ డొమైన్‌లు](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [క్లౌడ్‌ఫ్లేర్ కాని CDN వినియోగదారులు](../not_cloudflare/)
 * [యాంటీ టోర్ వినియోగదారులు](../anti-tor_users/)
 
