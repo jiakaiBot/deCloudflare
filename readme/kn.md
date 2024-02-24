@@ -84,7 +84,7 @@
 **ಡೇಟಾ**
 * [ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಇಂಕ್.](../cloudflare_inc/)
 * [ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಬಳಕೆದಾರರು](../cloudflare_users/)
-* [ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಡೊಮೇನ್‌ಗಳು](../cloudflare_users/domains/)
+* [ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಡೊಮೇನ್‌ಗಳು](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಅಲ್ಲದ ಸಿಡಿಎನ್ ಬಳಕೆದಾರರು](../not_cloudflare/)
 * [ವಿರೋಧಿ ಟಾರ್ ಬಳಕೆದಾರರು](../anti-tor_users/)
 
