@@ -19,7 +19,7 @@
   - [Local Area](https://services.crimeflare.eu.org/localarea/)
   - [Clearnet Onion](https://clearnetonion.eu.org)
     - [This repository as website](https://decloudflare.crimeflare.eu.org)
-  - [Crimeflare Mail](https://mail.crimeflare.eu.org)
+  - [Crimeflare Mail](https://services.crimeflare.eu.org/mail/)
 - **Cloudflare Alternatives**
   - [Cloudflare Alternatives](alternative/cloudflare.md)
   - [Cloudflare DNS Alternatives](alternative/domaindns.md)
