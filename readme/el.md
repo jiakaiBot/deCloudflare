@@ -84,7 +84,7 @@
 **Δεδομένα**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Χρήστες Cloudflare](../cloudflare_users/)
-* [Τομείς Cloudflare](../cloudflare_users/domains/)
+* [Τομείς Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Χρήστες που δεν ανήκουν στο Cloudflare CDN](../not_cloudflare/)
 * [Χρήστες Anti-Tor](../anti-tor_users/)
 
