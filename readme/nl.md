@@ -84,7 +84,7 @@ Deze repository is een lijst met websites die achter "The Great Cloudwall" staan
 **Gegevens**
 * [Van Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare-gebruikers](../cloudflare_users/)
-* [Cloudflare-domeinen](../cloudflare_users/domains/)
+* [Cloudflare-domeinen](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Niet-Cloudflare CDN-gebruikers](../not_cloudflare/)
 * [Anti-Tor-gebruikers](../anti-tor_users/)
 
