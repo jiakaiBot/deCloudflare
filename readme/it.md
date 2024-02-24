@@ -84,7 +84,7 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 **Dati**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Utenti di Cloudflare](../cloudflare_users/)
-* [Domini Cloudflare](../cloudflare_users/domains/)
+* [Domini Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Utenti CDN non Cloudflare](../not_cloudflare/)
 * [Utenti Anti-Tor](../anti-tor_users/)
 
