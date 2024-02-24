@@ -84,7 +84,7 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "The Great Cloudwal
 **Dati**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Utenti Cloudflare](../cloudflare_users/)
-* [Domini Cloudflare](../cloudflare_users/domains/)
+* [Domini Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Utenti CDN non Cloudflare](../not_cloudflare/)
 * [Utenti Anti-Tor](../anti-tor_users/)
 
