@@ -86,7 +86,7 @@
 **ڈیٹا**
 * [کلاؤڈ فلائر انکارپوریٹڈ](../cloudflare_inc/)
 * [کلاؤڈ فلا Usersر صارفین](../cloudflare_users/)
-* [کلاؤڈ فلایر ڈومینز](../cloudflare_users/domains/)
+* [کلاؤڈ فلایر ڈومینز](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [نان-کلاؤڈفلیئر سی ڈی این صارفین](../not_cloudflare/)
 * [اینٹی ٹور استعمال کرنے والے](../anti-tor_users/)
 
