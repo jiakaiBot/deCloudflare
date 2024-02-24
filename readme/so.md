@@ -84,7 +84,7 @@ Kaydkan waa liisaska bogagga internetka ee ka dambeeya "The Cloud Cloud", oo xan
 **Xog**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Isticmaalayaasha Cloudflare](../cloudflare_users/)
-* [Domains Cloudflare](../cloudflare_users/domains/)
+* [Domains Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Isticmaalayaasha non-Cloudflare CDN](../not_cloudflare/)
 * [Isticmaalayaasha anti-Tor](../anti-tor_users/)
 
