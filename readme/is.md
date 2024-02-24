@@ -84,7 +84,7 @@
 **Gögn**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Notendur Cloudflare](../cloudflare_users/)
-* [Cloudflare lén](../cloudflare_users/domains/)
+* [Cloudflare lén](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Notendur CDN sem ekki eru með skýjakljúfur](../not_cloudflare/)
 * [Anti-Tor notendur](../anti-tor_users/)
 
