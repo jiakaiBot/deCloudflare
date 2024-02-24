@@ -84,7 +84,7 @@ Jalada hili ni orodha ya tovuti ambazo ziko nyuma "Cloudwall Kubwa", zinazuia wa
 **Takwimu**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Watumiaji wa Cloudflare](../cloudflare_users/)
-* [Vikoa vya Cloudflare](../cloudflare_users/domains/)
+* [Vikoa vya Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Watumiaji wa CDN isiyo ya Cloudflare](../not_cloudflare/)
 * [Watumiaji wa Anti-Tor](../anti-tor_users/)
 
