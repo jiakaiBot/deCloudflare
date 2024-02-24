@@ -29967,7 +29967,7 @@ Here's a list of public Fediverse services.
 | `mmodon.online` | No |
 | `mmorpg.social` | No |
 | `mmpr.ca` | No |
-| `mmrw.de` | No |
+| `mmrw.de` | Yes |
 | `mmsh.fr` | No |
 | `mmtr.me` | Yes |
 | `mmunin.com` | Yes |
@@ -41983,6 +41983,7 @@ Here's a list of public Fediverse services.
 | `signalfel.org` | No |
 | `signalnine.net` | No |
 | `signalstation.com` | No |
+| `signalthirteen.online` | No |
 | `signboard.fun` | Yes |
 | `significantbullet.co` | No |
 | `signofthe.fish` | No |
@@ -51681,6 +51682,7 @@ Here's a list of public Fediverse services.
 | `xn--eckza.jp` | No |
 | `xn--eckza.net` | No |
 | `xn--eekf.net` | No |
+| `xn--eeks.xn--tckwe` | Yes |
 | `xn--einautisterzhlt-clb.de` | No |
 | `xn--erzhlzeitmaschiene-ntb.de` | No |
 | `xn--federao-2wa9a.social` | No |
@@ -53011,7 +53013,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,146 |
+| Cloudflare | 15,148 |
 | Normal | 37,817 |
 
 
