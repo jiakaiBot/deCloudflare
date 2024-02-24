@@ -84,7 +84,7 @@
 **Дані**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Користувачі Cloudflare](../cloudflare_users/)
-* [Cloudflare доменів](../cloudflare_users/domains/)
+* [Cloudflare доменів](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Користувачі CDN, які не є Cloudflare](../not_cloudflare/)
 * [Користувачі Anti-Tor](../anti-tor_users/)
 
