@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,320 |
+| com | 8,321 |
 | social | 4,822 |
 | net | 4,121 |
 | org | 2,751 |
@@ -27021,7 +27021,7 @@ Here's a list of public Fediverse services.
 | `mad-scientist.club` | No |
 | `mad-scientists.net` | No |
 | `madameplay.com.br` | No |
-| `madamisskey.net` | Yes |
+| `madamisskey.net` | No |
 | `madbob.org` | No |
 | `madcage.org` | No |
 | `madcam.co.uk` | No |
@@ -48927,6 +48927,7 @@ Here's a list of public Fediverse services.
 | `urls.fyi` | No |
 | `urlxl.com` | Yes |
 | `urly.fun` | No |
+| `urmaul.com` | Yes |
 | `urmom69.com` | No |
 | `urmum.gq` | No |
 | `urn1350.net` | Yes |
@@ -53009,7 +53010,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,143 |
-| Normal | 37,817 |
+| Normal | 37,818 |
 
 
 </details>
