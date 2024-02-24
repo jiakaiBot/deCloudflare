@@ -84,7 +84,7 @@
 **Дадзеныя**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Карыстальнікі Cloudflare](../cloudflare_users/)
-* [Дамены Cloudflare](../cloudflare_users/domains/)
+* [Дамены Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Карыстальнікі CDN, якія не з'яўляюцца Cloudflare](../not_cloudflare/)
 * [Карыстальнікі Anti-Tor](../anti-tor_users/)
 
