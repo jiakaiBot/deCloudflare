@@ -84,7 +84,7 @@ Toto úložiště je seznam webových stránek, které jsou za „Velkým cloude
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Uživatelé cloudflare](../cloudflare_users/)
-* [Cloudflare Domains](../cloudflare_users/domains/)
+* [Cloudflare Domains](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Uživatelé CDN, kteří nejsou cloudflare](../not_cloudflare/)
 * [Uživatelé Anti-Tor](../anti-tor_users/)
 
