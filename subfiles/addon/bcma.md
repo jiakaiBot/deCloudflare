@@ -27,7 +27,7 @@ It is your collection; this add-on never send it online.
 This add-on does not make internet connection by default.
 This option is disabled by default.
 If you enable above option, the add-on will lookup only domain name (e.g. `https://www.mozilla.org/blog/ -> send only "mozilla.org"`) with [Karma API](../service/karma_api.md) service.
-And if the domain is listed in our Cloudflare Domain list, the add-on will block/redirect/notify you based on your preferences.
+And if the domain is listed in our Cloudflare Domain list the add-on will take action based on your preferences.
 
 
 
@@ -35,4 +35,4 @@ And if the domain is listed in our Cloudflare Domain list, the add-on will block
 
 - Looking for `Palemoon`? [Block Cloudflare Requests (Palemoon)](../../tool/block_cloudflare_requests_pm)
 - Download add-on
-  - From Git: [FirefoxESR](https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/bcma.xpi) / [Chromium / Edge](https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/bcma.crx)
+  - From Git: [Firefox ESR](https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/bcma.xpi) / [Chromium / Edge](https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/bcma.crx)

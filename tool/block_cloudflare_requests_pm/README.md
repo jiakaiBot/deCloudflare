@@ -3,7 +3,7 @@
 `Cancel requests to Cloudflare sites`
 
 
-This add-on is for [Palemoon browser](https://en.wikipedia.org/wiki/Pale_Moon_(web_browser)). (Firefox [here](../../subfiles/about.bcma.md))  
+This add-on is for [Palemoon browser](https://en.wikipedia.org/wiki/Pale_Moon_(web_browser)) only. (Firefox [here](../../subfiles/about.bcma.md))  
 
 
 - This **does NOT** mean we endorse Palemoon. [Learn about wolfbeast](../../cloudflare_users/README.md).

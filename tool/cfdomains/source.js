@@ -2476,7 +2476,7 @@ if (myConfig['cf'] != sCFGFV) {
    console.log("\n	/// CrimeFlare Welcome You! ///\n");
    console.log('	Thank you for downloading cfdomains.');
    console.log("	Please type 'resist' if you wish to continue.\n");
-   rl.question('	Cloudflare, the thing I must ', (l) => {
+   rl.question('	Cloudflare, the thing we must ', (l) => {
       rl.close();
       if (l.indexOf('resist') == 0) {
          myConfig['cf'] = sCFGFV;
