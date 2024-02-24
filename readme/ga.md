@@ -84,7 +84,7 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de "The Gr
 **Sonraí**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Úsáideoirí Cloudflare](../cloudflare_users/)
-* [Fearainn Cloudflare](../cloudflare_users/domains/)
+* [Fearainn Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Úsáideoirí CDN neamh-Cloudflare](../not_cloudflare/)
 * [Úsáideoirí frith-Tor](../anti-tor_users/)
 
