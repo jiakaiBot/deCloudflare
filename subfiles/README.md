@@ -16,7 +16,7 @@
   - [Public DNS](service/dns.md)
   - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service/altlink.md)
-  - [Local Area](https://localarea.crimeflare.eu.org)
+  - [Local Area](https://services.crimeflare.eu.org/localarea/)
   - [Clearnet Onion](https://clearnetonion.eu.org)
     - [This repository as website](https://decloudflare.crimeflare.eu.org)
   - [Crimeflare Mail](https://mail.crimeflare.eu.org)
