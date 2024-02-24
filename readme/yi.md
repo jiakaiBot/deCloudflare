@@ -84,7 +84,7 @@
 **דאַטן**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [קלאָודפלאַרע יוזערז](../cloudflare_users/)
-* [קלאָודפלאַרע דאָמאַינס](../cloudflare_users/domains/)
+* [קלאָודפלאַרע דאָמאַינס](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [ניט-קלאָודפלאַרע CDN ניצערס](../not_cloudflare/)
 * [אַנטי-טאָר ניצערס](../anti-tor_users/)
 
