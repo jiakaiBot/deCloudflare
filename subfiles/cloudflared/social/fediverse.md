@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,321 |
+| com | 8,322 |
 | social | 4,822 |
 | net | 4,121 |
 | org | 2,751 |
@@ -17199,6 +17199,7 @@ Here's a list of public Fediverse services.
 | `giantheart.social` | Yes |
 | `giantpaper.org` | Yes |
 | `giants-club.net` | No |
+| `giantstagbeetle.com` | No |
 | `giatsuki.net` | Yes |
 | `gib.social` | No |
 | `gibald.com` | No |
@@ -26717,7 +26718,7 @@ Here's a list of public Fediverse services.
 | `lukyan.eu` | No |
 | `lul.im` | Yes |
 | `lullis.net` | Yes |
-| `lulurl.fr` | No |
+| `lulurl.fr` | Yes |
 | `lulusworld.art` | No |
 | `lulz.blog` | No |
 | `lulz.foo` | No |
@@ -53010,7 +53011,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,145 |
+| Cloudflare | 15,146 |
 | Normal | 37,817 |
 
 
