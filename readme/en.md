@@ -70,7 +70,7 @@ This repository is a list of websites that are behind "The Great Cloudwall", blo
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare Users](../cloudflare_users/)
-* [Cloudflare Domains](../cloudflare_users/domains/)
+* [Cloudflare Domains](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Non-Cloudflare CDN users](../not_cloudflare/)
 * [Anti-Tor users](../anti-tor_users/)
 
