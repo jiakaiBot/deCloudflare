@@ -84,7 +84,7 @@ Sebaka sena sa polokelo ke lenane la liwebosaete tse ka morao ho "The Cloudwall"
 **Lintlha**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Basebelisi ba Cloudflare](../cloudflare_users/)
-* [Mehloli ea Cloudflare](../cloudflare_users/domains/)
+* [Mehloli ea Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Basebelisi ba CDN bao e seng Cloudflare](../not_cloudflare/)
 * [Basebelisi ba Anti-Tor](../anti-tor_users/)
 
