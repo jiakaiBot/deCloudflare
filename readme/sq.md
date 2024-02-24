@@ -84,7 +84,7 @@ Kjo depo është një listë e faqeve të internetit që janë pas "The Great Cl
 **Të dhënat**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Përdoruesit e cloud](../cloudflare_users/)
-* [Domenet e cloud](../cloudflare_users/domains/)
+* [Domenet e cloud](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Përdoruesit jo-cloud të CDN](../not_cloudflare/)
 * [Përdoruesit e anti-torëve](../anti-tor_users/)
 
