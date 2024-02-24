@@ -84,7 +84,7 @@
 **데이터**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare 사용자](../cloudflare_users/)
-* [Cloudflare 도메인](../cloudflare_users/domains/)
+* [Cloudflare 도메인](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Cloudflare가 아닌 CDN 사용자](../not_cloudflare/)
 * [Anti-Tor 사용자](../anti-tor_users/)
 
