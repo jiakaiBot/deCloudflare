@@ -2245,6 +2245,7 @@ Here's a list of public Fediverse services.
 | `anakut.org` | Yes |
 | `analogdreams.blog` | No |
 | `analogphoto.social` | No |
+| `analogpixels.nl` | No |
 | `analogpixels.online` | No |
 | `analogue.social` | No |
 | `ananace.dev` | No |
@@ -29790,6 +29791,7 @@ Here's a list of public Fediverse services.
 | `misskeyval.com` | Yes |
 | `misskirara.net` | Yes |
 | `misskoula.space` | No |
+| `misskytokyo.xyz` | No |
 | `misso-pi.com` | No |
 | `missousaku.com` | No |
 | `misspi.net` | Yes |
@@ -52994,7 +52996,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,133 |
-| Normal | 37,812 |
+| Normal | 37,814 |
 
 
 </details>
