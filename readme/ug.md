@@ -84,7 +84,7 @@
 **سانلىق مەلۇمات**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare ئابونتلىرى](../cloudflare_users/)
-* [Cloudflare دائىرە](../cloudflare_users/domains/)
+* [Cloudflare دائىرە](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Cloudflare بولمىغان CDN ئىشلەتكۈچىلىرى](../not_cloudflare/)
 * [تورغا قارشى ئىشلەتكۈچىلەر](../anti-tor_users/)
 
