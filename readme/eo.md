@@ -85,7 +85,7 @@
 **Datumoj**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Uzantoj de Cloudflare](../cloudflare_users/)
-* [Cloudflare Domajnoj](../cloudflare_users/domains/)
+* [Cloudflare Domajnoj](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Ne-Cloudflare CDN-uzantoj](../not_cloudflare/)
 * [Anti-Tor uzantoj](../anti-tor_users/)
 
