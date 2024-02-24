@@ -84,7 +84,7 @@
 **ତଥ୍ୟ**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ବ୍ୟବହାରକାରୀ |](../cloudflare_users/)
-* [କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ଡୋମେନ୍ |](../cloudflare_users/domains/)
+* [କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ଡୋମେନ୍ |](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [ଅଣ-କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ CDN ବ୍ୟବହାରକାରୀ |](../not_cloudflare/)
 * [ଆଣ୍ଟି-ଟୋର ବ୍ୟବହାରକାରୀ |](../anti-tor_users/)
 
