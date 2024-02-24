@@ -84,7 +84,7 @@ Tämä säilytystila on luettelo verkkosivustoista, jotka ovat "Suuren pilvasein
 **Tiedot**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare-käyttäjät](../cloudflare_users/)
-* [Cloudflare-verkkotunnukset](../cloudflare_users/domains/)
+* [Cloudflare-verkkotunnukset](http://antitor-domains.project.crimeflare.eu.org/)
 * [Ei pilvipallo CDN-käyttäjät](../not_cloudflare/)
 * [Anti-Tor-käyttäjät](../anti-tor_users/)
 
