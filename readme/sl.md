@@ -84,7 +84,7 @@ To skladišče je seznam spletnih mest, ki stojijo za "Great Cloudwall" in bloki
 **Podatki**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Uporabniki Cloudflare-ja](../cloudflare_users/)
-* [Oblake v oblaku](../cloudflare_users/domains/)
+* [Oblake v oblaku](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Uporabniki CDN, ki niso v oblaku](../not_cloudflare/)
 * [Uporabniki Anti-Tor](../anti-tor_users/)
 
