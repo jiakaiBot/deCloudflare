@@ -84,7 +84,7 @@ Bokosi ili ndi mndandanda wa masamba omwe ali kumbuyo kwa "The Cloudwall", akuts
 **Zambiri**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Ogwiritsa Ntchito Cloudflare](../cloudflare_users/)
-* [Cloudflare Domain](../cloudflare_users/domains/)
+* [Cloudflare Domain](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Ogwiritsa ntchito a CDN omwe si a Cloudflare](../not_cloudflare/)
 * [Ogwiritsa ntchito a Anti-Tor](../anti-tor_users/)
 
