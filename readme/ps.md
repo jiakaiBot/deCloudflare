@@ -86,7 +86,7 @@
 **ډاټا**
 * [کلاوډ فلایر شرکت.](../cloudflare_inc/)
 * [د کلاوډ فلیر کاروونکي](../cloudflare_users/)
-* [د کلاوډ فلایر ډومینونه](../cloudflare_users/domains/)
+* [د کلاوډ فلایر ډومینونه](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [غیر کلاوډ فلیر CDN کارونکي](../not_cloudflare/)
 * [د تور ضد کارونکي](../anti-tor_users/)
 
