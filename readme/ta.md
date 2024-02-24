@@ -84,7 +84,7 @@
 **தகவல்கள்**
 * [கிளவுட்ஃப்ளேர் இன்க்.](../cloudflare_inc/)
 * [கிளவுட்ஃப்ளேர் பயனர்கள்](../cloudflare_users/)
-* [கிளவுட்ஃப்ளேர் களங்கள்](../cloudflare_users/domains/)
+* [கிளவுட்ஃப்ளேர் களங்கள்](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [கிளவுட்ஃப்ளேர் அல்லாத சிடிஎன் பயனர்கள்](../not_cloudflare/)
 * [எதிர்ப்பு டோர் பயனர்கள்](../anti-tor_users/)
 
