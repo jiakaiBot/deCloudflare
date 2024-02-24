@@ -84,7 +84,7 @@ Lokhu kugcina uhlu lwamawebhusayithi angemuva kwe- "The Cloudwall" enkulu, evimb
 **Idatha**
 * [I-Cloudflare Inc.](../cloudflare_inc/)
 * [Abasebenzisi be-Cloudflare](../cloudflare_users/)
-* [Izizinda ze-Cloudflare](../cloudflare_users/domains/)
+* [Izizinda ze-Cloudflare](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Abasebenzisi be-CDN abanga-Cloudflare](../not_cloudflare/)
 * [Abasebenzisi be-Anti-Tor](../anti-tor_users/)
 
