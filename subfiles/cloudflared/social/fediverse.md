@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,319 |
 | social | 4,822 |
-| net | 4,119 |
+| net | 4,120 |
 | org | 2,750 |
 | de | 2,653 |
 
@@ -8008,7 +8008,7 @@ Here's a list of public Fediverse services.
 | `clanmother.com` | No |
 | `clanwood.com` | No |
 | `clar.ke` | Yes |
-| `clareifi.com` | No |
+| `clareifi.com` | Yes |
 | `clareifi.org` | Yes |
 | `clarin.moe` | No |
 | `claris.cf` | No |
@@ -30516,6 +30516,7 @@ Here's a list of public Fediverse services.
 | `mou.best` | Yes |
 | `mouchkine.fr` | No |
 | `mouf.net` | No |
+| `mouii.net` | Yes |
 | `moul.es` | No |
 | `moul.re` | No |
 | `moule.world` | No |
@@ -35762,6 +35763,7 @@ Here's a list of public Fediverse services.
 | `pesso.al` | No |
 | `pet.tax` | No |
 | `pet123.club` | No |
+| `petbutler.club` | Yes |
 | `petch.rocks` | No |
 | `petecarr.net` | Yes |
 | `petehub.com` | Yes |
@@ -36969,7 +36971,7 @@ Here's a list of public Fediverse services.
 | `postrad.social` | No |
 | `postrausch.tech` | Yes |
 | `posts.gallery` | No |
-| `posts.stream` | Yes |
+| `posts.stream` | No |
 | `postsoviet.space` | No |
 | `poststoffarm.de` | No |
 | `postthread.xyz` | No |
@@ -50765,7 +50767,7 @@ Here's a list of public Fediverse services.
 | `wiku.hu` | Yes |
 | `wilbo.tech` | No |
 | `wilboard.nl` | No |
-| `wilbvr.me` | Yes |
+| `wilbvr.me` | No |
 | `wilcosky.com` | Yes |
 | `wilcox.pub` | No |
 | `wildada.com` | No |
@@ -52997,8 +52999,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,140 |
-| Normal | 37,809 |
+| Cloudflare | 15,141 |
+| Normal | 37,810 |
 
 
 </details>
