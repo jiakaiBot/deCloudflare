@@ -84,7 +84,7 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 **Data**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Mga Gumagamit ng Cloudflare](../cloudflare_users/)
-* [Mga Cloud Cloud](../cloudflare_users/domains/)
+* [Mga Cloud Cloud](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Mga gumagamit ng Non-Cloudflare CDN](../not_cloudflare/)
 * [Mga gumagamit ng Anti-Tor](../anti-tor_users/)
 
