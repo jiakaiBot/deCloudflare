@@ -84,7 +84,7 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "The Great Cloudwal
 **Donnéeën**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Cloudflare Benotzer](../cloudflare_users/)
-* [Cloudflare Domains](../cloudflare_users/domains/)
+* [Cloudflare Domains](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Net-Cloudflare CDN Benotzer](../not_cloudflare/)
 * [Anti-Tor Benotzer](../anti-tor_users/)
 
