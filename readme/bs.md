@@ -84,7 +84,7 @@ Ovo skladište predstavlja listu web stranica koje stoje iza "Velikog oblačnog 
 **Podaci**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Korisnici Cloudflare-a](../cloudflare_users/)
-* [Cloudflare domene](../cloudflare_users/domains/)
+* [Cloudflare domene](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [CDN korisnici koji nisu Cloudflare](../not_cloudflare/)
 * [Korisnici protiv Tor-a](../anti-tor_users/)
 
