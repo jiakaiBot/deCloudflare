@@ -84,7 +84,7 @@ Ovo spremište je popis web stranica koje stoje iza "Velikog oblačnog zida", a 
 **Podaci**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Korisnici Cloudflare-a](../cloudflare_users/)
-* [Cloudflare domene](../cloudflare_users/domains/)
+* [Cloudflare domene](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [Korisnici CDN koji nisu Cloudflare](../not_cloudflare/)
 * [Korisnici protiv Tor-a](../anti-tor_users/)
 
