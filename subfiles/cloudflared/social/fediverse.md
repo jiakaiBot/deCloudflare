@@ -17480,7 +17480,7 @@ Here's a list of public Fediverse services.
 | `gmartin.net` | Yes |
 | `gmastod.online` | No |
 | `gmb.cz` | No |
-| `gmbh.ink` | No |
+| `gmbh.ink` | Yes |
 | `gme.one` | Yes |
 | `gmem.ca` | Yes |
 | `gmgall.net` | No |
@@ -27091,7 +27091,7 @@ Here's a list of public Fediverse services.
 | `magex.hu` | No |
 | `magfest.org` | Yes |
 | `magi-lab.com` | No |
-| `magi.sh` | No |
+| `magi.sh` | Yes |
 | `magi.systems` | Yes |
 | `magialab.net` | Yes |
 | `magialaboratory.com` | Yes |
@@ -32146,7 +32146,7 @@ Here's a list of public Fediverse services.
 | `nerdynate.live` | Yes |
 | `nerdzoom.media` | No |
 | `nere.social` | No |
-| `nere9.help` | No |
+| `nere9.help` | Yes |
 | `nerfed.net` | No |
 | `nerfherders.club` | No |
 | `nerfherders.io` | Yes |
@@ -32195,6 +32195,7 @@ Here's a list of public Fediverse services.
 | `netfull.org` | No |
 | `netfuture.ch` | No |
 | `nethack.tv` | No |
+| `nether-orchid.top` | Yes |
 | `nether.net` | No |
 | `netheredge.com` | No |
 | `nethole.us` | No |
@@ -34014,7 +34015,7 @@ Here's a list of public Fediverse services.
 | `okadajp.org` | No |
 | `okaminet.xyz` | No |
 | `okapi.website` | No |
-| `okaprog.com` | No |
+| `okaprog.com` | Yes |
 | `okaris.de` | No |
 | `okashi.me` | Yes |
 | `okayu.jp` | Yes |
@@ -45857,7 +45858,7 @@ Here's a list of public Fediverse services.
 | `the-door.uk` | No |
 | `the-evil.net` | No |
 | `the-expanse.net` | No |
-| `the-gathering.space` | No |
+| `the-gathering.space` | Yes |
 | `the-goblin.net` | Yes |
 | `the-hopkins.com` | Yes |
 | `the-hub.zone` | Yes |
@@ -52996,8 +52997,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,134 |
-| Normal | 37,814 |
+| Cloudflare | 15,140 |
+| Normal | 37,809 |
 
 
 </details>
