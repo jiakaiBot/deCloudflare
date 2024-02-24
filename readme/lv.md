@@ -84,7 +84,7 @@
 **Dati**
 * [Cloudflare Inc.](../cloudflare_inc/)
 * [Mākoņu uzliesmojuma lietotāji](../cloudflare_users/)
-* [Mākoņu uzliesmojuma domēni](../cloudflare_users/domains/)
+* [Mākoņu uzliesmojuma domēni](http://cloudflare-domains.project.crimeflare.eu.org/)
 * [CDN lietotāji, kas nav Cloudflare](../not_cloudflare/)
 * [Anti-Tor lietotāji](../anti-tor_users/)
 
