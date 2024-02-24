@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,322 |
 | social | 4,822 |
-| net | 4,121 |
+| net | 4,122 |
 | org | 2,751 |
 | de | 2,653 |
 
@@ -12972,6 +12972,7 @@ Here's a list of public Fediverse services.
 | `ellenburg.computer` | Yes |
 | `ellenburg.org` | Yes |
 | `ellenhp.me` | Yes |
+| `ellicstudio.net` | No |
 | `ellie.chat` | No |
 | `ellie.pet` | Yes |
 | `ellie.social` | No |
@@ -35383,7 +35384,7 @@ Here's a list of public Fediverse services.
 | `path.pictures` | No |
 | `pathconnect.de` | No |
 | `pathfinder.social` | Yes |
-| `pathfinderdreams.com` | No |
+| `pathfinderdreams.com` | Yes |
 | `pathofexile-discuss.com` | Yes |
 | `pati.to` | No |
 | `patmulcahy.com` | No |
@@ -39977,6 +39978,7 @@ Here's a list of public Fediverse services.
 | `runlinux.net` | No |
 | `runloop.dev` | No |
 | `runnerd.net` | No |
+| `running.cafe` | No |
 | `runninginthenight.com` | No |
 | `runningwithbulls.com` | No |
 | `runorsmile.de` | No |
@@ -48025,6 +48027,7 @@ Here's a list of public Fediverse services.
 | `tunahan.social` | Yes |
 | `tunamaguro.dev` | Yes |
 | `tunetalk.jp` | Yes |
+| `tungstenocean.xyz` | No |
 | `tuning.social` | No |
 | `tunkki.xyz` | Yes |
 | `tunnelcat.net` | No |
@@ -53013,8 +53016,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,148 |
-| Normal | 37,817 |
+| Cloudflare | 15,149 |
+| Normal | 37,819 |
 
 
 </details>
