@@ -127,6 +127,7 @@ Details:
 - Source
   - [cfdomain_warrior.php](cfdomain_warrior.php)
     - e.g. Edit the file then run `php -f cfdomain_warrior.php`
+- [How to run it with GLRunner](rename_me_to-.gitlab-ci.yml-.txt)
 
 
 ### Leaderboard
