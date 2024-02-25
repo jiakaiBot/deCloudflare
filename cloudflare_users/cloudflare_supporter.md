@@ -8361,6 +8361,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mahmoud69842052@X](https://twitter.com/Mahmoud69842052/status/1688118981213777920) | advertise |
 | [Mahmoudd13571@X](https://twitter.com/Mahmoudd13571/status/1646389594357735426) | advertise |
 | [MahmoudXmmx@X](https://twitter.com/MahmoudXmmx/status/1620200697118740481) | advertise |
+| [mahmuodalex@X](https://twitter.com/mahmuodalex/status/1761739469613392337) | advertise |
 | [mahshadjanzadeh@X](https://twitter.com/mahshadjanzadeh/status/1607456714806423553) | advertise |
 | [Mahyar1985@X](https://twitter.com/Mahyar1985/status/1578914921672503296) | advertise |
 | [Mahyarbagheri65@X](https://twitter.com/Mahyarbagheri65/status/1635338082974314498) | advertise |
