@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,327 |
-| social | 4,822 |
+| com | 8,329 |
+| social | 4,823 |
 | net | 4,124 |
 | org | 2,753 |
 | de | 2,655 |
@@ -13066,6 +13066,7 @@ Here's a list of public Fediverse services.
 | `ember.lgbt` | Yes |
 | `ember.li` | No |
 | `embers.social` | No |
+| `embersof.life` | No |
 | `emberswrit.ing` | No |
 | `embracethevoid.net` | Yes |
 | `embracing.space` | Yes |
@@ -16005,6 +16006,7 @@ Here's a list of public Fediverse services.
 | `friendsandfiendsclub.com` | No |
 | `friendscommunity.eu` | No |
 | `friendsend.org` | No |
+| `friendshavingfuntogether.com` | No |
 | `friendship.quest` | No |
 | `friendsni.co` | No |
 | `friendsofbill.social` | Yes |
@@ -16355,6 +16357,7 @@ Here's a list of public Fediverse services.
 | `furrypaws.cc` | Yes |
 | `furrypride.org` | No |
 | `furryrefuge.com` | Yes |
+| `furrysocial.ru` | No |
 | `furrysp.top` | Yes |
 | `furrytf.club` | No |
 | `furryvile.net` | Yes |
@@ -33699,6 +33702,7 @@ Here's a list of public Fediverse services.
 | `o-k-m.de` | No |
 | `o-man.co` | No |
 | `o-nature-culture.net` | No |
+| `o-nc.me` | No |
 | `o-o.party` | Yes |
 | `o-u-t-e-r.space` | No |
 | `o0i.es` | No |
@@ -41062,6 +41066,7 @@ Here's a list of public Fediverse services.
 | `sd.ai` | Yes |
 | `sda1.net` | Yes |
 | `sda2.net` | Yes |
+| `sdbpod.com` | No |
 | `sdc.su` | Yes |
 | `sddn.space` | Yes |
 | `sdeu.fr` | No |
@@ -49309,6 +49314,7 @@ Here's a list of public Fediverse services.
 | `vdh.za.net` | Yes |
 | `vdheide.net` | No |
 | `vdk2ch.ru` | No |
+| `vdlc.social` | No |
 | `vdna.be` | No |
 | `vdoor.ch` | No |
 | `vdurdome.net` | Yes |
@@ -53054,7 +53060,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,165 |
-| Normal | 37,840 |
+| Normal | 37,846 |
 
 
 </details>
