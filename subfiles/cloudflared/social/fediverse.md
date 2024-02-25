@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,325 |
 | social | 4,822 |
 | net | 4,124 |
-| org | 2,752 |
+| org | 2,753 |
 | de | 2,655 |
 
 
@@ -36735,6 +36735,7 @@ Here's a list of public Fediverse services.
 | `pointless.chat` | Yes |
 | `pointless.net` | No |
 | `pointless.one` | No |
+| `pointless.video` | No |
 | `pointofviewpoint.com` | No |
 | `pointsecu.fr` | No |
 | `poisonous.love` | No |
@@ -42586,6 +42587,7 @@ Here's a list of public Fediverse services.
 | `smdr.io` | Yes |
 | `sme.li` | No |
 | `smeap.com` | No |
+| `smears.org` | No |
 | `smeets.ee` | Yes |
 | `smeets.re` | Yes |
 | `smekal.at` | No |
@@ -53048,7 +53050,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,162 |
-| Normal | 37,837 |
+| Normal | 37,839 |
 
 
 </details>
