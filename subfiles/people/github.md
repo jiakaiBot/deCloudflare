@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [0 bytes read on a total of 2 expected bytes](https://github.com/python-websockets/websockets/issues/1445)
 - [Blahaj.transgirl.dev is offline](https://github.com/CatgirlApril/BlahajAPI/issues/3)
 - [Issue Extra Security 1.0.7 for when captcha fail](https://github.com/freescout-helpdesk/freescout/issues/3824)
 - [Is celery configuration require?](https://github.com/silverlogic/baseapp-backend/issues/79)
