@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,325 |
+| com | 8,327 |
 | social | 4,822 |
 | net | 4,124 |
 | org | 2,753 |
@@ -25012,6 +25012,7 @@ Here's a list of public Fediverse services.
 | `latel88.space` | No |
 | `latenight.social` | No |
 | `latenightblog.com` | No |
+| `latenightpopcorn.com` | No |
 | `lateral8.com` | Yes |
 | `laterracita.online` | No |
 | `latest-update.eu` | No |
@@ -35324,6 +35325,7 @@ Here's a list of public Fediverse services.
 | `parsleague.jp` | Yes |
 | `parsonshosting.com` | Yes |
 | `parta.ge` | Yes |
+| `partageflex.com` | No |
 | `partecipa.digital` | No |
 | `parti-science.africa` | No |
 | `parti-socialiste-escalquens-belberaud.fr` | No |
@@ -53052,7 +53054,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,165 |
-| Normal | 37,838 |
+| Normal | 37,840 |
 
 
 </details>
