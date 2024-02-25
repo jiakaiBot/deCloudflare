@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,822 |
 | net | 4,124 |
 | org | 2,752 |
-| de | 2,654 |
+| de | 2,655 |
 
 
 - Mastodon, Pleroma, etc
@@ -12085,6 +12085,7 @@ Here's a list of public Fediverse services.
 | `droppedbits.com` | No |
 | `dropshare.social` | No |
 | `drosophila.social` | No |
+| `drosselkom.de` | No |
 | `drostan.org` | Yes |
 | `drow.be` | No |
 | `drownthewitch.com` | Yes |
@@ -37207,6 +37208,7 @@ Here's a list of public Fediverse services.
 | `princess.cat` | No |
 | `princess.industries` | No |
 | `princess.pet` | No |
+| `princeton.edu` | Yes |
 | `principlesqed.com` | No |
 | `prinsesse.co` | No |
 | `print3d.social` | No |
@@ -40185,6 +40187,7 @@ Here's a list of public Fediverse services.
 | `s4y.us` | Yes |
 | `s6jr.com` | No |
 | `s6q.dev` | Yes |
+| `s7.rs` | No |
 | `s7t.de` | No |
 | `s9e.is` | No |
 | `sa-com.de` | No |
@@ -53044,8 +53047,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,161 |
-| Normal | 37,835 |
+| Cloudflare | 15,162 |
+| Normal | 37,837 |
 
 
 </details>
