@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,331 |
-| social | 4,823 |
+| social | 4,824 |
 | net | 4,124 |
 | org | 2,754 |
 | de | 2,656 |
@@ -20886,7 +20886,7 @@ Here's a list of public Fediverse services.
 | `inframed.net` | No |
 | `infranix.eu` | No |
 | `infraspread.net` | Yes |
-| `infrastruct.social` | No |
+| `infrastruct.social` | Yes |
 | `infsea.com` | Yes |
 | `infullflow.net` | No |
 | `infurnalcreatures.org` | No |
@@ -36154,6 +36154,7 @@ Here's a list of public Fediverse services.
 | `piki.dev` | No |
 | `piki.moe` | Yes |
 | `pikipika.com` | Yes |
+| `piko.social` | Yes |
 | `piko2.net` | Yes |
 | `pikokr.dev` | Yes |
 | `pikopiko.party` | No |
@@ -53073,8 +53074,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,174 |
-| Normal | 37,851 |
+| Cloudflare | 15,176 |
+| Normal | 37,850 |
 
 
 </details>
