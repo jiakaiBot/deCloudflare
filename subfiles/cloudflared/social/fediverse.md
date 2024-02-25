@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,322 |
+| com | 8,323 |
 | social | 4,822 |
-| net | 4,122 |
+| net | 4,123 |
 | org | 2,751 |
 | de | 2,653 |
 
@@ -4891,6 +4891,7 @@ Here's a list of public Fediverse services.
 | `bigfloppa.art` | Yes |
 | `bigfoot.ninja` | No |
 | `bigger6.com` | No |
+| `biggergig.com` | No |
 | `biggs.social` | Yes |
 | `bigguys.club` | No |
 | `bigheart.tech` | No |
@@ -11367,7 +11368,7 @@ Here's a list of public Fediverse services.
 | `discuss.scot` | Yes |
 | `discuss.systems` | No |
 | `discussion.studio` | No |
-| `discworld.social` | Yes |
+| `discworld.social` | No |
 | `disequilibrium.org` | Yes |
 | `disflux.org` | No |
 | `disinfo.zone` | Yes |
@@ -36213,6 +36214,7 @@ Here's a list of public Fediverse services.
 | `pirate.lgbt` | Yes |
 | `pirateale.xyz` | No |
 | `pirated.mobi` | Yes |
+| `pirated.zip` | Yes |
 | `pirateheaven.eu` | No |
 | `piraten-holzminden.de` | No |
 | `piraten-partei.social` | No |
@@ -43095,6 +43097,7 @@ Here's a list of public Fediverse services.
 | `sonichu.com` | No |
 | `sonichu.social` | No |
 | `sonicstatus.com` | No |
+| `sonictempest.net` | No |
 | `sonnenmulde.at` | No |
 | `sonntag.fr` | No |
 | `sonogatto.it` | No |
@@ -53017,7 +53020,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,149 |
-| Normal | 37,819 |
+| Normal | 37,822 |
 
 
 </details>
