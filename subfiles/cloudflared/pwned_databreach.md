@@ -630,8 +630,8 @@ Here's a list of breached sites.
 | Tumblr (tumblr) | 65,469,298 | Yes |
 | TunedGlobal (Tuned Global) | 985,586 | Yes |
 | Tunngle | 8,192,928 | No |
-| Twitter200M (Twitter (200M)) | 211,524,284 | Yes |
-| Twitter | 6,682,453 | Yes |
+| Twitter200M (Twitter (200M)) | 211,524,284 | No |
+| Twitter | 6,682,453 | No |
 | UC (University of California) | 547,422 | Yes |
 | Uiggy | 2,682,650 | No |
 | Ulmon | 777,769 | No |
@@ -688,7 +688,7 @@ Here's a list of breached sites.
 | Xbox-Scene | 432,552 | No |
 | Xbox360ISO (Xbox 360 ISO) | 1,296,959 | No |
 | Xiaomi | 7,088,010 | No |
-| Yahoo | 453,427 | Yes |
+| Yahoo | 453,427 | No |
 | Yam | 13,258,797 | Yes |
 | Yandex (Yandex Dump) | 1,186,564 | No |
 | Yatra | 5,033,997 | No |
@@ -732,10 +732,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 417 | 4,691,185,496 |
-| Normal | 294 | 4,439,529,416 |
+| Cloudflare | 414 | 4,472,525,332 |
+| Normal | 297 | 4,658,189,580 |
 
 
 
-### 58.6% of breached sites (pwned sites) are using Cloudflare.
-### 51.4% of leaked accounts are on Cloudflare sites.
+### 58.2% of breached sites (pwned sites) are using Cloudflare.
+### 49% of leaked accounts are on Cloudflare sites.
