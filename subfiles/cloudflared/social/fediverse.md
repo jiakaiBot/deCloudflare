@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,329 |
+| com | 8,330 |
 | social | 4,823 |
 | net | 4,124 |
 | org | 2,753 |
@@ -2639,6 +2639,7 @@ Here's a list of public Fediverse services.
 | `antizuckbook.com` | No |
 | `anto.ie` | No |
 | `antoineve.me` | No |
+| `anton-exe.eu` | Yes |
 | `anton-tartz.de` | No |
 | `antonengelhardt.de` | No |
 | `antonimaroto.com` | No |
@@ -2829,6 +2830,7 @@ Here's a list of public Fediverse services.
 | `aqn.jp` | No |
 | `aqours.run` | No |
 | `aqr.af` | No |
+| `aqra.farm` | Yes |
 | `aqraf.tokyo` | No |
 | `aqring.com` | Yes |
 | `aqua-graphic.blue` | No |
@@ -7826,6 +7828,7 @@ Here's a list of public Fediverse services.
 | `chromium.social` | No |
 | `chromozone.dev` | Yes |
 | `chronal.net` | No |
+| `chronicoverengineering.com` | Yes |
 | `chronos-tachyon.net` | No |
 | `chronosaur.us` | No |
 | `chronostase.net` | No |
@@ -27212,7 +27215,7 @@ Here's a list of public Fediverse services.
 | `mailcow.social` | No |
 | `maildog.ru` | No |
 | `maildoggo.net` | No |
-| `mailgourmet.de` | No |
+| `mailgourmet.de` | Yes |
 | `maillard.im` | No |
 | `mailpace.com` | Yes |
 | `mailpile.is` | No |
@@ -39379,7 +39382,7 @@ Here's a list of public Fediverse services.
 | `risonchu.social` | No |
 | `rita.moe` | Yes |
 | `ritchie.social` | Yes |
-| `ritec.jp` | No |
+| `ritec.jp` | Yes |
 | `rithy.club` | No |
 | `ritimo.org` | No |
 | `ritma.net` | Yes |
@@ -42066,7 +42069,7 @@ Here's a list of public Fediverse services.
 | `silksky.us` | No |
 | `silkyplover.org` | No |
 | `silliness.observer` | No |
-| `silly.business` | No |
+| `silly.business` | Yes |
 | `silly.land` | Yes |
 | `sillydragon.ca` | No |
 | `sillymo.de` | No |
@@ -50638,6 +50641,7 @@ Here's a list of public Fediverse services.
 | `wesweber.com` | No |
 | `wetalkyoulisten.com` | Yes |
 | `wetdry.world` | No |
+| `wetellstories.eu` | No |
 | `wetermater.com` | No |
 | `wetfish.space` | No |
 | `wethethinking.com` | No |
@@ -51757,6 +51761,7 @@ Here's a list of public Fediverse services.
 | `xn--kstenlouis-9db.de` | No |
 | `xn--ldt-qla.net` | No |
 | `xn--lkka-gra.com` | No |
+| `xn--llq98d.jp` | No |
 | `xn--lofll-1sat.is` | No |
 | `xn--m1a0b.net` | No |
 | `xn--mnq49e62t21e.xn--rhqv96g` | No |
@@ -53064,8 +53069,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,166 |
-| Normal | 37,850 |
+| Cloudflare | 15,172 |
+| Normal | 37,849 |
 
 
 </details>
