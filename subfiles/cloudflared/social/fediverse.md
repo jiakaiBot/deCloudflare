@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,823 |
 | net | 4,124 |
 | org | 2,753 |
-| de | 2,655 |
+| de | 2,656 |
 
 
 - Mastodon, Pleroma, etc
@@ -1059,6 +1059,7 @@ Here's a list of public Fediverse services.
 | `abyss.moe` | Yes |
 | `abyss.observer` | No |
 | `abyssal.ninja` | No |
+| `abyssal.rip` | No |
 | `abyssdomain.expert` | No |
 | `abyssfriend.club` | No |
 | `abyx.tech` | No |
@@ -2671,6 +2672,7 @@ Here's a list of public Fediverse services.
 | `anxioustwit.ch` | No |
 | `any-key.press` | No |
 | `any.dev` | Yes |
+| `any64.de` | No |
 | `anyaforger.art` | No |
 | `anyfrog.net` | Yes |
 | `anyhu.gs` | No |
@@ -51936,6 +51938,7 @@ Here's a list of public Fediverse services.
 | `xylonx.com` | Yes |
 | `xymoste.ch` | No |
 | `xynthxolarxylia.xyz` | No |
+| `xyntion.consulting` | No |
 | `xys.town` | Yes |
 | `xytes.net` | No |
 | `xyu.social` | Yes |
@@ -53062,7 +53065,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,166 |
-| Normal | 37,847 |
+| Normal | 37,850 |
 
 
 </details>
