@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare still blocking unfortunately](https://github.com/azoff/tockstalk/issues/4)
 - [systemd-resolved: failure to resolve duckduckgo.com when using 1.1.1.3](https://github.com/systemd/systemd/issues/31484)
 - [Cloudflare error (not registering in app)](https://github.com/keiyoushi/extensions-source/issues/1535)
 - [Login Timeout Error Occurs During Scraping](https://github.com/Ismail-Mahmoud/lcws/issues/1)
