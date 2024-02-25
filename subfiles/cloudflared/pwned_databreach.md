@@ -620,7 +620,7 @@ Here's a list of breached sites.
 | TorrentInvites (Torrent Invites) | 352,120 | No |
 | Toumei | 76,682 | No |
 | Tout | 652,683 | No |
-| TravelOK (Travel Oklahoma) | 637,279 | No |
+| TravelOK (Travel Oklahoma) | 637,279 | Yes |
 | Travelio | 471,376 | Yes |
 | Trello | 15,111,945 | Yes |
 | Trillian | 3,827,238 | Yes |
@@ -732,10 +732,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 414 | 4,472,525,332 |
-| Normal | 297 | 4,658,189,580 |
+| Cloudflare | 415 | 4,473,162,611 |
+| Normal | 296 | 4,657,552,301 |
 
 
 
-### 58.2% of breached sites (pwned sites) are using Cloudflare.
+### 58.4% of breached sites (pwned sites) are using Cloudflare.
 ### 49% of leaked accounts are on Cloudflare sites.
