@@ -45,7 +45,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | anudeep.me | Yes |
 | apad.pro | Yes |
 | aquilenet.fr | No |
-| ares-taiwan.com | Yes |
 | artikel10.org | No |
 | avastdns.com | No |
 | avdkishore.dev | Yes |
@@ -82,7 +81,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | corpa.me | Yes |
 | cubedns.com | No |
 | cuprum.ru | Yes |
-| cyhsu.xyz | Yes |
 | cynthialabs.net | Yes |
 | danamas.net | Yes |
 | danayasastore.my.id | Yes |
@@ -249,6 +247,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | paesa.es | Yes |
 | panszelescik.pl | Yes |
 | pathofgrace.com | No |
+| paulo.nom.za | Yes |
 | paxavemedia.com | Yes |
 | pernika.net | Yes |
 | persiannit.net | Yes |
@@ -360,8 +359,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 186 |
+| Cloudflare | 185 |
 | Normal | 155 |
 
 
-### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
