@@ -20365,7 +20365,7 @@ Here's a list of public Fediverse services.
 | `iddqd.social` | No |
 | `iddqdidkfa.de` | No |
 | `idea.cc` | Yes |
-| `ideadon.net` | Yes |
+| `ideadon.net` | No |
 | `ideaforg.com` | No |
 | `idealhealth.social` | No |
 | `ideali.sh` | No |
@@ -31679,6 +31679,7 @@ Here's a list of public Fediverse services.
 | `nanodawa.net` | Yes |
 | `nanoscopic.de` | No |
 | `nanosector.nl` | Yes |
+| `nanoshinono.me` | Yes |
 | `nanovim.tk` | No |
 | `nanoyagi.com` | No |
 | `nanoyun.net` | Yes |
@@ -32565,7 +32566,7 @@ Here's a list of public Fediverse services.
 | `nicolas-guichard.ovh` | No |
 | `nicolas.social` | Yes |
 | `nicolastissot.fr` | No |
-| `nicolog.jp` | No |
+| `nicolog.jp` | Yes |
 | `nicolosus.chat` | Yes |
 | `nicolosus.com` | Yes |
 | `nicomedkey.cc` | Yes |
@@ -53072,7 +53073,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,173 |
+| Cloudflare | 15,174 |
 | Normal | 37,851 |
 
 
