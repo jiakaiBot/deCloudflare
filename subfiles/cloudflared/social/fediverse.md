@@ -4756,6 +4756,7 @@ Here's a list of public Fediverse services.
 | `betamax.video` | Yes |
 | `betamax65.de` | No |
 | `betchesbubble.com` | No |
+| `beteigeuze.space` | No |
 | `bethejustin.com` | No |
 | `betopia.net` | Yes |
 | `bettadelic.art` | No |
@@ -21210,6 +21211,7 @@ Here's a list of public Fediverse services.
 | `ipv4.is` | No |
 | `ipv6-only.com` | No |
 | `ipv6-only.site` | No |
+| `ipv6.camp` | No |
 | `ipv6.club` | Yes |
 | `ipv6.jetzt` | Yes |
 | `ipv6.party` | Yes |
@@ -40169,7 +40171,7 @@ Here's a list of public Fediverse services.
 | `s-t.club` | No |
 | `s-tomo.jp` | No |
 | `s-up.net` | No |
-| `s-w2.de` | No |
+| `s-w2.de` | Yes |
 | `s-yurama.com` | No |
 | `s.ai` | No |
 | `s.cz` | No |
@@ -53059,8 +53061,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,165 |
-| Normal | 37,846 |
+| Cloudflare | 15,166 |
+| Normal | 37,847 |
 
 
 </details>
