@@ -48297,6 +48297,7 @@ Here's a list of public Fediverse services.
 | `tyaku.com` | No |
 | `tyamac.com` | No |
 | `tyazzkey.work` | No |
+| `tybx.jp` | No |
 | `tychi.me` | No |
 | `tycho.space` | No |
 | `tycrek.me` | No |
@@ -53050,7 +53051,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,162 |
-| Normal | 37,839 |
+| Normal | 37,840 |
 
 
 </details>
