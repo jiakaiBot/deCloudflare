@@ -19397,6 +19397,7 @@ Here's a list of public Fediverse services.
 | `hintertomb.net` | Yes |
 | `hintertupf.ing` | No |
 | `hintz.social` | Yes |
+| `hinusif.work` | No |
 | `hinzundcode.social` | No |
 | `hip-hop.social` | No |
 | `hiphop.horse` | No |
@@ -53072,7 +53073,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,173 |
-| Normal | 37,850 |
+| Normal | 37,851 |
 
 
 </details>
