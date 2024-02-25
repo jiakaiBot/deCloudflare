@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,330 |
 | social | 4,823 |
 | net | 4,124 |
-| org | 2,753 |
+| org | 2,754 |
 | de | 2,656 |
 
 
@@ -43037,6 +43037,7 @@ Here's a list of public Fediverse services.
 | `solarpunk.social` | No |
 | `solarpunkacres.org` | No |
 | `solarpunkanarchism.org` | No |
+| `solarpunkarchitecture.org` | No |
 | `solarpunkcanuck.ca` | No |
 | `solarpunks.blog` | No |
 | `solarpunks.social` | No |
@@ -53070,7 +53071,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,172 |
-| Normal | 37,849 |
+| Normal | 37,850 |
 
 
 </details>
