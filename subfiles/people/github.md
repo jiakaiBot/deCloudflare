@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare error (not registering in app)](https://github.com/keiyoushi/extensions-source/issues/1535)
 - [Login Timeout Error Occurs During Scraping](https://github.com/Ismail-Mahmoud/lcws/issues/1)
 - [0 bytes read on a total of 2 expected bytes](https://github.com/python-websockets/websockets/issues/1445)
 - [Blahaj.transgirl.dev is offline](https://github.com/CatgirlApril/BlahajAPI/issues/3)
