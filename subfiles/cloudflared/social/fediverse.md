@@ -13235,6 +13235,7 @@ Here's a list of public Fediverse services.
 | `enimihil.net` | No |
 | `enioka.com` | No |
 | `enitg.no` | Yes |
+| `enitin.xyz` | Yes |
 | `enitor.xyz` | No |
 | `enj0y.net` | Yes |
 | `enjinm7.com` | No |
@@ -50202,7 +50203,7 @@ Here's a list of public Fediverse services.
 | `wangdahoo.space` | No |
 | `wangofett.com` | No |
 | `wangwood.house` | No |
-| `wangyw15.top` | No |
+| `wangyw15.top` | Yes |
 | `wank.social` | No |
 | `wanparty.xyz` | No |
 | `wansaw.com` | Yes |
@@ -53050,8 +53051,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,162 |
-| Normal | 37,840 |
+| Cloudflare | 15,164 |
+| Normal | 37,839 |
 
 
 </details>
