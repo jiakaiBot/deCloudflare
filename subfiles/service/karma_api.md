@@ -34,7 +34,7 @@ Replace the `(base url)` to:
 ### Anti-Tor Lookup
 
 - List data is almost identical to [this git data](http://crimeflare.eu.org).
-- For looking up website's existence in the [known Anti-Tor list](../../anti-tor_users/domains/README.md).
+- For looking up website's existence in the [known Anti-Tor list](http://antitor-domains.project.crimeflare.eu.org/).
 
 | ? | ? |
 | -- | -- |
