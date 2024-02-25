@@ -51076,7 +51076,7 @@ Here's a list of public Fediverse services.
 | `wndp.cloud` | Yes |
 | `wnelson.dev` | Yes |
 | `wngs.uk` | No |
-| `wnymathguy.com` | No |
+| `wnymathguy.com` | Yes |
 | `wo4y.de` | No |
 | `woafre.tk` | No |
 | `wobbl.xyz` | Yes |
@@ -53051,8 +53051,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,164 |
-| Normal | 37,839 |
+| Cloudflare | 15,165 |
+| Normal | 37,838 |
 
 
 </details>
