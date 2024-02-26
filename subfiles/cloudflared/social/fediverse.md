@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,332 |
+| com | 8,336 |
 | social | 4,827 |
 | net | 4,125 |
-| org | 2,754 |
-| de | 2,656 |
+| org | 2,755 |
+| de | 2,658 |
 
 
 - Mastodon, Pleroma, etc
@@ -3657,7 +3657,7 @@ Here's a list of public Fediverse services.
 | `autonomy.social` | No |
 | `autophagy.io` | Yes |
 | `autothink.co` | No |
-| `autrechose.club` | No |
+| `autrechose.club` | Yes |
 | `autroisieme.top` | No |
 | `auttaja.io` | Yes |
 | `autumn.social` | Yes |
@@ -8612,6 +8612,7 @@ Here's a list of public Fediverse services.
 | `compcube.info` | No |
 | `compensis.de` | No |
 | `compgen.de` | No |
+| `compi.lol` | Yes |
 | `complacent.io` | No |
 | `complecwaft.com` | Yes |
 | `complete.fail` | No |
@@ -10869,6 +10870,7 @@ Here's a list of public Fediverse services.
 | `derringer.pro` | Yes |
 | `derschreiben.de` | No |
 | `derserver.me` | No |
+| `dersonic.de` | No |
 | `derstandard.at` | No |
 | `derstrudel.org` | No |
 | `dertechblog.de` | No |
@@ -18160,6 +18162,7 @@ Here's a list of public Fediverse services.
 | `grzeca.eu` | No |
 | `grzeca.pl` | No |
 | `gsalucci.dev` | No |
+| `gsccolibri.de` | No |
 | `gsch.eu` | Yes |
 | `gsd.foundation` | Yes |
 | `gsdgames.com` | Yes |
@@ -18246,6 +18249,7 @@ Here's a list of public Fediverse services.
 | `gumifox.eu` | No |
 | `gummersbach.social` | No |
 | `gummipunkt.eu` | Yes |
+| `gummybrain.com` | No |
 | `gumonji.live` | No |
 | `gumzo.africa` | No |
 | `gundan.es` | No |
@@ -33969,6 +33973,7 @@ Here's a list of public Fediverse services.
 | `oft.social` | Yes |
 | `ofthe.top` | No |
 | `oftrolls.com` | No |
+| `ofurodon.com` | Yes |
 | `ofus.us` | No |
 | `ofuton.io` | No |
 | `ofuton.life` | No |
@@ -34231,6 +34236,7 @@ Here's a list of public Fediverse services.
 | `ondioline.org` | Yes |
 | `ondrugs.org` | Yes |
 | `onecha.net` | No |
+| `onedayiwillfind.com` | No |
 | `oneforthecode.com` | Yes |
 | `oneill.stream` | No |
 | `oneiris.me` | No |
@@ -37998,7 +38004,7 @@ Here's a list of public Fediverse services.
 | `quitter.es` | No |
 | `quitter.im` | No |
 | `quitter.is` | No |
-| `quitter.no` | Yes |
+| `quitter.no` | No |
 | `quitter.online` | No |
 | `quitter.org.uk` | No |
 | `quitter.pl` | No |
@@ -38610,6 +38616,7 @@ Here's a list of public Fediverse services.
 | `rcelko.ch` | No |
 | `rche-iidx.jp` | No |
 | `rcm.dev` | Yes |
+| `rcockburn.com` | Yes |
 | `rcode.fi` | Yes |
 | `rcp.tf` | No |
 | `rcr.social` | No |
@@ -50093,6 +50100,7 @@ Here's a list of public Fediverse services.
 | `waarland.eu` | No |
 | `wabarr.com` | No |
 | `wabz.ca` | No |
+| `wacan.org` | No |
 | `wachbleiben.ch` | No |
 | `wack.industries` | Yes |
 | `wack.win` | Yes |
@@ -52034,7 +52042,7 @@ Here's a list of public Fediverse services.
 | `yamastodon.com` | No |
 | `yamastodon.jp` | No |
 | `yamatodon.com` | No |
-| `yambal.net` | No |
+| `yambal.net` | Yes |
 | `yambo.social` | No |
 | `yampp.de` | No |
 | `yamr.cc` | No |
@@ -53082,8 +53090,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,182 |
-| Normal | 37,852 |
+| Cloudflare | 15,186 |
+| Normal | 37,856 |
 
 
 </details>
