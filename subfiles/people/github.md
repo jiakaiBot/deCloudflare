@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Tunnel Availability Issues](https://github.com/SecOpsNews/news/issues/25211)
 - [Cloudflare still blocking unfortunately](https://github.com/azoff/tockstalk/issues/4)
 - [systemd-resolved: failure to resolve duckduckgo.com when using 1.1.1.3](https://github.com/systemd/systemd/issues/31484)
 - [Cloudflare error (not registering in app)](https://github.com/keiyoushi/extensions-source/issues/1535)
