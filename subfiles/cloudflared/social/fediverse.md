@@ -3964,7 +3964,7 @@ Here's a list of public Fediverse services.
 | `babycastles.com` | No |
 | `babychou.me` | No |
 | `babyfurs.social` | No |
-| `babyhollywood.social` | No |
+| `babyhollywood.social` | Yes |
 | `babyl.ca` | No |
 | `babylon5.social` | No |
 | `babymetal.party` | No |
@@ -10820,7 +10820,7 @@ Here's a list of public Fediverse services.
 | `depressed.bar` | No |
 | `deprix.nl` | Yes |
 | `deptagency.com` | Yes |
-| `depth.li` | Yes |
+| `depth.li` | No |
 | `depucelage.xyz` | No |
 | `dequbed.space` | No |
 | `dequevolem.com` | No |
@@ -12193,7 +12193,7 @@ Here's a list of public Fediverse services.
 | `dubvee.org` | No |
 | `duc.gay` | No |
 | `ducamp.me` | No |
-| `duccadon.com` | No |
+| `duccadon.com` | Yes |
 | `duchess.gay` | No |
 | `duck.cafe` | Yes |
 | `duck.casa` | Yes |
@@ -18317,6 +18317,7 @@ Here's a list of public Fediverse services.
 | `gyahunkoubou.com` | No |
 | `gyara.moe` | Yes |
 | `gyatt.cc` | Yes |
+| `gyatt.monster` | No |
 | `gyhost.icu` | No |
 | `gymnastics.town` | No |
 | `gymnastodon.com` | No |
@@ -53097,7 +53098,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,191 |
+| Cloudflare | 15,192 |
 | Normal | 37,858 |
 
 
