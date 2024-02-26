@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,331 |
-| social | 4,825 |
+| com | 8,332 |
+| social | 4,826 |
 | net | 4,124 |
 | org | 2,754 |
 | de | 2,656 |
@@ -758,6 +758,7 @@ Here's a list of public Fediverse services.
 | `79120.tours` | No |
 | `7a4.pp.ua` | No |
 | `7colou.red` | Yes |
+| `7d.gg` | No |
 | `7glen.cloud` | No |
 | `7group.social` | Yes |
 | `7homas.de` | No |
@@ -929,7 +930,7 @@ Here's a list of public Fediverse services.
 | `aaronbailey.com` | Yes |
 | `aaronbsmith.com` | No |
 | `aaroncommand.com` | No |
-| `aaroncrocco.com` | No |
+| `aaroncrocco.com` | Yes |
 | `aaronklemm.me` | No |
 | `aaronlerch.com` | No |
 | `aaronparecki.com` | No |
@@ -5741,7 +5742,7 @@ Here's a list of public Fediverse services.
 | `booktoot.club` | No |
 | `booktoot.social` | No |
 | `bookwar.info` | No |
-| `bookwitty.social` | Yes |
+| `bookwitty.social` | No |
 | `bookwor.ms` | No |
 | `bookworm.nz` | No |
 | `bookwormstory.social` | Yes |
@@ -19760,6 +19761,7 @@ Here's a list of public Fediverse services.
 | `horrendum.com` | No |
 | `horrid-creatu.re` | No |
 | `horrific.dev` | Yes |
+| `horror.town` | No |
 | `horrorhub.club` | Yes |
 | `hors.zone` | No |
 | `horscategor.ie` | No |
@@ -20948,6 +20950,7 @@ Here's a list of public Fediverse services.
 | `innerinsight.industries` | No |
 | `innernet.link` | Yes |
 | `innernette.social` | Yes |
+| `innerpeace.social` | No |
 | `innerwebs.social` | No |
 | `innesrichens.co.uk` | No |
 | `innkeep.co` | Yes |
@@ -22079,7 +22082,7 @@ Here's a list of public Fediverse services.
 | `jessidhia.dev` | Yes |
 | `jestemgraczem.pl` | Yes |
 | `jesuislibre.net` | No |
-| `jesus.fish` | Yes |
+| `jesus.fish` | No |
 | `jesuscova.com` | No |
 | `jesusinthe.club` | No |
 | `jesuspavonabian.es` | No |
@@ -22598,6 +22601,7 @@ Here's a list of public Fediverse services.
 | `jrjr.esq` | No |
 | `jrm.cc` | Yes |
 | `jrmyr.net` | Yes |
+| `jrollans.com` | No |
 | `jrpg.town` | No |
 | `jrruethe.info` | Yes |
 | `jrwren.dev` | No |
@@ -53077,8 +53081,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,177 |
-| Normal | 37,852 |
+| Cloudflare | 15,176 |
+| Normal | 37,857 |
 
 
 </details>
