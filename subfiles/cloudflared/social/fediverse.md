@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,332 |
 | social | 4,827 |
-| net | 4,124 |
+| net | 4,125 |
 | org | 2,754 |
 | de | 2,656 |
 
@@ -1486,7 +1486,7 @@ Here's a list of public Fediverse services.
 | `ahaldorsen.no` | No |
 | `ahall.se` | No |
 | `ahamiam.us` | No |
-| `ahavah.gay` | No |
+| `ahavah.gay` | Yes |
 | `ahem.ca` | No |
 | `aheradin.com` | No |
 | `ahermitforhire.net` | No |
@@ -18473,7 +18473,7 @@ Here's a list of public Fediverse services.
 | `hactivedirectory.com` | Yes |
 | `hacusk.net` | Yes |
 | `haddock.cc` | Yes |
-| `hades.is` | No |
+| `hades.is` | Yes |
 | `hades.town` | No |
 | `hadna.space` | Yes |
 | `hadret.com` | Yes |
@@ -40482,7 +40482,7 @@ Here's a list of public Fediverse services.
 | `sandcat.club` | No |
 | `sanddollartarot.ca` | No |
 | `sander.photos` | No |
-| `sander.sh` | No |
+| `sander.sh` | Yes |
 | `sander.social` | No |
 | `sanders.life` | Yes |
 | `sandersnel.com` | No |
@@ -48525,6 +48525,7 @@ Here's a list of public Fediverse services.
 | `ukrainian.social` | No |
 | `uksocial.cloud` | No |
 | `uksocial.net` | No |
+| `ukuru.net` | Yes |
 | `ukva.li` | No |
 | `ukwhatn.com` | No |
 | `ul0829.net` | No |
@@ -53081,8 +53082,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,178 |
-| Normal | 37,855 |
+| Cloudflare | 15,182 |
+| Normal | 37,852 |
 
 
 </details>
