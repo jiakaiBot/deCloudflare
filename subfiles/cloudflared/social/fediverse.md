@@ -16826,6 +16826,7 @@ Here's a list of public Fediverse services.
 | `gaypxrn.de` | No |
 | `gayrobot.club` | No |
 | `gays.lgbt` | No |
+| `gayssues.club` | No |
 | `gayweeb.vip` | No |
 | `gazeley.uk` | No |
 | `gazeta.mx` | No |
@@ -53091,7 +53092,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,186 |
-| Normal | 37,856 |
+| Normal | 37,857 |
 
 
 </details>
