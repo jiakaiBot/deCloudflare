@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increased Errors for R2 Buckets/Durable Objects in the HKG Region](https://github.com/SecOpsNews/news/issues/25214)
 - [CloudFlare Cloudflare Tunnel Availability Issues](https://github.com/SecOpsNews/news/issues/25211)
 - [Cloudflare still blocking unfortunately](https://github.com/azoff/tockstalk/issues/4)
 - [systemd-resolved: failure to resolve duckduckgo.com when using 1.1.1.3](https://github.com/systemd/systemd/issues/31484)
