@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,332 |
-| social | 4,826 |
+| social | 4,827 |
 | net | 4,124 |
 | org | 2,754 |
 | de | 2,656 |
@@ -1452,7 +1452,7 @@ Here's a list of public Fediverse services.
 | `agilodon.social` | No |
 | `agirpourlenvironnement.org` | Yes |
 | `aglaea.me` | No |
-| `agmjub.fr` | Yes |
+| `agmjub.fr` | No |
 | `agnail.net` | No |
 | `agneraya.com` | No |
 | `agnessa.pp.ru` | No |
@@ -4362,7 +4362,7 @@ Here's a list of public Fediverse services.
 | `bbad.com` | Yes |
 | `bball.city` | No |
 | `bbalm.me` | No |
-| `bbbdn.jp` | No |
+| `bbbdn.jp` | Yes |
 | `bbboost.com` | No |
 | `bbcmic.ro` | No |
 | `bbdao.dev` | Yes |
@@ -9402,7 +9402,7 @@ Here's a list of public Fediverse services.
 | `ct8.pl` | No |
 | `ctc.community` | Yes |
 | `ctdl.co` | Yes |
-| `ctero.dev` | No |
+| `ctero.dev` | Yes |
 | `cthompson.com` | No |
 | `cthonic.club` | No |
 | `cthos.dev` | Yes |
@@ -13563,7 +13563,6 @@ Here's a list of public Fediverse services.
 | `esquer.dev` | No |
 | `esquinafeliz.com` | No |
 | `esrever.cc` | No |
-| `essenfotografieren.at` | No |
 | `essex.social` | Yes |
 | `essjax.com` | No |
 | `essmann.com` | No |
@@ -15975,6 +15974,7 @@ Here's a list of public Fediverse services.
 | `friendface.fail` | No |
 | `friendfest.life` | No |
 | `friendgroup.social` | No |
+| `friendhole.social` | No |
 | `friendi.ca` | No |
 | `friendi.ga` | No |
 | `friendica-leipzig.de` | No |
@@ -38261,7 +38261,7 @@ Here's a list of public Fediverse services.
 | `raghukamath.com` | No |
 | `ragnate.la` | No |
 | `ragol.org` | No |
-| `ragol.uk` | No |
+| `ragol.uk` | Yes |
 | `ragt.ag` | No |
 | `ragtag.moe` | Yes |
 | `raguenaud.social` | No |
@@ -53081,8 +53081,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,176 |
-| Normal | 37,857 |
+| Cloudflare | 15,178 |
+| Normal | 37,855 |
 
 
 </details>
