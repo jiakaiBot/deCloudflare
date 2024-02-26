@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,336 |
+| com | 8,338 |
 | social | 4,827 |
-| net | 4,127 |
+| net | 4,128 |
 | org | 2,755 |
 | de | 2,658 |
 
@@ -7678,6 +7678,7 @@ Here's a list of public Fediverse services.
 | `chizroid.info` | No |
 | `chizu.love` | No |
 | `chjab.io` | Yes |
+| `chku.eu` | No |
 | `chladny.de` | Yes |
 | `chmanie.com` | No |
 | `chmod777.org` | No |
@@ -13667,7 +13668,7 @@ Here's a list of public Fediverse services.
 | `euproject.info` | No |
 | `eupublic.social` | No |
 | `eur.social` | No |
-| `eureka.chat` | No |
+| `eureka.chat` | Yes |
 | `eurekacity.online` | No |
 | `eurofop.eu` | No |
 | `euroglenn.me` | Yes |
@@ -14673,6 +14674,7 @@ Here's a list of public Fediverse services.
 | `fedoraproject.org` | No |
 | `fedpal.org` | Yes |
 | `fedpi.de` | No |
+| `fedpic.com` | Yes |
 | `fedposters.club` | No |
 | `fedposting.club` | No |
 | `fedposting.org` | Yes |
@@ -27581,6 +27583,7 @@ Here's a list of public Fediverse services.
 | `marivron.com` | No |
 | `mark-metz.com` | No |
 | `markbrown.au` | Yes |
+| `markcarrigan.net` | No |
 | `markcp.com` | No |
 | `markdixon.name` | No |
 | `markdon.ml` | No |
@@ -34123,6 +34126,7 @@ Here's a list of public Fediverse services.
 | `oldr.uk` | Yes |
 | `olds.town` | No |
 | `oldschool.community` | No |
+| `oldschoolgameblog.com` | No |
 | `oldstyle-project.org` | No |
 | `oldtr.uk` | Yes |
 | `oldyellowhouse.se` | No |
@@ -53093,8 +53097,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,189 |
-| Normal | 37,856 |
+| Cloudflare | 15,191 |
+| Normal | 37,858 |
 
 
 </details>
