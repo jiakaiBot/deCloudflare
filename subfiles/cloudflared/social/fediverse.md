@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,331 |
-| social | 4,824 |
+| social | 4,825 |
 | net | 4,124 |
 | org | 2,754 |
 | de | 2,656 |
@@ -38201,6 +38201,7 @@ Here's a list of public Fediverse services.
 | `radionlya.casa` | No |
 | `radiooostwest.be` | No |
 | `radiopatio.social` | No |
+| `radioprogres.fr` | No |
 | `radiorandom.org` | No |
 | `radiorfa.com` | Yes |
 | `radioriquelme.cl` | Yes |
@@ -48677,6 +48678,7 @@ Here's a list of public Fediverse services.
 | `une.fi` | Yes |
 | `une33.club` | No |
 | `uneabeille.blog` | No |
+| `uneducatedopinion.nl` | No |
 | `uneex.net` | No |
 | `unehre.de` | No |
 | `uneu.net` | Yes |
@@ -49543,6 +49545,7 @@ Here's a list of public Fediverse services.
 | `vicx.fr` | No |
 | `vidasana.social` | No |
 | `vidbin.org` | Yes |
+| `vidbin.social` | Yes |
 | `vidcommons.org` | No |
 | `vidd.la` | Yes |
 | `vide.social` | No |
@@ -53074,8 +53077,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,176 |
-| Normal | 37,850 |
+| Cloudflare | 15,177 |
+| Normal | 37,852 |
 
 
 </details>
