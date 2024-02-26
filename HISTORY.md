@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-02-26: [Area 1 Horizon Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/s5bylc6wv97k)
 - 2024-02-26: [Area 1 Horizon is down](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5zt6glb4dpcs)
 - 2024-02-23: [Issues passing Challenge Pages and Turnstile](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qn1d401v8yyl)
 - 2024-02-23: [Issues passing Challenge Pages and Turnstile](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8vyshvh7w9rz)
