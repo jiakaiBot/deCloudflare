@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,336 |
 | social | 4,827 |
-| net | 4,125 |
+| net | 4,126 |
 | org | 2,755 |
 | de | 2,658 |
 
@@ -29833,6 +29833,7 @@ Here's a list of public Fediverse services.
 | `misskey.wtf` | No |
 | `misskey.xyz` | No |
 | `misskeyjp.com` | Yes |
+| `misskeymint.net` | Yes |
 | `misskeytsf.love` | Yes |
 | `misskeyval.com` | Yes |
 | `misskirara.net` | Yes |
@@ -44434,7 +44435,7 @@ Here's a list of public Fediverse services.
 | `suicide.holiday` | Yes |
 | `suicidepolice.com` | No |
 | `suikoden.info` | Yes |
-| `suiminn.moe` | No |
+| `suiminn.moe` | Yes |
 | `suinot.org` | No |
 | `suitbertmonz.de` | No |
 | `suitwaffle.com` | Yes |
@@ -53091,8 +53092,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,186 |
-| Normal | 37,857 |
+| Cloudflare | 15,188 |
+| Normal | 37,856 |
 
 
 </details>
