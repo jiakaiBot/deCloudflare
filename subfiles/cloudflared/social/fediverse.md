@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,341 |
+| com | 8,342 |
 | social | 4,828 |
 | net | 4,129 |
 | org | 2,756 |
@@ -12110,6 +12110,7 @@ Here's a list of public Fediverse services.
 | `drskrzyk.com` | No |
 | `drtl.nl` | No |
 | `dru5k1.com` | Yes |
+| `druedin.com` | No |
 | `drugo.me` | Yes |
 | `druid.town` | No |
 | `drumbum42.com` | No |
@@ -53119,7 +53120,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,212 |
-| Normal | 37,858 |
+| Normal | 37,859 |
 
 
 </details>
