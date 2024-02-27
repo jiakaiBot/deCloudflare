@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Hi dear developer, could you please write a detailed deployment tutorial?](https://github.com/MNThomson/containerflare/issues/32)
 - [CloudFlare Increased Errors for R2 Buckets/Durable Objects in the HKG Region](https://github.com/SecOpsNews/news/issues/25214)
 - [CloudFlare Cloudflare Tunnel Availability Issues](https://github.com/SecOpsNews/news/issues/25211)
 - [Cloudflare still blocking unfortunately](https://github.com/azoff/tockstalk/issues/4)
