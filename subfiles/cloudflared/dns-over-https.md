@@ -82,7 +82,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cubedns.com | No |
 | cuprum.ru | Yes |
 | cynthialabs.net | Yes |
-| danamas.net | Yes |
 | danayasastore.my.id | Yes |
 | data.haus | No |
 | datahata.by | No |
@@ -159,7 +158,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jackyes.ovh | No |
 | jmarkin.ru | Yes |
 | jnraptor.net | Yes |
-| johnwick.me | No |
 | josephyap.me | Yes |
 | jstockley.com | Yes |
 | jundev.org | No |
@@ -358,8 +356,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 184 |
-| Normal | 155 |
+| Cloudflare | 183 |
+| Normal | 154 |
 
 
 ### 54.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
