@@ -13363,7 +13363,7 @@ Here's a list of public Fediverse services.
 | `epicure.social` | Yes |
 | `epicureanunderground.social` | No |
 | `epicureanworldview.com` | No |
-| `epicwhim.com` | No |
+| `epicwhim.com` | Yes |
 | `epider.me` | No |
 | `epiktistes.com` | No |
 | `epiphyte.ie` | No |
@@ -19317,7 +19317,7 @@ Here's a list of public Fediverse services.
 | `hifi.fyi` | No |
 | `hifish.social` | No |
 | `hifriends.info` | No |
-| `higgy.social` | No |
+| `higgy.social` | Yes |
 | `high-low.ml` | No |
 | `high.cat` | No |
 | `high.lol` | No |
@@ -31088,7 +31088,7 @@ Here's a list of public Fediverse services.
 | `murasame.moe` | Yes |
 | `murat.io` | No |
 | `murata.jp.net` | No |
-| `murayakey.com` | No |
+| `murayakey.com` | Yes |
 | `murciavegana.com` | No |
 | `murcier.fr` | No |
 | `murder.town` | No |
@@ -43016,6 +43016,7 @@ Here's a list of public Fediverse services.
 | `soft-qui-peut.dev` | No |
 | `soft.fish` | Yes |
 | `softcat.org` | No |
+| `softer.network` | No |
 | `softer.social` | No |
 | `softgirl.online` | No |
 | `softinio.com` | Yes |
@@ -43549,7 +43550,7 @@ Here's a list of public Fediverse services.
 | `spork.gay` | Yes |
 | `spork.gg` | No |
 | `spork.org` | No |
-| `spork.quest` | Yes |
+| `spork.quest` | No |
 | `sportmed.social` | No |
 | `sportmedsocial.com` | No |
 | `sports-scores.win` | No |
@@ -53098,8 +53099,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,192 |
-| Normal | 37,858 |
+| Cloudflare | 15,194 |
+| Normal | 37,857 |
 
 
 </details>
