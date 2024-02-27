@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Support for Cloudflare Workers/Vercel Edge Runtime](https://github.com/openfga/js-sdk/issues/72)
 - [Failed rtw_8821cu since upgrade haos12 : Error Failed download firmware](https://github.com/home-assistant/operating-system/issues/3205)
 - [<Code /> component theme "css-variables" incorrectly typed](https://github.com/withastro/astro/issues/10246)
 - [If hg verify timesout it's unusable](https://github.com/sillsdev/languageforge-lexbox/issues/615)
