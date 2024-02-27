@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,340 |
-| social | 4,827 |
+| social | 4,828 |
 | net | 4,128 |
 | org | 2,756 |
 | de | 2,658 |
@@ -5204,6 +5204,7 @@ Here's a list of public Fediverse services.
 | `bke.ro` | No |
 | `bkgaming.cafe` | No |
 | `bkgrdclrschm.link` | Yes |
+| `bkmk.social` | No |
 | `bknow.net` | Yes |
 | `bknyc.us` | No |
 | `bkoradio.com` | No |
@@ -9254,6 +9255,7 @@ Here's a list of public Fediverse services.
 | `crooklyn.social` | No |
 | `crooks.net` | No |
 | `crooksandliars.com` | No |
+| `crookston.ca` | No |
 | `croplee.com` | No |
 | `cross-area.com` | No |
 | `cross-solution.de` | No |
@@ -14746,7 +14748,7 @@ Here's a list of public Fediverse services.
 | `fellies.social` | No |
 | `fellr.net` | No |
 | `fellstar.one` | No |
-| `felmey.org` | No |
+| `felmey.org` | Yes |
 | `felmo.app` | No |
 | `feltmarker.uk` | No |
 | `felunis.de` | Yes |
@@ -27453,6 +27455,7 @@ Here's a list of public Fediverse services.
 | `manjaruntu.net.eu.org` | No |
 | `manji.dev` | Yes |
 | `manley.org` | No |
+| `manlycoffee.lol` | No |
 | `mann.blog` | No |
 | `mannennet.eu` | No |
 | `mannheim.social` | No |
@@ -48747,6 +48750,7 @@ Here's a list of public Fediverse services.
 | `uniability.org` | No |
 | `uniastur.com` | Yes |
 | `unibas.ch` | No |
+| `unicamp.br` | Yes |
 | `unicornbase.xyz` | No |
 | `unicornies.de` | No |
 | `unicornsquad.party` | Yes |
@@ -53070,6 +53074,7 @@ Here's a list of public Fediverse services.
 | `zwist.space` | No |
 | `zwoelfdreifuenfundvierzig.net` | No |
 | `zwotausend.de` | No |
+| `zx.dev` | Yes |
 | `zx81.social` | No |
 | `zxcvn.xyz` | Yes |
 | `zxcvnm.com` | Yes |
@@ -53110,8 +53115,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,205 |
-| Normal | 37,857 |
+| Cloudflare | 15,208 |
+| Normal | 37,859 |
 
 
 </details>
