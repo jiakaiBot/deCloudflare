@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [rebase issue on gh-pages with cr > 1.4](https://github.com/helm/chart-releaser/issues/379)
 - [Cloudflare One More Step challenge loop](https://github.com/FlareSolverr/FlareSolverr/issues/1101)
 - [CORS blocks the API from being accessed via the browser](https://github.com/psincraian/pepy/issues/630)
 - [Hi dear developer, could you please write a detailed deployment tutorial?](https://github.com/MNThomson/containerflare/issues/32)
