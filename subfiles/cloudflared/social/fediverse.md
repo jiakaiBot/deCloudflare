@@ -13571,6 +13571,7 @@ Here's a list of public Fediverse services.
 | `esquer.dev` | No |
 | `esquinafeliz.com` | No |
 | `esrever.cc` | No |
+| `essenfotografieren.at` | No |
 | `essex.social` | Yes |
 | `essjax.com` | No |
 | `essmann.com` | No |
@@ -53118,7 +53119,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,212 |
-| Normal | 37,857 |
+| Normal | 37,858 |
 
 
 </details>
