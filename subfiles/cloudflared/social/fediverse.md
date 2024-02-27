@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,342 |
+| com | 8,343 |
 | social | 4,828 |
 | net | 4,129 |
-| org | 2,756 |
+| org | 2,757 |
 | de | 2,658 |
 
 
@@ -8122,7 +8122,7 @@ Here's a list of public Fediverse services.
 | `clonewars.vet` | No |
 | `clonis.xyz` | No |
 | `clontarf.icu` | No |
-| `cloomii.com` | Yes |
+| `cloomii.com` | No |
 | `close-air.support` | No |
 | `closebang.de` | No |
 | `closed.social` | Yes |
@@ -24263,6 +24263,7 @@ Here's a list of public Fediverse services.
 | `korgen.xyz` | Yes |
 | `korhonen.cc` | Yes |
 | `korhonen.social` | Yes |
+| `korintje.com` | No |
 | `korio.me` | Yes |
 | `kormi.hu` | No |
 | `korosuke.xyz` | Yes |
@@ -32955,6 +32956,7 @@ Here's a list of public Fediverse services.
 | `node.pk` | Yes |
 | `node001.net` | No |
 | `node9.org` | No |
+| `nodebb.org` | Yes |
 | `nodegray.com` | No |
 | `nodemixaholic.com` | Yes |
 | `nodenull.com` | Yes |
@@ -53120,7 +53122,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,212 |
-| Normal | 37,859 |
+| Normal | 37,861 |
 
 
 </details>
