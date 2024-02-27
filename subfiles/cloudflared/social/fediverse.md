@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,340 |
+| com | 8,341 |
 | social | 4,828 |
-| net | 4,128 |
+| net | 4,129 |
 | org | 2,756 |
 | de | 2,658 |
 
@@ -28372,7 +28372,7 @@ Here's a list of public Fediverse services.
 | `matcha-fest.xyz` | Yes |
 | `matcha-soft.com` | Yes |
 | `matcha.pub` | Yes |
-| `matcha1919.com` | No |
+| `matcha1919.com` | Yes |
 | `matchdon.com` | No |
 | `matchu.dev` | No |
 | `matchy.jp` | No |
@@ -34238,6 +34238,7 @@ Here's a list of public Fediverse services.
 | `omx.nl` | No |
 | `on-o.com` | No |
 | `on-t.work` | Yes |
+| `on-trails.com` | Yes |
 | `on.vu` | No |
 | `on1000mark.club` | No |
 | `on2it.net` | Yes |
@@ -43075,7 +43076,7 @@ Here's a list of public Fediverse services.
 | `solarpunkacres.org` | No |
 | `solarpunkanarchism.org` | No |
 | `solarpunkarchitecture.org` | No |
-| `solarpunkcanuck.ca` | No |
+| `solarpunkcanuck.ca` | Yes |
 | `solarpunks.blog` | No |
 | `solarpunks.social` | No |
 | `solarpunkstation.com` | No |
@@ -51620,6 +51621,7 @@ Here's a list of public Fediverse services.
 | `xenesth.is` | No |
 | `xenia.social` | Yes |
 | `xenite.org` | No |
+| `xennippon.net` | Yes |
 | `xeno.chat` | No |
 | `xeno.moe` | Yes |
 | `xeno.science` | No |
@@ -53115,8 +53117,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,208 |
-| Normal | 37,859 |
+| Cloudflare | 15,212 |
+| Normal | 37,857 |
 
 
 </details>
