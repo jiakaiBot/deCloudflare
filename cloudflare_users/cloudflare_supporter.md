@@ -8747,6 +8747,7 @@ Do not create new issue or we will close it as duplicate.
 | [Measillife@X](https://twitter.com/Measillife/status/1578481781246144512) | advertise |
 | [med61883332@X](https://twitter.com/med61883332/status/1439010726480420871) | advertise |
 | [MedagliaEugenio@X](https://twitter.com/MedagliaEugenio/status/1585087836952596480) | advertise |
+| [MedCeptional@X](https://twitter.com/MedCeptional/status/1762353892678070474) | advertise |
 | [MediaverseLand@X](https://twitter.com/MediaverseLand/status/1726563676382183433) | advertise |
 | [medician001@X](https://twitter.com/medician001/status/1658785266247643136) | advertise |
 | [MedioFernando1@X](https://twitter.com/MedioFernando1/status/1583166691798036482) | advertise |
