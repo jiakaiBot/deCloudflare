@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [<Code /> component theme "css-variables" incorrectly typed](https://github.com/withastro/astro/issues/10246)
 - [If hg verify timesout it's unusable](https://github.com/sillsdev/languageforge-lexbox/issues/615)
 - [rebase issue on gh-pages with cr > 1.4](https://github.com/helm/chart-releaser/issues/379)
 - [Cloudflare One More Step challenge loop](https://github.com/FlareSolverr/FlareSolverr/issues/1101)
