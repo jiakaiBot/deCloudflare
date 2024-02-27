@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,338 |
+| com | 8,340 |
 | social | 4,827 |
 | net | 4,128 |
 | org | 2,756 |
@@ -2819,7 +2819,7 @@ Here's a list of public Fediverse services.
 | `aprendiz-isi.tk` | No |
 | `apres-ge.ch` | No |
 | `apreslanu.it` | No |
-| `apricot.social` | No |
+| `apricot.social` | Yes |
 | `april.org` | No |
 | `aprl.moe` | Yes |
 | `apronbrothers.cooking` | No |
@@ -21278,6 +21278,7 @@ Here's a list of public Fediverse services.
 | `ironwyn.ch` | No |
 | `ironwynch.com` | No |
 | `irrealis.net` | No |
+| `irregularchat.com` | Yes |
 | `irregulars.io` | Yes |
 | `irrelephant.co` | No |
 | `irrelephant.social` | No |
@@ -29911,6 +29912,7 @@ Here's a list of public Fediverse services.
 | `miwilc.com` | No |
 | `miwpayou0808.info` | Yes |
 | `mix-food.net` | No |
+| `mix.com` | No |
 | `mixamax.se` | No |
 | `mixed-reality.social` | No |
 | `mixedmedia.page` | Yes |
@@ -35548,7 +35550,7 @@ Here's a list of public Fediverse services.
 | `pcora.eu` | Yes |
 | `pcorp.us` | No |
 | `pcservice46.fr` | No |
-| `pcsfield.com` | No |
+| `pcsfield.com` | Yes |
 | `pcwideopen.com` | No |
 | `pcwizards.nl` | No |
 | `pcworms.ir` | No |
@@ -53103,8 +53105,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,196 |
-| Normal | 37,859 |
+| Cloudflare | 15,199 |
+| Normal | 37,858 |
 
 
 </details>
