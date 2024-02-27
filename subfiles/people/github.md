@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CORS blocks the API from being accessed via the browser](https://github.com/psincraian/pepy/issues/630)
 - [Hi dear developer, could you please write a detailed deployment tutorial?](https://github.com/MNThomson/containerflare/issues/32)
 - [CloudFlare Increased Errors for R2 Buckets/Durable Objects in the HKG Region](https://github.com/SecOpsNews/news/issues/25214)
 - [CloudFlare Cloudflare Tunnel Availability Issues](https://github.com/SecOpsNews/news/issues/25211)
