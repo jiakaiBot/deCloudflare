@@ -10403,6 +10403,7 @@ Do not create new issue or we will close it as duplicate.
 | [NJTNAS@X](https://twitter.com/NJTNAS/status/1702078419385655729) | advertise |
 | [Njumage01@X](https://twitter.com/Njumage01/status/1738103961293570151) | advertise |
 | [njwmy1624143@X](https://twitter.com/njwmy1624143/status/1739377966763659453) | advertise |
+| [nkhlaileh@X](https://twitter.com/nkhlaileh/status/1762006500417978690) | advertise |
 | [NkKee1@X](https://twitter.com/NkKee1/status/1379528528073433088) | advertise |
 | [NKNRC39@X](https://twitter.com/NKNRC39/status/1472029289855918083) | advertise |
 | [NkoliStvnsn@X](https://twitter.com/NkoliStvnsn/status/1572962518980792320) | advertise |
@@ -15720,6 +15721,7 @@ Do not create new issue or we will close it as duplicate.
 | [YairYairNi1@X](https://twitter.com/YairYairNi1/status/1390877471520686081) | advertise |
 | [YairYintKyaw16@X](https://twitter.com/YairYintKyaw16/status/1394525355872981000) | advertise |
 | [Yai_Sorry@X](https://twitter.com/Yai_Sorry/status/1398865762077401095) | advertise |
+| [YaJonhFK@X](https://twitter.com/YaJonhFK/status/1762490523171119264) | advertise |
 | [yakamashi_baka@X](https://twitter.com/yakamashi_baka/status/1558494975847170048) | advertise |
 | [YaKauk47@X](https://twitter.com/YaKauk47/status/1376851886981009412) | advertise |
 | [yakauk_cvrtt2z@X](https://twitter.com/yakauk_cvrtt2z/status/1392848631456174086) | advertise |
