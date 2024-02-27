@@ -8159,6 +8159,7 @@ Here's a list of public Fediverse services.
 | `cloudlet.at` | No |
 | `cloudmist.org` | No |
 | `cloudmt.co.kr` | Yes |
+| `cloudns.be` | Yes |
 | `cloudns.cc` | Yes |
 | `cloudns.cl` | Yes |
 | `cloudns.nz` | Yes |
@@ -36981,6 +36982,7 @@ Here's a list of public Fediverse services.
 | `posta.no` | Yes |
 | `postagram.net` | Yes |
 | `postb.org` | No |
+| `postberg.io` | No |
 | `postblue.info` | No |
 | `postblue.social` | No |
 | `postchat.io` | No |
@@ -53054,8 +53056,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,185 |
-| Normal | 37,821 |
+| Cloudflare | 15,186 |
+| Normal | 37,822 |
 
 
 </details>
