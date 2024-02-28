@@ -29253,7 +29253,7 @@ Here's a list of public Fediverse services.
 | `mellow.zone` | No |
 | `mellowcodelabs.social` | No |
 | `melmac.rocks` | No |
-| `melodiaparker.com` | No |
+| `melodiaparker.com` | Yes |
 | `melody.cat` | No |
 | `melon.blue` | Yes |
 | `melon.computer` | No |
@@ -38774,6 +38774,7 @@ Here's a list of public Fediverse services.
 | `rainbowtoot.net` | No |
 | `rainbowunicorn.cloud` | No |
 | `raincityjacks.org` | No |
+| `raincloud.dev` | No |
 | `raindev.org` | Yes |
 | `raindrop.works` | Yes |
 | `raindrops.cyou` | No |
@@ -49961,6 +49962,7 @@ Here's a list of public Fediverse services.
 | `vcfed.org` | No |
 | `vcity.de` | No |
 | `vcity.network` | No |
+| `vcr.party` | No |
 | `vda-group.de` | No |
 | `vdavez.com` | Yes |
 | `vdcw.social` | No |
@@ -53752,8 +53754,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,418 |
-| Normal | 38,286 |
+| Cloudflare | 15,419 |
+| Normal | 38,287 |
 
 
 </details>
