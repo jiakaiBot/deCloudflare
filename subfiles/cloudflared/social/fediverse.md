@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,593 |
+| com | 8,594 |
 | social | 4,838 |
 | net | 4,187 |
 | org | 2,819 |
@@ -11011,7 +11011,7 @@ Here's a list of public Fediverse services.
 | `derpsin.space` | No |
 | `derpstra.nl` | No |
 | `derpy.email` | Yes |
-| `derpybox.com` | No |
+| `derpybox.com` | Yes |
 | `derriere.maison` | No |
 | `derringer.pro` | Yes |
 | `derschreiben.de` | No |
@@ -33172,6 +33172,7 @@ Here's a list of public Fediverse services.
 | `nitiasa.com` | Yes |
 | `nitkiewicz.me` | Yes |
 | `nitro.horse` | No |
+| `nitrobrewgames.com` | Yes |
 | `nitroet.me` | No |
 | `nitrokey.com` | Yes |
 | `nittc.tokyo` | No |
@@ -53751,8 +53752,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,416 |
-| Normal | 38,287 |
+| Cloudflare | 15,418 |
+| Normal | 38,286 |
 
 
 </details>
