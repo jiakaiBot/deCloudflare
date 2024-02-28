@@ -52234,7 +52234,7 @@ Here's a list of public Fediverse services.
 | `xbm.se` | No |
 | `xbon-pvpcompagnies.tk` | No |
 | `xbt0r.com` | No |
-| `xce.pt` | No |
+| `xce.pt` | Yes |
 | `xcess.one` | Yes |
 | `xcetera.biz` | No |
 | `xcho.space` | No |
@@ -52911,6 +52911,7 @@ Here's a list of public Fediverse services.
 | `yogui.li` | No |
 | `yohan.es` | Yes |
 | `yohane.su` | Yes |
+| `yohjo.zip` | Yes |
 | `yoichihirai.com` | No |
 | `yoink.org.uk` | Yes |
 | `yoitsu.moe` | Yes |
@@ -53766,8 +53767,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,424 |
-| Normal | 38,294 |
+| Cloudflare | 15,426 |
+| Normal | 38,293 |
 
 
 </details>
