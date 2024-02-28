@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,596 |
+| com | 8,597 |
 | social | 4,839 |
 | net | 4,187 |
 | org | 2,819 |
-| de | 2,680 |
+| de | 2,682 |
 
 
 - Mastodon, Pleroma, etc
@@ -10022,6 +10022,7 @@ Here's a list of public Fediverse services.
 | `dachary.org` | No |
 | `dacharycarey.social` | No |
 | `dachfed.eu` | No |
+| `dachs-it.de` | No |
 | `daco.dev` | Yes |
 | `dadalo.pl` | No |
 | `dadams.io` | Yes |
@@ -16836,6 +16837,7 @@ Here's a list of public Fediverse services.
 | `galileivr.org` | No |
 | `galileo.news` | No |
 | `gall.family` | Yes |
+| `gallauner.fun` | No |
 | `gallegoiv.com` | Yes |
 | `gallifrey.es` | No |
 | `gallifrey.social` | Yes |
@@ -18250,7 +18252,7 @@ Here's a list of public Fediverse services.
 | `gremlins.social` | Yes |
 | `grenat.art` | No |
 | `grenat.ovh` | No |
-| `grenicmars.xyz` | No |
+| `grenicmars.xyz` | Yes |
 | `grenland.social` | No |
 | `grep.sh` | Yes |
 | `gresille.org` | No |
@@ -30941,6 +30943,7 @@ Here's a list of public Fediverse services.
 | `mototravel.net` | No |
 | `motov.org` | Yes |
 | `motss.cc` | Yes |
+| `mottokrosh.com` | Yes |
 | `motuhake.xyz` | No |
 | `mou-da.me` | No |
 | `mou.best` | Yes |
@@ -31987,7 +31990,7 @@ Here's a list of public Fediverse services.
 | `nahe.social` | No |
 | `naheimst.info` | No |
 | `nahfe.xyz` | No |
-| `nahida.me` | No |
+| `nahida.me` | Yes |
 | `nahuelwexd.com` | Yes |
 | `nahumgarcia.com` | No |
 | `naia.gay` | Yes |
@@ -35576,6 +35579,7 @@ Here's a list of public Fediverse services.
 | `pafnooty.ru` | No |
 | `paftech.se` | No |
 | `pagan.plus` | No |
+| `paganalia.de` | No |
 | `pagans-online.com` | Yes |
 | `pagansocial.net` | No |
 | `page.lgbt` | Yes |
@@ -41673,6 +41677,7 @@ Here's a list of public Fediverse services.
 | `seaofog.com` | Yes |
 | `seaofpeers.com` | Yes |
 | `seaquillcatstone.com` | No |
+| `searchbitch.info` | No |
 | `searchingfor.top` | Yes |
 | `searchingfortw.ink` | Yes |
 | `searx.li` | No |
@@ -53767,8 +53772,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,426 |
-| Normal | 38,293 |
+| Cloudflare | 15,429 |
+| Normal | 38,295 |
 
 
 </details>
