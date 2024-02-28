@@ -12124,6 +12124,7 @@ Do not create new issue or we will close it as duplicate.
 | [RomilBenoit@X](https://twitter.com/RomilBenoit/status/1511432118722875398) | advertise |
 | [RominTumde@X](https://twitter.com/RominTumde/status/1392255755034796032) | advertise |
 | [ronaldo20192@X](https://twitter.com/ronaldo20192/status/1721344059334336944) | advertise |
+| [RonaldPY_@X](https://twitter.com/RonaldPY_/status/1762666440287572143) | advertise |
 | [RonaldT20068209@X](https://twitter.com/RonaldT20068209/status/1501376414481895424) | advertise |
 | [roney_wak@X](https://twitter.com/roney_wak/status/1601267324853440512) | advertise |
 | [rone_clifton@X](https://twitter.com/rone_clifton/status/1450187206979588096) | advertise |
@@ -15129,6 +15130,7 @@ Do not create new issue or we will close it as duplicate.
 | [Virus3334@X](https://twitter.com/Virus3334/status/1734067340520648961) | advertise |
 | [Virus49868336@X](https://twitter.com/Virus49868336/status/1394191569666723840) | advertise |
 | [VishalB67584671@X](https://twitter.com/VishalB67584671/status/1398920445437505542) | advertise |
+| [VishalFusion@X](https://twitter.com/VishalFusion/status/1762658152577700351) | advertise |
 | [vishalmajumdar_@X](https://twitter.com/vishalmajumdar_/status/1563810788376055808) | advertise |
 | [vishalnyk21@X](https://twitter.com/vishalnyk21/status/1404097712178352134) | advertise |
 | [Vishnur01251382@X](https://twitter.com/Vishnur01251382/status/1599415445370863617) | advertise |
