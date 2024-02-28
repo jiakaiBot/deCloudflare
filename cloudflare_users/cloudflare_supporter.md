@@ -11311,6 +11311,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pl47926009@X](https://twitter.com/Pl47926009/status/1395366611989655553) | advertise |
 | [Placeholder_3@X](https://twitter.com/Placeholder_3/status/1729862254458478912) | advertise |
 | [plaincodejp@X](https://twitter.com/plaincodejp/status/1665873296393371649) | advertise |
+| [plainrock127@X](https://twitter.com/plainrock127/status/1762576649453728155) | advertise |
 | [Plan43611745@X](https://twitter.com/Plan43611745/status/1399656503079018497) | advertise |
 | [planetMN@X](https://twitter.com/planetMN/status/1709028438307418125) | advertise |
 | [Plang04546316@X](https://twitter.com/Plang04546316/status/1536426694986420225) | advertise |
