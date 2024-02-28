@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Help 🤔 cf部署的点不开引用网页](https://github.com/Harry-zklcdc/go-proxy-bingai/issues/360)
 - [Many esm.run URLs are broken since yesterday](https://github.com/jsdelivr/jsdelivr/issues/18557)
 - [CloudFlare Network Performance Issues in KIX (Osaka, JP)](https://github.com/SecOpsNews/news/issues/25332)
 - [Creating multiple _acme-challenge entries in cloudflare](https://github.com/JessThrysoee/synology-letsencrypt/issues/18)
