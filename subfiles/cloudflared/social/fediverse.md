@@ -9759,6 +9759,7 @@ Here's a list of public Fediverse services.
 | `cyannyan.com` | Yes |
 | `cyano.at` | No |
 | `cyano.uk` | Yes |
+| `cyb.red` | No |
 | `cyb3r.moe` | No |
 | `cyb3r.social` | Yes |
 | `cyb3rpunk.online` | Yes |
@@ -53775,7 +53776,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,432 |
-| Normal | 38,294 |
+| Normal | 38,295 |
 
 
 </details>
