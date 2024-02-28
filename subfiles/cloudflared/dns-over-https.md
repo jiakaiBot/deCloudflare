@@ -124,7 +124,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | felipefalcao.ninja | Yes |
 | ffmuc.net | Yes |
 | flm9.net | No |
-| fltn.us | Yes |
 | flylcc.cc | Yes |
 | freecdn.one | No |
 | freyja.pw | Yes |
@@ -207,7 +206,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mestdag.fr | No |
 | midping.ir | No |
 | mikrotikrumahan.my.id | No |
-| minetown.eu.org | No |
 | moderateinfra.net | No |
 | modr.club | Yes |
 | moesite.top | Yes |
@@ -230,7 +228,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | node15.com | Yes |
 | noridev.moe | No |
 | novali.date | Yes |
-| o0o.re | No |
 | oasg.xyz | No |
 | ofdoom.net | Yes |
 | openbld.net | No |
@@ -258,7 +255,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | qquack.org | Yes |
 | quad9.net | Yes |
 | quic.lol | No |
-| qwer.pw | Yes |
 | r0cket.net | No |
 | rabot.fi | Yes |
 | ragnvindr.org | Yes |
@@ -345,7 +341,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wikimedia-dns.org | No |
 | woodbridge.club | No |
 | xcom.pro | No |
-| xx3210766.live | Yes |
 | yandex.net | Yes |
 | yumenashyi.com | Yes |
 | zburger.top | No |
@@ -356,8 +351,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 183 |
-| Normal | 154 |
+| Cloudflare | 180 |
+| Normal | 152 |
 
 
-### 54.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
