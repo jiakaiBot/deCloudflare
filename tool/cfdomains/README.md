@@ -151,6 +151,6 @@ Top 10
 | _ad0f0287_ | 23,112 |
 | _afb066bb_ | 23,023 |
 
-- Total Score: 753,684
+- Total Score: 756,031
 
 ![](../../image/what_are_you_hunting_cloudflare.png)
