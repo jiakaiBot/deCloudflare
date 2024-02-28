@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Page not working - catalog.paradisec.org.au/admin/country_boundaries](https://github.com/nabu-catalog/nabu/issues/756)
 - [Cloudflare Worker Deploy](https://github.com/PublicAffairs/openai-gemini/issues/1)
 - [Support for Cloudflare Workers/Vercel Edge Runtime](https://github.com/openfga/js-sdk/issues/72)
 - [Failed rtw_8821cu since upgrade haos12 : Error Failed download firmware](https://github.com/home-assistant/operating-system/issues/3205)
