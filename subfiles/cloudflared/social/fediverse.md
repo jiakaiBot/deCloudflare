@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,839 |
 | net | 4,187 |
 | org | 2,819 |
-| de | 2,678 |
+| de | 2,679 |
 
 
 - Mastodon, Pleroma, etc
@@ -22727,6 +22727,7 @@ Here's a list of public Fediverse services.
 | `jondron.ca` | No |
 | `jone.wang` | No |
 | `joneshub.net` | Yes |
+| `jong.moe` | No |
 | `jonhays.me` | No |
 | `jonk.org` | No |
 | `jonkman.ca` | No |
@@ -22738,6 +22739,7 @@ Here's a list of public Fediverse services.
 | `jonossaseuraava.eu` | Yes |
 | `jonossaseuraava.net` | No |
 | `jonpark.co.uk` | No |
+| `jonpro.de` | No |
 | `jonproulx.com` | No |
 | `jonquan.cf` | No |
 | `jonquan.moe` | No |
@@ -31086,6 +31088,7 @@ Here's a list of public Fediverse services.
 | `ms.vg` | No |
 | `ms1.me` | No |
 | `msafaksari.net` | Yes |
+| `msc.pics` | Yes |
 | `mschmidt-et.de` | No |
 | `msdnaart.net` | No |
 | `msdon.net` | No |
@@ -42397,7 +42400,7 @@ Here's a list of public Fediverse services.
 | `shook.rocks` | No |
 | `shoot.brussels` | No |
 | `shoot1ng-star.site` | No |
-| `shootingonsight.eu` | No |
+| `shootingonsight.eu` | Yes |
 | `shootingsport.social` | No |
 | `shootjackdorseyinto.space` | No |
 | `shootthebreeze.social` | No |
@@ -42436,7 +42439,7 @@ Here's a list of public Fediverse services.
 | `showeq.com` | Yes |
 | `showmy.world` | No |
 | `showoffto.us` | No |
-| `showyou41.win` | Yes |
+| `showyou41.win` | No |
 | `shpakovsky.ru` | No |
 | `shpil.social` | No |
 | `shpposter.club` | No |
@@ -53755,8 +53758,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,419 |
-| Normal | 38,288 |
+| Cloudflare | 15,420 |
+| Normal | 38,290 |
 
 
 </details>
