@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,594 |
+| com | 8,596 |
 | social | 4,839 |
 | net | 4,187 |
 | org | 2,819 |
-| de | 2,679 |
+| de | 2,680 |
 
 
 - Mastodon, Pleroma, etc
@@ -4922,6 +4922,7 @@ Here's a list of public Fediverse services.
 | `bicycleroll.com` | No |
 | `bida.im` | No |
 | `biddul.ph` | No |
+| `biden.lgbt` | Yes |
 | `bideoteka.eus` | No |
 | `bidule.app` | No |
 | `bidule.dev` | Yes |
@@ -17080,7 +17081,7 @@ Here's a list of public Fediverse services.
 | `gbox.work` | No |
 | `gbraad.nl` | Yes |
 | `gbtdn.tokyo` | No |
-| `gbudou.ml` | Yes |
+| `gbudou.ml` | No |
 | `gc2.jp` | Yes |
 | `gcaillaut.fr` | No |
 | `gcfam.net` | No |
@@ -18925,6 +18926,7 @@ Here's a list of public Fediverse services.
 | `hanton.at` | No |
 | `haojia-wu.com` | No |
 | `haolit.de` | No |
+| `haolitsys.de` | No |
 | `haoyayoi.net` | No |
 | `happenon.net` | Yes |
 | `happens.horse` | No |
@@ -21304,6 +21306,7 @@ Here's a list of public Fediverse services.
 | `instigation.fr` | No |
 | `instinctd.com` | No |
 | `instituteofcorrection.org.uk` | No |
+| `institutohiphopcriciumense.com.br` | No |
 | `instrumentalverein-tueddern.de` | No |
 | `insufferable.tools` | No |
 | `insula.org.ua` | No |
@@ -22620,6 +22623,7 @@ Here's a list of public Fediverse services.
 | `joergmorbitzer.rocks` | No |
 | `joeross.me` | No |
 | `joeshaw.org` | No |
+| `joespace.ca` | Yes |
 | `joev.dev` | No |
 | `joewoods.dev` | Yes |
 | `joeyboon.nl` | No |
@@ -24959,6 +24963,7 @@ Here's a list of public Fediverse services.
 | `kwmns.eu` | No |
 | `kwmr.info` | Yes |
 | `kwmr.me` | Yes |
+| `kwojt.blog` | Yes |
 | `kwolek.io` | Yes |
 | `kwot.in` | Yes |
 | `kwpeace.ca` | No |
@@ -41126,7 +41131,7 @@ Here's a list of public Fediverse services.
 | `sastudio.jp` | No |
 | `sasuga.xyz` | No |
 | `sasuke.social` | No |
-| `satan-speaks.com` | No |
+| `satan-speaks.com` | Yes |
 | `satania.site` | No |
 | `satania.social` | Yes |
 | `satania.space` | No |
@@ -46501,7 +46506,7 @@ Here's a list of public Fediverse services.
 | `the-cool.zone` | No |
 | `the-crossroads-inn.com` | No |
 | `the-destro.com` | No |
-| `the-door.uk` | No |
+| `the-door.uk` | Yes |
 | `the-evil.net` | No |
 | `the-expanse.net` | No |
 | `the-gathering.space` | Yes |
@@ -46656,6 +46661,7 @@ Here's a list of public Fediverse services.
 | `thedailyeconomist.com` | No |
 | `thedataexchange.media` | No |
 | `thedav.is` | Yes |
+| `thedbahub.com` | No |
 | `thedecentralists.com` | No |
 | `thedeletebin.com` | No |
 | `theden.dev` | Yes |
@@ -48453,6 +48459,7 @@ Here's a list of public Fediverse services.
 | `troopers.agency` | No |
 | `troot.social` | No |
 | `tropical-is.land` | No |
+| `tropicalalien.com` | No |
 | `tropicalbeachclub.com` | No |
 | `tropicalhome.rentals` | No |
 | `troplo.com` | Yes |
@@ -53758,8 +53765,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,420 |
-| Normal | 38,290 |
+| Cloudflare | 15,424 |
+| Normal | 38,293 |
 
 
 </details>
