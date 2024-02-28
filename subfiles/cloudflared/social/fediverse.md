@@ -23289,6 +23289,7 @@ Here's a list of public Fediverse services.
 | `kalamazoo.social` | No |
 | `kalapa.social` | No |
 | `kalasarn.se` | No |
+| `kalax.me` | No |
 | `kalckey.com` | Yes |
 | `kale.social` | Yes |
 | `kalebporter.club` | No |
@@ -53766,7 +53767,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,424 |
-| Normal | 38,293 |
+| Normal | 38,294 |
 
 
 </details>
