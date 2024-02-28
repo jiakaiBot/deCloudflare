@@ -509,7 +509,7 @@ Here's a list of breached sites.
 | QuantumBooter (Quantum Booter) | 48,592 | No |
 | QuestionPro | 22,229,637 | Yes |
 | Quidd | 3,805,863 | No |
-| QuinStreet | 4,907,802 | No |
+| QuinStreet | 4,907,802 | Yes |
 | R2-2017 (R2 (2017 forum breach)) | 1,023,466 | No |
 | R2Games | 22,281,337 | No |
 | RaidForums | 478,604 | Yes |
@@ -597,6 +597,7 @@ Here's a list of breached sites.
 | TRAI (Telecom Regulatory Authority of India) | 107,776 | No |
 | TaiLieu | 7,327,477 | No |
 | Tamodo | 494,945 | No |
+| Tangerine | 243,462 | No |
 | Taobao | 21,149,008 | No |
 | Taringa | 27,971,100 | Yes |
 | Technic | 265,410 | Yes |
@@ -732,8 +733,8 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 415 | 4,473,162,611 |
-| Normal | 296 | 4,657,552,301 |
+| Cloudflare | 416 | 4,478,070,413 |
+| Normal | 296 | 4,652,887,961 |
 
 
 
