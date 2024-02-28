@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,594 |
-| social | 4,838 |
+| social | 4,839 |
 | net | 4,187 |
 | org | 2,819 |
 | de | 2,678 |
@@ -42236,6 +42236,7 @@ Here's a list of public Fediverse services.
 | `shellbytes.me` | No |
 | `shelldog.de` | No |
 | `shellgei.org` | No |
+| `shellsharks.social` | No |
 | `shellwaffle.com` | No |
 | `shelter.moe` | No |
 | `shelter.social` | Yes |
@@ -53755,7 +53756,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,419 |
-| Normal | 38,287 |
+| Normal | 38,288 |
 
 
 </details>
