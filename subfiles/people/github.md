@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Network Performance Issues in KIX (Osaka, JP)](https://github.com/SecOpsNews/news/issues/25332)
 - [Creating multiple _acme-challenge entries in cloudflare](https://github.com/JessThrysoee/synology-letsencrypt/issues/18)
 - [Page not working - catalog.paradisec.org.au/admin/country_boundaries](https://github.com/nabu-catalog/nabu/issues/756)
 - [Cloudflare Worker Deploy](https://github.com/PublicAffairs/openai-gemini/issues/1)
