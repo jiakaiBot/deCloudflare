@@ -159,6 +159,7 @@ Here's a list of breached sites.
 | CraftRise | 2,532,527 | Yes |
 | Creative | 483,015 | No |
 | CrossFire (Cross Fire) | 12,865,609 | Yes |
+| CutoutPro (Cutout.Pro) | 19,972,829 | No |
 | CyberServe | 1,107,034 | Yes |
 | D3scene (D3Scene) | 568,827 | Yes |
 | DCHealth (DC Health Link) | 48,145 | Yes |
@@ -734,9 +735,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 416 | 4,478,070,413 |
-| Normal | 296 | 4,652,887,961 |
+| Normal | 297 | 4,672,860,790 |
 
 
 
-### 58.4% of breached sites (pwned sites) are using Cloudflare.
-### 49% of leaked accounts are on Cloudflare sites.
+### 58.3% of breached sites (pwned sites) are using Cloudflare.
+### 48.9% of leaked accounts are on Cloudflare sites.
