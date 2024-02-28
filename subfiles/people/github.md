@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increase in CDN 5xx Errors](https://github.com/SecOpsNews/news/issues/25371)
 - [Help 🤔 cf部署的点不开引用网页](https://github.com/Harry-zklcdc/go-proxy-bingai/issues/360)
 - [Many esm.run URLs are broken since yesterday](https://github.com/jsdelivr/jsdelivr/issues/18557)
 - [CloudFlare Network Performance Issues in KIX (Osaka, JP)](https://github.com/SecOpsNews/news/issues/25332)
