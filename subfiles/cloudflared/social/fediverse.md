@@ -22212,6 +22212,7 @@ Here's a list of public Fediverse services.
 | `jing8956.com` | Yes |
 | `jingle.email` | No |
 | `jingo.social` | No |
+| `jinhyuns.life` | Yes |
 | `jinja.eu` | No |
 | `jinteki.industries` | Yes |
 | `jinteki.link` | No |
@@ -22783,7 +22784,7 @@ Here's a list of public Fediverse services.
 | `justin.rs` | Yes |
 | `justinbremer.com` | No |
 | `justinferriman.com` | No |
-| `justinian.codes` | No |
+| `justinian.codes` | Yes |
 | `justinmarrington.com` | No |
 | `justinpickard.net` | No |
 | `justins.space` | No |
@@ -39900,7 +39901,7 @@ Here's a list of public Fediverse services.
 | `rpontual.com` | Yes |
 | `rps.social` | Yes |
 | `rpstr.com` | No |
-| `rpsychologist.com` | No |
+| `rpsychologist.com` | Yes |
 | `rpverse.club` | No |
 | `rpvortex.online` | No |
 | `rpy.xyz` | Yes |
@@ -53123,8 +53124,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,212 |
-| Normal | 37,863 |
+| Cloudflare | 15,215 |
+| Normal | 37,861 |
 
 
 </details>
