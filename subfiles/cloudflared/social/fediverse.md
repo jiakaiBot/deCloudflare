@@ -8826,6 +8826,7 @@ Here's a list of public Fediverse services.
 | `coolsma.com` | No |
 | `coolsocial.club` | No |
 | `coolstarship.blog` | No |
+| `cooltrans.men` | No |
 | `cooltux.net` | No |
 | `coolviruses.download` | Yes |
 | `coolworld.cc` | No |
@@ -17043,7 +17044,7 @@ Here's a list of public Fediverse services.
 | `geno.social` | No |
 | `genomic.social` | No |
 | `genoq.org` | No |
-| `genrefinity.com` | No |
+| `genrefinity.com` | Yes |
 | `genserver.social` | Yes |
 | `genshin.social` | No |
 | `gensokyo.cloud` | No |
@@ -17219,7 +17220,7 @@ Here's a list of public Fediverse services.
 | `ghuntley.com` | Yes |
 | `ghz00.net` | Yes |
 | `gi-it.de` | No |
-| `giacofei.org` | No |
+| `giacofei.org` | Yes |
 | `giammi.org` | No |
 | `gianarb.it` | No |
 | `gianlucasfratato.com` | No |
@@ -17739,7 +17740,7 @@ Here's a list of public Fediverse services.
 | `goose.rodeo` | No |
 | `gooutsidetoday.com` | No |
 | `goover.de` | Yes |
-| `goover.social` | Yes |
+| `goover.social` | No |
 | `gopals.family` | Yes |
 | `gopinath.org` | Yes |
 | `gord.games` | No |
@@ -22303,7 +22304,7 @@ Here's a list of public Fediverse services.
 | `jnktn.tv` | No |
 | `jnm.pub` | No |
 | `jnsk.info` | Yes |
-| `jo-dev.xyz` | Yes |
+| `jo-dev.xyz` | No |
 | `jo3qma.com` | Yes |
 | `joachimweber.name` | No |
 | `joachymstal.cz` | No |
@@ -42562,6 +42563,7 @@ Here's a list of public Fediverse services.
 | `slonisko.cz` | No |
 | `slonk.ing` | Yes |
 | `slop.social` | No |
+| `sloped.me` | No |
 | `sloppy-life.net` | Yes |
 | `sloppylinux.com` | No |
 | `sloth.network` | No |
@@ -53122,7 +53124,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,212 |
-| Normal | 37,861 |
+| Normal | 37,863 |
 
 
 </details>
