@@ -115,7 +115,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | edgy-dns.com | No |
 | emiliyan.com | Yes |
 | enjoymylife.net | Yes |
-| eumera.de | No |
 | extrawdw.net | Yes |
 | f97.xyz | Yes |
 | familiamv.net | Yes |
@@ -168,7 +167,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | kescher.at | No |
 | keskinnetwork.com | Yes |
 | ketan.dev | Yes |
-| kiboko.it | Yes |
 | kloiber.co.at | No |
 | konikoni428.com | Yes |
 | korzhyk.pp.ua | Yes |
@@ -351,8 +349,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 180 |
-| Normal | 152 |
+| Cloudflare | 179 |
+| Normal | 151 |
 
 
 ### 54.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
