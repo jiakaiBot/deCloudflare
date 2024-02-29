@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,597 |
+| com | 8,598 |
 | social | 4,839 |
 | net | 4,187 |
 | org | 2,819 |
@@ -9050,7 +9050,7 @@ Here's a list of public Fediverse services.
 | `cosmicdust.cloud` | No |
 | `cosmicfir.es` | No |
 | `cosmicfriends.org` | No |
-| `cosmick9.net` | Yes |
+| `cosmick9.net` | No |
 | `cosmicnation.co` | No |
 | `cosmicshowdowned.com` | No |
 | `cosmicsmack.me` | Yes |
@@ -18082,6 +18082,7 @@ Here's a list of public Fediverse services.
 | `gr.al` | No |
 | `gr.social` | No |
 | `gr0k.net` | No |
+| `gr33n0.me` | No |
 | `gr36.com` | No |
 | `gr8r.com` | No |
 | `gra.one` | No |
@@ -19549,6 +19550,7 @@ Here's a list of public Fediverse services.
 | `hibiscus.pink` | No |
 | `hibitas.com` | Yes |
 | `hicmx.com` | No |
+| `hicsuntdeos.com` | No |
 | `hidamari.apartments` | No |
 | `hidamari.blue` | No |
 | `hidamariso.jp` | No |
@@ -29937,7 +29939,7 @@ Here's a list of public Fediverse services.
 | `mindcreatesmeaning.com` | Yes |
 | `mindfire.io` | No |
 | `mindlesstux.com` | Yes |
-| `mindly.photos` | Yes |
+| `mindly.photos` | No |
 | `mindly.social` | Yes |
 | `mindlyvideos.com` | No |
 | `mindofaaronw.com` | No |
@@ -30420,6 +30422,7 @@ Here's a list of public Fediverse services.
 | `mnlcld.de` | Yes |
 | `mnlpn.xyz` | No |
 | `mnml.news` | No |
+| `mnms.casa` | No |
 | `mnordhaus.de` | No |
 | `mnstdn.monster` | No |
 | `mnt.blue` | No |
@@ -31486,7 +31489,7 @@ Here's a list of public Fediverse services.
 | `murktide.club` | No |
 | `murkworks.net` | No |
 | `murky.club` | No |
-| `murm.gay` | Yes |
+| `murm.gay` | No |
 | `murmf.art` | No |
 | `murmur.red` | No |
 | `murmurs.social` | No |
@@ -38926,7 +38929,7 @@ Here's a list of public Fediverse services.
 | `ranranhome.site` | No |
 | `ransom.buzz` | No |
 | `rant.li` | Yes |
-| `rant.lol` | Yes |
+| `rant.lol` | No |
 | `rantoul.social` | No |
 | `rants.au` | Yes |
 | `rants.org` | No |
@@ -50045,6 +50048,7 @@ Here's a list of public Fediverse services.
 | `velhaestante.com.br` | Yes |
 | `velius.dev` | No |
 | `velma.club` | No |
+| `velobesancon.info` | Yes |
 | `velocipederider.com` | No |
 | `velodrama.cc` | No |
 | `veloma.org` | No |
@@ -53775,8 +53779,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,432 |
-| Normal | 38,295 |
+| Cloudflare | 15,429 |
+| Normal | 38,302 |
 
 
 </details>
