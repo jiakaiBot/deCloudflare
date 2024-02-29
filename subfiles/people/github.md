@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Sorry, you have been blocked](https://github.com/soketi/soketi/issues/1118)
 - [Enhanced Migration Management and Streamlined Processing](https://github.com/mihonapp/mihon/issues/465)
 - [Epsilonscan IS broken](https://github.com/KotatsuApp/kotatsu-parsers/issues/602)
 - [Can't add leftypol boards](https://github.com/K1rakishou/Kuroba-Experimental/issues/1026)
