@@ -5773,6 +5773,7 @@ Here's a list of public Fediverse services.
 | `boopsnoot.de` | No |
 | `boopsnoot.gq` | Yes |
 | `boora.ca` | No |
+| `boosted.science` | No |
 | `boosterfive.com` | No |
 | `boosterok.com` | No |
 | `boostie.social` | Yes |
@@ -9767,6 +9768,7 @@ Here's a list of public Fediverse services.
 | `cybikbase.com` | Yes |
 | `cybirdtech.com` | Yes |
 | `cybnox.de` | No |
+| `cyboot.in.ua` | No |
 | `cyborch.com` | No |
 | `cyborgcentral.net` | No |
 | `cybr.es` | No |
@@ -53167,7 +53169,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,235 |
-| Normal | 37,883 |
+| Normal | 37,885 |
 
 
 </details>
