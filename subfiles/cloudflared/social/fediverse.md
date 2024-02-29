@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,600 |
-| social | 4,839 |
+| com | 8,601 |
+| social | 4,840 |
 | net | 4,187 |
 | org | 2,820 |
 | de | 2,682 |
@@ -22350,6 +22350,7 @@ Here's a list of public Fediverse services.
 | `jeremyrenner.app` | No |
 | `jeremyrenner.club` | No |
 | `jeremysarber.com` | Yes |
+| `jeremysaunders.com` | No |
 | `jergefelt.se` | No |
 | `jerick.xyz` | Yes |
 | `jerl.zone` | Yes |
@@ -23076,6 +23077,7 @@ Here's a list of public Fediverse services.
 | `justice.tech` | No |
 | `justicewarrior.social` | No |
 | `justin-und-florian.de` | No |
+| `justin.earth` | No |
 | `justin.rs` | Yes |
 | `justinbremer.com` | Yes |
 | `justinferriman.com` | No |
@@ -24919,6 +24921,7 @@ Here's a list of public Fediverse services.
 | `kurzschluss.group` | No |
 | `kusako.de` | No |
 | `kuscheltierdoktor.de` | No |
+| `kushaldas.se` | No |
 | `kushiro-u.jp` | Yes |
 | `kusoda.net` | Yes |
 | `kusoneko.moe` | No |
@@ -29351,6 +29354,7 @@ Here's a list of public Fediverse services.
 | `mengsk.org` | No |
 | `menhera.org` | No |
 | `menkissing.gay` | Yes |
+| `menot.social` | Yes |
 | `mensago.org` | No |
 | `mensgardening.club` | No |
 | `mensmaaktmooi.nl` | No |
@@ -43222,6 +43226,7 @@ Here's a list of public Fediverse services.
 | `smth.tk` | No |
 | `smto.pw` | Yes |
 | `smuganimeavatar.xyz` | Yes |
+| `smugcat.moe` | No |
 | `smugglersbbs.com` | No |
 | `smuglo.li` | Yes |
 | `smurpspaek.de` | No |
@@ -44780,6 +44785,7 @@ Here's a list of public Fediverse services.
 | `streamsource.video` | No |
 | `streamturtle.de` | No |
 | `streamz.ca` | No |
+| `streats.dev` | No |
 | `strectuna.me` | No |
 | `streetbikes.club` | No |
 | `streetsblog.melbourne` | No |
@@ -53786,8 +53792,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,436 |
-| Normal | 38,302 |
+| Cloudflare | 15,437 |
+| Normal | 38,307 |
 
 
 </details>
