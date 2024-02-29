@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,599 |
+| com | 8,600 |
 | social | 4,839 |
 | net | 4,187 |
-| org | 2,819 |
+| org | 2,820 |
 | de | 2,682 |
 
 
@@ -3780,6 +3780,7 @@ Here's a list of public Fediverse services.
 | `awawa.cat` | No |
 | `awawa.club` | No |
 | `awawa.gay` | No |
+| `awawi.nexus` | No |
 | `awaworks.net` | No |
 | `awayfrompeople.com` | No |
 | `awaymessage.club` | No |
@@ -4692,6 +4693,7 @@ Here's a list of public Fediverse services.
 | `benlikestoco.de` | Yes |
 | `benlopatin.com` | No |
 | `benmccormick.org` | Yes |
+| `benmook.com` | No |
 | `benning.space` | Yes |
 | `benno-dielmann.de` | No |
 | `bennusekabel.com` | No |
@@ -9060,6 +9062,7 @@ Here's a list of public Fediverse services.
 | `cosmopoliteben.com` | No |
 | `cosmos.social` | Yes |
 | `cosmoschaos.net` | Yes |
+| `cosmoscraft.network` | Yes |
 | `cosnomi.com` | Yes |
 | `cosocial.ca` | No |
 | `cosocial.engineering` | No |
@@ -39537,6 +39540,7 @@ Here's a list of public Fediverse services.
 | `reputatio.us` | No |
 | `req.im` | No |
 | `rerac.dev` | Yes |
+| `rerere.org` | No |
 | `rererenore.tokyo` | No |
 | `res.ac` | No |
 | `res.social` | No |
@@ -53780,8 +53784,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,429 |
-| Normal | 38,303 |
+| Cloudflare | 15,430 |
+| Normal | 38,306 |
 
 
 </details>
