@@ -6036,6 +6036,7 @@ Do not create new issue or we will close it as duplicate.
 | [itsmax_h@X](https://twitter.com/itsmax_h/status/1490216857831624710) | advertise |
 | [itsmebirdi@X](https://twitter.com/itsmebirdi/status/1419853658661945348) | advertise |
 | [itsmeruelvt@X](https://twitter.com/itsmeruelvt/status/1394999358026780680) | advertise |
+| [itsme_shubham14@X](https://twitter.com/itsme_shubham14/status/1762813641764577360) | advertise |
 | [itsNaveedLodhi@X](https://twitter.com/itsNaveedLodhi/status/1475539333080055809) | advertise |
 | [itsohagmia@X](https://twitter.com/itsohagmia/status/1723996410058850703) | advertise |
 | [itsokbaby@X](https://twitter.com/itsokbaby/status/1647862938500501506) | advertise |
@@ -8547,6 +8548,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarriageAtCourt@X](https://twitter.com/MarriageAtCourt/status/1597344160029474816) | advertise |
 | [MartinDeKlerk6@X](https://twitter.com/MartinDeKlerk6/status/1604736026571952129) | advertise |
 | [martiniomjdk@X](https://twitter.com/martiniomjdk/status/1604736026571952129) | advertise |
+| [martinjtravis@X](https://twitter.com/martinjtravis/status/1762679758062834092) | advertise |
 | [Martinka_Treti_@X](https://twitter.com/Martinka_Treti_/status/1534550667435589637) | advertise |
 | [martin_gly@X](https://twitter.com/martin_gly/status/1712565782750642573) | advertise |
 | [Maru19225266@X](https://twitter.com/Maru19225266/status/1399664918794674181) | advertise |
