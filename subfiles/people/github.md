@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Deploy with Workers Failing](https://github.com/LeoColomb/dispoflare/issues/271)
 - [404.astro Is Not Rendered When Unsupported Locale In /lang/ Is Typed](https://github.com/withastro/astro/issues/10276)
 - [config in AwsS3V3Adapter copy function is null/empty](https://github.com/thephpleague/flysystem/issues/1759)
 - [Send Later Module error](https://github.com/freescout-helpdesk/freescout/issues/3839)
