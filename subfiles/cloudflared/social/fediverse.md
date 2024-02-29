@@ -4499,6 +4499,7 @@ Here's a list of public Fediverse services.
 | `beelzebabes.com` | No |
 | `beep.africa` | No |
 | `beep.computer` | Yes |
+| `beep.town` | No |
 | `beepbeep.social` | No |
 | `beepboop.ga` | No |
 | `beepboop.one` | No |
@@ -53169,7 +53170,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,235 |
-| Normal | 37,885 |
+| Normal | 37,886 |
 
 
 </details>
