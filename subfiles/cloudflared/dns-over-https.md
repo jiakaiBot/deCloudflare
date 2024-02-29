@@ -40,7 +40,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | alidns.com | No |
 | allain.com.br | Yes |
 | amlegion.org | No |
-| andersfarms.ltd | Yes |
 | andrewnw.xyz | Yes |
 | anudeep.me | Yes |
 | apad.pro | Yes |
@@ -164,7 +163,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | karl.one | No |
 | kekv.fun | Yes |
 | kernel-error.de | No |
-| kescher.at | No |
 | keskinnetwork.com | Yes |
 | ketan.dev | Yes |
 | kloiber.co.at | No |
@@ -349,8 +347,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 179 |
-| Normal | 151 |
+| Cloudflare | 178 |
+| Normal | 150 |
 
 
-### 54.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
