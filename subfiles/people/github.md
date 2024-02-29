@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Enhanced Migration Management and Streamlined Processing](https://github.com/mihonapp/mihon/issues/465)
 - [Epsilonscan IS broken](https://github.com/KotatsuApp/kotatsu-parsers/issues/602)
 - [Can't add leftypol boards](https://github.com/K1rakishou/Kuroba-Experimental/issues/1026)
 - [Bluetooth integration fails on Raspberry Pi 3 HAOS greater 11.0](https://github.com/home-assistant/operating-system/issues/3211)
