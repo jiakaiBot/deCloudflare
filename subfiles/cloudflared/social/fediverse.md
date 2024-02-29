@@ -3553,6 +3553,7 @@ Here's a list of public Fediverse services.
 | `attoch.org` | Yes |
 | `attoppa.it` | No |
 | `attractive.space` | No |
+| `attreno.fr` | Yes |
 | `attronarch.com` | No |
 | `attyc.de` | No |
 | `atwab.ca` | No |
@@ -53785,7 +53786,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,435 |
+| Cloudflare | 15,436 |
 | Normal | 38,302 |
 
 
