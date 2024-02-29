@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,598 |
+| com | 8,599 |
 | social | 4,839 |
 | net | 4,187 |
 | org | 2,819 |
@@ -53057,6 +53057,7 @@ Here's a list of public Fediverse services.
 | `ystatic.buzz` | Yes |
 | `ystn.win` | No |
 | `ystrbag.xyz` | No |
+| `ytgrs-fan.com` | No |
 | `ytgrsua4.net` | No |
 | `ything.xyz` | No |
 | `ythreektech.com` | No |
@@ -53780,7 +53781,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,429 |
-| Normal | 38,302 |
+| Normal | 38,303 |
 
 
 </details>
