@@ -12399,6 +12399,7 @@ Here's a list of public Fediverse services.
 | `dudenas.lt` | No |
 | `duderinos.no` | Yes |
 | `dudesa.me` | No |
+| `dudetakeyourturn.ca` | No |
 | `dudu.best` | Yes |
 | `dudu.today` | No |
 | `due.ren` | Yes |
@@ -19760,6 +19761,7 @@ Here's a list of public Fediverse services.
 | `hiwaga.tech` | No |
 | `hixe.fr` | No |
 | `hiya.moe` | Yes |
+| `hiyoko.club` | Yes |
 | `hiyuki.xyz` | No |
 | `hiyuki2578.net` | Yes |
 | `hjalmer.com` | No |
@@ -27839,7 +27841,7 @@ Here's a list of public Fediverse services.
 | `manysid.com` | Yes |
 | `manyworlds.fit` | No |
 | `manzilalnabat.de` | No |
-| `maoh.company` | Yes |
+| `maoh.company` | No |
 | `maop.mx` | Yes |
 | `maou-maou.fr` | No |
 | `map-le.net` | No |
@@ -53800,7 +53802,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,439 |
-| Normal | 38,312 |
+| Normal | 38,314 |
 
 
 </details>
