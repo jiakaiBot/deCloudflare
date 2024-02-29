@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [404.astro Is Not Rendered When Unsupported Locale In /lang/ Is Typed](https://github.com/withastro/astro/issues/10276)
+- [config in AwsS3V3Adapter copy function is null/empty](https://github.com/thephpleague/flysystem/issues/1759)
 - [Send Later Module error](https://github.com/freescout-helpdesk/freescout/issues/3839)
 - [Extra Security Module reCAPTCHA doesn't work](https://github.com/freescout-helpdesk/freescout/issues/3838)
 - [Sorry, you have been blocked](https://github.com/soketi/soketi/issues/1118)
