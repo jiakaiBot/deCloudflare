@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare caching support](https://github.com/Highfivery/zero-spam-for-wordpress/issues/366)
 - [Deploy with Workers Failing](https://github.com/LeoColomb/dispoflare/issues/271)
 - [404.astro Is Not Rendered When Unsupported Locale In /lang/ Is Typed](https://github.com/withastro/astro/issues/10276)
 - [config in AwsS3V3Adapter copy function is null/empty](https://github.com/thephpleague/flysystem/issues/1759)
