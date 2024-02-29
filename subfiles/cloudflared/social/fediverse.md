@@ -764,6 +764,7 @@ Here's a list of public Fediverse services.
 | `77nn.it` | No |
 | `791127.net` | No |
 | `79120.tours` | No |
+| `7988276.xyz` | Yes |
 | `7a4.pp.ua` | No |
 | `7colou.red` | Yes |
 | `7d.gg` | No |
@@ -53801,7 +53802,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,437 |
+| Cloudflare | 15,438 |
 | Normal | 38,316 |
 
 
