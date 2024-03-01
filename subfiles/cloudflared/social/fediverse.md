@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,601 |
+| com | 8,602 |
 | social | 4,840 |
 | net | 4,190 |
 | org | 2,820 |
@@ -17139,7 +17139,7 @@ Here's a list of public Fediverse services.
 | `gebloom.com` | Yes |
 | `gececibaykus.com` | No |
 | `gecekafasi.com` | No |
-| `gecko.network` | No |
+| `gecko.network` | Yes |
 | `gecko20.de` | No |
 | `geckodesigns.social` | No |
 | `gedankenlie.be` | No |
@@ -38820,6 +38820,7 @@ Here's a list of public Fediverse services.
 | `rainer-zufall.tk` | Yes |
 | `rainevixen.com` | Yes |
 | `raintreasure.top` | No |
+| `raintreeruckus.com` | No |
 | `rainy.garden` | No |
 | `rainy.kr` | Yes |
 | `rainy.pizza` | No |
@@ -53805,7 +53806,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,438 |
+| Cloudflare | 15,439 |
 | Normal | 38,319 |
 
 
