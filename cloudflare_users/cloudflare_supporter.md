@@ -14473,6 +14473,7 @@ Do not create new issue or we will close it as duplicate.
 | [tra79774787@X](https://twitter.com/tra79774787/status/1604896396334616579) | advertise |
 | [TractorSau@X](https://twitter.com/TractorSau/status/1637060034638106626) | advertise |
 | [tradegovukUSA@X](https://twitter.com/tradegovukUSA/status/1688437225069961216) | advertise |
+| [TraderInfosCom@X](https://twitter.com/TraderInfosCom/status/1753243760157241447) | advertise |
 | [tradeserg@X](https://twitter.com/tradeserg/status/1507822829789716481) | advertise |
 | [TradingGod5@X](https://twitter.com/TradingGod5/status/1629806799158214659) | advertise |
 | [Trai49328033@X](https://twitter.com/Trai49328033/status/1402999939983056899) | advertise |
