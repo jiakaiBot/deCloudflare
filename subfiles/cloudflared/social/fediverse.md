@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,593 |
 | social | 4,840 |
-| net | 4,186 |
+| net | 4,187 |
 | org | 2,818 |
 | de | 2,680 |
 
@@ -6218,7 +6218,7 @@ Here's a list of public Fediverse services.
 | `brignell.co` | No |
 | `briller.one` | No |
 | `brimstor.me` | Yes |
-| `brined.fish` | Yes |
+| `brined.fish` | No |
 | `bring.tw` | No |
 | `bringdaruck.us` | No |
 | `brinjal.org` | No |
@@ -52378,6 +52378,7 @@ Here's a list of public Fediverse services.
 | `xmitter.net` | No |
 | `xmob.me` | No |
 | `xmob.social` | No |
+| `xmpp-it.net` | No |
 | `xmpp.moe` | No |
 | `xmpp.net` | No |
 | `xmr.cx` | No |
@@ -53772,8 +53773,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,437 |
-| Normal | 38,287 |
+| Cloudflare | 15,436 |
+| Normal | 38,289 |
 
 
 </details>
