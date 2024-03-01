@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Front dla założenia konta](https://github.com/itwzhp/zhp-accounts/issues/6)
 - [inbrowser.tld being blocked](https://github.com/ipfs-shipyard/helia-service-worker-gateway/issues/78)
 - [Geoblock for investing features](https://github.com/tradingstrategy-ai/frontend/issues/685)
 - [CloudFlare caching support](https://github.com/Highfivery/zero-spam-for-wordpress/issues/366)
