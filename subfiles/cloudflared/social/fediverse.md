@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,602 |
 | social | 4,840 |
-| net | 4,190 |
-| org | 2,820 |
+| net | 4,191 |
+| org | 2,821 |
 | de | 2,682 |
 
 
@@ -49468,6 +49468,7 @@ Here's a list of public Fediverse services.
 | `unixe.de` | No |
 | `unixe.eu` | No |
 | `unixhideout.solutions` | No |
+| `unixlike.org` | No |
 | `unixmail.fr` | No |
 | `unixnerd.de` | No |
 | `unixporn.pro` | No |
@@ -51996,6 +51997,7 @@ Here's a list of public Fediverse services.
 | `wovensoup.com` | No |
 | `wovs.tk` | Yes |
 | `wowana.me` | No |
+| `wowmedia.net` | Yes |
 | `wowne.ro` | Yes |
 | `wowsdon.xyz` | No |
 | `woyala.com` | Yes |
@@ -53806,8 +53808,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,439 |
-| Normal | 38,319 |
+| Cloudflare | 15,440 |
+| Normal | 38,320 |
 
 
 </details>
