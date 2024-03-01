@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,602 |
+| com | 8,603 |
 | social | 4,840 |
 | net | 4,191 |
 | org | 2,821 |
@@ -4783,6 +4783,7 @@ Here's a list of public Fediverse services.
 | `beru.co` | Yes |
 | `berwa.re` | Yes |
 | `berwanger-and-kin.com` | No |
+| `berze.lol` | Yes |
 | `berzerk.pl` | No |
 | `berzs.xyz` | No |
 | `besaid.de` | No |
@@ -22672,7 +22673,7 @@ Here's a list of public Fediverse services.
 | `johnconway.art` | Yes |
 | `johndevine.co.uk` | No |
 | `johndewees.com` | No |
-| `johndoe.gq` | Yes |
+| `johndoe.gq` | No |
 | `johneckman.com` | No |
 | `johnhenry.us` | No |
 | `johnholdun.com` | No |
@@ -23981,7 +23982,7 @@ Here's a list of public Fediverse services.
 | `kiiro.dev` | No |
 | `kijak.co` | No |
 | `kijowski.dev` | No |
-| `kijy.de` | Yes |
+| `kijy.de` | No |
 | `kijy.net` | Yes |
 | `kikes.xyz` | No |
 | `kiklhorn.cz` | Yes |
@@ -32665,6 +32666,7 @@ Here's a list of public Fediverse services.
 | `netdrones.ai` | No |
 | `netfg.net` | No |
 | `netfie.ca` | No |
+| `netflix360.com` | No |
 | `netflux.io` | No |
 | `netfull.org` | No |
 | `netfuture.ch` | No |
@@ -38397,7 +38399,7 @@ Here's a list of public Fediverse services.
 | `qubit-social.xyz` | No |
 | `qubyte.codes` | No |
 | `qudange.top` | No |
-| `qudr.de` | No |
+| `qudr.de` | Yes |
 | `que-sera.io` | No |
 | `quebec.gq` | No |
 | `quecoisas.xyz` | No |
@@ -53809,7 +53811,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,440 |
-| Normal | 38,320 |
+| Normal | 38,322 |
 
 
 </details>
