@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,601 |
 | social | 4,840 |
-| net | 4,189 |
+| net | 4,190 |
 | org | 2,820 |
 | de | 2,682 |
 
@@ -22067,6 +22067,7 @@ Here's a list of public Fediverse services.
 | `jamit.social` | Yes |
 | `jammer.social` | Yes |
 | `jampreserve.com` | No |
+| `jamsharp.net` | Yes |
 | `jamwells.social` | Yes |
 | `jamwil.com` | Yes |
 | `jan-serve.de` | No |
@@ -53804,7 +53805,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,437 |
+| Cloudflare | 15,438 |
 | Normal | 38,319 |
 
 
