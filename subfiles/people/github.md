@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [inbrowser.tld being blocked](https://github.com/ipfs-shipyard/helia-service-worker-gateway/issues/78)
 - [Geoblock for investing features](https://github.com/tradingstrategy-ai/frontend/issues/685)
 - [CloudFlare caching support](https://github.com/Highfivery/zero-spam-for-wordpress/issues/366)
 - [Deploy with Workers Failing](https://github.com/LeoColomb/dispoflare/issues/271)
