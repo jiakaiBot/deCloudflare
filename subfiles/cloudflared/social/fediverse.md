@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,604 |
+| com | 8,605 |
 | social | 4,840 |
-| net | 4,192 |
+| net | 4,193 |
 | org | 2,821 |
 | de | 2,682 |
 
@@ -4594,6 +4594,7 @@ Here's a list of public Fediverse services.
 | `behind-the-screens.de` | No |
 | `behindthescenes.social` | No |
 | `behmerd.ir` | Yes |
+| `behostings.net` | No |
 | `beige.party` | No |
 | `beingoblio.com` | No |
 | `beingpresent.me` | No |
@@ -37360,7 +37361,7 @@ Here's a list of public Fediverse services.
 | `pomatron.dev` | Yes |
 | `pomdon.top` | No |
 | `pomdon.work` | No |
-| `pomegranate.social` | Yes |
+| `pomegranate.social` | No |
 | `pommes.social` | Yes |
 | `pommesrotweiss.xyz` | Yes |
 | `pon-jp.com` | No |
@@ -48109,6 +48110,7 @@ Here's a list of public Fediverse services.
 | `totallynormalis.land` | No |
 | `totalnoob.club` | No |
 | `totemtube.com` | No |
+| `totepoi.com` | No |
 | `totheclouds.io` | No |
 | `tothepeople.eu` | No |
 | `tothillstreet.com` | No |
@@ -53820,8 +53822,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,449 |
-| Normal | 38,323 |
+| Cloudflare | 15,448 |
+| Normal | 38,326 |
 
 
 </details>
