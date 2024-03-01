@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [new to xitca web, how to compile this?](https://github.com/HFQR/xitca-web/issues/962)
+- [Getting 403 error when using scraper script](https://github.com/docyx/pc-part-dataset/issues/6)
 - [Front dla założenia konta](https://github.com/itwzhp/zhp-accounts/issues/6)
 - [inbrowser.tld being blocked](https://github.com/ipfs-shipyard/helia-service-worker-gateway/issues/78)
 - [Geoblock for investing features](https://github.com/tradingstrategy-ai/frontend/issues/685)
