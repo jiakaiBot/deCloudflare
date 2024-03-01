@@ -15604,7 +15604,7 @@ Here's a list of public Fediverse services.
 | `flyingdingo.social` | No |
 | `flyingmou.se` | No |
 | `flyingsquirrel.ca` | No |
-| `flylumo.co.uk` | No |
+| `flylumo.co.uk` | Yes |
 | `flynn.me.uk` | Yes |
 | `flyonthewall.buzz` | Yes |
 | `flyovercountry.social` | Yes |
@@ -17042,7 +17042,7 @@ Here's a list of public Fediverse services.
 | `gawo.ga` | No |
 | `gay-pirate-assassins.de` | No |
 | `gay-skater-caster.de` | No |
-| `gay.camera` | No |
+| `gay.camera` | Yes |
 | `gay.coffee` | No |
 | `gay.mba` | No |
 | `gaybaby.club` | No |
@@ -19974,6 +19974,7 @@ Here's a list of public Fediverse services.
 | `honey.town` | No |
 | `honeybadger.social` | No |
 | `honeybank.net` | No |
+| `honeycomb.engineer` | Yes |
 | `honeyguide.net` | No |
 | `honeypot.im` | No |
 | `honeypot.net` | No |
@@ -24107,7 +24108,7 @@ Here's a list of public Fediverse services.
 | `kirgroup.net` | No |
 | `kirgus.net` | No |
 | `kiri.to` | Yes |
-| `kirigakure.net` | No |
+| `kirigakure.net` | Yes |
 | `kirigiri.me` | No |
 | `kiriha.me` | Yes |
 | `kirimasharo.org` | No |
@@ -35674,6 +35675,7 @@ Here's a list of public Fediverse services.
 | `panatropic.social` | No |
 | `pancake.place` | Yes |
 | `pancakesontuesday.com` | No |
+| `panda-number.one` | No |
 | `panda.id.au` | No |
 | `panda510.com` | Yes |
 | `pandaemonium.club` | Yes |
@@ -43831,7 +43833,7 @@ Here's a list of public Fediverse services.
 | `southpawsteven.com` | No |
 | `southsea.social` | No |
 | `southtyrol.dev` | No |
-| `southtyrol.social` | No |
+| `southtyrol.social` | Yes |
 | `southware.ir` | Yes |
 | `southwesterly.co` | No |
 | `souverainete-numerique.info` | No |
@@ -53810,8 +53812,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,440 |
-| Normal | 38,322 |
+| Cloudflare | 15,445 |
+| Normal | 38,319 |
 
 
 </details>
