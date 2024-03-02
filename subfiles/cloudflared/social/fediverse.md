@@ -37746,6 +37746,7 @@ Here's a list of public Fediverse services.
 | `princess.cat` | No |
 | `princess.industries` | No |
 | `princess.pet` | No |
+| `princess.wedding` | No |
 | `princeton.edu` | Yes |
 | `principlesqed.com` | No |
 | `prinsesse.co` | No |
@@ -53829,7 +53830,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,450 |
-| Normal | 38,330 |
+| Normal | 38,331 |
 
 
 </details>
