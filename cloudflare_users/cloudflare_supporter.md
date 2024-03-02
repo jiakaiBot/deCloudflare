@@ -15960,6 +15960,7 @@ Do not create new issue or we will close it as duplicate.
 | [yourmomszn@X](https://twitter.com/yourmomszn/status/1632759129491095555) | advertise |
 | [yourname1145@X](https://twitter.com/yourname1145/status/1485279023383334919) | advertise |
 | [YourNig17731853@X](https://twitter.com/YourNig17731853/status/1597643695331106816) | advertise |
+| [YourProfileCard@X](https://twitter.com/YourProfileCard/status/1763592704380883109) | advertise |
 | [YourReindeer9@X](https://twitter.com/YourReindeer9/status/1612721834105139201) | advertise |
 | [Yousef_mokhtarr@X](https://twitter.com/Yousef_mokhtarr/status/1683479677422256128) | advertise |
 | [Youssef55321534@X](https://twitter.com/Youssef55321534/status/1658605466425913346) | advertise |
