@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,358 |
 | social | 4,830 |
-| net | 4,135 |
+| net | 4,136 |
 | org | 2,759 |
 | de | 2,662 |
 
@@ -31544,6 +31544,7 @@ Here's a list of public Fediverse services.
 | `mywire.org` | Yes |
 | `mywire.xyz` | No |
 | `myworkoutarenapeertube.cf` | No |
+| `myxoz.net` | No |
 | `myyouniverse.observer` | Yes |
 | `mzaha.net` | No |
 | `mzh.io` | Yes |
@@ -49506,6 +49507,7 @@ Here's a list of public Fediverse services.
 | `velma.club` | No |
 | `velobesancon.info` | Yes |
 | `velocipederider.com` | No |
+| `velocity.jp` | No |
 | `velodrama.cc` | No |
 | `veloma.org` | No |
 | `velotastic.co.uk` | No |
@@ -53208,7 +53210,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,247 |
-| Normal | 37,912 |
+| Normal | 37,914 |
 
 
 </details>
