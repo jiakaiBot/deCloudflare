@@ -13779,7 +13779,6 @@ Here's a list of public Fediverse services.
 | `esquer.dev` | No |
 | `esquinafeliz.com` | No |
 | `esrever.cc` | No |
-| `essenfotografieren.at` | No |
 | `essex.social` | Yes |
 | `essjax.com` | No |
 | `essmann.com` | No |
@@ -16887,7 +16886,7 @@ Here's a list of public Fediverse services.
 | `gamedevalliance.fr` | No |
 | `gamedevpals.com` | No |
 | `gamedevsocial.uk` | No |
-| `gameguard.moe` | No |
+| `gameguard.moe` | Yes |
 | `gameing.zone` | No |
 | `gamejam.site` | No |
 | `gamelan.social` | No |
@@ -30576,6 +30575,7 @@ Here's a list of public Fediverse services.
 | `moew.app` | Yes |
 | `moew.science` | Yes |
 | `moewa.social` | No |
+| `moeyuki.works` | Yes |
 | `moeyy.cn` | Yes |
 | `moezx.cc` | Yes |
 | `mofgao.space` | No |
@@ -53828,8 +53828,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,448 |
-| Normal | 38,332 |
+| Cloudflare | 15,450 |
+| Normal | 38,330 |
 
 
 </details>
