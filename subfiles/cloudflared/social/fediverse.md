@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,606 |
+| com | 8,607 |
 | social | 4,840 |
 | net | 4,194 |
 | org | 2,821 |
@@ -18420,6 +18420,7 @@ Here's a list of public Fediverse services.
 | `grumpyoldme.de` | No |
 | `grumpys.online` | Yes |
 | `grunert.dev` | Yes |
+| `grunge.works` | No |
 | `grunig.org` | No |
 | `gruntwerk.org` | Yes |
 | `grupli.ga` | No |
@@ -37747,6 +37748,7 @@ Here's a list of public Fediverse services.
 | `princess.industries` | No |
 | `princess.pet` | No |
 | `princess.wedding` | No |
+| `princessandthebigblue.com` | No |
 | `princeton.edu` | Yes |
 | `principlesqed.com` | No |
 | `prinsesse.co` | No |
@@ -38810,6 +38812,7 @@ Here's a list of public Fediverse services.
 | `rail.chat` | Yes |
 | `raildecake.fr` | No |
 | `raildon.online` | No |
+| `railend.xyz` | No |
 | `railhome.club` | No |
 | `rails.social` | Yes |
 | `railway.app` | Yes |
@@ -53830,7 +53833,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,450 |
-| Normal | 38,331 |
+| Normal | 38,334 |
 
 
 </details>
