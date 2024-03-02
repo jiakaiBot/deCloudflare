@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Going to Vite's page crashes worker](https://github.com/styxpilled/codecritic/issues/1)
 - [500 Internal Server Error](https://github.com/modem7/docker-rickroll/issues/59)
 - [new to xitca web, how to compile this?](https://github.com/HFQR/xitca-web/issues/962)
 - [Getting 403 error when using scraper script](https://github.com/docyx/pc-part-dataset/issues/6)
