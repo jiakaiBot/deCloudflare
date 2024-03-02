@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error with proxy use](https://github.com/openai/openai-python/issues/1206)
+- [Redirect & SSL Issues with Nginx Proxy Manager and Virtualmin Setup](https://github.com/webmin/webmin/issues/2100)
 - [Going to Vite's page crashes worker](https://github.com/styxpilled/codecritic/issues/1)
 - [500 Internal Server Error](https://github.com/modem7/docker-rickroll/issues/59)
 - [new to xitca web, how to compile this?](https://github.com/HFQR/xitca-web/issues/962)
