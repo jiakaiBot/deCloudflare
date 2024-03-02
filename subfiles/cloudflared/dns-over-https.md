@@ -335,7 +335,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wargan.io | No |
 | wikimedia-dns.org | No |
 | woodbridge.club | No |
-| xcom.pro | No |
 | yandex.net | Yes |
 | yumenashyi.com | Yes |
 | zburger.top | No |
@@ -347,7 +346,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 178 |
-| Normal | 149 |
+| Normal | 148 |
 
 
-### 54.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
