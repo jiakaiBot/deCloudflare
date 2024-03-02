@@ -8587,6 +8587,7 @@ Here's a list of public Fediverse services.
 | `coley.au` | Yes |
 | `coley.co` | Yes |
 | `colibris-outilslibres.org` | No |
+| `colincogle.name` | No |
 | `colinlabs.com` | Yes |
 | `colinmartin.com` | No |
 | `colinmartin.uk` | No |
@@ -13466,7 +13467,7 @@ Here's a list of public Fediverse services.
 | `enjoying.yachts` | No |
 | `enkitunes.com` | No |
 | `enl.social` | Yes |
-| `enlightened.army` | Yes |
+| `enlightened.army` | No |
 | `enlightware.ch` | No |
 | `enmity.com` | No |
 | `ennex.world` | No |
@@ -52501,7 +52502,6 @@ Here's a list of public Fediverse services.
 | `xn--eckza.jp` | No |
 | `xn--eckza.net` | No |
 | `xn--eekf.net` | No |
-| `xn--eeks.xn--tckwe` | Yes |
 | `xn--einautisterzhlt-clb.de` | No |
 | `xn--erzhlzeitmaschiene-ntb.de` | No |
 | `xn--federao-2wa9a.social` | No |
@@ -53846,8 +53846,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,455 |
-| Normal | 38,343 |
+| Cloudflare | 15,453 |
+| Normal | 38,345 |
 
 
 </details>
