@@ -6022,6 +6022,7 @@ Do not create new issue or we will close it as duplicate.
 | [Itachi10737586@X](https://twitter.com/Itachi10737586/status/1389877556866740229) | advertise |
 | [Itami971@X](https://twitter.com/Itami971/status/1390672676910288896) | advertise |
 | [itgyani@X](https://twitter.com/itgyani/status/1527643316267155464) | advertise |
+| [Itmediastudio@X](https://twitter.com/Itmediastudio/status/1763811839673008377) | advertise |
 | [itninjas_@X](https://twitter.com/itninjas_/status/1400501833882386434) | advertise |
 | [itonahoribe805@X](https://twitter.com/itonahoribe805/status/1383768213138247689) | advertise |
 | [itsallenque@X](https://twitter.com/itsallenque/status/1746172718578565436) | advertise |
