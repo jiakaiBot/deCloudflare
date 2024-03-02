@@ -24252,7 +24252,7 @@ Here's a list of public Fediverse services.
 | `klageweib.de` | No |
 | `klahowya.net` | No |
 | `klaki.net` | No |
-| `klamath.jp` | No |
+| `klamath.jp` | Yes |
 | `klamminger.info` | No |
 | `klang.is` | No |
 | `klaps.me` | No |
@@ -39896,7 +39896,7 @@ Here's a list of public Fediverse services.
 | `rikmeijer.nl` | No |
 | `rikozone.net` | No |
 | `riku1227.social` | No |
-| `rikukimura.com` | No |
+| `rikukimura.com` | Yes |
 | `rikunagiweb.jp` | Yes |
 | `rikvoj.tech` | No |
 | `rikwithnoc.com` | Yes |
@@ -41095,6 +41095,7 @@ Here's a list of public Fediverse services.
 | `sanmathi.org` | No |
 | `sanmin.jp.net` | No |
 | `sannalund.se` | No |
+| `sanotsuki.me` | Yes |
 | `sanpo-an.site` | No |
 | `sanrizuka-struggle.com` | Yes |
 | `sanroccostudies.com` | No |
@@ -53839,8 +53840,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,451 |
-| Normal | 38,340 |
+| Cloudflare | 15,454 |
+| Normal | 38,338 |
 
 
 </details>
