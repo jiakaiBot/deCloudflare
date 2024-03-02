@@ -34079,6 +34079,7 @@ Here's a list of public Fediverse services.
 | `nwf.earth` | No |
 | `nwl.ms` | No |
 | `nwo.nu` | No |
+| `nworm.icu` | Yes |
 | `nwsl.club` | No |
 | `nx-pod.de` | No |
 | `nx12.net` | No |
@@ -53827,7 +53828,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,447 |
+| Cloudflare | 15,448 |
 | Normal | 38,332 |
 
 
