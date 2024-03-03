@@ -14802,7 +14802,7 @@ Here's a list of public Fediverse services.
 | `fediserve.com` | Yes |
 | `fediserve.de` | No |
 | `fediski.com` | Yes |
-| `fedisky.com` | Yes |
+| `fedisky.com` | No |
 | `fedisnap.com` | Yes |
 | `fedisocial.net` | No |
 | `fedisonic.cloud` | Yes |
@@ -24895,6 +24895,7 @@ Here's a list of public Fediverse services.
 | `kumi.life` | No |
 | `kumi.tube` | No |
 | `kumi.zone` | No |
+| `kumis.industries` | No |
 | `kumolabo.com` | No |
 | `kunagisa.moe` | Yes |
 | `kunichogi.icu` | Yes |
@@ -34171,7 +34172,7 @@ Here's a list of public Fediverse services.
 | `nyoho.jp` | No |
 | `nyoki.club` | No |
 | `nyoom.io` | Yes |
-| `nyoroooon.xyz` | Yes |
+| `nyoroooon.xyz` | No |
 | `nyoxfox.com` | Yes |
 | `nypost.com` | Yes |
 | `nyquil-babies.com` | Yes |
@@ -42687,7 +42688,7 @@ Here's a list of public Fediverse services.
 | `silsha.me` | No |
 | `siltala.net` | No |
 | `silva.social` | No |
-| `silvan.cloud` | No |
+| `silvan.cloud` | Yes |
 | `silvasonic.com` | Yes |
 | `silvatici.com` | No |
 | `silvaticus.net` | No |
@@ -53847,8 +53848,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,450 |
-| Normal | 38,349 |
+| Cloudflare | 15,449 |
+| Normal | 38,351 |
 
 
 </details>
