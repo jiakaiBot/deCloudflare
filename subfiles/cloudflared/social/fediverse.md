@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,609 |
-| social | 4,840 |
+| com | 8,611 |
+| social | 4,842 |
 | net | 4,195 |
 | org | 2,821 |
-| de | 2,683 |
+| de | 2,685 |
 
 
 - Mastodon, Pleroma, etc
@@ -421,7 +421,7 @@ Here's a list of public Fediverse services.
 | `2ch.site` | No |
 | `2chan.moe` | No |
 | `2chan.online` | No |
-| `2core.cloud` | Yes |
+| `2core.cloud` | No |
 | `2demo.top` | No |
 | `2dev.de` | No |
 | `2dl.eu` | No |
@@ -7663,6 +7663,7 @@ Here's a list of public Fediverse services.
 | `cherryberry.pink` | No |
 | `cherrykitten.dev` | No |
 | `cherrykitten.gay` | No |
+| `cheryl-morgan.com` | No |
 | `cheshire.io` | No |
 | `chester.id.au` | Yes |
 | `chestergould.ca` | No |
@@ -10448,7 +10449,7 @@ Here's a list of public Fediverse services.
 | `datflow.tech` | Yes |
 | `datri.uy` | No |
 | `datsemultimedia.com` | No |
-| `datsmore.com` | No |
+| `datsmore.com` | Yes |
 | `datsteves.me` | Yes |
 | `datyedyeguy.net` | No |
 | `dauden.me` | No |
@@ -17164,6 +17165,7 @@ Here's a list of public Fediverse services.
 | `geek.gay` | No |
 | `geek.ms` | No |
 | `geekael.fr` | No |
+| `geekalabama.com` | Yes |
 | `geekblog.io` | No |
 | `geekbrigade.co.uk` | No |
 | `geekcloud.cyou` | Yes |
@@ -33421,6 +33423,7 @@ Here's a list of public Fediverse services.
 | `nodo1.ovh` | No |
 | `nodoame.me` | Yes |
 | `nodocomun.org` | No |
+| `nodoj.de` | No |
 | `nodoka.de` | Yes |
 | `nodomain.cc` | No |
 | `nodots.xyz` | No |
@@ -35612,6 +35615,7 @@ Here's a list of public Fediverse services.
 | `pacificvi.be` | No |
 | `packden.us` | No |
 | `packet.social` | No |
+| `packetfactory.social` | No |
 | `packethost.net` | No |
 | `packetloss.gg` | Yes |
 | `packetloss.social` | No |
@@ -37660,6 +37664,7 @@ Here's a list of public Fediverse services.
 | `prado.it` | Yes |
 | `prague.fyi` | No |
 | `praha.social` | No |
+| `pramari.de` | Yes |
 | `prankgo.de` | No |
 | `prantare.xyz` | No |
 | `prapsschnalinen.de` | No |
@@ -43319,6 +43324,7 @@ Here's a list of public Fediverse services.
 | `snapdragon.social` | No |
 | `snapeux.eu` | No |
 | `snapp.social` | No |
+| `snaps.social` | No |
 | `snapshare.social` | No |
 | `snare.cc` | No |
 | `snarfed.org` | No |
@@ -45017,7 +45023,7 @@ Here's a list of public Fediverse services.
 | `subvert.pw` | Yes |
 | `subvisual.co` | Yes |
 | `subzone.net` | No |
-| `subzone.space` | Yes |
+| `subzone.space` | No |
 | `sucb.de` | No |
 | `succ.dev` | No |
 | `succdi.cc` | Yes |
@@ -51873,6 +51879,7 @@ Here's a list of public Fediverse services.
 | `woem.cat` | No |
 | `woem.ing` | No |
 | `woem.men` | Yes |
+| `woem.moe` | No |
 | `woem.space` | No |
 | `wogan.im` | No |
 | `wohlbrecht.eu` | No |
@@ -53816,6 +53823,7 @@ Here's a list of public Fediverse services.
 | `zxcvn.xyz` | Yes |
 | `zxcvnm.com` | Yes |
 | `zxq.co` | Yes |
+| `zxz.moe` | Yes |
 | `zy.gy` | Yes |
 | `zy.lc` | No |
 | `zydeo.net` | No |
@@ -53852,8 +53860,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,450 |
-| Normal | 38,354 |
+| Cloudflare | 15,452 |
+| Normal | 38,360 |
 
 
 </details>
