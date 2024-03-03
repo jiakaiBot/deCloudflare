@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,611 |
+| com | 8,610 |
 | social | 4,842 |
 | net | 4,195 |
 | org | 2,821 |
@@ -23628,6 +23628,7 @@ Here's a list of public Fediverse services.
 | `kazugmx.net` | Yes |
 | `kazuha.kr` | Yes |
 | `kazuki.xyz` | Yes |
+| `kazuma.family` | No |
 | `kazv.moe` | No |
 | `kazvam.com` | No |
 | `kb3lyb.com` | Yes |
@@ -50912,7 +50913,6 @@ Here's a list of public Fediverse services.
 | `wakuwaku.boo` | Yes |
 | `wakuwaku.gg` | No |
 | `wakuwaku.social` | No |
-| `wakuwakuanimals.com` | Yes |
 | `wakuwakup.net` | Yes |
 | `wala2x.de` | Yes |
 | `walamana.de` | Yes |
@@ -53864,8 +53864,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,455 |
-| Normal | 38,361 |
+| Cloudflare | 15,454 |
+| Normal | 38,362 |
 
 
 </details>
