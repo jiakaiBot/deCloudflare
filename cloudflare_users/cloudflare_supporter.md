@@ -11399,6 +11399,7 @@ Do not create new issue or we will close it as duplicate.
 | [postcodewise@X](https://twitter.com/postcodewise/status/1619415955003801601) | advertise |
 | [potaterator@X](https://twitter.com/potaterator/status/1394360418278199306) | advertise |
 | [potatorui@X](https://twitter.com/potatorui/status/1409524317428228105) | moral (advertise) |
+| [poti_nico@X](https://twitter.com/poti_nico/status/1763790656089252057) | advertise |
 | [Potshotp@X](https://twitter.com/Potshotp/status/1384574003096940545) | advertise |
 | [pouria22896170@X](https://twitter.com/pouria22896170/status/1575795638700478466) | advertise |
 | [PouryaMoshtagh@X](https://twitter.com/PouryaMoshtagh/status/1574806884565061637) | advertise |
