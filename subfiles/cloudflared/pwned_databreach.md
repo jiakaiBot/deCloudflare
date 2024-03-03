@@ -421,6 +421,7 @@ Here's a list of breached sites.
 | MortalOnline (Mortal Online) | 606,637 | Yes |
 | MovieForums (Movie Forums) | 39,914 | Yes |
 | MrExcel | 366,140 | No |
+| MrGreenGaming (Mr. Green Gaming) | 27,176 | Yes |
 | MuslimDirectory (Muslim Directory) | 37,784 | No |
 | MuslimMatch (Muslim Match) | 149,830 | Yes |
 | MyFHA | 972,629 | No |
@@ -632,8 +633,8 @@ Here's a list of breached sites.
 | Tumblr (tumblr) | 65,469,298 | Yes |
 | TunedGlobal (Tuned Global) | 985,586 | Yes |
 | Tunngle | 8,192,928 | No |
-| Twitter200M (Twitter (200M)) | 211,524,284 | No |
-| Twitter | 6,682,453 | No |
+| Twitter200M (Twitter (200M)) | 211,524,284 | Yes |
+| Twitter | 6,682,453 | Yes |
 | UC (University of California) | 547,422 | Yes |
 | Uiggy | 2,682,650 | No |
 | Ulmon | 777,769 | No |
@@ -690,7 +691,7 @@ Here's a list of breached sites.
 | Xbox-Scene | 432,552 | No |
 | Xbox360ISO (Xbox 360 ISO) | 1,296,959 | No |
 | Xiaomi | 7,088,010 | No |
-| Yahoo | 453,427 | No |
+| Yahoo | 453,427 | Yes |
 | Yam | 13,258,797 | Yes |
 | Yandex (Yandex Dump) | 1,186,564 | No |
 | Yatra | 5,033,997 | No |
@@ -734,10 +735,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 416 | 4,478,070,413 |
-| Normal | 297 | 4,672,860,790 |
+| Cloudflare | 420 | 4,696,757,753 |
+| Normal | 294 | 4,454,200,626 |
 
 
 
-### 58.3% of breached sites (pwned sites) are using Cloudflare.
-### 48.9% of leaked accounts are on Cloudflare sites.
+### 58.8% of breached sites (pwned sites) are using Cloudflare.
+### 51.3% of leaked accounts are on Cloudflare sites.
