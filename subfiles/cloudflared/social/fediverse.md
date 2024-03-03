@@ -5373,7 +5373,7 @@ Here's a list of public Fediverse services.
 | `blahaj.social` | Yes |
 | `blahaj.solutions` | No |
 | `blahaj.tech` | No |
-| `blahaj.world` | Yes |
+| `blahaj.world` | No |
 | `blahaj.zone` | No |
 | `blahajspin.lol` | No |
 | `blahblahblah.wtf` | No |
@@ -20689,7 +20689,7 @@ Here's a list of public Fediverse services.
 | `identi.cat` | No |
 | `ideophone.org` | No |
 | `ides.club` | Yes |
-| `idevs.id` | Yes |
+| `idevs.id` | No |
 | `idf.social` | No |
 | `idi.moe` | No |
 | `idic.social` | No |
@@ -28567,7 +28567,7 @@ Here's a list of public Fediverse services.
 | `mastodonaustralia.com.au` | No |
 | `mastodonbelgium.be` | No |
 | `mastodonbg.com` | No |
-| `mastodonblue.com` | Yes |
+| `mastodonblue.com` | No |
 | `mastodonbooks.net` | No |
 | `mastodonchile.club` | No |
 | `mastodonchina.com` | Yes |
@@ -31874,6 +31874,7 @@ Here's a list of public Fediverse services.
 | `mystic.lgbt` | Yes |
 | `mysticaccess.online` | No |
 | `mystical.garden` | No |
+| `mystical.properties` | Yes |
 | `mysticalartai.com` | No |
 | `mysticcabin.xyz` | No |
 | `mystickynotes.com` | No |
@@ -32856,7 +32857,7 @@ Here's a list of public Fediverse services.
 | `newpublicsquare.com` | No |
 | `news-p.com` | No |
 | `news-sokuhou.jp` | No |
-| `news-time.news` | Yes |
+| `news-time.news` | No |
 | `newsbots.eu` | No |
 | `newsfleet.de` | No |
 | `newsie.social` | Yes |
@@ -53846,8 +53847,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,453 |
-| Normal | 38,345 |
+| Cloudflare | 15,450 |
+| Normal | 38,349 |
 
 
 </details>
