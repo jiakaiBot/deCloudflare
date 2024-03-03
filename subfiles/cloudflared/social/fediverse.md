@@ -43636,6 +43636,7 @@ Here's a list of public Fediverse services.
 | `softmetz.de` | No |
 | `softwarecurmudgeon.social` | No |
 | `softwareguild.org` | No |
+| `softwarelivre.tec.br` | Yes |
 | `softwaremill.social` | No |
 | `softwerk2.de` | Yes |
 | `softwhere.ca` | No |
@@ -53860,7 +53861,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,452 |
+| Cloudflare | 15,453 |
 | Normal | 38,360 |
 
 
