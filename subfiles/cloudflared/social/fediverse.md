@@ -15893,6 +15893,7 @@ Here's a list of public Fediverse services.
 | `foxtail.ooo` | No |
 | `foxthesystem.space` | No |
 | `foxtrot-community.cc` | No |
+| `foxwit.ch` | No |
 | `foxworthy.name` | No |
 | `foxxo.gay` | Yes |
 | `foxy.social` | Yes |
@@ -24404,6 +24405,7 @@ Here's a list of public Fediverse services.
 | `kobold-cave.eu` | No |
 | `kobold.cafe` | No |
 | `kobold.house` | No |
+| `kobold.page` | No |
 | `kobold.space` | No |
 | `kobolds.space` | No |
 | `kobschaetzki.net` | No |
@@ -53849,7 +53851,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,449 |
-| Normal | 38,351 |
+| Normal | 38,353 |
 
 
 </details>
