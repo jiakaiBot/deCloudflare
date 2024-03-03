@@ -19164,7 +19164,7 @@ Here's a list of public Fediverse services.
 | `hazel.cafe` | No |
 | `hazelcafe.town` | No |
 | `hazelspace.tk` | No |
-| `hazo.club` | Yes |
+| `hazo.club` | No |
 | `hazy.cafe` | No |
 | `hazy.su` | No |
 | `hazymaze.club` | No |
@@ -42364,6 +42364,7 @@ Here's a list of public Fediverse services.
 | `shima-pan.com` | No |
 | `shimadate.com` | Yes |
 | `shimaidon.net` | No |
+| `shimanami.online` | Yes |
 | `shimanchu.social` | No |
 | `shimapan.moe` | No |
 | `shimbashi.beer` | No |
@@ -53852,7 +53853,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,449 |
-| Normal | 38,354 |
+| Normal | 38,355 |
 
 
 </details>
