@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [wrangler-2.20.1.tgz: 2 vulnerabilities (highest severity is: 8.5)](https://github.com/PabloLec/StarryLines/issues/267)
+- [Manage NS records for @ on CLOUDFLAREAPI](https://github.com/StackExchange/dnscontrol/issues/2863)
 - [Error with proxy use](https://github.com/openai/openai-python/issues/1206)
 - [Redirect & SSL Issues with Nginx Proxy Manager and Virtualmin Setup](https://github.com/webmin/webmin/issues/2100)
 - [Going to Vite's page crashes worker](https://github.com/styxpilled/codecritic/issues/1)
