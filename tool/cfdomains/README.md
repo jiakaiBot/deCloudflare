@@ -140,8 +140,8 @@ Top 10
 
 | User | Score |
 | -- | -- |
+| _fafe2746_ | 27,229 |
 | _153e5c3e_ | 27,122 |
-| _fafe2746_ | 27,009 |
 | _afb066bb_ | 26,904 |
 | _0b6645a8_ | 26,672 |
 | _8bdbc899_ | 26,569 |
@@ -151,6 +151,6 @@ Top 10
 | _5341a5d1_ | 25,860 |
 | _a249e3a9_ | 25,858 |
 
-- Total Score: 981,832
+- Total Score: 983,956
 
 ![](../../image/what_are_you_hunting_cloudflare.png)
