@@ -6504,6 +6504,7 @@ Do not create new issue or we will close it as duplicate.
 | [jonnys558@X](https://twitter.com/jonnys558/status/1593282412498374658) | advertise |
 | [Jonsteave1@X](https://twitter.com/Jonsteave1/status/1400466186899312644) | advertise |
 | [JonW78478187@X](https://twitter.com/JonW78478187/status/1674150744444882946) | advertise |
+| [Jonyjayson@X](https://twitter.com/Jonyjayson/status/1764241024975565310) | advertise |
 | [joobpyjub@X](https://twitter.com/joobpyjub/status/1747643030080045424) | advertise |
 | [JoonasPulliain1@X](https://twitter.com/JoonasPulliain1/status/1472506852307054594) | advertise |
 | [JoonCathy@X](https://twitter.com/JoonCathy/status/1391688136925712391) | advertise |
@@ -15547,6 +15548,7 @@ Do not create new issue or we will close it as duplicate.
 | [wkfar@X](https://twitter.com/wkfar/status/1598157904825417729) | advertise |
 | [wL5X7lOTQMmoHiG@X](https://twitter.com/wL5X7lOTQMmoHiG/status/1398145990977327104) | advertise |
 | [wml5QTb7zqRDEQm@X](https://twitter.com/wml5QTb7zqRDEQm/status/1754442340117491822) | advertise |
+| [wmpre@X](https://twitter.com/wmpre/status/1764368287352475759) | advertise |
 | [WMT48027007@X](https://twitter.com/WMT48027007/status/1393435090273800195) | advertise |
 | [WobblyWiFi@X](https://twitter.com/WobblyWiFi/status/1456571906006650883) | advertise |
 | [woden_0141@X](https://twitter.com/woden_0141/status/1534876459688337408) | advertise |
