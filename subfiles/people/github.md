@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot pull a cert with a cloudflare domain.](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3599)
 - [wrangler-2.20.1.tgz: 2 vulnerabilities (highest severity is: 8.5)](https://github.com/PabloLec/StarryLines/issues/267)
 - [Manage NS records for @ on CLOUDFLAREAPI](https://github.com/StackExchange/dnscontrol/issues/2863)
 - [Error with proxy use](https://github.com/openai/openai-python/issues/1206)
