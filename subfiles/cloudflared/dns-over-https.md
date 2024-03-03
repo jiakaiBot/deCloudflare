@@ -303,7 +303,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | switch.ch | No |
 | syshero.org | No |
 | systemfall.ru | Yes |
-| sytes.net | Yes |
 | szyrzyk.pl | No |
 | t53.de | No |
 | teknoholistik.com | Yes |
@@ -311,7 +310,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | thebuckners.org | No |
 | tiar.app | No |
 | tiarap.org | Yes |
-| tienpham.id.vn | Yes |
 | timmes.nl | No |
 | tls-data.de | No |
 | tooli.ca | Yes |
@@ -325,7 +323,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | undo.it | Yes |
 | unstoppable.io | Yes |
 | unx.io | No |
-| urology.wiki | No |
 | venovedo.ro | Yes |
 | viatech.com.tw | Yes |
 | virga.pp.ua | Yes |
@@ -345,8 +342,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 178 |
-| Normal | 148 |
+| Cloudflare | 176 |
+| Normal | 147 |
 
 
-### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
