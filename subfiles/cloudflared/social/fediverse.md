@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,611 |
-| social | 4,843 |
+| com | 8,612 |
+| social | 4,844 |
 | net | 4,196 |
 | org | 2,823 |
-| de | 2,687 |
+| de | 2,688 |
 
 
 - Mastodon, Pleroma, etc
@@ -6676,7 +6676,7 @@ Here's a list of public Fediverse services.
 | `byzoni.org` | No |
 | `bzb.kz` | No |
 | `bzh.social` | No |
-| `c-at.jp` | No |
+| `c-at.jp` | Yes |
 | `c-c.lol` | Yes |
 | `c-cha.cc` | No |
 | `c-don.net` | No |
@@ -11039,7 +11039,7 @@ Here's a list of public Fediverse services.
 | `derper.space` | No |
 | `derpsin.space` | No |
 | `derpstra.nl` | No |
-| `derpy.email` | Yes |
+| `derpy.email` | No |
 | `derpybox.com` | Yes |
 | `derriere.maison` | No |
 | `derringer.pro` | Yes |
@@ -14008,6 +14008,7 @@ Here's a list of public Fediverse services.
 | `evoterra.social` | No |
 | `evotm.com` | Yes |
 | `evri1s-connected.online` | No |
+| `evset.ru` | No |
 | `evsyukov.org` | Yes |
 | `evu-group.de` | Yes |
 | `evulid.cc` | Yes |
@@ -23122,6 +23123,7 @@ Here's a list of public Fediverse services.
 | `justin.earth` | No |
 | `justin.rs` | Yes |
 | `justinbremer.com` | Yes |
+| `justine.fyi` | No |
 | `justinferriman.com` | No |
 | `justinian.codes` | Yes |
 | `justinmarrington.com` | No |
@@ -33138,6 +33140,7 @@ Here's a list of public Fediverse services.
 | `nikayin.social` | No |
 | `nikel.ovh` | No |
 | `nikeshox.vip` | No |
+| `nikhil-aryal.com.np` | Yes |
 | `nikhiljha.com` | Yes |
 | `nikhiltrivedi.com` | No |
 | `nikisoft.one` | Yes |
@@ -41682,6 +41685,7 @@ Here's a list of public Fediverse services.
 | `scuttle.cloud` | Yes |
 | `scuttle.org` | Yes |
 | `scuttlebug.space` | No |
+| `scuzzyfox.com` | No |
 | `scw.cloud` | No |
 | `scwhost.org` | No |
 | `scy.name` | No |
@@ -44653,6 +44657,7 @@ Here's a list of public Fediverse services.
 | `steveblank.com` | No |
 | `steveburge.com` | Yes |
 | `stevecostar.com` | Yes |
+| `stevegoo.de` | Yes |
 | `stevegranshaw.com` | No |
 | `steven.wiki` | No |
 | `stevenbrady.com` | No |
@@ -47849,6 +47854,7 @@ Here's a list of public Fediverse services.
 | `tomwiththeweather.org` | Yes |
 | `tomwsmf.com` | No |
 | `tomx.com` | Yes |
+| `ton-ton.link` | No |
 | `tonesplace.com` | No |
 | `tongfamily.com` | No |
 | `tonholzpixel.de` | No |
@@ -51010,7 +51016,7 @@ Here's a list of public Fediverse services.
 | `wappler.systems` | No |
 | `waq.dk` | Yes |
 | `waraiotoko.net` | No |
-| `warband.cc` | No |
+| `warband.cc` | Yes |
 | `warbel.net` | No |
 | `warbler.network` | No |
 | `warc.space` | No |
@@ -53502,6 +53508,7 @@ Here's a list of public Fediverse services.
 | `zenshin.uk` | Yes |
 | `zentea.gay` | No |
 | `zentonic.org` | No |
+| `zentribe.social` | No |
 | `zentroverse.xyz` | No |
 | `zentrumderarbeit.net` | No |
 | `zenwillow.website` | No |
@@ -53549,7 +53556,7 @@ Here's a list of public Fediverse services.
 | `zerschnurrt.de` | No |
 | `zerstoererbande.de` | No |
 | `zeruhur.icu` | No |
-| `zerw.xyz` | No |
+| `zerw.xyz` | Yes |
 | `zesh.club` | No |
 | `zestysoft.com` | No |
 | `zesummen.online` | No |
@@ -53876,8 +53883,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,458 |
-| Normal | 38,370 |
+| Cloudflare | 15,462 |
+| Normal | 38,373 |
 
 
 </details>
