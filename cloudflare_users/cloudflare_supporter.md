@@ -15134,6 +15134,7 @@ Do not create new issue or we will close it as duplicate.
 | [virendra_manju@X](https://twitter.com/virendra_manju/status/1690585942879309824) | advertise |
 | [VirgilShelton@X](https://twitter.com/VirgilShelton/status/1409998073040756738) | moral (advertise) |
 | [virotoovox@X](https://twitter.com/virotoovox/status/1685257750215790593) | advertise |
+| [virtuallyfun@X](https://twitter.com/virtuallyfun/status/1764569493009744090) | advertise |
 | [virtualtwit@X](https://twitter.com/virtualtwit/status/1532222794020581376) | advertise |
 | [Virus3334@X](https://twitter.com/Virus3334/status/1734067340520648961) | advertise |
 | [Virus49868336@X](https://twitter.com/Virus49868336/status/1394191569666723840) | advertise |
