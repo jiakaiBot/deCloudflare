@@ -754,6 +754,7 @@ Do not create new issue or we will close it as duplicate.
 | [AliBlackEyes@X](https://twitter.com/AliBlackEyes/status/1386036424051331072) | advertise |
 | [aliboom20@X](https://twitter.com/aliboom20/status/1685256331807322114) | advertise |
 | [AliceTan79@X](https://twitter.com/AliceTan79/status/1392949021661007872) | advertise |
+| [aliefrahman@X](https://twitter.com/aliefrahman/status/1750104720725971101) | advertise |
 | [alien3demo@X](https://twitter.com/alien3demo/status/1724324528502042719) | advertise |
 | [AliFcb21@X](https://twitter.com/AliFcb21/status/1568562935999463428) | advertise |
 | [alifersito@X](https://twitter.com/alifersito/status/1693837360872542536) | advertise |
@@ -12611,6 +12612,7 @@ Do not create new issue or we will close it as duplicate.
 | [sean404052@X](https://twitter.com/sean404052/status/1723802433560715449) | advertise |
 | [Sean77792242@X](https://twitter.com/Sean77792242/status/1498470501093896197) | advertise |
 | [SeanScalley1@X](https://twitter.com/SeanScalley1/status/1508999258288144389) | advertise |
+| [SeasonCloudBr@X](https://twitter.com/SeasonCloudBr/status/1761521823785603169) | advertise |
 | [seaxvr@X](https://twitter.com/seaxvr/status/1386420536742268928) | advertise |
 | [seb8165@X](https://twitter.com/seb8165/status/1665874495394164736) | advertise |
 | [SebasDeLho@X](https://twitter.com/SebasDeLho/status/1458194317458149380) | advertise |
@@ -15570,6 +15572,7 @@ Do not create new issue or we will close it as duplicate.
 | [world32541@X](https://twitter.com/world32541/status/1540714404899069953) | advertise |
 | [WorlfOfEiffel@X](https://twitter.com/WorlfOfEiffel/status/1674740125266501632) | advertise |
 | [woseokproperty@X](https://twitter.com/woseokproperty/status/1390282007041626116) | advertise |
+| [wp669669@X](https://twitter.com/wp669669/status/1759476420047523932) | advertise |
 | [wproadmaps@X](https://twitter.com/wproadmaps/status/1541825957178245120) | advertise |
 | [Wp_Xube@X](https://twitter.com/Wp_Xube/status/1457203444847038465) | advertise |
 | [wrgCdaCuoqfoFF3@X](https://twitter.com/wrgCdaCuoqfoFF3/status/1667260437690486789) | advertise |
