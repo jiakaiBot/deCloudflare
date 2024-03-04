@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Remix + Vite + Express(custom): Error: listen EADDRNOTAVAIL: address not available](https://github.com/Shopify/shopify-app-template-remix/issues/586)
 - ["Send email notifications" causing AxiosError (500) behind Cloudflare Tunnel](https://github.com/deck9/input/issues/137)
 - [Cannot pull a cert with a cloudflare domain.](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3599)
 - [wrangler-2.20.1.tgz: 2 vulnerabilities (highest severity is: 8.5)](https://github.com/PabloLec/StarryLines/issues/267)
