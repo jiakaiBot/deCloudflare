@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,612 |
 | social | 4,844 |
 | net | 4,197 |
-| org | 2,824 |
+| org | 2,825 |
 | de | 2,688 |
 
 
@@ -4536,6 +4536,7 @@ Here's a list of public Fediverse services.
 | `becomesovran.com` | No |
 | `becutewith.me` | No |
 | `bedlamsteps.uk` | Yes |
+| `bedohswe.eu.org` | No |
 | `bee-tube.fr` | No |
 | `beebear.party` | No |
 | `beebl.es` | Yes |
@@ -53890,7 +53891,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,469 |
-| Normal | 38,372 |
+| Normal | 38,373 |
 
 
 </details>
