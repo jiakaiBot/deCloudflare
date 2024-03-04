@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 8,610 |
 | social | 4,842 |
 | net | 4,195 |
-| org | 2,821 |
-| de | 2,686 |
+| org | 2,822 |
+| de | 2,687 |
 
 
 - Mastodon, Pleroma, etc
@@ -3487,6 +3487,7 @@ Here's a list of public Fediverse services.
 | `atergens.com` | Yes |
 | `aterm.jp` | No |
 | `aterra.info` | No |
+| `atesamours.fr` | No |
 | `atextual.com` | No |
 | `ath.cx` | No |
 | `athaliasoft.com` | No |
@@ -3913,7 +3914,7 @@ Here's a list of public Fediverse services.
 | `azemet.space` | No |
 | `azfedi.social` | No |
 | `azimuth.place` | Yes |
-| `azisserver.me` | Yes |
+| `azisserver.me` | No |
 | `azkware.net` | No |
 | `azlux.fr` | No |
 | `aznas.eu.org` | No |
@@ -7135,6 +7136,7 @@ Here's a list of public Fediverse services.
 | `catboy.baby` | Yes |
 | `catboy.cafe` | Yes |
 | `catboyindustries.co` | Yes |
+| `catboykey.xyz` | No |
 | `catboys.org` | No |
 | `catbutts.today` | No |
 | `catcatnya.com` | No |
@@ -9315,7 +9317,7 @@ Here's a list of public Fediverse services.
 | `cricriticos.com` | No |
 | `crid.land` | No |
 | `crikey.social` | No |
-| `crime-net.org` | No |
+| `crime-net.org` | Yes |
 | `crime.cafe` | No |
 | `crime.group` | No |
 | `crime.st` | No |
@@ -15615,6 +15617,7 @@ Here's a list of public Fediverse services.
 | `flyingburri.to` | Yes |
 | `flyingcube.tech` | No |
 | `flyingdingo.social` | No |
+| `flyinghigh-bonn.org` | No |
 | `flyingmou.se` | No |
 | `flyingsquirrel.ca` | No |
 | `flylumo.co.uk` | Yes |
@@ -20692,7 +20695,7 @@ Here's a list of public Fediverse services.
 | `ideath.net` | No |
 | `ideentausch.org` | No |
 | `ideesdachatduecommerce.com` | No |
-| `identi.cat` | No |
+| `identi.cat` | Yes |
 | `ideophone.org` | No |
 | `ides.club` | Yes |
 | `idevs.id` | No |
@@ -27385,6 +27388,7 @@ Here's a list of public Fediverse services.
 | `maatwo.com` | Yes |
 | `maaw.social` | Yes |
 | `mab.cat` | No |
+| `mabama.de` | No |
 | `mabe.space` | No |
 | `mabi.ski` | Yes |
 | `mabidn.net` | No |
@@ -44040,6 +44044,7 @@ Here's a list of public Fediverse services.
 | `spectrazine.social` | No |
 | `spectrecollie.com` | No |
 | `spectreleague.net` | No |
+| `spectreofcommunism.boo` | No |
 | `spectreos.de` | No |
 | `spectres.space` | No |
 | `spectrum.im` | Yes |
@@ -47712,6 +47717,7 @@ Here's a list of public Fediverse services.
 | `toddpresta.com` | No |
 | `todesstern.eu` | No |
 | `todfox.net` | No |
+| `todfox.site` | No |
 | `todo.town` | No |
 | `todon.de` | No |
 | `todon.eu` | No |
@@ -53864,8 +53870,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,454 |
-| Normal | 38,362 |
+| Cloudflare | 15,455 |
+| Normal | 38,367 |
 
 
 </details>
