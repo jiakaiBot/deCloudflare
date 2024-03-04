@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to Use Drizzle Studio with Cloudflare D1 on Windows](https://github.com/drizzle-team/drizzle-kit-mirror/issues/329)
 - [Web interface not accessible for one user (admin)](https://github.com/freescout-helpdesk/freescout/issues/3849)
 - [hysteria hysteria2 和 tuic 等一类入栈为UDP的协议在客户端发起连接时日志未输出客户端来源IP](https://github.com/SagerNet/sing-box/issues/1540)
 - [Remix + Vite + Express(custom): Error: listen EADDRNOTAVAIL: address not available](https://github.com/Shopify/shopify-app-template-remix/issues/586)
