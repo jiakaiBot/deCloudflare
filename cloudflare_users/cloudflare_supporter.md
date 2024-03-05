@@ -764,6 +764,7 @@ Do not create new issue or we will close it as duplicate.
 | [aliimozhdeh@X](https://twitter.com/aliimozhdeh/status/1384949009035431936) | advertise |
 | [AliiWoi@X](https://twitter.com/AliiWoi/status/1468846308219781120) | advertise |
 | [AlikaGroup@X](https://twitter.com/AlikaGroup/status/1615838070477135873) | advertise |
+| [Alikhan2194@X](https://twitter.com/Alikhan2194/status/1765035389012848879) | advertise |
 | [alimaaz4u@X](https://twitter.com/alimaaz4u/status/1735260480279642256) | advertise |
 | [AliN2103695113@X](https://twitter.com/AliN2103695113/status/1402345722310180867) | advertise |
 | [alinematii77@X](https://twitter.com/alinematii77/status/1607345333872246790) | advertise |
@@ -6708,6 +6709,7 @@ Do not create new issue or we will close it as duplicate.
 | [kalpana_2004@X](https://twitter.com/kalpana_2004/status/1578203096345235456) | advertise |
 | [kalvados_prod@X](https://twitter.com/kalvados_prod/status/1379381156609671170) | advertise |
 | [kamalW72237036@X](https://twitter.com/kamalW72237036/status/1515912575694905354) | advertise |
+| [Kamanie_001@X](https://twitter.com/Kamanie_001/status/1765045487311458565) | advertise |
 | [kamelmansouri@X](https://twitter.com/kamelmansouri/status/1470652684206321672) | advertise |
 | [kamey258@X](https://twitter.com/kamey258/status/1379869168061837313) | advertise |
 | [kamijouanna@X](https://twitter.com/kamijouanna/status/1573455714848210962) | advertise |
@@ -7618,6 +7620,7 @@ Do not create new issue or we will close it as duplicate.
 | [kyaw_san_oo@X](https://twitter.com/kyaw_san_oo/status/1395654819742846980) | advertise |
 | [kyaw_tein@X](https://twitter.com/kyaw_tein/status/1380206760099733507) | advertise |
 | [kyaw_thihan@X](https://twitter.com/kyaw_thihan/status/1390792585921273857) | advertise |
+| [kyaw_tun9795@X](https://twitter.com/kyaw_tun9795/status/1765042817330815308) | advertise |
 | [Kyi2277@X](https://twitter.com/Kyi2277/status/1618328156070633472) | advertise |
 | [kyiminthaw6@X](https://twitter.com/kyiminthaw6/status/1393374831974916098) | advertise |
 | [kyiphyu204@X](https://twitter.com/kyiphyu204/status/1398823767644643332) | advertise |
@@ -7639,6 +7642,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kyousukilalabs@X](https://twitter.com/Kyousukilalabs/status/1389630473375158273) | advertise |
 | [kyroskoh5@X](https://twitter.com/kyroskoh5/status/1503428687303118849) | advertise |
 | [Kyuayethit2@X](https://twitter.com/Kyuayethit2/status/1392326306151354370) | advertise |
+| [kyubi0110@X](https://twitter.com/kyubi0110/status/1765046577692070112) | advertise |
 | [KyuiiiJ@X](https://twitter.com/KyuiiiJ/status/1754830571426263473) | advertise |
 | [KyuKyu24893176@X](https://twitter.com/KyuKyu24893176/status/1396055932291862532) | advertise |
 | [KyuThin16@X](https://twitter.com/KyuThin16/status/1391667230966906883) | advertise |
@@ -9090,6 +9094,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinTwe62748@X](https://twitter.com/MinTwe62748/status/1751264531077288270) | advertise |
 | [mintymintkii@X](https://twitter.com/mintymintkii/status/1670633823481262082) | advertise |
 | [MINVEST18@X](https://twitter.com/MINVEST18/status/1443423830459011078) | advertise |
+| [MinZaw91847890@X](https://twitter.com/MinZaw91847890/status/1765039265065640160) | advertise |
 | [MinZinAung1@X](https://twitter.com/MinZinAung1/status/1391329935558471686) | advertise |
 | [min_hao6@X](https://twitter.com/min_hao6/status/1657400886052921346) | advertise |
 | [Mio93515060@X](https://twitter.com/Mio93515060/status/1395794442238316550) | advertise |
@@ -13909,6 +13914,7 @@ Do not create new issue or we will close it as duplicate.
 | [the3ASiC@X](https://twitter.com/the3ASiC/status/1493630130664919041) | advertise |
 | [TheAnh23257867@X](https://twitter.com/TheAnh23257867/status/1553976137063141378) | advertise |
 | [theankansaha@X](https://twitter.com/theankansaha/status/1616039812410245123) | advertise |
+| [TheArrowOne@X](https://twitter.com/TheArrowOne/status/1765038446631117176) | advertise |
 | [TheBhramjaal@X](https://twitter.com/TheBhramjaal/status/1567563388884250625) | advertise |
 | [TheBigGermanGuy@X](https://twitter.com/TheBigGermanGuy/status/1640927171005775875) | advertise |
 | [TheChadDevET@X](https://twitter.com/TheChadDevET/status/1613799586489073664) | advertise |
