@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,612 |
+| com | 8,613 |
 | social | 4,844 |
 | net | 4,197 |
 | org | 2,825 |
@@ -23412,7 +23412,7 @@ Here's a list of public Fediverse services.
 | `kandar.in` | Yes |
 | `kandr3s.co` | No |
 | `kane-il.us` | No |
-| `kaneproductions.co.uk` | No |
+| `kaneproductions.co.uk` | Yes |
 | `kangaroo.to` | Yes |
 | `kangaroopunch.com` | No |
 | `kangoulya.org` | No |
@@ -26860,6 +26860,7 @@ Here's a list of public Fediverse services.
 | `lord-mayo.uk` | Yes |
 | `lord.re` | No |
 | `lord.sh` | No |
+| `lorddev.com` | No |
 | `lordinateur.tech` | Yes |
 | `lordmatt.co.uk` | Yes |
 | `lordofthedummies.com` | No |
@@ -49156,7 +49157,7 @@ Here's a list of public Fediverse services.
 | `uaatwar.com` | Yes |
 | `ualberta.ca` | Yes |
 | `uasa.io` | No |
-| `ub32.org` | No |
+| `ub32.org` | Yes |
 | `uba.be` | No |
 | `ubanis.com` | Yes |
 | `uber.space` | No |
@@ -53894,8 +53895,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,464 |
-| Normal | 38,382 |
+| Cloudflare | 15,466 |
+| Normal | 38,381 |
 
 
 </details>
