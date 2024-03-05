@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,613 |
+| com | 8,614 |
 | social | 4,845 |
-| net | 4,197 |
+| net | 4,198 |
 | org | 2,825 |
-| de | 2,688 |
+| de | 2,689 |
 
 
 - Mastodon, Pleroma, etc
@@ -3337,6 +3337,7 @@ Here's a list of public Fediverse services.
 | `asmp.social` | No |
 | `asmr.works` | Yes |
 | `asn.mobi` | No |
+| `asobear.com` | Yes |
 | `asobi.world` | No |
 | `asobigbang.net` | No |
 | `asocia.xyz` | Yes |
@@ -3744,6 +3745,7 @@ Here's a list of public Fediverse services.
 | `aventra.uk` | No |
 | `averagedom.com` | No |
 | `averagedood.xyz` | Yes |
+| `averge.eu` | Yes |
 | `averly.me` | No |
 | `avery-weir.net` | No |
 | `avery.cafe` | No |
@@ -11472,6 +11474,7 @@ Here's a list of public Fediverse services.
 | `digper.tech` | No |
 | `digressive.me` | No |
 | `digselver.de` | No |
+| `digspace.de` | No |
 | `dijy.eu.org` | Yes |
 | `dikmax.name` | No |
 | `dilavni.com` | Yes |
@@ -21330,6 +21333,7 @@ Here's a list of public Fediverse services.
 | `insert.moe` | Yes |
 | `insert.tk` | No |
 | `insertapp.net` | Yes |
+| `insertplus.com.ar` | No |
 | `insicurezzadigitale.com` | Yes |
 | `insider-it.de` | No |
 | `insidetherink.com` | Yes |
@@ -32636,6 +32640,7 @@ Here's a list of public Fediverse services.
 | `nerdhaven.de` | No |
 | `nerdheim.de` | No |
 | `nerdherd.space` | No |
+| `nerdherz.blog` | No |
 | `nerdhub.co` | Yes |
 | `nerdhut.ch` | No |
 | `nerdica.net` | No |
@@ -33585,6 +33590,7 @@ Here's a list of public Fediverse services.
 | `nonfren.monster` | No |
 | `nonfungibleart.club` | No |
 | `nongrata.social` | No |
+| `nonia.net` | Yes |
 | `noninjas.com` | Yes |
 | `nonlinear.zone` | No |
 | `nonn.io` | Yes |
@@ -45780,7 +45786,7 @@ Here's a list of public Fediverse services.
 | `takpika.jp` | Yes |
 | `taks.garden` | No |
 | `taktstock.blue` | Yes |
-| `takuann.net` | Yes |
+| `takuann.net` | No |
 | `takuji.org` | Yes |
 | `takulog.info` | Yes |
 | `takumi.fun` | No |
@@ -51449,7 +51455,7 @@ Here's a list of public Fediverse services.
 | `wetermater.com` | No |
 | `wetfish.space` | No |
 | `wethethinking.com` | No |
-| `wetofu.top` | Yes |
+| `wetofu.top` | No |
 | `wetoot.xyz` | No |
 | `wetshaving.social` | No |
 | `wetsnow.com` | No |
@@ -53901,8 +53907,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,466 |
-| Normal | 38,387 |
+| Cloudflare | 15,467 |
+| Normal | 38,392 |
 
 
 </details>
