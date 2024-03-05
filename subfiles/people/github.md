@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Initial URL (/vaults) does not match URL at time of hydration (/manage), reloading page...](https://github.com/remix-run/remix/issues/8976)
 - [CloudFlare Network performance issue in Portland, OR, United States - PDX](https://github.com/SecOpsNews/news/issues/25574)
 - [Modflared with MC server running in docker](https://github.com/HttpRafa/modflared/issues/22)
 - [​Self hosted: Cannot sign in with the default admin credentials, keeps returning to sign in](https://github.com/toeverything/AFFiNE/issues/6007)
