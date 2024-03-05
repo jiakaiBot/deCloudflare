@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [driverAdapters early access + Cloudflare Hyperdrive: "Release called on client which has already been released to the pool"](https://github.com/prisma/prisma/issues/23367)
 - [Using SSL works with tls-gen but not generated certificates from cloudflare](https://github.com/rabbitmq/rabbitmq-server/issues/10671)
 - [Initial URL (/vaults) does not match URL at time of hydration (/manage), reloading page...](https://github.com/remix-run/remix/issues/8976)
 - [CloudFlare Network performance issue in Portland, OR, United States - PDX](https://github.com/SecOpsNews/news/issues/25574)
