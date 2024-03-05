@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,614 |
-| social | 4,845 |
+| social | 4,846 |
 | net | 4,200 |
 | org | 2,825 |
 | de | 2,690 |
@@ -45826,6 +45826,7 @@ Here's a list of public Fediverse services.
 | `talkinghuman.com` | Yes |
 | `talkingroom.xyz` | Yes |
 | `talkmitmarkus.de` | No |
+| `talkonclimate.social` | Yes |
 | `talkopol.is` | No |
 | `talkoverflow.dev` | No |
 | `talkparanormal.social` | No |
@@ -53911,7 +53912,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,465 |
+| Cloudflare | 15,466 |
 | Normal | 38,398 |
 
 
