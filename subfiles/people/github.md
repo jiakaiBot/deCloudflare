@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Network performance issue in Portland, OR, United States - PDX](https://github.com/SecOpsNews/news/issues/25574)
 - [Modflared with MC server running in docker](https://github.com/HttpRafa/modflared/issues/22)
 - [​Self hosted: Cannot sign in with the default admin credentials, keeps returning to sign in](https://github.com/toeverything/AFFiNE/issues/6007)
 - [Unable to Use Drizzle Studio with Cloudflare D1 on Windows](https://github.com/drizzle-team/drizzle-kit-mirror/issues/329)
