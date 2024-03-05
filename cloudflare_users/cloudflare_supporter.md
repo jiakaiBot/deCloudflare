@@ -15778,6 +15778,7 @@ Do not create new issue or we will close it as duplicate.
 | [YanNain83090198@X](https://twitter.com/YanNain83090198/status/1555564376928956416) | advertise |
 | [yannaun02339569@X](https://twitter.com/yannaun02339569/status/1392301842701295616) | advertise |
 | [YanPaiTrue@X](https://twitter.com/YanPaiTrue/status/1404820644131328000) | advertise |
+| [YanWar538713637@X](https://twitter.com/YanWar538713637/status/1765058917007237270) | advertise |
 | [YanYan16789666@X](https://twitter.com/YanYan16789666/status/1400852123902906369) | advertise |
 | [yan_kyaw0h@X](https://twitter.com/yan_kyaw0h/status/1393088808602722305) | advertise |
 | [yan_tint@X](https://twitter.com/yan_tint/status/1395264822820974595) | advertise |
