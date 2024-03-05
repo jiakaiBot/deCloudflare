@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,613 |
-| social | 4,844 |
+| social | 4,845 |
 | net | 4,197 |
 | org | 2,825 |
 | de | 2,688 |
@@ -3163,7 +3163,7 @@ Here's a list of public Fediverse services.
 | `artermyss.com` | Yes |
 | `artfusion.social` | No |
 | `arthack.nz` | No |
-| `arthacker.su` | Yes |
+| `arthacker.su` | No |
 | `arthaus.social` | No |
 | `arthfach.com` | No |
 | `arthropod.social` | No |
@@ -16851,7 +16851,7 @@ Here's a list of public Fediverse services.
 | `gakami.net` | No |
 | `gaken.social` | No |
 | `gaku-tab-kill.com` | No |
-| `gaku-tab-love.com` | Yes |
+| `gaku-tab-love.com` | No |
 | `gakugeidon.pw` | No |
 | `gakusei.space` | No |
 | `galacticaactu.al` | No |
@@ -18110,6 +18110,7 @@ Here's a list of public Fediverse services.
 | `gow.fr` | No |
 | `gowalla.social` | No |
 | `goyim.app` | No |
+| `goyim.social` | No |
 | `goyslop.cafe` | No |
 | `goziline.com` | No |
 | `gozou.moe` | Yes |
@@ -34282,6 +34283,7 @@ Here's a list of public Fediverse services.
 | `obkkszd.club` | Yes |
 | `obl.ong` | Yes |
 | `oblivion.social` | No |
+| `oblox.gay` | No |
 | `obnh.network` | No |
 | `obo.sh` | Yes |
 | `obota.art` | No |
@@ -53895,8 +53897,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,466 |
-| Normal | 38,381 |
+| Cloudflare | 15,464 |
+| Normal | 38,385 |
 
 
 </details>
