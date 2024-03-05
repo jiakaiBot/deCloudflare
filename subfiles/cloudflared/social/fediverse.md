@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,614 |
 | social | 4,845 |
-| net | 4,198 |
+| net | 4,199 |
 | org | 2,825 |
-| de | 2,689 |
+| de | 2,690 |
 
 
 - Mastodon, Pleroma, etc
@@ -5359,6 +5359,7 @@ Here's a list of public Fediverse services.
 | `blacktwitter.io` | No |
 | `blackviewsdiffer.fyi` | No |
 | `blackweather.org` | No |
+| `blackwhitemint.de` | No |
 | `blackyoup.me` | No |
 | `blade.red` | No |
 | `bladerunner.social` | No |
@@ -8580,6 +8581,7 @@ Here's a list of public Fediverse services.
 | `col.social` | Yes |
 | `cola-gang.industries` | Yes |
 | `cola.net` | No |
+| `colaborativas.net` | No |
 | `cold-albion.net` | No |
 | `cold.solar` | No |
 | `coldness.co` | No |
@@ -31770,7 +31772,7 @@ Here's a list of public Fediverse services.
 | `myeu.cloud` | Yes |
 | `myexp.de` | Yes |
 | `myf.one` | Yes |
-| `myfake.website` | Yes |
+| `myfake.website` | No |
 | `myfamilyandfriends.net` | No |
 | `myfed.space` | No |
 | `myfedi.de` | No |
@@ -53908,8 +53910,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,466 |
-| Normal | 38,394 |
+| Cloudflare | 15,465 |
+| Normal | 38,397 |
 
 
 </details>
