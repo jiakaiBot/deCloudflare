@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Using SSL works with tls-gen but not generated certificates from cloudflare](https://github.com/rabbitmq/rabbitmq-server/issues/10671)
 - [Initial URL (/vaults) does not match URL at time of hydration (/manage), reloading page...](https://github.com/remix-run/remix/issues/8976)
 - [CloudFlare Network performance issue in Portland, OR, United States - PDX](https://github.com/SecOpsNews/news/issues/25574)
 - [Modflared with MC server running in docker](https://github.com/HttpRafa/modflared/issues/22)
