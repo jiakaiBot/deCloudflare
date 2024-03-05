@@ -18266,6 +18266,7 @@ Here's a list of public Fediverse services.
 | `greenwoodmedia.social` | No |
 | `greenwoodmedia.xyz` | No |
 | `greg-kennedy.com` | No |
+| `greg.ca` | No |
 | `greg.city` | No |
 | `greggallardo.com` | No |
 | `gregism.com` | No |
@@ -20841,6 +20842,7 @@ Here's a list of public Fediverse services.
 | `ikeran.org` | No |
 | `ikesu.social` | Yes |
 | `ikeweb.net` | Yes |
+| `iking.ca` | Yes |
 | `ikkaro.cat` | No |
 | `ikkaro.com` | No |
 | `iklem.fr` | No |
@@ -23570,6 +23572,7 @@ Here's a list of public Fediverse services.
 | `katgirl.club` | No |
 | `katharinabrunner.de` | No |
 | `kathryl.fr` | No |
+| `kathware.com.ar` | No |
 | `kathyreid.id.au` | No |
 | `katiechapman.ie` | Yes |
 | `katiehopkinspolitical.icu` | No |
@@ -53898,8 +53901,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,465 |
-| Normal | 38,385 |
+| Cloudflare | 15,466 |
+| Normal | 38,387 |
 
 
 </details>
