@@ -28187,7 +28187,7 @@ Here's a list of public Fediverse services.
 | `mast.nyc` | No |
 | `mast.one` | No |
 | `mast.quebec` | No |
-| `mast.tokyo` | Yes |
+| `mast.tokyo` | No |
 | `mast.zone` | No |
 | `mast0d0n.fr` | No |
 | `mast3rsoft.com` | No |
@@ -29399,7 +29399,7 @@ Here's a list of public Fediverse services.
 | `memit.dk` | Yes |
 | `memmex.de` | No |
 | `memo-village.com` | No |
-| `memo-village.online` | Yes |
+| `memo-village.online` | No |
 | `memo.systems` | Yes |
 | `memomo.me` | Yes |
 | `memorabilium.net` | No |
@@ -51660,6 +51660,7 @@ Here's a list of public Fediverse services.
 | `wildleague.org` | No |
 | `wildparadox.com` | No |
 | `wildrye.com` | No |
+| `wildserver.ru` | No |
 | `wildsplash.photography` | No |
 | `wildsurf.net` | No |
 | `wildtree.jp` | No |
@@ -51961,7 +51962,7 @@ Here's a list of public Fediverse services.
 | `wolfi.ee` | Yes |
 | `wolfie.pw` | No |
 | `wolflab.net` | Yes |
-| `wolfpaw.kr` | No |
+| `wolfpaw.kr` | Yes |
 | `wolfs.computer` | No |
 | `wolfschouten.nl` | No |
 | `wolfskaempf.de` | No |
@@ -53907,8 +53908,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,467 |
-| Normal | 38,392 |
+| Cloudflare | 15,466 |
+| Normal | 38,394 |
 
 
 </details>
