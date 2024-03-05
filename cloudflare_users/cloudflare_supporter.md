@@ -824,6 +824,7 @@ Do not create new issue or we will close it as duplicate.
 | [Alsadar13@X](https://twitter.com/Alsadar13/status/1552128101655924736) | advertise |
 | [alsahafaymon@X](https://twitter.com/alsahafaymon/status/1713330450947850531) | advertise |
 | [AlsamiDr@X](https://twitter.com/AlsamiDr/status/1390431366794432516) | advertise |
+| [alsirgamalalsir@X](https://twitter.com/alsirgamalalsir/status/1764607228344971764) | advertise |
 | [AlsukaitiK17984@X](https://twitter.com/AlsukaitiK17984/status/1689632727342206977) | advertise |
 | [alta2851@X](https://twitter.com/alta2851/status/1726697458628178339) | advertise |
 | [AltafBh79770188@X](https://twitter.com/AltafBh79770188/status/1400425714541756416) | advertise |
@@ -966,6 +967,7 @@ Do not create new issue or we will close it as duplicate.
 | [anavaralimited@X](https://twitter.com/anavaralimited/status/1389661876397637632) | advertise |
 | [Ana_R2005@X](https://twitter.com/Ana_R2005/status/1507169578832605198) | advertise |
 | [Anbao123yo2@X](https://twitter.com/Anbao123yo2/status/1713605278552506804) | advertise |
+| [anbujawahar@X](https://twitter.com/anbujawahar/status/1764694111594881283) | advertise |
 | [ancientxfire@X](https://twitter.com/ancientxfire/status/1615290300020449280) | advertise |
 | [AndAlishah@X](https://twitter.com/AndAlishah/status/1704439491606532439) | advertise |
 | [Andeptrai291122@X](https://twitter.com/Andeptrai291122/status/1553017887182712833) | advertise |
