@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [JS/TS SDK Doesn't Work with Cloudflare Workers](https://github.com/FlipsideCrypto/sdk/issues/32)
 - [driverAdapters early access + Cloudflare Hyperdrive: "Release called on client which has already been released to the pool"](https://github.com/prisma/prisma/issues/23367)
 - [Using SSL works with tls-gen but not generated certificates from cloudflare](https://github.com/rabbitmq/rabbitmq-server/issues/10671)
 - [Initial URL (/vaults) does not match URL at time of hydration (/manage), reloading page...](https://github.com/remix-run/remix/issues/8976)
