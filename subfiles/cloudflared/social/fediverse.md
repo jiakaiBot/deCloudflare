@@ -3641,7 +3641,7 @@ Here's a list of public Fediverse services.
 | `aus.social` | Yes |
 | `ausdroid.net` | Yes |
 | `ausfin.tech` | No |
-| `ausglam.space` | No |
+| `ausglam.space` | Yes |
 | `ausloos.kim` | Yes |
 | `ausmed.social` | No |
 | `ausnahmsweise.net` | No |
@@ -33660,6 +33660,7 @@ Here's a list of public Fediverse services.
 | `nordicshutter.com` | No |
 | `nordicvisions.net` | No |
 | `nordisk.cloud` | No |
+| `nordmann.name` | No |
 | `nordpol.social` | No |
 | `nordsee.social` | No |
 | `nordstadt-braut.de` | No |
@@ -53897,7 +53898,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,464 |
+| Cloudflare | 15,465 |
 | Normal | 38,385 |
 
 
