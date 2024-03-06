@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [IMAP Fetch Error: Check Internet Connection and try again](https://github.com/freescout-helpdesk/freescout/issues/3854)
 - [Blocked by LeetCode.com](https://github.com/kawre/leetcode.nvim/issues/69)
 - [I can't connect to divece - balena ssh <uuid device> - Host <UUID> not found: 2(SERVFAIL)](https://github.com/balena-io/open-balena/issues/184)
 - [jshrink error possibly causing all buttons to break](https://github.com/freescout-helpdesk/freescout/issues/3852)
