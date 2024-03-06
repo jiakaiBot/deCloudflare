@@ -113,7 +113,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dukun.de | No |
 | edgy-dns.com | No |
 | emiliyan.com | Yes |
-| enjoymylife.net | Yes |
 | extrawdw.net | Yes |
 | f97.xyz | Yes |
 | familiamv.net | Yes |
@@ -334,15 +333,14 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | yandex.net | Yes |
 | yumenashyi.com | Yes |
 | zburger.top | No |
-| zeinima.com | Yes |
 
 
 ----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 175 |
+| Cloudflare | 173 |
 | Normal | 147 |
 
 
-### 54.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
