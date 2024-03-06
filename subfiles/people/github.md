@@ -4,6 +4,10 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Blocked by LeetCode.com](https://github.com/kawre/leetcode.nvim/issues/69)
+- [I can't connect to divece - balena ssh <uuid device> - Host <UUID> not found: 2(SERVFAIL)](https://github.com/balena-io/open-balena/issues/184)
+- [jshrink error possibly causing all buttons to break](https://github.com/freescout-helpdesk/freescout/issues/3852)
+- [Failed to load resource: the server responded with a status of 404 ()](https://github.com/Shopify/cli/issues/3531)
 - [GUIDE: How to fix "Error: Received a non-OK status code"](https://github.com/httpjamesm/AnonymousOverflow/issues/86)
 - [Use time.cloudflare.com instead of pool.ntp.org by default](https://github.com/siderolabs/talos/issues/8396)
 - [Could not resolve a few of packages in @anthropic-ai/bedrock-sdk](https://github.com/anthropics/anthropic-sdk-typescript/issues/314)
