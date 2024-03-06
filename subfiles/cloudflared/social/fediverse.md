@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,846 |
 | net | 4,200 |
 | org | 2,825 |
-| de | 2,690 |
+| de | 2,691 |
 
 
 - Mastodon, Pleroma, etc
@@ -50968,6 +50968,7 @@ Here's a list of public Fediverse services.
 | `waldi-server.tk` | No |
 | `waldn.net` | No |
 | `waldorf.fyi` | Yes |
+| `waldstepper.de` | No |
 | `waldstepperbu.de` | No |
 | `waldvogel.family` | No |
 | `wale.au` | Yes |
@@ -53914,7 +53915,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,465 |
-| Normal | 38,400 |
+| Normal | 38,401 |
 
 
 </details>
