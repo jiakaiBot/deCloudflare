@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Could not resolve a few of packages in @anthropic-ai/bedrock-sdk](https://github.com/anthropics/anthropic-sdk-typescript/issues/314)
 - [Failed to add OpenTelemetry data (permission denied)](https://github.com/spiceai/spiceai/issues/764)
 - [JS/TS SDK Doesn't Work with Cloudflare Workers](https://github.com/FlipsideCrypto/sdk/issues/32)
 - [driverAdapters early access + Cloudflare Hyperdrive: "Release called on client which has already been released to the pool"](https://github.com/prisma/prisma/issues/23367)
