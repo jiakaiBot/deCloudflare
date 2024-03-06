@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,616 |
-| social | 4,847 |
+| com | 8,617 |
+| social | 4,848 |
 | net | 4,201 |
 | org | 2,825 |
 | de | 2,692 |
@@ -3078,6 +3078,7 @@ Here's a list of public Fediverse services.
 | `arlost.com` | Yes |
 | `armadillo.social` | No |
 | `armandmgt.fr` | Yes |
+| `armandoteixeira.com` | Yes |
 | `armendarizprecioso.ovh` | No |
 | `armingbears.com` | No |
 | `armlet.org` | Yes |
@@ -3336,6 +3337,7 @@ Here's a list of public Fediverse services.
 | `asmp.social` | No |
 | `asmr.works` | Yes |
 | `asn.mobi` | No |
+| `aso.moe` | No |
 | `asobear.com` | Yes |
 | `asobi.world` | No |
 | `asobigbang.net` | No |
@@ -7716,6 +7718,7 @@ Here's a list of public Fediverse services.
 | `chidgey.xyz` | No |
 | `chiefgyk3d.com` | Yes |
 | `chieldouwes.nl` | No |
+| `chierchia.fr` | No |
 | `chiffon-lab.tech` | Yes |
 | `chiffon-sepxipl.com` | Yes |
 | `chifilly.co.uk` | Yes |
@@ -15685,6 +15688,7 @@ Here's a list of public Fediverse services.
 | `fogcloud.org` | No |
 | `fogelholk.se` | Yes |
 | `foggyminds.com` | Yes |
+| `foggymtndrifter.social` | Yes |
 | `fogna.social` | No |
 | `fogtype.com` | Yes |
 | `fohte.net` | Yes |
@@ -16855,6 +16859,7 @@ Here's a list of public Fediverse services.
 | `gaime.fr` | No |
 | `gainer.cloud` | No |
 | `gaiserik.com` | Yes |
+| `gaitenis.id.lv` | No |
 | `gaithersburgnewsletter.org` | No |
 | `gajsin.name` | No |
 | `gakami.net` | No |
@@ -36937,6 +36942,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.uk` | No |
 | `pixelfed.uno` | Yes |
 | `pixelfed.zone` | No |
+| `pixelfedapp.uk` | Yes |
 | `pixelfediver.se` | No |
 | `pixelfett.de` | No |
 | `pixelfilm.nz` | Yes |
@@ -48491,6 +48497,7 @@ Here's a list of public Fediverse services.
 | `tribes.live` | No |
 | `tribly.de` | No |
 | `tribunificada.com` | No |
+| `trica.app` | No |
 | `tricast.org` | No |
 | `trickle.ink` | No |
 | `trickyfoxy.ru` | Yes |
@@ -53921,8 +53928,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,469 |
-| Normal | 38,404 |
+| Cloudflare | 15,472 |
+| Normal | 38,408 |
 
 
 </details>
