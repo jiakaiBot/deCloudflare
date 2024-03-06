@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [GUIDE: How to fix "Error: Received a non-OK status code"](https://github.com/httpjamesm/AnonymousOverflow/issues/86)
 - [Use time.cloudflare.com instead of pool.ntp.org by default](https://github.com/siderolabs/talos/issues/8396)
 - [Could not resolve a few of packages in @anthropic-ai/bedrock-sdk](https://github.com/anthropics/anthropic-sdk-typescript/issues/314)
 - [Failed to add OpenTelemetry data (permission denied)](https://github.com/spiceai/spiceai/issues/764)
