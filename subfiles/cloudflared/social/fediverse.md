@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,615 |
+| com | 8,616 |
 | social | 4,847 |
 | net | 4,201 |
 | org | 2,825 |
-| de | 2,691 |
+| de | 2,692 |
 
 
 - Mastodon, Pleroma, etc
@@ -3030,7 +3030,7 @@ Here's a list of public Fediverse services.
 | `arion.social` | No |
 | `ariona.fr` | No |
 | `ariscard.eu` | Yes |
-| `arisskey.net` | No |
+| `arisskey.net` | Yes |
 | `arisskey2.com` | No |
 | `ariste.info` | No |
 | `arisu.fr` | No |
@@ -14913,6 +14913,7 @@ Here's a list of public Fediverse services.
 | `fediversum.social` | Yes |
 | `fediversumi.fi` | No |
 | `fedivienne.org` | No |
+| `fedivoerse.de` | No |
 | `fedivote.com` | No |
 | `fediwald.de` | No |
 | `fediweij.nl` | No |
@@ -20084,6 +20085,7 @@ Here's a list of public Fediverse services.
 | `horizonnet.eu` | No |
 | `horizonprivacy.fr` | Yes |
 | `horizons.one` | Yes |
+| `horizontalpitch.com` | No |
 | `hormonzicken.party` | Yes |
 | `horner.tj` | Yes |
 | `horns.by` | Yes |
@@ -53919,8 +53921,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,468 |
-| Normal | 38,403 |
+| Cloudflare | 15,469 |
+| Normal | 38,404 |
 
 
 </details>
