@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,614 |
-| social | 4,846 |
-| net | 4,200 |
+| com | 8,615 |
+| social | 4,847 |
+| net | 4,201 |
 | org | 2,825 |
 | de | 2,691 |
 
@@ -4759,6 +4759,7 @@ Here's a list of public Fediverse services.
 | `berezowski.de` | No |
 | `berg.cl` | No |
 | `berg.social` | No |
+| `bergada.cat` | No |
 | `bergamot.social` | No |
 | `bergen.social` | No |
 | `berget.nu` | No |
@@ -6614,7 +6615,7 @@ Here's a list of public Fediverse services.
 | `buzhangjiuzhou.com` | Yes |
 | `buzon.uy` | No |
 | `buzz.by` | No |
-| `buzzneon.com` | No |
+| `buzzneon.com` | Yes |
 | `buzzworkers.com` | No |
 | `bvb.social` | No |
 | `bvmensvoort.nl` | Yes |
@@ -20108,6 +20109,7 @@ Here's a list of public Fediverse services.
 | `horserock.xyz` | No |
 | `horslimites.org` | No |
 | `hort.chat` | No |
+| `hortensemerisier.com` | No |
 | `horvath.au` | Yes |
 | `horvath.com` | No |
 | `horwood.cloud` | No |
@@ -29244,6 +29246,7 @@ Here's a list of public Fediverse services.
 | `meeples.org.au` | No |
 | `meeps.dk` | No |
 | `meerjungfrauengrotte.de` | No |
+| `meersje.social` | No |
 | `meetandgreet.at` | No |
 | `meetbeauties.social` | No |
 | `meetfriendly.codes` | Yes |
@@ -36254,6 +36257,7 @@ Here's a list of public Fediverse services.
 | `penfount.social` | No |
 | `pengi-san.moe` | Yes |
 | `pengin.club` | No |
+| `penginn.net` | Yes |
 | `pengins.dev` | No |
 | `penguicon.social` | Yes |
 | `penguin42.com` | No |
@@ -53915,8 +53919,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,466 |
-| Normal | 38,401 |
+| Cloudflare | 15,468 |
+| Normal | 38,403 |
 
 
 </details>
