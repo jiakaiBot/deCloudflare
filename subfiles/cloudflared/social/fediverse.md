@@ -17070,6 +17070,7 @@ Here's a list of public Fediverse services.
 | `gawk.es` | Yes |
 | `gawlinski.com` | Yes |
 | `gawo.ga` | No |
+| `gay-garden.no` | No |
 | `gay-pirate-assassins.de` | No |
 | `gay-skater-caster.de` | No |
 | `gay.camera` | Yes |
@@ -53915,7 +53916,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,465 |
-| Normal | 38,401 |
+| Normal | 38,402 |
 
 
 </details>
