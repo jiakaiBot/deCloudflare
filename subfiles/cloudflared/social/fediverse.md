@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,617 |
-| social | 4,848 |
+| social | 4,849 |
 | net | 4,201 |
 | org | 2,825 |
 | de | 2,692 |
@@ -937,6 +937,7 @@ Here's a list of public Fediverse services.
 | `aaoth.xyz` | No |
 | `aap.my.id` | Yes |
 | `aardlark.co` | No |
+| `aardling.social` | No |
 | `aardvarkdreams.com` | No |
 | `aargaunet.ch` | No |
 | `aaron.pk` | No |
@@ -19500,7 +19501,7 @@ Here's a list of public Fediverse services.
 | `hermitmagicians.com` | No |
 | `hermitmountain.top` | No |
 | `hern.as` | Yes |
-| `hernandezhouse.com` | No |
+| `hernandezhouse.com` | Yes |
 | `herndon.blog` | Yes |
 | `heroicwisdom.com` | No |
 | `herokai.cafe` | No |
@@ -53928,7 +53929,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,473 |
+| Cloudflare | 15,474 |
 | Normal | 38,407 |
 
 
