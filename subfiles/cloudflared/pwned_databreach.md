@@ -456,6 +456,7 @@ Here's a list of breached sites.
 | OGUsers2022 (OGUsers (2022 breach)) | 529,020 | Yes |
 | OMGPOP | 7,071,293 | No |
 | OVH | 452,899 | Yes |
+| OnlineTrade (Online Trade (Онлайн Трейд)) | 3,805,265 | No |
 | Onverse | 800,157 | Yes |
 | OpenCSGO (Open CS:GO) | 512,311 | No |
 | OpenSubtitles (Open Subtitles) | 6,783,158 | Yes |
@@ -737,9 +738,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 423 | 4,705,891,073 |
-| Normal | 292 | 4,445,089,247 |
+| Normal | 293 | 4,448,894,512 |
 
 
 
-### 59.2% of breached sites (pwned sites) are using Cloudflare.
+### 59.1% of breached sites (pwned sites) are using Cloudflare.
 ### 51.4% of leaked accounts are on Cloudflare sites.
