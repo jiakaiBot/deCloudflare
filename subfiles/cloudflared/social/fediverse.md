@@ -17914,6 +17914,7 @@ Here's a list of public Fediverse services.
 | `goblin.church` | No |
 | `goblin.expert` | No |
 | `goblin.technology` | No |
+| `goblin.today` | No |
 | `goblinfoot.com` | No |
 | `goch.social` | No |
 | `gochai.top` | No |
@@ -19031,7 +19032,7 @@ Here's a list of public Fediverse services.
 | `hardly.engineering` | Yes |
 | `hardly.social` | No |
 | `hardr.social` | No |
-| `hardtoast.social` | Yes |
+| `hardtoast.social` | No |
 | `hardware.watch` | No |
 | `hardwarehookups.com.au` | No |
 | `hardwarejunkies.social` | No |
@@ -22321,6 +22322,7 @@ Here's a list of public Fediverse services.
 | `jcx.nu` | No |
 | `jcx.se` | No |
 | `jczmz.com` | Yes |
+| `jdbnet.co.uk` | Yes |
 | `jdbsoft.com` | No |
 | `jdelcampo.eu` | No |
 | `jdiez.me` | No |
@@ -53942,7 +53944,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,480 |
-| Normal | 38,413 |
+| Normal | 38,415 |
 
 
 </details>
