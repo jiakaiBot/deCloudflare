@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,617 |
 | social | 4,850 |
 | net | 4,201 |
-| org | 2,825 |
+| org | 2,826 |
 | de | 2,692 |
 
 
@@ -4298,6 +4298,7 @@ Here's a list of public Fediverse services.
 | `barrett.dog` | No |
 | `barrett.fish` | No |
 | `barrettnexus.com` | No |
+| `barrierfreecanada.org` | No |
 | `barrio.zone` | No |
 | `barriohacker.net` | No |
 | `barrir.ca` | No |
@@ -14515,6 +14516,7 @@ Here's a list of public Fediverse services.
 | `faux.moe` | No |
 | `fauxmotion.soccer` | No |
 | `fauxreigner.net` | Yes |
+| `fauxtographer.ca` | Yes |
 | `fauxzen.com` | Yes |
 | `favcalc.com` | Yes |
 | `favdon.com` | No |
@@ -19162,7 +19164,7 @@ Here's a list of public Fediverse services.
 | `hawaiiboy.me` | No |
 | `hawaiidiff.com` | No |
 | `hawawa.tech` | Yes |
-| `hawco.ca` | No |
+| `hawco.ca` | Yes |
 | `hawk-tomy.dev` | Yes |
 | `hawk.life` | Yes |
 | `hawkes.cc` | No |
@@ -53931,7 +53933,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,476 |
+| Cloudflare | 15,478 |
 | Normal | 38,407 |
 
 
