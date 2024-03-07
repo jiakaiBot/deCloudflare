@@ -41738,6 +41738,7 @@ Here's a list of public Fediverse services.
 | `scy.name` | No |
 | `scyldings.com` | No |
 | `scz.social` | No |
+| `sd-69.space` | Yes |
 | `sd.ai` | Yes |
 | `sda1.net` | Yes |
 | `sda2.net` | Yes |
@@ -53940,7 +53941,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,479 |
+| Cloudflare | 15,480 |
 | Normal | 38,413 |
 
 
