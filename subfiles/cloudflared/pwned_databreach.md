@@ -357,7 +357,7 @@ Here's a list of breached sites.
 | Leet | 5,081,689 | No |
 | LegendasTV (Legendas.TV) | 3,869,181 | No |
 | Lifebear | 3,670,561 | Yes |
-| Lifeboat | 7,089,395 | No |
+| Lifeboat | 7,089,395 | Yes |
 | LightsHope (Light's Hope) | 30,484 | Yes |
 | Liker | 465,141 | No |
 | LimeVPN | 23,348 | Yes |
@@ -421,7 +421,7 @@ Here's a list of breached sites.
 | MortalOnline (Mortal Online) | 606,637 | Yes |
 | MovieForums (Movie Forums) | 39,914 | Yes |
 | MrExcel | 366,140 | No |
-| MrGreenGaming (Mr. Green Gaming) | 27,176 | Yes |
+| MrGreenGaming (Mr. Green Gaming) | 27,123 | Yes |
 | MuslimDirectory (Muslim Directory) | 37,784 | No |
 | MuslimMatch (Muslim Match) | 149,830 | Yes |
 | MyFHA | 972,629 | No |
@@ -548,7 +548,7 @@ Here's a list of breached sites.
 | Sephora | 780,073 | No |
 | ServerPact | 73,587 | Yes |
 | SevenRooms | 1,205,385 | Yes |
-| Shadi (Shadi.com) | 2,021,984 | No |
+| Shadi (Shadi.com) | 2,021,984 | Yes |
 | ShareThis | 40,960,499 | No |
 | Shitexpress | 23,817 | No |
 | ShockGore | 73,944 | No |
@@ -684,6 +684,7 @@ Here's a list of breached sites.
 | Wishbone (Wishbone (2016)) | 2,247,314 | No |
 | Wishbone2020 (Wishbone (2020)) | 9,705,172 | No |
 | WiziShop | 2,856,769 | No |
+| WoTLabs | 21,994 | Yes |
 | Wongnai | 3,924,454 | Yes |
 | XKCD | 561,991 | Yes |
 | XPGameSaves (XPG) | 890,341 | No |
@@ -735,10 +736,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 420 | 4,696,757,753 |
-| Normal | 294 | 4,454,200,626 |
+| Cloudflare | 423 | 4,705,891,073 |
+| Normal | 292 | 4,445,089,247 |
 
 
 
-### 58.8% of breached sites (pwned sites) are using Cloudflare.
-### 51.3% of leaked accounts are on Cloudflare sites.
+### 59.2% of breached sites (pwned sites) are using Cloudflare.
+### 51.4% of leaked accounts are on Cloudflare sites.
