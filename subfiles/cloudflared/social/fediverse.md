@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,619 |
+| com | 8,621 |
 | social | 4,850 |
 | net | 4,201 |
 | org | 2,826 |
@@ -2515,7 +2515,7 @@ Here's a list of public Fediverse services.
 | `animeartist.social` | No |
 | `animeazing.nl` | No |
 | `animedj.club` | No |
-| `animedon.tk` | Yes |
+| `animedon.tk` | No |
 | `animeforlife.eu` | Yes |
 | `animefun.jp` | No |
 | `animeisgay.com` | No |
@@ -35544,7 +35544,7 @@ Here's a list of public Fediverse services.
 | `ownbox.be` | No |
 | `owncast.net` | Yes |
 | `owncast.online` | Yes |
-| `owncast.tv` | No |
+| `owncast.tv` | Yes |
 | `owncube.cloud` | No |
 | `owncube.com` | No |
 | `owngrid.io` | No |
@@ -37349,6 +37349,7 @@ Here's a list of public Fediverse services.
 | `pointless.video` | No |
 | `pointofviewpoint.com` | No |
 | `pointsecu.fr` | No |
+| `pointsofinspiration.com` | No |
 | `poisonous.love` | No |
 | `poisson.me` | Yes |
 | `poit.io` | No |
@@ -43669,6 +43670,7 @@ Here's a list of public Fediverse services.
 | `socozy.casa` | Yes |
 | `socpeertube.ru` | Yes |
 | `socs.social` | No |
+| `soda-jp.com` | Yes |
 | `soda-net.com` | Yes |
 | `soda.jp.eu.org` | No |
 | `sodacube.dev` | Yes |
@@ -46530,7 +46532,7 @@ Here's a list of public Fediverse services.
 | `testblogg.online` | Yes |
 | `testchamber.one` | Yes |
 | `tester.social` | Yes |
-| `testeraphy.cf` | Yes |
+| `testeraphy.cf` | No |
 | `testfrif.de` | No |
 | `testifi.es` | No |
 | `testimonia.org` | No |
@@ -53939,7 +53941,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,479 |
-| Normal | 38,411 |
+| Normal | 38,413 |
 
 
 </details>
