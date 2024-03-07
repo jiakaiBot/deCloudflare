@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increased Errors for R2 Buckets/Durable Objects](https://github.com/SecOpsNews/news/issues/25744)
 - [部署到Cloudflare worker，出现Internal Server Error](https://github.com/zuisong/gemini-openai-proxy/issues/25)
 - [CloudFlare Increased 1000 Errors](https://github.com/SecOpsNews/news/issues/25712)
 - [Rasberry Pi 5 HAOS 12.0 - Unable to start system without monitor plugged](https://github.com/home-assistant/operating-system/issues/3229)
