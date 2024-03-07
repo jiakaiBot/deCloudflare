@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Rasberry Pi 5 HAOS 12.0 - Unable to start system without monitor plugged](https://github.com/home-assistant/operating-system/issues/3229)
+- [Rasberry Pi 5 HAOS 12.0 NVMe drive - unable to reboot system](https://github.com/home-assistant/operating-system/issues/3228)
 - [IMAP Fetch Error: Check Internet Connection and try again](https://github.com/freescout-helpdesk/freescout/issues/3854)
 - [Blocked by LeetCode.com](https://github.com/kawre/leetcode.nvim/issues/69)
 - [I can't connect to divece - balena ssh <uuid device> - Host <UUID> not found: 2(SERVFAIL)](https://github.com/balena-io/open-balena/issues/184)
