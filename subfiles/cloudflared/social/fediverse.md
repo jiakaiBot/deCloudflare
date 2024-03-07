@@ -3429,7 +3429,7 @@ Here's a list of public Fediverse services.
 | `astrocats.social` | No |
 | `astrodon.social` | No |
 | `astrolaboratory.club` | No |
-| `astrologer.cc` | Yes |
+| `astrologer.cc` | No |
 | `astrolovy.com` | No |
 | `astrometrics.xyz` | No |
 | `astronavis.net` | No |
@@ -48911,6 +48911,7 @@ Here's a list of public Fediverse services.
 | `turtle.pizza` | No |
 | `turtleapparel.eu` | No |
 | `turtleisland.art` | No |
+| `turtleisland.buzz` | No |
 | `turtleisland.rocks` | No |
 | `turtleisland.social` | No |
 | `turtleisland.video` | No |
@@ -53946,8 +53947,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,481 |
-| Normal | 38,417 |
+| Cloudflare | 15,480 |
+| Normal | 38,419 |
 
 
 </details>
