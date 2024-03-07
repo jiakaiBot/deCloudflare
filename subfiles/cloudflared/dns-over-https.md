@@ -195,7 +195,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | maxfong.cc | Yes |
 | meddy94.de | No |
 | meexx.de | No |
-| mega-marimo.net | Yes |
 | meganerd.nl | No |
 | mestdag.fr | No |
 | midping.ir | No |
@@ -281,7 +280,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | shutgaming.net | Yes |
 | silen.org | Yes |
 | silentlybren.com | Yes |
-| simplylinux.ch | No |
 | skrep.eu | No |
 | skrep.in | No |
 | slinkyman.net | Yes |
@@ -329,7 +327,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wang.art | Yes |
 | wargan.io | No |
 | wikimedia-dns.org | No |
-| woodbridge.club | No |
 | yandex.net | Yes |
 | yumenashyi.com | Yes |
 | zburger.top | No |
@@ -339,8 +336,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 173 |
-| Normal | 147 |
+| Cloudflare | 172 |
+| Normal | 145 |
 
 
-### 54.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
