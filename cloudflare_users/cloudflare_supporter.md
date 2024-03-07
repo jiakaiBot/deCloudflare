@@ -3696,6 +3696,7 @@ Do not create new issue or we will close it as duplicate.
 | [duyvupy@X](https://twitter.com/duyvupy/status/1687684382151114752) | advertise |
 | [duyyhoang102@X](https://twitter.com/duyyhoang102/status/1531892044008136704) | advertise |
 | [Du_Le33@X](https://twitter.com/Du_Le33/status/1552336926795243521) | advertise |
+| [dvddvd_300@X](https://twitter.com/dvddvd_300/status/1765468821287043378) | advertise |
 | [dvgamerr@X](https://twitter.com/dvgamerr/status/1471737827750674433) | advertise |
 | [DVi39585350@X](https://twitter.com/DVi39585350/status/1596044016877211650) | advertise |
 | [dwight_wilkes7@X](https://twitter.com/dwight_wilkes7/status/1473360659144314880) | advertise |
