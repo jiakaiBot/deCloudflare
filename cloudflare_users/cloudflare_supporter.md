@@ -3042,6 +3042,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dangkhoai1@X](https://twitter.com/Dangkhoai1/status/1386304168680329227) | advertise |
 | [DangNguyen1404@X](https://twitter.com/DangNguyen1404/status/1717487866568474899) | advertise |
 | [dangthanh5555@X](https://twitter.com/dangthanh5555/status/1393070868134170632) | advertise |
+| [dangthinam1970@X](https://twitter.com/dangthinam1970/status/1766102459112657307) | advertise |
 | [Dangtinhxxx@X](https://twitter.com/Dangtinhxxx/status/1713181838070698380) | advertise |
 | [danhka22@X](https://twitter.com/danhka22/status/1483086352933867520) | advertise |
 | [DANHTHIEU1996@X](https://twitter.com/DANHTHIEU1996/status/1686963861789044737) | advertise |
