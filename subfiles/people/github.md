@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [It is not possible to add a new domain](https://github.com/hiddify/Hiddify-Manager/issues/3747)
 - [Fail to deploy on the Cloudflare Pages](https://github.com/maximevaillancourt/digital-garden-jekyll-template/issues/193)
 - [CloudFlare Increased Errors for R2 Buckets/Durable Objects](https://github.com/SecOpsNews/news/issues/25744)
 - [部署到Cloudflare worker，出现Internal Server Error](https://github.com/zuisong/gemini-openai-proxy/issues/25)
