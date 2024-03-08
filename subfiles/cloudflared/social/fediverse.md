@@ -45166,6 +45166,7 @@ Here's a list of public Fediverse services.
 | `sukeban.moe` | No |
 | `sukebeneko.com` | No |
 | `sukebepacos.com` | No |
+| `suketan.love` | Yes |
 | `sukino.xyz` | Yes |
 | `sukisukichu.com` | Yes |
 | `sukiyaki.fr` | No |
@@ -53947,7 +53948,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,480 |
+| Cloudflare | 15,481 |
 | Normal | 38,419 |
 
 
