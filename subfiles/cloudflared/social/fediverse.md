@@ -1948,6 +1948,7 @@ Here's a list of public Fediverse services.
 | `alliec.at` | No |
 | `alliejp.tv` | No |
 | `alliepa.ca` | No |
+| `allies.buzz` | Yes |
 | `allies.rocks` | No |
 | `allies.social` | No |
 | `allies.video` | No |
@@ -4799,7 +4800,7 @@ Here's a list of public Fediverse services.
 | `berwanger-and-kin.com` | No |
 | `berze.lol` | Yes |
 | `berzerk.pl` | No |
-| `berzs.xyz` | No |
+| `berzs.xyz` | Yes |
 | `besaid.de` | No |
 | `beschoner.net` | No |
 | `besci.network` | No |
@@ -53951,8 +53952,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,483 |
-| Normal | 38,420 |
+| Cloudflare | 15,485 |
+| Normal | 38,419 |
 
 
 </details>
