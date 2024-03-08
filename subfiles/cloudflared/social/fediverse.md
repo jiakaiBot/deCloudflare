@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,621 |
+| com | 8,623 |
 | social | 4,850 |
 | net | 4,201 |
-| org | 2,828 |
+| org | 2,829 |
 | de | 2,693 |
 
 
@@ -4886,6 +4886,7 @@ Here's a list of public Fediverse services.
 | `bfsu.cafe` | No |
 | `bg.cafe` | No |
 | `bg.sb` | No |
+| `bgarr.com` | No |
 | `bgcarlisle.com` | No |
 | `bgdream.org` | No |
 | `bgemi.net` | No |
@@ -29712,6 +29713,7 @@ Here's a list of public Fediverse services.
 | `mi2.icu` | No |
 | `mi2428.net` | No |
 | `mia.jetzt` | Yes |
+| `miabaka.moe` | Yes |
 | `miaetam4rok.com` | Yes |
 | `miantiao.me` | Yes |
 | `miao.dev` | Yes |
@@ -41749,6 +41751,7 @@ Here's a list of public Fediverse services.
 | `sd.ai` | Yes |
 | `sda1.net` | Yes |
 | `sda2.net` | Yes |
+| `sdasocial.org` | No |
 | `sdbpod.com` | No |
 | `sdc.su` | Yes |
 | `sddn.space` | Yes |
@@ -42809,6 +42812,7 @@ Here's a list of public Fediverse services.
 | `simionato.xyz` | Yes |
 | `simkey.net` | Yes |
 | `simmulation.com` | No |
+| `simn.io` | Yes |
 | `simon-a.at` | No |
 | `simon-a.info` | No |
 | `simon-frey.eu` | No |
@@ -49439,6 +49443,7 @@ Here's a list of public Fediverse services.
 | `uncensored.services` | No |
 | `uncensoredspeech.social` | No |
 | `uncensoredvoice.org` | No |
+| `uncensoredwisdom.com` | No |
 | `uncentralized.network` | No |
 | `unchi.style` | No |
 | `uncle.club` | No |
@@ -53134,7 +53139,7 @@ Here's a list of public Fediverse services.
 | `yorugatanokuni.com` | No |
 | `yosh.is` | No |
 | `yoshida2015.net` | No |
-| `yoshimov.com` | Yes |
+| `yoshimov.com` | No |
 | `yoshimov.info` | No |
 | `yoshino.garden` | No |
 | `yoshirusu.tk` | No |
@@ -53952,8 +53957,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,485 |
-| Normal | 38,419 |
+| Cloudflare | 15,486 |
+| Normal | 38,423 |
 
 
 </details>
