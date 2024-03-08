@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,625 |
 | social | 4,850 |
-| net | 4,201 |
+| net | 4,202 |
 | org | 2,829 |
 | de | 2,693 |
 
@@ -46475,6 +46475,7 @@ Here's a list of public Fediverse services.
 | `teqqy.de` | Yes |
 | `teqqy.social` | Yes |
 | `ter0.net` | No |
+| `ter05.net` | Yes |
 | `terabyte-computing.com` | No |
 | `terakoya-backstage.com` | No |
 | `terapeldigitaal.nl` | Yes |
@@ -53961,7 +53962,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,487 |
+| Cloudflare | 15,488 |
 | Normal | 38,426 |
 
 
