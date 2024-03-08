@@ -7719,6 +7719,7 @@ Do not create new issue or we will close it as duplicate.
 | [Laron_Barca@X](https://twitter.com/Laron_Barca/status/1638633774807396358) | advertise |
 | [Larry06951708@X](https://twitter.com/Larry06951708/status/1543723562397319170) | advertise |
 | [LarryDent18@X](https://twitter.com/LarryDent18/status/1746801605607891390) | advertise |
+| [lar_bay39532@X](https://twitter.com/lar_bay39532/status/1765959211891216430) | advertise |
 | [LaSeng59334810@X](https://twitter.com/LaSeng59334810/status/1736038540335841672) | advertise |
 | [Lastavicaaaa@X](https://twitter.com/Lastavicaaaa/status/1570320326684188672) | advertise |
 | [LasteventsSpace@X](https://twitter.com/LasteventsSpace/status/1550721607030968320) | advertise |
@@ -8437,6 +8438,7 @@ Do not create new issue or we will close it as duplicate.
 | [malwifati@X](https://twitter.com/malwifati/status/1381271570304401408) | advertise |
 | [Mamadrama1994@X](https://twitter.com/Mamadrama1994/status/1688247280799825920) | advertise |
 | [mamadukino@X](https://twitter.com/mamadukino/status/1589769719049244673) | advertise |
+| [mamad_si_@X](https://twitter.com/mamad_si_/status/1766021973220438023) | advertise |
 | [Mamamiaee1@X](https://twitter.com/Mamamiaee1/status/1664313508593549313) | advertise |
 | [MamaPeaB@X](https://twitter.com/MamaPeaB/status/1665858424721088514) | advertise |
 | [mamasrar68@X](https://twitter.com/mamasrar68/status/1702640303696425119) | advertise |
@@ -8987,6 +8989,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinhCh28879428@X](https://twitter.com/MinhCh28879428/status/1516803821519147011) | advertise |
 | [MinhCng91698469@X](https://twitter.com/MinhCng91698469/status/1600496027681050630) | advertise |
 | [MinhDemon@X](https://twitter.com/MinhDemon/status/1737162010440446027) | advertise |
+| [minhduc198803@X](https://twitter.com/minhduc198803/status/1765974909170364640) | advertise |
 | [minhduchoang151@X](https://twitter.com/minhduchoang151/status/1722369606093083007) | advertise |
 | [MinHein87584396@X](https://twitter.com/MinHein87584396/status/1393982797531041798) | advertise |
 | [minhhanchannel@X](https://twitter.com/minhhanchannel/status/1468750702725906434) | advertise |
@@ -10066,6 +10069,7 @@ Do not create new issue or we will close it as duplicate.
 | [NgocLongk1@X](https://twitter.com/NgocLongk1/status/1554028232093052928) | advertise |
 | [NgocNguyen40467@X](https://twitter.com/NgocNguyen40467/status/1664264076267261960) | advertise |
 | [NgocNguyen76922@X](https://twitter.com/NgocNguyen76922/status/1717581413481083040) | advertise |
+| [NgocquanD68936@X](https://twitter.com/NgocquanD68936/status/1765994229115785628) | advertise |
 | [ngocsenapple@X](https://twitter.com/ngocsenapple/status/1703550893441118651) | advertise |
 | [ngocthang_9577@X](https://twitter.com/ngocthang_9577/status/1401800231713345543) | advertise |
 | [ngocthien9897@X](https://twitter.com/ngocthien9897/status/1743633382758838560) | advertise |
@@ -10777,6 +10781,7 @@ Do not create new issue or we will close it as duplicate.
 | [OoYanLay13@X](https://twitter.com/OoYanLay13/status/1396144264501891072) | advertise |
 | [OoZwe11@X](https://twitter.com/OoZwe11/status/1401109080974921731) | advertise |
 | [Op17830456@X](https://twitter.com/Op17830456/status/1378217756483411968) | advertise |
+| [opalow63@X](https://twitter.com/opalow63/status/1766011168764870781) | advertise |
 | [OparindeNurude1@X](https://twitter.com/OparindeNurude1/status/1560177934320771073) | advertise |
 | [opasa_iwuno@X](https://twitter.com/opasa_iwuno/status/1556331817233530881) | advertise |
 | [openkaiosz@X](https://twitter.com/openkaiosz/status/1511127306177110019) | advertise |
@@ -12013,6 +12018,7 @@ Do not create new issue or we will close it as duplicate.
 | [Richieboateng5@X](https://twitter.com/Richieboateng5/status/1384939346030211077) | advertise |
 | [RichRobinhood@X](https://twitter.com/RichRobinhood/status/1538810308956921856) | advertise |
 | [Ricki_Daynes@X](https://twitter.com/Ricki_Daynes/status/1725190919274877318) | advertise |
+| [RickJam87745834@X](https://twitter.com/RickJam87745834/status/1766000945366790653) | advertise |
 | [Ricky87282850@X](https://twitter.com/Ricky87282850/status/1397162246476754945) | advertise |
 | [rickyhuy9x@X](https://twitter.com/rickyhuy9x/status/1385638174790098950) | advertise |
 | [ricojames92@X](https://twitter.com/ricojames92/status/1380005971439710208) | advertise |
