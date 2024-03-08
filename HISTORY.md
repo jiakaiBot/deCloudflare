@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-03-08: [Intermittent Remote Browser Isolation failures](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ckyplkcssx8r)
 - 2024-03-07: [Elevated number of 5xx errors in WAW](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3s641w35kjp9)
 - 2024-03-07: [Increased 1000 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ww8bdb21nqm7)
 - 2024-03-06: [Cloudflare Rulesets issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vmshrfx6sj2c)
