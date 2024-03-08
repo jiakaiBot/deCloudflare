@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Two equals Element with different index don't permit callback of the first invocated](https://github.com/mathjax/MathJax/issues/3204)
 - [curl: (60) SSL certificate problem: self-signed certificate](https://github.com/curl/curl/issues/13092)
 - [Not connecting vless+WS configs with alpn](https://github.com/xchacha20-poly1305/husi/issues/54)
 - [Improve code: OGP取得方法の改善](https://github.com/nkte8/skyshare/issues/45)
