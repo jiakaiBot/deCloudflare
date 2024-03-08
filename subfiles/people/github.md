@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Not connecting vless+WS configs with alpn](https://github.com/xchacha20-poly1305/husi/issues/54)
 - [Improve code: OGP取得方法の改善](https://github.com/nkte8/skyshare/issues/45)
 - [It is not possible to add a new domain](https://github.com/hiddify/Hiddify-Manager/issues/3747)
 - [Fail to deploy on the Cloudflare Pages](https://github.com/maximevaillancourt/digital-garden-jekyll-template/issues/193)
