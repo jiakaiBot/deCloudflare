@@ -20539,7 +20539,7 @@ Here's a list of public Fediverse services.
 | `hypnoville.net` | Yes |
 | `hypnovir.us` | Yes |
 | `hypr.ninja` | No |
-| `hypurrr.net` | Yes |
+| `hypurrr.net` | No |
 | `hyrulecastle.town` | No |
 | `hysd3g.com` | No |
 | `hyss.us` | No |
@@ -32959,6 +32959,7 @@ Here's a list of public Fediverse services.
 | `nexitally.buzz` | Yes |
 | `nexon.su` | Yes |
 | `nexorium.social` | No |
+| `nexryai.me` | Yes |
 | `nexryai.online` | No |
 | `nextblock.nl` | No |
 | `nextcloud-music-vault.de` | No |
@@ -53968,7 +53969,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,493 |
-| Normal | 38,426 |
+| Normal | 38,427 |
 
 
 </details>
