@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,377 |
+| com | 8,378 |
 | social | 4,840 |
 | net | 4,143 |
 | org | 2,767 |
@@ -26024,7 +26024,7 @@ Here's a list of public Fediverse services.
 | `lillianviolet.dev` | No |
 | `lillimi.com` | No |
 | `lillin.net` | Yes |
-| `liloandstit.ch` | No |
+| `liloandstit.ch` | Yes |
 | `lilog.net` | Yes |
 | `lilomoino.fr` | No |
 | `lily.flowers` | No |
@@ -45323,6 +45323,7 @@ Here's a list of public Fediverse services.
 | `tale.cafe` | No |
 | `talee.de` | No |
 | `talentworld.group` | No |
+| `talesaudio.com` | No |
 | `talesfromthehomelab.com` | No |
 | `talesofmy.life` | No |
 | `talesofterror.eu` | No |
@@ -53338,7 +53339,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,287 |
+| Cloudflare | 15,288 |
 | Normal | 38,003 |
 
 
