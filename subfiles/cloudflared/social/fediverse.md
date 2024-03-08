@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,623 |
+| com | 8,625 |
 | social | 4,850 |
 | net | 4,201 |
 | org | 2,829 |
@@ -24482,7 +24482,7 @@ Here's a list of public Fediverse services.
 | `kode.cat` | No |
 | `kode54.net` | Yes |
 | `kodein.be` | No |
-| `kodeklang.social` | No |
+| `kodeklang.social` | Yes |
 | `kodemystic.dev` | No |
 | `koder-marin.at` | No |
 | `kodlomrazi.ru` | No |
@@ -39389,6 +39389,7 @@ Here's a list of public Fediverse services.
 | `recurse.com` | No |
 | `recurse.social` | No |
 | `recursed.net` | No |
+| `recursivegarden.com` | No |
 | `recycledspace.com` | No |
 | `red-eye.monster` | No |
 | `red-lang.org` | Yes |
@@ -45313,6 +45314,7 @@ Here's a list of public Fediverse services.
 | `suramya.com` | No |
 | `suranyami.com` | No |
 | `surazal.net` | No |
+| `surberus.com` | No |
 | `surf.nl` | No |
 | `surf.social` | No |
 | `surfhosted.net` | No |
@@ -53959,8 +53961,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,486 |
-| Normal | 38,425 |
+| Cloudflare | 15,487 |
+| Normal | 38,426 |
 
 
 </details>
