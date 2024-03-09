@@ -15,7 +15,7 @@ Here's the result.
 | com | 21,401 |
 | net | 3,036 |
 | pro | 1,141 |
-| org | 1,054 |
+| org | 1,053 |
 | ru | 896 |
 
 
@@ -23,7 +23,7 @@ Here's the result.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 20,561 |
+| Cloudflare | 20,560 |
 | Normal | 18,686 |
 
 
