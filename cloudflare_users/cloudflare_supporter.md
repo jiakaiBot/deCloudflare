@@ -3469,6 +3469,7 @@ Do not create new issue or we will close it as duplicate.
 | [Doanman78962511@X](https://twitter.com/Doanman78962511/status/1485691320228548608) | advertise |
 | [Doantrung1102@X](https://twitter.com/Doantrung1102/status/1585002647056416768) | advertise |
 | [doatmang3000@X](https://twitter.com/doatmang3000/status/1404433092757000194) | advertise |
+| [DoctorKisei@X](https://twitter.com/DoctorKisei/status/1766343345549590835) | advertise |
 | [DoctorMcCoy2022@X](https://twitter.com/DoctorMcCoy2022/status/1627589537819156483) | advertise |
 | [DoctorVadarWho@X](https://twitter.com/DoctorVadarWho/status/1504056932218568704) | advertise |
 | [doctorzlai@X](https://twitter.com/doctorzlai/status/1666906236170665984) | advertise |
@@ -4041,6 +4042,7 @@ Do not create new issue or we will close it as duplicate.
 | [f2_player@X](https://twitter.com/f2_player/status/1553256925739237376) | advertise |
 | [f3rdito@X](https://twitter.com/f3rdito/status/1632689575054258176) | advertise |
 | [F31398498@X](https://twitter.com/F31398498/status/1568907972272861184) | advertise |
+| [f85486396@X](https://twitter.com/f85486396/status/1766222850132742349) | advertise |
 | [f93710225@X](https://twitter.com/f93710225/status/1575999927431593984) | advertise |
 | [FAbdifitaah@X](https://twitter.com/FAbdifitaah/status/1566021351948931074) | advertise |
 | [fabioespinosa@X](https://twitter.com/fabioespinosa/status/1389759727110918152) | advertise |
@@ -6652,6 +6654,7 @@ Do not create new issue or we will close it as duplicate.
 | [k4thekiller@X](https://twitter.com/k4thekiller/status/1394625998658830340) | advertise |
 | [k68nn7jzft@X](https://twitter.com/k68nn7jzft/status/1620808185119674368) | advertise |
 | [K99T97@X](https://twitter.com/K99T97/status/1630292134304571397) | advertise |
+| [K1762023@X](https://twitter.com/K1762023/status/1766220231868121115) | advertise |
 | [K70263621@X](https://twitter.com/K70263621/status/1391000632845344774) | advertise |
 | [k98785618@X](https://twitter.com/k98785618/status/1390366313500008449) | advertise |
 | [ka2n@X](https://twitter.com/ka2n/status/1486382746041655302) | advertise |
@@ -9951,6 +9954,7 @@ Do not create new issue or we will close it as duplicate.
 | [near0_@X](https://twitter.com/near0_/status/1669843297890869250) | advertise |
 | [nearby_Thailand@X](https://twitter.com/nearby_Thailand/status/1375630256543985666) | advertise |
 | [NearlyWithme@X](https://twitter.com/NearlyWithme/status/1390914049760661510) | advertise |
+| [Nebcoink@X](https://twitter.com/Nebcoink/status/1766335066555457841) | advertise |
 | [necromungrel@X](https://twitter.com/necromungrel/status/1382410058735054850) | advertise |
 | [ned61103443@X](https://twitter.com/ned61103443/status/1401817912399130628) | advertise |
 | [nedladdning2728@X](https://twitter.com/nedladdning2728/status/1625851458481684484) | advertise |
@@ -11113,6 +11117,7 @@ Do not create new issue or we will close it as duplicate.
 | [Phc39843938@X](https://twitter.com/Phc39843938/status/1730160652780749202) | advertise |
 | [phc50518173@X](https://twitter.com/phc50518173/status/1552572949785624576) | advertise |
 | [phcastroalves@X](https://twitter.com/phcastroalves/status/1505924208035041282) | advertise |
+| [Phct58083219@X](https://twitter.com/Phct58083219/status/1766177171096343036) | advertise |
 | [PhD_Blood@X](https://twitter.com/PhD_Blood/status/1483835015373139968) | advertise |
 | [PheiybSo54248@X](https://twitter.com/PheiybSo54248/status/1754522157902966801) | advertise |
 | [Phenomytian@X](https://twitter.com/Phenomytian/status/1457220077695094788) | advertise |
@@ -14595,6 +14600,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrngPhm89696771@X](https://twitter.com/TrngPhm89696771/status/1387145888053690373) | advertise |
 | [TrngPho36370888@X](https://twitter.com/TrngPho36370888/status/1398188611867004930) | advertise |
 | [TrngThn14284578@X](https://twitter.com/TrngThn14284578/status/1561963557524123648) | advertise |
+| [TRNGTHUNL161553@X](https://twitter.com/TRNGTHUNL161553/status/1766157343560175838) | advertise |
 | [TrngTrTr1@X](https://twitter.com/TrngTrTr1/status/1702336421347065924) | advertise |
 | [Trnh55136540Quc@X](https://twitter.com/Trnh55136540Quc/status/1667253768491249665) | advertise |
 | [Trnh97735635@X](https://twitter.com/Trnh97735635/status/1552751472118726657) | advertise |
