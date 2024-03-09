@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,628 |
-| social | 4,850 |
+| social | 4,852 |
 | net | 4,202 |
 | org | 2,830 |
 | de | 2,695 |
@@ -35665,6 +35665,7 @@ Here's a list of public Fediverse services.
 | `p3n.pw` | No |
 | `p3nguin.org` | No |
 | `p3x.de` | No |
+| `p42.social` | No |
 | `p45.nl` | No |
 | `p4g.club` | Yes |
 | `p6drad-teel.net` | No |
@@ -48702,6 +48703,7 @@ Here's a list of public Fediverse services.
 | `trustory.fm` | Yes |
 | `trustzero.nl` | Yes |
 | `truth-sandwich.com` | No |
+| `truthandfreedom.social` | No |
 | `truthpirates.club` | No |
 | `truthsocial.co.in` | No |
 | `truthsocial.st` | No |
@@ -51080,7 +51082,7 @@ Here's a list of public Fediverse services.
 | `wandering.shop` | No |
 | `wanderingjon.com` | Yes |
 | `wanderingwires.gay` | No |
-| `wanderingwires.net` | No |
+| `wanderingwires.net` | Yes |
 | `wanderingwires.xyz` | No |
 | `wandern.social` | No |
 | `wanderview.com` | Yes |
@@ -53974,8 +53976,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,494 |
-| Normal | 38,432 |
+| Cloudflare | 15,495 |
+| Normal | 38,433 |
 
 
 </details>
