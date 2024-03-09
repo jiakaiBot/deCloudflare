@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,850 |
 | net | 4,202 |
 | org | 2,829 |
-| de | 2,694 |
+| de | 2,695 |
 
 
 - Mastodon, Pleroma, etc
@@ -25070,6 +25070,7 @@ Here's a list of public Fediverse services.
 | `kwinkunks.org` | No |
 | `kwitter.club` | No |
 | `kwk.systems` | No |
+| `kwk21.de` | No |
 | `kwlug.org` | No |
 | `kwmns.eu` | No |
 | `kwmr.info` | Yes |
@@ -26660,6 +26661,7 @@ Here's a list of public Fediverse services.
 | `llun.in.th` | Yes |
 | `lluni.de` | No |
 | `lmaa.pm` | No |
+| `lmao.ch` | Yes |
 | `lmao.gg` | No |
 | `lmao.sh` | No |
 | `lmao.tf` | Yes |
@@ -53971,8 +53973,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,493 |
-| Normal | 38,430 |
+| Cloudflare | 15,494 |
+| Normal | 38,431 |
 
 
 </details>
