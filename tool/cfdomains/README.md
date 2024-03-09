@@ -151,6 +151,6 @@ Top 10
 | _de3b18a0_ | 29,872 |
 | _1e3f3fa9_ | 29,861 |
 
-- Total Score: 1,274,592
+- Total Score: 1,276,197
 
 ![](../../image/what_are_you_hunting_cloudflare.png)
