@@ -4496,7 +4496,7 @@ Here's a list of public Fediverse services.
 | `beardedpen.com` | No |
 | `beardedtek.com` | No |
 | `beardforce.com` | Yes |
-| `beardishly.com` | No |
+| `beardishly.com` | Yes |
 | `beardystarstuff.net` | No |
 | `beardyunixer.com` | No |
 | `bearhole.gay` | No |
@@ -32101,6 +32101,7 @@ Here's a list of public Fediverse services.
 | `nagi.fan` | Yes |
 | `nagichan.page` | No |
 | `nagisa.app` | Yes |
+| `nagisa.town` | No |
 | `nagisite.xyz` | Yes |
 | `nagito.net` | Yes |
 | `nagoya832.net` | No |
@@ -53970,7 +53971,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,492 |
+| Cloudflare | 15,493 |
 | Normal | 38,430 |
 
 
