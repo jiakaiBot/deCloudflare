@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,628 |
+| com | 8,629 |
 | social | 4,852 |
-| net | 4,202 |
-| org | 2,830 |
+| net | 4,203 |
+| org | 2,831 |
 | de | 2,695 |
 
 
@@ -1461,6 +1461,7 @@ Here's a list of public Fediverse services.
 | `afy.jp` | Yes |
 | `aga.ovh` | No |
 | `agadius.de` | No |
+| `againstallodds.games` | No |
 | `againstthefuture.net` | No |
 | `agates.io` | No |
 | `agatha.gay` | No |
@@ -22280,6 +22281,7 @@ Here's a list of public Fediverse services.
 | `jay2k.co.uk` | No |
 | `jaydns.de` | No |
 | `jaye.sh` | No |
+| `jayesh.info` | No |
 | `jayfreestone.com` | No |
 | `jaygrant.us` | No |
 | `jaykayenn.net` | No |
@@ -24196,7 +24198,7 @@ Here's a list of public Fediverse services.
 | `kirimasharo.org` | No |
 | `kirimi.net` | No |
 | `kirin.online` | No |
-| `kirino.io` | No |
+| `kirino.io` | Yes |
 | `kirinolen.fr` | No |
 | `kirinsan.org` | Yes |
 | `kirishima.cloud` | No |
@@ -29970,6 +29972,7 @@ Here's a list of public Fediverse services.
 | `mikumiku.moe` | Yes |
 | `mikumikudance.cloud` | Yes |
 | `mikunet.xyz` | No |
+| `mikuobsession.net` | Yes |
 | `mikura.cloud` | No |
 | `mikuspot.net` | No |
 | `mikuta0407.net` | No |
@@ -32013,6 +32016,7 @@ Here's a list of public Fediverse services.
 | `n00q.net` | No |
 | `n07070.xyz` | No |
 | `n0budget.com` | No |
+| `n0el.org` | No |
 | `n0g.de` | No |
 | `n0id.space` | No |
 | `n0m.de` | Yes |
@@ -35472,6 +35476,7 @@ Here's a list of public Fediverse services.
 | `out.best` | No |
 | `outadoc.fr` | No |
 | `outaouais.club` | No |
+| `outcast.am` | No |
 | `outdoorabruzzo.com` | No |
 | `outdoorenthusiasts.space` | No |
 | `outdoorism.net` | No |
@@ -49528,6 +49533,7 @@ Here's a list of public Fediverse services.
 | `unfediverse.com` | No |
 | `unfettered.net` | Yes |
 | `unfilter.tube` | No |
+| `unfilteredunion.com` | Yes |
 | `unfinished.bike` | No |
 | `unfollow.today` | Yes |
 | `unfoo.net` | No |
@@ -53959,7 +53965,7 @@ Here's a list of public Fediverse services.
 | `zyun.jp` | Yes |
 | `zyxl.xyz` | No |
 | `zyz.link` | No |
-| `zyzz.me` | Yes |
+| `zyzz.me` | No |
 | `zyzzsupremacy.xyz` | No |
 | `zz777.ru` | Yes |
 | `zzhsuper3.rocks` | No |
@@ -53976,8 +53982,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,495 |
-| Normal | 38,433 |
+| Cloudflare | 15,497 |
+| Normal | 38,437 |
 
 
 </details>
