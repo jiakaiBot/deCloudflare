@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,629 |
+| com | 8,630 |
 | social | 4,852 |
 | net | 4,202 |
 | org | 2,831 |
@@ -24201,7 +24201,7 @@ Here's a list of public Fediverse services.
 | `kirino.io` | Yes |
 | `kirinolen.fr` | No |
 | `kirinsan.org` | Yes |
-| `kirishima.cloud` | No |
+| `kirishima.cloud` | Yes |
 | `kirishima.xyz` | No |
 | `kirishimalab21.xyz` | No |
 | `kiritan.work` | Yes |
@@ -27365,6 +27365,7 @@ Here's a list of public Fediverse services.
 | `lyraa.gay` | No |
 | `lyrae.us` | Yes |
 | `lyralair.com` | No |
+| `lyratris.com` | No |
 | `lyre.live` | Yes |
 | `lyrenhex.com` | Yes |
 | `lyricaltokarev.fun` | No |
@@ -29722,7 +29723,7 @@ Here's a list of public Fediverse services.
 | `mhz.social` | No |
 | `mi-chan.ml` | No |
 | `mi-chan.work` | No |
-| `mi-wo.site` | Yes |
+| `mi-wo.site` | No |
 | `mi2.icu` | No |
 | `mi2428.net` | No |
 | `mia.jetzt` | Yes |
@@ -53983,7 +53984,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,497 |
-| Normal | 38,437 |
+| Normal | 38,438 |
 
 
 </details>
