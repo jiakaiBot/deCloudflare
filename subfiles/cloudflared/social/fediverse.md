@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,629 |
 | social | 4,852 |
-| net | 4,203 |
+| net | 4,202 |
 | org | 2,831 |
 | de | 2,695 |
 
@@ -49973,7 +49973,6 @@ Here's a list of public Fediverse services.
 | `uwunifi.com` | Yes |
 | `uwuntu.org` | Yes |
 | `uwuwatch.club` | Yes |
-| `uwuzu.net` | Yes |
 | `uwuzunext.info` | Yes |
 | `uwyn.net` | No |
 | `uxbrad.com` | No |
@@ -53983,7 +53982,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,498 |
+| Cloudflare | 15,497 |
 | Normal | 38,437 |
 
 
