@@ -28,6 +28,7 @@ Here's a list of breached sites.
 | ABFRL (Aditya Birla Fashion and Retail) | 5,470,063 | No |
 | AIType (ai.type) | 20,580,060 | No |
 | AKP (AKP Emails) | 917,461 | Yes |
+| APKTW (APK.TW) | 2,451,197 | Yes |
 | Abandonia (Abandonia (2015)) | 776,125 | No |
 | Abandonia2022 (Abandonia (2022)) | 919,790 | No |
 | AbuseWithUs (AbuseWith.Us) | 1,372,550 | No |
@@ -737,7 +738,7 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 423 | 4,705,891,073 |
+| Cloudflare | 424 | 4,708,342,270 |
 | Normal | 293 | 4,448,894,512 |
 
 
