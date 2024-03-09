@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No req.header() in version 4](https://github.com/honojs/hono/issues/2332)
 - [Unexpected Server Error Error ERR_UNSUPPORTED_ESM_URL_SCHEME: Only URLs with a scheme in: file, data, and node are supported by the default ESM loader. Received protocol 'cloudflare:'](https://github.com/porsager/postgres/issues/822)
 - [Two equals Element with different index don't permit callback of the first invocated](https://github.com/mathjax/MathJax/issues/3204)
 - [curl: (60) SSL certificate problem: self-signed certificate](https://github.com/curl/curl/issues/13092)
