@@ -92,7 +92,7 @@ Here's a list of public Matrix services.
 | matrix.pub.solar | No |
 | radiowarnerd.org | No |
 | riotchat.de | Yes |
-| roguewave.observer | No |
+| matrix.roguewave.observer | No |
 | rollenspiel.chat | No |
 | ru-matrix.org | No |
 | sans-nuage.fr | No |
