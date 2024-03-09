@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,628 |
 | social | 4,850 |
 | net | 4,202 |
-| org | 2,829 |
+| org | 2,830 |
 | de | 2,695 |
 
 
@@ -8217,6 +8217,7 @@ Here's a list of public Fediverse services.
 | `clesports.social` | No |
 | `cleverangel.org` | No |
 | `cleverdevil.club` | No |
+| `cleverlibre.org` | No |
 | `cleversets.com` | No |
 | `cleverthis.com` | No |
 | `clew.lol` | No |
@@ -53974,7 +53975,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,494 |
-| Normal | 38,431 |
+| Normal | 38,432 |
 
 
 </details>
