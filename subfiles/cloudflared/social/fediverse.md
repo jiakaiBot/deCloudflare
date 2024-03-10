@@ -6707,7 +6707,7 @@ Here's a list of public Fediverse services.
 | `c-onr.de` | Yes |
 | `c-p-b.com` | No |
 | `c-pool.jp` | No |
-| `c-privacy.de` | Yes |
+| `c-privacy.de` | No |
 | `c-r-t.tk` | Yes |
 | `c-radar.de` | No |
 | `c-u-tech.com` | No |
@@ -11197,6 +11197,7 @@ Here's a list of public Fediverse services.
 | `devlibre.fr` | No |
 | `devlinzed.com` | No |
 | `devloprog.org` | No |
+| `devlord.io` | No |
 | `devnamic.com` | Yes |
 | `devnel.blog` | No |
 | `devnull.land` | Yes |
@@ -21331,7 +21332,7 @@ Here's a list of public Fediverse services.
 | `inne.city` | No |
 | `innerinsight.industries` | No |
 | `innernet.link` | Yes |
-| `innernette.social` | Yes |
+| `innernette.social` | No |
 | `innerpeace.social` | No |
 | `innerwebs.social` | No |
 | `innesrichens.co.uk` | No |
@@ -29586,6 +29587,7 @@ Here's a list of public Fediverse services.
 | `mesita.link` | No |
 | `meskis.net` | No |
 | `mesmerized.online` | No |
+| `mesolvarde.eu` | No |
 | `mesomer.com` | Yes |
 | `mesothermal.science` | No |
 | `mesozoik.cloud` | No |
@@ -54006,8 +54008,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,510 |
-| Normal | 38,448 |
+| Cloudflare | 15,508 |
+| Normal | 38,452 |
 
 
 </details>
