@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,630 |
-| social | 4,852 |
+| social | 4,853 |
 | net | 4,202 |
 | org | 2,831 |
-| de | 2,695 |
+| de | 2,696 |
 
 
 - Mastodon, Pleroma, etc
@@ -5773,6 +5773,7 @@ Here's a list of public Fediverse services.
 | `boles.xyz` | No |
 | `bolesblogs.com` | No |
 | `bolha.blog` | Yes |
+| `bolha.dev` | No |
 | `bolha.events` | Yes |
 | `bolha.forum` | Yes |
 | `bolha.network` | No |
@@ -10509,6 +10510,7 @@ Here's a list of public Fediverse services.
 | `davewinter.blog` | Yes |
 | `davewinter.dev` | Yes |
 | `davewinter.info` | Yes |
+| `davewinter.social` | Yes |
 | `david.garden` | Yes |
 | `davidanaxagoras.com` | No |
 | `davidbankshome.co.uk` | No |
@@ -15374,6 +15376,7 @@ Here's a list of public Fediverse services.
 | `firstmountainenterprises.com` | Yes |
 | `firstpost.de` | No |
 | `firudverse.social` | No |
+| `fisch3rs.de` | No |
 | `fish-404.club` | No |
 | `fish.pm` | Yes |
 | `fishandbits.es` | No |
@@ -23948,6 +23951,7 @@ Here's a list of public Fediverse services.
 | `kevread.fr` | No |
 | `kevrodg.net` | No |
 | `kewlcat.fr` | No |
+| `key4.digital` | No |
 | `keyb.moe` | Yes |
 | `keybird.net` | No |
 | `keybiscayne.social` | No |
@@ -26824,7 +26828,7 @@ Here's a list of public Fediverse services.
 | `lolitube.moe` | Yes |
 | `loliverse.xyz` | No |
 | `loliwife.xyz` | No |
-| `lollipopcloud.solutions` | Yes |
+| `lollipopcloud.solutions` | No |
 | `lollyclaw.xyz` | No |
 | `lollygaggers.uk` | No |
 | `lolpix.org` | Yes |
@@ -46383,6 +46387,7 @@ Here's a list of public Fediverse services.
 | `teknobilly.com` | Yes |
 | `teknoids.net` | No |
 | `teknologiumum.com` | Yes |
+| `teknopata.eus` | No |
 | `teknorota.com` | Yes |
 | `teknostatik.co.uk` | No |
 | `tekolote.co` | Yes |
@@ -53984,7 +53989,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,497 |
-| Normal | 38,438 |
+| Normal | 38,443 |
 
 
 </details>
