@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Method not found on login](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2695)
 - [ExtraTorrent indexer challenge solved by FlareSolverr but fails "blocked by CloudFlare Protection"](https://github.com/Prowlarr/Prowlarr/issues/2061)
 - [konachan can't downlaod](https://github.com/mikf/gallery-dl/issues/5316)
 - [JSONObject: Unexpected error if literal is not an object](https://github.com/Urigo/graphql-scalars/issues/2285)
