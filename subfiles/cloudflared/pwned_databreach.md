@@ -290,6 +290,7 @@ Here's a list of breached sites.
 | HLTV | 611,070 | Yes |
 | HTCMania (HTC Mania) | 1,488,089 | Yes |
 | HTHStudios (HTH Studios) | 411,755 | No |
+| Habibs (Habib's) | 3,517,679 | No |
 | HackForums (hackforums.net) | 191,540 | Yes |
 | HackingTeam (Hacking Team) | 32,310 | Yes |
 | HalloweenSpot (The Halloween Spot) | 10,653 | Yes |
@@ -739,7 +740,7 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 424 | 4,708,342,270 |
-| Normal | 293 | 4,448,894,512 |
+| Normal | 294 | 4,452,412,191 |
 
 
 
