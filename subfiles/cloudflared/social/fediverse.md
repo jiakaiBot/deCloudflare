@@ -34729,6 +34729,7 @@ Here's a list of public Fediverse services.
 | `oliverfalvai.xyz` | Yes |
 | `oliverhartmann.net` | No |
 | `oliverlorenz.com` | No |
+| `oliversteptoe.co.uk` | No |
 | `oliviaappleton.com` | No |
 | `olivianet.work` | No |
 | `olivr.me` | No |
@@ -54003,7 +54004,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,508 |
-| Normal | 38,446 |
+| Normal | 38,447 |
 
 
 </details>
