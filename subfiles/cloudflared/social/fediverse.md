@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,632 |
 | social | 4,854 |
 | net | 4,202 |
-| org | 2,831 |
+| org | 2,832 |
 | de | 2,696 |
 
 
@@ -12024,6 +12024,7 @@ Here's a list of public Fediverse services.
 | `doon.promo` | No |
 | `doony.online` | No |
 | `doop.coop` | No |
+| `doortofreedom.org` | No |
 | `doosom.com` | No |
 | `dopamine.social` | No |
 | `dopasoft.com` | No |
@@ -13411,7 +13412,7 @@ Here's a list of public Fediverse services.
 | `enbies.space` | Yes |
 | `enby-box.de` | No |
 | `enby.army` | No |
-| `enby.city` | No |
+| `enby.city` | Yes |
 | `enby.club` | No |
 | `enby.life` | No |
 | `enby.me` | Yes |
@@ -19803,7 +19804,7 @@ Here's a list of public Fediverse services.
 | `hiteihi.me` | No |
 | `hiteklolife.net` | Yes |
 | `hiten.org` | No |
-| `hithr.social` | No |
+| `hithr.social` | Yes |
 | `hitime.space` | No |
 | `hitithere.cafe` | No |
 | `hitkahaloot.tk` | No |
@@ -24217,7 +24218,7 @@ Here's a list of public Fediverse services.
 | `kirkmanskorner.com` | No |
 | `kirkwise.com` | No |
 | `kirota.net` | No |
-| `kirov.one` | No |
+| `kirov.one` | Yes |
 | `kirstenmalzwei.de` | No |
 | `kiru.fun` | No |
 | `kirv.in` | Yes |
@@ -53994,8 +53995,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,500 |
-| Normal | 38,446 |
+| Cloudflare | 15,503 |
+| Normal | 38,444 |
 
 
 </details>
