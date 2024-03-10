@@ -2864,6 +2864,7 @@ Do not create new issue or we will close it as duplicate.
 | [Crazyboypro1@X](https://twitter.com/Crazyboypro1/status/1377996367499419653) | advertise |
 | [crazygu89542761@X](https://twitter.com/crazygu89542761/status/1399720256680124418) | advertise |
 | [CrazyKyaw@X](https://twitter.com/CrazyKyaw/status/1746795533916852268) | advertise |
+| [Crazyplayer364@X](https://twitter.com/Crazyplayer364/status/1766079388779532298) | advertise |
 | [CrazySownthar@X](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [CrazyVisions@X](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@X](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
@@ -10411,6 +10412,7 @@ Do not create new issue or we will close it as duplicate.
 | [NishanA12303@X](https://twitter.com/NishanA12303/status/1741724968327754167) | advertise |
 | [NishanBista10@X](https://twitter.com/NishanBista10/status/1644010615533600769) | advertise |
 | [nishanthguntu@X](https://twitter.com/nishanthguntu/status/1378004004580458496) | advertise |
+| [nishchalkc89@X](https://twitter.com/nishchalkc89/status/1766787093861191747) | advertise |
 | [nisitsuragolf@X](https://twitter.com/nisitsuragolf/status/1591949328599289856) | advertise |
 | [Nitesh11781311@X](https://twitter.com/Nitesh11781311/status/1380459219317481474) | advertise |
 | [NiteshKaler1@X](https://twitter.com/NiteshKaler1/status/1403662370749050886) | advertise |
