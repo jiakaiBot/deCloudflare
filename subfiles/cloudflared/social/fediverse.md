@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,634 |
-| social | 4,854 |
+| social | 4,855 |
 | net | 4,203 |
 | org | 2,832 |
-| de | 2,696 |
+| de | 2,697 |
 
 
 - Mastodon, Pleroma, etc
@@ -18620,6 +18620,7 @@ Here's a list of public Fediverse services.
 | `gustavosousa.eu` | No |
 | `gustingwind.com` | No |
 | `gutelaunewelle.de` | No |
+| `gutelaunewelle.social` | No |
 | `gutewebsites.social` | No |
 | `gutsux.com` | No |
 | `gutterpupper.com` | Yes |
@@ -47090,6 +47091,7 @@ Here's a list of public Fediverse services.
 | `thenewleafjournal.com` | No |
 | `thenewoil.org` | Yes |
 | `thenewoil.xyz` | No |
+| `thenewsocial.de` | No |
 | `thenextbillion.com` | No |
 | `thenextweb.com` | Yes |
 | `thenice.cafe` | No |
@@ -54009,7 +54011,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,508 |
-| Normal | 38,452 |
+| Normal | 38,454 |
 
 
 </details>
