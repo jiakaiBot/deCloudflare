@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,631 |
-| social | 4,853 |
+| com | 8,632 |
+| social | 4,854 |
 | net | 4,202 |
 | org | 2,831 |
 | de | 2,696 |
@@ -23947,7 +23947,7 @@ Here's a list of public Fediverse services.
 | `kevitprojects.com` | Yes |
 | `kevjack.eu` | No |
 | `kevlar.cloud` | No |
-| `kevnet.cloud` | No |
+| `kevnet.cloud` | Yes |
 | `kevq.uk` | No |
 | `kevquirk.com` | No |
 | `kevread.fr` | No |
@@ -28137,6 +28137,7 @@ Here's a list of public Fediverse services.
 | `martins-almeida.com` | No |
 | `martinspielmann.de` | No |
 | `marty.tf` | Yes |
+| `martyhausters.com` | No |
 | `martymcgui.re` | No |
 | `martyn.berlin` | No |
 | `martz.codes` | No |
@@ -44701,6 +44702,7 @@ Here's a list of public Fediverse services.
 | `stemy.me` | No |
 | `stemzeweg.nl` | No |
 | `sten.com` | No |
+| `stench.city` | No |
 | `stenki.eu` | Yes |
 | `stenneken.de` | No |
 | `stennmedia.nl` | No |
@@ -45437,6 +45439,7 @@ Here's a list of public Fediverse services.
 | `svt.se` | No |
 | `svtropicaldawn.blog` | No |
 | `svtw.online` | No |
+| `svu.social` | No |
 | `svx.im` | Yes |
 | `sw-development-is.social` | No |
 | `sw0.com` | Yes |
@@ -53991,8 +53994,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,499 |
-| Normal | 38,444 |
+| Cloudflare | 15,500 |
+| Normal | 38,446 |
 
 
 </details>
