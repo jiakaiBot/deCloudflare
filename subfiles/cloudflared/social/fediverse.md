@@ -16012,6 +16012,7 @@ Here's a list of public Fediverse services.
 | `frentalk.com` | No |
 | `frentube.com` | No |
 | `frenversity.social` | Yes |
+| `freq.io` | No |
 | `frequency.app` | Yes |
 | `frequency.network` | No |
 | `frereit.de` | No |
@@ -18249,7 +18250,7 @@ Here's a list of public Fediverse services.
 | `grurple.org` | No |
 | `grwd.com` | No |
 | `gry.st` | No |
-| `grynaserio.pl` | Yes |
+| `grynaserio.pl` | No |
 | `gryphon.is` | Yes |
 | `gryphon68.social` | No |
 | `gryphonic.com` | No |
@@ -53361,8 +53362,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,295 |
-| Normal | 38,018 |
+| Cloudflare | 15,294 |
+| Normal | 38,020 |
 
 
 </details>
