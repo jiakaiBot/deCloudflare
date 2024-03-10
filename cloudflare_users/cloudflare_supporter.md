@@ -4128,6 +4128,7 @@ Do not create new issue or we will close it as duplicate.
 | [FauxSuave@X](https://twitter.com/FauxSuave/status/1569717708698324994) | advertise |
 | [Fauzan85586001@X](https://twitter.com/Fauzan85586001/status/1403997313991811072) | advertise |
 | [fauzanwahid@X](https://twitter.com/fauzanwahid/status/1519531527608352769) | advertise |
+| [FauziVolle48619@X](https://twitter.com/FauziVolle48619/status/1766640126346801396) | advertise |
 | [fawadbgmbgm44@X](https://twitter.com/fawadbgmbgm44/status/1567890249459683333) | advertise |
 | [Fawuioo@X](https://twitter.com/Fawuioo/status/1485262753858269188) | advertise |
 | [FAYARZ2@X](https://twitter.com/FAYARZ2/status/1628787522884218882) | advertise |
@@ -5736,6 +5737,7 @@ Do not create new issue or we will close it as duplicate.
 | [iabhishk@X](https://twitter.com/iabhishk/status/1758425698165981226) | advertise |
 | [IAddawale18239@X](https://twitter.com/IAddawale18239/status/1705984770709348446) | advertise |
 | [IAddawale49029@X](https://twitter.com/IAddawale49029/status/1706355816834519109) | advertise |
+| [iAdilMughal@X](https://twitter.com/iAdilMughal/status/1766497573152358410) | advertise |
 | [IainMcKenzie101@X](https://twitter.com/IainMcKenzie101/status/1602214203703824384) | advertise |
 | [iamakash_2004@X](https://twitter.com/iamakash_2004/status/1383364300618690561) | advertise |
 | [iamAkib1@X](https://twitter.com/iamAkib1/status/1384753030789091333) | advertise |
@@ -14046,6 +14048,7 @@ Do not create new issue or we will close it as duplicate.
 | [thewyfly@X](https://twitter.com/thewyfly/status/1471579386520371200) | advertise |
 | [TheXiteGroup@X](https://twitter.com/TheXiteGroup/status/1620409460631162880) | advertise |
 | [They03464315@X](https://twitter.com/They03464315/status/1399744810345324544) | advertise |
+| [thez_t96@X](https://twitter.com/thez_t96/status/1766500332711125057) | advertise |
 | [the_ayo_ifedapo@X](https://twitter.com/the_ayo_ifedapo/status/1402141427564519424) | advertise |
 | [the_kinq_himsef@X](https://twitter.com/the_kinq_himsef/status/1547572762717196289) | advertise |
 | [The_Krishna__@X](https://twitter.com/The_Krishna__/status/1395310239184949250) | advertise |
@@ -15261,6 +15264,7 @@ Do not create new issue or we will close it as duplicate.
 | [vubao1511@X](https://twitter.com/vubao1511/status/1399724212215033867) | advertise |
 | [vuddh_s@X](https://twitter.com/vuddh_s/status/1385846511309709313) | advertise |
 | [vugia1@X](https://twitter.com/vugia1/status/1637670409242914816) | advertise |
+| [Vuken56@X](https://twitter.com/Vuken56/status/1766632059509072305) | advertise |
 | [VuLe24596549@X](https://twitter.com/VuLe24596549/status/1477302008063283201) | advertise |
 | [vuminh56923521@X](https://twitter.com/vuminh56923521/status/1397945170750885895) | advertise |
 | [vunguyen930@X](https://twitter.com/vunguyen930/status/1549490832893325312) | advertise |
@@ -16313,6 +16317,7 @@ Do not create new issue or we will close it as duplicate.
 | [zubair123401@X](https://twitter.com/zubair123401/status/1633870502736297985) | advertise |
 | [ZueffCoder@X](https://twitter.com/ZueffCoder/status/1456673609473314818) | advertise |
 | [ZuePyaePyaeKo@X](https://twitter.com/ZuePyaePyaeKo/status/1714143130990022656) | advertise |
+| [zufar_razak@X](https://twitter.com/zufar_razak/status/1766484391021400303) | advertise |
 | [ZuhatzArt@X](https://twitter.com/ZuhatzArt/status/1621463571337986051) | advertise |
 | [ZuHlaingWin2@X](https://twitter.com/ZuHlaingWin2/status/1392026289674981378) | advertise |
 | [ZukaZ4486@X](https://twitter.com/ZukaZ4486/status/1710000180903444710) | advertise |
