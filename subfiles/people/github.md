@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ExtraTorrent indexer challenge solved by FlareSolverr but fails "blocked by CloudFlare Protection"](https://github.com/Prowlarr/Prowlarr/issues/2061)
+- [konachan can't downlaod](https://github.com/mikf/gallery-dl/issues/5316)
 - [JSONObject: Unexpected error if literal is not an object](https://github.com/Urigo/graphql-scalars/issues/2285)
 - [No req.header() in version 4](https://github.com/honojs/hono/issues/2332)
 - [Unexpected Server Error Error ERR_UNSUPPORTED_ESM_URL_SCHEME: Only URLs with a scheme in: file, data, and node are supported by the default ESM loader. Received protocol 'cloudflare:'](https://github.com/porsager/postgres/issues/822)
