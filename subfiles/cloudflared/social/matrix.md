@@ -72,6 +72,7 @@ Here's a list of public Matrix services.
 | kitsunes.chat | Yes |
 | matrix.libreon.fr | No |
 | lugnsk.org | No |
+| matrix.im | No |
 | matrix.org | Yes |
 | matrix.quebec | No |
 | matrixapp.chat | No |
@@ -124,7 +125,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 26 |
-| Normal | 70 |
+| Normal | 71 |
 
 
-### 27.1% of public Matrix services are using Cloudflare.
+### 26.8% of public Matrix services are using Cloudflare.
