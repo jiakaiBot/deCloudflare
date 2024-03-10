@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,632 |
+| com | 8,633 |
 | social | 4,854 |
-| net | 4,202 |
+| net | 4,203 |
 | org | 2,832 |
 | de | 2,696 |
 
@@ -983,6 +983,7 @@ Here's a list of public Fediverse services.
 | `abdl.link` | Yes |
 | `abdl.social` | No |
 | `abdn.social` | No |
+| `abdulakh.fun` | Yes |
 | `abdullah.fit` | No |
 | `abdulocra.cy` | No |
 | `abeardedqueer.com` | No |
@@ -5570,7 +5571,7 @@ Here's a list of public Fediverse services.
 | `bloonface.com` | No |
 | `bloor.tw` | No |
 | `blop.social` | No |
-| `blorb.de` | No |
+| `blorb.de` | Yes |
 | `blorbo.social` | No |
 | `blorst.xyz` | Yes |
 | `blos.sm` | No |
@@ -17261,6 +17262,7 @@ Here's a list of public Fediverse services.
 | `geekyaubergine.com` | Yes |
 | `geekyboo.com` | No |
 | `geekyboo.net` | No |
+| `geekylou.me.uk` | No |
 | `geekyonion.social` | Yes |
 | `geekz4u.com` | No |
 | `geekzweb.com` | Yes |
@@ -24940,6 +24942,7 @@ Here's a list of public Fediverse services.
 | `kuhs.me` | Yes |
 | `kuinya.net` | Yes |
 | `kuiper.dev` | Yes |
+| `kuiper.dog` | Yes |
 | `kuja.xyz` | No |
 | `kujeger.net` | No |
 | `kujiu.org` | No |
@@ -29416,7 +29419,7 @@ Here's a list of public Fediverse services.
 | `melyanna.net` | No |
 | `mem000.de` | No |
 | `member.ro` | Yes |
-| `memclash.com` | No |
+| `memclash.com` | Yes |
 | `meme.academy` | Yes |
 | `meme.beer` | Yes |
 | `meme.cheap` | No |
@@ -35721,6 +35724,7 @@ Here's a list of public Fediverse services.
 | `packmat.es` | No |
 | `packmates.org` | Yes |
 | `packopus.com` | Yes |
+| `packowski.net` | Yes |
 | `pacmanfan.co.nz` | No |
 | `pacna.org` | No |
 | `paco.to` | No |
@@ -41081,6 +41085,7 @@ Here's a list of public Fediverse services.
 | `saltwatercity.org` | No |
 | `saltybrackets.com` | No |
 | `saltylike.us` | Yes |
+| `saltypugs.com` | No |
 | `salundo.com` | Yes |
 | `salushnes.solutions` | No |
 | `salva.ge` | No |
@@ -51860,6 +51865,7 @@ Here's a list of public Fediverse services.
 | `wirebird.com` | No |
 | `wirebug.ch` | No |
 | `wired.icu` | Yes |
+| `wiredancer.hu` | No |
 | `wiredbrain.de` | Yes |
 | `wiredentrypoint.xyz` | No |
 | `wiredfox.net` | No |
@@ -53044,6 +53050,7 @@ Here's a list of public Fediverse services.
 | `yeschenko.com` | No |
 | `yeshuafreedom.com` | No |
 | `yesil.club` | No |
+| `yeske.blog` | No |
 | `yesmap.net` | No |
 | `yesnt.ga` | No |
 | `yestadon.site` | No |
@@ -53995,8 +54002,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,503 |
-| Normal | 38,444 |
+| Cloudflare | 15,508 |
+| Normal | 38,446 |
 
 
 </details>
