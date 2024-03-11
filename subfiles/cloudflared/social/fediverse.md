@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,855 |
 | net | 4,204 |
 | org | 2,832 |
-| de | 2,697 |
+| de | 2,698 |
 
 
 - Mastodon, Pleroma, etc
@@ -41736,6 +41736,7 @@ Here's a list of public Fediverse services.
 | `screamer.wiki` | Yes |
 | `screaming.com` | No |
 | `screamingatmyscreen.com` | Yes |
+| `screaminginsi.de` | No |
 | `screamshitter.club` | No |
 | `screebo.net` | Yes |
 | `screech.social` | No |
@@ -54018,7 +54019,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,512 |
-| Normal | 38,457 |
+| Normal | 38,458 |
 
 
 </details>
