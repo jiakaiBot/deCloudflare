@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,634 |
+| com | 8,635 |
 | social | 4,855 |
 | net | 4,204 |
 | org | 2,832 |
@@ -26337,6 +26337,7 @@ Here's a list of public Fediverse services.
 | `liip.ch` | Yes |
 | `lijie.org` | Yes |
 | `likeable.space` | No |
+| `likeadragonmaid.dev` | No |
 | `likemagic.ai` | Yes |
 | `likeme.social` | No |
 | `liker.social` | Yes |
@@ -29593,7 +29594,6 @@ Here's a list of public Fediverse services.
 | `mesita.link` | No |
 | `meskis.net` | No |
 | `mesmerized.online` | No |
-| `mesolvarde.eu` | No |
 | `mesomer.com` | Yes |
 | `mesothermal.science` | No |
 | `mesozoik.cloud` | No |
@@ -42226,6 +42226,7 @@ Here's a list of public Fediverse services.
 | `setariam.net` | Yes |
 | `setecastronomy.dev` | No |
 | `sethb.com` | No |
+| `sethcorker.com` | Yes |
 | `sethetter.com` | No |
 | `sethetter.social` | No |
 | `sethfeldkamp.com` | No |
@@ -54015,7 +54016,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,508 |
+| Cloudflare | 15,509 |
 | Normal | 38,459 |
 
 
