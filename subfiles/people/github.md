@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Typecheck issues with @remix-run/dev](https://github.com/remix-run/remix/issues/9028)
 - [Versions 1.19.2, 1.19.1, 1.19.0, 1.18.0 are not starting properly: error reading auto-trust-anchor-file: var/root.key](https://github.com/MatthewVance/unbound-docker-rpi/issues/51)
 - [403 Error - Unable to Authenticate](https://github.com/JacobLinCool/LeetCode-Query/issues/79)
 - [Method not found on login](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2695)
