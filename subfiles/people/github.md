@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Versions 1.19.2, 1.19.1, 1.19.0, 1.18.0 are not starting properly: error reading auto-trust-anchor-file: var/root.key](https://github.com/MatthewVance/unbound-docker-rpi/issues/51)
 - [403 Error - Unable to Authenticate](https://github.com/JacobLinCool/LeetCode-Query/issues/79)
 - [Method not found on login](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2695)
 - [ExtraTorrent indexer challenge solved by FlareSolverr but fails "blocked by CloudFlare Protection"](https://github.com/Prowlarr/Prowlarr/issues/2061)
