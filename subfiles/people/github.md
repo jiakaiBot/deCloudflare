@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare API service issues](https://github.com/SecOpsNews/news/issues/25833)
 - [Typecheck issues with @remix-run/dev](https://github.com/remix-run/remix/issues/9028)
 - [Versions 1.19.2, 1.19.1, 1.19.0, 1.18.0 are not starting properly: error reading auto-trust-anchor-file: var/root.key](https://github.com/MatthewVance/unbound-docker-rpi/issues/51)
 - [403 Error - Unable to Authenticate](https://github.com/JacobLinCool/LeetCode-Query/issues/79)
