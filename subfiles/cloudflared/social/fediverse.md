@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,636 |
 | social | 4,855 |
-| net | 4,204 |
+| net | 4,205 |
 | org | 2,832 |
-| de | 2,698 |
+| de | 2,699 |
 
 
 - Mastodon, Pleroma, etc
@@ -4383,6 +4383,7 @@ Here's a list of public Fediverse services.
 | `batato.be` | No |
 | `batchats.net` | No |
 | `bath.social` | No |
+| `bathcampaigns.org.uk` | No |
 | `batichi.net` | No |
 | `batlord.org` | Yes |
 | `batpa.ws` | No |
@@ -26724,6 +26725,7 @@ Here's a list of public Fediverse services.
 | `lob-online.de` | No |
 | `lobi.to` | No |
 | `lobisomem.xyz` | No |
+| `lobolmo.de` | No |
 | `lobrai.co` | Yes |
 | `lobster.city` | Yes |
 | `lobsters.social` | Yes |
@@ -32132,7 +32134,7 @@ Here's a list of public Fediverse services.
 | `nagi.fan` | Yes |
 | `nagichan.page` | No |
 | `nagisa.app` | Yes |
-| `nagisa.town` | No |
+| `nagisa.town` | Yes |
 | `nagisite.xyz` | Yes |
 | `nagito.net` | Yes |
 | `nagoya832.net` | No |
@@ -36996,7 +36998,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.ru` | Yes |
 | `pixelfed.ruhr` | No |
 | `pixelfed.scot` | No |
-| `pixelfed.se` | No |
+| `pixelfed.se` | Yes |
 | `pixelfed.sg` | Yes |
 | `pixelfed.social` | Yes |
 | `pixelfed.tokyo` | Yes |
@@ -50223,6 +50225,7 @@ Here's a list of public Fediverse services.
 | `vdk2ch.ru` | No |
 | `vdlc.social` | No |
 | `vdna.be` | No |
+| `vdome.net` | No |
 | `vdoor.ch` | No |
 | `vdurdome.net` | Yes |
 | `veamstudios.social` | No |
@@ -51037,6 +51040,7 @@ Here's a list of public Fediverse services.
 | `waifu.social` | Yes |
 | `waifu.space` | Yes |
 | `waifuappreciation.club` | No |
+| `waifuhub.lol` | No |
 | `waifuism.life` | No |
 | `waifuism.rocks` | No |
 | `waifuparty.eu` | No |
@@ -54020,8 +54024,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,513 |
-| Normal | 38,459 |
+| Cloudflare | 15,515 |
+| Normal | 38,461 |
 
 
 </details>
