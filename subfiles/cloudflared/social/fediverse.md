@@ -18856,6 +18856,7 @@ Here's a list of public Fediverse services.
 | `haruho.net` | No |
 | `haruk.in` | Yes |
 | `harukakanata.net` | No |
+| `haruki7049.dev` | Yes |
 | `harukizaemon.com` | Yes |
 | `harumakizaemon.net` | Yes |
 | `harunon.work` | Yes |
@@ -35507,7 +35508,7 @@ Here's a list of public Fediverse services.
 | `parawatch.org` | No |
 | `parcel5.social` | No |
 | `parcero.bond` | Yes |
-| `parcility.co` | Yes |
+| `parcility.co` | No |
 | `pardoners.church` | No |
 | `parens.social` | Yes |
 | `parentaladvisory.social` | No |
@@ -53382,7 +53383,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,303 |
-| Normal | 38,030 |
+| Normal | 38,031 |
 
 
 </details>
