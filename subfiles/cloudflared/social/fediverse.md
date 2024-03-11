@@ -13017,7 +13017,7 @@ Here's a list of public Fediverse services.
 | `ehjovan.com` | Yes |
 | `ehlo.world` | No |
 | `ehlxr.me` | Yes |
-| `ehnit.com` | No |
+| `ehnit.com` | Yes |
 | `ehr.scot` | Yes |
 | `ehrenfeld.social` | No |
 | `ehrengruppe.de` | No |
@@ -23837,7 +23837,7 @@ Here's a list of public Fediverse services.
 | `kemono.im` | Yes |
 | `kemono.ink` | No |
 | `kemonodon.club` | No |
-| `kemonololi.com` | No |
+| `kemonololi.com` | Yes |
 | `kemonomimi.gay` | No |
 | `kemonomimifan.club` | No |
 | `kemonosky.net` | No |
@@ -29594,6 +29594,7 @@ Here's a list of public Fediverse services.
 | `mesita.link` | No |
 | `meskis.net` | No |
 | `mesmerized.online` | No |
+| `mesolvarde.eu` | No |
 | `mesomer.com` | Yes |
 | `mesothermal.science` | No |
 | `mesozoik.cloud` | No |
@@ -36120,7 +36121,7 @@ Here's a list of public Fediverse services.
 | `paws.moe` | No |
 | `paws.ninja` | Yes |
 | `paws.press` | No |
-| `paws.town` | No |
+| `paws.town` | Yes |
 | `pawsitiv.space` | Yes |
 | `paxanimi.club` | No |
 | `paxasteriae.co.uk` | No |
@@ -54016,8 +54017,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,509 |
-| Normal | 38,459 |
+| Cloudflare | 15,512 |
+| Normal | 38,457 |
 
 
 </details>
