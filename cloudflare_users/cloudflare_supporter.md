@@ -7511,6 +7511,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kuyhesad@X](https://twitter.com/Kuyhesad/status/1400479004306464772) | advertise |
 | [kvncleantown@X](https://twitter.com/kvncleantown/status/1657725038152540160) | advertise |
 | [kw0rdl@X](https://twitter.com/kw0rdl/status/1664702346247524371) | advertise |
+| [KwameMaame2@X](https://twitter.com/KwameMaame2/status/1767202403630162121) | advertise |
 | [KwangTo1@X](https://twitter.com/KwangTo1/status/1388373678233047041) | advertise |
 | [KwencyFDolla@X](https://twitter.com/KwencyFDolla/status/1665866392527151108) | advertise |
 | [KwikMugs@X](https://twitter.com/KwikMugs/status/1518513448597995524) | advertise |
@@ -12523,6 +12524,7 @@ Do not create new issue or we will close it as duplicate.
 | [SanMoe33078076@X](https://twitter.com/SanMoe33078076/status/1699305216313786441) | advertise |
 | [SannHtoo12@X](https://twitter.com/SannHtoo12/status/1697454390263877692) | advertise |
 | [SanP01083254@X](https://twitter.com/SanP01083254/status/1393826598097362949) | advertise |
+| [SansZ00000@X](https://twitter.com/SansZ00000/status/1767199692994056657) | advertise |
 | [SanThetHtarOo2@X](https://twitter.com/SanThetHtarOo2/status/1384476434291314693) | advertise |
 | [santhiprakashb@X](https://twitter.com/santhiprakashb/status/1618861031232778240) | advertise |
 | [SANThitLwin11@X](https://twitter.com/SANThitLwin11/status/1394893204294541315) | advertise |
@@ -15931,6 +15933,7 @@ Do not create new issue or we will close it as duplicate.
 | [YewintA92460317@X](https://twitter.com/YewintA92460317/status/1390944586105643012) | advertise |
 | [yeye66407561@X](https://twitter.com/yeye66407561/status/1392031374572351490) | advertise |
 | [YeYint56809630@X](https://twitter.com/YeYint56809630/status/1396556309349212161) | advertise |
+| [YeYint78968328@X](https://twitter.com/YeYint78968328/status/1767194591605014546) | advertise |
 | [YeYintA22226098@X](https://twitter.com/YeYintA22226098/status/1392332654679265282) | advertise |
 | [YeYintA66253751@X](https://twitter.com/YeYintA66253751/status/1391970356584345604) | advertise |
 | [YeYintA85824341@X](https://twitter.com/YeYintA85824341/status/1401156105015685128) | advertise |
