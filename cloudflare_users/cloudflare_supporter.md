@@ -1357,6 +1357,7 @@ Do not create new issue or we will close it as duplicate.
 | [atanu19233962@X](https://twitter.com/atanu19233962/status/1569739614734422016) | advertise |
 | [ataqureshi@X](https://twitter.com/ataqureshi/status/1479494465177985025) | advertise |
 | [atauky@X](https://twitter.com/atauky/status/1498221297738092546) | advertise |
+| [AtefNounou@X](https://twitter.com/AtefNounou/status/1766954212825399324) | advertise |
 | [AterPutraSemon@X](https://twitter.com/AterPutraSemon/status/1722886360829423978) | advertise |
 | [athet25@X](https://twitter.com/athet25/status/1390373120943345664) | advertise |
 | [athlity7@X](https://twitter.com/athlity7/status/1393870645558083584) | advertise |
@@ -2868,6 +2869,7 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@X](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [CrazyVisions@X](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@X](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
+| [creativespeak2@X](https://twitter.com/creativespeak2/status/1767039203190464654) | advertise |
 | [creazse@X](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@X](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
 | [Crimsonedwin_@X](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
@@ -5617,6 +5619,7 @@ Do not create new issue or we will close it as duplicate.
 | [HunhVnH2@X](https://twitter.com/HunhVnH2/status/1583611858107277312) | advertise |
 | [HunhVTrPhong2@X](https://twitter.com/HunhVTrPhong2/status/1395796948007931905) | advertise |
 | [hunkz2593@X](https://twitter.com/hunkz2593/status/1702224139501879759) | advertise |
+| [hunnidbandzzzz@X](https://twitter.com/hunnidbandzzzz/status/1767102326475768026) | advertise |
 | [Hunnie915752202@X](https://twitter.com/Hunnie915752202/status/1380561096503746560) | advertise |
 | [HunsawatP@X](https://twitter.com/HunsawatP/status/1403208490374418433) | advertise |
 | [HunterKlowss07@X](https://twitter.com/HunterKlowss07/status/1536946816260132864) | advertise |
@@ -6111,6 +6114,7 @@ Do not create new issue or we will close it as duplicate.
 | [J67831601@X](https://twitter.com/J67831601/status/1527803392743047168) | advertise |
 | [Ja10504Jarallah@X](https://twitter.com/Ja10504Jarallah/status/1684596767537397760) | advertise |
 | [JaafarDafie@X](https://twitter.com/JaafarDafie/status/1401898919118790659) | advertise |
+| [jaamachasan12@X](https://twitter.com/jaamachasan12/status/1767004552086036881) | advertise |
 | [jabaowl@X](https://twitter.com/jabaowl/status/1564635058585194500) | advertise |
 | [jabb_bangposri@X](https://twitter.com/jabb_bangposri/status/1738613263506796563) | advertise |
 | [jAbdullahMughal@X](https://twitter.com/jAbdullahMughal/status/1477590087437279232) | advertise |
@@ -7753,6 +7757,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lay40367122Lay@X](https://twitter.com/Lay40367122Lay/status/1396118122755620869) | advertise |
 | [Layaung20553541@X](https://twitter.com/Layaung20553541/status/1401449252383907840) | advertise |
 | [layaungyint@X](https://twitter.com/layaungyint/status/1392358416769634306) | advertise |
+| [laylai11k5dola@X](https://twitter.com/laylai11k5dola/status/1766911947558261229) | advertise |
 | [LayMishall@X](https://twitter.com/LayMishall/status/1396312091112452098) | advertise |
 | [laymon227097444@X](https://twitter.com/laymon227097444/status/1379339770548027393) | advertise |
 | [LaynaAtilano@X](https://twitter.com/LaynaAtilano/status/1559564931036459009) | advertise |
@@ -16159,6 +16164,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZayarNyein10@X](https://twitter.com/ZayarNyein10/status/1390280979957239814) | advertise |
 | [ZayarPh01408691@X](https://twitter.com/ZayarPh01408691/status/1393285845734416384) | advertise |
 | [ZayarPhone_M@X](https://twitter.com/ZayarPhone_M/status/1390046406832902144) | advertise |
+| [zayarphyo356653@X](https://twitter.com/zayarphyo356653/status/1766919092630692089) | advertise |
 | [ZayarSo94673519@X](https://twitter.com/ZayarSo94673519/status/1395833005470539777) | advertise |
 | [ZayarTu30769145@X](https://twitter.com/ZayarTu30769145/status/1391331399685214212) | advertise |
 | [ZayedBukhary@X](https://twitter.com/ZayedBukhary/status/1526504471194660864) | advertise |
