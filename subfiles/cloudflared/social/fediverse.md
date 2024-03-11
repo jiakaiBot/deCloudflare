@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,635 |
+| com | 8,636 |
 | social | 4,855 |
 | net | 4,204 |
 | org | 2,832 |
@@ -37822,6 +37822,7 @@ Here's a list of public Fediverse services.
 | `prepedia.org` | No |
 | `preppers-shelter.nl` | No |
 | `prepsandplanners.com` | No |
+| `prertik.com` | No |
 | `presentdaypresenttime.com` | No |
 | `preserve.games` | No |
 | `preserve.media` | No |
@@ -54019,7 +54020,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,512 |
-| Normal | 38,458 |
+| Normal | 38,459 |
 
 
 </details>
