@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,636 |
 | social | 4,855 |
-| net | 4,205 |
+| net | 4,207 |
 | org | 2,832 |
 | de | 2,699 |
 
@@ -6649,6 +6649,7 @@ Here's a list of public Fediverse services.
 | `by.tc` | No |
 | `by8.space` | Yes |
 | `byabbe.se` | Yes |
+| `bybliotheca.net` | No |
 | `bycreyo.de` | No |
 | `bye.social` | Yes |
 | `byebye.party` | No |
@@ -45211,6 +45212,7 @@ Here's a list of public Fediverse services.
 | `suhbat.online` | No |
 | `sui-hei.net` | No |
 | `sui-mag.com` | Yes |
+| `sui-ryu.net` | Yes |
 | `suicide.group` | No |
 | `suicide.holiday` | Yes |
 | `suicidepolice.com` | No |
@@ -54024,8 +54026,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,515 |
-| Normal | 38,461 |
+| Cloudflare | 15,516 |
+| Normal | 38,462 |
 
 
 </details>
