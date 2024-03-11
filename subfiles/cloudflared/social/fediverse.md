@@ -34632,6 +34632,7 @@ Here's a list of public Fediverse services.
 | `ohyo.cloud` | No |
 | `ohyo.work` | No |
 | `oi7.de` | No |
+| `oicn.icu` | Yes |
 | `oidemasetodon.com` | No |
 | `oignon.zone` | No |
 | `oiigermany.org` | No |
@@ -54019,7 +54020,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,512 |
+| Cloudflare | 15,513 |
 | Normal | 38,459 |
 
 
