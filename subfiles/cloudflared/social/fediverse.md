@@ -564,6 +564,7 @@ Here's a list of public Fediverse services.
 | `41kg.com` | Yes |
 | `41x.xyz` | Yes |
 | `420.vin` | Yes |
+| `420131269.xyz` | Yes |
 | `4201337.xyz` | Yes |
 | `42069epicgamers.app` | Yes |
 | `4232.cf` | No |
@@ -9957,6 +9958,7 @@ Here's a list of public Fediverse services.
 | `dados.red` | No |
 | `dadosch.de` | No |
 | `dads.cool` | No |
+| `dads.so` | No |
 | `dadvsvideogames.com` | No |
 | `daebak.fun` | No |
 | `daed.org` | No |
@@ -23982,6 +23984,7 @@ Here's a list of public Fediverse services.
 | `kitsunebi-ya.com` | Yes |
 | `kitsunech.jp.net` | No |
 | `kitsunemimi.club` | No |
+| `kitsunes.church` | No |
 | `kitsunes.cloud` | No |
 | `kitsunes.club` | Yes |
 | `kitsunes.gay` | Yes |
@@ -28620,6 +28623,7 @@ Here's a list of public Fediverse services.
 | `matthewgraybosch.com` | No |
 | `matthewguy.com` | No |
 | `matthewkrohn.net` | No |
+| `matthewmcgranahan.me` | No |
 | `matthewmcvickar.com` | No |
 | `matthewreynolds.net` | Yes |
 | `matthewshanley.com` | No |
@@ -29245,7 +29249,6 @@ Here's a list of public Fediverse services.
 | `mesita.link` | No |
 | `meskis.net` | No |
 | `mesmerized.online` | No |
-| `mesolvarde.eu` | No |
 | `mesomer.com` | Yes |
 | `mesothermal.science` | No |
 | `mesozoik.cloud` | No |
@@ -53382,8 +53385,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,303 |
-| Normal | 38,031 |
+| Cloudflare | 15,304 |
+| Normal | 38,033 |
 
 
 </details>
