@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The error was: expected /etc/letsencrypt/live/npm-2/cert.pem to be a symlink](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3624)
 - [How to bypass CloudFlare](https://github.com/xtekky/ChatGPT-Alternative/issues/3)
 - [CloudFlare Cloudflare API service issues](https://github.com/SecOpsNews/news/issues/25833)
 - [Typecheck issues with @remix-run/dev](https://github.com/remix-run/remix/issues/9028)
