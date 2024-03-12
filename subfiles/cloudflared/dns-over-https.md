@@ -76,7 +76,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cloudflare-dns.com | Yes |
 | cloudseriousshit.com | Yes |
 | cloudsides.com | Yes |
-| corpa.me | Yes |
 | cubedns.com | No |
 | cuprum.ru | Yes |
 | cynthialabs.net | Yes |
@@ -121,7 +120,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ffmuc.net | Yes |
 | flm9.net | No |
 | flylcc.cc | Yes |
-| freecdn.one | No |
 | freyja.pw | Yes |
 | froth.zone | No |
 | ftp.sh | Yes |
@@ -132,13 +130,11 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gmserv.cc | Yes |
 | guard.io | Yes |
 | hahnjo.de | No |
-| haringstad.com | No |
 | he.net | No |
 | henek.ovh | Yes |
 | hostme.co.il | Yes |
 | hugo0.moe | Yes |
 | hujiayucc.cn | No |
-| hunga1k47.com | No |
 | huque.com | No |
 | huseynov.work | Yes |
 | huyhoangit.net | Yes |
@@ -165,7 +161,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ketan.dev | Yes |
 | konikoni428.com | Yes |
 | korzhyk.pp.ua | Yes |
-| kriswerry.nl | No |
 | krnl.eu | Yes |
 | lacontrevoie.fr | No |
 | lastentarvike.fi | No |
@@ -206,7 +201,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mydns.network | Yes |
 | mywire.org | Yes |
 | narl.app | No |
-| ndo.dev | Yes |
 | nexific.it | Yes |
 | nhtsky.com | Yes |
 | nic.cz | No |
@@ -252,7 +246,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ragnvindr.org | Yes |
 | ral9005.org | Yes |
 | rasp.tv | Yes |
-| rbs.my.id | Yes |
 | restena.lu | No |
 | retakecs.com | Yes |
 | rethinkdns.com | Yes |
@@ -335,8 +328,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 171 |
-| Normal | 145 |
+| Cloudflare | 168 |
+| Normal | 141 |
 
 
-### 54.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
