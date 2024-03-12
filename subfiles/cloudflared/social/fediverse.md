@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,855 |
 | net | 4,208 |
 | org | 2,832 |
-| de | 2,699 |
+| de | 2,700 |
 
 
 - Mastodon, Pleroma, etc
@@ -17111,7 +17111,7 @@ Here's a list of public Fediverse services.
 | `gawk.es` | Yes |
 | `gawlinski.com` | Yes |
 | `gawo.ga` | No |
-| `gay-garden.no` | No |
+| `gay-garden.no` | Yes |
 | `gay-pirate-assassins.de` | No |
 | `gay-skater-caster.de` | No |
 | `gay.camera` | Yes |
@@ -30429,6 +30429,7 @@ Here's a list of public Fediverse services.
 | `mittelstand.nrw` | No |
 | `mittens.monster` | No |
 | `mittn.ca` | Yes |
+| `mittwochsfrage.de` | No |
 | `mituhide.net` | No |
 | `mitzelten.de` | No |
 | `miv2nir.me` | No |
@@ -54033,7 +54034,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,521 |
+| Cloudflare | 15,522 |
 | Normal | 38,464 |
 
 
