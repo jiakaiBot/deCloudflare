@@ -3009,6 +3009,7 @@ Here's a list of public Fediverse services.
 | `argh.club` | No |
 | `arghacademy.org` | Yes |
 | `argia.eus` | No |
+| `argilus.pl` | No |
 | `argocatania.it` | No |
 | `argon.city` | Yes |
 | `argonauten.space` | No |
@@ -16647,7 +16648,7 @@ Here's a list of public Fediverse services.
 | `furri.gay` | Yes |
 | `furria.net` | No |
 | `furries.club` | No |
-| `furries.online` | Yes |
+| `furries.online` | No |
 | `furries.world` | No |
 | `furry-elephant.news` | No |
 | `furry-r-moonrabbitbower.com` | Yes |
@@ -54040,10 +54041,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,523 |
-| Normal | 38,469 |
+| Cloudflare | 15,522 |
+| Normal | 38,471 |
 
 
 </details>
 
-### 28.8% of public Fediverse services are using Cloudflare.
+### 28.7% of public Fediverse services are using Cloudflare.
