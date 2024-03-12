@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,638 |
+| com | 8,640 |
 | social | 4,855 |
 | net | 4,208 |
 | org | 2,832 |
-| de | 2,700 |
+| de | 2,701 |
 
 
 - Mastodon, Pleroma, etc
@@ -11278,6 +11278,7 @@ Here's a list of public Fediverse services.
 | `dgm.pw` | No |
 | `dgng.no` | Yes |
 | `dgngrnder.com` | Yes |
+| `dgnum.eu` | No |
 | `dgoeke.io` | No |
 | `dgplug.org` | No |
 | `dgrammatiko.dev` | Yes |
@@ -19046,6 +19047,7 @@ Here's a list of public Fediverse services.
 | `haqueers.com` | No |
 | `har.gay` | Yes |
 | `harahar.com` | No |
+| `harakiri.pw` | No |
 | `haram.kim` | No |
 | `harbick.com` | No |
 | `harbour.cafe` | No |
@@ -26464,6 +26466,7 @@ Here's a list of public Fediverse services.
 | `linus.dev` | No |
 | `linux-guy.info` | No |
 | `linux-help.org` | Yes |
+| `linux-magazin.de` | Yes |
 | `linux-revolution.de` | No |
 | `linux-tin.io` | No |
 | `linux.community` | No |
@@ -32558,6 +32561,7 @@ Here's a list of public Fediverse services.
 | `nekodai.ski` | Yes |
 | `nekoea.red` | No |
 | `nekoeki.org` | Yes |
+| `nekogata.com` | No |
 | `nekogenesis.com` | No |
 | `nekohack.me` | Yes |
 | `nekohell.eu` | Yes |
@@ -34829,6 +34833,7 @@ Here's a list of public Fediverse services.
 | `omoro.info` | Yes |
 | `omtc.fr` | No |
 | `omx.nl` | No |
+| `omz13.com` | No |
 | `on-o.com` | No |
 | `on-t.work` | Yes |
 | `on-trails.com` | Yes |
@@ -36431,6 +36436,7 @@ Here's a list of public Fediverse services.
 | `perso.org` | No |
 | `perso.pw` | No |
 | `personal-mustodon.jp` | No |
+| `personal.community` | No |
 | `personal.pizza` | No |
 | `personaleum.at` | No |
 | `personalfinance.social` | No |
@@ -38656,7 +38662,7 @@ Here's a list of public Fediverse services.
 | `quinnter.net` | No |
 | `quinnwitz.house` | Yes |
 | `quint.icu` | Yes |
-| `quintonia.social` | Yes |
+| `quintonia.social` | No |
 | `quip.social` | No |
 | `quip.tk` | No |
 | `quippini.net` | No |
@@ -52913,7 +52919,7 @@ Here's a list of public Fediverse services.
 | `y-k.us` | Yes |
 | `y-y.li` | No |
 | `y-zu.org` | Yes |
-| `y.community` | No |
+| `y.community` | Yes |
 | `y.la` | No |
 | `y2k-cy.com` | No |
 | `y2k.zone` | Yes |
@@ -54034,8 +54040,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,522 |
-| Normal | 38,464 |
+| Cloudflare | 15,523 |
+| Normal | 38,469 |
 
 
 </details>
