@@ -24317,6 +24317,7 @@ Here's a list of public Fediverse services.
 | `kivantium.ai` | No |
 | `kivi.com.tr` | Yes |
 | `kivinsae.com` | Yes |
+| `kivotos.io` | Yes |
 | `kiwa.space` | No |
 | `kiwe.ch` | No |
 | `kiwec.net` | Yes |
@@ -46719,7 +46720,7 @@ Here's a list of public Fediverse services.
 | `thatismunn.my.id` | Yes |
 | `thatone.gay` | Yes |
 | `thatother.site` | No |
-| `thatpanda.com` | No |
+| `thatpanda.com` | Yes |
 | `thatsaspork.tk` | No |
 | `thatsit.social` | Yes |
 | `thatsocial.site` | No |
@@ -54032,10 +54033,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,519 |
-| Normal | 38,465 |
+| Cloudflare | 15,521 |
+| Normal | 38,464 |
 
 
 </details>
 
-### 28.7% of public Fediverse services are using Cloudflare.
+### 28.8% of public Fediverse services are using Cloudflare.
