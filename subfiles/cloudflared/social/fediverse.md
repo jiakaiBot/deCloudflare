@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,638 |
 | social | 4,855 |
-| net | 4,207 |
+| net | 4,208 |
 | org | 2,832 |
 | de | 2,699 |
 
@@ -15553,6 +15553,7 @@ Here's a list of public Fediverse services.
 | `flockofnazguls.com` | No |
 | `flocktogether.social` | No |
 | `floe.earth` | No |
+| `flogth.net` | No |
 | `flohgro.com` | No |
 | `flokinet.is` | No |
 | `flokinet.social` | No |
@@ -19838,7 +19839,7 @@ Here's a list of public Fediverse services.
 | `hiveagile.com` | Yes |
 | `hiveagile.dev` | Yes |
 | `hivechat.co.uk` | No |
-| `hivecore.social` | Yes |
+| `hivecore.social` | No |
 | `hivemind.at` | No |
 | `hivemind.gq` | No |
 | `hivemind.plus` | No |
@@ -54031,8 +54032,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,520 |
-| Normal | 38,463 |
+| Cloudflare | 15,519 |
+| Normal | 38,465 |
 
 
 </details>
