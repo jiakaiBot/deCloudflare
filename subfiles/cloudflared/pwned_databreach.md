@@ -132,7 +132,7 @@ Here's a list of breached sites.
 | CardingMafia (Carding Mafia (March 2021)) | 297,744 | Yes |
 | CardingMafiaDec2021 (Carding Mafia (December 2021)) | 303,877 | Yes |
 | CashCrate | 6,844,490 | Yes |
-| Catho | 1,173,012 | No |
+| Catho | 1,173,012 | Yes |
 | Chatbooks | 2,520,441 | Yes |
 | CheapAssGamer (CheapAssGamer.com) | 444,767 | Yes |
 | Chegg | 39,721,127 | Yes |
@@ -245,6 +245,7 @@ Here's a list of breached sites.
 | Flashback | 40,256 | No |
 | FlexBooker | 3,756,794 | No |
 | Fling | 40,767,652 | No |
+| Flipkart | 552,094 | No |
 | Foodora | 582,578 | Yes |
 | Forbes | 1,057,819 | Yes |
 | ForumCommunity | 776,648 | Yes |
@@ -739,8 +740,8 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 424 | 4,708,342,270 |
-| Normal | 294 | 4,452,412,191 |
+| Cloudflare | 425 | 4,709,515,282 |
+| Normal | 294 | 4,451,791,273 |
 
 
 
