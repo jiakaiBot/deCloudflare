@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Prisma.Decimal is missing methods in Cloudflare environment](https://github.com/prisma/prisma/issues/23480)
 - [D1 DateTime type does not work](https://github.com/prisma/prisma/issues/23479)
 - [Error: No application encryption key has been specified.](https://github.com/freescout-helpdesk/freescout/issues/3873)
 - [CloudFlare Issues with Custom Pages previews between 2024-03-12 and 2024-03-13](https://github.com/SecOpsNews/news/issues/25949)
