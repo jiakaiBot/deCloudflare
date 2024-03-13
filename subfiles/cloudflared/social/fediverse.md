@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,643 |
+| com | 8,644 |
 | social | 4,855 |
 | net | 4,208 |
 | org | 2,832 |
@@ -26098,6 +26098,7 @@ Here's a list of public Fediverse services.
 | `lewd.website` | No |
 | `lewdieheaven.com` | No |
 | `lewdieheaven.vip` | No |
+| `lewdpost.com` | No |
 | `lewiekong.online` | No |
 | `lewisdale.dev` | No |
 | `lewishamcyclists.org.uk` | No |
@@ -54045,7 +54046,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,522 |
-| Normal | 38,474 |
+| Normal | 38,475 |
 
 
 </details>
