@@ -5050,6 +5050,7 @@ Here's a list of public Fediverse services.
 | `bilibili.org` | Yes |
 | `bilibili.party` | Yes |
 | `bilimma.com` | Yes |
+| `bilin.xyz` | No |
 | `bilincakisi.com` | Yes |
 | `bill.mu` | Yes |
 | `billante.com` | Yes |
@@ -54055,7 +54056,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,530 |
-| Normal | 38,476 |
+| Normal | 38,477 |
 
 
 </details>
