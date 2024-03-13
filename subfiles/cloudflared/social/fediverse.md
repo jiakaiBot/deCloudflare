@@ -16972,6 +16972,7 @@ Here's a list of public Fediverse services.
 | `gamelinks007.net` | No |
 | `gamelore.fun` | Yes |
 | `gamemaking.social` | No |
+| `gamenight.host` | No |
 | `gamepad.club` | No |
 | `gameplay.wtf` | No |
 | `gamer007.com` | Yes |
@@ -27621,7 +27622,7 @@ Here's a list of public Fediverse services.
 | `maeh.social` | No |
 | `maehl.eu` | No |
 | `maelstrom.space` | No |
-| `maengkkongi.site` | No |
+| `maengkkongi.site` | Yes |
 | `maennerplenum.eu` | No |
 | `maerou.com` | Yes |
 | `maescool.be` | Yes |
@@ -54058,7 +54059,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,532 |
+| Cloudflare | 15,533 |
 | Normal | 38,478 |
 
 
