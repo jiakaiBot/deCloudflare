@@ -1188,7 +1188,7 @@ Here's a list of public Fediverse services.
 | `acting-man.com` | No |
 | `action0.com` | No |
 | `actionpack.ph` | No |
-| `actionsecit.de` | No |
+| `actionsecit.de` | Yes |
 | `activism.live` | No |
 | `activists.family` | No |
 | `activitypoll.tw` | No |
@@ -2221,6 +2221,7 @@ Here's a list of public Fediverse services.
 | `amichan.de` | No |
 | `amicidelbaretto.org` | Yes |
 | `amie.moe` | Yes |
+| `amie.zone` | No |
 | `amiel.net.br` | No |
 | `amiensweb.fr` | No |
 | `amifsud.fr` | No |
@@ -27773,6 +27774,7 @@ Here's a list of public Fediverse services.
 | `majors.social` | Yes |
 | `majorshouse.com` | Yes |
 | `mak.i.ng` | No |
+| `maka.nagoya` | Yes |
 | `makai.cafe` | Yes |
 | `makai.xyz` | No |
 | `makamaka.me` | No |
@@ -35067,7 +35069,6 @@ Here's a list of public Fediverse services.
 | `openfactory42.info` | No |
 | `openflowlabs.com` | No |
 | `openforfuture.org` | No |
-| `openformation.io` | No |
 | `openhood.ru` | No |
 | `openiap.io` | Yes |
 | `openinfra.dev` | Yes |
@@ -43835,7 +43836,6 @@ Here's a list of public Fediverse services.
 | `solarpunks.social` | No |
 | `solarpunkstation.com` | No |
 | `solarsystem.social` | No |
-| `solawi.farm` | No |
 | `solawi.social` | No |
 | `solchefreu.de` | No |
 | `sold.pk` | Yes |
@@ -54054,8 +54054,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,528 |
-| Normal | 38,478 |
+| Cloudflare | 15,530 |
+| Normal | 38,476 |
 
 
 </details>
