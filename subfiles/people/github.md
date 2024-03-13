@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Issues with Custom Pages previews between 2024-03-12 and 2024-03-13](https://github.com/SecOpsNews/news/issues/25949)
 - [Cloudflare CORS issues](https://github.com/ubiquity/pay.ubq.fi/issues/200)
 - [Deprecation notice for roughtime.cloudflare.com:2002](https://github.com/prysmaticlabs/prysm/issues/13731)
 - [ExecutionContext type missing abort method](https://github.com/honojs/hono/issues/2341)
