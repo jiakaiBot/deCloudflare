@@ -7513,6 +7513,7 @@ Here's a list of public Fediverse services.
 | `channelinfosec.com` | Yes |
 | `channels.im` | No |
 | `chanoa.de` | No |
+| `chanterelle.xyz` | No |
 | `chantierlibre.org` | No |
 | `chanyukming.com` | Yes |
 | `chao.tokyo` | No |
@@ -42213,7 +42214,7 @@ Here's a list of public Fediverse services.
 | `sergio101.com` | No |
 | `sergiomoraesj.com` | No |
 | `sergiosgc.com` | Yes |
-| `sergitsa.nz` | No |
+| `sergitsa.nz` | Yes |
 | `seri.gr.jp` | No |
 | `serial-experiments.com` | Yes |
 | `serial.io` | Yes |
@@ -54063,7 +54064,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,533 |
+| Cloudflare | 15,534 |
 | Normal | 38,482 |
 
 
