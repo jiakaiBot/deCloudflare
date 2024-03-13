@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,644 |
 | social | 4,855 |
-| net | 4,208 |
+| net | 4,209 |
 | org | 2,832 |
 | de | 2,701 |
 
@@ -10808,6 +10808,7 @@ Here's a list of public Fediverse services.
 | `deepthought.social` | No |
 | `deepthunder.co.uk` | Yes |
 | `deepweb.eu` | No |
+| `deepwoodsocial.net` | No |
 | `deepzero.net` | No |
 | `deerfieldmartc.com` | No |
 | `deerofnara.net` | Yes |
@@ -54046,7 +54047,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,522 |
-| Normal | 38,475 |
+| Normal | 38,476 |
 
 
 </details>
