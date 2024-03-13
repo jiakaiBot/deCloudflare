@@ -33792,6 +33792,7 @@ Here's a list of public Fediverse services.
 | `norrland.xyz` | No |
 | `norse.social` | No |
 | `nortel.cloud` | Yes |
+| `north.tube` | No |
 | `northbaypython.org` | No |
 | `northbound.online` | No |
 | `northeast.one` | No |
@@ -38880,7 +38881,6 @@ Here's a list of public Fediverse services.
 | `radicalnetworks.org` | No |
 | `radicalpolitics.org` | No |
 | `radicalsocial.work` | Yes |
-| `radicalthoughts.xyz` | No |
 | `radicalzz.blog` | No |
 | `radicalzz.network` | No |
 | `radicchio.town` | No |
