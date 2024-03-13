@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,645 |
 | social | 4,855 |
-| net | 4,209 |
+| net | 4,210 |
 | org | 2,832 |
 | de | 2,701 |
 
@@ -2221,7 +2221,6 @@ Here's a list of public Fediverse services.
 | `amichan.de` | No |
 | `amicidelbaretto.org` | Yes |
 | `amie.moe` | Yes |
-| `amie.zone` | No |
 | `amiel.net.br` | No |
 | `amiensweb.fr` | No |
 | `amifsud.fr` | No |
@@ -51379,6 +51378,7 @@ Here's a list of public Fediverse services.
 | `weblibre.org` | No |
 | `weblic.co.jp` | No |
 | `webm.ink` | No |
+| `webmadman.net` | No |
 | `webmages.com` | No |
 | `webmapping.social` | No |
 | `webmdma.live` | No |
@@ -53254,6 +53254,7 @@ Here's a list of public Fediverse services.
 | `youdieifyou.work` | No |
 | `youdofoo.com` | No |
 | `youfoh.xyz` | No |
+| `yougottagethighlike.me` | Yes |
 | `youhavewrites.social` | No |
 | `youhoo.fr` | No |
 | `youjo.love` | No |
@@ -54052,7 +54053,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,525 |
+| Cloudflare | 15,526 |
 | Normal | 38,479 |
 
 
