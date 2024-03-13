@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,644 |
+| com | 8,645 |
 | social | 4,855 |
 | net | 4,209 |
 | org | 2,832 |
@@ -1508,6 +1508,7 @@ Here's a list of public Fediverse services.
 | `aguiarvieira.pt` | No |
 | `aguilera.soy` | No |
 | `agundy.com` | Yes |
+| `agurav.xyz` | Yes |
 | `agut.cat` | Yes |
 | `agwa.name` | No |
 | `ahabitual.dev` | No |
@@ -2014,6 +2015,7 @@ Here's a list of public Fediverse services.
 | `alonely.space` | Yes |
 | `aloneroid.one` | No |
 | `alongtheray.social` | Yes |
+| `alorenzi.eu` | Yes |
 | `aloysius.best` | No |
 | `alpa.social` | No |
 | `alpaca.dad` | No |
@@ -2219,6 +2221,7 @@ Here's a list of public Fediverse services.
 | `amichan.de` | No |
 | `amicidelbaretto.org` | Yes |
 | `amie.moe` | Yes |
+| `amie.zone` | No |
 | `amiel.net.br` | No |
 | `amiensweb.fr` | No |
 | `amifsud.fr` | No |
@@ -7302,6 +7305,7 @@ Here's a list of public Fediverse services.
 | `cc.chat` | Yes |
 | `cc2.at` | No |
 | `cc38.cc` | No |
+| `cc6.co.uk` | No |
 | `ccaa.info` | Yes |
 | `ccc-ffm.space` | No |
 | `cccccmake.de` | No |
@@ -10249,6 +10253,7 @@ Here's a list of public Fediverse services.
 | `danilax86.space` | No |
 | `danirod.es` | No |
 | `danis.one` | Yes |
+| `danishgoldfish.com` | No |
 | `danitheskunk.com` | No |
 | `danj.ca` | No |
 | `danjiadi.com` | Yes |
@@ -17282,7 +17287,7 @@ Here's a list of public Fediverse services.
 | `geekzweb.com` | Yes |
 | `geese.lol` | Yes |
 | `geese.party` | Yes |
-| `geese.social` | No |
+| `geese.social` | Yes |
 | `geesl.in` | No |
 | `geewiz.dev` | No |
 | `gef.ink` | No |
@@ -32795,6 +32800,7 @@ Here's a list of public Fediverse services.
 | `nesohub.org` | No |
 | `ness.ml` | No |
 | `nessel.cloud` | No |
+| `nestbox.club` | No |
 | `nestegg.net` | No |
 | `nesu.me` | Yes |
 | `nesven.eu` | No |
@@ -54046,8 +54052,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,522 |
-| Normal | 38,476 |
+| Cloudflare | 15,525 |
+| Normal | 38,479 |
 
 
 </details>
