@@ -24,6 +24,7 @@ And hey, if you are network administrator do [block Cloudflare](../block_cloudfl
 
 | Type | Value | Note |
 | --- | --- | --- |
-| DNS-over-HTTPS | `https://dns.crimeflare.eu.org:5443/dns-query` | ![](../../image/dnsset-doh.jpg)<br>`curl -v --doh-url https://dns.crimeflare.eu.org:5443/dns-query https://www.youtube.com/robots.txt` |
+| DNS-over-HTTPS(DoH) | `https://dns.crimeflare.eu.org:5443/dns-query` | ![](../../image/dnsset-doh.jpg)<br>`curl -v --doh-url https://dns.crimeflare.eu.org:5443/dns-query https://www.youtube.com/robots.txt` |
+| DNS-over-TLS(DoT) | `dns.crimeflare.eu.org` (TCP 853) | ![](../../image/dnsset-dot.jpg) |
 | DNSCrypt | `65.21.252.201:5353`<br>Public key: `4c2180637316a2e36654cb9ce53915147cf824fed6b3cfcb83a39b7a036172c3`<br>Provider name: `2.dnscrypt-cert.crimeflare.decloudflare.dns`<br>DNS Stamp:<br>`sdns://AQMAAAAAAAAAEjY1LjIxLjI1Mi4yMDE6NTM1MyBMIYBjcxai42ZUy5zlORUUfPgk_tazz8uDo5t6A2FywysyLmRuc2NyeXB0LWNlcnQuY3JpbWVmbGFyZS5kZWNsb3VkZmxhcmUuZG5z` |
-| ~~DNS (UDP/TCP)~~ | `Discontinued` `53/udp 53/tcp` | TCP is rate-limited softly.<br>Port 53 is [unencypted DNS](https://en.wikipedia.org/wiki/Domain_Name_System).<br>You should use encrypted protocol mentioned above if you can. |
+| ~~DNS (UDP/TCP)~~ | `53/udp 53/tcp`<br>_Discontinued to promote encryption_ | TCP is rate-limited softly.<br>Port 53 is [unencypted DNS](https://en.wikipedia.org/wiki/Domain_Name_System).<br>You should use encrypted protocol mentioned above if you can. |
