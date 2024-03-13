@@ -144,6 +144,7 @@ Here's a list of breached sites.
 | CivilOnline (Civil Online) | 7,830,195 | No |
 | ClashOfKings (Clash of Kings) | 1,604,957 | No |
 | ClearVoiceSurveys (ClearVoice Surveys) | 15,074,786 | No |
+| ClickASnap | 3,262,980 | Yes |
 | ClixSense | 2,424,784 | Yes |
 | CloudPets | 583,503 | No |
 | ClubPenguinRewritten (Club Penguin Rewritten (January 2018)) | 1,688,176 | Yes |
@@ -740,10 +741,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 425 | 4,709,515,282 |
+| Cloudflare | 426 | 4,712,778,262 |
 | Normal | 294 | 4,451,791,273 |
 
 
 
-### 59.1% of breached sites (pwned sites) are using Cloudflare.
+### 59.2% of breached sites (pwned sites) are using Cloudflare.
 ### 51.4% of leaked accounts are on Cloudflare sites.
