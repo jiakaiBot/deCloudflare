@@ -15816,6 +15816,7 @@ Here's a list of public Fediverse services.
 | `forgforgf.org` | No |
 | `forgi.social` | Yes |
 | `forgor.club` | Yes |
+| `forgottentea.xyz` | No |
 | `foritso.com` | Yes |
 | `fork.sh` | No |
 | `forkd.net` | No |
@@ -54063,7 +54064,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,533 |
-| Normal | 38,481 |
+| Normal | 38,482 |
 
 
 </details>
