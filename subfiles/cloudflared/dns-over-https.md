@@ -127,7 +127,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | furrydns.de | No |
 | gac.edu | No |
 | geshido.ru | No |
-| gmserv.cc | Yes |
 | guard.io | Yes |
 | hahnjo.de | No |
 | he.net | No |
@@ -262,7 +261,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sarilouis.com | No |
 | scarx.net | Yes |
 | schlagheck.berlin | Yes |
-| scottdylewski.com | No |
 | scuola.org | No |
 | seby.io | Yes |
 | serdcebolit.ru | No |
@@ -297,7 +295,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | thebuckners.org | No |
 | tiar.app | No |
 | tiarap.org | Yes |
-| timmes.nl | No |
 | tls-data.de | No |
 | tooli.ca | Yes |
 | trust404.win | Yes |
@@ -316,7 +313,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wahr.top | Yes |
 | waifu.cz | Yes |
 | wang.art | Yes |
-| wargan.io | No |
 | wikimedia-dns.org | No |
 | yandex.net | Yes |
 | yumenashyi.com | Yes |
@@ -327,8 +323,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 168 |
-| Normal | 140 |
+| Cloudflare | 167 |
+| Normal | 137 |
 
 
-### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
