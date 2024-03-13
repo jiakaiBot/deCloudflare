@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare CORS issues](https://github.com/ubiquity/pay.ubq.fi/issues/200)
 - [Deprecation notice for roughtime.cloudflare.com:2002](https://github.com/prysmaticlabs/prysm/issues/13731)
 - [ExecutionContext type missing abort method](https://github.com/honojs/hono/issues/2341)
 - [The error was: expected /etc/letsencrypt/live/npm-2/cert.pem to be a symlink](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3624)
