@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,646 |
+| com | 8,647 |
 | social | 4,855 |
-| net | 4,210 |
+| net | 4,211 |
 | org | 2,832 |
 | de | 2,701 |
 
@@ -7127,6 +7127,7 @@ Here's a list of public Fediverse services.
 | `cast.garden` | No |
 | `castelia.cafe` | No |
 | `castelodelego.org` | No |
+| `castelrosso.net` | No |
 | `castilla.social` | No |
 | `castironguy.ca` | No |
 | `castlebrickbuilding.com` | Yes |
@@ -29883,6 +29884,7 @@ Here's a list of public Fediverse services.
 | `microscopic.network` | No |
 | `microscopium.de` | No |
 | `microsocial.club` | Yes |
+| `microsoft.com` | Yes |
 | `microsoftsource.social` | No |
 | `microswit.ch` | Yes |
 | `microwaved.club` | No |
@@ -44613,6 +44615,7 @@ Here's a list of public Fediverse services.
 | `starry.ml` | No |
 | `starrycocoon.ml` | No |
 | `stars.ne.jp` | No |
+| `starset.fans` | Yes |
 | `starshard.studio` | No |
 | `starshines.xyz` | Yes |
 | `starship.coffee` | No |
@@ -54055,8 +54058,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,530 |
-| Normal | 38,477 |
+| Cloudflare | 15,532 |
+| Normal | 38,478 |
 
 
 </details>
