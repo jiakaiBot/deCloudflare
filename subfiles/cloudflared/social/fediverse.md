@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,647 |
+| com | 8,648 |
 | social | 4,855 |
 | net | 4,211 |
 | org | 2,832 |
-| de | 2,702 |
+| de | 2,703 |
 
 
 - Mastodon, Pleroma, etc
@@ -6029,6 +6029,7 @@ Here's a list of public Fediverse services.
 | `bovine.tv` | Yes |
 | `bow.st` | No |
 | `bowblog.com` | No |
+| `bowbow148park.com` | No |
 | `bowden.social` | No |
 | `bowefrankema.nl` | Yes |
 | `bowlafterbowl.com` | No |
@@ -24464,7 +24465,7 @@ Here's a list of public Fediverse services.
 | `knotenpunkt-alpen.de` | Yes |
 | `knotes.club` | No |
 | `knots.today` | No |
-| `knotted.pet` | No |
+| `knotted.pet` | Yes |
 | `knotteye.cc` | No |
 | `knottybeast.com` | No |
 | `knottywolf.sexy` | No |
@@ -29339,6 +29340,7 @@ Here's a list of public Fediverse services.
 | `mef.gg` | Yes |
 | `mefi.social` | No |
 | `meg.li` | No |
+| `mega-stoffel.de` | No |
 | `mega7.cloud` | No |
 | `megacorp.life` | No |
 | `megadon.net` | No |
@@ -51468,7 +51470,7 @@ Here's a list of public Fediverse services.
 | `weheart.games` | No |
 | `weho.st` | No |
 | `wehost.lgbt` | No |
-| `weibo.run` | Yes |
+| `weibo.run` | No |
 | `weide.social` | No |
 | `weilnboeck.social` | No |
 | `weinbergwandern.at` | No |
@@ -54061,7 +54063,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,533 |
-| Normal | 38,479 |
+| Normal | 38,481 |
 
 
 </details>
