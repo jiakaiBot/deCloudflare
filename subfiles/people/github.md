@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: No application encryption key has been specified.](https://github.com/freescout-helpdesk/freescout/issues/3873)
 - [CloudFlare Issues with Custom Pages previews between 2024-03-12 and 2024-03-13](https://github.com/SecOpsNews/news/issues/25949)
 - [Cloudflare CORS issues](https://github.com/ubiquity/pay.ubq.fi/issues/200)
 - [Deprecation notice for roughtime.cloudflare.com:2002](https://github.com/prysmaticlabs/prysm/issues/13731)
