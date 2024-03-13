@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,645 |
+| com | 8,646 |
 | social | 4,855 |
 | net | 4,210 |
 | org | 2,832 |
@@ -50666,6 +50666,7 @@ Here's a list of public Fediverse services.
 | `vivatucson.net` | No |
 | `vive.im` | No |
 | `vivere.uno` | Yes |
+| `viverse.com` | Yes |
 | `vivi.moe` | Yes |
 | `vivianmaier.club` | No |
 | `vivid-rabbit.com` | No |
@@ -54053,7 +54054,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,527 |
+| Cloudflare | 15,528 |
 | Normal | 38,478 |
 
 
