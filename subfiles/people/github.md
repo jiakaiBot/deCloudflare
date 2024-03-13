@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Getting 404 while using Toaster](https://github.com/kbrgl/svelte-french-toast/issues/67)
 - [Prisma.Decimal is missing methods in Cloudflare environment](https://github.com/prisma/prisma/issues/23480)
 - [D1 DateTime type does not work](https://github.com/prisma/prisma/issues/23479)
 - [Error: No application encryption key has been specified.](https://github.com/freescout-helpdesk/freescout/issues/3873)
