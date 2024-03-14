@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,649 |
+| com | 8,650 |
 | social | 4,855 |
 | net | 4,210 |
 | org | 2,832 |
@@ -3895,6 +3895,7 @@ Here's a list of public Fediverse services.
 | `ayarika.com` | Yes |
 | `ayatovr.com` | No |
 | `ayatovr.dev` | Yes |
+| `ayatovr.jp` | No |
 | `ayco.io` | No |
 | `ayden.life` | Yes |
 | `ayeri.de` | No |
@@ -39472,6 +39473,7 @@ Here's a list of public Fediverse services.
 | `recurse.social` | No |
 | `recursed.net` | No |
 | `recursivegarden.com` | No |
+| `recusant.app` | Yes |
 | `recycledspace.com` | No |
 | `red-eye.monster` | No |
 | `red-lang.org` | Yes |
@@ -49314,6 +49316,7 @@ Here's a list of public Fediverse services.
 | `u8.is` | No |
 | `ua-fediland.de` | No |
 | `uaatwar.com` | Yes |
+| `uactivitypub.com` | Yes |
 | `ualberta.ca` | Yes |
 | `uasa.io` | No |
 | `ub32.org` | Yes |
@@ -54066,8 +54069,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,533 |
-| Normal | 38,485 |
+| Cloudflare | 15,535 |
+| Normal | 38,486 |
 
 
 </details>
