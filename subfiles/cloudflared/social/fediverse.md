@@ -23686,6 +23686,7 @@ Here's a list of public Fediverse services.
 | `kavkaza.ru` | No |
 | `kavlak.uk` | Yes |
 | `kawa-kun.com` | Yes |
+| `kawaii.blue` | Yes |
 | `kawaii.dev` | No |
 | `kawaii.gg` | No |
 | `kawaii.social` | Yes |
@@ -54073,7 +54074,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,540 |
+| Cloudflare | 15,541 |
 | Normal | 38,485 |
 
 
