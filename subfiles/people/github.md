@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Problems activating Telegram modules](https://github.com/freescout-helpdesk/freescout/issues/3875)
 - [SmartThings could not validate the webhook URL.](https://github.com/home-assistant/core/issues/113396)
 - [Getting 404 while using Toaster](https://github.com/kbrgl/svelte-french-toast/issues/67)
 - [Prisma.Decimal is missing methods in Cloudflare environment](https://github.com/prisma/prisma/issues/23480)
