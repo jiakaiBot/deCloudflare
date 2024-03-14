@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,855 |
 | net | 4,211 |
 | org | 2,832 |
-| de | 2,704 |
+| de | 2,705 |
 
 
 - Mastodon, Pleroma, etc
@@ -326,6 +326,7 @@ Here's a list of public Fediverse services.
 | `1blu.de` | No |
 | `1codim.ru` | No |
 | `1d4.us` | Yes |
+| `1d6.lol` | Yes |
 | `1dot0.io` | No |
 | `1e400.net` | Yes |
 | `1e41.com` | Yes |
@@ -24383,6 +24384,7 @@ Here's a list of public Fediverse services.
 | `klaus-meyer.net` | No |
 | `klausgesprochen.de` | No |
 | `klausurenphase.de` | No |
+| `klava.wiki` | No |
 | `klazema.net` | No |
 | `klee-wife.moe` | No |
 | `klein.is` | No |
@@ -36874,6 +36876,7 @@ Here's a list of public Fediverse services.
 | `pinet.vn` | Yes |
 | `pinetree.ink` | No |
 | `pinewoodroad.net` | No |
+| `ping.de` | No |
 | `ping.moi` | No |
 | `pingbase.net` | No |
 | `pingo-computer.de` | No |
@@ -54074,8 +54077,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,541 |
-| Normal | 38,485 |
+| Cloudflare | 15,542 |
+| Normal | 38,487 |
 
 
 </details>
