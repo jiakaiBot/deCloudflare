@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [can't sign in with github or auth token](https://github.com/warpdotdev/Warp/issues/4560)
 - [Cloudflare Block for Incoming Webhooks - Edge Functions](https://github.com/supabase/supabase-js/issues/987)
 - [Cloudflare Block for Incoming Webhooks - Edge Functions](https://github.com/supabase/postgrest-js/issues/526)
 - [Problems activating Telegram modules](https://github.com/freescout-helpdesk/freescout/issues/3875)
