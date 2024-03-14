@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,650 |
+| com | 8,651 |
 | social | 4,855 |
 | net | 4,211 |
 | org | 2,832 |
@@ -44448,7 +44448,7 @@ Here's a list of public Fediverse services.
 | `squid.kids` | No |
 | `squiddev.cc` | Yes |
 | `squidnet.net` | No |
-| `squig.link` | No |
+| `squig.link` | Yes |
 | `squiggly.club` | No |
 | `squiggysholler.party` | No |
 | `squirefamily.uk` | No |
@@ -45701,7 +45701,7 @@ Here's a list of public Fediverse services.
 | `sysadmin.quest` | Yes |
 | `sysadmin.run` | Yes |
 | `sysadmins.zone` | Yes |
-| `sysadmon.de` | No |
+| `sysadmon.de` | Yes |
 | `sysartist.com` | Yes |
 | `sysblip.com` | No |
 | `sysblog.at` | No |
@@ -49337,6 +49337,7 @@ Here's a list of public Fediverse services.
 | `ubnt-intrepid.nagoya` | No |
 | `ubos.net` | No |
 | `ubuntu-paris.org` | No |
+| `ubuntu-server.com` | No |
 | `ubuntu.buzz` | No |
 | `ubuntu.social` | No |
 | `ubuntuireland.com` | No |
@@ -54072,8 +54073,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,538 |
-| Normal | 38,486 |
+| Cloudflare | 15,540 |
+| Normal | 38,485 |
 
 
 </details>
