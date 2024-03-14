@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SmartThings could not validate the webhook URL.](https://github.com/home-assistant/core/issues/113396)
 - [Getting 404 while using Toaster](https://github.com/kbrgl/svelte-french-toast/issues/67)
 - [Prisma.Decimal is missing methods in Cloudflare environment](https://github.com/prisma/prisma/issues/23480)
 - [D1 DateTime type does not work](https://github.com/prisma/prisma/issues/23479)
