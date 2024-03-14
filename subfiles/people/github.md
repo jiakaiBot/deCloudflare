@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Block for Incoming Webhooks - Edge Functions](https://github.com/supabase/postgrest-js/issues/526)
 - [Problems activating Telegram modules](https://github.com/freescout-helpdesk/freescout/issues/3875)
 - [SmartThings could not validate the webhook URL.](https://github.com/home-assistant/core/issues/113396)
 - [Getting 404 while using Toaster](https://github.com/kbrgl/svelte-french-toast/issues/67)
