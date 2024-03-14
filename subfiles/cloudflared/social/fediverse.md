@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,651 |
+| com | 8,652 |
 | social | 4,855 |
-| net | 4,211 |
+| net | 4,212 |
 | org | 2,832 |
 | de | 2,705 |
 
@@ -25458,6 +25458,7 @@ Here's a list of public Fediverse services.
 | `lapo.it` | No |
 | `lapp-social.com` | No |
 | `laprest.cat` | No |
+| `laptopmotherboard.net` | No |
 | `lapuacase.info` | Yes |
 | `lapuas.xyz` | No |
 | `lapuertaescrita.com` | No |
@@ -27179,6 +27180,7 @@ Here's a list of public Fediverse services.
 | `lucaire.ovh` | No |
 | `lucamatei.com` | Yes |
 | `lucas-radke.de` | No |
+| `lucas.inf.br` | No |
 | `lucas.monster` | No |
 | `lucasjanin.com` | No |
 | `lucaslower.com` | No |
@@ -37620,6 +37622,7 @@ Here's a list of public Fediverse services.
 | `poppingboxes.org` | No |
 | `poppo-ya.com` | Yes |
 | `popps.org` | No |
+| `poppuna.xyz` | Yes |
 | `popradio.club` | No |
 | `popspicswords.uk` | No |
 | `popula.social` | No |
@@ -40612,6 +40615,7 @@ Here's a list of public Fediverse services.
 | `rplatonov.ru` | No |
 | `rpnation.com` | Yes |
 | `rpontual.com` | Yes |
+| `rps.moe` | Yes |
 | `rps.social` | Yes |
 | `rpstr.com` | No |
 | `rpsychologist.com` | Yes |
@@ -41970,6 +41974,7 @@ Here's a list of public Fediverse services.
 | `secluded.site` | No |
 | `seclusionis.me` | No |
 | `secnd.me` | No |
+| `secondchancecomuworld.site` | No |
 | `secondjarl.com` | Yes |
 | `secondpartysoftware.com` | No |
 | `secondrunnings.me` | No |
@@ -46875,6 +46880,7 @@ Here's a list of public Fediverse services.
 | `theboss.tech` | No |
 | `theboxcollective.org` | No |
 | `thebrainbin.org` | No |
+| `thebraindumpblog.com` | No |
 | `thebrave1.com` | No |
 | `thebristol.social` | Yes |
 | `thebronzechapter.org` | No |
@@ -54077,8 +54083,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,542 |
-| Normal | 38,487 |
+| Cloudflare | 15,544 |
+| Normal | 38,491 |
 
 
 </details>
