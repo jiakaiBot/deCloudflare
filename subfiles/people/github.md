@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Crash on build](https://github.com/coopercodes/sveltekitAuthJS/issues/1)
 - [Script Threw Exception - error](https://github.com/zizifn/edgetunnel/issues/278)
 - [can't sign in with github or auth token](https://github.com/warpdotdev/Warp/issues/4560)
 - [Cloudflare Block for Incoming Webhooks - Edge Functions](https://github.com/supabase/supabase-js/issues/987)
