@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,652 |
+| com | 8,653 |
 | social | 4,855 |
 | net | 4,213 |
 | org | 2,832 |
@@ -29288,7 +29288,7 @@ Here's a list of public Fediverse services.
 | `mediacast.ca` | No |
 | `mediadiversified.org` | No |
 | `mediadon.jp` | No |
-| `mediaformat.org` | No |
+| `mediaformat.org` | Yes |
 | `mediajunkie.com` | No |
 | `median.moe` | No |
 | `mediaoffice-zimmer.de` | No |
@@ -45711,6 +45711,7 @@ Here's a list of public Fediverse services.
 | `sysad.ninja` | No |
 | `sysadmin.quest` | Yes |
 | `sysadmin.run` | Yes |
+| `sysadmindork.com` | No |
 | `sysadmins.zone` | Yes |
 | `sysadmon.de` | Yes |
 | `sysartist.com` | Yes |
@@ -54085,7 +54086,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,546 |
+| Cloudflare | 15,547 |
 | Normal | 38,491 |
 
 
