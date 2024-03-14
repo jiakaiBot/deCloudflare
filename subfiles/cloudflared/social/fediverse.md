@@ -20008,6 +20008,7 @@ Here's a list of public Fediverse services.
 | `holmmade.cafe` | No |
 | `holmosapien.com` | No |
 | `holnburger.social` | No |
+| `holocaust.tatar` | No |
 | `holocaustdeprogrammingcourse.com` | No |
 | `holomaplefeline.net` | No |
 | `holomisskey.net` | No |
@@ -30860,7 +30861,7 @@ Here's a list of public Fediverse services.
 | `monkeystew.social` | No |
 | `monkeysthumb.co.uk` | Yes |
 | `monks.city` | Yes |
-| `monlycee.net` | No |
+| `monlycee.net` | Yes |
 | `monmusu.me` | No |
 | `monny.cloud` | No |
 | `mono.cafe` | Yes |
@@ -45354,7 +45355,7 @@ Here's a list of public Fediverse services.
 | `supercool.fun` | No |
 | `superdark.social` | Yes |
 | `superduper.space` | No |
-| `superextragood.com` | No |
+| `superextragood.com` | Yes |
 | `superflue.no` | No |
 | `superfun.club` | Yes |
 | `supergood.social` | No |
@@ -54071,8 +54072,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,536 |
-| Normal | 38,487 |
+| Cloudflare | 15,538 |
+| Normal | 38,486 |
 
 
 </details>
