@@ -223,7 +223,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pathofgrace.com | No |
 | paulo.nom.za | Yes |
 | paxavemedia.com | Yes |
-| pernika.net | Yes |
 | persiannit.net | Yes |
 | pietjacobs.be | No |
 | pleumkungz.com | Yes |
@@ -318,8 +317,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 163 |
+| Cloudflare | 162 |
 | Normal | 136 |
 
 
-### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
