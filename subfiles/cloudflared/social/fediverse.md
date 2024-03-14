@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,650 |
 | social | 4,855 |
-| net | 4,210 |
+| net | 4,211 |
 | org | 2,832 |
 | de | 2,704 |
 
@@ -12410,7 +12410,7 @@ Here's a list of public Fediverse services.
 | `dsoc.io` | No |
 | `dsocialize.net` | Yes |
 | `dson.cloud` | Yes |
-| `dsrev.me` | Yes |
+| `dsrev.me` | No |
 | `dssc.io` | Yes |
 | `dssr.ch` | No |
 | `dsss.space` | No |
@@ -46035,6 +46035,7 @@ Here's a list of public Fediverse services.
 | `tangoit.net` | No |
 | `tangorangers.com` | Yes |
 | `tangoz.de` | No |
+| `tani-exe.net` | Yes |
 | `taniho.net` | No |
 | `tanjapetri.de` | No |
 | `tanjapetri.net` | No |
@@ -54071,7 +54072,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,536 |
-| Normal | 38,486 |
+| Normal | 38,487 |
 
 
 </details>
