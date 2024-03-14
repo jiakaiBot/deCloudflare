@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,652 |
 | social | 4,855 |
-| net | 4,212 |
+| net | 4,213 |
 | org | 2,832 |
 | de | 2,705 |
 
@@ -41543,6 +41543,7 @@ Here's a list of public Fediverse services.
 | `schaertl.me` | No |
 | `schaffenburg.org` | No |
 | `schafscheiss.com` | No |
+| `schafweide.net` | Yes |
 | `schafweide.org` | No |
 | `schalanda.name` | No |
 | `schalke.social` | No |
@@ -54084,7 +54085,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,545 |
+| Cloudflare | 15,546 |
 | Normal | 38,491 |
 
 
