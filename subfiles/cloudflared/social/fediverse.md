@@ -5398,6 +5398,7 @@ Here's a list of public Fediverse services.
 | `blahaj.ovh` | Yes |
 | `blahaj.photo` | Yes |
 | `blahaj.pics` | No |
+| `blahaj.pl` | No |
 | `blahaj.pw` | Yes |
 | `blahaj.social` | Yes |
 | `blahaj.solutions` | No |
@@ -54066,7 +54067,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,533 |
-| Normal | 38,484 |
+| Normal | 38,485 |
 
 
 </details>
