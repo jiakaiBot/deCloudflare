@@ -15,7 +15,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | --- | --- |
 | 00dani.me | No |
 | 2kil.com | No |
-| 354688.xyz | Yes |
 | 360.cn | No |
 | 4-the.win | Yes |
 | 52306.org | Yes |
@@ -37,7 +36,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | albony.xyz | Yes |
 | alekberg.net | No |
 | alidns.com | No |
-| allain.com.br | Yes |
 | amlegion.org | No |
 | andrewnw.xyz | Yes |
 | anudeep.me | Yes |
@@ -67,7 +65,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cgnat.net | No |
 | chadeyron.fr | Yes |
 | chenu.ch | No |
-| chillstice.com | Yes |
 | chungocoai.name.vn | No |
 | cira.ca | Yes |
 | circl.lu | No |
@@ -132,7 +129,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | he.net | No |
 | henek.ovh | Yes |
 | hostme.co.il | Yes |
-| hugo0.moe | Yes |
 | hujiayucc.cn | No |
 | huque.com | No |
 | huseynov.work | Yes |
@@ -191,7 +187,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meganerd.nl | No |
 | mestdag.fr | No |
 | midping.ir | No |
-| mikrotikrumahan.my.id | No |
 | moderateinfra.net | No |
 | modr.club | Yes |
 | moesite.top | Yes |
@@ -323,8 +318,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 167 |
-| Normal | 137 |
+| Cloudflare | 163 |
+| Normal | 136 |
 
 
-### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
