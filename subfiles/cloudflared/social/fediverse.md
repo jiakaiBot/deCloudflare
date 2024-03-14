@@ -10220,6 +10220,7 @@ Here's a list of public Fediverse services.
 | `daneknecht.com` | Yes |
 | `daners.info` | No |
 | `danfoster.me` | No |
+| `danger.blue` | No |
 | `dangerousminds.net` | Yes |
 | `dangeroutside.com` | No |
 | `dangilbert.eu` | Yes |
@@ -41264,7 +41265,7 @@ Here's a list of public Fediverse services.
 | `sanin.link` | Yes |
 | `saniwwar-touken.net` | No |
 | `sanjuanislands.social` | No |
-| `sanjuans.life` | No |
+| `sanjuans.life` | Yes |
 | `sankaku.io` | No |
 | `sankara.me` | Yes |
 | `sanlive.com` | No |
@@ -54069,7 +54070,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,535 |
+| Cloudflare | 15,536 |
 | Normal | 38,486 |
 
 
