@@ -2166,6 +2166,7 @@ Here's a list of public Fediverse services.
 | `amaurot.city` | Yes |
 | `amaury-db.fr` | Yes |
 | `amauryjoly.fr` | Yes |
+| `amausaan.tokyo` | No |
 | `amayado.cloud` | Yes |
 | `amazedkoumei.com` | No |
 | `amazingcto.social` | No |
@@ -16627,7 +16628,7 @@ Here's a list of public Fediverse services.
 | `funkyfish.cool` | Yes |
 | `funkymonkey.org` | No |
 | `funkypenguin.co.nz` | Yes |
-| `funny.cl` | No |
+| `funny.cl` | Yes |
 | `funnygirl.wtf` | No |
 | `funnylookinhat.com` | Yes |
 | `funnymonkey.com` | No |
@@ -54100,7 +54101,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,559 |
+| Cloudflare | 15,560 |
 | Normal | 38,493 |
 
 
