@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error installing Hono from npm](https://github.com/stackblitz/webcontainer-core/issues/1383)
 - [Crash on build](https://github.com/coopercodes/sveltekitAuthJS/issues/1)
 - [Script Threw Exception - error](https://github.com/zizifn/edgetunnel/issues/278)
 - [can't sign in with github or auth token](https://github.com/warpdotdev/Warp/issues/4560)
