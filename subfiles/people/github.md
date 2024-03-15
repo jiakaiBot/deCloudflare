@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Solve captcha loop](https://github.com/KotatsuApp/kotatsu-parsers/issues/633)
 - [Email Browser notification not working for more than one user](https://github.com/freescout-helpdesk/freescout/issues/3880)
 - [Using API with cloudflare url?](https://github.com/comfyanonymous/ComfyUI/issues/3046)
 - [Latest Demyx version does not create SSL certificate on subdomains](https://github.com/demyxsh/demyx/issues/36)
