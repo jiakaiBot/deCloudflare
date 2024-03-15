@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Latest Demyx version does not create SSL certificate on subdomains](https://github.com/demyxsh/demyx/issues/36)
 - [Error installing Hono from npm](https://github.com/stackblitz/webcontainer-core/issues/1383)
 - [Crash on build](https://github.com/coopercodes/sveltekitAuthJS/issues/1)
 - [Script Threw Exception - error](https://github.com/zizifn/edgetunnel/issues/278)
