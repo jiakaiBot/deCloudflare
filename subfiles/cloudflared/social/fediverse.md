@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,657 |
+| com | 8,658 |
 | social | 4,857 |
 | net | 4,215 |
 | org | 2,833 |
@@ -4645,6 +4645,7 @@ Here's a list of public Fediverse services.
 | `belew.me` | No |
 | `belfry.rip` | No |
 | `belgadon.be` | No |
+| `belginux.com` | Yes |
 | `belgiumsquashcakesforpandas.xyz` | No |
 | `belgraver.info` | No |
 | `belgraver.org` | No |
@@ -54098,7 +54099,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,559 |
+| Cloudflare | 15,560 |
 | Normal | 38,491 |
 
 
