@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,658 |
 | social | 4,857 |
 | net | 4,215 |
-| org | 2,833 |
+| org | 2,834 |
 | de | 2,706 |
 
 
@@ -5470,6 +5470,7 @@ Here's a list of public Fediverse services.
 | `blender3darchitect.com` | No |
 | `blendernation.com` | Yes |
 | `blep.cz` | No |
+| `blep.org` | No |
 | `blessedgeeks.com` | No |
 | `blessedgeeks.jp` | No |
 | `blessedgeeks.org` | No |
@@ -23314,7 +23315,7 @@ Here's a list of public Fediverse services.
 | `k7mc.xyz` | No |
 | `k85.de` | No |
 | `k8s.social` | No |
-| `k9.wtf` | Yes |
+| `k9.wtf` | No |
 | `k9max.de` | Yes |
 | `ka0.co` | No |
 | `kaa.bz` | No |
@@ -54099,8 +54100,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,560 |
-| Normal | 38,491 |
+| Cloudflare | 15,559 |
+| Normal | 38,493 |
 
 
 </details>
