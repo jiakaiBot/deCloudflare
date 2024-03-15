@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-03-15: [Issues with WHOIS on Cloudflare Radar](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q84xjzx6xgf6)
 - 2024-03-14: [Some Googlebot requests are not identified as verified bot](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8gnkdc8n5g8s)
 - 2024-03-13: [Issues with Custom Pages previews between 2024-03-12 and 2024-03-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pnpq1bzgff3f)
 - 2024-03-12: [Issues with Network Error Logging](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/krhz4gm55zmz)
