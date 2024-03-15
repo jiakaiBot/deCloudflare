@@ -174,7 +174,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | loony-tech.de | Yes |
 | ltse.cloud | No |
 | lupine.solutions | Yes |
-| lvolland.fr | Yes |
 | m-it.ro | No |
 | mandre.dev | No |
 | marto.si | No |
@@ -317,8 +316,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 162 |
+| Cloudflare | 161 |
 | Normal | 136 |
 
 
-### 54.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
