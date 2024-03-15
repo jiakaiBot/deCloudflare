@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,655 |
+| com | 8,653 |
 | social | 4,856 |
 | net | 4,213 |
 | org | 2,833 |
@@ -18124,7 +18124,6 @@ Here's a list of public Fediverse services.
 | `gosocial.au` | Yes |
 | `gosocial.click` | Yes |
 | `gossler.family` | No |
-| `gostomski.co.uk` | No |
 | `gosuslugi.social` | Yes |
 | `got-tty.org` | No |
 | `gotanno.love` | No |
@@ -31860,7 +31859,6 @@ Here's a list of public Fediverse services.
 | `mybluehost.me` | Yes |
 | `mycard.moe` | Yes |
 | `mycat.cn` | No |
-| `mycelial.nexus` | No |
 | `mycelium.garden` | No |
 | `mycircle.events` | Yes |
 | `mycloud.site` | Yes |
@@ -34612,7 +34610,7 @@ Here's a list of public Fediverse services.
 | `oflosky.com` | Yes |
 | `ofm.bar` | No |
 | `ofmd.social` | No |
-| `ofplayers.net` | No |
+| `ofplayers.net` | Yes |
 | `ofraglapis.net` | No |
 | `oft.social` | Yes |
 | `ofthe.top` | No |
@@ -35617,7 +35615,6 @@ Here's a list of public Fediverse services.
 | `overlappingmagisteria.org` | No |
 | `overminddl1.com` | No |
 | `override.social` | Yes |
-| `overthegame.it` | No |
 | `overthinking.club` | No |
 | `overwatch-japan.net` | No |
 | `overwatch.town` | No |
@@ -35704,7 +35701,6 @@ Here's a list of public Fediverse services.
 | `oyler.social` | No |
 | `oysta.au` | No |
 | `oyster.red` | Yes |
-| `oyundijital.com` | Yes |
 | `oz.hn` | No |
 | `ozar.dev` | No |
 | `ozbustard.social` | No |
@@ -46424,7 +46420,6 @@ Here's a list of public Fediverse services.
 | `tecnfy.com` | No |
 | `tecnocracia.com.co` | Yes |
 | `tecnologiageek.com` | No |
-| `tecnoriflessioni.com` | No |
 | `ted.social` | No |
 | `tedandrachel.com` | No |
 | `tedcarstensen.social` | Yes |
@@ -54092,7 +54087,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,552 |
-| Normal | 38,491 |
+| Normal | 38,486 |
 
 
 </details>
