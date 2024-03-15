@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,655 |
-| social | 4,856 |
-| net | 4,213 |
+| com | 8,657 |
+| social | 4,857 |
+| net | 4,215 |
 | org | 2,833 |
 | de | 2,706 |
 
@@ -13321,6 +13321,7 @@ Here's a list of public Fediverse services.
 | `elturistacosmico.com` | No |
 | `elvandalinq.com` | No |
 | `elven.pw` | No |
+| `elvery.net` | Yes |
 | `elves.forsale` | No |
 | `elves.icu` | No |
 | `elvibro.com` | No |
@@ -16510,6 +16511,7 @@ Here's a list of public Fediverse services.
 | `ftso.net` | No |
 | `ftt.gmbh` | No |
 | `fu-jp.net` | No |
+| `fub.pub` | No |
 | `fuba.dev` | Yes |
 | `fuc3.com` | No |
 | `fuchicolove.com` | No |
@@ -26576,6 +26578,7 @@ Here's a list of public Fediverse services.
 | `listerdale.it` | No |
 | `listgrokker.com` | No |
 | `listner.cloud` | No |
+| `listodon.com` | Yes |
 | `lit.monster` | Yes |
 | `litchan.com` | No |
 | `litehell.info` | Yes |
@@ -33726,7 +33729,7 @@ Here's a list of public Fediverse services.
 | `nonserious.in` | No |
 | `nonsocialand.space` | No |
 | `nontongp.live` | No |
-| `nontongp.lol` | No |
+| `nontongp.lol` | Yes |
 | `nontongp.tv` | Yes |
 | `nonzero.social` | No |
 | `noob.party` | No |
@@ -36223,6 +36226,7 @@ Here's a list of public Fediverse services.
 | `pcworms.ir` | No |
 | `pdbq.us` | No |
 | `pdgn.co` | Yes |
+| `pdp7.net` | No |
 | `pdp8.info` | No |
 | `pdx.land` | Yes |
 | `pdx.place` | No |
@@ -47574,6 +47578,7 @@ Here's a list of public Fediverse services.
 | `thul.io` | No |
 | `thumped.com` | Yes |
 | `thumpr.social` | No |
+| `thundercleess.com` | No |
 | `thunderirc.net` | No |
 | `thunderkeys.net` | No |
 | `thunkdeep.com` | No |
@@ -53179,6 +53184,7 @@ Here's a list of public Fediverse services.
 | `yihao.moe` | Yes |
 | `yikes.dog` | Yes |
 | `yiny.org` | No |
+| `yinyang.social` | Yes |
 | `yinzer.city` | No |
 | `yip.computer` | No |
 | `yip.fm` | Yes |
@@ -54092,8 +54098,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,555 |
-| Normal | 38,489 |
+| Cloudflare | 15,559 |
+| Normal | 38,491 |
 
 
 </details>
