@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Email Browser notification not working for more than one user](https://github.com/freescout-helpdesk/freescout/issues/3880)
+- [Using API with cloudflare url?](https://github.com/comfyanonymous/ComfyUI/issues/3046)
 - [Latest Demyx version does not create SSL certificate on subdomains](https://github.com/demyxsh/demyx/issues/36)
 - [Error installing Hono from npm](https://github.com/stackblitz/webcontainer-core/issues/1383)
 - [Crash on build](https://github.com/coopercodes/sveltekitAuthJS/issues/1)
