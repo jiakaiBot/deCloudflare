@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,658 |
 | social | 4,857 |
-| net | 4,215 |
+| net | 4,216 |
 | org | 2,834 |
 | de | 2,706 |
 
@@ -8373,6 +8373,7 @@ Here's a list of public Fediverse services.
 | `clown.center` | No |
 | `clown.garden` | No |
 | `clown.social` | No |
+| `clown.university` | No |
 | `clowncar.computer` | No |
 | `clowneggs.social` | No |
 | `clownhouse.io` | Yes |
@@ -10492,6 +10493,7 @@ Here's a list of public Fediverse services.
 | `datawizards.net` | Yes |
 | `datazone.social` | No |
 | `datboi.network` | No |
+| `datema.net` | Yes |
 | `datendusche.uk` | Yes |
 | `datengrab.online` | No |
 | `datengraben.com` | No |
@@ -11289,7 +11291,7 @@ Here's a list of public Fediverse services.
 | `dfsek.com` | Yes |
 | `dftba.club` | Yes |
 | `dftba.xyz` | Yes |
-| `dfw2600.net` | Yes |
+| `dfw2600.net` | No |
 | `dfxn.org` | No |
 | `dg74.pro` | No |
 | `dgc.social` | No |
@@ -54102,7 +54104,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,560 |
-| Normal | 38,493 |
+| Normal | 38,495 |
 
 
 </details>
