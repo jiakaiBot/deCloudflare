@@ -148,7 +148,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jstockley.com | Yes |
 | jundev.org | No |
 | justincounts.com | No |
-| k-likhachev.ru | No |
 | karl.one | No |
 | kekv.fun | Yes |
 | kernel-error.de | No |
@@ -316,7 +315,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 161 |
-| Normal | 135 |
+| Normal | 134 |
 
 
-### 54.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
