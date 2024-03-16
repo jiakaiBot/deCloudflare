@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,411 |
+| com | 8,412 |
 | social | 4,847 |
 | net | 4,157 |
 | org | 2,773 |
@@ -23847,6 +23847,7 @@ Here's a list of public Fediverse services.
 | `kiko.casa` | Yes |
 | `kikoune.fr` | No |
 | `kikrr.social` | No |
+| `kikuri.moe` | Yes |
 | `kikuzuki.org` | No |
 | `kila.rocks` | No |
 | `kilinbox.cc` | Yes |
@@ -24397,7 +24398,7 @@ Here's a list of public Fediverse services.
 | `kono.sh` | Yes |
 | `konosuke.jp` | No |
 | `konpeki.icu` | Yes |
-| `konradlemanski.dev` | Yes |
+| `konradlemanski.dev` | No |
 | `konradrundfunk.me` | No |
 | `konservgeek.se` | No |
 | `konsolenknecht.de` | No |
@@ -25780,6 +25781,7 @@ Here's a list of public Fediverse services.
 | `letna.dev` | No |
 | `letoine.fr` | No |
 | `letootprimai.re` | No |
+| `letovostudent.ru` | Yes |
 | `letsalllovela.in` | Yes |
 | `letsdecentralize.org` | No |
 | `letsrulethe.world` | No |
@@ -38288,6 +38290,7 @@ Here's a list of public Fediverse services.
 | `quirijngb.com` | No |
 | `quiros.cat` | Yes |
 | `quit.im` | No |
+| `quitaxd.online` | No |
 | `quite.exposed` | Yes |
 | `quite.social` | No |
 | `quiteabsurd.net` | No |
@@ -43298,6 +43301,7 @@ Here's a list of public Fediverse services.
 | `sockermunk.se` | No |
 | `socks.town` | No |
 | `sockspls.social` | No |
+| `socl.au` | Yes |
 | `socl.bz` | No |
 | `socl.cloud` | No |
 | `socl.sbs` | Yes |
@@ -46535,6 +46539,7 @@ Here's a list of public Fediverse services.
 | `theicon.stream` | No |
 | `theidlestate.com` | Yes |
 | `theilluminatinglens.com` | Yes |
+| `theindiebasement.com` | No |
 | `theindiestone.com` | Yes |
 | `theinternet.lol` | No |
 | `theinternet.social` | No |
@@ -53485,8 +53490,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,362 |
-| Normal | 38,075 |
+| Cloudflare | 15,364 |
+| Normal | 38,078 |
 
 
 </details>
