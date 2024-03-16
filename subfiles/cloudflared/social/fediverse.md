@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,659 |
+| com | 8,660 |
 | social | 4,857 |
 | net | 4,216 |
 | org | 2,834 |
@@ -2418,6 +2418,7 @@ Here's a list of public Fediverse services.
 | `andrewcantino.com` | No |
 | `andrewfeeney.me` | No |
 | `andrewleahey.com` | No |
+| `andrewmelder.com` | No |
 | `andrewmichaud.com` | No |
 | `andrewnoonan.xyz` | No |
 | `andrewpelletier.me` | No |
@@ -4492,6 +4493,7 @@ Here's a list of public Fediverse services.
 | `beach.city` | No |
 | `beachcom.org` | No |
 | `beagle.casa` | Yes |
+| `beagle.quest` | No |
 | `beah.jp` | No |
 | `beals.rocks` | No |
 | `beamtenmikado.de` | No |
@@ -24860,6 +24862,7 @@ Here's a list of public Fediverse services.
 | `kratochvil.eu` | Yes |
 | `kraud.social` | No |
 | `krauser.org` | No |
+| `kraut.press` | No |
 | `kraut.social` | Yes |
 | `kraut.zone` | Yes |
 | `krazy.party` | No |
@@ -27994,6 +27997,7 @@ Here's a list of public Fediverse services.
 | `mannennet.eu` | No |
 | `mannheim.social` | No |
 | `manninet.de` | No |
+| `manofaction.xyz` | No |
 | `manohitotoki.com` | Yes |
 | `manonenthijsopreis.nl` | No |
 | `manowar.social` | No |
@@ -34871,6 +34875,7 @@ Here's a list of public Fediverse services.
 | `omimi.live` | No |
 | `omisosiru.net` | No |
 | `omjha.com` | Yes |
+| `omni.ms` | Yes |
 | `omniatv.com` | Yes |
 | `omnific.one` | No |
 | `omnify.social` | No |
@@ -54106,8 +54111,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,564 |
-| Normal | 38,494 |
+| Cloudflare | 15,565 |
+| Normal | 38,498 |
 
 
 </details>
