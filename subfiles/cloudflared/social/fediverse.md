@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,660 |
 | social | 4,857 |
 | net | 4,216 |
-| org | 2,834 |
+| org | 2,835 |
 | de | 2,706 |
 
 
@@ -14889,6 +14889,7 @@ Here's a list of public Fediverse services.
 | `fedispace.ml` | No |
 | `fedisphere.net` | No |
 | `fedispot.com` | No |
+| `fedist.me` | Yes |
 | `fedistat.com` | No |
 | `fedit.io` | No |
 | `fedit.pl` | Yes |
@@ -25434,6 +25435,7 @@ Here's a list of public Fediverse services.
 | `landscapes.social` | No |
 | `landshut.pics` | No |
 | `landshut.social` | No |
+| `landstuhl.info` | No |
 | `lanebuleuse.fr` | No |
 | `laneros.social` | Yes |
 | `lang-mfr.de` | No |
@@ -27791,6 +27793,7 @@ Here's a list of public Fediverse services.
 | `maintedor.com` | Yes |
 | `mainz.social` | No |
 | `maiome.xyz` | No |
+| `maiorana.info` | No |
 | `maique.eu` | No |
 | `maique.lol` | No |
 | `maique.xyz` | No |
@@ -43140,7 +43143,7 @@ Here's a list of public Fediverse services.
 | `skibidi.social` | Yes |
 | `skid.do` | Yes |
 | `skiddle.id` | Yes |
-| `skiddle.network` | No |
+| `skiddle.network` | Yes |
 | `skilledtests.com` | No |
 | `skillissue.dk` | No |
 | `skilltoy.site` | No |
@@ -51174,6 +51177,7 @@ Here's a list of public Fediverse services.
 | `walkingmountains.fr` | No |
 | `walkmad.online` | No |
 | `walkman.social` | No |
+| `walksydney.org` | No |
 | `wallace.fm` | No |
 | `walledculture.org` | No |
 | `wallera.computer` | No |
@@ -54111,8 +54115,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,565 |
-| Normal | 38,498 |
+| Cloudflare | 15,567 |
+| Normal | 38,500 |
 
 
 </details>
