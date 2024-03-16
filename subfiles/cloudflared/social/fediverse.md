@@ -16165,6 +16165,7 @@ Here's a list of public Fediverse services.
 | `freelands.cloud` | Yes |
 | `freelearner.social` | No |
 | `freelestine.com` | Yes |
+| `freelynetwork.jp` | Yes |
 | `freemaker.it` | No |
 | `freemancw.com` | No |
 | `freemasonry.social` | No |
@@ -53780,7 +53781,7 @@ Here's a list of public Fediverse services.
 | `zeruhur.icu` | No |
 | `zerw.xyz` | Yes |
 | `zesh.club` | No |
-| `zestysoft.com` | No |
+| `zestysoft.com` | Yes |
 | `zesummen.online` | No |
 | `zetamc.net` | No |
 | `zetamu.club` | No |
@@ -54105,8 +54106,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,562 |
-| Normal | 38,495 |
+| Cloudflare | 15,564 |
+| Normal | 38,494 |
 
 
 </details>
