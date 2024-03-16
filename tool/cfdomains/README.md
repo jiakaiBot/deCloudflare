@@ -151,6 +151,6 @@ Top 10
 | _5341a5d1_ | 34,608 |
 | _a0711e32_ | 34,607 |
 
-- Total Score: 1,642,807
+- Total Score: 1,645,392
 
 ![](../../image/what_are_you_hunting_cloudflare.png)
