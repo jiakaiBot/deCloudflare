@@ -145,7 +145,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jmarkin.ru | Yes |
 | jnraptor.net | Yes |
 | josephyap.me | Yes |
-| jstockley.com | Yes |
 | jundev.org | No |
 | justincounts.com | No |
 | karl.one | No |
@@ -171,14 +170,12 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | londonwebnerd.cloud | Yes |
 | lonet.org | Yes |
 | loony-tech.de | Yes |
-| ltse.cloud | No |
 | lupine.solutions | Yes |
 | m-it.ro | No |
 | mandre.dev | No |
 | marto.si | No |
 | masters-of-cloud.de | No |
 | mattiafenzi.uk | Yes |
-| max.net.id | Yes |
 | maxfong.cc | Yes |
 | meddy94.de | No |
 | meexx.de | No |
@@ -314,8 +311,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 161 |
-| Normal | 134 |
+| Cloudflare | 159 |
+| Normal | 133 |
 
 
-### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
