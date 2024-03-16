@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,658 |
+| com | 8,659 |
 | social | 4,857 |
 | net | 4,216 |
 | org | 2,834 |
@@ -33486,6 +33486,7 @@ Here's a list of public Fediverse services.
 | `nmsl.website` | Yes |
 | `nmwhite.com` | No |
 | `nna774.net` | Yes |
+| `nnamees.ch` | No |
 | `nnct-mstdn.site` | No |
 | `nnct18j.com` | Yes |
 | `nneko.me` | No |
@@ -35570,7 +35571,7 @@ Here's a list of public Fediverse services.
 | `outdoors.social` | No |
 | `outer.camp` | No |
 | `outer.tf` | No |
-| `outergod.art` | No |
+| `outergod.art` | Yes |
 | `outerheaven.cc` | No |
 | `outerheaven.club` | No |
 | `outerkosm.us` | No |
@@ -38632,7 +38633,7 @@ Here's a list of public Fediverse services.
 | `queer-lexikon.net` | No |
 | `queer.af` | No |
 | `queer.chat` | No |
-| `queer.cloud` | No |
+| `queer.cloud` | Yes |
 | `queer.computer` | No |
 | `queer.cool` | No |
 | `queer.dev` | No |
@@ -46872,6 +46873,7 @@ Here's a list of public Fediverse services.
 | `thebackupbox.net` | No |
 | `thebadgers.live` | No |
 | `thebag.social` | No |
+| `thebalanceoflight.com` | No |
 | `thebarrens.nu` | No |
 | `thebased.club` | Yes |
 | `thebeans.zip` | No |
@@ -54103,7 +54105,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,560 |
+| Cloudflare | 15,562 |
 | Normal | 38,495 |
 
 
