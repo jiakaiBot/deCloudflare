@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,411 |
+| com | 8,408 |
 | social | 4,847 |
 | net | 4,157 |
 | org | 2,773 |
@@ -805,7 +805,7 @@ Here's a list of public Fediverse services.
 | `84bami.net` | No |
 | `850mb.net` | Yes |
 | `8633.pm` | No |
-| `868.social` | Yes |
+| `868.social` | No |
 | `868center.space` | No |
 | `86thumbs.net` | No |
 | `876.ovh` | No |
@@ -8724,7 +8724,6 @@ Here's a list of public Fediverse services.
 | `computermuseum.social` | No |
 | `computernewb.com` | Yes |
 | `computerphile.social` | No |
-| `computersocial.club` | No |
 | `computerwerk.org` | No |
 | `computing.zone` | Yes |
 | `computingcache.com` | Yes |
@@ -17764,7 +17763,6 @@ Here's a list of public Fediverse services.
 | `godspelled.uk` | No |
 | `godzillasbigjeans.com` | Yes |
 | `goe.land` | No |
-| `goehler.digital` | No |
 | `goeppingen.social` | No |
 | `goes.social` | No |
 | `goethe12.de` | No |
@@ -17897,7 +17895,6 @@ Here's a list of public Fediverse services.
 | `gosocial.au` | Yes |
 | `gosocial.click` | Yes |
 | `gossler.family` | No |
-| `gostomski.co.uk` | No |
 | `gosuslugi.social` | Yes |
 | `got-tty.org` | No |
 | `gotanno.love` | No |
@@ -17922,7 +17919,6 @@ Here's a list of public Fediverse services.
 | `gotosocial.org` | Yes |
 | `gotosocial.social` | Yes |
 | `gotosolar.org` | No |
-| `gots9713.xyz` | No |
 | `gott.social` | Yes |
 | `gotterfunken.eu` | No |
 | `gottessoehne.de` | Yes |
@@ -31517,7 +31513,6 @@ Here's a list of public Fediverse services.
 | `mybluehost.me` | Yes |
 | `mycard.moe` | Yes |
 | `mycat.cn` | No |
-| `mycelial.nexus` | No |
 | `mycelium.garden` | No |
 | `mycircle.events` | Yes |
 | `mycloud.site` | Yes |
@@ -35227,7 +35222,6 @@ Here's a list of public Fediverse services.
 | `overlappingmagisteria.org` | No |
 | `overminddl1.com` | No |
 | `override.social` | Yes |
-| `overthegame.it` | No |
 | `overthinking.club` | No |
 | `overwatch-japan.net` | No |
 | `overwatch.town` | No |
@@ -35314,7 +35308,6 @@ Here's a list of public Fediverse services.
 | `oyler.social` | No |
 | `oysta.au` | No |
 | `oyster.red` | Yes |
-| `oyundijital.com` | Yes |
 | `oz.hn` | No |
 | `ozar.dev` | No |
 | `ozbustard.social` | No |
@@ -40086,7 +40079,6 @@ Here's a list of public Fediverse services.
 | `rosekey.social` | Yes |
 | `rosematcha.party` | Yes |
 | `rosemont.cloud` | No |
-| `rosenberg-watt.com` | No |
 | `rosenboom.name` | No |
 | `rosenha.in` | No |
 | `roseraie.me` | No |
@@ -45904,7 +45896,6 @@ Here's a list of public Fediverse services.
 | `tecnfy.com` | No |
 | `tecnocracia.com.co` | Yes |
 | `tecnologiageek.com` | No |
-| `tecnoriflessioni.com` | No |
 | `ted.social` | No |
 | `tedandrachel.com` | No |
 | `tedcarstensen.social` | Yes |
@@ -53485,10 +53476,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,363 |
-| Normal | 38,074 |
+| Cloudflare | 15,361 |
+| Normal | 38,067 |
 
 
 </details>
 
-### 28.7% of public Fediverse services are using Cloudflare.
+### 28.8% of public Fediverse services are using Cloudflare.
