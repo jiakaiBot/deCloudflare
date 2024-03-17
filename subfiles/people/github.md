@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't setup integration without clipper](https://github.com/Disane87/spoolman-homeassistant/issues/100)
+- [Docs: Combining Prisma & Redis](https://github.com/lucia-auth/lucia/issues/1494)
 - [Dependency Installation Failure on Vercel/Cloudflare Edge Runtime](https://github.com/neondatabase/serverless/issues/69)
 - [Feature Add parameter to CloudflareException to support resolve URL](https://github.com/Suwatte/Suwatte/issues/76)
 - [Application error: a client-side exception has occurred (see the browser console for more information).](https://github.com/netbirdio/netbird/issues/1721)
