@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,662 |
+| com | 8,665 |
 | social | 4,857 |
 | net | 4,219 |
 | org | 2,835 |
-| de | 2,706 |
+| de | 2,708 |
 
 
 - Mastodon, Pleroma, etc
@@ -11091,6 +11091,7 @@ Here's a list of public Fediverse services.
 | `dergrimm.net` | Yes |
 | `dergrisch.de` | No |
 | `derguhl.de` | No |
+| `dergz.com` | No |
 | `derhof.eu` | No |
 | `derickrethans.nl` | No |
 | `derlemue.com` | No |
@@ -21094,6 +21095,7 @@ Here's a list of public Fediverse services.
 | `imperialba.se` | No |
 | `impheim.com` | Yes |
 | `implausi.blog` | No |
+| `implausiblyaverage.online` | No |
 | `imposible.blog` | No |
 | `impossiblepeople.co.kr` | No |
 | `impostersyndrome.online` | No |
@@ -25258,6 +25260,7 @@ Here's a list of public Fediverse services.
 | `labmonkeys.space` | No |
 | `laboas.org` | No |
 | `laboccadellupo.it` | No |
+| `laboiteabriques.com` | No |
 | `labonneheure.ch` | No |
 | `laboratomium.de` | No |
 | `laborluzern.ch` | No |
@@ -26508,6 +26511,7 @@ Here's a list of public Fediverse services.
 | `linkybook.com` | No |
 | `linluwi.la` | No |
 | `lino.cooking` | Yes |
+| `linocordova.com` | No |
 | `linode.com` | Yes |
 | `linodians.net` | No |
 | `linss.com` | Yes |
@@ -26988,6 +26992,7 @@ Here's a list of public Fediverse services.
 | `loquat.social` | No |
 | `lor.sh` | Yes |
 | `loranger.xyz` | No |
+| `lorazepam.lol` | Yes |
 | `lord-mayo.uk` | Yes |
 | `lord.re` | No |
 | `lord.sh` | No |
@@ -27004,6 +27009,7 @@ Here's a list of public Fediverse services.
 | `lorenzana.engineer` | Yes |
 | `lorenzana.social` | No |
 | `lorenzi.one` | No |
+| `lorenzlm.de` | No |
 | `lorenzoancora.info` | Yes |
 | `loria.fr` | No |
 | `losangeles.social` | Yes |
@@ -47951,6 +47957,7 @@ Here's a list of public Fediverse services.
 | `toddpresta.com` | No |
 | `todesstern.eu` | No |
 | `todfox.net` | No |
+| `todfox.photos` | No |
 | `todfox.site` | No |
 | `todo.town` | No |
 | `todon.de` | No |
@@ -48381,6 +48388,7 @@ Here's a list of public Fediverse services.
 | `torvafirmus.com` | No |
 | `torxprojects.com` | No |
 | `toscer.me` | No |
+| `tosenberg.de` | No |
 | `toshipapi.tokyo` | No |
 | `tosk.in` | Yes |
 | `tot.yt` | Yes |
@@ -49936,6 +49944,7 @@ Here's a list of public Fediverse services.
 | `urban-radio.com` | No |
 | `urban-ride.ch` | No |
 | `urban.social` | No |
+| `urbancloud.cz` | Yes |
 | `urbandiscount.net` | No |
 | `urbaninversion.com` | Yes |
 | `urbanists.social` | Yes |
@@ -54128,8 +54137,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,573 |
-| Normal | 38,507 |
+| Cloudflare | 15,575 |
+| Normal | 38,514 |
 
 
 </details>
