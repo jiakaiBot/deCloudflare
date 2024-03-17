@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Feature Add parameter to CloudflareException to support resolve URL](https://github.com/Suwatte/Suwatte/issues/76)
 - [Application error: a client-side exception has occurred (see the browser console for more information).](https://github.com/netbirdio/netbird/issues/1721)
 - [Ticket viewing loading time issue](https://github.com/freescout-helpdesk/freescout/issues/3882)
 - [B.A.T.M.A.N broken on kernel 6.6](https://github.com/openwrt/openwrt/issues/14904)
