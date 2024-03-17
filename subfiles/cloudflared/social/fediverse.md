@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,665 |
+| com | 8,666 |
 | social | 4,857 |
 | net | 4,219 |
-| org | 2,835 |
+| org | 2,836 |
 | de | 2,708 |
 
 
@@ -19813,6 +19813,7 @@ Here's a list of public Fediverse services.
 | `hippidion.xyz` | No |
 | `hippo.ws` | No |
 | `hippyjim.uk` | No |
+| `hippyjo.com` | No |
 | `hips.social` | Yes |
 | `hipster.social` | No |
 | `hirad.it` | No |
@@ -46916,6 +46917,7 @@ Here's a list of public Fediverse services.
 | `thebingeful.com` | Yes |
 | `thebird.website` | No |
 | `thebitpros.com` | No |
+| `theblab.org` | No |
 | `theblackgates.com` | No |
 | `theblandshire.social` | No |
 | `theblinkcorporation.com` | Yes |
@@ -54138,7 +54140,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,575 |
-| Normal | 38,514 |
+| Normal | 38,516 |
 
 
 </details>
