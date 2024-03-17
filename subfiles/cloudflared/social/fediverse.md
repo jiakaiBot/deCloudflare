@@ -35821,6 +35821,7 @@ Here's a list of public Fediverse services.
 | `packetranger.com` | No |
 | `packetwarriors.net` | No |
 | `packitsolutions.net` | Yes |
+| `packman.me` | No |
 | `packmat.es` | No |
 | `packmates.org` | Yes |
 | `packopus.com` | Yes |
@@ -54141,7 +54142,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,577 |
-| Normal | 38,515 |
+| Normal | 38,516 |
 
 
 </details>
