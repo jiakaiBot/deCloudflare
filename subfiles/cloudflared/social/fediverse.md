@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,661 |
+| com | 8,662 |
 | social | 4,857 |
-| net | 4,218 |
+| net | 4,219 |
 | org | 2,835 |
 | de | 2,706 |
 
@@ -8074,6 +8074,7 @@ Here's a list of public Fediverse services.
 | `cincy.social` | No |
 | `cinematheque.social` | Yes |
 | `cinematheque.tube` | No |
+| `cinephile-social.me` | Yes |
 | `cinetique-asso.fr` | No |
 | `cinnamond.social` | No |
 | `cintaprogramming.com` | Yes |
@@ -8111,6 +8112,7 @@ Here's a list of public Fediverse services.
 | `cirrus-ss.dev` | No |
 | `cirrus.social` | Yes |
 | `cirrusseven.com` | Yes |
+| `cirtensis.eu` | No |
 | `cirtensis.net` | No |
 | `ciruxia.se` | No |
 | `cis-reunion.fr` | No |
@@ -9501,6 +9503,7 @@ Here's a list of public Fediverse services.
 | `crumplab.com` | No |
 | `crunchtunes.com` | Yes |
 | `crunchy.social` | Yes |
+| `crunchygrandmas.com` | No |
 | `crunchyroll.com` | Yes |
 | `crunchywatch.uk` | No |
 | `crunkt.com` | Yes |
@@ -11277,7 +11280,7 @@ Here's a list of public Fediverse services.
 | `dexogen.ru` | Yes |
 | `dexonline.ro` | No |
 | `dextender.com` | No |
-| `dexzone.es` | No |
+| `dexzone.es` | Yes |
 | `deyes.im` | No |
 | `dez.social` | No |
 | `dezern.at` | No |
@@ -14658,6 +14661,7 @@ Here's a list of public Fediverse services.
 | `feder8.ru` | No |
 | `federa.site` | No |
 | `federa.social` | No |
+| `federaatio.net` | No |
 | `federado.es` | No |
 | `federarks.xyz` | No |
 | `federatable.com` | Yes |
@@ -24443,7 +24447,7 @@ Here's a list of public Fediverse services.
 | `klog.tw` | Yes |
 | `klomp.de` | No |
 | `klosowicz.net` | No |
-| `kloud.social` | Yes |
+| `kloud.social` | No |
 | `kloudboy.xyz` | No |
 | `kltrtrgr.com` | No |
 | `klunscher.social` | No |
@@ -54124,8 +54128,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,572 |
-| Normal | 38,504 |
+| Cloudflare | 15,573 |
+| Normal | 38,507 |
 
 
 </details>
