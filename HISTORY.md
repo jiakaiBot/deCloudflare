@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-03-17: [Issues with Cloudflare's Pay-as-you-Go Plans](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y9tdkp6tb293)
 - 2024-03-15: [Increased HTTP 5xx Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/px7621gwpnxx)
 - 2024-03-15: [1.1.1.1 network issues via some transit providers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jm18xd7csqrc)
 - 2024-03-15: [Issues with WHOIS on Cloudflare Radar](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q84xjzx6xgf6)
