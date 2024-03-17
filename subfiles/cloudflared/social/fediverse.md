@@ -3361,6 +3361,7 @@ Here's a list of public Fediverse services.
 | `astatu.berlin` | No |
 | `astdn.tokyo` | No |
 | `asteinhaus.de` | No |
+| `astellas.blue` | No |
 | `astelpenkan.ml` | No |
 | `aster-bp.com` | No |
 | `asteringtech.com` | No |
@@ -53516,7 +53517,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,374 |
-| Normal | 38,093 |
+| Normal | 38,094 |
 
 
 </details>
