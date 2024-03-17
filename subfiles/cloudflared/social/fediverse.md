@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,412 |
 | social | 4,847 |
-| net | 4,158 |
+| net | 4,159 |
 | org | 2,773 |
 | de | 2,685 |
 
@@ -48680,6 +48680,7 @@ Here's a list of public Fediverse services.
 | `twtcomm.shop` | No |
 | `twtr.plus` | No |
 | `twtrbridge.de` | No |
+| `twtter.net` | No |
 | `twtxt.net` | Yes |
 | `twunk.io` | No |
 | `twunk.uk` | No |
@@ -53492,7 +53493,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,364 |
-| Normal | 38,079 |
+| Normal | 38,080 |
 
 
 </details>
