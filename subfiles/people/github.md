@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Dependency Installation Failure on Vercel/Cloudflare Edge Runtime](https://github.com/neondatabase/serverless/issues/69)
 - [Feature Add parameter to CloudflareException to support resolve URL](https://github.com/Suwatte/Suwatte/issues/76)
 - [Application error: a client-side exception has occurred (see the browser console for more information).](https://github.com/netbirdio/netbird/issues/1721)
 - [Ticket viewing loading time issue](https://github.com/freescout-helpdesk/freescout/issues/3882)
