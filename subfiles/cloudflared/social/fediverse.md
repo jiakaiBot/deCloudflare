@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,666 |
-| social | 4,857 |
+| social | 4,858 |
 | net | 4,219 |
 | org | 2,836 |
 | de | 2,708 |
@@ -43836,6 +43836,7 @@ Here's a list of public Fediverse services.
 | `soda.jp.eu.org` | No |
 | `sodacube.dev` | Yes |
 | `sodajerker.com` | Yes |
+| `soderlunds.blog` | Yes |
 | `soderstrom.social` | No |
 | `sodes.ro` | No |
 | `sodium.space` | Yes |
@@ -45004,7 +45005,7 @@ Here's a list of public Fediverse services.
 | `storyfae.blog` | No |
 | `storymin.es` | No |
 | `storynetworks.kr` | Yes |
-| `storyseedvault.com` | No |
+| `storyseedvault.com` | Yes |
 | `storyteller.social` | No |
 | `stout.life` | No |
 | `stowarzyszenieotwartejnauki.pl` | No |
@@ -50546,6 +50547,7 @@ Here's a list of public Fediverse services.
 | `vicia.net` | Yes |
 | `vicicode.com` | Yes |
 | `vickerson.me` | No |
+| `vicks.social` | Yes |
 | `victimcache.com` | Yes |
 | `victor.earth` | Yes |
 | `victor.skin` | No |
@@ -51508,6 +51510,7 @@ Here's a list of public Fediverse services.
 | `wedgi.us` | No |
 | `wedin.us` | Yes |
 | `wedistribute.org` | No |
+| `wedomad.science` | Yes |
 | `wee.press` | No |
 | `wee.st` | No |
 | `wee.tf` | No |
@@ -54141,8 +54144,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,577 |
-| Normal | 38,516 |
+| Cloudflare | 15,581 |
+| Normal | 38,515 |
 
 
 </details>
