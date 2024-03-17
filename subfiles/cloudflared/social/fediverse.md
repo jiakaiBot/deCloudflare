@@ -24376,6 +24376,7 @@ Here's a list of public Fediverse services.
 | `kjwill.tech` | Yes |
 | `kjwon15.net` | Yes |
 | `kk4lpi.com` | No |
+| `kk7.uk` | Yes |
 | `kkdev.org` | Yes |
 | `kkms.ga` | No |
 | `kkoyung.dev` | Yes |
@@ -54122,7 +54123,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,570 |
+| Cloudflare | 15,571 |
 | Normal | 38,504 |
 
 
