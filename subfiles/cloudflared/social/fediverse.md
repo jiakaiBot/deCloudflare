@@ -32235,6 +32235,7 @@ Here's a list of public Fediverse services.
 | `nakaymi.net` | Yes |
 | `nakayoshi.tk` | No |
 | `nakayuki.net` | Yes |
+| `naked.cash` | Yes |
 | `nakedsushi.org` | Yes |
 | `nakn.jp` | Yes |
 | `naknak.social` | No |
@@ -54123,7 +54124,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,571 |
+| Cloudflare | 15,572 |
 | Normal | 38,504 |
 
 
