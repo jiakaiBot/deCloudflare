@@ -102,7 +102,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | doh.lv | No |
 | doh.sb | Yes |
 | domyah.net | Yes |
-| dooks.uk | Yes |
 | dscloud.me | No |
 | dukun.de | No |
 | edgy-dns.com | No |
@@ -149,7 +148,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | karl.one | No |
 | kekv.fun | Yes |
 | kernel-error.de | No |
-| keskinnetwork.com | Yes |
 | ketan.dev | Yes |
 | konikoni428.com | Yes |
 | korzhyk.pp.ua | Yes |
@@ -310,8 +308,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 158 |
+| Cloudflare | 156 |
 | Normal | 133 |
 
 
-### 54.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54% of DNS-over-HTTPS (DoH) are using Cloudflare.
