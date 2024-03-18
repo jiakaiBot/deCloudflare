@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Performance issue in China](https://github.com/SecOpsNews/news/issues/26119)
 - [Can't setup integration without clipper](https://github.com/Disane87/spoolman-homeassistant/issues/100)
 - [Docs: Combining Prisma & Redis](https://github.com/lucia-auth/lucia/issues/1494)
 - [Dependency Installation Failure on Vercel/Cloudflare Edge Runtime](https://github.com/neondatabase/serverless/issues/69)
