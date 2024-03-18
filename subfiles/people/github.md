@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Consider migrating GBA build to a toolchain distribution other than devkitARM](https://github.com/pinobatch/240p-test-mini/issues/54)
 - [CloudFlare Performance issue in China](https://github.com/SecOpsNews/news/issues/26119)
 - [Can't setup integration without clipper](https://github.com/Disane87/spoolman-homeassistant/issues/100)
 - [Docs: Combining Prisma & Redis](https://github.com/lucia-auth/lucia/issues/1494)
