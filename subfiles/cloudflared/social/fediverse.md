@@ -5146,7 +5146,7 @@ Here's a list of public Fediverse services.
 | `birb.horse` | Yes |
 | `birb.site` | No |
 | `birb.social` | No |
-| `birb.space` | No |
+| `birb.space` | Yes |
 | `birb.stream` | No |
 | `birb.town` | No |
 | `birb.zone` | No |
@@ -42287,6 +42287,7 @@ Here's a list of public Fediverse services.
 | `serial.social` | No |
 | `serialexperiments.dev` | No |
 | `serialmay.link` | No |
+| `serialz.top` | No |
 | `serienfilmenews.de` | No |
 | `serinus.us` | No |
 | `seriousbusiness.international` | No |
@@ -54149,7 +54150,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,580 |
+| Cloudflare | 15,581 |
 | Normal | 38,521 |
 
 
