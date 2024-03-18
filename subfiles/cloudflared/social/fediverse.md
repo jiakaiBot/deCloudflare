@@ -6088,6 +6088,7 @@ Here's a list of public Fediverse services.
 | `br0ken.de` | No |
 | `braasch.social` | No |
 | `brabant.community` | No |
+| `bracamontesman.cloud` | No |
 | `braciakamraci.pl` | No |
 | `brack.io` | Yes |
 | `brackets-salad.com` | No |
@@ -8318,6 +8319,7 @@ Here's a list of public Fediverse services.
 | `cloud-foo.de` | No |
 | `cloud-libre.eu` | No |
 | `cloud-native.social` | No |
+| `cloud-social.xyz` | No |
 | `cloud18.xyz` | Yes |
 | `cloud56.me` | No |
 | `cloud68.co` | No |
@@ -53538,7 +53540,7 @@ Here's a list of public Fediverse services.
 | `yusaku.social` | No |
 | `yussuv.com` | Yes |
 | `yusuf.fyi` | No |
-| `yusufipek.me` | No |
+| `yusufipek.me` | Yes |
 | `yusuke.pub` | Yes |
 | `yusukebe.com` | Yes |
 | `yutacar.info` | No |
@@ -54152,8 +54154,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,581 |
-| Normal | 38,523 |
+| Cloudflare | 15,582 |
+| Normal | 38,524 |
 
 
 </details>
