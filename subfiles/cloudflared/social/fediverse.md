@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,668 |
+| com | 8,669 |
 | social | 4,860 |
 | net | 4,219 |
 | org | 2,837 |
@@ -48765,6 +48765,7 @@ Here's a list of public Fediverse services.
 | `tristansuper.com` | No |
 | `trisweb.com` | No |
 | `tritiumgg.tv` | Yes |
+| `tritonstation.com` | No |
 | `trivernis.dev` | Yes |
 | `trivia.to` | No |
 | `trivia.town` | No |
@@ -54166,7 +54167,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,589 |
-| Normal | 38,528 |
+| Normal | 38,529 |
 
 
 </details>
