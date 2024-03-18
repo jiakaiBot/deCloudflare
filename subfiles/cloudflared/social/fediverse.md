@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,667 |
+| com | 8,668 |
 | social | 4,860 |
 | net | 4,219 |
 | org | 2,837 |
@@ -1025,6 +1025,7 @@ Here's a list of public Fediverse services.
 | `abnormalfreq.com` | No |
 | `abnv.me` | Yes |
 | `abode.fyi` | Yes |
+| `abohiccups.com` | Yes |
 | `aboivin.com` | No |
 | `abolish.social` | No |
 | `abolition.online` | No |
@@ -20661,6 +20662,7 @@ Here's a list of public Fediverse services.
 | `ialys.net` | Yes |
 | `iam.mt` | Yes |
 | `iam.slg.br` | No |
+| `iamafard.ir` | Yes |
 | `iamalive.digital` | No |
 | `iamanerd.club` | Yes |
 | `iamastodon.gifu.jp` | No |
@@ -53984,6 +53986,7 @@ Here's a list of public Fediverse services.
 | `zomaareenfeestje.org` | No |
 | `zomaarwatdoen.nl` | No |
 | `zombi.es` | No |
+| `zombie.beauty` | No |
 | `zombie.social` | Yes |
 | `zombiecats.run` | No |
 | `zombielawng.nom.es` | No |
@@ -54162,8 +54165,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,587 |
-| Normal | 38,527 |
+| Cloudflare | 15,589 |
+| Normal | 38,528 |
 
 
 </details>
