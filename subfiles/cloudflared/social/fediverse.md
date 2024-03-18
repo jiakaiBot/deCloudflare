@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,667 |
-| social | 4,859 |
+| social | 4,860 |
 | net | 4,219 |
 | org | 2,836 |
 | de | 2,710 |
@@ -2939,6 +2939,7 @@ Here's a list of public Fediverse services.
 | `arcane.town` | Yes |
 | `arcaneassociation.network` | Yes |
 | `arcanelab.net` | Yes |
+| `arcanican.is` | No |
 | `arcarr.com` | No |
 | `arcatar.com` | Yes |
 | `arcepi.net` | No |
@@ -3690,6 +3691,7 @@ Here's a list of public Fediverse services.
 | `authorship.studio` | No |
 | `authprivsec.social` | No |
 | `authren.systems` | No |
+| `autism.social` | No |
 | `autism.zone` | No |
 | `autisme.social` | No |
 | `autismus-behandlungen.de` | No |
@@ -3821,7 +3823,7 @@ Here's a list of public Fediverse services.
 | `awesomebible.de` | Yes |
 | `awesomefriends.social` | No |
 | `awesomehouse.ca` | No |
-| `awesomein.space` | No |
+| `awesomein.space` | Yes |
 | `awful.buzz` | No |
 | `awful.club` | No |
 | `awful.computer` | No |
@@ -22644,6 +22646,7 @@ Here's a list of public Fediverse services.
 | `jimkapsalis.com` | No |
 | `jimkubicek.com` | No |
 | `jimlunsford.com` | No |
+| `jimmitchell.dev` | No |
 | `jimmitchell.org` | Yes |
 | `jimmitchell.xyz` | No |
 | `jimmitchellmedia.net` | Yes |
@@ -30827,6 +30830,7 @@ Here's a list of public Fediverse services.
 | `mokou.de` | No |
 | `mokum.icu` | No |
 | `mol.ink` | Yes |
+| `mol.lu` | Yes |
 | `molaguay.xyz` | No |
 | `moldyspam.com` | No |
 | `molina.jp` | Yes |
@@ -43708,7 +43712,7 @@ Here's a list of public Fediverse services.
 | `sociables.io` | No |
 | `social-me.online` | No |
 | `social-net.fr` | No |
-| `social-pflege.de` | No |
+| `social-pflege.de` | Yes |
 | `social-potsdam.space` | No |
 | `social-strike.net` | No |
 | `social-systems.space` | No |
@@ -45225,6 +45229,7 @@ Here's a list of public Fediverse services.
 | `subak.club` | No |
 | `subak.ovh` | No |
 | `subaud.io` | No |
+| `subcarrier.tv` | No |
 | `subcon.pub` | No |
 | `subculdon.com` | No |
 | `subculdon.jp` | No |
@@ -54154,8 +54159,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,582 |
-| Normal | 38,524 |
+| Cloudflare | 15,585 |
+| Normal | 38,526 |
 
 
 </details>
