@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,667 |
 | social | 4,860 |
 | net | 4,219 |
-| org | 2,836 |
+| org | 2,837 |
 | de | 2,710 |
 
 
@@ -18012,6 +18012,7 @@ Here's a list of public Fediverse services.
 | `godsibb.net` | No |
 | `godspeed.moe` | Yes |
 | `godspelled.uk` | No |
+| `godsright.org` | No |
 | `godzillasbigjeans.com` | Yes |
 | `goe.land` | No |
 | `goehler.digital` | No |
@@ -53171,6 +53172,7 @@ Here's a list of public Fediverse services.
 | `yeahnahcunt.club` | No |
 | `yeahnet.dev` | Yes |
 | `yearg.in` | No |
+| `yearning.gay` | No |
 | `yeatsj.com` | No |
 | `yee.camp` | No |
 | `yeeehaw.club` | Yes |
@@ -54160,7 +54162,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,585 |
-| Normal | 38,526 |
+| Normal | 38,528 |
 
 
 </details>
