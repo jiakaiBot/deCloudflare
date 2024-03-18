@@ -14,7 +14,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Provider | Cloudflared |
 | --- | --- |
 | 00dani.me | No |
-| 2kil.com | No |
 | 360.cn | No |
 | 4-the.win | Yes |
 | 52306.org | Yes |
@@ -177,7 +176,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meddy94.de | No |
 | meexx.de | No |
 | meganerd.nl | No |
-| mestdag.fr | No |
 | midping.ir | No |
 | moderateinfra.net | No |
 | modr.club | Yes |
@@ -221,7 +219,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pointless.chat | Yes |
 | pooblet.co.za | Yes |
 | pragmasec.nl | No |
-| privado.ovh | Yes |
 | puregeni.us | No |
 | qquack.org | Yes |
 | quad9.net | Yes |
@@ -308,8 +305,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 156 |
-| Normal | 133 |
+| Cloudflare | 155 |
+| Normal | 131 |
 
 
-### 54% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
