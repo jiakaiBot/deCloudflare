@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,859 |
 | net | 4,219 |
 | org | 2,836 |
-| de | 2,709 |
+| de | 2,710 |
 
 
 - Mastodon, Pleroma, etc
@@ -8589,6 +8589,7 @@ Here's a list of public Fediverse services.
 | `coffee-break.cc` | Yes |
 | `coffee.link` | Yes |
 | `coffeeandcode.com` | No |
+| `coffeeandtrains.de` | Yes |
 | `coffeebean.social` | No |
 | `coffeechat.lol` | No |
 | `coffeechat.social` | No |
@@ -23260,7 +23261,7 @@ Here's a list of public Fediverse services.
 | `justpassed.blue` | Yes |
 | `justpeace.social` | No |
 | `justporn.cc` | No |
-| `justpotato.net` | Yes |
+| `justpotato.net` | No |
 | `justsave.space` | No |
 | `justsayinnow.com` | No |
 | `justsome.photos` | Yes |
@@ -54152,7 +54153,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,581 |
-| Normal | 38,522 |
+| Normal | 38,523 |
 
 
 </details>
