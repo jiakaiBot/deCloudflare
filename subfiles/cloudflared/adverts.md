@@ -20,7 +20,7 @@ Here's the result.
 | [Annoyance](https://secure.fanboy.co.nz/fanboy-annoyance.txt) | 22,405 | 9,617 | 42.9% |
 | [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 59,615 | 11,907 | 20% |
 | [AdAway](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | 1,957 | 827 | 42.3% |
-| Total | 115,645 | 35,774 | 30.9% |
+| Total | 115,644 | 35,773 | 30.9% |
 
 
 ### 30.9% of adverts and trackers are using Cloudflare.
