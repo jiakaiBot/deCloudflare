@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [BTCPAY_ADDITIONAL_HOSTS redirects to main host](https://github.com/btcpayserver/btcpayserver-docker/issues/887)
 - [Consider migrating GBA build to a toolchain distribution other than devkitARM](https://github.com/pinobatch/240p-test-mini/issues/54)
 - [CloudFlare Performance issue in China](https://github.com/SecOpsNews/news/issues/26119)
 - [Can't setup integration without clipper](https://github.com/Disane87/spoolman-homeassistant/issues/100)
