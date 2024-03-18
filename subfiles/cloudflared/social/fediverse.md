@@ -30988,7 +30988,7 @@ Here's a list of public Fediverse services.
 | `moody.name` | No |
 | `moodywarlock.net` | No |
 | `moog.social` | No |
-| `moogle.place` | No |
+| `moogle.place` | Yes |
 | `moogle.social` | No |
 | `mooh.fr` | No |
 | `mooi.beauty` | No |
@@ -32813,6 +32813,7 @@ Here's a list of public Fediverse services.
 | `nerdiverset.no` | Yes |
 | `nerdjoy.social` | No |
 | `nerdjunk.de` | No |
+| `nerdl.ing` | Yes |
 | `nerdlings.club` | No |
 | `nerdlings.net` | Yes |
 | `nerdly.dev` | Yes |
@@ -54161,8 +54162,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,585 |
-| Normal | 38,528 |
+| Cloudflare | 15,587 |
+| Normal | 38,527 |
 
 
 </details>
