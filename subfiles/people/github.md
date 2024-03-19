@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Support passing proxy authentication to FlareSolverr](https://github.com/Prowlarr/Prowlarr/issues/2073)
 - [Togther 502 error should be retried](https://github.com/mlcommons/newhelm/issues/285)
 - [Details on setup](https://github.com/iainbullock/tesla-http-proxy-docker/issues/20)
 - [Chat.sendAndAwaitResponse() doesn't properly handle waiting room](https://github.com/realcoloride/node_characterai/issues/158)
