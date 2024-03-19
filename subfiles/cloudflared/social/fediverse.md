@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,669 |
-| social | 4,860 |
+| com | 8,670 |
+| social | 4,861 |
 | net | 4,220 |
 | org | 2,838 |
 | de | 2,710 |
@@ -460,6 +460,7 @@ Here's a list of public Fediverse services.
 | `2soc.net` | No |
 | `2tails2arms.tk` | No |
 | `2to2.xyz` | No |
+| `2tonwaffle.com` | No |
 | `2xbot.com` | No |
 | `2xx04.xyz` | No |
 | `3.nu` | No |
@@ -2844,6 +2845,7 @@ Here's a list of public Fediverse services.
 | `app-base.net` | No |
 | `appalachian.town` | No |
 | `appbucket.io` | No |
+| `appcentric.social` | No |
 | `appcivico.com` | Yes |
 | `appdate.lk` | Yes |
 | `appdevs.io` | No |
@@ -4509,6 +4511,7 @@ Here's a list of public Fediverse services.
 | `beanlog.xyz` | No |
 | `beanofficial.co` | No |
 | `beans.do` | Yes |
+| `beantown.space` | No |
 | `bear.community` | No |
 | `bearbooks.se` | No |
 | `beardbytes.life` | Yes |
@@ -36078,7 +36081,7 @@ Here's a list of public Fediverse services.
 | `parsec.social` | No |
 | `parsleague.jp` | Yes |
 | `parsonshosting.com` | Yes |
-| `parta.ge` | Yes |
+| `parta.ge` | No |
 | `partageflex.com` | No |
 | `partecipa.digital` | No |
 | `parti-science.africa` | No |
@@ -54169,8 +54172,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,589 |
-| Normal | 38,532 |
+| Cloudflare | 15,588 |
+| Normal | 38,536 |
 
 
 </details>
