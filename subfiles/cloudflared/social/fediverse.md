@@ -29969,7 +29969,7 @@ Here's a list of public Fediverse services.
 | `middleearth.social` | No |
 | `midgard.pm` | No |
 | `midgardian.org` | No |
-| `midgardmates.com` | No |
+| `midgardmates.com` | Yes |
 | `midline.pl` | No |
 | `midnight-cms.com` | No |
 | `midnight.dance` | No |
@@ -30397,6 +30397,7 @@ Here's a list of public Fediverse services.
 | `misskey.au` | No |
 | `misskey.beer` | No |
 | `misskey.blue` | Yes |
+| `misskey.cc` | Yes |
 | `misskey.cf` | Yes |
 | `misskey.city` | Yes |
 | `misskey.cloud` | Yes |
@@ -37047,6 +37048,7 @@ Here's a list of public Fediverse services.
 | `pitman.social` | No |
 | `pitt.live` | No |
 | `pitty.hu` | No |
+| `pitys.jp` | No |
 | `piupiupiu.com.br` | No |
 | `piusbird.space` | No |
 | `piverse.ch` | No |
@@ -54175,7 +54177,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,590 |
+| Cloudflare | 15,592 |
 | Normal | 38,537 |
 
 
