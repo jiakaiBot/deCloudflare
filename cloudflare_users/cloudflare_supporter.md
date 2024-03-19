@@ -1756,6 +1756,7 @@ Do not create new issue or we will close it as duplicate.
 | [BamniyaSurya@X](https://twitter.com/BamniyaSurya/status/1385453008721485824) | advertise |
 | [Ban51440516@X](https://twitter.com/Ban51440516/status/1390020968765001733) | advertise |
 | [BanakBuhuk87546@X](https://twitter.com/BanakBuhuk87546/status/1748385436836503587) | advertise |
+| [Bananonz_@X](https://twitter.com/Bananonz_/status/1768001150219894952) | advertise |
 | [BandellKhar@X](https://twitter.com/BandellKhar/status/1706451968313721074) | advertise |
 | [BandOne@X](https://twitter.com/BandOne/status/1393843656100958209) | advertise |
 | [BANDULA26426873@X](https://twitter.com/BANDULA26426873/status/1382360745992548354) | advertise |
@@ -5771,6 +5772,7 @@ Do not create new issue or we will close it as duplicate.
 | [iamsammysd@X](https://twitter.com/iamsammysd/status/1531972077925851136) | advertise |
 | [IamShams16@X](https://twitter.com/IamShams16/status/1493845525514309637) | advertise |
 | [iamsly25@X](https://twitter.com/iamsly25/status/1572087737716731904) | advertise |
+| [iamtouutae@X](https://twitter.com/iamtouutae/status/1767437164982538348) | advertise |
 | [iamzeroboy@X](https://twitter.com/iamzeroboy/status/1665759155486072832) | advertise |
 | [iam_bigzak@X](https://twitter.com/iam_bigzak/status/1533481514423533568) | advertise |
 | [Iam_Shelby07@X](https://twitter.com/Iam_Shelby07/status/1397996796887044096) | advertise |
@@ -6128,6 +6130,7 @@ Do not create new issue or we will close it as duplicate.
 | [jackck76316576@X](https://twitter.com/jackck76316576/status/1381264209636327426) | advertise |
 | [jackdan8@X](https://twitter.com/jackdan8/status/1497731130438606858) | advertise |
 | [jackdan341@X](https://twitter.com/jackdan341/status/1672814501119545346) | advertise |
+| [jackierbx@X](https://twitter.com/jackierbx/status/1769149581453897786) | advertise |
 | [Jackjac22577839@X](https://twitter.com/Jackjac22577839/status/1656127241498292225) | advertise |
 | [Jackjun53391478@X](https://twitter.com/Jackjun53391478/status/1399663365056655361) | advertise |
 | [jackk53102780@X](https://twitter.com/jackk53102780/status/1565194405090574338) | advertise |
@@ -7406,6 +7409,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kotresh_dm@X](https://twitter.com/Kotresh_dm/status/1518934578680844289) | advertise |
 | [koubkoub186@X](https://twitter.com/koubkoub186/status/1519898935422337024) | advertise |
 | [Kouga_@X](https://twitter.com/Kouga_/status/1456585431538036741) | advertise |
+| [Kou_rosh@X](https://twitter.com/Kou_rosh/status/1763841322543112577) | advertise |
 | [KoWine98649484@X](https://twitter.com/KoWine98649484/status/1393251277157527565) | advertise |
 | [KowshikChandan@X](https://twitter.com/KowshikChandan/status/1383742485051056132) | advertise |
 | [KoXtetPhyo1@X](https://twitter.com/KoXtetPhyo1/status/1399381665776955394) | advertise |
@@ -13164,6 +13168,7 @@ Do not create new issue or we will close it as duplicate.
 | [SolSquadZA@X](https://twitter.com/SolSquadZA/status/1581229224735965184) | advertise |
 | [solucionesdcmx@X](https://twitter.com/solucionesdcmx/status/1437832776573759492) | advertise |
 | [solusitugas_@X](https://twitter.com/solusitugas_/status/1391787503791656962) | advertise |
+| [Solynhoo@X](https://twitter.com/Solynhoo/status/1769840590395466221) | advertise |
 | [somaiehvahid@X](https://twitter.com/somaiehvahid/status/1389592978394603523) | advertise |
 | [Someone78471691@X](https://twitter.com/Someone78471691/status/1561895328793501698) | advertise |
 | [Somethingbluedw@X](https://twitter.com/Somethingbluedw/status/1665888998361841664) | advertise |
@@ -13207,6 +13212,7 @@ Do not create new issue or we will close it as duplicate.
 | [soulife883@X](https://twitter.com/soulife883/status/1618650120001839107) | advertise |
 | [soulmat12366294@X](https://twitter.com/soulmat12366294/status/1552314201783148544) | advertise |
 | [Soulrepaired123@X](https://twitter.com/Soulrepaired123/status/1689297232003014657) | advertise |
+| [soulusions@X](https://twitter.com/soulusions/status/1768649600968118657) | advertise |
 | [Soumalyaplayz@X](https://twitter.com/Soumalyaplayz/status/1495078297268473858) | advertise |
 | [Soumilsiwach1@X](https://twitter.com/Soumilsiwach1/status/1380401647990448130) | advertise |
 | [sound_boxxx@X](https://twitter.com/sound_boxxx/status/1411259984680210432) | moral (advertise) |
