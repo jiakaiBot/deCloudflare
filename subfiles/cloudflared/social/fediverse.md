@@ -1460,8 +1460,8 @@ Here's a list of public Fediverse services.
 | `afternoonrobot.co.uk` | No |
 | `afterpod.com` | No |
 | `afterspace.rocks` | No |
-| `afterway.ga` | Yes |
-| `afterway.pw` | Yes |
+| `afterway.ga` | No |
+| `afterway.pw` | No |
 | `afteryu.me` | Yes |
 | `afu.social` | No |
 | `afy.jp` | Yes |
@@ -12357,6 +12357,7 @@ Here's a list of public Fediverse services.
 | `droidbuilders.uk` | No |
 | `droitdebout.fr` | No |
 | `dromaeosaur.cloud` | No |
+| `dromeadhere.fr` | No |
 | `dromografos.news` | No |
 | `dromografos.report` | No |
 | `dronehost.space` | No |
@@ -31710,6 +31711,7 @@ Here's a list of public Fediverse services.
 | `mundy.info` | No |
 | `munesky.net` | Yes |
 | `muni.fi` | Yes |
+| `munir.tokyo` | Yes |
 | `munochi.moe` | Yes |
 | `munroe.ch` | Yes |
 | `munsell.io` | Yes |
@@ -54177,8 +54179,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,592 |
-| Normal | 38,537 |
+| Cloudflare | 15,591 |
+| Normal | 38,540 |
 
 
 </details>
