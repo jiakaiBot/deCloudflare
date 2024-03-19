@@ -225,7 +225,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rabot.fi | Yes |
 | ragnvindr.org | Yes |
 | ral9005.org | Yes |
-| rasp.tv | Yes |
 | restena.lu | No |
 | retakecs.com | Yes |
 | rethinkdns.com | Yes |
@@ -303,8 +302,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 154 |
+| Cloudflare | 153 |
 | Normal | 130 |
 
 
-### 54.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
