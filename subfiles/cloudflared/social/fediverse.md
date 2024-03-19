@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,670 |
-| social | 4,861 |
+| social | 4,862 |
 | net | 4,221 |
 | org | 2,838 |
 | de | 2,711 |
@@ -10574,7 +10574,7 @@ Here's a list of public Fediverse services.
 | `davidized.com` | Yes |
 | `davidized.social` | Yes |
 | `davidlamprea.com` | Yes |
-| `davidlandia.com` | No |
+| `davidlandia.com` | Yes |
 | `davidlane.io` | Yes |
 | `davidlibeau.fr` | No |
 | `davidlohner.de` | No |
@@ -34469,6 +34469,7 @@ Here's a list of public Fediverse services.
 | `objective.ninja` | No |
 | `objectnets.net` | No |
 | `objectopia.xyz` | No |
+| `objects.social` | No |
 | `objektiv2.net` | Yes |
 | `obkkszd.club` | Yes |
 | `obl.ong` | Yes |
@@ -54174,7 +54175,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,589 |
+| Cloudflare | 15,590 |
 | Normal | 38,537 |
 
 
