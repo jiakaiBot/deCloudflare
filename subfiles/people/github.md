@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ws doesn't work with sveltekit's adapter-cloudflare](https://github.com/websockets/ws/issues/2210)
 - [Can't run cloudflare example](https://github.com/justjake/quickjs-emscripten/issues/163)
 - [Browser, mail and mobile notifications not working.](https://github.com/freescout-helpdesk/freescout/issues/3888)
 - [Support passing proxy authentication to FlareSolverr](https://github.com/Prowlarr/Prowlarr/issues/2073)
