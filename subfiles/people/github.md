@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Togther 502 error should be retried](https://github.com/mlcommons/newhelm/issues/285)
 - [Details on setup](https://github.com/iainbullock/tesla-http-proxy-docker/issues/20)
 - [Chat.sendAndAwaitResponse() doesn't properly handle waiting room](https://github.com/realcoloride/node_characterai/issues/158)
 - [BTCPAY_ADDITIONAL_HOSTS redirects to main host](https://github.com/btcpayserver/btcpayserver-docker/issues/887)
