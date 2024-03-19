@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,669 |
 | social | 4,860 |
-| net | 4,219 |
-| org | 2,837 |
+| net | 4,220 |
+| org | 2,838 |
 | de | 2,710 |
 
 
@@ -14395,6 +14395,7 @@ Here's a list of public Fediverse services.
 | `falai.se` | No |
 | `falconia.club` | No |
 | `falconk.rocks` | No |
+| `falconry.party` | No |
 | `fale.io` | No |
 | `falk.cafe` | Yes |
 | `falk.us` | Yes |
@@ -27096,6 +27097,7 @@ Here's a list of public Fediverse services.
 | `louisderrac.com` | No |
 | `louisematic.site` | No |
 | `louisoft01.moe` | No |
+| `louisvilletech.org` | No |
 | `louiz.org` | No |
 | `louizo.com` | No |
 | `loulesko.com` | No |
@@ -40676,7 +40678,6 @@ Here's a list of public Fediverse services.
 | `rplatonov.ru` | No |
 | `rpnation.com` | Yes |
 | `rpontual.com` | Yes |
-| `rps.moe` | Yes |
 | `rps.social` | Yes |
 | `rpstr.com` | No |
 | `rpsychologist.com` | Yes |
@@ -51899,6 +51900,7 @@ Here's a list of public Fediverse services.
 | `wilcox.pub` | No |
 | `wildada.com` | No |
 | `wildarrow.ink` | Yes |
+| `wildarrow.net` | Yes |
 | `wildasoftware.pl` | No |
 | `wildcritters.org` | No |
 | `wilde.cloud` | No |
@@ -52136,6 +52138,7 @@ Here's a list of public Fediverse services.
 | `wizzzard.online` | No |
 | `wjboll.es` | No |
 | `wjbolles.com` | No |
+| `wjg.jp` | No |
 | `wjlafrance.net` | Yes |
 | `wjt.me.uk` | No |
 | `wjtje.dev` | Yes |
@@ -54167,7 +54170,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,589 |
-| Normal | 38,529 |
+| Normal | 38,532 |
 
 
 </details>
