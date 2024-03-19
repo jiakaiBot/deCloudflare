@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't run cloudflare example](https://github.com/justjake/quickjs-emscripten/issues/163)
+- [Browser, mail and mobile notifications not working.](https://github.com/freescout-helpdesk/freescout/issues/3888)
 - [Support passing proxy authentication to FlareSolverr](https://github.com/Prowlarr/Prowlarr/issues/2073)
 - [Togther 502 error should be retried](https://github.com/mlcommons/newhelm/issues/285)
 - [Details on setup](https://github.com/iainbullock/tesla-http-proxy-docker/issues/20)
