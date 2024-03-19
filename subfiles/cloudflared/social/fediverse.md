@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,670 |
+| com | 8,671 |
 | social | 4,862 |
 | net | 4,221 |
 | org | 2,838 |
@@ -37719,6 +37719,7 @@ Here's a list of public Fediverse services.
 | `poro.tokyo` | No |
 | `porpoise.social` | Yes |
 | `porsche.earth` | No |
+| `porschenotes.com` | No |
 | `port.mk` | Yes |
 | `port0.org` | Yes |
 | `port0.xyz` | No |
@@ -54178,7 +54179,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,592 |
-| Normal | 38,537 |
+| Normal | 38,538 |
 
 
 </details>
