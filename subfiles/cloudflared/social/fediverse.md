@@ -4885,7 +4885,6 @@ Here's a list of public Fediverse services.
 | `beule.be` | No |
 | `beutl.space` | Yes |
 | `beutner.de` | No |
-| `beutner.name` | No |
 | `bewater.social` | No |
 | `bewegung.jetzt` | No |
 | `bewegung.social` | No |
@@ -54179,7 +54178,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,592 |
-| Normal | 38,538 |
+| Normal | 38,537 |
 
 
 </details>
