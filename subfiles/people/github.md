@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Details on setup](https://github.com/iainbullock/tesla-http-proxy-docker/issues/20)
 - [Chat.sendAndAwaitResponse() doesn't properly handle waiting room](https://github.com/realcoloride/node_characterai/issues/158)
 - [BTCPAY_ADDITIONAL_HOSTS redirects to main host](https://github.com/btcpayserver/btcpayserver-docker/issues/887)
 - [Consider migrating GBA build to a toolchain distribution other than devkitARM](https://github.com/pinobatch/240p-test-mini/issues/54)
