@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,679 |
+| com | 8,680 |
 | social | 4,862 |
-| net | 4,225 |
+| net | 4,226 |
 | org | 2,839 |
 | de | 2,712 |
 
@@ -2755,6 +2755,7 @@ Here's a list of public Fediverse services.
 | `anzui.dev` | No |
 | `aobuta.yokohama` | No |
 | `aogamers.net` | Yes |
+| `aoharunext.com` | Yes |
 | `aoi-life.link` | No |
 | `aoi.onl` | No |
 | `aoikaze.social` | Yes |
@@ -15925,6 +15926,7 @@ Here's a list of public Fediverse services.
 | `foss.tube` | No |
 | `foss.video` | No |
 | `fossdle.org` | No |
+| `fossee.net` | No |
 | `fossfarmers.company` | Yes |
 | `fossforward.com` | No |
 | `fossfreelancers.com` | No |
@@ -35503,6 +35505,7 @@ Here's a list of public Fediverse services.
 | `ostolc.org` | No |
 | `ostrovok.de` | No |
 | `osu.io` | Yes |
+| `osu.si` | No |
 | `osumiakari.jp` | Yes |
 | `osureplayviewer.xyz` | No |
 | `osvoj.ru` | No |
@@ -54208,8 +54211,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,602 |
-| Normal | 38,558 |
+| Cloudflare | 15,603 |
+| Normal | 38,560 |
 
 
 </details>
