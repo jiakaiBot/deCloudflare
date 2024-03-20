@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,673 |
+| com | 8,674 |
 | social | 4,862 |
 | net | 4,222 |
 | org | 2,838 |
@@ -47353,6 +47353,7 @@ Here's a list of public Fediverse services.
 | `theru.eu` | No |
 | `theru.org` | No |
 | `theru.xyz` | No |
+| `theruinedreport.com` | No |
 | `thesan.space` | No |
 | `thesandbox.net` | No |
 | `thesanewriter.com` | Yes |
@@ -54190,7 +54191,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,595 |
-| Normal | 38,546 |
+| Normal | 38,547 |
 
 
 </details>
