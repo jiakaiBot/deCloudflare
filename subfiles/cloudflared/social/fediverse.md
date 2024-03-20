@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,671 |
+| com | 8,672 |
 | social | 4,862 |
 | net | 4,221 |
 | org | 2,838 |
@@ -15768,6 +15768,7 @@ Here's a list of public Fediverse services.
 | `fogcloud.org` | No |
 | `fogelholk.se` | Yes |
 | `foggyminds.com` | Yes |
+| `foggymtndrifter.com` | Yes |
 | `foggymtndrifter.social` | Yes |
 | `fogna.social` | No |
 | `fogtype.com` | Yes |
@@ -53643,7 +53644,7 @@ Here's a list of public Fediverse services.
 | `zac.dev` | Yes |
 | `zacekj.cz` | No |
 | `zacepil.com` | Yes |
-| `zach.rocks` | No |
+| `zach.rocks` | Yes |
 | `zachartajuddin.com` | No |
 | `zachary.com` | No |
 | `zachcampau.com` | No |
@@ -54183,8 +54184,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,594 |
-| Normal | 38,541 |
+| Cloudflare | 15,596 |
+| Normal | 38,540 |
 
 
 </details>
