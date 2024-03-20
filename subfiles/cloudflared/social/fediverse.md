@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,672 |
 | social | 4,862 |
-| net | 4,221 |
+| net | 4,222 |
 | org | 2,838 |
 | de | 2,712 |
 
@@ -4922,6 +4922,7 @@ Here's a list of public Fediverse services.
 | `bgmastodon.com` | No |
 | `bgme.me` | Yes |
 | `bgmn.net` | Yes |
+| `bgp.rodeo` | No |
 | `bgp.social` | Yes |
 | `bgr.com` | No |
 | `bgsteiner.com` | Yes |
@@ -12585,6 +12586,7 @@ Here's a list of public Fediverse services.
 | `dusanmitrovic.xyz` | No |
 | `dusanstamenkovic.com` | No |
 | `dusepo.co.uk` | No |
+| `dusky.photos` | No |
 | `dust-net.systems` | No |
 | `dustbuster.club` | Yes |
 | `dustinkirkland.com` | No |
@@ -51993,6 +51995,7 @@ Here's a list of public Fediverse services.
 | `windish.jp` | No |
 | `windlepoonz.net` | No |
 | `windoos.click` | No |
+| `windows.net` | No |
 | `windows11sucks.com` | No |
 | `windows98.dev` | No |
 | `windowsnerd.cc` | No |
@@ -54185,7 +54188,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,596 |
-| Normal | 38,540 |
+| Normal | 38,543 |
 
 
 </details>
