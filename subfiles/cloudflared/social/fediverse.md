@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,677 |
+| com | 8,678 |
 | social | 4,862 |
 | net | 4,225 |
 | org | 2,838 |
@@ -37276,6 +37276,7 @@ Here's a list of public Fediverse services.
 | `playgames.jp` | Yes |
 | `playground.ws` | No |
 | `playingbothsides.top` | No |
+| `playingintongues.com` | No |
 | `playingwithworms.org.uk` | No |
 | `playpen.social` | No |
 | `playset.social` | No |
@@ -46161,7 +46162,7 @@ Here's a list of public Fediverse services.
 | `tantek.com` | No |
 | `tanti.org.uk` | No |
 | `tantor.online` | No |
-| `tantrum.org` | No |
+| `tantrum.org` | Yes |
 | `tanu.lol` | Yes |
 | `tanudon.com` | No |
 | `tanukey.chat` | Yes |
@@ -54201,7 +54202,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,599 |
+| Cloudflare | 15,600 |
 | Normal | 38,554 |
 
 
