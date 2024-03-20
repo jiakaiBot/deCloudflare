@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed with webassembly on cloudflare page](https://github.com/nuxt-modules/mdc/issues/170)
 - [HELP: Set encryption linence and domain](https://github.com/azukaar/Cosmos-Server/issues/219)
 - [CloudFlare Increased Error Rates in MXP](https://github.com/SecOpsNews/news/issues/26262)
 - [Cloudflare Tunnels Not Work After Update 1.2.9](https://github.com/ollama/ollama/issues/3271)
