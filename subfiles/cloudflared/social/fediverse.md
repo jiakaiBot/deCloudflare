@@ -10653,6 +10653,7 @@ Here's a list of public Fediverse services.
 | `dcj.me` | No |
 | `dcmrobertson.com` | Yes |
 | `dcnh.cloud` | No |
+| `dcnh.tv` | No |
 | `dcntr.org` | No |
 | `dcntrlzd.co` | No |
 | `dcomm.net.ua` | No |
@@ -40285,7 +40286,7 @@ Here's a list of public Fediverse services.
 | `rmi0.com` | Yes |
 | `rmkn.fr` | No |
 | `rmlowe.com` | No |
-| `rmrf.space` | No |
+| `rmrf.space` | Yes |
 | `rmrs.nl` | No |
 | `rmxr.net` | No |
 | `rndm.ovh` | No |
@@ -53599,7 +53600,7 @@ Here's a list of public Fediverse services.
 | `yvt.jp` | Yes |
 | `ywg.social` | No |
 | `yyc.bike` | Yes |
-| `yyc.social` | Yes |
+| `yyc.social` | No |
 | `yygq.de` | No |
 | `yyj.social` | No |
 | `yys.ink` | No |
@@ -54183,7 +54184,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,594 |
-| Normal | 38,540 |
+| Normal | 38,541 |
 
 
 </details>
