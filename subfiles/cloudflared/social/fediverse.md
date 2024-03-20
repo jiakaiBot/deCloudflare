@@ -40773,6 +40773,7 @@ Here's a list of public Fediverse services.
 | `rtyn.berlin` | No |
 | `ru.social` | No |
 | `ru3a.com` | Yes |
+| `rua.plus` | No |
 | `rubber.family` | No |
 | `rubber.social` | No |
 | `rubber.zone` | No |
@@ -48589,6 +48590,7 @@ Here's a list of public Fediverse services.
 | `transaltar.com` | No |
 | `transcortex.social` | No |
 | `transden.lgbt` | No |
+| `transfem.cloud` | No |
 | `transfem.org` | Yes |
 | `transfem.social` | Yes |
 | `transformacion.social` | No |
@@ -54207,7 +54209,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,602 |
-| Normal | 38,556 |
+| Normal | 38,558 |
 
 
 </details>
