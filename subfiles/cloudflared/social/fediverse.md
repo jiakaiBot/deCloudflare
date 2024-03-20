@@ -17114,7 +17114,7 @@ Here's a list of public Fediverse services.
 | `gargantia.fr` | No |
 | `garlemald.org` | No |
 | `garlic.social` | No |
-| `garmy.jp` | No |
+| `garmy.jp` | Yes |
 | `garnix.dev` | No |
 | `garo.ooo` | No |
 | `garr.tv` | No |
@@ -21923,7 +21923,7 @@ Here's a list of public Fediverse services.
 | `itmgitmo.com` | No |
 | `itmslaves.com` | Yes |
 | `ito.com` | No |
-| `itoji0419.jp` | Yes |
+| `itoji0419.jp` | No |
 | `itools.jp` | No |
 | `itp.io` | No |
 | `itprotalk.social` | Yes |
@@ -52822,6 +52822,7 @@ Here's a list of public Fediverse services.
 | `xn--7s9hd.ws` | No |
 | `xn--80a0achj.xn--p1acf` | No |
 | `xn--80aa2ajy.xn--p1acf` | No |
+| `xn--80aaid7au.su` | No |
 | `xn--80an2adaa.xn--p1ai` | No |
 | `xn--8r9a.com` | No |
 | `xn--90aldbalef8bvy9l.xn--p1ai` | Yes |
@@ -54203,7 +54204,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,600 |
-| Normal | 38,554 |
+| Normal | 38,555 |
 
 
 </details>
