@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increased Error Rates in MXP](https://github.com/SecOpsNews/news/issues/26262)
 - [Cloudflare Tunnels Not Work After Update 1.2.9](https://github.com/ollama/ollama/issues/3271)
 - [Invalid memory address or nil pointer dereference](https://github.com/celzero/firestack/issues/39)
 - [群晖套件下用Cloudflare IP优选这个插件无法更新Cloudflare SpeedTest版本](https://github.com/jxxghp/MoviePilot/issues/1718)
