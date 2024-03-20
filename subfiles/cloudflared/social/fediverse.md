@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,678 |
+| com | 8,679 |
 | social | 4,862 |
 | net | 4,225 |
-| org | 2,838 |
+| org | 2,839 |
 | de | 2,712 |
 
 
@@ -12447,6 +12447,7 @@ Here's a list of public Fediverse services.
 | `dsss.space` | No |
 | `dstet.me` | No |
 | `dsvt.site` | No |
+| `dswhi.com` | Yes |
 | `dt-info.com` | No |
 | `dt.gl` | No |
 | `dtalens.com` | No |
@@ -41471,6 +41472,7 @@ Here's a list of public Fediverse services.
 | `satania.space` | No |
 | `satanic.coffee` | No |
 | `satanic.nexus` | No |
+| `sataniskwijt.be` | No |
 | `satanodon.com` | Yes |
 | `sate.li` | Yes |
 | `satealliasdomain.net` | No |
@@ -50767,6 +50769,7 @@ Here's a list of public Fediverse services.
 | `virtualsanity.com` | No |
 | `virtualspecies.com` | No |
 | `virtualtoot.com` | No |
+| `virus.org` | Yes |
 | `virusschleuder.de` | No |
 | `vis.nu` | No |
 | `vis.social` | No |
@@ -54203,8 +54206,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,600 |
-| Normal | 38,555 |
+| Cloudflare | 15,602 |
+| Normal | 38,556 |
 
 
 </details>
