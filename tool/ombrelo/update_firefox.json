@@ -50,9 +50,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.15",
+          "version": "1.0.16",
           "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/bl.xpi",
-          "update_hash": "sha256:394714f2a5596a64a82ac9f2264e35314c257e2662152e6d8bb97380b280057a"
+          "update_hash": "sha256:c8602fc555bda765c4bd9a0bda6f23133d992cfa6bef66d5d367c2a80cea8ece"
         }
       ]
     }
