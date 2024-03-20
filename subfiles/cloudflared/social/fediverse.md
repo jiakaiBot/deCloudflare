@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,862 |
 | net | 4,221 |
 | org | 2,838 |
-| de | 2,711 |
+| de | 2,712 |
 
 
 - Mastodon, Pleroma, etc
@@ -19372,6 +19372,7 @@ Here's a list of public Fediverse services.
 | `hecanjog.com` | Yes |
 | `hecatoncheir.net` | No |
 | `hechtinsgefecht.de` | Yes |
+| `heck.beer` | Yes |
 | `heck.ooo` | Yes |
 | `heck.team` | No |
 | `heck.town` | No |
@@ -32990,6 +32991,7 @@ Here's a list of public Fediverse services.
 | `netzsphaere.xyz` | No |
 | `netzspielplatz.de` | No |
 | `netzspielplatz.org` | No |
+| `netzverpetzer.de` | No |
 | `netzweh.de` | No |
 | `netzwerk-gebet.de` | No |
 | `netzwerk-it.org` | No |
@@ -54180,8 +54182,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,593 |
-| Normal | 38,539 |
+| Cloudflare | 15,594 |
+| Normal | 38,540 |
 
 
 </details>
