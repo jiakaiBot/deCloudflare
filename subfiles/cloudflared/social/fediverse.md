@@ -8255,6 +8255,7 @@ Here's a list of public Fediverse services.
 | `clerks.me` | No |
 | `clerval.com` | No |
 | `clesports.social` | No |
+| `clever-rat.co.uk` | No |
 | `cleverangel.org` | No |
 | `cleverdevil.club` | No |
 | `cleverlibre.org` | No |
@@ -43340,7 +43341,7 @@ Here's a list of public Fediverse services.
 | `slashfilm.com` | Yes |
 | `slashine.onl` | Yes |
 | `slashub.com` | No |
-| `slashume.onl` | Yes |
+| `slashume.onl` | No |
 | `slat.org` | No |
 | `slatecave.net` | No |
 | `slattery.social` | No |
@@ -54188,8 +54189,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,596 |
-| Normal | 38,544 |
+| Cloudflare | 15,595 |
+| Normal | 38,546 |
 
 
 </details>
