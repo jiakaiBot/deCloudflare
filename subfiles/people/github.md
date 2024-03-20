@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [群晖套件下用Cloudflare IP优选这个插件无法更新Cloudflare SpeedTest版本](https://github.com/jxxghp/MoviePilot/issues/1718)
 - [monogr.ph is down](https://github.com/streetwriters/notesnook/issues/4499)
 - [all is correct but Authentication error](https://github.com/BeeHiveCyberSecurity/WAF-IPDB/issues/5)
 - [Cloudflare secret docs incorrectly use base64-encoded token](https://github.com/gardener/external-dns-management/issues/360)
