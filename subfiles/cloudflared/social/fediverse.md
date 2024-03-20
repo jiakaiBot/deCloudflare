@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,674 |
+| com | 8,677 |
 | social | 4,862 |
-| net | 4,222 |
+| net | 4,225 |
 | org | 2,838 |
 | de | 2,712 |
 
@@ -402,6 +402,7 @@ Here's a list of public Fediverse services.
 | `256.lt` | No |
 | `258990001.xyz` | No |
 | `2600hz.site` | No |
+| `260817.xyz` | Yes |
 | `272labs.com` | Yes |
 | `27b6.com` | Yes |
 | `27origin.com` | Yes |
@@ -1677,6 +1678,7 @@ Here's a list of public Fediverse services.
 | `akibadon.com` | No |
 | `akibaoh.tech` | No |
 | `akiekintveld.com` | Yes |
+| `akikiki.net` | Yes |
 | `akimasa.jp` | Yes |
 | `akionux.net` | No |
 | `akipe.fr` | No |
@@ -14354,6 +14356,7 @@ Here's a list of public Fediverse services.
 | `fai.st` | No |
 | `fai.su` | Yes |
 | `faidra.net` | No |
+| `faimaison.net` | No |
 | `fair-verhandeln.de` | No |
 | `fair.tube` | No |
 | `fairbairn.cloud` | No |
@@ -20362,6 +20365,7 @@ Here's a list of public Fediverse services.
 | `hrwlthr.com` | No |
 | `hrzn.ee` | Yes |
 | `hs-duesseldorf.de` | No |
+| `hs.vc` | Yes |
 | `hs1.nl` | No |
 | `hsablonniere.com` | No |
 | `hsal.es` | Yes |
@@ -30790,6 +30794,7 @@ Here's a list of public Fediverse services.
 | `moelrhos.uk` | No |
 | `moep.tv` | No |
 | `moeplebs.online` | No |
+| `moerks.dk` | No |
 | `moessingen.social` | No |
 | `moestel.eu` | No |
 | `moetz.social` | No |
@@ -38059,6 +38064,7 @@ Here's a list of public Fediverse services.
 | `prlic.social` | Yes |
 | `prnetsec.ml` | No |
 | `pro.yt` | No |
+| `pro104b.online` | No |
 | `probabilitydegeneration.xyz` | No |
 | `probablyfreespeech.com` | No |
 | `probe.social` | No |
@@ -43601,6 +43607,7 @@ Here's a list of public Fediverse services.
 | `sndm.me` | No |
 | `sndr.social` | No |
 | `sndw.ch` | Yes |
+| `sneaas.no` | No |
 | `sneak.berlin` | Yes |
 | `sneak.ovh` | No |
 | `sneaka.lol` | No |
@@ -44941,6 +44948,7 @@ Here's a list of public Fediverse services.
 | `stic.earth` | No |
 | `stic.it` | No |
 | `stickbear.me` | Yes |
+| `stickfishery.com` | No |
 | `stiehler.dev` | Yes |
 | `stigatle.no` | No |
 | `stilbedarf.de` | No |
@@ -50335,6 +50343,7 @@ Here's a list of public Fediverse services.
 | `varmint.town` | No |
 | `varnelis.net` | Yes |
 | `varney.fr` | No |
+| `varnham.net` | No |
 | `vartist.fans` | Yes |
 | `vartkw.xyz` | No |
 | `varwest.fr` | No |
@@ -50518,6 +50527,7 @@ Here's a list of public Fediverse services.
 | `verstandlxs.com` | Yes |
 | `verteiltegedanken.de` | No |
 | `vertexspew.social` | No |
+| `vertinext.com` | No |
 | `veru.moe` | No |
 | `verumsocial.com` | Yes |
 | `vervology.social` | Yes |
@@ -54022,6 +54032,7 @@ Here's a list of public Fediverse services.
 | `zombor.net` | Yes |
 | `zomg-wtf.com` | Yes |
 | `zomglol.wtf` | Yes |
+| `zonastro.com` | Yes |
 | `zone.io` | No |
 | `zone42.org` | No |
 | `zonepl.net` | No |
@@ -54190,8 +54201,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,595 |
-| Normal | 38,547 |
+| Cloudflare | 15,599 |
+| Normal | 38,554 |
 
 
 </details>
