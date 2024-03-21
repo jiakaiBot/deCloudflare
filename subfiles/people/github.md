@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [preg_match(): Passing null to parameter 2 (subject)](https://github.com/freescout-helpdesk/freescout/issues/3893)
 - [UC Browser, can't continue at CF checkbox](https://github.com/seleniumbase/SeleniumBase/issues/2626)
 - [Failed with webassembly on cloudflare page](https://github.com/nuxt-modules/mdc/issues/170)
 - [HELP: Set encryption linence and domain](https://github.com/azukaar/Cosmos-Server/issues/219)
