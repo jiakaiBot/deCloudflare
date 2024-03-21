@@ -51566,6 +51566,7 @@ Here's a list of public Fediverse services.
 | `wjbolles.com` | No |
 | `wjg.jp` | No |
 | `wjlafrance.net` | Yes |
+| `wjt.je` | Yes |
 | `wjt.me.uk` | No |
 | `wjtje.dev` | Yes |
 | `wk30.com` | Yes |
@@ -53585,7 +53586,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,393 |
+| Cloudflare | 15,394 |
 | Normal | 38,144 |
 
 
