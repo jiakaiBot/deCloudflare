@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Metrics Support cloudflare workers](https://github.com/getsentry/sentry-javascript/issues/11220)
 - [Cloudflare queue and app routing](https://github.com/honojs/hono/issues/2396)
 - [Cannot install extension using install 'h3ext' from '...'; syntax](https://github.com/isaacbrodsky/h3-duckdb/issues/95)
 - [preg_match(): Passing null to parameter 2 (subject)](https://github.com/freescout-helpdesk/freescout/issues/3893)
