@@ -1291,6 +1291,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aryan281684@X](https://twitter.com/Aryan281684/status/1632116552836296709) | advertise |
 | [Aryan10065293@X](https://twitter.com/Aryan10065293/status/1396411254533550082) | advertise |
 | [AryanGu17150373@X](https://twitter.com/AryanGu17150373/status/1482010948793946112) | advertise |
+| [aryanzaheer679@X](https://twitter.com/aryanzaheer679/status/1770763405764296848) | advertise |
 | [arzu_hasanoff@X](https://twitter.com/arzu_hasanoff/status/1743184601575555204) | advertise |
 | [arzzen@X](https://twitter.com/arzzen/status/1384955314991210496) | advertise |
 | [as2580208@X](https://twitter.com/as2580208/status/1684575765986529281) | advertise |
@@ -2365,6 +2366,7 @@ Do not create new issue or we will close it as duplicate.
 | [byambamk@X](https://twitter.com/byambamk/status/1390722042400444418) | advertise |
 | [Byarsar2@X](https://twitter.com/Byarsar2/status/1391089544322158594) | advertise |
 | [byayatube@X](https://twitter.com/byayatube/status/1686837313991483393) | advertise |
+| [byc1761525@X](https://twitter.com/byc1761525/status/1770779689826582567) | advertise |
 | [BYfpyglTtMHPB8s@X](https://twitter.com/BYfpyglTtMHPB8s/status/1537369104193290240) | advertise |
 | [ByJaccoB@X](https://twitter.com/ByJaccoB/status/1619330056534507520) | advertise |
 | [ByKu24674252@X](https://twitter.com/ByKu24674252/status/1470865823606587392) | advertise |
@@ -3495,6 +3497,7 @@ Do not create new issue or we will close it as duplicate.
 | [doilannemdau009@X](https://twitter.com/doilannemdau009/status/1552980916225527808) | advertise |
 | [doimatphonui@X](https://twitter.com/doimatphonui/status/1387455212168749061) | advertise |
 | [doimoandrea@X](https://twitter.com/doimoandrea/status/1751920797394849973) | advertise |
+| [DojeB74198@X](https://twitter.com/DojeB74198/status/1770841803299668071) | advertise |
 | [Dojnaz@X](https://twitter.com/Dojnaz/status/1431346378647773187) | advertise |
 | [dokali_skander@X](https://twitter.com/dokali_skander/status/1550205833904099329) | advertise |
 | [dokiestia_8824@X](https://twitter.com/dokiestia_8824/status/1579381040002785280) | advertise |
@@ -9148,6 +9151,7 @@ Do not create new issue or we will close it as duplicate.
 | [Miss_Mxyzptlk@X](https://twitter.com/Miss_Mxyzptlk/status/1519813476797100033) | advertise |
 | [mist8kengas1@X](https://twitter.com/mist8kengas1/status/1664235909879832576) | advertise |
 | [Mistah_Random@X](https://twitter.com/Mistah_Random/status/1402645157070127113) | advertise |
+| [mistakwamz@X](https://twitter.com/mistakwamz/status/1770838316998328469) | advertise |
 | [mistereyfatter@X](https://twitter.com/mistereyfatter/status/1385082858105049091) | advertise |
 | [Mistergethowu@X](https://twitter.com/Mistergethowu/status/1500293947641544714) | advertise |
 | [mitaul@X](https://twitter.com/mitaul/status/1534177987649839104) | advertise |
@@ -15701,6 +15705,7 @@ Do not create new issue or we will close it as duplicate.
 | [XHs@X](https://twitter.com/XHs/status/1457943621861199874) | advertise |
 | [Xiao098765@X](https://twitter.com/Xiao098765/status/1689455480739942400) | advertise |
 | [xiaochen_cui@X](https://twitter.com/xiaochen_cui/status/1570976874540695553) | advertise |
+| [xiaofeng004@X](https://twitter.com/xiaofeng004/status/1770819693156212959) | advertise |
 | [XiaoLin60811591@X](https://twitter.com/XiaoLin60811591/status/1661404198435446786) | advertise |
 | [xiaomao85622541@X](https://twitter.com/xiaomao85622541/status/1391819655287689221) | advertise |
 | [Xiaoqingxxx1@X](https://twitter.com/Xiaoqingxxx1/status/1478846246299189248) | advertise |
