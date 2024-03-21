@@ -49117,6 +49117,7 @@ Here's a list of public Fediverse services.
 | `tuna.cat` | No |
 | `tuna.today` | No |
 | `tuna2134.dev` | Yes |
+| `tuna2134.jp` | Yes |
 | `tunahan.me` | Yes |
 | `tunahan.social` | Yes |
 | `tunamaguro.dev` | Yes |
@@ -54225,7 +54226,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,609 |
+| Cloudflare | 15,610 |
 | Normal | 38,568 |
 
 
