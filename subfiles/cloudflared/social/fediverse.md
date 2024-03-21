@@ -53598,7 +53598,6 @@ Here's a list of public Fediverse services.
 | `yuruyuri.family` | No |
 | `yusaku.social` | No |
 | `yussuv.com` | Yes |
-| `yusuf.fyi` | No |
 | `yusufipek.me` | Yes |
 | `yusuke.pub` | Yes |
 | `yusukebe.com` | Yes |
@@ -54216,7 +54215,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,601 |
-| Normal | 38,566 |
+| Normal | 38,565 |
 
 
 </details>
