@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot install extension using install 'h3ext' from '...'; syntax](https://github.com/isaacbrodsky/h3-duckdb/issues/95)
 - [preg_match(): Passing null to parameter 2 (subject)](https://github.com/freescout-helpdesk/freescout/issues/3893)
 - [UC Browser, can't continue at CF checkbox](https://github.com/seleniumbase/SeleniumBase/issues/2626)
 - [Failed with webassembly on cloudflare page](https://github.com/nuxt-modules/mdc/issues/170)
