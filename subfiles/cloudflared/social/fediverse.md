@@ -18093,6 +18093,7 @@ Here's a list of public Fediverse services.
 | `grayrecord.com` | Yes |
 | `graz.social` | No |
 | `grdnsys.no` | Yes |
+| `greaby.co` | No |
 | `great-lakes-maritime-republic.net` | No |
 | `great-tusk.com` | No |
 | `greatdanemaniac.com` | Yes |
@@ -37638,7 +37639,7 @@ Here's a list of public Fediverse services.
 | `privatsocial.de` | No |
 | `privatter.info` | Yes |
 | `privex.social` | No |
-| `privey.xyz` | Yes |
+| `privey.xyz` | No |
 | `prlic.social` | Yes |
 | `prnetsec.ml` | No |
 | `pro.yt` | No |
@@ -53584,8 +53585,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,394 |
-| Normal | 38,142 |
+| Cloudflare | 15,393 |
+| Normal | 38,144 |
 
 
 </details>
