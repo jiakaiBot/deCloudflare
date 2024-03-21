@@ -11656,7 +11656,7 @@ Here's a list of public Fediverse services.
 | `discretevaluecrusader.com` | No |
 | `discretos.fr` | No |
 | `discus.sh` | No |
-| `discuss.online` | No |
+| `discuss.online` | Yes |
 | `discuss.scot` | Yes |
 | `discuss.systems` | No |
 | `discussion.studio` | No |
@@ -31183,6 +31183,7 @@ Here's a list of public Fediverse services.
 | `mossrc.me` | Yes |
 | `mosstodon.social` | Yes |
 | `mossy.page` | No |
+| `mossycab.in` | No |
 | `mossymaker.com` | No |
 | `mosteverywhere.com` | No |
 | `mostlychris.net` | Yes |
@@ -38041,6 +38042,7 @@ Here's a list of public Fediverse services.
 | `printys.net` | No |
 | `priof.cc` | Yes |
 | `prisecon.de` | No |
+| `prism.place` | Yes |
 | `prismati.cc` | No |
 | `prismdragon.net` | No |
 | `prismisskey.space` | Yes |
@@ -54222,7 +54224,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,604 |
+| Cloudflare | 15,606 |
 | Normal | 38,570 |
 
 
