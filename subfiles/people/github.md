@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [unexpected error in provider](https://github.com/opentofu/registry/issues/340)
 - [Metrics Support cloudflare workers](https://github.com/getsentry/sentry-javascript/issues/11220)
 - [Cloudflare queue and app routing](https://github.com/honojs/hono/issues/2396)
 - [Cannot install extension using install 'h3ext' from '...'; syntax](https://github.com/isaacbrodsky/h3-duckdb/issues/95)
