@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,681 |
+| com | 8,683 |
 | social | 4,862 |
-| net | 4,226 |
+| net | 4,228 |
 | org | 2,839 |
 | de | 2,712 |
 
@@ -5815,6 +5815,7 @@ Here's a list of public Fediverse services.
 | `bolha.tec.br` | No |
 | `bolha.tube` | No |
 | `bolha.us` | Yes |
+| `bolingbroke.kr` | No |
 | `boliston.com` | No |
 | `bolitoglossa.com` | No |
 | `bollocks.social` | No |
@@ -20650,6 +20651,7 @@ Here's a list of public Fediverse services.
 | `i--i.net` | No |
 | `i-0.io` | Yes |
 | `i-am-b.org` | No |
+| `i-am.nexus` | No |
 | `i-davis.co.uk` | No |
 | `i-fromjapan.com` | No |
 | `i-i.im` | No |
@@ -24944,6 +24946,7 @@ Here's a list of public Fediverse services.
 | `krinite.com` | No |
 | `kriom.net` | No |
 | `krisdoc.fr` | No |
+| `krisdoc.net` | No |
 | `krishanv.xyz` | No |
 | `krisstreet.com` | Yes |
 | `krissy.gay` | No |
@@ -39747,6 +39750,7 @@ Here's a list of public Fediverse services.
 | `reitomorisaki.com` | No |
 | `reitrace.ga` | No |
 | `reiuji.chat` | Yes |
+| `reiver.link` | Yes |
 | `rejas.se` | No |
 | `rejoiner.eu` | No |
 | `rekabu.ru` | No |
@@ -44593,6 +44597,7 @@ Here's a list of public Fediverse services.
 | `srizan.dev` | Yes |
 | `srkn.org` | Yes |
 | `srks.social` | No |
+| `sroallcap.com` | Yes |
 | `srp.life` | Yes |
 | `srsly.lol` | No |
 | `srv.space` | No |
@@ -44709,6 +44714,7 @@ Here's a list of public Fediverse services.
 | `starfyre.de` | No |
 | `stargaze.cafe` | No |
 | `stargazer.at` | No |
+| `starglitcher.xyz` | No |
 | `starholder.us` | No |
 | `staria.club` | No |
 | `stark-enterprise.net` | Yes |
@@ -46622,6 +46628,7 @@ Here's a list of public Fediverse services.
 | `templar.one` | Yes |
 | `temporario.xyz` | Yes |
 | `temporus.me` | No |
+| `tempspresents.com` | No |
 | `tempus.tk` | No |
 | `temsa.me` | No |
 | `ten4ward.social` | No |
@@ -47880,6 +47887,7 @@ Here's a list of public Fediverse services.
 | `tisato.live` | Yes |
 | `tissink.me` | No |
 | `tissuebox.art` | Yes |
+| `titanfusion.net` | Yes |
 | `titanplusplus.online` | No |
 | `titey.net` | No |
 | `titi.me.uk` | No |
@@ -54214,8 +54222,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,601 |
-| Normal | 38,565 |
+| Cloudflare | 15,604 |
+| Normal | 38,570 |
 
 
 </details>
