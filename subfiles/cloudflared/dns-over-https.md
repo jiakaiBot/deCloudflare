@@ -51,7 +51,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | bonis.de | No |
 | borisov.page | Yes |
 | brahma.world | Yes |
-| bravoc.one | Yes |
 | bugz.fr | No |
 | c-dns.com | No |
 | callies-online.site | No |
@@ -215,7 +214,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | persiannit.net | Yes |
 | pietjacobs.be | No |
 | pleumkungz.com | Yes |
-| pointless.chat | Yes |
 | pooblet.co.za | Yes |
 | pragmasec.nl | No |
 | puregeni.us | No |
@@ -301,8 +299,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 155 |
+| Cloudflare | 153 |
 | Normal | 127 |
 
 
-### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
