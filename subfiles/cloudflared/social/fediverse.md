@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,689 |
 | social | 4,862 |
-| net | 4,229 |
+| net | 4,230 |
 | org | 2,839 |
 | de | 2,712 |
 
@@ -19723,7 +19723,7 @@ Here's a list of public Fediverse services.
 | `hi6.io` | Yes |
 | `hiauntie.com` | No |
 | `hibi-tsumo.com` | Yes |
-| `hibi-tsumo.net` | Yes |
+| `hibi-tsumo.net` | No |
 | `hibi.ga` | No |
 | `hibiki.eu` | No |
 | `hibiscus.pink` | No |
@@ -42438,7 +42438,7 @@ Here's a list of public Fediverse services.
 | `sewardfam.social` | No |
 | `sexcify.com` | No |
 | `sexclown.town` | No |
-| `sexpolitics.co.uk` | Yes |
+| `sexpolitics.co.uk` | No |
 | `sexpositivnet.com` | No |
 | `sexton-family.uk` | No |
 | `sexworkisrealwork.quest` | No |
@@ -46079,6 +46079,7 @@ Here's a list of public Fediverse services.
 | `tale.cafe` | No |
 | `talee.de` | No |
 | `talentworld.group` | No |
+| `taler.net` | No |
 | `talesaudio.com` | No |
 | `talesfromthehomelab.com` | No |
 | `talesofmy.life` | No |
@@ -54240,8 +54241,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,619 |
-| Normal | 38,573 |
+| Cloudflare | 15,617 |
+| Normal | 38,576 |
 
 
 </details>
