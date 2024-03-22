@@ -25,6 +25,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | abd.ong | Yes |
 | abdullahabas.de | Yes |
 | abppro.ru | Yes |
+| abraservice.xyz | Yes |
 | adbl-tslagter.nl | Yes |
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
@@ -110,6 +111,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ffmuc.net | Yes |
 | flm9.net | No |
 | flylcc.cc | Yes |
+| frankutils.xyz | Yes |
 | freyja.pw | Yes |
 | froth.zone | No |
 | ftp.sh | Yes |
@@ -133,8 +135,10 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | indybanipal.com | No |
 | inpssh.online | Yes |
 | inria.fr | No |
+| ipty.de | No |
 | itya.xyz | Yes |
 | jackyes.ovh | No |
+| jakinet.id | No |
 | jmarkin.ru | Yes |
 | jnraptor.net | Yes |
 | josephyap.me | Yes |
@@ -217,6 +221,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | puregeni.us | No |
 | qquack.org | Yes |
 | quad9.net | Yes |
+| r9x.cc | Yes |
 | rabot.fi | Yes |
 | ragnvindr.org | Yes |
 | ral9005.org | Yes |
@@ -296,8 +301,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 152 |
-| Normal | 125 |
+| Cloudflare | 155 |
+| Normal | 127 |
 
 
-### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
