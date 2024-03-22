@@ -5953,7 +5953,7 @@ Here's a list of public Fediverse services.
 | `borganism.com` | No |
 | `borgar.space` | No |
 | `borgcube.eu` | No |
-| `borgsocial.org` | No |
+| `borgsocial.org` | Yes |
 | `bori.icu` | Yes |
 | `boricua.energy` | No |
 | `boringday.app` | No |
@@ -19263,6 +19263,7 @@ Here's a list of public Fediverse services.
 | `haven.family` | No |
 | `havensocial.org` | No |
 | `havent.org` | No |
+| `haveyouevenmet.me` | No |
 | `havlow.com` | Yes |
 | `havn.blog` | No |
 | `havocperil.uk` | Yes |
@@ -42904,7 +42905,7 @@ Here's a list of public Fediverse services.
 | `sigbonk.com` | No |
 | `sigcrap.org` | No |
 | `sigdrifa.eu` | Yes |
-| `sigfried.be` | No |
+| `sigfried.be` | Yes |
 | `sigh.io` | No |
 | `sighash.info` | Yes |
 | `sigil.ink` | No |
@@ -54229,8 +54230,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,611 |
-| Normal | 38,570 |
+| Cloudflare | 15,613 |
+| Normal | 38,569 |
 
 
 </details>
