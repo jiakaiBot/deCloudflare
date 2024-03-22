@@ -21,7 +21,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 5ososea.com | Yes |
 | 888654.xyz | Yes |
 | 8888.google | No |
-| 9727158.xyz | No |
 | aa.net.uk | No |
 | abd.ong | Yes |
 | abdullahabas.de | Yes |
@@ -62,7 +61,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cgnat.net | No |
 | chadeyron.fr | Yes |
 | chenu.ch | No |
-| chungocoai.name.vn | No |
 | cira.ca | Yes |
 | circl.lu | No |
 | clanto.cloud | No |
@@ -300,7 +298,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 152 |
-| Normal | 128 |
+| Normal | 126 |
 
 
-### 54.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
