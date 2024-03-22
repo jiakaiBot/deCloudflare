@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,439 |
+| com | 8,440 |
 | social | 4,852 |
 | net | 4,170 |
 | org | 2,777 |
@@ -45615,6 +45615,7 @@ Here's a list of public Fediverse services.
 | `tammang.world` | Yes |
 | `tammenpaa.com` | No |
 | `tams.tech` | No |
+| `tamsuki.com` | No |
 | `tamudon.com` | No |
 | `tamx.tk` | Yes |
 | `tanak3n.xyz` | No |
@@ -53611,7 +53612,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,410 |
-| Normal | 38,152 |
+| Normal | 38,153 |
 
 
 </details>
