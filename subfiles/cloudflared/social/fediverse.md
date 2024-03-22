@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,684 |
+| com | 8,685 |
 | social | 4,862 |
 | net | 4,228 |
 | org | 2,839 |
@@ -4678,6 +4678,7 @@ Here's a list of public Fediverse services.
 | `belllab.ca` | Yes |
 | `bellmyer.me` | Yes |
 | `belltower.it` | No |
+| `beloisehuffstutler.codes` | No |
 | `beloved-universe.com` | No |
 | `belovely.xyz` | No |
 | `belowland.com` | No |
@@ -5897,7 +5898,7 @@ Here's a list of public Fediverse services.
 | `bookwyrm.de` | No |
 | `bookwyrm.it` | Yes |
 | `bookwyrm.social` | No |
-| `bookwyrm.tech` | No |
+| `bookwyrm.tech` | Yes |
 | `bookwyrm.world` | No |
 | `boom.army` | Yes |
 | `boombeach.soy` | No |
@@ -18895,6 +18896,7 @@ Here's a list of public Fediverse services.
 | `hackto.me` | No |
 | `hackwrld.com` | No |
 | `hacky.town` | No |
+| `hackyderm.com` | No |
 | `hackzenwerk.org` | No |
 | `hacst.net` | No |
 | `hact.org` | Yes |
@@ -32796,6 +32798,7 @@ Here's a list of public Fediverse services.
 | `neoziggurat.com` | No |
 | `nep-nep.xyz` | No |
 | `nep.one` | Yes |
+| `nepeta.moe` | No |
 | `neph.social` | No |
 | `nepolis.de` | No |
 | `nepolux.de` | No |
@@ -54226,8 +54229,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,610 |
-| Normal | 38,568 |
+| Cloudflare | 15,611 |
+| Normal | 38,570 |
 
 
 </details>
