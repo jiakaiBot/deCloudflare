@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,689 |
-| social | 4,862 |
-| net | 4,230 |
+| social | 4,863 |
+| net | 4,231 |
 | org | 2,839 |
 | de | 2,712 |
 
@@ -21387,6 +21387,7 @@ Here's a list of public Fediverse services.
 | `ingsoc.email` | No |
 | `ingwie.io` | No |
 | `ingwie.me` | Yes |
+| `ingwine.social` | No |
 | `ingyeo.net` | No |
 | `inhabitat.com` | Yes |
 | `inherently.digital` | No |
@@ -23250,6 +23251,7 @@ Here's a list of public Fediverse services.
 | `jurablogs.com` | No |
 | `jurassic.network` | No |
 | `jurassic.ninja` | No |
+| `jurassic.tube` | No |
 | `jurgenfranse.nl` | No |
 | `jurgenhaas.de` | Yes |
 | `juristen.social` | No |
@@ -29912,6 +29914,7 @@ Here's a list of public Fediverse services.
 | `michael-anders.net` | No |
 | `michael-martinez.com` | No |
 | `michael-webber.com` | Yes |
+| `michaelbelcher.net` | No |
 | `michaelbishop.me` | No |
 | `michaelbrooks.co.uk` | Yes |
 | `michaelcmcgreevy.com` | No |
@@ -52694,7 +52697,7 @@ Here's a list of public Fediverse services.
 | `xavs.ca` | No |
 | `xayah.net` | No |
 | `xbb.one` | Yes |
-| `xbdm.fun` | Yes |
+| `xbdm.fun` | No |
 | `xbdv.com` | Yes |
 | `xbm.se` | No |
 | `xbon-pvpcompagnies.tk` | No |
@@ -54241,8 +54244,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,617 |
-| Normal | 38,576 |
+| Cloudflare | 15,616 |
+| Normal | 38,580 |
 
 
 </details>
