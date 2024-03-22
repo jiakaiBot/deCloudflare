@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [When uploading image in deployed environment it converts thumbnail to black & white](https://github.com/strapi/strapi/issues/19894)
 - [403 while Downloading a new version of Bun](https://github.com/oven-sh/setup-bun/issues/70)
 - [unexpected error in provider](https://github.com/opentofu/registry/issues/340)
 - [Metrics Support cloudflare workers](https://github.com/getsentry/sentry-javascript/issues/11220)
