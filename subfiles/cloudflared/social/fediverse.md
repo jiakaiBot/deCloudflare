@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,690 |
+| com | 8,691 |
 | social | 4,863 |
 | net | 4,233 |
 | org | 2,839 |
@@ -22018,6 +22018,7 @@ Here's a list of public Fediverse services.
 | `ivi.pl` | No |
 | `ivie.cc` | No |
 | `ivn.cx` | Yes |
+| `ivobonthuis.com` | No |
 | `ivoor.eu` | No |
 | `ivor.org` | No |
 | `ivrianochi.com` | No |
@@ -25661,6 +25662,7 @@ Here's a list of public Fediverse services.
 | `lavolte.net` | No |
 | `lavraievie.social` | No |
 | `law-and-politics.online` | No |
+| `law.blog` | No |
 | `law.builders` | No |
 | `law03.com` | No |
 | `lawanalysis.org` | No |
@@ -43000,6 +43002,7 @@ Here's a list of public Fediverse services.
 | `silly.land` | Yes |
 | `sillydragon.ca` | No |
 | `sillymo.de` | No |
+| `silmaril.blue` | No |
 | `silosneeded.com` | No |
 | `silsha.me` | No |
 | `siltala.net` | No |
@@ -46908,6 +46911,7 @@ Here's a list of public Fediverse services.
 | `thatone.gay` | Yes |
 | `thatother.site` | No |
 | `thatpanda.com` | Yes |
+| `thats.art` | No |
 | `thatsaspork.tk` | No |
 | `thatsit.social` | Yes |
 | `thatsocial.site` | No |
@@ -54256,7 +54260,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,619 |
-| Normal | 38,588 |
+| Normal | 38,592 |
 
 
 </details>
