@@ -68,7 +68,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cgnat.net | No |
 | chadeyron.fr | Yes |
 | chalkychalk.com | Yes |
-| charitosnet.de | No |
 | chenu.ch | No |
 | cira.ca | Yes |
 | circl.lu | No |
@@ -161,7 +160,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | i-puppy.ru | No |
 | iij.jp | Yes |
 | ikarosalpha.xyz | Yes |
-| imkvq.com | No |
 | in-berlin.de | No |
 | indybanipal.com | No |
 | inpssh.online | Yes |
@@ -381,7 +379,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 197 |
-| Normal | 164 |
+| Normal | 162 |
 
 
-### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
