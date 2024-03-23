@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error Unable to login - User validation failed: settings.dateFormat: Path settings.dateFormat is required.](https://github.com/Yooooomi/your_spotify/issues/381)
 - [FurAffinity Cloudflare troubles](https://github.com/mikf/gallery-dl/issues/5367)
 - [403 Error on Static Assets with Query Strings on SlickStack.io](https://github.com/littlebizzy/slickstack/issues/210)
 - [Preview through browser does not work when MINIO_SERVER_URL is set](https://github.com/minio/console/issues/3272)
