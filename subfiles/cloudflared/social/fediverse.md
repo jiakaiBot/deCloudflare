@@ -1471,7 +1471,7 @@ Here's a list of public Fediverse services.
 | `agadius.de` | No |
 | `againstallodds.games` | No |
 | `againstthefuture.net` | No |
-| `agates.io` | No |
+| `agates.io` | Yes |
 | `agatha.gay` | No |
 | `agb-web.de` | No |
 | `agda.club` | No |
@@ -8625,6 +8625,7 @@ Here's a list of public Fediverse services.
 | `coffein.life` | No |
 | `coffin.rip` | Yes |
 | `coffins.space` | No |
+| `cofob.dev` | Yes |
 | `cofvevesocial.com` | No |
 | `cogdogblog.com` | No |
 | `cogentleman.com` | No |
@@ -39669,7 +39670,7 @@ Here's a list of public Fediverse services.
 | `redpanda.lgbt` | No |
 | `redpanda.pics` | Yes |
 | `redpandemonium.com` | Yes |
-| `redpawcollective.co` | No |
+| `redpawcollective.co` | Yes |
 | `redpeacock78.com` | Yes |
 | `redpilled.dev` | Yes |
 | `redpilled.life` | No |
@@ -54262,8 +54263,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,620 |
-| Normal | 38,594 |
+| Cloudflare | 15,623 |
+| Normal | 38,592 |
 
 
 </details>
