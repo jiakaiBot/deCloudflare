@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,691 |
 | social | 4,863 |
 | net | 4,233 |
-| org | 2,839 |
+| org | 2,840 |
 | de | 2,712 |
 
 
@@ -40106,7 +40106,7 @@ Here's a list of public Fediverse services.
 | `rhowsl.gay` | No |
 | `rhrdbc.link` | No |
 | `rhrish.com` | No |
-| `rhubarb.land` | Yes |
+| `rhubarb.land` | No |
 | `rhubarbe.social` | No |
 | `rhue.eu` | No |
 | `rhumbs.fr` | No |
@@ -43468,6 +43468,7 @@ Here's a list of public Fediverse services.
 | `sloth.run` | No |
 | `slothcloud.com` | No |
 | `slothfc.net` | No |
+| `slothrop.org` | No |
 | `sloths.chat` | Yes |
 | `sloths.club` | No |
 | `slothy.win` | Yes |
@@ -54260,8 +54261,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,620 |
-| Normal | 38,592 |
+| Cloudflare | 15,619 |
+| Normal | 38,594 |
 
 
 </details>
