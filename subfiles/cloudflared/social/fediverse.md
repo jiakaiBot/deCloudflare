@@ -40441,6 +40441,7 @@ Here's a list of public Fediverse services.
 | `rock-hosting.net` | No |
 | `rock0head420.rocks` | Yes |
 | `rockcd.jp` | No |
+| `rockcutter.jp` | Yes |
 | `rockdapus.org` | No |
 | `rocketboom.io` | No |
 | `rocketeer.be` | Yes |
@@ -42159,7 +42160,7 @@ Here's a list of public Fediverse services.
 | `sedryk.info` | No |
 | `see2et.dev` | Yes |
 | `seediqbale.xyz` | No |
-| `seedoubleyou.me` | No |
+| `seedoubleyou.me` | Yes |
 | `seeds.social` | No |
 | `seedy.cc` | Yes |
 | `seedy.gq` | Yes |
@@ -45832,7 +45833,7 @@ Here's a list of public Fediverse services.
 | `syo.tokyo` | No |
 | `syobon.net` | Yes |
 | `syobon.social` | Yes |
-| `syok.lol` | Yes |
+| `syok.lol` | No |
 | `syoriken.org` | No |
 | `syosetu.social` | No |
 | `syoshida.org` | No |
@@ -54253,7 +54254,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,616 |
+| Cloudflare | 15,617 |
 | Normal | 38,589 |
 
 
