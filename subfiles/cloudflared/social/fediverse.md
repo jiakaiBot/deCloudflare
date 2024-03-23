@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,691 |
+| com | 8,692 |
 | social | 4,863 |
 | net | 4,233 |
 | org | 2,840 |
@@ -36082,6 +36082,7 @@ Here's a list of public Fediverse services.
 | `parametric.social` | No |
 | `paranoiac-thoughts.com` | No |
 | `paranoiakids.net` | No |
+| `paranoiamachinery.com` | Yes |
 | `paranoidpengu.in` | No |
 | `paranoidpenguin.net` | No |
 | `parapheum.com` | Yes |
@@ -54263,7 +54264,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,623 |
+| Cloudflare | 15,624 |
 | Normal | 38,592 |
 
 
