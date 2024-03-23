@@ -15121,6 +15121,7 @@ Here's a list of public Fediverse services.
 | `feminine.social` | No |
 | `feminism.lgbt` | No |
 | `femme.energy` | No |
+| `femto.pub` | No |
 | `fenarinarsa.com` | No |
 | `fenbushi.site` | No |
 | `fenda.win` | No |
@@ -17860,7 +17861,7 @@ Here's a list of public Fediverse services.
 | `globalmajority.online` | No |
 | `globalmaritimehistory.com` | No |
 | `globalpirates.net` | No |
-| `globalrevolution.tv` | No |
+| `globalrevolution.tv` | Yes |
 | `globalskywatch.social` | No |
 | `globaltech-hub.com` | No |
 | `globalwarming.fun` | No |
@@ -20752,7 +20753,7 @@ Here's a list of public Fediverse services.
 | `ibaillanos.social` | No |
 | `ibax.org` | No |
 | `ibb.info` | No |
-| `ibb.plus` | No |
+| `ibb.plus` | Yes |
 | `ibb.town` | No |
 | `ibbplus.de` | No |
 | `ibbtown.com` | No |
@@ -54254,8 +54255,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,617 |
-| Normal | 38,589 |
+| Cloudflare | 15,619 |
+| Normal | 38,588 |
 
 
 </details>
