@@ -49619,6 +49619,7 @@ Here's a list of public Fediverse services.
 | `uldhaar.dk` | No |
 | `uleh.net` | Yes |
 | `ulf-kaempfer.de` | No |
+| `uli.pub` | No |
 | `ulik.at` | No |
 | `ulisboa.pt` | No |
 | `ulithsys.moe` | No |
@@ -54253,7 +54254,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,616 |
-| Normal | 38,588 |
+| Normal | 38,589 |
 
 
 </details>
