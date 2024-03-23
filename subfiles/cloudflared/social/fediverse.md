@@ -10543,6 +10543,7 @@ Here's a list of public Fediverse services.
 | `datsemultimedia.com` | No |
 | `datsmore.com` | Yes |
 | `datsteves.me` | Yes |
+| `datura.network` | No |
 | `datyedyeguy.net` | No |
 | `dauden.me` | No |
 | `dauen.name` | No |
@@ -47489,7 +47490,7 @@ Here's a list of public Fediverse services.
 | `theunderground.social` | No |
 | `theunseen.city` | No |
 | `theunwashed.org` | No |
-| `theup.link` | No |
+| `theup.link` | Yes |
 | `theupsidedown.uk` | Yes |
 | `theurbanfarmer.org` | Yes |
 | `theusefularts.org` | No |
@@ -54261,7 +54262,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,619 |
+| Cloudflare | 15,620 |
 | Normal | 38,594 |
 
 
