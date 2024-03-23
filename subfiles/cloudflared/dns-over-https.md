@@ -312,7 +312,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | shutgaming.net | Yes |
 | silen.org | Yes |
 | silentlybren.com | Yes |
-| skin57.de | No |
 | skrep.eu | No |
 | skrep.in | No |
 | slinkyman.net | Yes |
@@ -382,7 +381,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 197 |
-| Normal | 165 |
+| Normal | 164 |
 
 
-### 54.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
