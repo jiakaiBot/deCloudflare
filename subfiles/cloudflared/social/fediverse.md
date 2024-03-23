@@ -3492,6 +3492,7 @@ Here's a list of public Fediverse services.
 | `at.wiki.br` | Yes |
 | `at7s.me` | Yes |
 | `at9.uk` | Yes |
+| `ata-aq.me` | Yes |
 | `ataber.pw` | Yes |
 | `atamanoushiro.com` | No |
 | `atamisk.net` | No |
@@ -54259,7 +54260,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,619 |
+| Cloudflare | 15,620 |
 | Normal | 38,592 |
 
 
