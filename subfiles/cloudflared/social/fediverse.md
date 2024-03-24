@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,696 |
+| com | 8,697 |
 | social | 4,863 |
 | net | 4,234 |
 | org | 2,842 |
@@ -13506,6 +13506,7 @@ Here's a list of public Fediverse services.
 | `enchantedherb.social` | No |
 | `encipher.in` | No |
 | `encircle.cc` | No |
+| `encode.agency` | No |
 | `encode42.dev` | Yes |
 | `encom.social` | No |
 | `encrypted-data.xyz` | No |
@@ -39428,6 +39429,7 @@ Here's a list of public Fediverse services.
 | `raviteja.computer` | Yes |
 | `ravoque.com.br` | Yes |
 | `rawa.io` | No |
+| `rawdatastudies.com` | No |
 | `rawe.nl` | No |
 | `rawkode.academy` | Yes |
 | `rawkode.com` | Yes |
@@ -54290,7 +54292,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,638 |
-| Normal | 38,603 |
+| Normal | 38,605 |
 
 
 </details>
