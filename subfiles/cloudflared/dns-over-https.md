@@ -210,7 +210,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meexx.de | No |
 | meganerd.nl | No |
 | mesterdodh.cloud | No |
-| midping.ir | No |
 | milangas2.top | Yes |
 | moderateinfra.net | No |
 | modr.club | Yes |
@@ -320,7 +319,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | stevenfamy.me | No |
 | strassmair.org | Yes |
 | streamvine.app | Yes |
-| sufly.top | Yes |
 | sukidayo.eu.org | No |
 | sundalandia.pp.ua | Yes |
 | sunnygyl.com | No |
@@ -362,7 +360,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | waifu.cz | Yes |
 | wang.art | Yes |
 | wikimedia-dns.org | No |
-| xcn.li | No |
 | yandex.net | Yes |
 | yatima.tv | Yes |
 | yeralin.net | No |
@@ -374,8 +371,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 195 |
-| Normal | 160 |
+| Cloudflare | 194 |
+| Normal | 158 |
 
 
-### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
