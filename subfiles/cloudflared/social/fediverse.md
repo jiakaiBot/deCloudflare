@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,693 |
+| com | 8,695 |
 | social | 4,863 |
 | net | 4,234 |
-| org | 2,841 |
+| org | 2,842 |
 | de | 2,714 |
 
 
@@ -1915,6 +1915,7 @@ Here's a list of public Fediverse services.
 | `alife.dev` | Yes |
 | `alifein.tech` | No |
 | `alinke.com` | No |
+| `alirezagharib.ir` | Yes |
 | `alirezahayati.com` | No |
 | `alis.me` | Yes |
 | `alisa.sh` | No |
@@ -18147,6 +18148,7 @@ Here's a list of public Fediverse services.
 | `goodvibes.fun` | No |
 | `goofs.space` | No |
 | `googleblog.com` | No |
+| `googlediscovery.com` | Yes |
 | `googlemonde.com` | No |
 | `googoldon.net` | No |
 | `goomba.network` | Yes |
@@ -18373,6 +18375,7 @@ Here's a list of public Fediverse services.
 | `green3green.com` | No |
 | `greenboi.me` | Yes |
 | `greenboys.club` | No |
+| `greencomet.org` | No |
 | `greendalecommunity.college` | No |
 | `greendolphin.social` | No |
 | `greendragon.pub` | No |
@@ -33446,6 +33449,7 @@ Here's a list of public Fediverse services.
 | `nime.space` | No |
 | `nimmerland.space` | No |
 | `nimmog.uk` | Yes |
+| `nin0dev.com` | Yes |
 | `ninabobina.me` | Yes |
 | `ninamacnamara.com` | No |
 | `ninapaley.com` | No |
@@ -54280,8 +54284,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,635 |
-| Normal | 38,597 |
+| Cloudflare | 15,638 |
+| Normal | 38,598 |
 
 
 </details>
