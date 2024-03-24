@@ -6588,7 +6588,6 @@ Here's a list of public Fediverse services.
 | `burg-halle.de` | No |
 | `burg.art` | Yes |
 | `burgenland.space` | No |
-| `burger.moe` | No |
 | `burger.rodeo` | Yes |
 | `burgetts.net` | Yes |
 | `burggit.moe` | No |
@@ -54292,7 +54291,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,638 |
-| Normal | 38,605 |
+| Normal | 38,604 |
 
 
 </details>
