@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Email being sent without any contents on Cloudflare](https://github.com/carstenlebek/svelte-email/issues/36)
 - [Error Unable to login - User validation failed: settings.dateFormat: Path settings.dateFormat is required.](https://github.com/Yooooomi/your_spotify/issues/381)
 - [FurAffinity Cloudflare troubles](https://github.com/mikf/gallery-dl/issues/5367)
 - [403 Error on Static Assets with Query Strings on SlickStack.io](https://github.com/littlebizzy/slickstack/issues/210)
