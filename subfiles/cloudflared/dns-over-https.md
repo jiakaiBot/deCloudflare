@@ -25,7 +25,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | abdullahabas.de | Yes |
 | abppro.ru | Yes |
 | abraservice.xyz | Yes |
-| adbl-tslagter.nl | Yes |
 | adblocker.eu.org | Yes |
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
@@ -165,7 +164,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ipty.de | No |
 | iranet.cam | Yes |
 | isakula.space | No |
-| itsnooblk.xyz | Yes |
 | itya.xyz | Yes |
 | jackyes.ovh | No |
 | jakinet.id | No |
@@ -371,8 +369,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 194 |
+| Cloudflare | 192 |
 | Normal | 158 |
 
 
-### 55.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
