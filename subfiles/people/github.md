@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Git pull cannot setup deployment_key after update to 7.14.0](https://github.com/home-assistant/addons/issues/3525)
+- [Upgrading to 12.1 fails](https://github.com/home-assistant/operating-system/issues/3266)
 - [Email being sent without any contents on Cloudflare](https://github.com/carstenlebek/svelte-email/issues/36)
 - [Error Unable to login - User validation failed: settings.dateFormat: Path settings.dateFormat is required.](https://github.com/Yooooomi/your_spotify/issues/381)
 - [FurAffinity Cloudflare troubles](https://github.com/mikf/gallery-dl/issues/5367)
