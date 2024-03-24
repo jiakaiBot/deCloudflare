@@ -17744,6 +17744,7 @@ Here's a list of public Fediverse services.
 | `giroguy.com` | Yes |
 | `girondi.net` | Yes |
 | `gist.social` | No |
+| `git.gay` | Yes |
 | `git9k.com` | No |
 | `gitea.io` | Yes |
 | `gitea.moe` | Yes |
@@ -28474,6 +28475,7 @@ Here's a list of public Fediverse services.
 | `masto.melbourne` | No |
 | `masto.miami` | No |
 | `masto.ml` | No |
+| `masto.moe` | No |
 | `masto.ninja` | No |
 | `masto.nu` | No |
 | `masto.nyc` | Yes |
@@ -47107,6 +47109,7 @@ Here's a list of public Fediverse services.
 | `theden.gay` | Yes |
 | `thedent.net` | No |
 | `thedesk.top` | No |
+| `thedevane.family` | Yes |
 | `thedevil.online` | No |
 | `thedigitallancabin.net` | Yes |
 | `thedimpau.se` | No |
@@ -54265,8 +54268,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,626 |
-| Normal | 38,591 |
+| Cloudflare | 15,628 |
+| Normal | 38,592 |
 
 
 </details>
