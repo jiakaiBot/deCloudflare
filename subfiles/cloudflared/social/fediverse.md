@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,863 |
 | net | 4,234 |
 | org | 2,840 |
-| de | 2,713 |
+| de | 2,714 |
 
 
 - Mastodon, Pleroma, etc
@@ -5865,6 +5865,7 @@ Here's a list of public Fediverse services.
 | `bonn.video` | No |
 | `bonnay.info` | No |
 | `bonnbay.com` | No |
+| `bonner.blog` | No |
 | `bonobo.net` | No |
 | `bonzi.uk` | No |
 | `bonzoesc.net` | Yes |
@@ -49652,6 +49653,7 @@ Here's a list of public Fediverse services.
 | `ulne.be` | No |
 | `ulo.social` | No |
 | `ulrar.net` | No |
+| `ulrichivens.de` | No |
 | `ulrikeskadir.de` | No |
 | `ulthar.cat` | No |
 | `ultra.fail` | No |
@@ -54276,7 +54278,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,635 |
-| Normal | 38,592 |
+| Normal | 38,594 |
 
 
 </details>
