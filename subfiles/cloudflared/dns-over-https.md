@@ -343,7 +343,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tls-data.de | No |
 | tooli.ca | Yes |
 | trovs.ru | No |
-| trust404.win | Yes |
 | tryk.app | Yes |
 | tu-bs.de | No |
 | twnic.tw | No |
@@ -375,8 +374,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 196 |
+| Cloudflare | 195 |
 | Normal | 160 |
 
 
-### 55.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
