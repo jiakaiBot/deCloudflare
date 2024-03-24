@@ -29358,6 +29358,7 @@ Here's a list of public Fediverse services.
 | `meadandgreed.de` | No |
 | `meadmadeeasy.info` | No |
 | `meadow.social` | No |
+| `meadowing.club` | Yes |
 | `meadowlark.cc` | Yes |
 | `mean.engineer` | No |
 | `measure.chat` | Yes |
@@ -54268,7 +54269,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,628 |
+| Cloudflare | 15,629 |
 | Normal | 38,592 |
 
 
