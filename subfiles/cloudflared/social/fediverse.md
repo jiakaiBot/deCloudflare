@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,692 |
 | social | 4,863 |
-| net | 4,233 |
+| net | 4,234 |
 | org | 2,840 |
 | de | 2,713 |
 
@@ -2601,6 +2601,7 @@ Here's a list of public Fediverse services.
 | `anon-kenkai.com` | No |
 | `anonboard.xyz` | No |
 | `anongoth.pl` | No |
+| `anonicus.net` | No |
 | `anonion.social` | Yes |
 | `anonlabs.org` | No |
 | `anonq.com` | No |
@@ -2669,7 +2670,7 @@ Here's a list of public Fediverse services.
 | `antidisplacement.nyc` | No |
 | `antifa.ceo` | No |
 | `antifa.gmbh` | No |
-| `antifa.tokyo` | No |
+| `antifa.tokyo` | Yes |
 | `antifagun.club` | No |
 | `antifasocial.club` | No |
 | `antii.social` | Yes |
@@ -9572,7 +9573,7 @@ Here's a list of public Fediverse services.
 | `cryptocartel.social` | Yes |
 | `cryptodon.chat` | No |
 | `cryptodon.lol` | No |
-| `cryptodon.tokyo` | No |
+| `cryptodon.tokyo` | Yes |
 | `cryptodont.io` | No |
 | `cryptography.dog` | No |
 | `cryptographyengineering.com` | No |
@@ -28441,7 +28442,7 @@ Here's a list of public Fediverse services.
 | `masto-fs.de` | No |
 | `masto-lauka-dev.xyz` | No |
 | `masto-sport.us` | No |
-| `masto.actor` | Yes |
+| `masto.actor` | No |
 | `masto.ai` | Yes |
 | `masto.amsterdam` | No |
 | `masto.bar` | No |
@@ -28451,7 +28452,7 @@ Here's a list of public Fediverse services.
 | `masto.boo` | No |
 | `masto.bot` | No |
 | `masto.cafe` | No |
-| `masto.casa` | Yes |
+| `masto.casa` | No |
 | `masto.click` | No |
 | `masto.cloud` | No |
 | `masto.co` | No |
@@ -41367,7 +41368,7 @@ Here's a list of public Fediverse services.
 | `samw.dev` | Yes |
 | `san-antonio.social` | Yes |
 | `san-misskey1t.xyz` | Yes |
-| `san-tama.tokyo` | No |
+| `san-tama.tokyo` | Yes |
 | `san.moe` | No |
 | `sanae.im` | Yes |
 | `sanae233.net` | Yes |
@@ -43898,7 +43899,7 @@ Here's a list of public Fediverse services.
 | `socialspill.com` | Yes |
 | `socialtech.net.br` | No |
 | `socialtodon.de` | No |
-| `socialtoot.eu` | Yes |
+| `socialtoot.eu` | No |
 | `socialtruth.social` | No |
 | `socialtuna.net` | No |
 | `socialturtle.eu` | No |
@@ -47964,7 +47965,7 @@ Here's a list of public Fediverse services.
 | `tkaefer.de` | No |
 | `tkammer.de` | No |
 | `tki.jp` | Yes |
-| `tkmb.tokyo` | No |
+| `tkmb.tokyo` | Yes |
 | `tkngh.jp` | Yes |
 | `tkschland.de` | No |
 | `tkschland.social` | No |
@@ -54273,7 +54274,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,632 |
+| Cloudflare | 15,633 |
 | Normal | 38,593 |
 
 
