@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,693 |
 | social | 4,863 |
 | net | 4,234 |
-| org | 2,840 |
+| org | 2,841 |
 | de | 2,714 |
 
 
@@ -8540,6 +8540,7 @@ Here's a list of public Fediverse services.
 | `code28.me` | No |
 | `code4lib.net` | No |
 | `code4lib.social` | No |
+| `code65.co.uk` | No |
 | `codebase.one` | No |
 | `codechem.io` | Yes |
 | `codecoffin.com` | Yes |
@@ -29443,6 +29444,7 @@ Here's a list of public Fediverse services.
 | `meedan.social` | Yes |
 | `meegt.org` | No |
 | `meekchopp.es` | No |
+| `meemmuslim.org` | No |
 | `meemu.org` | Yes |
 | `meenzen.net` | Yes |
 | `meep.tech` | No |
@@ -38569,6 +38571,7 @@ Here's a list of public Fediverse services.
 | `pyche.ovh` | No |
 | `pycodon.fr` | No |
 | `pycomtois.com` | No |
+| `pycon.org.au` | No |
 | `pygillier.me` | Yes |
 | `pygos.space` | No |
 | `pym.industries` | Yes |
@@ -54278,7 +54281,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,635 |
-| Normal | 38,594 |
+| Normal | 38,597 |
 
 
 </details>
