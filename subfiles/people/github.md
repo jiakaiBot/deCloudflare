@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [UC Mode not working on window server 2022](https://github.com/seleniumbase/SeleniumBase/issues/2635)
+- [GraphQL throws error when passing page <= 0](https://github.com/shikimori/shikimori/issues/2779)
 - [NPC repeat "I can't find the right words at the moment"](https://github.com/art-from-the-machine/Mantella/issues/187)
 - [adapter-cloudflare 4.2.0 broke @iconify/svelte](https://github.com/sveltejs/kit/issues/12027)
 - [Git pull cannot setup deployment_key after update to 7.14.0](https://github.com/home-assistant/addons/issues/3525)
