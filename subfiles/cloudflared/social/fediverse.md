@@ -15395,7 +15395,7 @@ Here's a list of public Fediverse services.
 | `finsup.social` | No |
 | `fintech.eco` | No |
 | `finton.cc` | Yes |
-| `fintoot.space` | Yes |
+| `fintoot.space` | No |
 | `fintwit.world` | No |
 | `fionic.eu` | No |
 | `fionna.wtf` | No |
@@ -40462,6 +40462,7 @@ Here's a list of public Fediverse services.
 | `roccoli-b.com` | No |
 | `rocha.dev.br` | No |
 | `rochelle.social` | No |
+| `rochka.club` | Yes |
 | `rock-hosting.net` | No |
 | `rock0head420.rocks` | Yes |
 | `rockcd.jp` | No |
@@ -54285,7 +54286,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,638 |
-| Normal | 38,598 |
+| Normal | 38,599 |
 
 
 </details>
