@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,863 |
 | net | 4,233 |
 | org | 2,840 |
-| de | 2,712 |
+| de | 2,713 |
 
 
 - Mastodon, Pleroma, etc
@@ -21333,6 +21333,7 @@ Here's a list of public Fediverse services.
 | `infocamp.digital` | No |
 | `infoclog.com` | Yes |
 | `infodocs.eu` | No |
+| `infodump.ing` | No |
 | `infoheap.com` | No |
 | `infojournal.fr` | No |
 | `infolattice.org` | No |
@@ -27163,6 +27164,7 @@ Here's a list of public Fediverse services.
 | `lousydomain.xyz` | Yes |
 | `loutaci.cz` | No |
 | `loutre.info` | No |
+| `loutres.me` | Yes |
 | `louy.social` | Yes |
 | `louzao.network` | Yes |
 | `lovecrafts.social` | No |
@@ -49704,6 +49706,7 @@ Here's a list of public Fediverse services.
 | `umrath.net` | No |
 | `umu.se` | Yes |
 | `umucat.day` | Yes |
+| `umunsrum.de` | No |
 | `umwelt.party` | No |
 | `umwelt.social` | No |
 | `umycode.com` | Yes |
@@ -54270,8 +54273,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,631 |
-| Normal | 38,591 |
+| Cloudflare | 15,632 |
+| Normal | 38,593 |
 
 
 </details>
