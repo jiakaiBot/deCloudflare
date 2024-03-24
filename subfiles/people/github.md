@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [adapter-cloudflare 4.2.0 broke @iconify/svelte](https://github.com/sveltejs/kit/issues/12027)
 - [Git pull cannot setup deployment_key after update to 7.14.0](https://github.com/home-assistant/addons/issues/3525)
 - [Upgrading to 12.1 fails](https://github.com/home-assistant/operating-system/issues/3266)
 - [Email being sent without any contents on Cloudflare](https://github.com/carstenlebek/svelte-email/issues/36)
