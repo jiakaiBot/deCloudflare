@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,692 |
+| com | 8,693 |
 | social | 4,863 |
 | net | 4,234 |
 | org | 2,840 |
@@ -5228,6 +5228,7 @@ Here's a list of public Fediverse services.
 | `bitbybitwhatever.com` | Yes |
 | `bitcast.info` | No |
 | `bitcast.online` | No |
+| `bitchinrockphotos.com` | No |
 | `bitcoin.ninja` | No |
 | `bitcoinadon.social` | No |
 | `bitcoinasylum.org` | No |
@@ -5390,7 +5391,7 @@ Here's a list of public Fediverse services.
 | `blackpacket.net` | Yes |
 | `blackpaws.me` | Yes |
 | `blackpoolgay.xyz` | No |
-| `blackqueer.life` | No |
+| `blackqueer.life` | Yes |
 | `blackquill.cc` | No |
 | `blackrock.city` | No |
 | `blackrock.social` | No |
@@ -9241,7 +9242,7 @@ Here's a list of public Fediverse services.
 | `coywolf.today` | Yes |
 | `coza.cloud` | No |
 | `coziness.xyz` | Yes |
-| `cozy-space.blue` | No |
+| `cozy-space.blue` | Yes |
 | `cozy.chat` | Yes |
 | `cozy.lgbt` | Yes |
 | `cozymech.com` | No |
@@ -54274,8 +54275,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,633 |
-| Normal | 38,593 |
+| Cloudflare | 15,635 |
+| Normal | 38,592 |
 
 
 </details>
