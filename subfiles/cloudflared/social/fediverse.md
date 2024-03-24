@@ -2954,7 +2954,7 @@ Here's a list of public Fediverse services.
 | `arcatar.com` | Yes |
 | `arcepi.net` | No |
 | `arch-linux.cz` | Yes |
-| `archae.me` | No |
+| `archae.me` | Yes |
 | `archaeme.tech` | No |
 | `archaeo.social` | Yes |
 | `archaeology.social` | Yes |
@@ -20305,6 +20305,7 @@ Here's a list of public Fediverse services.
 | `hoto.moe` | Yes |
 | `hoto.rocks` | Yes |
 | `hoto.us` | Yes |
+| `hotoras.kr` | Yes |
 | `hotous.net` | Yes |
 | `hotpot.social` | No |
 | `hotspiderdemonsinyourarea.com` | Yes |
@@ -54269,8 +54270,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,629 |
-| Normal | 38,592 |
+| Cloudflare | 15,631 |
+| Normal | 38,591 |
 
 
 </details>
