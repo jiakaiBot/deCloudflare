@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Live streaming service and cloudflare](https://github.com/WWBN/AVideo/issues/8913)
 - [UC Mode not working on window server 2022](https://github.com/seleniumbase/SeleniumBase/issues/2635)
 - [GraphQL throws error when passing page <= 0](https://github.com/shikimori/shikimori/issues/2779)
 - [NPC repeat "I can't find the right words at the moment"](https://github.com/art-from-the-machine/Mantella/issues/187)
