@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Workers compatibility](https://github.com/QwikDev/astro/issues/76)
+- [Customer reply is not displayed in message](https://github.com/freescout-helpdesk/freescout/issues/3904)
 - [Error when uploading file bigger than 5GB](https://github.com/supabase-community/storage-csharp/issues/14)
 - [Cloudflare R2 Header 'x-amz-checksum-algorithm' with value 'CRC32C' not implemented](https://github.com/cortexproject/cortex/issues/5829)
 - [Script stops after typing in the domain](https://github.com/notthebee/ansible-easy-vpn/issues/286)
