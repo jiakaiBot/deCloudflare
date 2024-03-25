@@ -14,7 +14,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Provider | Cloudflared |
 | --- | --- |
 | 00dani.me | No |
-| 360.cn | No |
 | 4-the.win | Yes |
 | 52306.org | Yes |
 | 546413.xyz | Yes |
@@ -273,7 +272,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rin.sh | Yes |
 | rootlab.top | No |
 | russel053.com | Yes |
-| sadraidc.com | Yes |
 | saferbfc.org | Yes |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
@@ -354,8 +352,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 183 |
-| Normal | 152 |
+| Cloudflare | 182 |
+| Normal | 151 |
 
 
-### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
