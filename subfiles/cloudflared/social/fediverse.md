@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,699 |
 | social | 4,864 |
-| net | 4,236 |
+| net | 4,237 |
 | org | 2,843 |
 | de | 2,714 |
 
@@ -6852,6 +6852,7 @@ Here's a list of public Fediverse services.
 | `cakes.rocks` | Yes |
 | `calacademy.org` | Yes |
 | `caladona.org` | No |
+| `calamero.net` | No |
 | `calamity.world` | Yes |
 | `calamityconductor.com` | No |
 | `calavere.me` | No |
@@ -39460,7 +39461,7 @@ Here's a list of public Fediverse services.
 | `rawww.de` | Yes |
 | `raxx.la` | No |
 | `rayci.st` | No |
-| `raygoon.tk` | Yes |
+| `raygoon.tk` | No |
 | `raygungothic.xyz` | No |
 | `raykoworld.com` | No |
 | `raymondtec.com` | No |
@@ -54309,8 +54310,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,649 |
-| Normal | 38,612 |
+| Cloudflare | 15,648 |
+| Normal | 38,614 |
 
 
 </details>
