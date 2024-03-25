@@ -1454,7 +1454,7 @@ Here's a list of public Fediverse services.
 | `afromunkee.live` | No |
 | `afromunkee.xyz` | No |
 | `afront.org` | No |
-| `afroteca.org` | No |
+| `afroteca.org` | Yes |
 | `aftbit.com` | No |
 | `after-work-photo.eu` | No |
 | `afternoon.chat` | Yes |
@@ -13801,6 +13801,7 @@ Here's a list of public Fediverse services.
 | `eristocracy.org` | No |
 | `erlend.sh` | No |
 | `ernesto.dev` | No |
+| `ernestoacosta.me` | No |
 | `ernestoacosta.org` | No |
 | `erneuer.bar` | No |
 | `ernix.jp` | No |
@@ -54296,7 +54297,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,643 |
+| Cloudflare | 15,644 |
 | Normal | 38,605 |
 
 
