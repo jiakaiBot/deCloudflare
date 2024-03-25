@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Script stops after typing in the domain](https://github.com/notthebee/ansible-easy-vpn/issues/286)
 - [reconnection logic error (internal and external url)](https://github.com/home-assistant/android/issues/4294)
 - [521 Error on Firefox Mobile only?](https://github.com/okawaffles/OkayuCDN/issues/34)
 - [Live streaming service and cloudflare](https://github.com/WWBN/AVideo/issues/8913)
