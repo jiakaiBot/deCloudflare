@@ -16906,6 +16906,7 @@ Here's a list of public Fediverse services.
 | `fzry.us` | No |
 | `g-fukurowl.club` | No |
 | `g-miura.jp` | No |
+| `g-reth.aero` | No |
 | `g-serv.net` | No |
 | `g0o.net` | Yes |
 | `g0re.de` | No |
@@ -54311,7 +54312,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,648 |
-| Normal | 38,614 |
+| Normal | 38,615 |
 
 
 </details>
