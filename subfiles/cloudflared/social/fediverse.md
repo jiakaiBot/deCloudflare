@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,699 |
 | social | 4,864 |
-| net | 4,234 |
+| net | 4,235 |
 | org | 2,843 |
 | de | 2,714 |
 
@@ -232,7 +232,7 @@ Here's a list of public Fediverse services.
 | `10one.net` | No |
 | `10qt.net` | No |
 | `10rino.net` | No |
-| `10vorne.eu` | No |
+| `10vorne.eu` | Yes |
 | `10x.sh` | Yes |
 | `110010.win` | Yes |
 | `1132don.com` | No |
@@ -7606,6 +7606,7 @@ Here's a list of public Fediverse services.
 | `charcha.cc` | No |
 | `charcolle.art` | No |
 | `chare.social` | No |
+| `charemza.name` | No |
 | `chargeholidays.com` | Yes |
 | `chargen.one` | Yes |
 | `chariri.moe` | Yes |
@@ -14002,7 +14003,7 @@ Here's a list of public Fediverse services.
 | `eulendore.xyz` | No |
 | `eulerroom.com` | No |
 | `eulious.com` | No |
-| `eunach.scot` | No |
+| `eunach.scot` | Yes |
 | `eunivers.social` | No |
 | `euonymus.xyz` | Yes |
 | `euphorian.net` | Yes |
@@ -18597,7 +18598,7 @@ Here's a list of public Fediverse services.
 | `grupli.org` | No |
 | `grurple.org` | No |
 | `grwd.com` | No |
-| `gry.st` | No |
+| `gry.st` | Yes |
 | `grynaserio.pl` | No |
 | `gryphon.is` | Yes |
 | `gryphon68.social` | No |
@@ -33006,6 +33007,7 @@ Here's a list of public Fediverse services.
 | `netmynd.org` | Yes |
 | `neto1.com` | Yes |
 | `netooze.com` | Yes |
+| `netoperek.pl` | No |
 | `netou.info` | No |
 | `netplusw.com` | No |
 | `netpro2k.io` | No |
@@ -35774,6 +35776,7 @@ Here's a list of public Fediverse services.
 | `owari.shop` | Yes |
 | `owasikohu.com` | Yes |
 | `owatan.jp` | No |
+| `owenkelly.net` | No |
 | `owenryan.us` | No |
 | `owenyoung.com` | Yes |
 | `owgf.org` | No |
@@ -54303,7 +54306,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,645 |
+| Cloudflare | 15,648 |
 | Normal | 38,610 |
 
 
