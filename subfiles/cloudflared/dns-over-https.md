@@ -228,7 +228,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nielsdb.be | No |
 | ninhs.org | No |
 | niyawe.de | No |
-| nj0.de | No |
 | njal.la | No |
 | noaddns.com | No |
 | node15.com | Yes |
@@ -370,7 +369,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 192 |
-| Normal | 158 |
+| Normal | 157 |
 
 
-### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
