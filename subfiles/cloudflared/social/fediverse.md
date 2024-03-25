@@ -726,7 +726,7 @@ Here's a list of public Fediverse services.
 | `619.ink` | Yes |
 | `619.today` | Yes |
 | `619.zone` | No |
-| `621industries.com` | Yes |
+| `621industries.com` | No |
 | `62ki.net` | Yes |
 | `62x54r.ru` | No |
 | `64-b.it` | Yes |
@@ -45521,6 +45521,7 @@ Here's a list of public Fediverse services.
 | `sunrise.social` | Yes |
 | `sunrisesunset.shop` | No |
 | `sunset0916.net` | Yes |
+| `sunsetsonwheels.me` | Yes |
 | `sunshine.town` | No |
 | `sunshinecoast.social` | No |
 | `sunshinegardens.org` | No |
@@ -54307,7 +54308,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,648 |
-| Normal | 38,610 |
+| Normal | 38,611 |
 
 
 </details>
