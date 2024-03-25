@@ -159,7 +159,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ikarosalpha.xyz | Yes |
 | in-berlin.de | No |
 | indybanipal.com | No |
-| inpssh.online | Yes |
 | inria.fr | No |
 | ipty.de | No |
 | iranet.cam | Yes |
@@ -313,7 +312,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sscw.win | Yes |
 | startupstack.tech | Yes |
 | stealbit.com | Yes |
-| stevenfamy.me | No |
 | strassmair.org | Yes |
 | streamvine.app | Yes |
 | sukidayo.eu.org | No |
@@ -368,8 +366,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 192 |
-| Normal | 157 |
+| Cloudflare | 191 |
+| Normal | 156 |
 
 
 ### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
