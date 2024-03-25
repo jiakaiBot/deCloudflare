@@ -5169,7 +5169,7 @@ Here's a list of public Fediverse services.
 | `birb.stream` | No |
 | `birb.town` | No |
 | `birb.zone` | No |
-| `birchgame.org` | No |
+| `birchgame.org` | Yes |
 | `bird.band` | No |
 | `bird.makeup` | No |
 | `bird.rodeo` | No |
@@ -17185,7 +17185,7 @@ Here's a list of public Fediverse services.
 | `gath.io` | No |
 | `gath.nz` | Yes |
 | `gathernorust.net` | No |
-| `gatorarms.net` | Yes |
+| `gatorarms.net` | No |
 | `gatorcountry.club` | No |
 | `gattai.net` | No |
 | `gatti.ninja` | No |
@@ -39147,6 +39147,7 @@ Here's a list of public Fediverse services.
 | `ragtag.moe` | Yes |
 | `raguenaud.social` | No |
 | `rah.social` | No |
+| `rahil.rocks` | No |
 | `rahim.li` | Yes |
 | `rahlstedt.biz` | No |
 | `rahlstedt.de` | No |
@@ -54299,7 +54300,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,644 |
-| Normal | 38,606 |
+| Normal | 38,607 |
 
 
 </details>
