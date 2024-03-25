@@ -10141,6 +10141,7 @@ Here's a list of public Fediverse services.
 | `dadalo.pl` | No |
 | `dadams.io` | Yes |
 | `dadasophin.de` | No |
+| `dadbod.cam` | No |
 | `dadchat.online` | No |
 | `dadd.ie` | No |
 | `dade.miami` | No |
@@ -20158,6 +20159,7 @@ Here's a list of public Fediverse services.
 | `honey.town` | No |
 | `honeybadger.social` | No |
 | `honeybank.net` | No |
+| `honeycat.space` | No |
 | `honeycomb.engineer` | Yes |
 | `honeyguide.net` | No |
 | `honeypot.im` | No |
@@ -45992,7 +45994,7 @@ Here's a list of public Fediverse services.
 | `tabletop.social` | No |
 | `tabletop.vip` | Yes |
 | `tabletoprpg.social` | No |
-| `tabletoptavern.online` | No |
+| `tabletoptavern.online` | Yes |
 | `taborsky.cz` | No |
 | `taboulisme.com` | No |
 | `tac-lan.net` | No |
@@ -47992,6 +47994,7 @@ Here's a list of public Fediverse services.
 | `tlbflush.org` | Yes |
 | `tldr.tk` | No |
 | `tlef.social` | No |
+| `tleplace.xyz` | Yes |
 | `tlespace.xyz` | Yes |
 | `tlf.pw` | Yes |
 | `tlfoxhuman.net` | No |
@@ -50940,7 +50943,7 @@ Here's a list of public Fediverse services.
 | `vnchich.net` | Yes |
 | `vnecke.social` | No |
 | `vnil.de` | No |
-| `vnshow.cc` | Yes |
+| `vnshow.cc` | No |
 | `vnshow.net` | Yes |
 | `vnshow.xyz` | Yes |
 | `vntoot.social` | No |
@@ -52637,7 +52640,7 @@ Here's a list of public Fediverse services.
 | `wybt.net` | No |
 | `wycey.dev` | Yes |
 | `wychwit.ch` | Yes |
-| `wyld.me` | No |
+| `wyld.me` | Yes |
 | `wyld.media` | Yes |
 | `wyman.us` | Yes |
 | `wyndix.dev` | No |
@@ -54290,8 +54293,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,638 |
-| Normal | 38,604 |
+| Cloudflare | 15,640 |
+| Normal | 38,605 |
 
 
 </details>
