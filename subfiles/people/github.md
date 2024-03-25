@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [reconnection logic error (internal and external url)](https://github.com/home-assistant/android/issues/4294)
 - [521 Error on Firefox Mobile only?](https://github.com/okawaffles/OkayuCDN/issues/34)
 - [Live streaming service and cloudflare](https://github.com/WWBN/AVideo/issues/8913)
 - [UC Mode not working on window server 2022](https://github.com/seleniumbase/SeleniumBase/issues/2635)
