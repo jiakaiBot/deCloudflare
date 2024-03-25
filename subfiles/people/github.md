@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare R2 Header 'x-amz-checksum-algorithm' with value 'CRC32C' not implemented](https://github.com/cortexproject/cortex/issues/5829)
 - [Script stops after typing in the domain](https://github.com/notthebee/ansible-easy-vpn/issues/286)
 - [reconnection logic error (internal and external url)](https://github.com/home-assistant/android/issues/4294)
 - [521 Error on Firefox Mobile only?](https://github.com/okawaffles/OkayuCDN/issues/34)
