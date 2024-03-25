@@ -84,7 +84,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | danayasastore.my.id | Yes |
 | data.haus | No |
 | datahata.by | No |
-| daw.dev | No |
 | decky.eu | No |
 | dekedin.me | No |
 | despagne.net | No |
@@ -178,7 +177,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | konikoni428.com | Yes |
 | korzhyk.pp.ua | Yes |
 | krnl.eu | Yes |
-| ksedns.ru | No |
 | lacontrevoie.fr | No |
 | lastentarvike.fi | No |
 | lavate.ch | Yes |
@@ -201,7 +199,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | marschi.de | Yes |
 | marto.si | No |
 | masters-of-cloud.de | No |
-| mattiafenzi.uk | Yes |
 | maxfong.cc | Yes |
 | meddy94.de | No |
 | meexx.de | No |
@@ -243,7 +240,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ortudns.com | No |
 | oszx.co | No |
 | ours.luxe | No |
-| outdoorchair.us | Yes |
 | ovpn.bond | No |
 | pacificmonster.com | Yes |
 | paesa.es | Yes |
@@ -333,7 +329,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tiarap.org | Yes |
 | tigrons.ru | No |
 | tls-data.de | No |
-| tooli.ca | Yes |
 | trovs.ru | No |
 | tryk.app | Yes |
 | tu-bs.de | No |
@@ -365,8 +360,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 190 |
-| Normal | 156 |
+| Cloudflare | 187 |
+| Normal | 154 |
 
 
-### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
