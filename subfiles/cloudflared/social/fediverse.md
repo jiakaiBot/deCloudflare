@@ -49006,6 +49006,7 @@ Here's a list of public Fediverse services.
 | `trwnh.com` | Yes |
 | `trxrg.com` | Yes |
 | `try-to-hack.me` | No |
+| `trycatch.dev` | Yes |
 | `trycht.cz` | No |
 | `trycloudflare.com` | Yes |
 | `trydiscourse.com` | Yes |
@@ -54299,7 +54300,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,644 |
+| Cloudflare | 15,645 |
 | Normal | 38,607 |
 
 
