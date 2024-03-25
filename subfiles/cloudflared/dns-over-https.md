@@ -218,7 +218,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mywire.org | Yes |
 | narl.app | No |
 | nenam.eu | No |
-| nerdytechgeeks.co.za | Yes |
 | netlab.my.id | Yes |
 | nexific.it | Yes |
 | nhtsky.com | Yes |
@@ -366,8 +365,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 191 |
+| Cloudflare | 190 |
 | Normal | 156 |
 
 
-### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
