@@ -75,7 +75,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cloudku.technology | Yes |
 | cloudseriousshit.com | Yes |
 | cloudsides.com | Yes |
-| clubbase.club | No |
 | cubedns.com | No |
 | cxl.moe | Yes |
 | cybrespace.net | No |
@@ -110,7 +109,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | doh.xyz | Yes |
 | domotik.us | Yes |
 | domyah.net | Yes |
-| doserver.top | Yes |
 | dotnet.win | Yes |
 | dscloud.me | No |
 | dsh.lol | Yes |
@@ -188,7 +186,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lindung.pp.ua | Yes |
 | linzefeng.top | Yes |
 | lista.my.id | Yes |
-| llzz.top | Yes |
 | lmir.info | No |
 | londonwebnerd.cloud | Yes |
 | lonet.org | Yes |
@@ -340,7 +337,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | unstoppable.io | Yes |
 | unx.io | No |
 | vape.ong | Yes |
-| venovedo.ro | Yes |
 | viatech.com.tw | Yes |
 | virga.pp.ua | Yes |
 | vtcuong.site | Yes |
@@ -350,7 +346,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wikimedia-dns.org | No |
 | yandex.net | Yes |
 | yatima.tv | Yes |
-| yeralin.net | No |
 | yumenashyi.com | Yes |
 | zburger.top | No |
 
@@ -359,8 +354,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 186 |
-| Normal | 154 |
+| Cloudflare | 183 |
+| Normal | 152 |
 
 
-### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
