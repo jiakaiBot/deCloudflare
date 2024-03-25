@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,699 |
 | social | 4,864 |
-| net | 4,235 |
+| net | 4,236 |
 | org | 2,843 |
 | de | 2,714 |
 
@@ -3686,6 +3686,7 @@ Here's a list of public Fediverse services.
 | `aussie-bbq.com` | No |
 | `aussie.zone` | Yes |
 | `aussiebondage.au` | No |
+| `aussieshep.dev` | No |
 | `austdns.com` | No |
 | `austerlitz.social` | No |
 | `austin.community` | No |
@@ -7716,6 +7717,7 @@ Here's a list of public Fediverse services.
 | `cheeseland.xyz` | Yes |
 | `cheesemakesmehappy.com` | No |
 | `cheesepark.io` | No |
+| `cheesesnakes.net` | Yes |
 | `cheetah85.ovh` | No |
 | `chef-li.eu` | No |
 | `chefblogger.me` | Yes |
@@ -54307,8 +54309,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,648 |
-| Normal | 38,611 |
+| Cloudflare | 15,649 |
+| Normal | 38,612 |
 
 
 </details>
