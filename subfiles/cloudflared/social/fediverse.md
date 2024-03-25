@@ -1222,6 +1222,7 @@ Here's a list of public Fediverse services.
 | `actuallyacat.com` | No |
 | `actuallyautistics.org` | No |
 | `acu.lt` | No |
+| `acuah.info` | No |
 | `acula.me` | Yes |
 | `acurrency.org` | No |
 | `ad-astra.moe` | No |
@@ -54298,7 +54299,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,644 |
-| Normal | 38,605 |
+| Normal | 38,606 |
 
 
 </details>
