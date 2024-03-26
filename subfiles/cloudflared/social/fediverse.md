@@ -34575,7 +34575,7 @@ Here's a list of public Fediverse services.
 | `observationblogger.com` | No |
 | `observatory.blog` | No |
 | `observatory.social` | No |
-| `observer.com` | No |
+| `observer.com` | Yes |
 | `obsidian-group.co` | Yes |
 | `obsidianfleet.net` | Yes |
 | `obsidianmoon.com` | No |
@@ -47825,7 +47825,7 @@ Here's a list of public Fediverse services.
 | `tigger.ie` | No |
 | `tigger.social` | No |
 | `tiggi.es` | No |
-| `tighnari.site` | Yes |
+| `tighnari.site` | No |
 | `tigr.dad` | Yes |
 | `tigr.space` | No |
 | `tigvarts.com` | No |
@@ -50365,6 +50365,7 @@ Here's a list of public Fediverse services.
 | `valko.dev` | No |
 | `valkyrie.world` | No |
 | `valkyriecoms.com` | Yes |
+| `valkyrisskey.uk` | Yes |
 | `vallcarca.net` | No |
 | `valletta.io` | Yes |
 | `valleycommunity.co.za` | Yes |
@@ -52624,7 +52625,7 @@ Here's a list of public Fediverse services.
 | `wumbo.buzz` | No |
 | `wumix.net` | No |
 | `wump.me` | Yes |
-| `wunderwaffla.vip` | Yes |
+| `wunderwaffla.vip` | No |
 | `wuppertalblogs.de` | No |
 | `wuppi.social` | No |
 | `wur.pm` | No |
@@ -54311,7 +54312,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,648 |
-| Normal | 38,614 |
+| Normal | 38,615 |
 
 
 </details>
