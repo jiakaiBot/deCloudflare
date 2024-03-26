@@ -236,7 +236,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pacificmonster.com | Yes |
 | paesa.es | Yes |
 | panszelescik.pl | Yes |
-| paskam.xyz | Yes |
 | pathofgrace.com | No |
 | paulo.nom.za | Yes |
 | paxavemedia.com | Yes |
@@ -347,8 +346,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 180 |
+| Cloudflare | 179 |
 | Normal | 148 |
 
 
-### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
