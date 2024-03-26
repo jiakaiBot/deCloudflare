@@ -26466,6 +26466,7 @@ Here's a list of public Fediverse services.
 | `lifthill.us` | Yes |
 | `ligature.ca` | No |
 | `lightbeamapps.com` | No |
+| `lightcrystal.systems` | No |
 | `lightdashing.me` | No |
 | `lighteon.ru` | No |
 | `lighthouse-eco.co.za` | No |
@@ -54313,7 +54314,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,649 |
-| Normal | 38,615 |
+| Normal | 38,616 |
 
 
 </details>
