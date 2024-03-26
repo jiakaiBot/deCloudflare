@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Insufficient validation of kemID results in panic](https://github.com/chris-wood/ohttp-go/issues/29)
 - [Button U3 not found in job exception](https://github.com/useapi/midjourney-api-client/issues/2)
 - [Broken Installation and Execution on Nobara Linux](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/15384)
 - [CloudFlare Cloudflare Logs and Analytics service issues](https://github.com/SecOpsNews/news/issues/26497)
