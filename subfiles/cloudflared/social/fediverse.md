@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,703 |
 | social | 4,864 |
 | net | 4,237 |
-| org | 2,843 |
+| org | 2,844 |
 | de | 2,716 |
 
 
@@ -1477,6 +1477,7 @@ Here's a list of public Fediverse services.
 | `agb-web.de` | No |
 | `agda.club` | No |
 | `agdersam.no` | No |
+| `aggregatet.org` | No |
 | `aggregation.cafe` | No |
 | `aggronaut.com` | No |
 | `aghd.org` | No |
@@ -5880,6 +5881,7 @@ Here's a list of public Fediverse services.
 | `boodoo.biz` | No |
 | `boogalooinvestigator.com` | No |
 | `boogstreken.be` | No |
+| `booja.ca` | No |
 | `bookandsword.com` | No |
 | `bookbeezhive.com` | No |
 | `bookdon.jp` | No |
@@ -53666,6 +53668,7 @@ Here's a list of public Fediverse services.
 | `yunase.com` | No |
 | `yung.au` | Yes |
 | `yunkuangao.com` | Yes |
+| `yuno.ovh` | Yes |
 | `yunochi.com` | Yes |
 | `yunochi.moe` | Yes |
 | `yunohost.ga` | No |
@@ -54319,8 +54322,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,651 |
-| Normal | 38,620 |
+| Cloudflare | 15,652 |
+| Normal | 38,622 |
 
 
 </details>
