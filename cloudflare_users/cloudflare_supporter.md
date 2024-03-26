@@ -7952,6 +7952,7 @@ Do not create new issue or we will close it as duplicate.
 | [lil_book_of_sin@X](https://twitter.com/lil_book_of_sin/status/1665889040275480578) | advertise |
 | [Limbo121@X](https://twitter.com/Limbo121/status/1603036932396589056) | advertise |
 | [LimHtar@X](https://twitter.com/LimHtar/status/1379706457453555712) | advertise |
+| [LIMITNEWS2@X](https://twitter.com/LIMITNEWS2/status/1772436805570183349) | advertise |
 | [Lin123He@X](https://twitter.com/Lin123He/status/1394868986932654080) | advertise |
 | [lin869443@X](https://twitter.com/lin869443/status/1757249502757392851) | advertise |
 | [Lin12335892663@X](https://twitter.com/Lin12335892663/status/1392413770782183427) | advertise |
