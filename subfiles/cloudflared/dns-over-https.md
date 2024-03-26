@@ -123,7 +123,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | felipefalcao.ninja | Yes |
 | fffly.xyz | No |
 | ffmuc.net | Yes |
-| fihch.ru | No |
 | fknw.de | No |
 | flm9.net | No |
 | flylcc.cc | Yes |
@@ -179,7 +178,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | leadseason.eu | Yes |
 | lefolgoc.net | No |
 | lezainski.com | Yes |
-| lgprk.com | No |
 | libredns.gr | No |
 | lindung.pp.ua | Yes |
 | linzefeng.top | Yes |
@@ -350,7 +348,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 180 |
-| Normal | 150 |
+| Normal | 148 |
 
 
-### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
