@@ -15178,6 +15178,7 @@ Here's a list of public Fediverse services.
 | `fermyon.app` | Yes |
 | `fernomac.rip` | No |
 | `fernsprechkabine.de` | No |
+| `ferny.sh` | Yes |
 | `ferociousdesigns.com` | No |
 | `ferofox.de` | No |
 | `ferraris.me` | No |
@@ -54311,7 +54312,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,648 |
+| Cloudflare | 15,649 |
 | Normal | 38,615 |
 
 
