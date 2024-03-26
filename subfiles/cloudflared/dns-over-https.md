@@ -16,8 +16,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 00dani.me | No |
 | 4-the.win | Yes |
 | 52306.org | Yes |
-| 546413.xyz | Yes |
-| 888654.xyz | Yes |
 | 8888.google | No |
 | aa.net.uk | No |
 | abd.ong | Yes |
@@ -61,7 +59,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | carson-family.com | Yes |
 | carter.me | Yes |
 | catdns.org | Yes |
-| cgnat.net | No |
 | chadeyron.fr | Yes |
 | chalkychalk.com | Yes |
 | chenu.ch | No |
@@ -97,9 +94,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dns.sb | Yes |
 | dns4all.eu | No |
 | dnscry.pt | No |
-| dnsforfamily.com | Yes |
 | dnsforge.de | No |
-| dnshome.de | No |
 | dnslow.me | No |
 | dnswebvsn.com | Yes |
 | doh.best | No |
@@ -131,7 +126,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | froth.zone | No |
 | ftp.sh | Yes |
 | fullaccesstointernet.jp.eu.org | No |
-| furrydns.de | No |
 | gac.edu | No |
 | gentility.org | Yes |
 | geshido.ru | No |
@@ -139,7 +133,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | guidocioni.it | No |
 | hahnjo.de | No |
 | hanniel.tech | No |
-| he.net | No |
 | henek.ovh | Yes |
 | hker.me | Yes |
 | hostme.co.il | Yes |
@@ -157,7 +150,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ipty.de | No |
 | iranet.cam | Yes |
 | isakula.space | No |
-| itya.xyz | Yes |
 | jackyes.ovh | No |
 | jakinet.id | No |
 | jmarkin.ru | Yes |
@@ -229,7 +221,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | omada.cafe | Yes |
 | openbld.net | No |
 | opendns.com | Yes |
-| ortudns.com | No |
 | oszx.co | No |
 | ours.luxe | No |
 | ovpn.bond | No |
@@ -243,7 +234,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | persiannit.net | Yes |
 | pietjacobs.be | No |
 | plaawan.uk | Yes |
-| ple91.uk | No |
 | pleumkungz.com | Yes |
 | pmoebi.xyz | No |
 | pooblet.co.za | Yes |
@@ -276,7 +266,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | scarx.net | Yes |
 | schlagheck.berlin | Yes |
 | scuola.org | No |
-| seby.io | Yes |
 | secure-4ud.de | No |
 | serdcebolit.ru | No |
 | servebeer.com | Yes |
@@ -304,7 +293,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sunnygyl.com | No |
 | superstefan.win | Yes |
 | swin.pro | Yes |
-| switch.ch | No |
 | syshero.org | No |
 | systemfall.ru | Yes |
 | szyrzyk.pl | No |
@@ -346,8 +334,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 179 |
-| Normal | 148 |
+| Cloudflare | 174 |
+| Normal | 141 |
 
 
-### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
