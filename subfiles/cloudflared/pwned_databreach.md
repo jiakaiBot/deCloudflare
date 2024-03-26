@@ -106,7 +106,7 @@ Here's a list of breached sites.
 | Bolt | 995,274 | No |
 | BombujEu (Bombuj.eu) | 575,437 | Yes |
 | Bonobos | 2,811,929 | No |
-| BookCrossing | 1,582,323 | No |
+| BookCrossing | 1,582,323 | Yes |
 | Bookchor | 498,297 | No |
 | Bookmate | 3,830,916 | Yes |
 | BotOfLegends (Bot of Legends) | 238,373 | Yes |
@@ -599,6 +599,7 @@ Here's a list of breached sites.
 | SundryFiles (Sundry Files) | 274,461 | Yes |
 | SvenskaMagic | 30,327 | No |
 | SweClockers (SweClockers.com) | 254,867 | No |
+| SwordFantasy | 2,690,657 | Yes |
 | Swvl | 4,195,918 | Yes |
 | TAPAirPortugal (TAP Air Portugal) | 6,083,479 | Yes |
 | TGBUS | 10,371,766 | No |
@@ -742,10 +743,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 426 | 4,712,778,262 |
-| Normal | 295 | 4,451,953,983 |
+| Cloudflare | 428 | 4,717,051,242 |
+| Normal | 294 | 4,450,371,660 |
 
 
 
-### 59.1% of breached sites (pwned sites) are using Cloudflare.
-### 51.4% of leaked accounts are on Cloudflare sites.
+### 59.3% of breached sites (pwned sites) are using Cloudflare.
+### 51.5% of leaked accounts are on Cloudflare sites.
