@@ -31718,7 +31718,6 @@ Here's a list of public Fediverse services.
 | `muchametow.de` | No |
 | `mucrone.tech` | No |
 | `mud.social` | No |
-| `muda.site` | No |
 | `mudb0y.com` | Yes |
 | `mudge.name` | Yes |
 | `mudhut.social` | Yes |
@@ -35583,7 +35582,6 @@ Here's a list of public Fediverse services.
 | `ostolc.org` | No |
 | `ostrovok.de` | No |
 | `osu.io` | Yes |
-| `osu.si` | No |
 | `osumiakari.jp` | Yes |
 | `osureplayviewer.xyz` | No |
 | `osvoj.ru` | No |
@@ -40342,7 +40340,7 @@ Here's a list of public Fediverse services.
 | `riverwest.xyz` | No |
 | `riveted.social` | No |
 | `riviera.social` | No |
-| `rivqr.xyz` | Yes |
+| `rivqr.xyz` | No |
 | `riye.de` | Yes |
 | `riz-om.net` | Yes |
 | `riz-om.network` | Yes |
@@ -54325,8 +54323,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,654 |
-| Normal | 38,623 |
+| Cloudflare | 15,653 |
+| Normal | 38,622 |
 
 
 </details>
