@@ -341,7 +341,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | waifu.cz | Yes |
 | wang.art | Yes |
 | wikimedia-dns.org | No |
-| yandex.net | Yes |
 | yatima.tv | Yes |
 | yumenashyi.com | Yes |
 | zburger.top | No |
@@ -351,8 +350,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 182 |
+| Cloudflare | 181 |
 | Normal | 150 |
 
 
-### 54.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
