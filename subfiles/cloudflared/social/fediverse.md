@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,699 |
+| com | 8,700 |
 | social | 4,864 |
 | net | 4,237 |
 | org | 2,843 |
@@ -6667,6 +6667,7 @@ Here's a list of public Fediverse services.
 | `butwithgod.cn` | No |
 | `buu.re` | No |
 | `buxiao.de` | Yes |
+| `buymeaserver.com` | Yes |
 | `buzeet.com` | No |
 | `buzhangjiuzhou.com` | Yes |
 | `buzon.uy` | No |
@@ -54313,7 +54314,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,649 |
+| Cloudflare | 15,650 |
 | Normal | 38,616 |
 
 
