@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No longer able to send responses with mailbox aliases with email addresses hosted on Plesk Obsidian 18.0.59 → getting error "Expected response code 354 but got code 554, with message 554 5.5.1 Error: no valid recipients."](https://github.com/freescout-helpdesk/freescout/issues/3911)
 - [Freescout not Fetching all emails through POP3](https://github.com/freescout-helpdesk/freescout/issues/3908)
 - [USB can't set config error -32 Bluetooth dongle Proxmox 8.1.5 - USB Passthrough](https://github.com/home-assistant/operating-system/issues/3267)
 - [Blazor PWA not fetching app when its cached -> cannot work offline](https://github.com/dotnet/aspnetcore/issues/54767)
