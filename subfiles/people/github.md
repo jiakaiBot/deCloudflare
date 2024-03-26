@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Broken Installation and Execution on Nobara Linux](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/15384)
 - [CloudFlare Cloudflare Logs and Analytics service issues](https://github.com/SecOpsNews/news/issues/26497)
 - [middleware next() return type is inaccurate](https://github.com/honojs/hono/issues/2421)
 - [No longer able to send responses with mailbox aliases with email addresses hosted on Plesk Obsidian 18.0.59 → getting error "Expected response code 354 but got code 554, with message 554 5.5.1 Error: no valid recipients."](https://github.com/freescout-helpdesk/freescout/issues/3911)
