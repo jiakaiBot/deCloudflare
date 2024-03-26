@@ -227,7 +227,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | npsolution.it | No |
 | ns1net.com | No |
 | nvtai.id.vn | Yes |
-| nzxti5.co.uk | No |
 | oasg.xyz | No |
 | ofdoom.net | Yes |
 | omada.cafe | Yes |
@@ -353,7 +352,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 182 |
-| Normal | 151 |
+| Normal | 150 |
 
 
-### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
