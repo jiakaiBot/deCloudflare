@@ -13977,7 +13977,7 @@ Here's a list of public Fediverse services.
 | `ethnet.io` | Yes |
 | `ethz.ch` | Yes |
 | `eticadigital.eu` | No |
-| `etiennemoureton.fr` | No |
+| `etiennemoureton.fr` | Yes |
 | `etiketi.de` | No |
 | `etimon.app` | No |
 | `etizi.ng` | No |
@@ -44494,6 +44494,7 @@ Here's a list of public Fediverse services.
 | `spjainplacements.org` | No |
 | `spkt.studio` | No |
 | `spl-mstdn.net` | No |
+| `spla.cat` | No |
 | `spla.tech` | No |
 | `spla2n.ink` | No |
 | `splain.club` | No |
@@ -54324,7 +54325,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,653 |
+| Cloudflare | 15,654 |
 | Normal | 38,623 |
 
 
