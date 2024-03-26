@@ -118,7 +118,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | felipefalcao.ninja | Yes |
 | fffly.xyz | No |
 | ffmuc.net | Yes |
-| fknw.de | No |
 | flm9.net | No |
 | flylcc.cc | Yes |
 | frankutils.xyz | Yes |
@@ -335,7 +334,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 174 |
-| Normal | 141 |
+| Normal | 140 |
 
 
-### 55.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
