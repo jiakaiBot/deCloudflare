@@ -2201,6 +2201,7 @@ Do not create new issue or we will close it as duplicate.
 | [BOOMBound@X](https://twitter.com/BOOMBound/status/1424169801451118594) | advertise |
 | [BoomerangBs@X](https://twitter.com/BoomerangBs/status/1712940497839206586) | advertise |
 | [boomer_friendly@X](https://twitter.com/boomer_friendly/status/1632687184254758913) | advertise |
+| [BoonbonTan83954@X](https://twitter.com/BoonbonTan83954/status/1772472024406863970) | advertise |
 | [BoonBoo54358409@X](https://twitter.com/BoonBoo54358409/status/1543521813594259457) | advertise |
 | [boonboonko@X](https://twitter.com/boonboonko/status/1405526689757626382) | advertise |
 | [boonpraserd@X](https://twitter.com/boonpraserd/status/1383968362137411589) | advertise |
@@ -6969,6 +6970,7 @@ Do not create new issue or we will close it as duplicate.
 | [keyitme999@X](https://twitter.com/keyitme999/status/1488542840011456512) | advertise |
 | [keysiee12@X](https://twitter.com/keysiee12/status/1405166173231063044) | advertise |
 | [keywordwriters@X](https://twitter.com/keywordwriters/status/1581229224735965184) | advertise |
+| [KFooon05@X](https://twitter.com/KFooon05/status/1772489889646600224) | advertise |
 | [KgKaLay16@X](https://twitter.com/KgKaLay16/status/1401772757898125312) | advertise |
 | [KgobeMaripa@X](https://twitter.com/KgobeMaripa/status/1636312427569528833) | advertise |
 | [kh6jrm@X](https://twitter.com/kh6jrm/status/1490831301485613056) | advertise |
@@ -8908,6 +8910,7 @@ Do not create new issue or we will close it as duplicate.
 | [mgyinn2@X](https://twitter.com/mgyinn2/status/1389978254304555017) | advertise |
 | [MgZarNi11@X](https://twitter.com/MgZarNi11/status/1395034582341148675) | advertise |
 | [Mgzaw41539911@X](https://twitter.com/Mgzaw41539911/status/1391807621686988805) | advertise |
+| [MHaider1049@X](https://twitter.com/MHaider1049/status/1772357200184238580) | advertise |
 | [MhamadD09414766@X](https://twitter.com/MhamadD09414766/status/1397134470042505224) | advertise |
 | [mhandearsaini@X](https://twitter.com/mhandearsaini/status/1391731657158250496) | advertise |
 | [MhanZaw2@X](https://twitter.com/MhanZaw2/status/1391188415077515264) | advertise |
@@ -11222,6 +11225,7 @@ Do not create new issue or we will close it as duplicate.
 | [phonepyaeshn@X](https://twitter.com/phonepyaeshn/status/1396732146866262019) | advertise |
 | [phonetezaphyo@X](https://twitter.com/phonetezaphyo/status/1390312032361123840) | advertise |
 | [Phong17Ng@X](https://twitter.com/Phong17Ng/status/1621391104359927808) | advertise |
+| [Phong435@X](https://twitter.com/Phong435/status/1772335424066961709) | advertise |
 | [Phong24042003@X](https://twitter.com/Phong24042003/status/1556890880392306688) | advertise |
 | [Phong28012797@X](https://twitter.com/Phong28012797/status/1544251355790843904) | advertise |
 | [Phong94296749@X](https://twitter.com/Phong94296749/status/1596859902114529282) | advertise |
@@ -12272,6 +12276,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ruka09486933@X](https://twitter.com/Ruka09486933/status/1406308606983606275) | advertise |
 | [rukawa_qn@X](https://twitter.com/rukawa_qn/status/1530896257710886912) | advertise |
 | [rulz_reborn@X](https://twitter.com/rulz_reborn/status/1657306798385430531) | advertise |
+| [RUN4539@X](https://twitter.com/RUN4539/status/1772367889359643104) | advertise |
 | [rundnghung2044@X](https://twitter.com/rundnghung2044/status/1659403999760744449) | advertise |
 | [rune063@X](https://twitter.com/rune063/status/1552349917640699904) | advertise |
 | [Rungaro05789682@X](https://twitter.com/Rungaro05789682/status/1546921362534862848) | advertise |
@@ -13624,6 +13629,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tan726705Hai@X](https://twitter.com/Tan726705Hai/status/1685573036987269121) | advertise |
 | [Tan45474667@X](https://twitter.com/Tan45474667/status/1388679876987654149) | advertise |
 | [tanajimasal001@X](https://twitter.com/tanajimasal001/status/1644838039062212608) | advertise |
+| [Tanakorn097008@X](https://twitter.com/Tanakorn097008/status/1772367716642390527) | advertise |
 | [tanaruk20@X](https://twitter.com/tanaruk20/status/1552451708206600194) | advertise |
 | [TanawatSai77409@X](https://twitter.com/TanawatSai77409/status/1713359130008920410) | advertise |
 | [tanbir1023@X](https://twitter.com/tanbir1023/status/1573021271671308288) | advertise |
@@ -16343,6 +16349,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zosia57710493@X](https://twitter.com/Zosia57710493/status/1384735879755751429) | advertise |
 | [ZOsrati@X](https://twitter.com/ZOsrati/status/1580790269838249984) | advertise |
 | [Zotac159@X](https://twitter.com/Zotac159/status/1569562984921579520) | advertise |
+| [ZothanS17560644@X](https://twitter.com/ZothanS17560644/status/1772488854827831321) | advertise |
 | [zozozo65286220@X](https://twitter.com/zozozo65286220/status/1555692585901035521) | advertise |
 | [ZPyiphyo@X](https://twitter.com/ZPyiphyo/status/1386897802408566787) | advertise |
 | [ZQO9GOjRPUVKPv6@X](https://twitter.com/ZQO9GOjRPUVKPv6/status/1665874509289734145) | advertise |
