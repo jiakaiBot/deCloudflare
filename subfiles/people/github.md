@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [JSON Parser Failing on Unescaped Quotes Within Strings](https://github.com/BoundaryML/baml/issues/527)
 - [Cloudflare Workers compatibility](https://github.com/QwikDev/astro/issues/76)
 - [Customer reply is not displayed in message](https://github.com/freescout-helpdesk/freescout/issues/3904)
 - [Error when uploading file bigger than 5GB](https://github.com/supabase-community/storage-csharp/issues/14)
