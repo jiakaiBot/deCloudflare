@@ -117,7 +117,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | esnube.es | No |
 | extrawdw.net | Yes |
 | ezyss.id | Yes |
-| f97.xyz | Yes |
 | familiamv.net | Yes |
 | fancyorg.at | No |
 | fdn.fr | No |
@@ -350,8 +349,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 181 |
+| Cloudflare | 180 |
 | Normal | 150 |
 
 
-### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
