@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Blazor PWA not fetching app when its cached -> cannot work offline](https://github.com/dotnet/aspnetcore/issues/54767)
 - [WhatsApp Module - Images Not Displaying in Received Messages](https://github.com/freescout-helpdesk/freescout/issues/3906)
 - [JSON Parser Failing on Unescaped Quotes Within Strings](https://github.com/BoundaryML/baml/issues/527)
 - [Cloudflare Workers compatibility](https://github.com/QwikDev/astro/issues/76)
