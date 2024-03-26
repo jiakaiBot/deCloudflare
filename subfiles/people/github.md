@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Freescout not Fetching all emails through POP3](https://github.com/freescout-helpdesk/freescout/issues/3908)
+- [USB can't set config error -32 Bluetooth dongle Proxmox 8.1.5 - USB Passthrough](https://github.com/home-assistant/operating-system/issues/3267)
 - [Blazor PWA not fetching app when its cached -> cannot work offline](https://github.com/dotnet/aspnetcore/issues/54767)
 - [WhatsApp Module - Images Not Displaying in Received Messages](https://github.com/freescout-helpdesk/freescout/issues/3906)
 - [JSON Parser Failing on Unescaped Quotes Within Strings](https://github.com/BoundaryML/baml/issues/527)
