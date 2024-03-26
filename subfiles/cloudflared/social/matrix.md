@@ -25,8 +25,6 @@ Here's a list of public Matrix services.
 | riot.allmende.io | No |
 | alternanet.fr | No |
 | matrix.archaeo.social | Yes |
-| matrix.arcticfoxes.net | Yes |
-| matrix.ari.lt | No |
 | aria.im | No |
 | synapse.bark.lgbt | Yes |
 | bitcoinist.org | No |
@@ -104,7 +102,6 @@ Here's a list of public Matrix services.
 | synod.im | No |
 | matrix.tarnkappe.info | Yes |
 | matrix.tchncs.de | No |
-| matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
 | the-apothecary.club | No |
 | synapse.transgirl.cafe | Yes |
@@ -123,8 +120,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 26 |
-| Normal | 70 |
+| Cloudflare | 25 |
+| Normal | 68 |
 
 
-### 27.1% of public Matrix services are using Cloudflare.
+### 26.9% of public Matrix services are using Cloudflare.
