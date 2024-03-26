@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,864 |
 | net | 4,237 |
 | org | 2,844 |
-| de | 2,716 |
+| de | 2,717 |
 
 
 - Mastodon, Pleroma, etc
@@ -1315,6 +1315,7 @@ Here's a list of public Fediverse services.
 | `adminforge.de` | No |
 | `administrieren.net` | No |
 | `adminit.cz` | No |
+| `adminlab.de` | No |
 | `admins.town` | Yes |
 | `admiral0.it` | No |
 | `admiralfeb.social` | No |
@@ -20740,6 +20741,7 @@ Here's a list of public Fediverse services.
 | `iamdave.wtf` | No |
 | `iame.li` | Yes |
 | `iamernie.ca` | Yes |
+| `iamesh.xyz` | Yes |
 | `iametza.com` | No |
 | `iametza.eus` | No |
 | `iamforum.space` | No |
@@ -54322,8 +54324,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,652 |
-| Normal | 38,622 |
+| Cloudflare | 15,653 |
+| Normal | 38,623 |
 
 
 </details>
