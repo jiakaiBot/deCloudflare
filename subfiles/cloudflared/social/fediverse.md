@@ -23032,6 +23032,7 @@ Here's a list of public Fediverse services.
 | `joostagterhoek.nl` | No |
 | `joranwitte.com` | No |
 | `jorbo.dev` | Yes |
+| `jordangillman.blog` | No |
 | `jordanh.net` | Yes |
 | `jordanhall.co.uk` | No |
 | `jordanmerrick.com` | Yes |
@@ -54344,7 +54345,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,666 |
-| Normal | 38,629 |
+| Normal | 38,630 |
 
 
 </details>
