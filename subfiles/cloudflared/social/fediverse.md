@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,709 |
+| com | 8,710 |
 | social | 4,865 |
 | net | 4,240 |
 | org | 2,844 |
@@ -23344,6 +23344,7 @@ Here's a list of public Fediverse services.
 | `justinian.codes` | Yes |
 | `justinmarrington.com` | No |
 | `justinpickard.net` | No |
+| `justinpot.com` | No |
 | `justins.space` | No |
 | `justinsimoni.com` | No |
 | `justinsweb.com` | No |
@@ -54345,7 +54346,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,665 |
-| Normal | 38,631 |
+| Normal | 38,632 |
 
 
 </details>
