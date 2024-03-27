@@ -20,7 +20,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | aa.net.uk | No |
 | abd.ong | Yes |
 | abdullahabas.de | Yes |
-| abppro.ru | Yes |
 | abraservice.xyz | Yes |
 | adblocker.eu.org | Yes |
 | adfilter.net | Yes |
@@ -163,7 +162,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lindung.pp.ua | Yes |
 | linzefeng.top | Yes |
 | lista.my.id | Yes |
-| lmir.info | No |
 | londonwebnerd.cloud | Yes |
 | lonet.org | Yes |
 | loony-tech.de | Yes |
@@ -189,7 +187,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nenam.eu | No |
 | netlab.my.id | Yes |
 | nexific.it | Yes |
-| nhtsky.com | Yes |
 | nic.cz | No |
 | nic.lv | No |
 | nielsdb.be | No |
@@ -201,7 +198,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | noridev.moe | No |
 | npsolution.it | No |
 | ns1net.com | No |
-| nvtai.id.vn | Yes |
 | oasg.xyz | No |
 | ofdoom.net | Yes |
 | omada.cafe | Yes |
@@ -259,7 +255,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | silen.org | Yes |
 | silentlybren.com | Yes |
 | skrep.eu | No |
-| skrep.in | No |
 | slinkyman.net | Yes |
 | softcom.net | No |
 | spacedns.org | No |
@@ -314,8 +309,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 165 |
-| Normal | 130 |
+| Cloudflare | 162 |
+| Normal | 128 |
 
 
 ### 55.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
