@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't find variable: GM_addStyle](https://github.com/ilyhalight/voice-over-translation/issues/571)
 - [Issues with email reply chains](https://github.com/freescout-helpdesk/freescout/issues/3915)
 - [Workflows not firing](https://github.com/freescout-helpdesk/freescout/issues/3914)
 - [Insufficient validation of kemID results in panic](https://github.com/chris-wood/ohttp-go/issues/29)
