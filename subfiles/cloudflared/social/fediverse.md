@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,709 |
 | social | 4,865 |
-| net | 4,239 |
+| net | 4,240 |
 | org | 2,844 |
 | de | 2,717 |
 
@@ -8233,6 +8233,7 @@ Here's a list of public Fediverse services.
 | `clar.ke` | Yes |
 | `clareifi.com` | Yes |
 | `clareifi.org` | Yes |
+| `claremontwx.net` | No |
 | `clarin.moe` | No |
 | `claris.cf` | No |
 | `claristdon.link` | No |
@@ -27207,7 +27208,6 @@ Here's a list of public Fediverse services.
 | `lousydomain.xyz` | Yes |
 | `loutaci.cz` | No |
 | `loutre.info` | No |
-| `loutres.me` | Yes |
 | `louy.social` | Yes |
 | `louzao.network` | Yes |
 | `lovecrafts.social` | No |
@@ -54344,8 +54344,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,666 |
-| Normal | 38,630 |
+| Cloudflare | 15,665 |
+| Normal | 38,631 |
 
 
 </details>
