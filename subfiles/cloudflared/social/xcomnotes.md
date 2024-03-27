@@ -8,123 +8,124 @@ Community Notes, formerly Birdwatch, is a feature on X (formerly Twitter) where 
 
 [//]: # (begin)
 
-X (Twitter) users created 684,224 [community notes](https://en.wikipedia.org/wiki/Community_Notes) and cited 824,171 URLs in their notes.
+X (Twitter) users created 686,815 [community notes](https://en.wikipedia.org/wiki/Community_Notes) and cited 828,101 URLs in their notes.
 
-509,073 URLs (61.77%) are Cloudflared.
+511,435 URLs (61.76%) are Cloudflared.
 
 
 ### Top 100 Cited Domains
 | Domain | Count (% of total) | Cloudflare |
 | --- | --- | --- |
-| `twitter.com` | 74,087 (9%) | Yes |
-| `wikipedia.org` | 52,179 (6%) | No |
-| `x.com` | 30,769 (4%) | Yes |
-| `mhlw.go.jp` | 11,860 (1%) | Yes |
-| `youtu.be` | 11,607 (1%) | No |
-| `youtube.com` | 11,003 (1%) | No |
-| `reuters.com` | 10,715 (1%) | Yes |
-| `google.com` | 7,862 (1%) | No |
-| `vice.com` | 7,747 (1%) | Yes |
-| `apnews.com` | 7,624 (1%) | Yes |
-| `nih.gov` | 7,321 (1%) | Yes |
-| `bbc.co.uk` | 7,258 (1%) | Yes |
-| `theguardian.com` | 6,572 (1%) | No |
-| `cnn.com` | 6,065 (1%) | No |
-| `bbc.com` | 5,733 (1%) | Yes |
-| `nytimes.com` | 5,644 (1%) | Yes |
-| `togetter.com` | 5,640 (1%) | No |
-| `cdc.gov` | 5,200 (1%) | Yes |
-| `t.co` | 5,083 (1%) | No |
-| `instagram.com` | 4,527 (1%) | No |
-| `who.int` | 4,381 (1%) | Yes |
-| `snopes.com` | 4,309 (1%) | Yes |
-| `washingtonpost.com` | 3,892 (0%) | Yes |
-| `usatoday.com` | 3,722 (0%) | Yes |
-| `globo.com` | 3,676 (0%) | Yes |
-| `npr.org` | 3,155 (0%) | Yes |
-| `archive.org` | 3,061 (0%) | Yes |
-| `politifact.com` | 3,059 (0%) | Yes |
-| `usgs.gov` | 3,055 (0%) | Yes |
-| `nbcnews.com` | 3,039 (0%) | Yes |
-| `timesofisrael.com` | 3,032 (0%) | Yes |
-| `nhk.or.jp` | 2,946 (0%) | Yes |
-| `forbes.com` | 2,784 (0%) | Yes |
-| `dailymail.co.uk` | 2,764 (0%) | Yes |
-| `yahoo.co.jp` | 2,750 (0%) | No |
-| `un.org` | 2,741 (0%) | Yes |
-| `uol.com.br` | 2,506 (0%) | Yes |
-| `britannica.com` | 2,487 (0%) | Yes |
-| `aljazeera.com` | 2,462 (0%) | No |
-| `tiktok.com` | 2,447 (0%) | Yes |
-| `nature.com` | 2,443 (0%) | Yes |
-| `nypost.com` | 2,397 (0%) | Yes |
-| `newsweek.com` | 2,358 (0%) | Yes |
-| `cbsnews.com` | 2,300 (0%) | Yes |
-| `yahoo.com` | 2,299 (0%) | Yes |
-| `europa.eu` | 1,984 (0%) | Yes |
-| `factcheck.org` | 1,902 (0%) | No |
-| `facebook.com` | 1,888 (0%) | No |
-| `nasa.gov` | 1,802 (0%) | No |
-| `independent.co.uk` | 1,748 (0%) | Yes |
-| `reddit.com` | 1,738 (0%) | No |
-| `elpais.com` | 1,663 (0%) | Yes |
-| `go.com` | 1,656 (0%) | No |
-| `all-senmonka.jp` | 1,656 (0%) | No |
-| `foxnews.com` | 1,557 (0%) | Yes |
-| `afp.com` | 1,502 (0%) | Yes |
-| `businessinsider.com` | 1,498 (0%) | Yes |
-| `medium.com` | 1,480 (0%) | Yes |
-| `statista.com` | 1,464 (0%) | No |
-| `congress.gov` | 1,460 (0%) | Yes |
-| `nejm.org` | 1,430 (0%) | Yes |
-| `merriam-webster.com` | 1,426 (0%) | Yes |
-| `thehill.com` | 1,405 (0%) | Yes |
-| `infobae.com` | 1,387 (0%) | No |
-| `sciencedirect.com` | 1,364 (0%) | Yes |
-| `cnbc.com` | 1,317 (0%) | Yes |
-| `politico.com` | 1,309 (0%) | Yes |
-| `msn.com` | 1,294 (0%) | Yes |
-| `wsj.com` | 1,287 (0%) | No |
-| `so-net.ne.jp` | 1,250 (0%) | No |
-| `harvard.edu` | 1,243 (0%) | Yes |
-| `cbc.ca` | 1,237 (0%) | Yes |
-| `www.gov.uk` | 1,231 (0%) | No |
+| `twitter.com` | 74,459 (9%) | Yes |
+| `wikipedia.org` | 52,448 (6%) | No |
+| `x.com` | 31,012 (4%) | Yes |
+| `mhlw.go.jp` | 11,863 (1%) | Yes |
+| `youtu.be` | 11,646 (1%) | No |
+| `youtube.com` | 11,070 (1%) | No |
+| `reuters.com` | 10,796 (1%) | Yes |
+| `google.com` | 7,907 (1%) | No |
+| `vice.com` | 7,762 (1%) | Yes |
+| `apnews.com` | 7,652 (1%) | Yes |
+| `nih.gov` | 7,339 (1%) | Yes |
+| `bbc.co.uk` | 7,283 (1%) | Yes |
+| `theguardian.com` | 6,625 (1%) | No |
+| `cnn.com` | 6,157 (1%) | No |
+| `bbc.com` | 5,769 (1%) | Yes |
+| `nytimes.com` | 5,663 (1%) | Yes |
+| `togetter.com` | 5,657 (1%) | No |
+| `cdc.gov` | 5,208 (1%) | Yes |
+| `t.co` | 5,105 (1%) | No |
+| `instagram.com` | 4,546 (1%) | No |
+| `who.int` | 4,384 (1%) | Yes |
+| `snopes.com` | 4,321 (1%) | Yes |
+| `washingtonpost.com` | 3,900 (0%) | Yes |
+| `usatoday.com` | 3,745 (0%) | Yes |
+| `globo.com` | 3,684 (0%) | Yes |
+| `npr.org` | 3,163 (0%) | Yes |
+| `archive.org` | 3,077 (0%) | Yes |
+| `politifact.com` | 3,065 (0%) | Yes |
+| `usgs.gov` | 3,058 (0%) | Yes |
+| `timesofisrael.com` | 3,056 (0%) | Yes |
+| `nbcnews.com` | 3,054 (0%) | Yes |
+| `nhk.or.jp` | 2,971 (0%) | Yes |
+| `forbes.com` | 2,799 (0%) | Yes |
+| `dailymail.co.uk` | 2,784 (0%) | Yes |
+| `yahoo.co.jp` | 2,772 (0%) | No |
+| `un.org` | 2,748 (0%) | Yes |
+| `uol.com.br` | 2,516 (0%) | Yes |
+| `aljazeera.com` | 2,499 (0%) | No |
+| `britannica.com` | 2,497 (0%) | Yes |
+| `tiktok.com` | 2,467 (0%) | Yes |
+| `nature.com` | 2,447 (0%) | Yes |
+| `nypost.com` | 2,405 (0%) | Yes |
+| `newsweek.com` | 2,373 (0%) | Yes |
+| `yahoo.com` | 2,317 (0%) | Yes |
+| `cbsnews.com` | 2,303 (0%) | Yes |
+| `europa.eu` | 1,991 (0%) | Yes |
+| `factcheck.org` | 1,926 (0%) | No |
+| `facebook.com` | 1,893 (0%) | No |
+| `nasa.gov` | 1,808 (0%) | No |
+| `independent.co.uk` | 1,763 (0%) | Yes |
+| `reddit.com` | 1,744 (0%) | No |
+| `elpais.com` | 1,673 (0%) | Yes |
+| `all-senmonka.jp` | 1,672 (0%) | No |
+| `go.com` | 1,667 (0%) | No |
+| `foxnews.com` | 1,561 (0%) | Yes |
+| `afp.com` | 1,515 (0%) | Yes |
+| `businessinsider.com` | 1,503 (0%) | Yes |
+| `medium.com` | 1,481 (0%) | Yes |
+| `statista.com` | 1,467 (0%) | No |
+| `congress.gov` | 1,465 (0%) | Yes |
+| `merriam-webster.com` | 1,432 (0%) | Yes |
+| `nejm.org` | 1,432 (0%) | Yes |
+| `thehill.com` | 1,412 (0%) | Yes |
+| `infobae.com` | 1,391 (0%) | No |
+| `sciencedirect.com` | 1,374 (0%) | Yes |
+| `cnbc.com` | 1,322 (0%) | Yes |
+| `politico.com` | 1,318 (0%) | Yes |
+| `msn.com` | 1,298 (0%) | Yes |
+| `wsj.com` | 1,292 (0%) | No |
+| `so-net.ne.jp` | 1,269 (0%) | No |
+| `harvard.edu` | 1,245 (0%) | Yes |
+| `cbc.ca` | 1,241 (0%) | Yes |
+| `www.gov.uk` | 1,239 (0%) | No |
 | `aliexpress.com` | 1,208 (0%) | No |
-| `impress.co.jp` | 1,188 (0%) | Yes |
-| `asahi.com` | 1,187 (0%) | Yes |
-| `time.com` | 1,155 (0%) | Yes |
-| `jpost.com` | 1,151 (0%) | Yes |
-| `poder360.com.br` | 1,140 (0%) | Yes |
-| `ampproject.org` | 1,136 (0%) | No |
-| `thelancet.com` | 1,128 (0%) | Yes |
-| `hrw.org` | 1,114 (0%) | Yes |
-| `cnnbrasil.com.br` | 1,109 (0%) | Yes |
-| `jamanetwork.com` | 1,105 (0%) | Yes |
-| `justice.gov` | 1,064 (0%) | No |
-| `cornell.edu` | 1,063 (0%) | Yes |
-| `haaretz.com` | 1,063 (0%) | No |
-| `pbs.org` | 1,045 (0%) | Yes |
+| `impress.co.jp` | 1,202 (0%) | Yes |
+| `asahi.com` | 1,190 (0%) | Yes |
+| `time.com` | 1,161 (0%) | Yes |
+| `jpost.com` | 1,154 (0%) | Yes |
+| `poder360.com.br` | 1,141 (0%) | Yes |
+| `ampproject.org` | 1,141 (0%) | No |
+| `thelancet.com` | 1,131 (0%) | Yes |
+| `hrw.org` | 1,118 (0%) | Yes |
+| `cnnbrasil.com.br` | 1,112 (0%) | Yes |
+| `jamanetwork.com` | 1,107 (0%) | Yes |
+| `haaretz.com` | 1,077 (0%) | No |
+| `cornell.edu` | 1,067 (0%) | Yes |
+| `justice.gov` | 1,066 (0%) | No |
+| `pbs.org` | 1,048 (0%) | Yes |
 | `france24.com` | 1,037 (0%) | Yes |
-| `sky.com` | 1,030 (0%) | Yes |
-| `house.gov` | 996 (0%) | No |
-| `whitehouse.gov` | 986 (0%) | No |
-| `fandom.com` | 947 (0%) | Yes |
-| `telegraph.co.uk` | 936 (0%) | Yes |
-| `healthfeedback.org` | 931 (0%) | Yes |
-| `lemonde.fr` | 921 (0%) | Yes |
-| `doi.org` | 910 (0%) | Yes |
+| `sky.com` | 1,036 (0%) | Yes |
+| `house.gov` | 1,000 (0%) | No |
+| `whitehouse.gov` | 993 (0%) | No |
+| `fandom.com` | 955 (0%) | Yes |
+| `telegraph.co.uk` | 943 (0%) | Yes |
+| `healthfeedback.org` | 936 (0%) | Yes |
+| `lemonde.fr` | 935 (0%) | Yes |
+| `doi.org` | 912 (0%) | Yes |
+| `caltech.edu` | 910 (0%) | Yes |
 | `bls.gov` | 908 (0%) | No |
-| `caltech.edu` | 907 (0%) | Yes |
-| `cambridge.org` | 900 (0%) | Yes |
+| `dw.com` | 902 (0%) | No |
 
 
-# 61.77%
+# 61.76%
 ### of URLs cited in X community notes are using Cloudflare.
 
 
 ### History
 | Date | CN Has URL | CN without URL | All Community Notes | CF URLs (%) |
 | --- | --- | --- | --- | --- |
+| 2024-03-26 | 521,727 (75.96%) | 165,088 (24.04%) | 686,815 | 511,435 (61.76%) |
 | 2024-03-25 | 519,563 (75.93%) | 164,661 (24.07%) | 684,224 | 509,073 (61.77%) |
 | 2024-03-24 | 517,719 (75.91%) | 164,269 (24.09%) | 681,988 | 507,052 (61.74%) |
 | 2024-03-23 | 515,216 (75.89%) | 163,686 (24.11%) | 678,902 | 504,581 (61.76%) |
