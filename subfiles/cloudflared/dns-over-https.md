@@ -59,6 +59,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | carson-family.com | Yes |
 | carter.me | Yes |
 | catdns.org | Yes |
+| cgnat.net | No |
 | chadeyron.fr | Yes |
 | chalkychalk.com | Yes |
 | chenu.ch | No |
@@ -135,7 +136,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hker.me | Yes |
 | hostme.co.il | Yes |
 | huas.me | Yes |
-| hujiayucc.cn | No |
 | huque.com | No |
 | huseynov.work | Yes |
 | huyhoangit.net | Yes |
@@ -240,7 +240,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | qquack.org | Yes |
 | quad9.net | Yes |
 | quydang.name.vn | Yes |
-| r01.fr | No |
 | r9x.cc | Yes |
 | rabot.fi | Yes |
 | ragnvindr.org | Yes |
@@ -263,6 +262,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | scarx.net | Yes |
 | schlagheck.berlin | Yes |
 | scuola.org | No |
+| seby.io | Yes |
 | secure-4ud.de | No |
 | serdcebolit.ru | No |
 | servebeer.com | Yes |
@@ -331,8 +331,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 173 |
-| Normal | 139 |
+| Cloudflare | 174 |
+| Normal | 138 |
 
 
-### 55.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
