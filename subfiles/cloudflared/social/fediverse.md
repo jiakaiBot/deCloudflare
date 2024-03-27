@@ -290,6 +290,7 @@ Here's a list of public Fediverse services.
 | `1611.social` | Yes |
 | `161976857.com` | No |
 | `161hz.de` | No |
+| `164.one` | Yes |
 | `1641project.jp` | Yes |
 | `1641s.net` | Yes |
 | `1689.social` | No |
@@ -37024,6 +37025,7 @@ Here's a list of public Fediverse services.
 | `pikopublishing.page` | No |
 | `piku.one` | No |
 | `pilch.me` | No |
+| `pileus.ch` | No |
 | `pilgerweg-21.de` | No |
 | `piligrim.ml` | Yes |
 | `pilipala.asia` | No |
@@ -54335,8 +54337,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,661 |
-| Normal | 38,626 |
+| Cloudflare | 15,662 |
+| Normal | 38,627 |
 
 
 </details>
