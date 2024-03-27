@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,705 |
+| com | 8,706 |
 | social | 4,864 |
 | net | 4,238 |
 | org | 2,844 |
@@ -15649,6 +15649,7 @@ Here's a list of public Fediverse services.
 | `floe.earth` | No |
 | `flogth.net` | No |
 | `flohgro.com` | No |
+| `flojoy.fun` | Yes |
 | `flokinet.is` | No |
 | `flokinet.social` | No |
 | `flooded.club` | No |
@@ -31723,6 +31724,7 @@ Here's a list of public Fediverse services.
 | `muchametow.de` | No |
 | `mucrone.tech` | No |
 | `mud.social` | No |
+| `mudanote.com` | No |
 | `mudb0y.com` | Yes |
 | `mudge.name` | Yes |
 | `mudhut.social` | Yes |
@@ -35068,7 +35070,7 @@ Here's a list of public Fediverse services.
 | `onepointzero.com` | Yes |
 | `onerescue.org` | No |
 | `onestackdeep.com` | No |
-| `onestarrynight.com` | No |
+| `onestarrynight.com` | Yes |
 | `onestatus.info` | No |
 | `onesteprevolution.com` | No |
 | `onethingwell.dev` | Yes |
@@ -54332,7 +54334,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,658 |
+| Cloudflare | 15,660 |
 | Normal | 38,626 |
 
 
