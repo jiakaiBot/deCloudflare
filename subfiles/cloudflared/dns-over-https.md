@@ -30,7 +30,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ahmgam.com | Yes |
 | ahua.ltd | Yes |
 | albertocognetti.com | Yes |
-| alekberg.net | No |
 | alidns.com | No |
 | amlegion.org | No |
 | andrewnw.xyz | Yes |
@@ -77,7 +76,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cybrespace.net | No |
 | cynthialabs.net | Yes |
 | daemon.za.net | Yes |
-| danayasastore.my.id | Yes |
 | data.haus | No |
 | datahata.by | No |
 | decky.eu | No |
@@ -322,8 +320,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 169 |
-| Normal | 134 |
+| Cloudflare | 168 |
+| Normal | 133 |
 
 
 ### 55.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
