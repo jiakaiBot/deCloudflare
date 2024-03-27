@@ -240,7 +240,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | qquack.org | Yes |
 | quad9.net | Yes |
 | quydang.name.vn | Yes |
-| r9x.cc | Yes |
 | rabot.fi | Yes |
 | ragnvindr.org | Yes |
 | ral9005.org | Yes |
@@ -281,12 +280,12 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sparshbajaj.me | Yes |
 | spectrum.com | Yes |
 | sscw.win | Yes |
-| startupstack.tech | Yes |
 | stealbit.com | Yes |
 | strassmair.org | Yes |
 | streamvine.app | Yes |
 | sukidayo.eu.org | No |
 | sundalandia.pp.ua | Yes |
+| sunet.se | No |
 | sunnygyl.com | No |
 | superstefan.win | Yes |
 | swin.pro | Yes |
@@ -331,8 +330,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 174 |
-| Normal | 138 |
+| Cloudflare | 172 |
+| Normal | 139 |
 
 
-### 55.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
