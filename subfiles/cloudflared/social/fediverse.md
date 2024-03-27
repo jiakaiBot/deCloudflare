@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,704 |
+| com | 8,705 |
 | social | 4,864 |
-| net | 4,237 |
+| net | 4,238 |
 | org | 2,844 |
 | de | 2,717 |
 
@@ -7551,6 +7551,7 @@ Here's a list of public Fediverse services.
 | `changelog.social` | No |
 | `changeme.fr.eu.org` | No |
 | `changmaoxiang.one` | No |
+| `chanmo.net` | No |
 | `channelinfosec.com` | Yes |
 | `channels.im` | No |
 | `chanoa.de` | No |
@@ -13689,6 +13690,7 @@ Here's a list of public Fediverse services.
 | `epcomp.com` | No |
 | `epdntm.org` | Yes |
 | `epenguin.com` | Yes |
+| `eperezme.com` | Yes |
 | `epet1.edu.ar` | No |
 | `epgn.ch` | No |
 | `ephaone.org` | No |
@@ -15517,6 +15519,7 @@ Here's a list of public Fediverse services.
 | `fixflare.com` | Yes |
 | `fixionauta.net` | No |
 | `fixitbear.com` | Yes |
+| `fizcus.ovh` | No |
 | `fizmo.org` | No |
 | `fjall.net` | Yes |
 | `fjara.re` | No |
@@ -29006,7 +29009,7 @@ Here's a list of public Fediverse services.
 | `mastpub.com` | No |
 | `mastrodon.space` | No |
 | `masts.lv` | No |
-| `mastschwe.in` | No |
+| `mastschwe.in` | Yes |
 | `mastsocial.de` | No |
 | `mastsocial.xyz` | No |
 | `mastudon.com` | No |
@@ -32385,6 +32388,7 @@ Here's a list of public Fediverse services.
 | `nameless.city` | No |
 | `namelesscitizen.space` | No |
 | `namelivia.com` | No |
+| `namespot.website` | Yes |
 | `namestaci.cz` | No |
 | `nametaketakewo.net` | Yes |
 | `namknat.win` | No |
@@ -43003,6 +43007,7 @@ Here's a list of public Fediverse services.
 | `signalnine.net` | No |
 | `signalstation.com` | No |
 | `signalthirteen.online` | No |
+| `signalthirteen.zone` | No |
 | `signboard.fun` | Yes |
 | `significantbullet.co` | No |
 | `signofthe.fish` | No |
@@ -54324,8 +54329,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,653 |
-| Normal | 38,623 |
+| Cloudflare | 15,656 |
+| Normal | 38,625 |
 
 
 </details>
