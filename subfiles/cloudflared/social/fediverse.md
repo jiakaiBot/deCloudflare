@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,706 |
+| com | 8,707 |
 | social | 4,864 |
 | net | 4,238 |
 | org | 2,844 |
@@ -3019,6 +3019,7 @@ Here's a list of public Fediverse services.
 | `arent.net` | Yes |
 | `arenzana.org` | No |
 | `aretex.ca` | No |
+| `aretori.com` | No |
 | `aretz.social` | No |
 | `arewe.social` | No |
 | `arewesecureyet.org` | Yes |
@@ -19365,7 +19366,7 @@ Here's a list of public Fediverse services.
 | `hcommons.social` | No |
 | `hcscorp.fr` | No |
 | `hcxp.co` | No |
-| `hd-dn.com` | No |
+| `hd-dn.com` | Yes |
 | `hd0.eu` | Yes |
 | `hda.zone` | No |
 | `hdansin.com` | No |
@@ -54334,7 +54335,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,660 |
+| Cloudflare | 15,661 |
 | Normal | 38,626 |
 
 
