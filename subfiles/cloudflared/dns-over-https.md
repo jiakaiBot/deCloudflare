@@ -116,7 +116,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | fancyorg.at | No |
 | fdn.fr | No |
 | felipefalcao.ninja | Yes |
-| fffly.xyz | No |
 | ffmuc.net | Yes |
 | flm9.net | No |
 | flylcc.cc | Yes |
@@ -139,7 +138,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | huque.com | No |
 | huseynov.work | Yes |
 | huyhoangit.net | Yes |
-| i-puppy.ru | No |
 | iij.jp | Yes |
 | ikarosalpha.xyz | Yes |
 | in-berlin.de | No |
@@ -150,7 +148,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | isakula.space | No |
 | jackyes.ovh | No |
 | jakinet.id | No |
-| jmarkin.ru | Yes |
 | jnraptor.net | Yes |
 | josephyap.me | Yes |
 | jundev.org | No |
@@ -185,7 +182,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meddy94.de | No |
 | meexx.de | No |
 | meganerd.nl | No |
-| mesterdodh.cloud | No |
 | milangas2.top | Yes |
 | moderateinfra.net | No |
 | modr.club | Yes |
@@ -263,7 +259,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | seby.io | Yes |
 | secure-4ud.de | No |
 | serdcebolit.ru | No |
-| servebeer.com | Yes |
 | server.my.id | No |
 | shabi.icu | No |
 | shalenkov.cc | Yes |
@@ -307,7 +302,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tu-bs.de | No |
 | twnic.tw | No |
 | txq.life | Yes |
-| tzockt.beer | Yes |
 | umbrella.com | Yes |
 | undo.it | Yes |
 | unstoppable.io | Yes |
@@ -329,8 +323,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 172 |
-| Normal | 138 |
+| Cloudflare | 169 |
+| Normal | 135 |
 
 
-### 55.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
