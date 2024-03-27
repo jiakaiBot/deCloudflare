@@ -19723,6 +19723,7 @@ Here's a list of public Fediverse services.
 | `hexside.net` | No |
 | `hexsix.me` | Yes |
 | `hextcraft.dev` | No |
+| `hextestnet.eu` | Yes |
 | `hexthedragon.net` | No |
 | `heyben.ch` | Yes |
 | `heychrismackintosh.com` | No |
@@ -54329,7 +54330,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,656 |
+| Cloudflare | 15,657 |
 | Normal | 38,625 |
 
 
