@@ -3177,6 +3177,7 @@ Do not create new issue or we will close it as duplicate.
 | [DavidNd34437712@X](https://twitter.com/DavidNd34437712/status/1664719938685218822) | advertise |
 | [Davidng70616958@X](https://twitter.com/Davidng70616958/status/1381311850239827968) | advertise |
 | [DavidOpasik@X](https://twitter.com/DavidOpasik/status/1421296723926814723) | advertise |
+| [davidosteele@X](https://twitter.com/davidosteele/status/1770388200663527511) | advertise |
 | [DavidRo07585009@X](https://twitter.com/DavidRo07585009/status/1596371805752938496) | advertise |
 | [DavidSchrader@X](https://twitter.com/DavidSchrader/status/1554965481454452736) | advertise |
 | [DavidSekar@X](https://twitter.com/DavidSekar/status/1386895546346983424) | advertise |
@@ -3288,6 +3289,7 @@ Do not create new issue or we will close it as duplicate.
 | [Derrick05367623@X](https://twitter.com/Derrick05367623/status/1617007945568378891) | advertise |
 | [derrickly2@X](https://twitter.com/derrickly2/status/1381155764396433409) | advertise |
 | [Dersy73935011@X](https://twitter.com/Dersy73935011/status/1389827449349763072) | advertise |
+| [DesaBungko@X](https://twitter.com/DesaBungko/status/1771474558173712442) | advertise |
 | [Desaste64491060@X](https://twitter.com/Desaste64491060/status/1383753625101500417) | advertise |
 | [desertdog99@X](https://twitter.com/desertdog99/status/1405382173734014983) | advertise |
 | [designbytk_com@X](https://twitter.com/designbytk_com/status/1699503457097400675) | advertise |
@@ -7511,6 +7513,7 @@ Do not create new issue or we will close it as duplicate.
 | [kun1_1111@X](https://twitter.com/kun1_1111/status/1626373990033022977) | advertise |
 | [KundahHazri@X](https://twitter.com/KundahHazri/status/1622682818555056128) | advertise |
 | [Kunn82617248@X](https://twitter.com/Kunn82617248/status/1399757357467406339) | advertise |
+| [kuntmermaid@X](https://twitter.com/kuntmermaid/status/1771780381726900376) | advertise |
 | [kun_pp@X](https://twitter.com/kun_pp/status/1666629852877963264) | advertise |
 | [KuppjL@X](https://twitter.com/KuppjL/status/1383683527871328263) | advertise |
 | [kuraKoy05814776@X](https://twitter.com/kuraKoy05814776/status/1398928410819317761) | advertise |
@@ -14463,6 +14466,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tomako1425@X](https://twitter.com/Tomako1425/status/1634907103117869057) | advertise |
 | [tomcryptonet@X](https://twitter.com/tomcryptonet/status/1545227204766089216) | advertise |
 | [tomdapchai1@X](https://twitter.com/tomdapchai1/status/1502501519291129856) | advertise |
+| [tomdecouttere@X](https://twitter.com/tomdecouttere/status/1771903216180969687) | advertise |
 | [Tomi06515448@X](https://twitter.com/Tomi06515448/status/1408153839564435461) | advertise |
 | [tomitzz@X](https://twitter.com/tomitzz/status/1635005643810816000) | advertise |
 | [TomLy48684910@X](https://twitter.com/TomLy48684910/status/1524992252317249536) | advertise |
