@@ -260,6 +260,7 @@ Here's a list of breached sites.
 | GFAN | 22,526,334 | No |
 | GGCorp | 2,376,330 | Yes |
 | GPSUnderground (GPS Underground) | 669,584 | No |
+| GSMHosting (GSM Hosting) | 2,607,429 | Yes |
 | GTAGaming | 197,184 | Yes |
 | Gaadi | 4,261,179 | No |
 | Gab | 66,521 | Yes |
@@ -440,7 +441,7 @@ Here's a list of breached sites.
 | NaughtyAmerica (Naughty America) | 1,398,630 | No |
 | NemoWeb | 3,472,916 | No |
 | Neopets | 26,892,897 | Yes |
-| NetEase | 234,842,089 | No |
+| NetEase | 234,842,089 | Yes |
 | NetGalley | 1,436,435 | No |
 | NetProspex | 33,698,126 | No |
 | Neteller | 3,619,948 | No |
@@ -743,10 +744,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 428 | 4,717,051,242 |
-| Normal | 294 | 4,450,371,660 |
+| Cloudflare | 430 | 4,954,500,760 |
+| Normal | 293 | 4,215,529,571 |
 
 
 
-### 59.3% of breached sites (pwned sites) are using Cloudflare.
-### 51.5% of leaked accounts are on Cloudflare sites.
+### 59.5% of breached sites (pwned sites) are using Cloudflare.
+### 54% of leaked accounts are on Cloudflare sites.
