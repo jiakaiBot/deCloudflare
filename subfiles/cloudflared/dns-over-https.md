@@ -236,7 +236,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pooblet.co.za | Yes |
 | pragmasec.nl | No |
 | puregeni.us | No |
-| qdev.cc | No |
 | qquack.org | Yes |
 | quad9.net | Yes |
 | quydang.name.vn | Yes |
@@ -331,7 +330,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 172 |
-| Normal | 139 |
+| Normal | 138 |
 
 
-### 55.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
