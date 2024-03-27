@@ -35,7 +35,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | andrewnw.xyz | Yes |
 | anudeep.me | Yes |
 | apad.pro | Yes |
-| aquilenet.fr | No |
 | artikel10.org | No |
 | artsvr.my.id | Yes |
 | avastdns.com | No |
@@ -65,7 +64,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cira.ca | Yes |
 | circl.lu | No |
 | circumitor.de | No |
-| clanto.cloud | No |
 | cloud88.com.au | Yes |
 | cloudflare-dns.com | Yes |
 | cloudku.technology | Yes |
@@ -141,7 +139,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | in-berlin.de | No |
 | indybanipal.com | No |
 | inria.fr | No |
-| ipty.de | No |
 | iranet.cam | Yes |
 | isakula.space | No |
 | jackyes.ovh | No |
@@ -202,7 +199,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | noaddns.com | No |
 | node15.com | Yes |
 | noridev.moe | No |
-| novali.date | Yes |
 | npsolution.it | No |
 | ns1net.com | No |
 | nvtai.id.vn | Yes |
@@ -243,7 +239,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rferee.dev | Yes |
 | rin.sh | Yes |
 | rootlab.top | No |
-| russel053.com | Yes |
 | saferbfc.org | Yes |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
@@ -319,8 +314,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 167 |
-| Normal | 133 |
+| Cloudflare | 165 |
+| Normal | 130 |
 
 
-### 55.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
