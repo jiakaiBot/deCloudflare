@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,707 |
+| com | 8,708 |
 | social | 4,864 |
 | net | 4,238 |
 | org | 2,844 |
@@ -5367,6 +5367,7 @@ Here's a list of public Fediverse services.
 | `blackandred.blog` | No |
 | `blackbike.us` | Yes |
 | `blackbirb.dev` | Yes |
+| `blackbirds.rest` | No |
 | `blackblock.rocks` | No |
 | `blackblocpolitics.com` | No |
 | `blackbrigade.org` | Yes |
@@ -6897,7 +6898,7 @@ Here's a list of public Fediverse services.
 | `calendario-lunar.com` | No |
 | `calgaryherald.com` | Yes |
 | `caliandroid.de` | No |
-| `caliberai.net` | No |
+| `caliberai.net` | Yes |
 | `calico.social` | No |
 | `calidris.lv` | No |
 | `californialocal.com` | No |
@@ -36593,7 +36594,7 @@ Here's a list of public Fediverse services.
 | `pepega.club` | Yes |
 | `pepega.media` | No |
 | `pepemoss.com` | No |
-| `pepepper.cf` | Yes |
+| `pepepper.cf` | No |
 | `pepepper.net` | Yes |
 | `pepophilia.com` | Yes |
 | `peppers.social` | No |
@@ -41347,7 +41348,7 @@ Here's a list of public Fediverse services.
 | `saltypugs.com` | No |
 | `salundo.com` | Yes |
 | `salushnes.solutions` | No |
-| `salva.ge` | No |
+| `salva.ge` | Yes |
 | `salvinor.in` | No |
 | `salvo.chat` | No |
 | `salye.me` | Yes |
@@ -45131,6 +45132,7 @@ Here's a list of public Fediverse services.
 | `stop-obama-now.net` | No |
 | `stop.pe` | No |
 | `stop.wtf` | No |
+| `stopdelaying.com` | No |
 | `stoploss.cc` | No |
 | `stoppopulationdecline.org` | Yes |
 | `stopsig.dev` | No |
@@ -54337,10 +54339,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,662 |
-| Normal | 38,627 |
+| Cloudflare | 15,663 |
+| Normal | 38,628 |
 
 
 </details>
 
-### 28.8% of public Fediverse services are using Cloudflare.
+### 28.9% of public Fediverse services are using Cloudflare.
