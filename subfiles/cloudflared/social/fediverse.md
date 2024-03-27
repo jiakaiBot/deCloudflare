@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,703 |
+| com | 8,704 |
 | social | 4,864 |
 | net | 4,237 |
 | org | 2,844 |
@@ -45599,7 +45599,7 @@ Here's a list of public Fediverse services.
 | `superuser.one` | Yes |
 | `supervillain.xyz` | No |
 | `supes.com` | No |
-| `suplica.de` | No |
+| `suplica.de` | Yes |
 | `suppenhase.de` | No |
 | `suppo.fi` | No |
 | `supportdifferent.com` | No |
@@ -47831,6 +47831,7 @@ Here's a list of public Fediverse services.
 | `tigercubden.com` | Yes |
 | `tigerden.xyz` | No |
 | `tigernurse.com` | No |
+| `tigerpajamas.com` | No |
 | `tigersnail.app` | No |
 | `tigerstyping.com` | No |
 | `tigger.ie` | No |
@@ -53409,7 +53410,7 @@ Here's a list of public Fediverse services.
 | `yinyang.social` | Yes |
 | `yinzer.city` | No |
 | `yip.computer` | No |
-| `yip.fm` | Yes |
+| `yip.fm` | No |
 | `yip.gay` | No |
 | `yishibashi.me` | Yes |
 | `yistc.me` | Yes |
@@ -54324,7 +54325,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,653 |
-| Normal | 38,622 |
+| Normal | 38,623 |
 
 
 </details>
