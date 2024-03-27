@@ -21368,6 +21368,7 @@ Here's a list of public Fediverse services.
 | `infoheap.com` | No |
 | `infojournal.fr` | No |
 | `infolattice.org` | No |
+| `infomails.eu` | No |
 | `infoq.social` | No |
 | `inforbidden.ink` | No |
 | `informaction.info` | No |
@@ -36702,6 +36703,7 @@ Here's a list of public Fediverse services.
 | `petr.biz.id` | No |
 | `petras.space` | No |
 | `petre.family` | No |
+| `petri.dog` | Yes |
 | `petrichor.pt` | No |
 | `petrikajander.com` | Yes |
 | `petripulkkinen.social` | No |
@@ -54330,8 +54332,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,657 |
-| Normal | 38,625 |
+| Cloudflare | 15,658 |
+| Normal | 38,626 |
 
 
 </details>
