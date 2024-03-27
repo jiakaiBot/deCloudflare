@@ -279,7 +279,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sunet.se | No |
 | sunnygyl.com | No |
 | superstefan.win | Yes |
-| swin.pro | Yes |
 | syshero.org | No |
 | systemfall.ru | Yes |
 | szyrzyk.pl | No |
@@ -320,8 +319,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 168 |
+| Cloudflare | 167 |
 | Normal | 133 |
 
 
-### 55.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
