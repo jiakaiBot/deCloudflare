@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,708 |
 | social | 4,864 |
-| net | 4,238 |
+| net | 4,239 |
 | org | 2,844 |
 | de | 2,717 |
 
@@ -13917,6 +13917,7 @@ Here's a list of public Fediverse services.
 | `esq.social` | No |
 | `esqcast.com` | No |
 | `esquer.dev` | No |
+| `esquilax.uk` | No |
 | `esquinafeliz.com` | No |
 | `esrever.cc` | No |
 | `essenfotografieren.at` | No |
@@ -31967,7 +31968,7 @@ Here's a list of public Fediverse services.
 | `mwtremblay.com` | Yes |
 | `mwzhang.com` | Yes |
 | `mx00s.com` | No |
-| `mxcao.me` | No |
+| `mxcao.me` | Yes |
 | `mxchange.org` | No |
 | `mxh.life` | No |
 | `mxh.nu` | No |
@@ -42904,7 +42905,7 @@ Here's a list of public Fediverse services.
 | `shrdr.de` | No |
 | `shred.community` | No |
 | `shredderfood.com` | No |
-| `shrediverse.net` | No |
+| `shrediverse.net` | Yes |
 | `shrekislove.us` | No |
 | `shreyanjain.net` | Yes |
 | `shrieker.net` | No |
@@ -46572,6 +46573,7 @@ Here's a list of public Fediverse services.
 | `technicat.cafe` | No |
 | `technick.org` | No |
 | `techniclip.jp` | Yes |
+| `techniverse.net` | No |
 | `technizor.dev` | No |
 | `technobabble.social` | No |
 | `technocat.art` | No |
@@ -54339,7 +54341,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,663 |
+| Cloudflare | 15,665 |
 | Normal | 38,628 |
 
 
