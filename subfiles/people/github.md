@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issues with email reply chains](https://github.com/freescout-helpdesk/freescout/issues/3915)
+- [Workflows not firing](https://github.com/freescout-helpdesk/freescout/issues/3914)
 - [Insufficient validation of kemID results in panic](https://github.com/chris-wood/ohttp-go/issues/29)
 - [Button U3 not found in job exception](https://github.com/useapi/midjourney-api-client/issues/2)
 - [Broken Installation and Execution on Nobara Linux](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/15384)
