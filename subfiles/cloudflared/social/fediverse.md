@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,708 |
-| social | 4,864 |
+| com | 8,709 |
+| social | 4,865 |
 | net | 4,239 |
 | org | 2,844 |
 | de | 2,717 |
@@ -8732,7 +8732,7 @@ Here's a list of public Fediverse services.
 | `colonelinux.org` | No |
 | `colonels.world` | No |
 | `colonthree.gay` | No |
-| `colony.red` | No |
+| `colony.red` | Yes |
 | `color.town` | No |
 | `colorado.icu` | Yes |
 | `coloradocrest.net` | No |
@@ -26076,6 +26076,7 @@ Here's a list of public Fediverse services.
 | `lemon-blacktea.xyz` | No |
 | `lemonade.moe` | Yes |
 | `lemonbite.cc` | Yes |
+| `lemonbop.social` | No |
 | `lemondouble.com` | Yes |
 | `lemonfair.social` | No |
 | `lemonline.biz` | No |
@@ -38874,6 +38875,7 @@ Here's a list of public Fediverse services.
 | `quiethabits.net` | No |
 | `quietorbit.de` | Yes |
 | `quietplace.xyz` | No |
+| `quietrelay.com` | No |
 | `quietude.space` | No |
 | `quietus.ca` | Yes |
 | `quietzero.net` | Yes |
@@ -54341,8 +54343,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,665 |
-| Normal | 38,628 |
+| Cloudflare | 15,666 |
+| Normal | 38,629 |
 
 
 </details>
