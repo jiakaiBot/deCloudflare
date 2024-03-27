@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Buffer is not defined when deploying to Cloudflare](https://github.com/xataio/client-ts/issues/1424)
 - [cloudflare: provider config ignored (accountId, apiToken)](https://github.com/sst/ion/issues/93)
 - [Can't find variable: GM_addStyle](https://github.com/ilyhalight/voice-over-translation/issues/571)
 - [Issues with email reply chains](https://github.com/freescout-helpdesk/freescout/issues/3915)
