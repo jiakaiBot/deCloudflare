@@ -81,7 +81,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | datahata.by | No |
 | decky.eu | No |
 | dekedin.me | No |
-| despagne.net | No |
 | digitaladapt.com | Yes |
 | digitale-gesellschaft.ch | No |
 | digitalsize.net | No |
@@ -183,7 +182,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | marschi.de | Yes |
 | marto.si | No |
 | masters-of-cloud.de | No |
-| maxfong.cc | Yes |
 | meddy94.de | No |
 | meexx.de | No |
 | meganerd.nl | No |
@@ -333,8 +331,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 174 |
-| Normal | 140 |
+| Cloudflare | 173 |
+| Normal | 139 |
 
 
 ### 55.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
