@@ -19,7 +19,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 8888.google | No |
 | aa.net.uk | No |
 | abd.ong | Yes |
-| abdullahabas.de | Yes |
 | abraservice.xyz | Yes |
 | adblocker.eu.org | Yes |
 | adfilter.net | Yes |
@@ -38,7 +37,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | artsvr.my.id | Yes |
 | avastdns.com | No |
 | avdkishore.dev | Yes |
-| azoris.ovh | No |
 | b-cdn.net | No |
 | baishiyuan.cn | No |
 | bancuh.com | No |
@@ -113,7 +111,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | flylcc.cc | Yes |
 | frankutils.xyz | Yes |
 | freyja.pw | Yes |
-| froth.zone | No |
+| froth.zone | Yes |
 | ftp.sh | Yes |
 | fullaccesstointernet.jp.eu.org | No |
 | gac.edu | No |
@@ -159,7 +157,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lista.my.id | Yes |
 | londonwebnerd.cloud | Yes |
 | lonet.org | Yes |
-| loony-tech.de | Yes |
 | lupine.solutions | Yes |
 | m-it.ro | No |
 | mandre.dev | No |
@@ -185,7 +182,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nic.cz | No |
 | nic.lv | No |
 | nielsdb.be | No |
-| ninhs.org | No |
 | niyawe.de | No |
 | njal.la | No |
 | noaddns.com | No |
@@ -200,7 +196,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | opendns.com | Yes |
 | oszx.co | No |
 | ours.luxe | No |
-| ovpn.bond | No |
 | pacificmonster.com | Yes |
 | paesa.es | Yes |
 | panszelescik.pl | Yes |
@@ -211,7 +206,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | persiannit.net | Yes |
 | pietjacobs.be | No |
 | plaawan.uk | Yes |
-| pleumkungz.com | Yes |
 | pmoebi.xyz | No |
 | pooblet.co.za | Yes |
 | pragmasec.nl | No |
@@ -219,7 +213,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | qquack.org | Yes |
 | quad9.net | Yes |
 | quydang.name.vn | Yes |
-| rabot.fi | Yes |
 | ragnvindr.org | Yes |
 | ral9005.org | Yes |
 | renardyre.com | Yes |
@@ -271,7 +264,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | szyrzyk.pl | No |
 | t53.de | No |
 | technicule.info | Yes |
-| teknoholistik.com | Yes |
 | telekom.de | Yes |
 | thebuckners.org | No |
 | thetcs.eu.org | No |
@@ -305,8 +297,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 158 |
-| Normal | 128 |
+| Cloudflare | 154 |
+| Normal | 124 |
 
 
-### 55.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
