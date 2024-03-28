@@ -260,7 +260,7 @@ Here's a list of breached sites.
 | GFAN | 22,526,334 | No |
 | GGCorp | 2,376,330 | Yes |
 | GPSUnderground (GPS Underground) | 669,584 | No |
-| GSMHosting (GSM Hosting) | 2,607,429 | Yes |
+| GSMHosting (GSM Hosting) | 2,607,440 | Yes |
 | GTAGaming | 197,184 | Yes |
 | Gaadi | 4,261,179 | No |
 | Gab | 66,521 | Yes |
@@ -659,7 +659,7 @@ Here's a list of breached sites.
 | VTightGel (V-Tight Gel) | 2,013,164 | No |
 | Vakinha | 4,775,203 | Yes |
 | Vastaamo | 30,433 | No |
-| Vedantu | 686,899 | No |
+| Vedantu | 686,899 | Yes |
 | VerificationsIO (Verifications.io) | 763,117,241 | No |
 | Verified | 16,919 | No |
 | Vermillion | 8,106 | Yes |
@@ -744,10 +744,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 430 | 4,954,500,760 |
-| Normal | 293 | 4,215,529,571 |
+| Cloudflare | 431 | 4,955,187,670 |
+| Normal | 292 | 4,214,842,672 |
 
 
 
-### 59.5% of breached sites (pwned sites) are using Cloudflare.
+### 59.6% of breached sites (pwned sites) are using Cloudflare.
 ### 54% of leaked accounts are on Cloudflare sites.
