@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [You have been blocked?.. Then - Error(failed to get last entry)](https://github.com/timoschlueter/nightscout-librelink-up/issues/128)
+- [Can't import resources whose ID is an empty string](https://github.com/gruntwork-io/terragrunt/issues/3034)
+- [Importing @hono/zod-openapi in cloudflare worker vitest environment fails](https://github.com/honojs/middleware/issues/436)
 - [tokenReloadTokenPrices mutation is not working](https://github.com/balancer/backend/issues/285)
 - [The reply url host my.home-assistant.io doesn't match with the ones configured on the application](https://github.com/andrea-mattioli/bticino_x8000_component/issues/19)
 - [CloudFlare Cloudflare Tunnel Connection Issues](https://github.com/SecOpsNews/news/issues/26583)
