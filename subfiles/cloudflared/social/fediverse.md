@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,460 |
+| com | 8,461 |
 | social | 4,855 |
 | net | 4,181 |
 | org | 2,782 |
@@ -2871,7 +2871,7 @@ Here's a list of public Fediverse services.
 | `aqua-graphic.blue` | No |
 | `aqua22.hu` | Yes |
 | `aqualang.net` | No |
-| `aqualitore-lily.com` | Yes |
+| `aqualitore-lily.com` | No |
 | `aquametals.social` | No |
 | `aquaplus.jp` | No |
 | `aquarla.net` | No |
@@ -22655,6 +22655,7 @@ Here's a list of public Fediverse services.
 | `johnnybegood.fr` | Yes |
 | `johnnygrimmer.social` | No |
 | `johnnywebber.com` | No |
+| `johnquiggin.com` | No |
 | `johnruth.me` | No |
 | `johns-blog.de` | Yes |
 | `johns-casa.de` | Yes |
@@ -53719,8 +53720,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,460 |
-| Normal | 38,211 |
+| Cloudflare | 15,459 |
+| Normal | 38,213 |
 
 
 </details>
