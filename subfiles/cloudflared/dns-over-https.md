@@ -57,7 +57,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | catdns.org | Yes |
 | cgnat.net | No |
 | chadeyron.fr | Yes |
-| chalkychalk.com | Yes |
 | chenu.ch | No |
 | cira.ca | Yes |
 | circl.lu | No |
@@ -74,7 +73,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | daemon.za.net | Yes |
 | data.haus | No |
 | datahata.by | No |
-| decky.eu | No |
 | dekedin.me | No |
 | digitaladapt.com | Yes |
 | digitale-gesellschaft.ch | No |
@@ -276,7 +274,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | teknoholistik.com | Yes |
 | telekom.de | Yes |
 | thebuckners.org | No |
-| thefather.cloud | Yes |
 | thetcs.eu.org | No |
 | tiar.app | No |
 | tiarap.org | Yes |
@@ -308,8 +305,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 160 |
-| Normal | 129 |
+| Cloudflare | 158 |
+| Normal | 128 |
 
 
-### 55.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
