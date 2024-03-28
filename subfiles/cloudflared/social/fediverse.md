@@ -11090,6 +11090,7 @@ Here's a list of public Fediverse services.
 | `deus-exmachina.net` | No |
 | `deutrino.net` | No |
 | `deutsche-gamer-gemeinschaft.eu` | Yes |
+| `deutschehipster.cyou` | No |
 | `deuxchevaux.org` | No |
 | `deuxfleurs.fr` | No |
 | `deuxmillesoixantedix.art` | No |
@@ -14380,7 +14381,7 @@ Here's a list of public Fediverse services.
 | `farewellutopia.com` | No |
 | `farhan.codes` | Yes |
 | `farkascity.org` | No |
-| `farktronix.com` | No |
+| `farktronix.com` | Yes |
 | `farkwar.social` | No |
 | `farland.world` | No |
 | `farlands.cafe` | Yes |
@@ -53720,7 +53721,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,459 |
+| Cloudflare | 15,460 |
 | Normal | 38,213 |
 
 
