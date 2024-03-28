@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,463 |
-| social | 4,855 |
-| net | 4,181 |
+| social | 4,856 |
+| net | 4,182 |
 | org | 2,782 |
-| de | 2,696 |
+| de | 2,698 |
 
 
 - Mastodon, Pleroma, etc
@@ -78,6 +78,7 @@ Here's a list of public Fediverse services.
 | `0cx.de` | No |
 | `0d.gs` | Yes |
 | `0day.agency` | Yes |
+| `0days.engineer` | No |
 | `0daysto.live` | Yes |
 | `0ddfactory.com` | No |
 | `0ds.org` | No |
@@ -13021,6 +13022,7 @@ Here's a list of public Fediverse services.
 | `ekosystems.fr` | No |
 | `eksb.net` | No |
 | `ekseiz.com` | No |
+| `eksoh.net` | Yes |
 | `eksp.at` | Yes |
 | `ekurea.net` | Yes |
 | `ekuro.jp` | No |
@@ -20230,6 +20232,7 @@ Here's a list of public Fediverse services.
 | `hubzilla.eu` | No |
 | `hubzilla.hu` | No |
 | `hubzilla.monster` | No |
+| `hubzilla.network` | No |
 | `hubzilla.nl` | No |
 | `hubzilla.online` | No |
 | `hubzilla.pl` | No |
@@ -27965,6 +27968,7 @@ Here's a list of public Fediverse services.
 | `markstenglein.com` | No |
 | `markstoneman.com` | Yes |
 | `marktwainstudies.org` | No |
+| `markusgarlichs.de` | No |
 | `markusgran.de` | No |
 | `markusklein.cc` | No |
 | `markuslyngmo.no` | No |
@@ -31046,7 +31050,7 @@ Here's a list of public Fediverse services.
 | `mreair.jp` | Yes |
 | `mrehler.com` | No |
 | `mrelay.link` | No |
-| `mreow.de` | No |
+| `mreow.de` | Yes |
 | `mrfunkedude.com` | No |
 | `mrh.io` | No |
 | `mrhands.horse` | No |
@@ -36543,6 +36547,7 @@ Here's a list of public Fediverse services.
 | `pichowsky.de` | No |
 | `pickey.net` | No |
 | `pickle.zone` | Yes |
+| `piclub.social` | No |
 | `picman.blog` | No |
 | `pico8.social` | No |
 | `piconet.co.uk` | No |
@@ -45543,6 +45548,7 @@ Here's a list of public Fediverse services.
 | `tacowolf.net` | Yes |
 | `tactcheck.com` | No |
 | `tacticalpedia.com` | Yes |
+| `tacticalpedia.me` | No |
 | `tacticalpedia.social` | No |
 | `tacticaltech.org` | No |
 | `tacty.org` | Yes |
@@ -49313,6 +49319,7 @@ Here's a list of public Fediverse services.
 | `uni-muenster.de` | No |
 | `uni-oldenburg.de` | No |
 | `uni-web.jp` | No |
+| `uni-wuppertal.de` | No |
 | `uni.horse` | No |
 | `uniability.org` | No |
 | `uniastur.com` | Yes |
@@ -53724,8 +53731,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,459 |
-| Normal | 38,217 |
+| Cloudflare | 15,461 |
+| Normal | 38,222 |
 
 
 </details>
