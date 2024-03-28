@@ -13227,6 +13227,7 @@ Here's a list of public Fediverse services.
 | `elysian.city` | No |
 | `elysian.space` | No |
 | `elysians.social` | No |
+| `elysium-project.me` | No |
 | `elysium.gay` | Yes |
 | `elytra15.com` | Yes |
 | `em.id.lv` | Yes |
@@ -46595,6 +46596,7 @@ Here's a list of public Fediverse services.
 | `theclashfruit.me` | Yes |
 | `thecle.land` | Yes |
 | `theclimate.org` | No |
+| `theclowns.club` | No |
 | `thecodebank.org` | No |
 | `thecodeclub.in` | No |
 | `thecolddark.com` | No |
@@ -53718,7 +53720,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,460 |
-| Normal | 38,209 |
+| Normal | 38,211 |
 
 
 </details>
