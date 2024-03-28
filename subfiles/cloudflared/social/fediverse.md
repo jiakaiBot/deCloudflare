@@ -4527,6 +4527,7 @@ Here's a list of public Fediverse services.
 | `beckorg.com` | No |
 | `beckum.cloud` | No |
 | `becomesovran.com` | No |
+| `becometheteapot.cfd` | Yes |
 | `becomingthemuse.net` | No |
 | `becutewith.me` | No |
 | `bedlamsteps.uk` | Yes |
@@ -5804,7 +5805,7 @@ Here's a list of public Fediverse services.
 | `boodoo.biz` | No |
 | `boogalooinvestigator.com` | No |
 | `boogstreken.be` | No |
-| `booja.ca` | No |
+| `booja.ca` | Yes |
 | `bookandsword.com` | No |
 | `bookbeezhive.com` | No |
 | `bookdon.jp` | No |
@@ -53716,8 +53717,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,458 |
-| Normal | 38,210 |
+| Cloudflare | 15,460 |
+| Normal | 38,209 |
 
 
 </details>
