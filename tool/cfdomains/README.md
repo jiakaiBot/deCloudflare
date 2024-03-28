@@ -147,10 +147,10 @@ Top 10
 | _de3b18a0_ | 41,804 |
 | _0b6645a8_ | 41,790 |
 | _30694c03_ | 41,551 |
+| _8bdbc899_ | 41,527 |
 | _a249e3a9_ | 41,393 |
 | _1e3f3fa9_ | 41,343 |
-| _056d8d11_ | 41,338 |
 
-- Total Score: 2,225,499
+- Total Score: 2,227,672
 
 ![](../../image/what_are_you_hunting_cloudflare.png)
