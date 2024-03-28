@@ -95,7 +95,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | domyah.net | Yes |
 | dotnet.win | Yes |
 | dscloud.me | No |
-| dsh.lol | Yes |
 | dukun.de | No |
 | edgy-dns.com | No |
 | emiliyan.com | Yes |
@@ -189,7 +188,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | noridev.moe | No |
 | npsolution.it | No |
 | ns1net.com | No |
-| oasg.xyz | No |
 | ofdoom.net | Yes |
 | omada.cafe | Yes |
 | openbld.net | No |
@@ -246,7 +244,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | silentlybren.com | Yes |
 | skrep.eu | No |
 | slinkyman.net | Yes |
-| softcom.net | No |
 | spacedns.org | No |
 | sparshbajaj.me | Yes |
 | spectrum.com | Yes |
@@ -297,8 +294,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 154 |
-| Normal | 124 |
+| Cloudflare | 153 |
+| Normal | 122 |
 
 
-### 55.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
