@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,711 |
+| com | 8,712 |
 | social | 4,865 |
 | net | 4,240 |
 | org | 2,844 |
@@ -1036,6 +1036,7 @@ Here's a list of public Fediverse services.
 | `abolition.town` | No |
 | `abolivier.bzh` | No |
 | `abookofcreatures.com` | No |
+| `abootible.com` | No |
 | `aboring.space` | No |
 | `aboringsite.dev` | No |
 | `abortu.com` | No |
@@ -29773,7 +29774,7 @@ Here's a list of public Fediverse services.
 | `merry.eu.org` | No |
 | `mersenne-sister.net` | No |
 | `merta.social` | No |
-| `meru-golang.jp` | Yes |
+| `meru-golang.jp` | No |
 | `meru-golang.net` | No |
 | `merv.news` | No |
 | `merveill.es` | No |
@@ -54351,8 +54352,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,668 |
-| Normal | 38,635 |
+| Cloudflare | 15,667 |
+| Normal | 38,637 |
 
 
 </details>
