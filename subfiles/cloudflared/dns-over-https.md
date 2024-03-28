@@ -128,7 +128,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | henek.ovh | Yes |
 | hker.me | Yes |
 | hostme.co.il | Yes |
-| huas.me | Yes |
 | huque.com | No |
 | huseynov.work | Yes |
 | huyhoangit.net | Yes |
@@ -144,7 +143,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jnraptor.net | Yes |
 | josephyap.me | Yes |
 | jundev.org | No |
-| jungle-im.ir | Yes |
 | justincounts.com | No |
 | kernel-error.de | No |
 | ketan.dev | Yes |
@@ -308,8 +306,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 161 |
+| Cloudflare | 159 |
 | Normal | 128 |
 
 
-### 55.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
