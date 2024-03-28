@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The reply url host my.home-assistant.io doesn't match with the ones configured on the application](https://github.com/andrea-mattioli/bticino_x8000_component/issues/19)
 - [CloudFlare Cloudflare Tunnel Connection Issues](https://github.com/SecOpsNews/news/issues/26583)
 - [OpenAI Error Connection Error](https://github.com/davila7/code-gpt-docs/issues/245)
 - [Buffer is not defined when deploying to Cloudflare](https://github.com/xataio/client-ts/issues/1424)
