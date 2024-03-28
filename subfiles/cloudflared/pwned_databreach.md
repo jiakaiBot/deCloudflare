@@ -226,6 +226,7 @@ Here's a list of breached sites.
 | Evony | 29,396,116 | Yes |
 | Exactis | 131,577,763 | No |
 | Experian (Experian (2015)) | 7,196,890 | No |
+| Exvagos | 2,121,789 | Yes |
 | Eye4Fraud | 16,000,591 | No |
 | EyeEm | 19,611,022 | Yes |
 | FFShrine (Final Fantasy Shrine) | 620,677 | Yes |
@@ -744,10 +745,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 431 | 4,955,187,670 |
+| Cloudflare | 432 | 4,957,309,459 |
 | Normal | 292 | 4,214,842,672 |
 
 
 
-### 59.6% of breached sites (pwned sites) are using Cloudflare.
+### 59.7% of breached sites (pwned sites) are using Cloudflare.
 ### 54% of leaked accounts are on Cloudflare sites.
