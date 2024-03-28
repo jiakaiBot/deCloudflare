@@ -225,6 +225,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ragnvindr.org | Yes |
 | ral9005.org | Yes |
 | renardyre.com | Yes |
+| repinger.my.id | Yes |
 | restena.lu | No |
 | retakecs.com | Yes |
 | rethinkdns.com | Yes |
@@ -232,6 +233,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rferee.dev | Yes |
 | rin.sh | Yes |
 | rootlab.top | No |
+| rslvr.eu | No |
 | saferbfc.org | Yes |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
@@ -306,8 +308,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 159 |
-| Normal | 128 |
+| Cloudflare | 160 |
+| Normal | 129 |
 
 
 ### 55.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
