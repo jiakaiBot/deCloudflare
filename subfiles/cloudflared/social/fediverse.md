@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,710 |
+| com | 8,711 |
 | social | 4,867 |
 | net | 4,239 |
 | org | 2,841 |
@@ -23788,6 +23788,7 @@ Here's a list of public Fediverse services.
 | `katariya.us` | No |
 | `katarpilar.com` | No |
 | `kate.land` | No |
+| `katehildenbrand.com` | No |
 | `katgirl.club` | No |
 | `katharinabrunner.de` | No |
 | `katholisch.social` | No |
@@ -54354,7 +54355,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,666 |
-| Normal | 38,639 |
+| Normal | 38,640 |
 
 
 </details>
