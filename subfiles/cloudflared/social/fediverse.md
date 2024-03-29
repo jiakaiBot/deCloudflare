@@ -23434,7 +23434,7 @@ Here's a list of public Fediverse services.
 | `k503.jp` | Yes |
 | `k67.club` | No |
 | `k6qw.com` | No |
-| `k7d.me` | Yes |
+| `k7d.me` | No |
 | `k7dxs.net` | No |
 | `k7mc.xyz` | No |
 | `k85.de` | No |
@@ -34069,6 +34069,7 @@ Here's a list of public Fediverse services.
 | `notesfrommosquitohill.com` | No |
 | `notetoself.co.uk` | Yes |
 | `notez4all.tech` | Yes |
+| `notfire.cc` | Yes |
 | `notfound.work` | No |
 | `notfreespee.ch` | No |
 | `notfunk.radio` | No |
@@ -40214,7 +40215,7 @@ Here's a list of public Fediverse services.
 | `richardhickson.com` | Yes |
 | `richardjdalton.com` | No |
 | `richardloxley.com` | Yes |
-| `richardo.xyz` | Yes |
+| `richardo.xyz` | No |
 | `richardpickler.com` | No |
 | `richardshub.com` | No |
 | `richardsoper.me` | Yes |
@@ -54342,8 +54343,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,674 |
-| Normal | 38,620 |
+| Cloudflare | 15,673 |
+| Normal | 38,622 |
 
 
 </details>
