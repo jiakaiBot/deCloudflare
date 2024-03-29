@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [several 4chan archives appear to have blocked gallery-dl](https://github.com/mikf/gallery-dl/issues/5399)
+- [deno run -A npm:create-hono my-app crashes on execution.](https://github.com/honojs/create-hono/issues/31)
 - [Deploying with adapter 10.0 to CF does not load the env variables anymore](https://github.com/withastro/adapters/issues/208)
 - [Deploying to CF Pages with a Vue Island is broken](https://github.com/withastro/adapters/issues/207)
 - [Can't import datadog_integration_cloudflare_account](https://github.com/DataDog/terraform-provider-datadog/issues/2342)
