@@ -11715,6 +11715,7 @@ Here's a list of public Fediverse services.
 | `dispersio.us` | No |
 | `displ.eu` | No |
 | `displaced.social` | No |
+| `displayeurope.eu` | No |
 | `displayeurope.social` | No |
 | `displayeurope.video` | No |
 | `disputemag.com` | No |
@@ -41430,7 +41431,7 @@ Here's a list of public Fediverse services.
 | `san-tama.tokyo` | Yes |
 | `san.moe` | No |
 | `sanae.im` | Yes |
-| `sanae233.net` | Yes |
+| `sanae233.net` | No |
 | `sanam.xyz` | No |
 | `sanantonio.lol` | No |
 | `sanao.dev` | Yes |
@@ -47998,7 +47999,7 @@ Here's a list of public Fediverse services.
 | `tirnanog.space` | No |
 | `tirr.dev` | Yes |
 | `tisato.live` | Yes |
-| `tissink.me` | No |
+| `tissink.me` | Yes |
 | `tissuebox.art` | Yes |
 | `titanfusion.net` | Yes |
 | `titanplusplus.online` | No |
@@ -54345,7 +54346,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,672 |
-| Normal | 38,624 |
+| Normal | 38,625 |
 
 
 </details>
