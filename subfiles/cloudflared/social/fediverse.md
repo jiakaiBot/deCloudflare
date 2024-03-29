@@ -22788,6 +22788,7 @@ Here's a list of public Fediverse services.
 | `jjfm.social` | No |
 | `jjgadgets.tech` | Yes |
 | `jjis.gay` | No |
+| `jjo.sh` | No |
 | `jjohnson.org` | Yes |
 | `jjude.com` | Yes |
 | `jkakaofanatiker.tk` | No |
@@ -31055,7 +31056,7 @@ Here's a list of public Fediverse services.
 | `monoxyd.de` | No |
 | `monporte.de` | No |
 | `monrepos.casa` | Yes |
-| `monrepos.online` | Yes |
+| `monrepos.online` | No |
 | `monroemi.us` | No |
 | `monsieur-a.fr` | No |
 | `monsieurbidouille.fr` | No |
@@ -54343,8 +54344,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,673 |
-| Normal | 38,622 |
+| Cloudflare | 15,672 |
+| Normal | 38,624 |
 
 
 </details>
