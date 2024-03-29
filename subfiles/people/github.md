@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Random 401 Unauthorized on OAuth2 for some users on /oauth2/@me & /users/@me.](https://github.com/discord/discord-api-docs/issues/6769)
 - [Help Needed: Integrating Taskweaver with Litellm on Cloudflare Workers](https://github.com/microsoft/TaskWeaver/issues/274)
 - [several 4chan archives appear to have blocked gallery-dl](https://github.com/mikf/gallery-dl/issues/5399)
 - [deno run -A npm:create-hono my-app crashes on execution.](https://github.com/honojs/create-hono/issues/31)
