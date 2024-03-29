@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Deploying to CF Pages with a Vue Island is broken](https://github.com/withastro/adapters/issues/207)
 - [Can't import datadog_integration_cloudflare_account](https://github.com/DataDog/terraform-provider-datadog/issues/2342)
 - [You have been blocked?.. Then - Error(failed to get last entry)](https://github.com/timoschlueter/nightscout-librelink-up/issues/128)
 - [Can't import resources whose ID is an empty string](https://github.com/gruntwork-io/terragrunt/issues/3034)
