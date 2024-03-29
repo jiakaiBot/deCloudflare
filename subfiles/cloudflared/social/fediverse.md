@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 8,709 |
 | social | 4,866 |
 | net | 4,239 |
-| org | 2,839 |
-| de | 2,718 |
+| org | 2,840 |
+| de | 2,719 |
 
 
 - Mastodon, Pleroma, etc
@@ -11858,6 +11858,7 @@ Here's a list of public Fediverse services.
 | `dmaus.name` | No |
 | `dmca.club` | No |
 | `dmcblue.com` | No |
+| `dme.org` | No |
 | `dmgd.monster` | Yes |
 | `dmichael.be` | No |
 | `dmitri.life` | No |
@@ -11970,7 +11971,7 @@ Here's a list of public Fediverse services.
 | `dogeposting.social` | No |
 | `dogetron.com` | No |
 | `dogfood.social` | Yes |
-| `dogg.zone` | Yes |
+| `dogg.zone` | No |
 | `doggirl.me` | No |
 | `doggoat.de` | Yes |
 | `doghouse.social` | No |
@@ -13141,6 +13142,7 @@ Here's a list of public Fediverse services.
 | `eighthstreetorchestra.com` | No |
 | `eightpoint.app` | Yes |
 | `eihei.net` | Yes |
+| `eihei.nexus` | No |
 | `eike-guenther.de` | No |
 | `eiko-fried.com` | No |
 | `eikobear.blue` | No |
@@ -22615,7 +22617,7 @@ Here's a list of public Fediverse services.
 | `jerl.zone` | Yes |
 | `jermey.cn` | Yes |
 | `jeroened.be` | Yes |
-| `jeroenpraat.nl` | Yes |
+| `jeroenpraat.nl` | No |
 | `jeroensangers.com` | No |
 | `jeroenvd.nl` | Yes |
 | `jeromegamez.com` | Yes |
@@ -35079,6 +35081,7 @@ Here's a list of public Fediverse services.
 | `onepicaday.com` | No |
 | `onepointzero.com` | Yes |
 | `onerescue.org` | No |
+| `oneric.de` | No |
 | `onestackdeep.com` | No |
 | `onestarrynight.com` | Yes |
 | `onestatus.info` | No |
@@ -52430,7 +52433,7 @@ Here's a list of public Fediverse services.
 | `woodland.cafe` | No |
 | `woodland.video` | Yes |
 | `woodlanddigital.net` | Yes |
-| `woodpecker.blue` | Yes |
+| `woodpecker.blue` | No |
 | `woodpecker.social` | No |
 | `woodphant.fr` | No |
 | `woodplate.club` | No |
@@ -54345,8 +54348,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,672 |
-| Normal | 38,625 |
+| Cloudflare | 15,669 |
+| Normal | 38,631 |
 
 
 </details>
