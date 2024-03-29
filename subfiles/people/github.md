@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Errors when loggin](https://github.com/the-convocation/twitter-scraper/issues/78)
 - [ubuntu > docker easy installation > issue: Panel state: Not Installed](https://github.com/MHSanaei/3x-ui/issues/2159)
 - [Random 401 Unauthorized on OAuth2 for some users on /oauth2/@me & /users/@me.](https://github.com/discord/discord-api-docs/issues/6769)
 - [Help Needed: Integrating Taskweaver with Litellm on Cloudflare Workers](https://github.com/microsoft/TaskWeaver/issues/274)
