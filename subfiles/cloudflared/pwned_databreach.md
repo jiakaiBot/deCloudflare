@@ -203,6 +203,7 @@ Here's a list of breached sites.
 | Duolingo | 2,676,696 | Yes |
 | Duowan (Duowan.com) | 2,639,894 | Yes |
 | Dymocks | 836,120 | Yes |
+| ECB (England Cricket) | 43,299 | Yes |
 | ECCIE | 536,923 | No |
 | EPal (E-Pal) | 108,887 | Yes |
 | EatStreet | 6,353,564 | No |
@@ -712,7 +713,7 @@ Here's a list of breached sites.
 | ZAPHosting (ZAP-Hosting) | 746,682 | Yes |
 | Zacks | 8,929,503 | Yes |
 | Zhenai (Zhenai.com) | 5,024,908 | No |
-| Zomato | 16,472,873 | No |
+| Zomato | 16,472,873 | Yes |
 | Zoomcar | 3,589,795 | Yes |
 | Zoosk (Zoosk (2011)) | 52,578,183 | Yes |
 | Zoosk2020 (Zoosk (2020)) | 23,927,853 | Yes |
@@ -745,10 +746,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 432 | 4,957,309,459 |
-| Normal | 292 | 4,214,842,672 |
+| Cloudflare | 434 | 4,973,825,631 |
+| Normal | 291 | 4,198,369,799 |
 
 
 
-### 59.7% of breached sites (pwned sites) are using Cloudflare.
-### 54% of leaked accounts are on Cloudflare sites.
+### 59.9% of breached sites (pwned sites) are using Cloudflare.
+### 54.2% of leaked accounts are on Cloudflare sites.
