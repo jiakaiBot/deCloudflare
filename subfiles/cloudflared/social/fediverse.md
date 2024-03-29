@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,709 |
+| com | 8,710 |
 | social | 4,867 |
 | net | 4,239 |
-| org | 2,840 |
+| org | 2,841 |
 | de | 2,719 |
 
 
@@ -31176,6 +31176,7 @@ Here's a list of public Fediverse services.
 | `moralkiosk.social` | No |
 | `morash.me` | Yes |
 | `moratoriamu.net` | Yes |
+| `morayner.org` | No |
 | `mordicux.xyz` | No |
 | `mordor.social` | No |
 | `more.me` | No |
@@ -33022,7 +33023,6 @@ Here's a list of public Fediverse services.
 | `netfuture.ch` | No |
 | `netguide.jp` | Yes |
 | `nethack.tv` | No |
-| `nether-orchid.top` | Yes |
 | `nether.net` | No |
 | `netheredge.com` | No |
 | `nethole.us` | No |
@@ -47463,6 +47463,7 @@ Here's a list of public Fediverse services.
 | `thepractice.space` | No |
 | `theprotondandelion.org` | No |
 | `thepub.xyz` | No |
+| `thepublicfloor.com` | No |
 | `thequantumblockchainproject.com` | No |
 | `thequietplace.social` | No |
 | `theradio.au` | Yes |
@@ -54351,8 +54352,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,668 |
-| Normal | 38,635 |
+| Cloudflare | 15,667 |
+| Normal | 38,637 |
 
 
 </details>
