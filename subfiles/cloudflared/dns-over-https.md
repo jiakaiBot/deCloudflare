@@ -149,7 +149,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lezainski.com | Yes |
 | libredns.gr | No |
 | lindung.pp.ua | Yes |
-| linzefeng.top | Yes |
 | lista.my.id | Yes |
 | londonwebnerd.cloud | Yes |
 | lonet.org | Yes |
@@ -231,7 +230,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | seby.io | Yes |
 | serdcebolit.ru | No |
 | server.my.id | No |
-| shabi.icu | No |
 | shalenkov.cc | Yes |
 | shoupperuser.com | Yes |
 | shutgaming.net | Yes |
@@ -289,8 +287,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 151 |
-| Normal | 119 |
+| Cloudflare | 150 |
+| Normal | 118 |
 
 
-### 55.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 56% of DNS-over-HTTPS (DoH) are using Cloudflare.
