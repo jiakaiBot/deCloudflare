@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,462 |
+| com | 8,463 |
 | social | 4,857 |
 | net | 4,180 |
 | org | 2,779 |
@@ -6314,6 +6314,7 @@ Here's a list of public Fediverse services.
 | `bruff.me` | No |
 | `brugopen.nl` | No |
 | `bruh.social` | Yes |
+| `bruhtek.com` | Yes |
 | `bruis.net` | No |
 | `bruisedfoodclub.org` | No |
 | `bruitbruit.com` | No |
@@ -8995,6 +8996,7 @@ Here's a list of public Fediverse services.
 | `corentinfiloche.xyz` | No |
 | `corepaper.org` | No |
 | `coreshock.de` | No |
+| `coretalk.space` | Yes |
 | `coreycarvalho.com` | Yes |
 | `coreyinscoe.com` | No |
 | `coreypotter.com` | No |
@@ -53726,7 +53728,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,457 |
+| Cloudflare | 15,459 |
 | Normal | 38,221 |
 
 
