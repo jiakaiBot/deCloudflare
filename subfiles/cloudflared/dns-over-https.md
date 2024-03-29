@@ -62,8 +62,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cloud88.com.au | Yes |
 | cloudflare-dns.com | Yes |
 | cloudku.technology | Yes |
-| cloudseriousshit.com | Yes |
-| cloudsides.com | Yes |
 | cubedns.com | No |
 | cxl.moe | Yes |
 | cybrespace.net | No |
@@ -291,8 +289,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 153 |
+| Cloudflare | 151 |
 | Normal | 119 |
 
 
-### 56.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
