@@ -33,7 +33,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | anudeep.me | Yes |
 | apad.pro | Yes |
 | artikel10.org | No |
-| artsvr.my.id | Yes |
 | avastdns.com | No |
 | avdkishore.dev | Yes |
 | b-cdn.net | No |
@@ -283,8 +282,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 146 |
+| Cloudflare | 145 |
 | Normal | 118 |
 
 
-### 55.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
