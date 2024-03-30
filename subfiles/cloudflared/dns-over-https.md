@@ -62,7 +62,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cloudku.technology | Yes |
 | cubedns.com | No |
 | cxl.moe | Yes |
-| cybrespace.net | No |
 | cynthialabs.net | Yes |
 | daemon.za.net | Yes |
 | data.haus | No |
@@ -285,7 +284,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 145 |
-| Normal | 120 |
+| Normal | 119 |
 
 
-### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
