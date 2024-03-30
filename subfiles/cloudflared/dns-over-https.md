@@ -235,6 +235,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | spacedns.org | No |
 | sparshbajaj.me | Yes |
 | spectrum.com | Yes |
+| spirio.fr | No |
 | sscw.win | Yes |
 | stealbit.com | Yes |
 | strassmair.org | Yes |
@@ -257,6 +258,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tigrons.ru | No |
 | tls-data.de | No |
 | trovs.ru | No |
+| truta.org | No |
 | tryk.app | Yes |
 | tu-bs.de | No |
 | twnic.tw | No |
@@ -283,7 +285,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 145 |
-| Normal | 118 |
+| Normal | 120 |
 
 
-### 55.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
