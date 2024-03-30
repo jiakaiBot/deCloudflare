@@ -36037,6 +36037,7 @@ Here's a list of public Fediverse services.
 | `palinoia.xyz` | Yes |
 | `palipalimag.com` | No |
 | `pallamondo.net` | No |
+| `pallas.city` | No |
 | `palmer.house` | No |
 | `palmie.jp` | No |
 | `palmsy.club` | No |
@@ -54365,7 +54366,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,670 |
-| Normal | 38,646 |
+| Normal | 38,647 |
 
 
 </details>
