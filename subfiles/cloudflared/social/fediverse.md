@@ -12014,6 +12014,7 @@ Here's a list of public Fediverse services.
 | `dolec.fr` | No |
 | `dolezal.one` | No |
 | `doll.moe` | No |
+| `doll.repair` | Yes |
 | `doll.social` | No |
 | `dollarvigilante.tv` | Yes |
 | `dolpen.net` | Yes |
@@ -54363,7 +54364,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,669 |
+| Cloudflare | 15,670 |
 | Normal | 38,646 |
 
 
