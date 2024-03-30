@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,714 |
 | social | 4,869 |
-| net | 4,240 |
+| net | 4,241 |
 | org | 2,841 |
 | de | 2,719 |
 
@@ -10454,6 +10454,7 @@ Here's a list of public Fediverse services.
 | `darn.is` | Yes |
 | `darn.social` | Yes |
 | `darndt.de` | Yes |
+| `darnell.africa` | Yes |
 | `darnell.app` | No |
 | `darnell.day` | No |
 | `darnell.fyi` | No |
@@ -10461,6 +10462,7 @@ Here's a list of public Fediverse services.
 | `darnell.one` | No |
 | `darnell.ooo` | No |
 | `darnell.tv` | No |
+| `darnell.xxx` | No |
 | `darnielle.me` | No |
 | `darosaweb.com.br` | No |
 | `darpsindustries.com` | No |
@@ -21387,6 +21389,7 @@ Here's a list of public Fediverse services.
 | `infojournal.fr` | No |
 | `infolattice.org` | No |
 | `infomails.eu` | No |
+| `infoposiciones.net` | Yes |
 | `infoq.social` | No |
 | `inforbidden.ink` | No |
 | `informaction.info` | No |
@@ -54365,10 +54368,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,670 |
-| Normal | 38,647 |
+| Cloudflare | 15,672 |
+| Normal | 38,648 |
 
 
 </details>
 
-### 28.8% of public Fediverse services are using Cloudflare.
+### 28.9% of public Fediverse services are using Cloudflare.
