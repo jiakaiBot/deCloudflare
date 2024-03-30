@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Domoticz main web site access issue](https://github.com/domoticz/domoticz/issues/6050)
 - [D1_ERROR: near "-": syntax error at offset 30](https://github.com/JacobLinCool/d1-manager/issues/49)
 - [Cloudflare Errors when loggin](https://github.com/the-convocation/twitter-scraper/issues/78)
 - [ubuntu > docker easy installation > issue: Panel state: Not Installed](https://github.com/MHSanaei/3x-ui/issues/2159)
