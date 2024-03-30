@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,465 |
 | social | 4,859 |
 | net | 4,182 |
-| org | 2,779 |
+| org | 2,780 |
 | de | 2,698 |
 
 
@@ -15708,6 +15708,7 @@ Here's a list of public Fediverse services.
 | `forfreedom.at` | No |
 | `forfuture.fm` | No |
 | `forfuture.social` | No |
+| `forgejo.org` | No |
 | `forgesparks.com` | No |
 | `forget-not.me` | Yes |
 | `forgetthis.site` | No |
@@ -16495,7 +16496,7 @@ Here's a list of public Fediverse services.
 | `funkturm7.de` | No |
 | `funkwhale-host.de` | No |
 | `funkwhale.audio` | No |
-| `funkwhale.cf` | Yes |
+| `funkwhale.cf` | No |
 | `funkwhale.co.uk` | No |
 | `funkwhale.eus` | No |
 | `funkwhale.it` | Yes |
@@ -18959,7 +18960,7 @@ Here's a list of public Fediverse services.
 | `hardwarepunk.de` | No |
 | `hardy.dev` | Yes |
 | `harekiet.com` | No |
-| `harem.moe` | Yes |
+| `harem.moe` | No |
 | `hareware.xyz` | No |
 | `harfang.social` | Yes |
 | `harijs.id.lv` | No |
@@ -53741,8 +53742,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,464 |
-| Normal | 38,229 |
+| Cloudflare | 15,462 |
+| Normal | 38,232 |
 
 
 </details>
