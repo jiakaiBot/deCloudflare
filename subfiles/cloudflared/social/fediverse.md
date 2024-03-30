@@ -16862,7 +16862,7 @@ Here's a list of public Fediverse services.
 | `gamedevpals.com` | No |
 | `gamedevsocial.uk` | No |
 | `gameguard.moe` | Yes |
-| `gameing.zone` | No |
+| `gameing.zone` | Yes |
 | `gamejam.site` | No |
 | `gamelan.social` | No |
 | `gameliberty.club` | No |
@@ -41113,6 +41113,7 @@ Here's a list of public Fediverse services.
 | `sasachi.tokyo` | No |
 | `sasakimasato.net` | No |
 | `sasakulab.com` | Yes |
+| `sasasa14.info` | Yes |
 | `sasasa14.online` | Yes |
 | `sasasin.net` | Yes |
 | `sasbaen.be` | No |
@@ -53749,8 +53750,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,466 |
-| Normal | 38,235 |
+| Cloudflare | 15,468 |
+| Normal | 38,234 |
 
 
 </details>
