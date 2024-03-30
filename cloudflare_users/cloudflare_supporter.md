@@ -5919,6 +5919,7 @@ Do not create new issue or we will close it as duplicate.
 | [imransaleem@X](https://twitter.com/imransaleem/status/1579580229982760963) | advertise |
 | [IMRANSM3@X](https://twitter.com/IMRANSM3/status/1376860023729446913) | advertise |
 | [imranvazirr@X](https://twitter.com/imranvazirr/status/1545281808409174016) | advertise |
+| [imschakma@X](https://twitter.com/imschakma/status/1773311181173739753) | advertise |
 | [imsurit@X](https://twitter.com/imsurit/status/1468784896537608193) | advertise |
 | [imSuriya_P@X](https://twitter.com/imSuriya_P/status/1629650661322153987) | advertise |
 | [Imtiyaz17794109@X](https://twitter.com/Imtiyaz17794109/status/1388483545459351553) | advertise |
