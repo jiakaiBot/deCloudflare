@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [2023-03-04 Hot Posts](https://github.com/jiacai2050/mofish/issues/212)
 - [Cannot upload new image](https://github.com/OpenTTD/wiki-data/issues/31)
 - [Issue: 8 Empty Collections "Collections".."Collections8"](https://github.com/jellyfin/jellyfin/issues/11258)
 - [Compatibility issue with Cloudflare Worker](https://github.com/sindresorhus/ky/issues/569)
