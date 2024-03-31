@@ -23509,6 +23509,7 @@ Here's a list of public Fediverse services.
 | `kaffeeringe.de` | No |
 | `kafija.space` | No |
 | `kafka.icu` | No |
+| `kafu.moe` | Yes |
 | `kafuka.me` | No |
 | `kafuu.space` | Yes |
 | `kag.social` | No |
@@ -54391,7 +54392,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,679 |
+| Cloudflare | 15,680 |
 | Normal | 38,664 |
 
 
