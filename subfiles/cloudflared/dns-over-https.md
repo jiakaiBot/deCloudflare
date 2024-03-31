@@ -42,7 +42,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | bonis.de | No |
 | brahma.world | Yes |
 | bugz.fr | No |
-| c-dns.com | No |
 | callies-online.site | No |
 | carestyle.org | Yes |
 | carson-family.com | Yes |
@@ -62,7 +61,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cynthialabs.net | Yes |
 | daemon.za.net | Yes |
 | data.haus | No |
-| datahata.by | No |
 | dekedin.me | No |
 | digitaladapt.com | Yes |
 | digitale-gesellschaft.ch | No |
@@ -100,7 +98,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ffmuc.net | Yes |
 | flm9.net | No |
 | flylcc.cc | Yes |
-| frankutils.xyz | Yes |
 | freyja.pw | Yes |
 | froth.zone | Yes |
 | ftp.sh | Yes |
@@ -278,8 +275,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 141 |
-| Normal | 118 |
+| Cloudflare | 140 |
+| Normal | 116 |
 
 
-### 54.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
