@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare FreeCaptcha closes Waterfox](https://github.com/WaterfoxCo/Waterfox/issues/3402)
 - [Clean installation of cert-manager v1.14.4 on k3s v1.29.2+k3s1 gives error: resource mapping not found for ClusterIssuer](https://github.com/cert-manager/cert-manager/issues/6879)
 - [2023-03-04 Hot Posts](https://github.com/jiacai2050/mofish/issues/212)
 - [Cannot upload new image](https://github.com/OpenTTD/wiki-data/issues/31)
