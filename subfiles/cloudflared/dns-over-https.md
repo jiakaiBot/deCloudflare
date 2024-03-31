@@ -110,7 +110,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hahnjo.de | No |
 | hanniel.tech | No |
 | henek.ovh | Yes |
-| hker.me | Yes |
 | hostme.co.il | Yes |
 | huque.com | No |
 | huseynov.work | Yes |
@@ -140,7 +139,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lista.my.id | Yes |
 | londonwebnerd.cloud | Yes |
 | lonet.org | Yes |
-| lupine.solutions | Yes |
 | mandre.dev | No |
 | marschi.de | Yes |
 | masters-of-cloud.de | No |
@@ -189,7 +187,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | qquack.org | Yes |
 | quad9.net | Yes |
 | quydang.name.vn | Yes |
-| ragnvindr.org | Yes |
 | ral9005.org | Yes |
 | renardyre.com | Yes |
 | repinger.my.id | Yes |
@@ -207,7 +204,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sarak.as | Yes |
 | sarilouis.com | No |
 | sc-lezhi.com | No |
-| scarx.net | Yes |
 | schlagheck.berlin | Yes |
 | scuola.org | No |
 | seby.io | Yes |
@@ -272,8 +268,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 139 |
+| Cloudflare | 135 |
 | Normal | 114 |
 
 
-### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
