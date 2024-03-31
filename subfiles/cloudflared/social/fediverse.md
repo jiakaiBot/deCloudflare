@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,466 |
 | social | 4,860 |
 | net | 4,182 |
-| org | 2,781 |
+| org | 2,782 |
 | de | 2,698 |
 
 
@@ -3706,7 +3706,7 @@ Here's a list of public Fediverse services.
 | `autonomy.ninja` | Yes |
 | `autonomy.social` | No |
 | `autophagy.io` | Yes |
-| `autothink.co` | No |
+| `autothink.co` | Yes |
 | `autrechose.club` | Yes |
 | `autroisieme.top` | No |
 | `auttaja.io` | Yes |
@@ -20455,6 +20455,7 @@ Here's a list of public Fediverse services.
 | `hypnoguys.com` | No |
 | `hypnoville.net` | Yes |
 | `hypnovir.us` | Yes |
+| `hypogea.org` | No |
 | `hypr.ninja` | No |
 | `hypurrr.net` | No |
 | `hyrulecastle.town` | No |
@@ -40368,7 +40369,7 @@ Here's a list of public Fediverse services.
 | `rpicloud.de` | No |
 | `rpigroup.it` | Yes |
 | `rpix.dk` | No |
-| `rplatonov.com` | Yes |
+| `rplatonov.com` | No |
 | `rplatonov.ru` | No |
 | `rpnation.com` | Yes |
 | `rpontual.com` | Yes |
@@ -42291,7 +42292,7 @@ Here's a list of public Fediverse services.
 | `shimanchu.social` | No |
 | `shimapan.moe` | No |
 | `shimbashi.beer` | No |
-| `shimesaba.club` | Yes |
+| `shimesaba.club` | No |
 | `shimmy1996.com` | No |
 | `shimokita.social` | No |
 | `shin.pp.ua` | No |
@@ -48216,7 +48217,7 @@ Here's a list of public Fediverse services.
 | `transportfornewhomes.org.uk` | No |
 | `transportist.org` | No |
 | `transpridesouthampton.org` | Yes |
-| `transqueer.club` | Yes |
+| `transqueer.club` | No |
 | `transrights.art` | Yes |
 | `transrights.ovh` | No |
 | `transsafety.network` | Yes |
@@ -53750,8 +53751,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,468 |
-| Normal | 38,234 |
+| Cloudflare | 15,466 |
+| Normal | 38,237 |
 
 
 </details>
