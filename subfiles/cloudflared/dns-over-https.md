@@ -125,7 +125,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | in-berlin.de | No |
 | indybanipal.com | No |
 | inria.fr | No |
-| iranet.cam | Yes |
 | isakula.space | No |
 | jackyes.ovh | No |
 | jakinet.id | No |
@@ -281,8 +280,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 144 |
+| Cloudflare | 143 |
 | Normal | 118 |
 
 
-### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
