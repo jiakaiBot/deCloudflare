@@ -26,7 +26,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | adrianlam.com | Yes |
 | ahadns.net | Yes |
 | ahmgam.com | Yes |
-| ahua.ltd | Yes |
 | amlegion.org | No |
 | andrewnw.xyz | Yes |
 | anudeep.me | Yes |
@@ -280,8 +279,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 143 |
+| Cloudflare | 142 |
 | Normal | 118 |
 
 
-### 54.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
