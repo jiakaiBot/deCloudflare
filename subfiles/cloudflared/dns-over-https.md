@@ -131,7 +131,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | korzhyk.pp.ua | Yes |
 | krnl.eu | Yes |
 | lacontrevoie.fr | No |
-| lastentarvike.fi | No |
 | lavate.ch | Yes |
 | leadseason.eu | Yes |
 | lefolgoc.net | No |
@@ -158,7 +157,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mywire.org | Yes |
 | narl.app | No |
 | nenam.eu | No |
-| netlab.my.id | Yes |
 | nexific.it | Yes |
 | nic.cz | No |
 | nic.lv | No |
@@ -275,8 +273,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 140 |
-| Normal | 116 |
+| Cloudflare | 139 |
+| Normal | 115 |
 
 
 ### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
