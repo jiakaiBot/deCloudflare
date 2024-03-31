@@ -9854,6 +9854,7 @@ Here's a list of public Fediverse services.
 | `cutie.live` | No |
 | `cutie.space` | No |
 | `cutiebox.xyz` | No |
+| `cutiecluster.cafe` | Yes |
 | `cutiecluster.cc` | Yes |
 | `cutiehaven.club` | No |
 | `cutiemiku.tk` | No |
@@ -40544,7 +40545,7 @@ Here's a list of public Fediverse services.
 | `rochelle.social` | No |
 | `rochka.club` | Yes |
 | `rock-hosting.net` | No |
-| `rock0head420.rocks` | Yes |
+| `rock0head420.rocks` | No |
 | `rockcd.jp` | No |
 | `rockcutter.jp` | Yes |
 | `rockdapus.org` | No |
@@ -54394,7 +54395,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,680 |
-| Normal | 38,665 |
+| Normal | 38,666 |
 
 
 </details>
