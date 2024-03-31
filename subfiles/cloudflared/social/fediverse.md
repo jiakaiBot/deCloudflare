@@ -8446,7 +8446,7 @@ Here's a list of public Fediverse services.
 | `clubmer.com` | No |
 | `clubmontclair.com` | No |
 | `clubnf.us` | No |
-| `cluboftone.com` | No |
+| `cluboftone.com` | Yes |
 | `clubsall.com` | Yes |
 | `clueware.org` | No |
 | `clumsy.computer` | No |
@@ -21682,6 +21682,7 @@ Here's a list of public Fediverse services.
 | `introvert.party` | Yes |
 | `introvert.social` | Yes |
 | `introverts.social` | No |
+| `intrusion.software` | No |
 | `intspec.ru` | Yes |
 | `intuitivefuture.com` | Yes |
 | `inu.is` | No |
@@ -31635,7 +31636,7 @@ Here's a list of public Fediverse services.
 | `mstdn.jp` | Yes |
 | `mstdn.jp.net` | No |
 | `mstdn.kyoto` | No |
-| `mstdn.life` | Yes |
+| `mstdn.life` | No |
 | `mstdn.live` | No |
 | `mstdn.lol` | Yes |
 | `mstdn.love` | Yes |
@@ -54395,7 +54396,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,680 |
-| Normal | 38,666 |
+| Normal | 38,667 |
 
 
 </details>
