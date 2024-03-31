@@ -680,6 +680,7 @@ Here's a list of breached sites.
 | WarInc (War Inc.) | 1,020,136 | Yes |
 | Warframe | 819,478 | Yes |
 | Warmane | 1,116,256 | Yes |
+| WashingtonStateFoodWorkerCard (Washington State Food Worker Card) | 1,594,305 | No |
 | Wattpad | 268,765,495 | Yes |
 | WeHeartIt (We Heart It) | 8,600,635 | Yes |
 | WeLeakInfo | 11,788 | Yes |
@@ -747,9 +748,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 434 | 4,973,825,631 |
-| Normal | 291 | 4,198,369,799 |
+| Normal | 292 | 4,199,964,104 |
 
 
 
-### 59.9% of breached sites (pwned sites) are using Cloudflare.
+### 59.8% of breached sites (pwned sites) are using Cloudflare.
 ### 54.2% of leaked accounts are on Cloudflare sites.
