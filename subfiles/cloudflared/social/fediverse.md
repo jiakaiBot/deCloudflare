@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,466 |
-| social | 4,860 |
+| social | 4,861 |
 | net | 4,182 |
 | org | 2,782 |
 | de | 2,698 |
@@ -10145,7 +10145,7 @@ Here's a list of public Fediverse services.
 | `dance-dance-dance.space` | No |
 | `dancefight.club` | No |
 | `dancemusic-mstdn.com` | No |
-| `dancingbanana.party` | Yes |
+| `dancingbanana.party` | No |
 | `dancohen.org` | No |
 | `danconnor.com` | No |
 | `dandy.cat` | No |
@@ -51460,6 +51460,7 @@ Here's a list of public Fediverse services.
 | `wife.town` | No |
 | `wifey.dev` | Yes |
 | `wig.gl` | Yes |
+| `wig.social` | No |
 | `wigger.one` | Yes |
 | `wiggle.pw` | No |
 | `wiggle.website` | No |
@@ -53751,8 +53752,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,466 |
-| Normal | 38,237 |
+| Cloudflare | 15,465 |
+| Normal | 38,239 |
 
 
 </details>
