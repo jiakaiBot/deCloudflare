@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,466 |
+| com | 8,468 |
 | social | 4,861 |
 | net | 4,182 |
 | org | 2,782 |
@@ -21399,6 +21399,7 @@ Here's a list of public Fediverse services.
 | `intkos.link` | No |
 | `intmax.jp` | No |
 | `intmtn.org` | Yes |
+| `intoku.me` | No |
 | `intothecloud.net` | Yes |
 | `intothecyber.space` | Yes |
 | `intotheriff.com` | No |
@@ -23674,6 +23675,7 @@ Here's a list of public Fediverse services.
 | `kei.fashion` | No |
 | `keibadon.com` | No |
 | `keiji.io` | No |
+| `keikohori.com` | No |
 | `kein.chat` | No |
 | `keine-eile.de` | No |
 | `keinpfusch.net` | Yes |
@@ -26405,7 +26407,7 @@ Here's a list of public Fediverse services.
 | `lire.im` | No |
 | `lisamelton.net` | No |
 | `lisathomasius.de` | No |
-| `lisboa.social` | Yes |
+| `lisboa.social` | No |
 | `liscivila.cz` | No |
 | `liseklucek.pl` | Yes |
 | `lislegaard.stream` | No |
@@ -45335,6 +45337,7 @@ Here's a list of public Fediverse services.
 | `syamutodon.xyz` | No |
 | `syaroshi.co` | No |
 | `syasai.club` | No |
+| `syberiyxx.com` | Yes |
 | `sycarion.com` | No |
 | `syd.social` | Yes |
 | `sydenie.me` | No |
@@ -53753,7 +53756,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,465 |
-| Normal | 38,239 |
+| Normal | 38,242 |
 
 
 </details>
