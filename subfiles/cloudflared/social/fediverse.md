@@ -2304,6 +2304,7 @@ Here's a list of public Fediverse services.
 | `anafabula.de` | No |
 | `anakmanis.com` | Yes |
 | `anakut.org` | Yes |
+| `analog.am` | Yes |
 | `analogdreams.blog` | No |
 | `analogphoto.social` | No |
 | `analogpixels.nl` | No |
@@ -54395,7 +54396,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,680 |
+| Cloudflare | 15,681 |
 | Normal | 38,667 |
 
 
