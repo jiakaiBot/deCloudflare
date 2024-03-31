@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,861 |
 | net | 4,182 |
 | org | 2,782 |
-| de | 2,698 |
+| de | 2,699 |
 
 
 - Mastodon, Pleroma, etc
@@ -41347,6 +41347,7 @@ Here's a list of public Fediverse services.
 | `schizoid.tech` | No |
 | `schizophrenic.io` | No |
 | `schlagsnach.de` | No |
+| `schlaraffenlan.de` | No |
 | `schle.nz` | No |
 | `schlechter.host` | No |
 | `schlechter.info` | No |
@@ -53756,7 +53757,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,465 |
-| Normal | 38,242 |
+| Normal | 38,243 |
 
 
 </details>
