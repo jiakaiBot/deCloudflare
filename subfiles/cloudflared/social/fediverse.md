@@ -53199,6 +53199,7 @@ Here's a list of public Fediverse services.
 | `xtra.nu` | Yes |
 | `xtrap.app` | Yes |
 | `xtremely.online` | No |
+| `xtsun.xyz` | No |
 | `xttech.top` | Yes |
 | `xtux.org` | No |
 | `xu.rs` | Yes |
@@ -54393,7 +54394,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,680 |
-| Normal | 38,664 |
+| Normal | 38,665 |
 
 
 </details>
