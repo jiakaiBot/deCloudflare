@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,717 |
 | social | 4,871 |
 | net | 4,241 |
-| org | 2,844 |
+| org | 2,845 |
 | de | 2,720 |
 
 
@@ -33203,6 +33203,7 @@ Here's a list of public Fediverse services.
 | `news-time.news` | No |
 | `newsbots.eu` | No |
 | `newsfleet.de` | No |
+| `newsfromnowhere.org` | No |
 | `newsie.social` | Yes |
 | `newsinside.org` | No |
 | `newskey.cc` | Yes |
@@ -54385,7 +54386,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,675 |
-| Normal | 38,661 |
+| Normal | 38,662 |
 
 
 </details>
