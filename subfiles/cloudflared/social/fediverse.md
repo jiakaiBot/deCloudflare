@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,717 |
-| social | 4,871 |
+| com | 8,720 |
+| social | 4,873 |
 | net | 4,241 |
 | org | 2,845 |
 | de | 2,720 |
@@ -310,6 +310,7 @@ Here's a list of public Fediverse services.
 | `18kink.com` | Yes |
 | `18m250.org` | Yes |
 | `1904.social` | No |
+| `19130104.xyz` | Yes |
 | `1929.com` | No |
 | `1964.co.nz` | Yes |
 | `197838.xyz` | Yes |
@@ -10674,6 +10675,7 @@ Here's a list of public Fediverse services.
 | `dbhq.social` | No |
 | `dbieber.de` | No |
 | `dbkr.me` | Yes |
+| `dblgrm.com` | Yes |
 | `dbonnet.ovh` | No |
 | `dbot.dev` | Yes |
 | `dbuild.xyz` | No |
@@ -19434,6 +19436,7 @@ Here's a list of public Fediverse services.
 | `heath.cc` | Yes |
 | `heath.social` | No |
 | `heath.town` | No |
+| `heathallyn.com` | No |
 | `heathanderson.net` | Yes |
 | `heathenarmy.net` | No |
 | `heathens.club` | No |
@@ -21892,6 +21895,7 @@ Here's a list of public Fediverse services.
 | `ishanmahapatra.com` | No |
 | `isharacomix.org` | No |
 | `ishare4free.com` | No |
+| `ishayne.com` | Yes |
 | `ishikaridon.jp` | No |
 | `ishikun.me` | No |
 | `ishikuro.info` | No |
@@ -44692,7 +44696,7 @@ Here's a list of public Fediverse services.
 | `squeakycarrot.com` | No |
 | `squeeble.lol` | Yes |
 | `squeegee.ink` | No |
-| `squeegee.one` | Yes |
+| `squeegee.one` | No |
 | `squeep.com` | No |
 | `squeet.me` | No |
 | `squelfland.com` | No |
@@ -45925,6 +45929,7 @@ Here's a list of public Fediverse services.
 | `synkosmos.org` | No |
 | `synn.one` | Yes |
 | `synnet.io` | Yes |
+| `syno.social` | Yes |
 | `synology.me` | No |
 | `synos.ovh` | No |
 | `synostrij.nl` | No |
@@ -53972,6 +53977,7 @@ Here's a list of public Fediverse services.
 | `zeguigui.com` | No |
 | `zehaeva.com` | Yes |
 | `zehdonut.com` | No |
+| `zehnvorne.social` | Yes |
 | `zeit.gr` | No |
 | `zeitlinie.wien` | No |
 | `zeitrechnen.de` | Yes |
@@ -54385,10 +54391,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,675 |
-| Normal | 38,662 |
+| Cloudflare | 15,679 |
+| Normal | 38,664 |
 
 
 </details>
 
-### 28.8% of public Fediverse services are using Cloudflare.
+### 28.9% of public Fediverse services are using Cloudflare.
