@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,488 |
-| social | 4,866 |
+| social | 4,867 |
 | net | 4,184 |
 | org | 2,785 |
 | de | 2,699 |
@@ -4410,6 +4410,7 @@ Here's a list of public Fediverse services.
 | `bay.ninja` | No |
 | `bayarea.ngo` | No |
 | `bayern-online.news` | No |
+| `bayerwald.social` | Yes |
 | `bayes.club` | No |
 | `bayfur.club` | No |
 | `bayliss.social` | No |
@@ -51698,7 +51699,7 @@ Here's a list of public Fediverse services.
 | `wireless-iot.social` | No |
 | `wireless.community` | No |
 | `wires.gg` | Yes |
-| `wires.social` | No |
+| `wires.social` | Yes |
 | `wirhackendeinen.club` | No |
 | `wirnify.de` | No |
 | `wirnity.de` | No |
@@ -53822,8 +53823,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,487 |
-| Normal | 38,287 |
+| Cloudflare | 15,489 |
+| Normal | 38,286 |
 
 
 </details>
