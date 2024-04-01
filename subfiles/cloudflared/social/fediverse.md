@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,488 |
+| com | 8,490 |
 | social | 4,867 |
 | net | 4,184 |
 | org | 2,785 |
@@ -1084,6 +1084,7 @@ Here's a list of public Fediverse services.
 | `abyssfriend.club` | No |
 | `abyx.tech` | No |
 | `ac-lyon.fr` | No |
+| `ac9.eu` | No |
 | `aca.li` | No |
 | `acab.io` | No |
 | `acab.land` | No |
@@ -11812,7 +11813,7 @@ Here's a list of public Fediverse services.
 | `dodgson.org` | No |
 | `dodgy.download` | No |
 | `dodies.lv` | Yes |
-| `dodsorf.as` | No |
+| `dodsorf.as` | Yes |
 | `doenietzomoeilijk.nl` | No |
 | `doern.tech` | No |
 | `does.social` | No |
@@ -18413,6 +18414,7 @@ Here's a list of public Fediverse services.
 | `grumbulon.xyz` | No |
 | `grumpy.world` | No |
 | `grumpyoldme.de` | No |
+| `grumpyoldtechie.com` | Yes |
 | `grumpys.online` | Yes |
 | `grunert.dev` | Yes |
 | `grunge.works` | No |
@@ -20150,7 +20152,7 @@ Here's a list of public Fediverse services.
 | `house-of.xyz` | No |
 | `housecat.dog` | No |
 | `housegoater.co.uk` | No |
-| `houseofcreativeweirdos.com` | No |
+| `houseofcreativeweirdos.com` | Yes |
 | `houseofillrepute.social` | No |
 | `houseofkyle.com` | Yes |
 | `houseofloy.net` | Yes |
@@ -31149,7 +31151,7 @@ Here's a list of public Fediverse services.
 | `mrtoto.de` | No |
 | `mrtoto.net` | No |
 | `mrupp.eu` | No |
-| `mrx.im` | No |
+| `mrx.im` | Yes |
 | `mrxi.org` | No |
 | `mryoogomusic.fr` | No |
 | `mrzan.xyz` | No |
@@ -37131,7 +37133,7 @@ Here's a list of public Fediverse services.
 | `pluginip.com` | Yes |
 | `plugsuit.club` | No |
 | `plumbob.social` | No |
-| `plume.ink` | No |
+| `plume.ink` | Yes |
 | `plume.social` | No |
 | `plumes.io` | Yes |
 | `plumey.com` | Yes |
@@ -42160,6 +42162,7 @@ Here's a list of public Fediverse services.
 | `sg1.au` | No |
 | `sgawolf.com` | No |
 | `sgc.social` | No |
+| `sgf.dev` | Yes |
 | `sgf.social` | No |
 | `sgiath.dev` | No |
 | `sgr.cc` | No |
@@ -49058,6 +49061,7 @@ Here's a list of public Fediverse services.
 | `tzwolak.com` | Yes |
 | `tzyl.eu` | No |
 | `tzyl.nl` | No |
+| `u-kreskowane.com` | No |
 | `u-nlimited.page` | Yes |
 | `u-ryukyu.ac.jp` | No |
 | `u-srv.net` | Yes |
@@ -53823,8 +53827,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,489 |
-| Normal | 38,286 |
+| Cloudflare | 15,495 |
+| Normal | 38,284 |
 
 
 </details>
