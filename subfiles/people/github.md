@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [OIDC failed to load](https://github.com/plankanban/planka/issues/662)
 - [Forced use of DoH in the script caused it to fail](https://github.com/acmesh-official/acme.sh/issues/5073)
 - [websocket: bad handshake: 0.peerjs.com Cloudflare blocks our Go client?](https://github.com/muka/peerjs-go/issues/19)
 - [Cloudflare FreeCaptcha closes Waterfox](https://github.com/WaterfoxCo/Waterfox/issues/3402)
