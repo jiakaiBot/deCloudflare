@@ -21139,7 +21139,7 @@ Here's a list of public Fediverse services.
 | `infernal.garden` | No |
 | `infernalerror.com` | Yes |
 | `infini.fr` | No |
-| `infinimatix.net` | Yes |
+| `infinimatix.net` | No |
 | `infinit7even.it` | Yes |
 | `infinitas.me.uk` | No |
 | `infinite.jetzt` | Yes |
@@ -27713,6 +27713,7 @@ Here's a list of public Fediverse services.
 | `makhnovtchina.club` | No |
 | `makholm.net` | No |
 | `maki0419.com` | Yes |
+| `makibisky.win` | Yes |
 | `makibisskey.work` | Yes |
 | `makigi.io` | No |
 | `makihiro.info` | Yes |
@@ -53834,7 +53835,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,497 |
-| Normal | 38,288 |
+| Normal | 38,289 |
 
 
 </details>
