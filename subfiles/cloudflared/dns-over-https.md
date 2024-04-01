@@ -127,7 +127,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | kernel-error.de | No |
 | ketan.dev | Yes |
 | konikoni428.com | Yes |
-| korzhyk.pp.ua | Yes |
 | krnl.eu | Yes |
 | lacontrevoie.fr | No |
 | lavate.ch | Yes |
@@ -194,7 +193,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | retakecs.com | Yes |
 | rethinkdns.com | Yes |
 | rezhajul.io | No |
-| rferee.dev | Yes |
 | rin.sh | Yes |
 | rootlab.top | No |
 | rslvr.eu | No |
@@ -268,8 +266,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 135 |
+| Cloudflare | 133 |
 | Normal | 114 |
 
 
-### 54.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
