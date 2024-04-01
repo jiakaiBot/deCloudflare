@@ -7164,6 +7164,7 @@ Here's a list of public Fediverse services.
 | `catgirl.cloud` | Yes |
 | `catgirl.download` | No |
 | `catgirl.engineering` | Yes |
+| `catgirl.farm` | Yes |
 | `catgirl.fr` | No |
 | `catgirl.icu` | No |
 | `catgirl.is` | Yes |
@@ -12254,7 +12255,7 @@ Here's a list of public Fediverse services.
 | `driusan.net` | No |
 | `driveby.cool` | Yes |
 | `driveinsaturday.org` | No |
-| `drivet.xyz` | Yes |
+| `drivet.xyz` | No |
 | `drivingshift.com` | Yes |
 | `drizzle-damp.net` | No |
 | `drjensrecoveryreadings.com` | No |
@@ -50254,7 +50255,7 @@ Here's a list of public Fediverse services.
 | `vicia.net` | Yes |
 | `vicicode.com` | Yes |
 | `vickerson.me` | No |
-| `vicks.social` | Yes |
+| `vicks.social` | No |
 | `victimcache.com` | Yes |
 | `victor.earth` | Yes |
 | `victor.skin` | No |
@@ -53837,8 +53838,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,497 |
-| Normal | 38,292 |
+| Cloudflare | 15,496 |
+| Normal | 38,294 |
 
 
 </details>
