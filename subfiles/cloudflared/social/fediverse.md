@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,487 |
+| com | 8,488 |
 | social | 4,866 |
 | net | 4,184 |
 | org | 2,785 |
@@ -17546,7 +17546,7 @@ Here's a list of public Fediverse services.
 | `gioia.photos` | No |
 | `gioia.social` | No |
 | `giom.fr` | No |
-| `gion.me` | No |
+| `gion.me` | Yes |
 | `gionathandiani.name` | No |
 | `gioorgi.com` | No |
 | `giorgiocomai.eu` | Yes |
@@ -26162,6 +26162,7 @@ Here's a list of public Fediverse services.
 | `librefish.com` | No |
 | `librefree.me` | No |
 | `libreha.sh` | No |
+| `libreivan.com` | No |
 | `librelabgrx.cc` | No |
 | `librelabucm.org` | Yes |
 | `librelife.net` | No |
@@ -53821,7 +53822,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,486 |
+| Cloudflare | 15,487 |
 | Normal | 38,287 |
 
 
