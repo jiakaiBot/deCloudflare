@@ -51522,7 +51522,7 @@ Here's a list of public Fediverse services.
 | `wiet.io` | Yes |
 | `wiewiu.re` | No |
 | `wife.town` | No |
-| `wifey.dev` | Yes |
+| `wifey.dev` | No |
 | `wig.gl` | Yes |
 | `wig.social` | No |
 | `wigger.one` | Yes |
@@ -53821,8 +53821,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,487 |
-| Normal | 38,286 |
+| Cloudflare | 15,486 |
+| Normal | 38,287 |
 
 
 </details>
