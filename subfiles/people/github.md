@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Domain swo.yaranaika.xyz Has Expired](https://github.com/jvicu2001/Simple-Weather-Overlay/issues/10)
+- [Fetching IMAP folders leaves out INBOX. prefix](https://github.com/freescout-helpdesk/freescout/issues/3933)
 - [Crash when loading or resizing large image in nextjs or cloudflare workers](https://github.com/fineshopdesign/cf-wasm/issues/11)
 - [CORS not working with IttyRouter](https://github.com/kwhitley/itty.dev/issues/21)
 - [Error when deploying to cloudflare workers](https://github.com/nuxt-modules/supabase/issues/340)
