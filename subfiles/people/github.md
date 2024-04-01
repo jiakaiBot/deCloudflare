@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when deploying to cloudflare workers](https://github.com/nuxt-modules/supabase/issues/340)
+- [Unable to find a valid CSRF token with Keycloak Authentication Switching From Dex](https://github.com/kubeflow/manifests/issues/2664)
 - [OIDC failed to load](https://github.com/plankanban/planka/issues/662)
 - [Forced use of DoH in the script caused it to fail](https://github.com/acmesh-official/acme.sh/issues/5073)
 - [websocket: bad handshake: 0.peerjs.com Cloudflare blocks our Go client?](https://github.com/muka/peerjs-go/issues/19)
