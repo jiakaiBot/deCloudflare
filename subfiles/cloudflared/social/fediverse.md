@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,490 |
 | social | 4,867 |
-| net | 4,184 |
-| org | 2,785 |
+| net | 4,186 |
+| org | 2,786 |
 | de | 2,699 |
 
 
@@ -8278,6 +8278,7 @@ Here's a list of public Fediverse services.
 | `cloudboard.fr` | No |
 | `cloudbolwell.co.uk` | Yes |
 | `cloudcauldron.io` | No |
+| `cloudclan.net` | No |
 | `clouded.monster` | No |
 | `cloudfiction.social` | No |
 | `cloudflare.social` | Yes |
@@ -13451,6 +13452,7 @@ Here's a list of public Fediverse services.
 | `enitg.no` | Yes |
 | `enitin.xyz` | Yes |
 | `enitor.xyz` | No |
+| `enix.moe` | Yes |
 | `enj0y.net` | Yes |
 | `enjinm7.com` | No |
 | `enjoyable.gay` | No |
@@ -19446,6 +19448,7 @@ Here's a list of public Fediverse services.
 | `heresy.cc` | No |
 | `heretic.social` | No |
 | `heretyc.com` | No |
+| `hereus.net` | No |
 | `hergorn.com` | No |
 | `herkenhoff.com` | No |
 | `herkenhoff.eu` | No |
@@ -21594,6 +21597,7 @@ Here's a list of public Fediverse services.
 | `ironwyn.ch` | No |
 | `ironwynch.com` | No |
 | `irrealis.net` | No |
+| `irregular.space` | No |
 | `irregularchat.com` | Yes |
 | `irregulars.io` | Yes |
 | `irrelephant.co` | No |
@@ -35550,6 +35554,7 @@ Here's a list of public Fediverse services.
 | `p-arte.org` | No |
 | `p-dev.net` | No |
 | `p-epsilon.com` | Yes |
+| `p-hacking.org` | Yes |
 | `p-nintendo.com` | No |
 | `p-pn.org` | No |
 | `p-y.ro` | Yes |
@@ -44911,6 +44916,7 @@ Here's a list of public Fediverse services.
 | `stupidityfordummies.com` | Yes |
 | `stupidpol.site` | No |
 | `stupidpolis.blog` | No |
+| `sturmwarnung.at` | No |
 | `sturtz.cf` | No |
 | `sturtz.io` | Yes |
 | `stuts.uk` | No |
@@ -53827,8 +53833,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,495 |
-| Normal | 38,284 |
+| Cloudflare | 15,497 |
+| Normal | 38,288 |
 
 
 </details>
