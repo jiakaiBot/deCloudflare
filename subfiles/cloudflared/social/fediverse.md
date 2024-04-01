@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,490 |
 | social | 4,867 |
-| net | 4,186 |
+| net | 4,187 |
 | org | 2,786 |
 | de | 2,699 |
 
@@ -3993,6 +3993,7 @@ Here's a list of public Fediverse services.
 | `b7e.dev` | No |
 | `b86.org` | No |
 | `b999.me` | No |
+| `ba-wue.net` | No |
 | `ba.id.au` | Yes |
 | `baa.social` | No |
 | `baab.de` | No |
@@ -33879,7 +33880,7 @@ Here's a list of public Fediverse services.
 | `noyu.me` | No |
 | `noyuno.space` | No |
 | `nozbe.com` | No |
-| `nozomi.best` | Yes |
+| `nozomi.best` | No |
 | `nozoo.jp` | Yes |
 | `nozzi.social` | No |
 | `npa-marseille.org` | No |
@@ -52458,7 +52459,7 @@ Here's a list of public Fediverse services.
 | `xn--80aaid7au.su` | No |
 | `xn--80an2adaa.xn--p1ai` | No |
 | `xn--8r9a.com` | No |
-| `xn--90aldbalef8bvy9l.xn--p1ai` | Yes |
+| `xn--90aldbalef8bvy9l.xn--p1ai` | No |
 | `xn--90anxanf8c5b.xn--p1ai` | No |
 | `xn--931a.moe` | Yes |
 | `xn--99axc.xn--y9a3aq` | Yes |
@@ -53834,8 +53835,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,497 |
-| Normal | 38,289 |
+| Cloudflare | 15,495 |
+| Normal | 38,292 |
 
 
 </details>
