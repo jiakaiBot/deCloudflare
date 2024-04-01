@@ -479,6 +479,7 @@ Here's a list of breached sites.
 | PSX-Scene | 341,118 | No |
 | PaddyPower (Paddy Power) | 590,954 | Yes |
 | Pampling | 383,468 | No |
+| Pandabuy | 1,348,407 | Yes |
 | ParagonCheats (Paragon Cheats) | 188,089 | Yes |
 | Parapa (Пара Па) | 4,946,850 | Yes |
 | ParkMobile | 20,949,825 | Yes |
@@ -747,7 +748,7 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 434 | 4,973,825,631 |
+| Cloudflare | 435 | 4,975,174,038 |
 | Normal | 292 | 4,199,964,104 |
 
 
