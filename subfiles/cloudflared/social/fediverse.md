@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,490 |
+| com | 8,491 |
 | social | 4,867 |
 | net | 4,187 |
 | org | 2,786 |
@@ -13511,6 +13511,7 @@ Here's a list of public Fediverse services.
 | `entrebits.ga` | No |
 | `entreco.net` | Yes |
 | `entrepreneurlibre.org` | No |
+| `entropia.name` | No |
 | `entropy.fans` | No |
 | `entropy.fm` | No |
 | `entropy.tools` | No |
@@ -21396,6 +21397,7 @@ Here's a list of public Fediverse services.
 | `intermittent.network` | No |
 | `intern.at` | No |
 | `internaldebate.net` | No |
+| `internally.uk` | Yes |
 | `internaluse.net` | No |
 | `internationalotaku.com` | No |
 | `internationaltravel.global` | No |
@@ -23563,6 +23565,7 @@ Here's a list of public Fediverse services.
 | `katgirl.club` | No |
 | `katharinabrunner.de` | No |
 | `katholisch.social` | No |
+| `katholischlogisch.blog` | No |
 | `kathryl.fr` | No |
 | `kathware.com.ar` | No |
 | `kathyreid.id.au` | No |
@@ -26870,7 +26873,7 @@ Here's a list of public Fediverse services.
 | `loreandordure.com` | No |
 | `lorelounge.it` | No |
 | `lorem.club` | No |
-| `loren.pics` | No |
+| `loren.pics` | Yes |
 | `lorenzana.engineer` | Yes |
 | `lorenzana.social` | No |
 | `lorenzi.one` | No |
@@ -34003,6 +34006,7 @@ Here's a list of public Fediverse services.
 | `nukumori-sky.net` | Yes |
 | `nul.ie` | Yes |
 | `nul.tokyo` | No |
+| `nula.pub` | No |
 | `null-base.com` | Yes |
 | `null.bet` | No |
 | `null.codes` | No |
@@ -44976,6 +44980,7 @@ Here's a list of public Fediverse services.
 | `submissionwrestling.net` | No |
 | `submit.as` | No |
 | `subnivean.zone` | No |
+| `subpolygon.com` | No |
 | `subquestspod.com` | No |
 | `subscribeto.me` | No |
 | `subsonicsoftware.com` | Yes |
@@ -53838,8 +53843,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,496 |
-| Normal | 38,294 |
+| Cloudflare | 15,498 |
+| Normal | 38,297 |
 
 
 </details>
