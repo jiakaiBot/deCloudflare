@@ -7945,7 +7945,7 @@ Here's a list of public Fediverse services.
 | `chriswood.social` | No |
 | `chriswright.photography` | Yes |
 | `chroju.dev` | Yes |
-| `chrom.ee` | Yes |
+| `chrom.ee` | No |
 | `chromabits.com` | No |
 | `chromachan.net` | No |
 | `chromatica.gay` | No |
@@ -14686,12 +14686,12 @@ Here's a list of public Fediverse services.
 | `fediasmr.uk` | Yes |
 | `fedibase.de` | No |
 | `fedibb.ml` | No |
-| `fedibeest.social` | Yes |
+| `fedibeest.social` | No |
 | `fedibik.es` | No |
 | `fedibikes.de` | No |
 | `fedibikes.social` | No |
 | `fedibird.com` | Yes |
-| `fedible.social` | Yes |
+| `fedible.social` | No |
 | `fediblock.ing` | Yes |
 | `fedibook.com` | No |
 | `fedibook.net` | No |
@@ -48084,6 +48084,7 @@ Here's a list of public Fediverse services.
 | `torb.no` | Yes |
 | `torbenmau.de` | No |
 | `torbin.me` | No |
+| `torchmc.ru` | No |
 | `torgo.com` | No |
 | `torguard.social` | No |
 | `toripota.com` | Yes |
@@ -53843,8 +53844,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,498 |
-| Normal | 38,297 |
+| Cloudflare | 15,495 |
+| Normal | 38,301 |
 
 
 </details>
