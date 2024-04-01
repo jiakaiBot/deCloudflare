@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Forced use of DoH in the script caused it to fail](https://github.com/acmesh-official/acme.sh/issues/5073)
 - [websocket: bad handshake: 0.peerjs.com Cloudflare blocks our Go client?](https://github.com/muka/peerjs-go/issues/19)
 - [Cloudflare FreeCaptcha closes Waterfox](https://github.com/WaterfoxCo/Waterfox/issues/3402)
 - [Clean installation of cert-manager v1.14.4 on k3s v1.29.2+k3s1 gives error: resource mapping not found for ClusterIssuer](https://github.com/cert-manager/cert-manager/issues/6879)
