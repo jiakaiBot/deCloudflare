@@ -586,6 +586,7 @@ Here's a list of public Fediverse services.
 | `44.ci` | Yes |
 | `440hz-radio.de` | No |
 | `440hz.social` | No |
+| `4466848.xyz` | No |
 | `448c.net` | No |
 | `44944.eu` | No |
 | `44con.com` | No |
@@ -11496,7 +11497,7 @@ Here's a list of public Fediverse services.
 | `dinobansigan.com` | No |
 | `dinoex.de` | No |
 | `dinoleaf.com` | Yes |
-| `dinosaur.farm` | No |
+| `dinosaur.farm` | Yes |
 | `dinotopia.org` | No |
 | `dinotoyblog.com` | Yes |
 | `dinven.de` | No |
@@ -47585,6 +47586,7 @@ Here's a list of public Fediverse services.
 | `tlespace.xyz` | Yes |
 | `tlf.pw` | Yes |
 | `tlfoxhuman.net` | No |
+| `tlg.link` | Yes |
 | `tli.io` | No |
 | `tlmb.net` | No |
 | `tlmstdn.de` | No |
@@ -53835,7 +53837,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,495 |
+| Cloudflare | 15,497 |
 | Normal | 38,292 |
 
 
