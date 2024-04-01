@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Crash when loading or resizing large image in nextjs or cloudflare workers](https://github.com/fineshopdesign/cf-wasm/issues/11)
 - [CORS not working with IttyRouter](https://github.com/kwhitley/itty.dev/issues/21)
 - [Error when deploying to cloudflare workers](https://github.com/nuxt-modules/supabase/issues/340)
 - [Unable to find a valid CSRF token with Keycloak Authentication Switching From Dex](https://github.com/kubeflow/manifests/issues/2664)
