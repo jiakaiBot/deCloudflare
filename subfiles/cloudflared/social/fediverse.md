@@ -13288,7 +13288,7 @@ Here's a list of public Fediverse services.
 | `embracethevoid.net` | Yes |
 | `embracing.space` | Yes |
 | `embros.org` | Yes |
-| `emcomm.social` | Yes |
+| `emcomm.social` | No |
 | `emelyne.eu` | No |
 | `emerald.show` | No |
 | `emeraldsocial.org` | No |
@@ -13747,6 +13747,7 @@ Here's a list of public Fediverse services.
 | `esmailelbob.xyz` | No |
 | `esmarconf.org` | No |
 | `esmevane.com` | No |
+| `esolangs.blog` | No |
 | `esolis.social` | No |
 | `esophiamedias.fr` | No |
 | `esoteric-renaissance.com` | No |
@@ -47590,7 +47591,7 @@ Here's a list of public Fediverse services.
 | `tlbflush.org` | Yes |
 | `tldr.tk` | No |
 | `tlef.social` | No |
-| `tleplace.xyz` | Yes |
+| `tleplace.xyz` | No |
 | `tlespace.xyz` | Yes |
 | `tlf.pw` | Yes |
 | `tlfoxhuman.net` | No |
@@ -53846,8 +53847,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,496 |
-| Normal | 38,302 |
+| Cloudflare | 15,494 |
+| Normal | 38,305 |
 
 
 </details>
