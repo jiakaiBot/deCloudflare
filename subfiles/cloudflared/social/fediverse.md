@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,491 |
-| social | 4,867 |
+| com | 8,492 |
+| social | 4,868 |
 | net | 4,187 |
 | org | 2,787 |
-| de | 2,699 |
+| de | 2,700 |
 
 
 - Mastodon, Pleroma, etc
@@ -2495,10 +2495,12 @@ Here's a list of public Fediverse services.
 | `animal-machine.com` | No |
 | `animal.business` | No |
 | `animal.church` | No |
+| `animalcracker.art` | No |
 | `animalesenfu.ga` | No |
 | `animalfound.family` | No |
 | `animalliberation.social` | Yes |
 | `animalofthings.com` | No |
+| `animalrebellion.nl` | No |
 | `animaltoyforum.com` | Yes |
 | `animanga.eu` | Yes |
 | `animaux.social` | No |
@@ -3394,6 +3396,7 @@ Here's a list of public Fediverse services.
 | `astellas.blue` | No |
 | `astelpenkan.ml` | No |
 | `aster-bp.com` | No |
+| `aster.lol` | No |
 | `asteringtech.com` | No |
 | `asterism.xyz` | Yes |
 | `asteroidm.space` | No |
@@ -11613,6 +11616,7 @@ Here's a list of public Fediverse services.
 | `distant.homes` | No |
 | `distant.social` | Yes |
 | `distantends.net` | No |
+| `distantmeadows.com` | No |
 | `distantserver.org` | No |
 | `distilled.pm` | Yes |
 | `distilled.pub` | No |
@@ -14294,6 +14298,7 @@ Here's a list of public Fediverse services.
 | `fakeologist.social` | No |
 | `fakeplastictrees.ee` | No |
 | `fakru.ch` | No |
+| `faktorzehn.de` | No |
 | `fal.moe` | Yes |
 | `falafel.blog` | No |
 | `falafel.win` | No |
@@ -40029,6 +40034,7 @@ Here's a list of public Fediverse services.
 | `rm-rf.club` | No |
 | `rm4.me` | No |
 | `rmac.me` | Yes |
+| `rmaestas.social` | Yes |
 | `rmasoni.com` | No |
 | `rmbl.co` | No |
 | `rmcrob.com` | No |
@@ -41846,6 +41852,7 @@ Here's a list of public Fediverse services.
 | `sedimentarymountains.com` | No |
 | `seditio.fr` | No |
 | `sedryk.info` | No |
+| `seds.nl` | Yes |
 | `sedulust.com` | No |
 | `see2et.dev` | Yes |
 | `seediqbale.xyz` | No |
@@ -41860,6 +41867,7 @@ Here's a list of public Fediverse services.
 | `seekahead.eu` | No |
 | `seekreuzer-passat.eu` | No |
 | `seemel.ink` | No |
+| `seen.today` | No |
 | `seepocke.at` | No |
 | `seerofsouls.com` | No |
 | `seerofsouls.xyz` | No |
@@ -50664,6 +50672,7 @@ Here's a list of public Fediverse services.
 | `voxpop.social` | No |
 | `voxtech.studio` | Yes |
 | `voxtek.enterprises` | Yes |
+| `voyager.blue` | Yes |
 | `vpalepu.com` | No |
 | `vpclmulqdq.moe` | No |
 | `vplays.live` | Yes |
@@ -53849,8 +53858,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,493 |
-| Normal | 38,308 |
+| Cloudflare | 15,496 |
+| Normal | 38,314 |
 
 
 </details>
