@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't use with Cloudflare Pages](https://github.com/pi0/nuxt-shiki/issues/23)
 - [Fix UDP Buffer Sizes for cloudflared tunnel](https://github.com/onedr0p/cluster-template/issues/1403)
 - [Parcel dev server randomly crashes when trying to unlink a file in the dist directory.](https://github.com/parcel-bundler/parcel/issues/9608)
 - [Akamai creation failed on Vault step](https://github.com/kubefirst/kubefirst/issues/2145)
