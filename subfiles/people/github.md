@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [asks to install packages that are installed](https://github.com/xtekky/gpt4free/issues/1778)
+- [Application fails every hour after doing update of modules](https://github.com/freescout-helpdesk/freescout/issues/3936)
 - [Error while caching asset "NotImplemented: Header 'x-amz-tagging' with value 'retention=default' not implemented"](https://github.com/openreplay/openreplay/issues/2018)
 - [Domain swo.yaranaika.xyz Has Expired](https://github.com/jvicu2001/Simple-Weather-Overlay/issues/10)
 - [Fetching IMAP folders leaves out INBOX. prefix](https://github.com/freescout-helpdesk/freescout/issues/3933)
