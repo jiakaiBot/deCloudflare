@@ -3670,7 +3670,7 @@ Here's a list of public Fediverse services.
 | `aut.red` | Yes |
 | `aut.social` | No |
 | `authbypass.com` | No |
-| `authn.cc` | No |
+| `authn.cc` | Yes |
 | `author.chat` | No |
 | `authorbuzz.co.uk` | No |
 | `authorhelp.uk` | No |
@@ -13823,6 +13823,7 @@ Here's a list of public Fediverse services.
 | `eternal-terror.com` | No |
 | `eternalaugust.com` | No |
 | `eternalflame24.com` | No |
+| `eternally.blog` | No |
 | `eternalreliquary.com` | Yes |
 | `eternawings.com` | No |
 | `eth.limo` | No |
@@ -53860,7 +53861,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,494 |
+| Cloudflare | 15,495 |
 | Normal | 38,318 |
 
 
