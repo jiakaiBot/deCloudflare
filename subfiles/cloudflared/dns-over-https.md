@@ -241,7 +241,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | twnic.tw | No |
 | txq.life | Yes |
 | umbrella.com | Yes |
-| undo.it | Yes |
 | unstoppable.io | Yes |
 | unx.io | No |
 | vape.ong | Yes |
@@ -261,8 +260,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 131 |
+| Cloudflare | 130 |
 | Normal | 111 |
 
 
-### 54.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
