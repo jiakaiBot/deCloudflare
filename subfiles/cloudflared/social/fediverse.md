@@ -3014,7 +3014,7 @@ Here's a list of public Fediverse services.
 | `argos-security.io` | Yes |
 | `args.in` | Yes |
 | `arguos.com` | Yes |
-| `argxentaka.to` | Yes |
+| `argxentaka.to` | No |
 | `argyle.place` | No |
 | `argyle.systems` | No |
 | `ari-zone.com` | Yes |
@@ -5188,7 +5188,7 @@ Here's a list of public Fediverse services.
 | `bitbank.cc` | Yes |
 | `bitbattles.com` | No |
 | `bitbot.dev` | No |
-| `bitbukket.com` | No |
+| `bitbukket.com` | Yes |
 | `bitbybitwhatever.com` | Yes |
 | `bitcast.info` | No |
 | `bitcast.online` | No |
@@ -10658,7 +10658,7 @@ Here's a list of public Fediverse services.
 | `deadman.ca` | No |
 | `deadname.gay` | No |
 | `deadnftsociety.com` | No |
-| `deados.es` | No |
+| `deados.es` | Yes |
 | `deadowl.cloud` | Yes |
 | `deadreckoning.cc` | No |
 | `deadringing.blog` | No |
@@ -13073,7 +13073,7 @@ Here's a list of public Fediverse services.
 | `elangley.org` | No |
 | `elao.com` | No |
 | `elarial.tech` | No |
-| `elastic-dystopia.asia` | Yes |
+| `elastic-dystopia.asia` | No |
 | `elasticperch.com` | Yes |
 | `elastihost.social` | No |
 | `elastos.social` | No |
@@ -14026,6 +14026,7 @@ Here's a list of public Fediverse services.
 | `exactly.news` | No |
 | `exan.tech` | Yes |
 | `exapieco.jp` | No |
+| `excal.cc` | Yes |
 | `excbadacc.es` | Yes |
 | `excelereight.tk` | No |
 | `exceptional.party` | No |
@@ -20286,7 +20287,7 @@ Here's a list of public Fediverse services.
 | `hubzilla.network` | No |
 | `hubzilla.nl` | No |
 | `hubzilla.online` | No |
-| `hubzilla.pl` | No |
+| `hubzilla.pl` | Yes |
 | `hubzilla.ru` | No |
 | `hubzilla.social` | No |
 | `hubzion.net` | No |
@@ -23335,7 +23336,7 @@ Here's a list of public Fediverse services.
 | `kajo76.de` | No |
 | `kaka.social` | No |
 | `kakafe.ga` | No |
-| `kakampinks.com` | Yes |
+| `kakampinks.com` | No |
 | `kakaotalk.app` | No |
 | `kakeraverse.xyz` | No |
 | `kakijin.com` | No |
@@ -25767,7 +25768,7 @@ Here's a list of public Fediverse services.
 | `lemmy.best` | Yes |
 | `lemmy.bg` | Yes |
 | `lemmy.biz` | Yes |
-| `lemmy.blue` | Yes |
+| `lemmy.blue` | No |
 | `lemmy.bond` | Yes |
 | `lemmy.buzz` | No |
 | `lemmy.ca` | Yes |
@@ -53859,7 +53860,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,496 |
-| Normal | 38,314 |
+| Normal | 38,315 |
 
 
 </details>
