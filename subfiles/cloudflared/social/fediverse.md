@@ -43803,6 +43803,7 @@ Here's a list of public Fediverse services.
 | `sosh.space` | No |
 | `soshi.social` | No |
 | `soshl.one` | No |
+| `sosial.link` | Yes |
 | `sosialist.party` | No |
 | `sosmaires.org` | No |
 | `sotamedia.org` | No |
@@ -53848,7 +53849,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,492 |
+| Cloudflare | 15,493 |
 | Normal | 38,308 |
 
 
