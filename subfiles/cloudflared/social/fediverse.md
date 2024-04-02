@@ -4930,7 +4930,7 @@ Here's a list of public Fediverse services.
 | `bibletalk.social` | No |
 | `biblewordpress.net` | No |
 | `biblewp.com` | No |
-| `biblewp.net` | Yes |
+| `biblewp.net` | No |
 | `biblioco.de` | No |
 | `bibliohack.org` | No |
 | `biblionik.org` | No |
@@ -14164,7 +14164,7 @@ Here's a list of public Fediverse services.
 | `f2p.me` | Yes |
 | `f2p.ms` | Yes |
 | `f40c40.com` | No |
-| `f4255529.fun` | Yes |
+| `f4255529.fun` | No |
 | `f4255529.shop` | Yes |
 | `f451.page` | No |
 | `f4clo.fr` | No |
@@ -37928,7 +37928,7 @@ Here's a list of public Fediverse services.
 | `promptfission.com` | No |
 | `pronovo.st` | No |
 | `proofgeist.com` | Yes |
-| `proofofmetaverse.com` | Yes |
+| `proofofmetaverse.com` | No |
 | `proofte.ch` | No |
 | `propaganda.global` | No |
 | `propaganda.lol` | Yes |
@@ -41852,7 +41852,7 @@ Here's a list of public Fediverse services.
 | `seedoubleyou.me` | Yes |
 | `seeds.social` | No |
 | `seedy.cc` | Yes |
-| `seedy.gq` | Yes |
+| `seedy.gq` | No |
 | `seedy.xyz` | Yes |
 | `seeedstudio.social` | Yes |
 | `seeingthatwhichis.org` | No |
@@ -43482,6 +43482,7 @@ Here's a list of public Fediverse services.
 | `social.gent` | No |
 | `social.gs` | No |
 | `social.im` | No |
+| `social.je` | Yes |
 | `social.lc` | Yes |
 | `social.lol` | Yes |
 | `social.mw` | No |
@@ -49874,7 +49875,7 @@ Here's a list of public Fediverse services.
 | `v4jp.com` | Yes |
 | `v4v.dev` | No |
 | `v5ox.com` | No |
-| `v6.rocks` | No |
+| `v6.rocks` | Yes |
 | `v64.net` | No |
 | `v6sskey.com` | No |
 | `va-11-hall-a.cafe` | No |
@@ -53847,8 +53848,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,494 |
-| Normal | 38,305 |
+| Cloudflare | 15,492 |
+| Normal | 38,308 |
 
 
 </details>
