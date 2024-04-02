@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,491 |
 | social | 4,867 |
 | net | 4,187 |
-| org | 2,786 |
+| org | 2,787 |
 | de | 2,699 |
 
 
@@ -29130,7 +29130,7 @@ Here's a list of public Fediverse services.
 | `md.tn` | Yes |
 | `md0.ru` | No |
 | `mdalves.com.br` | No |
-| `mdbenning.de` | Yes |
+| `mdbenning.de` | No |
 | `mdelaunay.fr` | No |
 | `mdg.no` | Yes |
 | `mdhughes.tech` | No |
@@ -41960,6 +41960,7 @@ Here's a list of public Fediverse services.
 | `selogic.fr` | No |
 | `selq.me` | Yes |
 | `semaj.me.uk` | No |
+| `semantic-versioning.org` | No |
 | `semaphore.life` | No |
 | `sembei.net` | Yes |
 | `semblanceoffunctionality.com` | No |
@@ -53845,8 +53846,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,497 |
-| Normal | 38,300 |
+| Cloudflare | 15,496 |
+| Normal | 38,302 |
 
 
 </details>
