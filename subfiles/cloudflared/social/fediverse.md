@@ -10917,6 +10917,7 @@ Here's a list of public Fediverse services.
 | `democracybrief.com` | Yes |
 | `democracymas.to` | No |
 | `democraticnet.de` | No |
+| `democrazia.club` | Yes |
 | `demokratie.cool` | No |
 | `demokratischer-sommer.de` | No |
 | `demon.army` | No |
@@ -32937,7 +32938,7 @@ Here's a list of public Fediverse services.
 | `nexxtpress.de` | No |
 | `nexxtsocial.de` | No |
 | `nexxtsocial.net` | No |
-| `ney.ink` | No |
+| `ney.ink` | Yes |
 | `nezorg.ninja` | No |
 | `nf0.ru` | No |
 | `nfa.cz` | No |
@@ -53844,8 +53845,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,495 |
-| Normal | 38,301 |
+| Cloudflare | 15,497 |
+| Normal | 38,300 |
 
 
 </details>
