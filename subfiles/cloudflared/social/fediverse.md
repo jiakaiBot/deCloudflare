@@ -14396,6 +14396,7 @@ Here's a list of public Fediverse services.
 | `fanlan.art` | No |
 | `fanlan.net` | Yes |
 | `fanrongbin.com` | Yes |
+| `fanscannabis.club` | No |
 | `fanscrowd.com` | No |
 | `fansdao.club` | No |
 | `fantabos.co` | No |
@@ -20145,7 +20146,7 @@ Here's a list of public Fediverse services.
 | `hotman78.com` | Yes |
 | `hotmilk.space` | Yes |
 | `hoto.moe` | Yes |
-| `hoto.rocks` | Yes |
+| `hoto.rocks` | No |
 | `hoto.us` | Yes |
 | `hotoras.kr` | Yes |
 | `hotous.net` | Yes |
@@ -24100,7 +24101,7 @@ Here's a list of public Fediverse services.
 | `kinishinai.net` | No |
 | `kink.clinic` | No |
 | `kink.family` | No |
-| `kink.social` | Yes |
+| `kink.social` | No |
 | `kink.town` | No |
 | `kinkcalendar.site` | Yes |
 | `kinkpic.site` | Yes |
@@ -53859,8 +53860,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,496 |
-| Normal | 38,315 |
+| Cloudflare | 15,494 |
+| Normal | 38,318 |
 
 
 </details>
