@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,492 |
-| social | 4,868 |
+| social | 4,869 |
 | net | 4,187 |
 | org | 2,787 |
 | de | 2,700 |
@@ -9261,6 +9261,7 @@ Here's a list of public Fediverse services.
 | `crashrt.work` | Yes |
 | `crashspace.org` | No |
 | `crashthearcade.com` | No |
+| `crashthearcade.social` | No |
 | `crashtodon.net` | No |
 | `cratersedge.ca` | No |
 | `crates.im` | No |
@@ -53862,7 +53863,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,495 |
-| Normal | 38,318 |
+| Normal | 38,319 |
 
 
 </details>
