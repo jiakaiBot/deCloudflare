@@ -145,6 +145,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | moesite.top | Yes |
 | mtsoln.com | Yes |
 | mullvad.net | No |
+| mydns.network | Yes |
 | mywire.org | Yes |
 | narl.app | No |
 | nenam.eu | No |
@@ -261,8 +262,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 130 |
+| Cloudflare | 131 |
 | Normal | 112 |
 
 
-### 53.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
