@@ -7539,6 +7539,7 @@ Here's a list of public Fediverse services.
 | `chaoyu.us` | No |
 | `chaoznekoz.com` | No |
 | `chaoznekoz.gay` | No |
+| `chapple.ie` | No |
 | `chapril.org` | No |
 | `chapsterhood.com` | No |
 | `char.my.id` | Yes |
@@ -50573,7 +50574,7 @@ Here's a list of public Fediverse services.
 | `vocaloid.social` | Yes |
 | `vocalomakets.jp` | No |
 | `vocalounge.cafe` | No |
-| `vocals.gg` | No |
+| `vocals.gg` | Yes |
 | `vocalsynthes.is` | Yes |
 | `vocata.one` | No |
 | `vocationnet.com` | No |
@@ -53891,7 +53892,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,516 |
+| Cloudflare | 15,517 |
 | Normal | 38,327 |
 
 
