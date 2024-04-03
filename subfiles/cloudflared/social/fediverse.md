@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,492 |
+| com | 8,494 |
 | social | 4,869 |
 | net | 4,187 |
 | org | 2,787 |
-| de | 2,700 |
+| de | 2,701 |
 
 
 - Mastodon, Pleroma, etc
@@ -1649,6 +1649,7 @@ Here's a list of public Fediverse services.
 | `akasa.red` | Yes |
 | `akasaka.org` | No |
 | `akashi.cloud` | No |
+| `akashicdays.uk` | Yes |
 | `akashiensis.com` | No |
 | `akashiensis.online` | No |
 | `akatony.com` | Yes |
@@ -2446,6 +2447,7 @@ Here's a list of public Fediverse services.
 | `andysocial.com` | No |
 | `andythompson.social` | No |
 | `andz.me` | No |
+| `aneclecticmind.com` | No |
 | `aneeshsathe.com` | No |
 | `anemoneprune.fr` | No |
 | `anemoneya.me` | No |
@@ -3355,7 +3357,7 @@ Here's a list of public Fediverse services.
 | `aspectsof.love` | Yes |
 | `asphodel.rip` | Yes |
 | `aspie.space` | Yes |
-| `aspiechattr.me` | No |
+| `aspiechattr.me` | Yes |
 | `aspirant.de` | No |
 | `aspiringknight.com` | No |
 | `aspisdata.com` | No |
@@ -6156,6 +6158,7 @@ Here's a list of public Fediverse services.
 | `breeze.town` | No |
 | `breeze.tube` | No |
 | `breezy.cyou` | No |
+| `breisgaucave.de` | No |
 | `breitbach.tech` | No |
 | `breiteberg.de` | No |
 | `breizh.me` | Yes |
@@ -13300,7 +13303,7 @@ Here's a list of public Fediverse services.
 | `emeraldsocial.org` | No |
 | `emergeheart.info` | No |
 | `emergencyalerts.app` | No |
-| `emergencyplumbery.com` | No |
+| `emergencyplumbery.com` | Yes |
 | `emergenzehack.info` | No |
 | `emerson.chat` | Yes |
 | `emeryrose.me` | No |
@@ -30575,6 +30578,7 @@ Here's a list of public Fediverse services.
 | `modelrailway.social` | No |
 | `modem.network` | Yes |
 | `modem.show` | Yes |
+| `moderateexcess.com` | Yes |
 | `moderately.social` | No |
 | `moderators.tv` | No |
 | `modern-industry.com` | No |
@@ -42565,6 +42569,7 @@ Here's a list of public Fediverse services.
 | `shun1s.com` | No |
 | `shunderdo.me` | No |
 | `shunrin.com` | Yes |
+| `shura.live` | Yes |
 | `shutinnerd.space` | Yes |
 | `shuttleapp.rs` | No |
 | `shuuji3.xyz` | Yes |
@@ -53863,7 +53868,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,497 |
+| Cloudflare | 15,502 |
 | Normal | 38,318 |
 
 
