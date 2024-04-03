@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,494 |
+| com | 8,495 |
 | social | 4,869 |
 | net | 4,187 |
 | org | 2,787 |
@@ -9110,6 +9110,7 @@ Here's a list of public Fediverse services.
 | `cosplayer.com` | Yes |
 | `cosplaygif.com` | Yes |
 | `cosple.world` | Yes |
+| `cosroe.com` | Yes |
 | `costablanca.social` | No |
 | `costas.dev` | Yes |
 | `coste.video` | No |
@@ -53869,7 +53870,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,502 |
+| Cloudflare | 15,503 |
 | Normal | 38,319 |
 
 
