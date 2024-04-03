@@ -320,7 +320,7 @@ Here's a list of breached sites.
 | IGF (UN Internet Governance Forum) | 3,200 | Yes |
 | IIMJobs | 4,216,063 | No |
 | ILikeCheats | 188,847 | Yes |
-| Imavex | 878,209 | No |
+| Imavex | 878,209 | Yes |
 | IndiHome | 12,629,245 | No |
 | IndiaMART | 20,154,583 | No |
 | IndianRailways (Indian Railways) | 583,377 | No |
@@ -601,6 +601,7 @@ Here's a list of breached sites.
 | SubaGames | 6,137,666 | No |
 | SumoTorrent (Sumo Torrent) | 285,191 | Yes |
 | SundryFiles (Sundry Files) | 274,461 | Yes |
+| SurveyLama | 4,426,879 | Yes |
 | SvenskaMagic | 30,327 | No |
 | SweClockers (SweClockers.com) | 254,867 | No |
 | SwordFantasy | 2,690,657 | Yes |
@@ -748,10 +749,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 435 | 4,975,174,038 |
-| Normal | 292 | 4,199,964,104 |
+| Cloudflare | 437 | 4,980,479,126 |
+| Normal | 291 | 4,199,085,895 |
 
 
 
-### 59.8% of breached sites (pwned sites) are using Cloudflare.
-### 54.2% of leaked accounts are on Cloudflare sites.
+### 60% of breached sites (pwned sites) are using Cloudflare.
+### 54.3% of leaked accounts are on Cloudflare sites.
