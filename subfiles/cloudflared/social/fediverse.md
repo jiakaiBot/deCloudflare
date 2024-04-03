@@ -4693,6 +4693,7 @@ Here's a list of public Fediverse services.
 | `benedikts.social` | Yes |
 | `benefice.io` | No |
 | `benehomini.social` | No |
+| `beneluxtwinks.date` | No |
 | `benesh.family` | No |
 | `benetou.fr` | No |
 | `bengaluru.social` | No |
@@ -5906,7 +5907,7 @@ Here's a list of public Fediverse services.
 | `borderline.city` | No |
 | `bordom.net` | No |
 | `boredom.land` | No |
-| `bores.com` | No |
+| `bores.com` | Yes |
 | `borg.social` | Yes |
 | `borganism.com` | No |
 | `borgar.space` | No |
@@ -8041,7 +8042,7 @@ Here's a list of public Fediverse services.
 | `cincodenada.com` | No |
 | `cincoseis.tech` | No |
 | `cincy.social` | No |
-| `cinematheque.social` | Yes |
+| `cinematheque.social` | No |
 | `cinematheque.tube` | No |
 | `cinephile-social.me` | Yes |
 | `cinetique-asso.fr` | No |
@@ -23317,7 +23318,7 @@ Here's a list of public Fediverse services.
 | `kai.dev` | Yes |
 | `kai.moe` | Yes |
 | `kaiba.ga` | No |
-| `kaiba.one` | Yes |
+| `kaiba.one` | No |
 | `kaientai-jp.net` | No |
 | `kaifa.ch` | Yes |
 | `kaifei.net` | Yes |
@@ -29083,7 +29084,7 @@ Here's a list of public Fediverse services.
 | `mbz.xyz` | No |
 | `mc-mp.space` | No |
 | `mc8051.de` | Yes |
-| `mca.is` | No |
+| `mca.is` | Yes |
 | `mcavey.net` | No |
 | `mcb.today` | No |
 | `mccallig.com` | No |
@@ -53887,7 +53888,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,512 |
-| Normal | 38,326 |
+| Normal | 38,327 |
 
 
 </details>
