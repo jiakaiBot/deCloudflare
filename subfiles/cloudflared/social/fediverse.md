@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,497 |
+| com | 8,498 |
 | social | 4,871 |
 | net | 4,187 |
 | org | 2,787 |
@@ -16134,7 +16134,7 @@ Here's a list of public Fediverse services.
 | `freespeech.host` | No |
 | `freespeech.institute` | No |
 | `freespeech.pub` | No |
-| `freespeech.tube` | No |
+| `freespeech.tube` | Yes |
 | `freespeechextremist.com` | No |
 | `freestead.be` | No |
 | `freestorm.online` | No |
@@ -19819,6 +19819,7 @@ Here's a list of public Fediverse services.
 | `hku.hk` | Yes |
 | `hlad.org` | No |
 | `hlavac.social` | No |
+| `hleb.dev` | Yes |
 | `hlhost.gr` | Yes |
 | `hli.fi` | No |
 | `hlidacstatu.social` | No |
@@ -30800,6 +30801,7 @@ Here's a list of public Fediverse services.
 | `monotropa-satellite.social` | No |
 | `monotropism.org` | No |
 | `monoweb.jp` | No |
+| `monoxide.network` | No |
 | `monoxyd.de` | No |
 | `monporte.de` | No |
 | `monrepos.casa` | Yes |
@@ -42900,6 +42902,7 @@ Here's a list of public Fediverse services.
 | `sitios.win` | Yes |
 | `sittig.io` | No |
 | `sitwell.dev` | Yes |
+| `sivalik.com` | Yes |
 | `sivar.cafe` | No |
 | `sivar.social` | No |
 | `siverlag.de` | No |
@@ -53888,7 +53891,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,513 |
+| Cloudflare | 15,516 |
 | Normal | 38,327 |
 
 
