@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Older recordings are not playable after configuring external storage (session not found error)](https://github.com/openreplay/openreplay/issues/2026)
+- [Font & style assets are not being downloaded from external storage (Cloudflare R2) when viewing them in the browser](https://github.com/openreplay/openreplay/issues/2025)
 - [Can't use with Cloudflare Pages](https://github.com/pi0/nuxt-shiki/issues/23)
 - [Fix UDP Buffer Sizes for cloudflared tunnel](https://github.com/onedr0p/cluster-template/issues/1403)
 - [Parcel dev server randomly crashes when trying to unlink a file in the dist directory.](https://github.com/parcel-bundler/parcel/issues/9608)
