@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't access lutris.net](https://github.com/lutris/website/issues/697)
+- [Config flow error](https://github.com/amitfin/oref_alert/issues/48)
 - [TorrentLeechPL Timeout FlareSolverr](https://github.com/FlareSolverr/FlareSolverr/issues/1143)
 - [@hono/vite-cloudflare-pages Importing Node.js Modules Throw Runtime Errors](https://github.com/honojs/vite-plugins/issues/115)
 - [Older recordings are not playable after configuring external storage (session not found error)](https://github.com/openreplay/openreplay/issues/2026)
