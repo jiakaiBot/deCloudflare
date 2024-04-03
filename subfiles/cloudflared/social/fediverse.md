@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,496 |
-| social | 4,871 |
-| net | 4,186 |
+| com | 8,499 |
+| social | 4,872 |
+| net | 4,187 |
 | org | 2,787 |
-| de | 2,700 |
+| de | 2,701 |
 
 
 - Mastodon, Pleroma, etc
@@ -15953,6 +15953,7 @@ Here's a list of public Fediverse services.
 | `fractals.one` | No |
 | `fractalthreads.net` | No |
 | `fractopia.org` | No |
+| `fractum.gq` | No |
 | `fracturedhosting.social` | No |
 | `fragdev.com` | No |
 | `fragefix.de` | No |
@@ -20393,6 +20394,7 @@ Here's a list of public Fediverse services.
 | `hunlympic.info` | No |
 | `hunted.one` | Yes |
 | `hunter.place` | No |
+| `hunterandannie.com` | Yes |
 | `hunterjozwiak.com` | No |
 | `hunterlife.net` | No |
 | `huntsvillain.com` | No |
@@ -25326,6 +25328,7 @@ Here's a list of public Fediverse services.
 | `lamesnie.eu` | No |
 | `laminar.social` | No |
 | `laminne33569.net` | Yes |
+| `lamowski.net` | No |
 | `lamp.institute` | No |
 | `lamp.wtf` | No |
 | `lanandmedia.org` | No |
@@ -35720,6 +35723,7 @@ Here's a list of public Fediverse services.
 | `palashbauri.in` | Yes |
 | `palau.pro` | No |
 | `palaven.space` | No |
+| `paleodecor.com` | Yes |
 | `palepanda.club` | No |
 | `palepanda.com` | No |
 | `palewi.re` | Yes |
@@ -39540,6 +39544,7 @@ Here's a list of public Fediverse services.
 | `relph.org` | Yes |
 | `reluctantly.social` | No |
 | `relyma.club` | Yes |
+| `rem7.space` | No |
 | `remark.as` | No |
 | `remarkably.social` | No |
 | `remarker.co` | Yes |
@@ -43887,6 +43892,7 @@ Here's a list of public Fediverse services.
 | `sousunepluie.com` | No |
 | `souterra.com` | Yes |
 | `south-fork.site` | Yes |
+| `southampton.social` | No |
 | `southcape.social` | No |
 | `southcoastgeek.uk` | Yes |
 | `southflorida.social` | No |
@@ -45787,6 +45793,7 @@ Here's a list of public Fediverse services.
 | `tal.org` | No |
 | `talajen.com` | No |
 | `talamanca.social` | No |
+| `talbothome.com` | Yes |
 | `tale.cafe` | No |
 | `talee.de` | No |
 | `talentworld.group` | No |
@@ -50838,6 +50845,7 @@ Here's a list of public Fediverse services.
 | `w1sd0m.ca` | No |
 | `w1wra.net` | No |
 | `w3.social` | No |
+| `w321.de` | No |
 | `w3b0.de` | No |
 | `w3c.social` | No |
 | `w3nz.net` | No |
@@ -52104,6 +52112,7 @@ Here's a list of public Fediverse services.
 | `wrannek.me` | No |
 | `wrasstodon.pro` | No |
 | `wreck.rocks` | No |
+| `wreckedcarzz.cloud` | Yes |
 | `wrenix.eu` | No |
 | `wrestle.town` | No |
 | `wrestling.social` | No |
@@ -53886,8 +53895,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,514 |
-| Normal | 38,324 |
+| Cloudflare | 15,518 |
+| Normal | 38,329 |
 
 
 </details>
