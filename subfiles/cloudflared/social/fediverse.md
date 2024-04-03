@@ -17909,6 +17909,7 @@ Here's a list of public Fediverse services.
 | `godspeed.moe` | Yes |
 | `godspelled.uk` | No |
 | `godsright.org` | No |
+| `godzillaenergy.moe` | No |
 | `godzillasbigjeans.com` | Yes |
 | `goe.land` | No |
 | `goehler.digital` | No |
@@ -45863,7 +45864,7 @@ Here's a list of public Fediverse services.
 | `tanghus.net` | No |
 | `tangledbankforaging.uk` | No |
 | `tangofam.space` | No |
-| `tangoit.net` | No |
+| `tangoit.net` | Yes |
 | `tangorangers.com` | Yes |
 | `tangoz.de` | No |
 | `tani-exe.net` | Yes |
@@ -46524,7 +46525,7 @@ Here's a list of public Fediverse services.
 | `tezos.lol` | No |
 | `tezos.rocks` | No |
 | `tf-net.cloud` | Yes |
-| `tf.au` | No |
+| `tf.au` | Yes |
 | `tf.fi` | Yes |
 | `tf3.social` | No |
 | `tfcconnection.org` | No |
@@ -53870,8 +53871,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,503 |
-| Normal | 38,319 |
+| Cloudflare | 15,505 |
+| Normal | 38,318 |
 
 
 </details>
