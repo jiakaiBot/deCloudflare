@@ -108,7 +108,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hostme.co.il | Yes |
 | huque.com | No |
 | huseynov.work | Yes |
-| huyhoangit.net | Yes |
 | iij.jp | Yes |
 | ikarosalpha.xyz | Yes |
 | in-berlin.de | No |
@@ -209,7 +208,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | skrep.eu | No |
 | slinkyman.net | Yes |
 | spacedns.org | No |
-| sparshbajaj.me | Yes |
 | spectrum.com | Yes |
 | spirio.fr | No |
 | sscw.win | Yes |
@@ -258,8 +256,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 128 |
+| Cloudflare | 126 |
 | Normal | 111 |
 
 
-### 53.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
