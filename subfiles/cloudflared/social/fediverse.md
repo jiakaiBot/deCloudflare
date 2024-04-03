@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,497 |
-| social | 4,870 |
+| social | 4,871 |
 | net | 4,187 |
 | org | 2,787 |
 | de | 2,701 |
@@ -40840,6 +40840,7 @@ Here's a list of public Fediverse services.
 | `sabakan.industries` | Yes |
 | `sabatino.cloud` | No |
 | `sabatino.pro` | No |
+| `sabatino.social` | No |
 | `sabbeln.social` | No |
 | `sabertooth.social` | No |
 | `sabilewcreates.com` | Yes |
@@ -53886,7 +53887,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,512 |
-| Normal | 38,325 |
+| Normal | 38,326 |
 
 
 </details>
