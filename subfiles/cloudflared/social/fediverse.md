@@ -11431,6 +11431,7 @@ Here's a list of public Fediverse services.
 | `digitaldemocracies.org` | Yes |
 | `digitaldragon.dev` | Yes |
 | `digitaldragons.eu` | No |
+| `digitaleoverheid.nl` | No |
 | `digitalesozialearbeit.de` | No |
 | `digitalesparadies.de` | No |
 | `digitalfall.net` | No |
@@ -53872,7 +53873,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,505 |
-| Normal | 38,318 |
+| Normal | 38,319 |
 
 
 </details>
