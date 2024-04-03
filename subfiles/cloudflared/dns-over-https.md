@@ -171,7 +171,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pccoach.nl | Yes |
 | persiannit.net | Yes |
 | pietjacobs.be | No |
-| plaawan.uk | Yes |
 | pmoebi.xyz | No |
 | pooblet.co.za | Yes |
 | pragmasec.nl | No |
@@ -256,8 +255,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 126 |
+| Cloudflare | 125 |
 | Normal | 111 |
 
 
-### 53.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53% of DNS-over-HTTPS (DoH) are using Cloudflare.
