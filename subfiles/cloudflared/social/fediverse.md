@@ -6853,6 +6853,7 @@ Here's a list of public Fediverse services.
 | `calx.in` | No |
 | `calzone.club` | No |
 | `cam.ac.uk` | Yes |
+| `cambra.io` | Yes |
 | `cambrian.social` | No |
 | `cambridgeport90.net` | Yes |
 | `cambridgeport90.org` | Yes |
@@ -21379,7 +21380,7 @@ Here's a list of public Fediverse services.
 | `intelme.com` | Yes |
 | `intensifi.es` | No |
 | `intentional.network` | No |
-| `intentropycs.com` | No |
+| `intentropycs.com` | Yes |
 | `inter-mundos.de` | No |
 | `inter21.net` | No |
 | `intercal.top` | No |
@@ -53862,8 +53863,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,495 |
-| Normal | 38,319 |
+| Cloudflare | 15,497 |
+| Normal | 38,318 |
 
 
 </details>
