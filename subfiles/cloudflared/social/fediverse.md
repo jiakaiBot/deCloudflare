@@ -13950,6 +13950,7 @@ Here's a list of public Fediverse services.
 | `everafter.digital` | No |
 | `evergood.me` | No |
 | `everlong.org` | No |
+| `everly.page` | Yes |
 | `evermorestud.io` | No |
 | `eversole.co` | No |
 | `eversole.dev` | Yes |
@@ -29139,7 +29140,7 @@ Here's a list of public Fediverse services.
 | `mcwhirter.io` | No |
 | `mcyt.cc` | Yes |
 | `mczachurski.dev` | No |
-| `md-social.co.uk` | Yes |
+| `md-social.co.uk` | No |
 | `md.social` | No |
 | `md.tn` | Yes |
 | `md0.ru` | No |
@@ -53869,7 +53870,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,502 |
-| Normal | 38,318 |
+| Normal | 38,319 |
 
 
 </details>
