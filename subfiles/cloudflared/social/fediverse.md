@@ -26463,6 +26463,7 @@ Here's a list of public Fediverse services.
 | `linuxtavern.org` | Yes |
 | `linuxtipps.ch` | No |
 | `linuxtrent.it` | No |
+| `linuxtube.space` | Yes |
 | `linuxuserspace.show` | No |
 | `linxx.net` | No |
 | `linya.live` | No |
@@ -53887,7 +53888,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,512 |
+| Cloudflare | 15,513 |
 | Normal | 38,327 |
 
 
