@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,495 |
+| com | 8,496 |
 | social | 4,870 |
 | net | 4,187 |
 | org | 2,787 |
@@ -8339,6 +8339,7 @@ Here's a list of public Fediverse services.
 | `clovercherry.com` | Yes |
 | `clovers.social` | No |
 | `clovershaunt.space` | No |
+| `clovius.club` | No |
 | `clovr.cc` | Yes |
 | `clown-wife-clown.life` | No |
 | `clown.center` | No |
@@ -13354,6 +13355,7 @@ Here's a list of public Fediverse services.
 | `empod.cat` | No |
 | `empoer.li` | No |
 | `emprendedon.network` | No |
+| `empresasenegocios.com.br` | No |
 | `empresszyra.com` | No |
 | `empty-head.space` | No |
 | `empty.cafe` | No |
@@ -18028,6 +18030,7 @@ Here's a list of public Fediverse services.
 | `gordyboard.com` | No |
 | `gordyf.com` | Yes |
 | `gore.cam` | No |
+| `gore.pet` | No |
 | `gore.wtf` | Yes |
 | `goredb.com` | Yes |
 | `goresee.com` | Yes |
@@ -25746,6 +25749,7 @@ Here's a list of public Fediverse services.
 | `lelionetlagneau.blog` | No |
 | `lelux.fi` | No |
 | `lem.monster` | No |
+| `lem.rocks` | No |
 | `lem.social` | No |
 | `lem0n.cc` | Yes |
 | `lema.cl` | No |
@@ -27119,6 +27123,7 @@ Here's a list of public Fediverse services.
 | `lucida-don.net` | No |
 | `lucida-memo.info` | No |
 | `lucida-note.info` | No |
+| `luciditylamb.com` | No |
 | `lucidragons.de` | No |
 | `lucidsilence.com` | No |
 | `lucie-philou.com` | No |
@@ -28424,6 +28429,7 @@ Here's a list of public Fediverse services.
 | `mastodon.cl` | Yes |
 | `mastodon.cloud` | Yes |
 | `mastodon.club` | No |
+| `mastodon.co.il` | Yes |
 | `mastodon.co.nz` | No |
 | `mastodon.co.za` | No |
 | `mastodon.codes` | No |
@@ -29185,7 +29191,7 @@ Here's a list of public Fediverse services.
 | `mechanicalmischief.com` | No |
 | `mechanizedarmadillo.com` | Yes |
 | `mechapower.eu` | Yes |
-| `mechenici.com` | No |
+| `mechenici.com` | Yes |
 | `mechkey.jp` | No |
 | `meckpom.social` | No |
 | `mecp.de` | No |
@@ -33297,6 +33303,7 @@ Here's a list of public Fediverse services.
 | `nix.ac` | No |
 | `nix.ai` | No |
 | `nix.uno` | No |
+| `nixadmin.es` | No |
 | `nixanz.com` | No |
 | `nixc.us` | No |
 | `nixdev.com` | No |
@@ -40532,6 +40539,7 @@ Here's a list of public Fediverse services.
 | `ru.social` | No |
 | `ru3a.com` | Yes |
 | `rua.plus` | No |
+| `ruang.info` | Yes |
 | `rubber.family` | No |
 | `rubber.social` | No |
 | `rubber.zone` | No |
@@ -44590,6 +44598,7 @@ Here's a list of public Fediverse services.
 | `stellarvortex.com` | Yes |
 | `stellas.cf` | Yes |
 | `stellbr.ink` | Yes |
+| `stellers.gay` | Yes |
 | `stellify.net` | Yes |
 | `stellj.es` | No |
 | `stelpolva.moe` | Yes |
@@ -53875,8 +53884,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,509 |
-| Normal | 38,318 |
+| Cloudflare | 15,513 |
+| Normal | 38,323 |
 
 
 </details>
