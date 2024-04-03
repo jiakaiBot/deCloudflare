@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,495 |
-| social | 4,869 |
+| social | 4,870 |
 | net | 4,187 |
 | org | 2,787 |
 | de | 2,701 |
@@ -3187,6 +3187,7 @@ Here's a list of public Fediverse services.
 | `artigot.dev` | No |
 | `artikel91.eu` | No |
 | `artimec.social` | No |
+| `artin.social` | No |
 | `artindekker.com` | No |
 | `artisan.chat` | No |
 | `artisanlogiciel.net` | No |
@@ -13258,6 +13259,7 @@ Here's a list of public Fediverse services.
 | `elsmussols.net` | No |
 | `elsmussols.org` | No |
 | `elstabloserver.de` | No |
+| `elsultan.casa` | Yes |
 | `eltakana.net` | No |
 | `elte.hu` | No |
 | `eltoroweakly.com` | Yes |
@@ -34625,7 +34627,7 @@ Here's a list of public Fediverse services.
 | `olchis.net` | No |
 | `olcy.fr` | No |
 | `old-home.faith` | No |
-| `old-home.org` | No |
+| `old-home.org` | Yes |
 | `oldb.social` | No |
 | `oldbytes.space` | No |
 | `oldcoder.org` | No |
@@ -39036,7 +39038,7 @@ Here's a list of public Fediverse services.
 | `raphmim.com` | No |
 | `raphting.dev` | No |
 | `raphus.social` | Yes |
-| `rapidblock.org` | No |
+| `rapidblock.org` | Yes |
 | `rapidsloth.xyz` | No |
 | `raplst.town` | No |
 | `rapotec.org` | No |
@@ -41301,6 +41303,7 @@ Here's a list of public Fediverse services.
 | `sayitwiththelighton.blog` | Yes |
 | `saykcay.dev` | Yes |
 | `saynoto.lgbt` | No |
+| `sayori.dev` | Yes |
 | `sayrf.social` | No |
 | `saysrelax.com` | No |
 | `saysrelax.me` | No |
@@ -53872,8 +53875,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,505 |
-| Normal | 38,319 |
+| Cloudflare | 15,509 |
+| Normal | 38,318 |
 
 
 </details>
