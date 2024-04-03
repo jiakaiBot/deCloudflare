@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [@hono/vite-cloudflare-pages Importing Node.js Modules Throw Runtime Errors](https://github.com/honojs/vite-plugins/issues/115)
 - [Older recordings are not playable after configuring external storage (session not found error)](https://github.com/openreplay/openreplay/issues/2026)
 - [Font & style assets are not being downloaded from external storage (Cloudflare R2) when viewing them in the browser](https://github.com/openreplay/openreplay/issues/2025)
 - [Can't use with Cloudflare Pages](https://github.com/pi0/nuxt-shiki/issues/23)
