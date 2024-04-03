@@ -138,7 +138,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meddy94.de | No |
 | meexx.de | No |
 | meganerd.nl | No |
-| milangas2.top | Yes |
 | moderateinfra.net | No |
 | modr.club | Yes |
 | moesite.top | Yes |
@@ -244,7 +243,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | unstoppable.io | Yes |
 | unx.io | No |
 | vape.ong | Yes |
-| viatech.com.tw | Yes |
 | virga.pp.ua | Yes |
 | vtcuong.site | Yes |
 | wahr.top | Yes |
@@ -260,8 +258,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 130 |
+| Cloudflare | 128 |
 | Normal | 111 |
 
 
-### 53.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
