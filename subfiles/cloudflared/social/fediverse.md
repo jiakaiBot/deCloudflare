@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,496 |
+| com | 8,497 |
 | social | 4,870 |
 | net | 4,187 |
 | org | 2,787 |
@@ -8769,6 +8769,7 @@ Here's a list of public Fediverse services.
 | `compgen.de` | No |
 | `compi.lol` | Yes |
 | `complacent.io` | No |
+| `complainthub.com` | No |
 | `complecwaft.com` | Yes |
 | `complete.fail` | No |
 | `complete.org` | No |
@@ -23895,7 +23896,7 @@ Here's a list of public Fediverse services.
 | `kevbob.com` | Yes |
 | `kevdev.one` | Yes |
 | `kevhomeit.trade` | Yes |
-| `kevin.cl` | Yes |
+| `kevin.cl` | No |
 | `kevin.paris` | No |
 | `kevindangoor.com` | No |
 | `kevinewalsh.us` | No |
@@ -53884,8 +53885,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,513 |
-| Normal | 38,323 |
+| Cloudflare | 15,512 |
+| Normal | 38,325 |
 
 
 </details>
