@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,503 |
+| com | 8,504 |
 | social | 4,873 |
 | net | 4,187 |
 | org | 2,787 |
@@ -18255,7 +18255,7 @@ Here's a list of public Fediverse services.
 | `greenish.red` | Yes |
 | `greenjobs.social` | No |
 | `greenlife.li` | No |
-| `greenlifeplus.net` | Yes |
+| `greenlifeplus.net` | No |
 | `greenmoo.net` | No |
 | `greenmycity.eu` | No |
 | `greennet.social` | No |
@@ -30805,6 +30805,7 @@ Here's a list of public Fediverse services.
 | `monolith.social` | No |
 | `monomarchos.agency` | No |
 | `monospacedmagic.dev` | Yes |
+| `monospacementor.com` | Yes |
 | `monotremata.xyz` | No |
 | `monotropa-satellite.social` | No |
 | `monotropism.org` | No |
@@ -53906,7 +53907,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,521 |
-| Normal | 38,336 |
+| Normal | 38,337 |
 
 
 </details>
