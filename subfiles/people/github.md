@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Hysteria2 Server Inbound 开启 Sniff 后 Client STUN NAT 绑定测试 Fail](https://github.com/SagerNet/sing-box/issues/1639)
+- [Can't fetch assets using Kits fetch and relative path](https://github.com/sveltejs/kit/issues/12081)
 - [Small char error with Cloudflare certs](https://github.com/jannispinter/indicatetls/issues/57)
 - [CloudFlare Cloudflare Workers AI Issues](https://github.com/SecOpsNews/news/issues/26843)
 - [groq api is throwing error using mixtral-8x7b-32768 model for chat completions api](https://github.com/groq/groq-api-cookbook/issues/3)
