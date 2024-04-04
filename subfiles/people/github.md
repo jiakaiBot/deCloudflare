@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [groq api is throwing error using mixtral-8x7b-32768 model for chat completions api](https://github.com/groq/groq-api-cookbook/issues/3)
 - [Location directive ( location /{ ) causing proxy host to land at openresty landing page](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3678)
 - [Btcturk baglantı problemi.](https://github.com/BTCTrader/broker-api-docs/issues/570)
 - [Can't access lutris.net](https://github.com/lutris/website/issues/697)
