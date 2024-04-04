@@ -32505,6 +32505,7 @@ Here's a list of public Fediverse services.
 | `nekogenesis.com` | No |
 | `nekohack.me` | Yes |
 | `nekohell.eu` | Yes |
+| `nekohub.uk` | Yes |
 | `nekojanai.xyz` | No |
 | `nekojimi.moe` | No |
 | `nekojita.moe` | No |
@@ -53900,7 +53901,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,519 |
+| Cloudflare | 15,520 |
 | Normal | 38,333 |
 
 
