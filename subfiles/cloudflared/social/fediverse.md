@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,502 |
+| com | 8,503 |
 | social | 4,873 |
 | net | 4,187 |
 | org | 2,787 |
@@ -13523,7 +13523,7 @@ Here's a list of public Fediverse services.
 | `entertheempty.space` | No |
 | `enthalpiste.fr` | No |
 | `entheoconnect.social` | No |
-| `entire.social` | Yes |
+| `entire.social` | No |
 | `entire.vc` | Yes |
 | `entire.website` | Yes |
 | `entities.org.uk` | No |
@@ -26272,6 +26272,7 @@ Here's a list of public Fediverse services.
 | `lifehack.social` | No |
 | `lifeisabug.com` | No |
 | `lifeisforhacking.community` | No |
+| `lifeiswoohoo.com` | Yes |
 | `lifeofpablo.com` | Yes |
 | `liferadio.at` | No |
 | `lifergeek.social` | No |
@@ -53904,7 +53905,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,521 |
-| Normal | 38,334 |
+| Normal | 38,335 |
 
 
 </details>
