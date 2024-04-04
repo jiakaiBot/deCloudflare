@@ -4,6 +4,10 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Multiple domains and access via IP address](https://github.com/HeyPuter/puter/issues/230)
+- [Weird stuttering and generally low quality when using with Cloudflare Calls](https://github.com/react-native-webrtc/react-native-webrtc/issues/1536)
+- [Website fails to load the first time you go to it.](https://github.com/gameserverapp/Platform/issues/818)
+- [Integration with Oauth provider LemonLDAP is not working](https://github.com/greenpau/caddy-security/issues/331)
 - [CloudFlare Cloudflare Workers — 1105 Errors](https://github.com/SecOpsNews/news/issues/26877)
 - [Octoflare Error: No commit found for the ref renovate/sveltejs-adapter-cloudflare...](https://github.com/jill64/wraith-ci/issues/695)
 - [Can't install NPM package due to connection discrimination, 403 response](https://github.com/cypress-io/cypress/issues/29267)
