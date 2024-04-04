@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,501 |
-| social | 4,872 |
+| com | 8,502 |
+| social | 4,873 |
 | net | 4,187 |
 | org | 2,787 |
 | de | 2,701 |
@@ -14019,6 +14019,7 @@ Here's a list of public Fediverse services.
 | `evoterra.social` | No |
 | `evotm.com` | Yes |
 | `evri1s-connected.online` | No |
+| `evrial.com` | Yes |
 | `evset.ru` | No |
 | `evsyukov.org` | Yes |
 | `evu-group.de` | Yes |
@@ -32944,6 +32945,7 @@ Here's a list of public Fediverse services.
 | `newyorkdon.net` | No |
 | `newyorkfriendfinder.com` | No |
 | `nex.sh` | Yes |
+| `nexart.social` | No |
 | `nexific.social` | Yes |
 | `nexifyhub.com` | Yes |
 | `nexitally.buzz` | Yes |
@@ -53898,8 +53900,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,518 |
-| Normal | 38,332 |
+| Cloudflare | 15,519 |
+| Normal | 38,333 |
 
 
 </details>
