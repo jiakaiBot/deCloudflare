@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,507 |
-| social | 4,874 |
+| com | 8,508 |
+| social | 4,875 |
 | net | 4,188 |
 | org | 2,787 |
 | de | 2,702 |
@@ -20123,6 +20123,7 @@ Here's a list of public Fediverse services.
 | `hoschwald.de` | No |
 | `hoshi.garden` | Yes |
 | `hoshihara.co.jp` | No |
+| `hoshikawa.space` | No |
 | `hoshipaso.com` | Yes |
 | `hoshipaso.info` | No |
 | `hoshipaso.net` | Yes |
@@ -37762,6 +37763,7 @@ Here's a list of public Fediverse services.
 | `precure.ml` | No |
 | `preemptcordon.org` | No |
 | `pref.yokohama` | No |
+| `prefer.social` | Yes |
 | `pregnant.social` | No |
 | `prehl.social` | No |
 | `prehospitalcare.app` | No |
@@ -42787,6 +42789,7 @@ Here's a list of public Fediverse services.
 | `simden.fr` | No |
 | `simeckuv.cloud` | No |
 | `simian.rodeo` | Yes |
+| `simianworks.com` | No |
 | `simio.us` | Yes |
 | `simion.me` | No |
 | `simionato.xyz` | Yes |
@@ -53920,8 +53923,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,527 |
-| Normal | 38,345 |
+| Cloudflare | 15,528 |
+| Normal | 38,347 |
 
 
 </details>
