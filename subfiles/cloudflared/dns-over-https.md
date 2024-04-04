@@ -20,7 +20,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | aa.net.uk | No |
 | abd.ong | Yes |
 | abraservice.xyz | Yes |
-| adblocker.eu.org | Yes |
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
@@ -255,8 +254,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 125 |
+| Cloudflare | 124 |
 | Normal | 111 |
 
 
-### 53% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
