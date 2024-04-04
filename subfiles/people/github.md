@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Location directive ( location /{ ) causing proxy host to land at openresty landing page](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3678)
 - [Btcturk baglantı problemi.](https://github.com/BTCTrader/broker-api-docs/issues/570)
 - [Can't access lutris.net](https://github.com/lutris/website/issues/697)
 - [Config flow error](https://github.com/amitfin/oref_alert/issues/48)
