@@ -26216,6 +26216,7 @@ Here's a list of public Fediverse services.
 | `librelois.fr` | No |
 | `librem.one` | No |
 | `libremedia.video` | No |
+| `libremercs.dev` | Yes |
 | `librenet.co.za` | No |
 | `librenet.uy` | No |
 | `librenet.xyz` | No |
@@ -31189,7 +31190,7 @@ Here's a list of public Fediverse services.
 | `mrraph.photo` | No |
 | `mrrebot.com` | Yes |
 | `mrrl.me` | No |
-| `mrrlll.net` | No |
+| `mrrlll.net` | Yes |
 | `mrrob.in` | No |
 | `mrroman.pl` | Yes |
 | `mrrp.cat` | No |
@@ -31689,7 +31690,7 @@ Here's a list of public Fediverse services.
 | `muto.me` | No |
 | `mutolo.social` | No |
 | `mutualaid.social` | Yes |
-| `mutualdon.social` | Yes |
+| `mutualdon.social` | No |
 | `muu.space` | Yes |
 | `muuli.de` | No |
 | `muute.club` | No |
@@ -50311,7 +50312,7 @@ Here's a list of public Fediverse services.
 | `vibewave.space` | No |
 | `vibin.wtf` | Yes |
 | `vibrant.li` | No |
-| `vicaust.com` | Yes |
+| `vicaust.com` | No |
 | `vicedomini.cloud` | No |
 | `vicentellopis.es` | No |
 | `vichar.me` | Yes |
@@ -53905,7 +53906,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,521 |
-| Normal | 38,335 |
+| Normal | 38,336 |
 
 
 </details>
