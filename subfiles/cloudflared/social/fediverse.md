@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,504 |
-| social | 4,873 |
-| net | 4,187 |
+| com | 8,507 |
+| social | 4,874 |
+| net | 4,188 |
 | org | 2,787 |
-| de | 2,701 |
+| de | 2,702 |
 
 
 - Mastodon, Pleroma, etc
@@ -769,6 +769,7 @@ Here's a list of public Fediverse services.
 | `79120.tours` | No |
 | `7988276.xyz` | Yes |
 | `7a4.pp.ua` | No |
+| `7cat.cc` | Yes |
 | `7colou.red` | Yes |
 | `7d.gg` | No |
 | `7glen.cloud` | No |
@@ -10170,6 +10171,7 @@ Here's a list of public Fediverse services.
 | `damu.page` | Yes |
 | `damutten.ch` | No |
 | `damxspa.com` | Yes |
+| `dan-liu.net` | No |
 | `dan.cloud` | No |
 | `dan.glass` | No |
 | `dan0mic.one` | Yes |
@@ -10620,6 +10622,7 @@ Here's a list of public Fediverse services.
 | `ddcloud.info` | No |
 | `ddddd.red` | No |
 | `dddug.in` | No |
+| `ddigest.com` | No |
 | `ddlia.com` | Yes |
 | `ddn.social` | No |
 | `ddna.co` | No |
@@ -14008,6 +14011,7 @@ Here's a list of public Fediverse services.
 | `evilolive.dev` | Yes |
 | `evilscientress.de` | No |
 | `eviltoast.org` | Yes |
+| `eviscerating.day` | No |
 | `evl.fi` | No |
 | `evl.im` | No |
 | `evln.xyz` | No |
@@ -24919,6 +24923,7 @@ Here's a list of public Fediverse services.
 | `kuendig.io` | Yes |
 | `kuenet.ch` | No |
 | `kuenstlerquadrat.de` | No |
+| `kueri.online` | Yes |
 | `kuester7.com` | No |
 | `kufstein.social` | No |
 | `kugetsu.blog` | No |
@@ -29276,6 +29281,7 @@ Here's a list of public Fediverse services.
 | `meetfriendly.codes` | Yes |
 | `meetiko.org` | Yes |
 | `meetplay.net` | Yes |
+| `meetup.events` | No |
 | `meetwoof.com` | Yes |
 | `meety.me` | No |
 | `mef.gg` | Yes |
@@ -29473,6 +29479,7 @@ Here's a list of public Fediverse services.
 | `menuel.eu` | No |
 | `menzel-it.social` | No |
 | `menzns.de` | No |
+| `menzocollabs.tv` | No |
 | `meo.ws` | Yes |
 | `meow-corp.xyz` | Yes |
 | `meow.academy` | No |
@@ -30261,6 +30268,7 @@ Here's a list of public Fediverse services.
 | `misskey.au` | No |
 | `misskey.beer` | No |
 | `misskey.blue` | Yes |
+| `misskey.casa` | Yes |
 | `misskey.cc` | Yes |
 | `misskey.cf` | Yes |
 | `misskey.city` | Yes |
@@ -34868,6 +34876,7 @@ Here's a list of public Fediverse services.
 | `onlylikes.io` | Yes |
 | `onlynugs.net` | No |
 | `onlypa.ws` | Yes |
+| `onlypaws.social` | No |
 | `onlypixel.nl` | No |
 | `onlyroleplayth.com` | No |
 | `onmasto.com` | No |
@@ -37942,6 +37951,7 @@ Here's a list of public Fediverse services.
 | `projectgjd.uk` | No |
 | `projectinzom.xyz` | No |
 | `projectjade.net` | No |
+| `projectletsbesocial.com` | Yes |
 | `projectlounge.pw` | Yes |
 | `projectmakeit.com` | No |
 | `projectmihun.cyou` | No |
@@ -49583,6 +49593,7 @@ Here's a list of public Fediverse services.
 | `unmappd.site` | No |
 | `unmedial.de` | No |
 | `unmensch.xyz` | No |
+| `unmethod.com` | Yes |
 | `unmondemeilleur.eu` | No |
 | `unmus.de` | No |
 | `unmusked.social` | No |
@@ -52609,6 +52620,7 @@ Here's a list of public Fediverse services.
 | `xn--qpr179gg5o.work` | No |
 | `xn--qubec-csa.tk` | No |
 | `xn--r9j630glz6a.xn--q9jyb4c` | No |
+| `xn--radwrts-8wa.de` | No |
 | `xn--ratatskr-r4a.de` | No |
 | `xn--rdstrupe-54a.net` | No |
 | `xn--rhqr3ykwbm05aegjn14c.cn` | No |
@@ -53906,8 +53918,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,521 |
-| Normal | 38,337 |
+| Cloudflare | 15,526 |
+| Normal | 38,344 |
 
 
 </details>
