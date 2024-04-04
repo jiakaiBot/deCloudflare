@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't install NPM package due to connection discrimination, 403 response](https://github.com/cypress-io/cypress/issues/29267)
+- [GloBI API server appears to be down](https://github.com/globalbioticinteractions/globalbioticinteractions/issues/979)
+- [Error attaching files](https://github.com/freescout-helpdesk/freescout/issues/3939)
 - [Hysteria2 Server Inbound 开启 Sniff 后 Client STUN NAT 绑定测试 Fail](https://github.com/SagerNet/sing-box/issues/1639)
 - [Can't fetch assets using Kits fetch and relative path](https://github.com/sveltejs/kit/issues/12081)
 - [Small char error with Cloudflare certs](https://github.com/jannispinter/indicatetls/issues/57)
