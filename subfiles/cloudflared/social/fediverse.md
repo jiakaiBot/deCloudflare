@@ -10908,6 +10908,7 @@ Here's a list of public Fediverse services.
 | `deltabeard.com` | Yes |
 | `deltaho.us` | No |
 | `deltanauten.de` | No |
+| `deluma.biz` | No |
 | `delurk.com` | No |
 | `demanderjustice.social` | No |
 | `demariaaviation.com` | No |
@@ -23636,6 +23637,7 @@ Here's a list of public Fediverse services.
 | `kawaiistarlight.online` | Yes |
 | `kawaiistu.moe` | No |
 | `kawaiivrc.site` | Yes |
+| `kawaiizenbo.me` | Yes |
 | `kawaiuniv.work` | No |
 | `kawaiyume.net` | No |
 | `kawakawa.fun` | Yes |
@@ -53901,8 +53903,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,520 |
-| Normal | 38,333 |
+| Cloudflare | 15,521 |
+| Normal | 38,334 |
 
 
 </details>
