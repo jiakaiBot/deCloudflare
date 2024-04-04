@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,499 |
+| com | 8,501 |
 | social | 4,872 |
 | net | 4,187 |
 | org | 2,787 |
@@ -12099,6 +12099,7 @@ Here's a list of public Fediverse services.
 | `doujin.biz` | No |
 | `doujin.games` | Yes |
 | `dounx.me` | Yes |
+| `doushishokun.com` | Yes |
 | `douvk.co.uk` | No |
 | `douwes.co.uk` | No |
 | `doux.fun` | No |
@@ -43174,6 +43175,7 @@ Here's a list of public Fediverse services.
 | `slippy.xyz` | Yes |
 | `slkr.space` | Yes |
 | `sllimnod.com` | No |
+| `sloan.host` | No |
 | `sloane.sh` | Yes |
 | `slobbe.ch` | No |
 | `slonisko.cz` | No |
@@ -44892,7 +44894,7 @@ Here's a list of public Fediverse services.
 | `striker.net.eu.org` | No |
 | `strindevall.com` | Yes |
 | `stringcast.net` | Yes |
-| `stringer.live` | Yes |
+| `stringer.live` | No |
 | `stringer.nz` | Yes |
 | `strings.io` | No |
 | `strintels.com` | Yes |
@@ -46671,6 +46673,7 @@ Here's a list of public Fediverse services.
 | `thealtnet.com` | No |
 | `theamesfamily.net` | No |
 | `theamityville.social` | No |
+| `theamycarney.com` | No |
 | `theantisocial.site` | No |
 | `theantisocials.co.uk` | No |
 | `theantshill.co.uk` | Yes |
@@ -53896,7 +53899,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,518 |
-| Normal | 38,329 |
+| Normal | 38,332 |
 
 
 </details>
