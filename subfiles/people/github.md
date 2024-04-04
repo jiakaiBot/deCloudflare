@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Workers — 1105 Errors](https://github.com/SecOpsNews/news/issues/26877)
 - [Octoflare Error: No commit found for the ref renovate/sveltejs-adapter-cloudflare...](https://github.com/jill64/wraith-ci/issues/695)
 - [Can't install NPM package due to connection discrimination, 403 response](https://github.com/cypress-io/cypress/issues/29267)
 - [GloBI API server appears to be down](https://github.com/globalbioticinteractions/globalbioticinteractions/issues/979)
