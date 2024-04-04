@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Btcturk baglantı problemi.](https://github.com/BTCTrader/broker-api-docs/issues/570)
 - [Can't access lutris.net](https://github.com/lutris/website/issues/697)
 - [Config flow error](https://github.com/amitfin/oref_alert/issues/48)
 - [TorrentLeechPL Timeout FlareSolverr](https://github.com/FlareSolverr/FlareSolverr/issues/1143)
