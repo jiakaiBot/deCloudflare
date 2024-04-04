@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Small char error with Cloudflare certs](https://github.com/jannispinter/indicatetls/issues/57)
 - [CloudFlare Cloudflare Workers AI Issues](https://github.com/SecOpsNews/news/issues/26843)
 - [groq api is throwing error using mixtral-8x7b-32768 model for chat completions api](https://github.com/groq/groq-api-cookbook/issues/3)
 - [Location directive ( location /{ ) causing proxy host to land at openresty landing page](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3678)
