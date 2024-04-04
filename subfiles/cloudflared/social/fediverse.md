@@ -9663,7 +9663,7 @@ Here's a list of public Fediverse services.
 | `culturewar.us` | No |
 | `cultusmechanic.us` | Yes |
 | `cultuurparticipatie.nl` | No |
-| `cultuurpers.nl` | No |
+| `cultuurpers.nl` | Yes |
 | `cum.camp` | No |
 | `cum.charity` | No |
 | `cum.coffee` | Yes |
@@ -14118,7 +14118,7 @@ Here's a list of public Fediverse services.
 | `explorons.fr` | No |
 | `explosion.party` | No |
 | `expose.pw` | No |
-| `expression.social` | Yes |
+| `expression.social` | No |
 | `expressional.social` | Yes |
 | `expshift.com` | No |
 | `exquisite.com.br` | Yes |
@@ -18852,7 +18852,7 @@ Here's a list of public Fediverse services.
 | `hakendon.net` | No |
 | `hakimus.de` | No |
 | `hako.lol` | Yes |
-| `hakoai.com` | No |
+| `hakoai.com` | Yes |
 | `hakodon.cf` | No |
 | `hakomas.cf` | No |
 | `hakoniwa-project.com` | Yes |
@@ -30485,6 +30485,7 @@ Here's a list of public Fediverse services.
 | `mls20.de` | No |
 | `mlsn.fr` | Yes |
 | `mlsskey.io` | No |
+| `mltrntv.moe` | No |
 | `mmaj.ca` | Yes |
 | `mmav.club` | No |
 | `mmcnet.io` | Yes |
@@ -41085,7 +41086,7 @@ Here's a list of public Fediverse services.
 | `samsanstyle.com` | No |
 | `samschmitt.com` | Yes |
 | `samschmitt.social` | Yes |
-| `samsteiner.net` | No |
+| `samsteiner.net` | Yes |
 | `samstodon.net` | No |
 | `samsunginter.net` | Yes |
 | `samsynger.com` | No |
@@ -50826,6 +50827,7 @@ Here's a list of public Fediverse services.
 | `vulpini.zone` | Yes |
 | `vulpo.one` | Yes |
 | `vulturion.com` | No |
+| `vurpo.fi` | No |
 | `vurtdefurk.com` | No |
 | `vutazeal.com` | No |
 | `vuurvis.be` | No |
@@ -51657,7 +51659,7 @@ Here's a list of public Fediverse services.
 | `wildcritters.org` | No |
 | `wilde.cloud` | No |
 | `wilde.pl` | Yes |
-| `wildebeest.social` | Yes |
+| `wildebeest.social` | No |
 | `wildeboer.net` | No |
 | `wilderness.social` | No |
 | `wildfyre.dev` | Yes |
@@ -53918,8 +53920,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,526 |
-| Normal | 38,344 |
+| Cloudflare | 15,527 |
+| Normal | 38,345 |
 
 
 </details>
