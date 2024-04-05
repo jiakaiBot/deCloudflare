@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,509 |
+| com | 8,511 |
 | social | 4,875 |
 | net | 4,192 |
 | org | 2,787 |
@@ -22511,7 +22511,7 @@ Here's a list of public Fediverse services.
 | `jgachelin.fr` | No |
 | `jgantts.com` | Yes |
 | `jgarr.net` | Yes |
-| `jgaskins.lol` | No |
+| `jgaskins.lol` | Yes |
 | `jgaskins.wtf` | Yes |
 | `jgc.org` | Yes |
 | `jgd.ovh` | No |
@@ -44517,6 +44517,7 @@ Here's a list of public Fediverse services.
 | `starshipchangeling.net` | No |
 | `starshipcritic.space` | No |
 | `starshipjennings.com` | Yes |
+| `starshipsd.com` | No |
 | `starside.social` | No |
 | `starsky.me` | No |
 | `start9labs.com` | Yes |
@@ -52049,6 +52050,7 @@ Here's a list of public Fediverse services.
 | `worctube.com` | Yes |
 | `word.builders` | No |
 | `wordbunny.org` | No |
+| `wordcloudtarot.com` | No |
 | `wordcraft.social` | No |
 | `worddump.com` | Yes |
 | `worddump.xyz` | No |
@@ -53931,8 +53933,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,526 |
-| Normal | 38,357 |
+| Cloudflare | 15,527 |
+| Normal | 38,358 |
 
 
 </details>
