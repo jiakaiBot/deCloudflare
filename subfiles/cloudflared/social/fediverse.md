@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,511 |
+| com | 8,513 |
 | social | 4,875 |
 | net | 4,192 |
 | org | 2,787 |
@@ -8499,6 +8499,7 @@ Here's a list of public Fediverse services.
 | `codelib.re` | Yes |
 | `codelyoko.me` | Yes |
 | `codem.xyz` | No |
+| `codemonger.io` | No |
 | `codepenguin.io` | No |
 | `codeplumbers.eu` | No |
 | `coder.town` | Yes |
@@ -9288,6 +9289,7 @@ Here's a list of public Fediverse services.
 | `crazymastodon.com` | No |
 | `crazynewworld.net` | Yes |
 | `crazynoisybizarre.town` | No |
+| `crazyoctopus.co.il` | Yes |
 | `crazypanda.fr` | No |
 | `crazystreams.org` | Yes |
 | `crb.re` | No |
@@ -18027,6 +18029,7 @@ Here's a list of public Fediverse services.
 | `goomba.network` | Yes |
 | `goonj.xyz` | Yes |
 | `goonytoons.com` | No |
+| `gooo.cloud` | Yes |
 | `goopcave.net` | Yes |
 | `goopply.me` | No |
 | `goos.social` | No |
@@ -26995,6 +26998,7 @@ Here's a list of public Fediverse services.
 | `louiscap.io` | Yes |
 | `louisderrac.com` | No |
 | `louisematic.site` | No |
+| `louismerl.in` | Yes |
 | `louisoft01.moe` | No |
 | `louisvilletech.org` | No |
 | `louiz.org` | No |
@@ -28350,13 +28354,13 @@ Here's a list of public Fediverse services.
 | `mastocaz.zone` | Yes |
 | `mastochist.social` | No |
 | `mastocial.stream` | No |
-| `mastoclass.fr` | Yes |
+| `mastoclass.fr` | No |
 | `mastocomm.org` | No |
 | `mastocrypto.com` | No |
 | `mastod.in` | No |
 | `mastod.life` | No |
 | `mastod.no` | No |
-| `mastod.org` | Yes |
+| `mastod.org` | No |
 | `mastodaix.de` | No |
 | `mastoden.com` | Yes |
 | `mastodev.net` | No |
@@ -29666,6 +29670,7 @@ Here's a list of public Fediverse services.
 | `mevo.xyz` | Yes |
 | `mew.cat` | Yes |
 | `mew.lgbt` | No |
+| `mew.onl` | Yes |
 | `mew.pm` | Yes |
 | `mewitoot.de` | No |
 | `mewl.me` | Yes |
@@ -31716,6 +31721,7 @@ Here's a list of public Fediverse services.
 | `muyfinanciero.com` | No |
 | `muyun.cloud` | Yes |
 | `muyun.social` | Yes |
+| `muzako.xyz` | Yes |
 | `muzzlespace.com` | No |
 | `mv-oberweier.de` | No |
 | `mv-software.de` | No |
@@ -34269,7 +34275,7 @@ Here's a list of public Fediverse services.
 | `nzcow.com` | Yes |
 | `nzen.ski` | No |
 | `nzoss.nz` | No |
-| `nzserver.co` | Yes |
+| `nzserver.co` | No |
 | `nzsocial.net` | No |
 | `nzws.me` | Yes |
 | `nzyme.org` | Yes |
@@ -34653,6 +34659,7 @@ Here's a list of public Fediverse services.
 | `okometyan.com` | No |
 | `okoyono.de` | No |
 | `okpeace.org` | No |
+| `okr765.com` | Yes |
 | `oksocial.net` | No |
 | `oktadev.dev` | No |
 | `okteto.net` | Yes |
@@ -38705,6 +38712,7 @@ Here's a list of public Fediverse services.
 | `r18don.xyz` | No |
 | `r1tsu.com` | Yes |
 | `r2.do` | No |
+| `r21.io` | No |
 | `r23s.eu` | Yes |
 | `r2beat.jp` | No |
 | `r2fish.com` | No |
@@ -43855,6 +43863,7 @@ Here's a list of public Fediverse services.
 | `sopuli.xyz` | No |
 | `sopuzzled.com` | No |
 | `sora.pub` | No |
+| `soraharu.com` | Yes |
 | `soraneto.com` | No |
 | `sorasaki-ct.uk` | Yes |
 | `soratomo.info` | Yes |
@@ -46602,7 +46611,7 @@ Here's a list of public Fediverse services.
 | `tgl.eu` | No |
 | `tgp.jp` | Yes |
 | `tgqvitter.tk` | No |
-| `tgr.lol` | No |
+| `tgr.lol` | Yes |
 | `tgragnato.it` | Yes |
 | `tgrgroup.jp` | Yes |
 | `tgxn.net` | Yes |
@@ -47537,6 +47546,7 @@ Here's a list of public Fediverse services.
 | `timecube.club` | No |
 | `timefall.eu.org` | No |
 | `timeglass.de` | No |
+| `timeline.wtf` | Yes |
 | `timeloop.tv` | Yes |
 | `timemachiner.io` | Yes |
 | `timeriver.xyz` | Yes |
@@ -51529,6 +51539,7 @@ Here's a list of public Fediverse services.
 | `whatwaslostisfound.co.uk` | No |
 | `whatyoulike.club` | No |
 | `whconsulting.biz` | No |
+| `wheat.cafe` | Yes |
 | `wheelbearings.media` | No |
 | `wheelsinquirer.com` | Yes |
 | `whemic.xyz` | Yes |
@@ -53935,8 +53946,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,528 |
-| Normal | 38,359 |
+| Cloudflare | 15,535 |
+| Normal | 38,363 |
 
 
 </details>
