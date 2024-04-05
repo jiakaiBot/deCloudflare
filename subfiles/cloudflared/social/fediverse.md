@@ -19369,6 +19369,7 @@ Here's a list of public Fediverse services.
 | `hellch.at` | No |
 | `hellchat.club` | No |
 | `hellcom.live` | No |
+| `helldivers.tv` | No |
 | `hellholesys.gay` | Yes |
 | `hellholesys.tk` | No |
 | `hellhound.cc` | Yes |
@@ -32557,7 +32558,7 @@ Here's a list of public Fediverse services.
 | `nekton.social` | No |
 | `nekusoul.de` | No |
 | `nekusuchan.net` | Yes |
-| `nel.sh` | Yes |
+| `nel.sh` | No |
 | `nelcomm.org` | No |
 | `nelinka.net` | No |
 | `nels.onl` | No |
@@ -40486,6 +40487,7 @@ Here's a list of public Fediverse services.
 | `roznotech.xyz` | No |
 | `rp-taki.com` | No |
 | `rpdev.net` | No |
+| `rpgdesign.quest` | Yes |
 | `rpgmaker.cafe` | No |
 | `rpgplanet.de` | No |
 | `rpgradio.me` | No |
@@ -53925,7 +53927,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,526 |
-| Normal | 38,350 |
+| Normal | 38,352 |
 
 
 </details>
