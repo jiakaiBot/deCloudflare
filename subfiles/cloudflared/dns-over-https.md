@@ -25,7 +25,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | adrianlam.com | Yes |
 | ahadns.net | Yes |
 | ahmgam.com | Yes |
-| amlegion.org | No |
 | andrewnw.xyz | Yes |
 | anudeep.me | Yes |
 | apad.pro | Yes |
@@ -198,7 +197,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | seby.io | Yes |
 | serdcebolit.ru | No |
 | server.my.id | No |
-| shalenkov.cc | Yes |
 | shoupperuser.com | Yes |
 | shutgaming.net | Yes |
 | silen.org | Yes |
@@ -253,8 +251,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 123 |
-| Normal | 111 |
+| Cloudflare | 122 |
+| Normal | 110 |
 
 
 ### 52.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
