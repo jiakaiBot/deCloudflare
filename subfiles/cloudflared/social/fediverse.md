@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,513 |
 | social | 4,875 |
-| net | 4,192 |
+| net | 4,193 |
 | org | 2,787 |
 | de | 2,702 |
 
@@ -42072,6 +42072,7 @@ Here's a list of public Fediverse services.
 | `sengeis.priv.at` | No |
 | `sengenzakura.com` | Yes |
 | `senggol.in` | No |
+| `sengis.net` | No |
 | `sengotta.net` | No |
 | `senigallia.one` | Yes |
 | `senil888.com` | No |
@@ -44477,6 +44478,7 @@ Here's a list of public Fediverse services.
 | `starcitizen.social` | No |
 | `stardenver.de` | Yes |
 | `stardenver.eu` | No |
+| `stardenver.online` | No |
 | `stardenver.social` | No |
 | `stardew.city` | No |
 | `stardust.blog` | No |
@@ -53952,7 +53954,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,536 |
-| Normal | 38,367 |
+| Normal | 38,369 |
 
 
 </details>
