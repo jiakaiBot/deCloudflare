@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,508 |
+| com | 8,509 |
 | social | 4,875 |
 | net | 4,189 |
 | org | 2,787 |
@@ -40267,6 +40267,7 @@ Here's a list of public Fediverse services.
 | `rogersfam.co` | Yes |
 | `rogerzhang.com` | No |
 | `roggenkamp.social` | No |
+| `rograndom.com` | Yes |
 | `rogue-net.work` | No |
 | `rogue-scholar.social` | No |
 | `roguecorp.space` | Yes |
@@ -53926,7 +53927,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,526 |
+| Cloudflare | 15,527 |
 | Normal | 38,352 |
 
 
