@@ -14250,6 +14250,7 @@ Here's a list of public Fediverse services.
 | `factelves.com` | No |
 | `factland.social` | No |
 | `factline.org` | Yes |
+| `factoria.lu` | Yes |
 | `factorial.io` | No |
 | `factourism.com` | No |
 | `factsonthegroundshow.com` | No |
@@ -47451,6 +47452,7 @@ Here's a list of public Fediverse services.
 | `tibus.com` | Yes |
 | `tibus.social` | Yes |
 | `tic-ac.org` | No |
+| `ticketzon.it` | No |
 | `ticos.social` | No |
 | `tictech.info` | No |
 | `tictoc.social` | No |
@@ -53933,8 +53935,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,527 |
-| Normal | 38,358 |
+| Cloudflare | 15,528 |
+| Normal | 38,359 |
 
 
 </details>
