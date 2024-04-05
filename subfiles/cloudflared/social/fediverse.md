@@ -15832,6 +15832,7 @@ Here's a list of public Fediverse services.
 | `forum.fail` | No |
 | `forumanalogue.fr` | No |
 | `forummuenchen.org` | No |
+| `forums.cafe` | No |
 | `foruq.ir` | No |
 | `forwriter.homes` | Yes |
 | `forza7.jp` | No |
@@ -46516,6 +46517,7 @@ Here's a list of public Fediverse services.
 | `terror.black` | No |
 | `terrorbit.co.uk` | No |
 | `terryiscool160.xyz` | Yes |
+| `terrylaire.fr` | No |
 | `terryx.com` | Yes |
 | `tertech.de` | No |
 | `terusid.com` | No |
@@ -49153,7 +49155,7 @@ Here's a list of public Fediverse services.
 | `typingcode.net` | No |
 | `typlus.net` | No |
 | `typo.cx` | No |
-| `typo.science` | Yes |
+| `typo.science` | No |
 | `typo.social` | No |
 | `typo3.social` | No |
 | `typodon.com` | No |
@@ -53949,8 +53951,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,537 |
-| Normal | 38,364 |
+| Cloudflare | 15,536 |
+| Normal | 38,367 |
 
 
 </details>
