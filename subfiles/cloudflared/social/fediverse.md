@@ -14361,6 +14361,7 @@ Here's a list of public Fediverse services.
 | `fam.cx` | No |
 | `famd.org` | No |
 | `famfam.us` | No |
+| `famfo.xyz` | Yes |
 | `fami.ga` | No |
 | `famichiki.com` | No |
 | `famichiki.jp` | Yes |
@@ -22983,6 +22984,7 @@ Here's a list of public Fediverse services.
 | `jpnatu.net` | Yes |
 | `jpnearl.com` | No |
 | `jpnews.site` | No |
+| `jpoehnelt.dev` | Yes |
 | `jpop.club` | No |
 | `jpop.space` | No |
 | `jpreardon.com` | No |
@@ -53947,7 +53949,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,535 |
+| Cloudflare | 15,537 |
 | Normal | 38,364 |
 
 
