@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: MD5 hashing failed. Connection refused for URI](https://github.com/TechnicPack/TechnicSolder/issues/720)
 - [Emails to multiple mailboxes is not always copied to all mailboxes](https://github.com/freescout-helpdesk/freescout/issues/3941)
 - [ChatGPT4Online doesn't see undetected_chromedriver and platformdirs](https://github.com/xtekky/gpt4free/issues/1785)
 - [Multiple domains and access via IP address](https://github.com/HeyPuter/puter/issues/230)
