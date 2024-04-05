@@ -153,7 +153,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | node15.com | Yes |
 | noridev.moe | No |
 | npsolution.it | No |
-| ns1net.com | No |
 | ofdoom.net | Yes |
 | omada.cafe | Yes |
 | openbld.net | No |
@@ -166,7 +165,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pccoach.nl | Yes |
 | persiannit.net | Yes |
 | pietjacobs.be | No |
-| pmoebi.xyz | No |
 | pooblet.co.za | Yes |
 | pragmasec.nl | No |
 | puregeni.us | No |
@@ -190,7 +188,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sarilouis.com | No |
 | sc-lezhi.com | No |
 | schlagheck.berlin | Yes |
-| scuola.org | No |
 | seby.io | Yes |
 | serdcebolit.ru | No |
 | server.my.id | No |
@@ -212,7 +209,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sunnygyl.com | No |
 | superstefan.win | Yes |
 | syshero.org | No |
-| szyrzyk.pl | No |
 | t53.de | No |
 | technicule.info | Yes |
 | telekom.de | Yes |
@@ -247,7 +243,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 119 |
-| Normal | 108 |
+| Normal | 104 |
 
 
-### 52.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
