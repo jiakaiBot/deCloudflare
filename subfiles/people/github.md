@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Emails to multiple mailboxes is not always copied to all mailboxes](https://github.com/freescout-helpdesk/freescout/issues/3941)
 - [ChatGPT4Online doesn't see undetected_chromedriver and platformdirs](https://github.com/xtekky/gpt4free/issues/1785)
 - [Multiple domains and access via IP address](https://github.com/HeyPuter/puter/issues/230)
 - [Weird stuttering and generally low quality when using with Cloudflare Calls](https://github.com/react-native-webrtc/react-native-webrtc/issues/1536)
