@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,508 |
 | social | 4,875 |
-| net | 4,188 |
+| net | 4,189 |
 | org | 2,787 |
 | de | 2,702 |
 
@@ -802,7 +802,7 @@ Here's a list of public Fediverse services.
 | `8086.org` | Yes |
 | `80chars.io` | No |
 | `80o.xyz` | No |
-| `80percent.social` | Yes |
+| `80percent.social` | No |
 | `80px.com` | Yes |
 | `80px.online` | No |
 | `818.gallery` | No |
@@ -10456,7 +10456,7 @@ Here's a list of public Fediverse services.
 | `datashax.com` | No |
 | `datastory.cz` | Yes |
 | `dataterm.digital` | No |
-| `datatiede.org` | Yes |
+| `datatiede.org` | No |
 | `datawizards.net` | Yes |
 | `datazone.social` | No |
 | `datboi.network` | No |
@@ -10790,7 +10790,7 @@ Here's a list of public Fediverse services.
 | `deepspace.gay` | Yes |
 | `deepspace.social` | No |
 | `deepspacerose.garden` | No |
-| `deepthot.org` | No |
+| `deepthot.org` | Yes |
 | `deepthought.social` | No |
 | `deepthunder.co.uk` | Yes |
 | `deepweb.eu` | No |
@@ -36358,7 +36358,7 @@ Here's a list of public Fediverse services.
 | `perorin.jp` | No |
 | `perriot.fr` | No |
 | `perron-service.de` | No |
-| `perron-tube.de` | Yes |
+| `perron-tube.de` | No |
 | `perron.live` | Yes |
 | `perry.cool` | No |
 | `persadon.com` | No |
@@ -52897,6 +52897,7 @@ Here's a list of public Fediverse services.
 | `yarmo.live` | No |
 | `yarnspinner.dev` | Yes |
 | `yarr.io` | No |
+| `yarrie.net` | No |
 | `yarrum.dev` | No |
 | `yart.me` | Yes |
 | `yaru.club` | No |
@@ -53923,8 +53924,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,528 |
-| Normal | 38,347 |
+| Cloudflare | 15,526 |
+| Normal | 38,350 |
 
 
 </details>
