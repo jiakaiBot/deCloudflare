@@ -15657,7 +15657,7 @@ Here's a list of public Fediverse services.
 | `fmhy.ml` | Yes |
 | `fmhy.net` | Yes |
 | `fmind.me` | No |
-| `fmty.cloud` | Yes |
+| `fmty.cloud` | No |
 | `fmvilas.me` | No |
 | `fnaf.stream` | Yes |
 | `fnando.com` | No |
@@ -17471,7 +17471,7 @@ Here's a list of public Fediverse services.
 | `ggrks.moe` | Yes |
 | `ggtea.org` | No |
 | `ggtm.eu` | No |
-| `ggwp.social` | Yes |
+| `ggwp.social` | No |
 | `ggwq.ml` | No |
 | `gh0st.live` | No |
 | `ghastr.com` | No |
@@ -50555,6 +50555,7 @@ Here's a list of public Fediverse services.
 | `vjunity.tk` | No |
 | `vk4msl.com` | No |
 | `vk5fj.net` | No |
+| `vkc.sh` | No |
 | `vkdn.jp` | No |
 | `vkfksdmltl.co` | No |
 | `vkl.world` | No |
@@ -53928,8 +53929,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,529 |
-| Normal | 38,351 |
+| Cloudflare | 15,527 |
+| Normal | 38,354 |
 
 
 </details>
