@@ -226,7 +226,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | umbrella.com | Yes |
 | unstoppable.io | Yes |
 | unx.io | No |
-| vape.ong | Yes |
 | virga.pp.ua | Yes |
 | vtcuong.site | Yes |
 | wahr.top | Yes |
@@ -242,8 +241,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 119 |
+| Cloudflare | 118 |
 | Normal | 104 |
 
 
-### 53.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
