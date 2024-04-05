@@ -24,7 +24,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
 | ahadns.net | Yes |
-| ahmgam.com | Yes |
 | andrewnw.xyz | Yes |
 | anudeep.me | Yes |
 | apad.pro | Yes |
@@ -160,12 +159,10 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | openbld.net | No |
 | opendns.com | Yes |
 | oszx.co | No |
-| ours.luxe | No |
 | paesa.es | Yes |
 | panszelescik.pl | Yes |
 | pathofgrace.com | No |
 | paulo.nom.za | Yes |
-| paxavemedia.com | Yes |
 | pccoach.nl | Yes |
 | persiannit.net | Yes |
 | pietjacobs.be | No |
@@ -215,7 +212,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sunnygyl.com | No |
 | superstefan.win | Yes |
 | syshero.org | No |
-| systemfall.ru | Yes |
 | szyrzyk.pl | No |
 | t53.de | No |
 | technicule.info | Yes |
@@ -226,7 +222,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tiarap.org | Yes |
 | tigrons.ru | No |
 | tls-data.de | No |
-| trovs.ru | No |
 | truta.org | No |
 | tryk.app | Yes |
 | tu-bs.de | No |
@@ -251,8 +246,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 122 |
-| Normal | 110 |
+| Cloudflare | 119 |
+| Normal | 108 |
 
 
-### 52.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
