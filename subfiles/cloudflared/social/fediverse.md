@@ -20357,6 +20357,7 @@ Here's a list of public Fediverse services.
 | `hugovr.dev` | Yes |
 | `hugs.lgbt` | No |
 | `hugsandtoots.club` | No |
+| `hugz.online` | No |
 | `huideyeren.info` | No |
 | `huijiren.com` | No |
 | `huimao.xyz` | Yes |
@@ -53947,7 +53948,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,535 |
-| Normal | 38,363 |
+| Normal | 38,364 |
 
 
 </details>
