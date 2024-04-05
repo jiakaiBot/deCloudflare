@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,509 |
 | social | 4,875 |
-| net | 4,190 |
+| net | 4,191 |
 | org | 2,787 |
 | de | 2,702 |
 
@@ -51444,7 +51444,7 @@ Here's a list of public Fediverse services.
 | `wesl.ee` | No |
 | `wesleyac.com` | No |
 | `wesnoth.org` | No |
-| `wespol.org` | Yes |
+| `wespol.org` | No |
 | `west.family` | Yes |
 | `westbrit.ie` | No |
 | `westbrook.social` | Yes |
@@ -52685,6 +52685,7 @@ Here's a list of public Fediverse services.
 | `xo.se` | No |
 | `xoddark.com` | No |
 | `xoddiel.net` | No |
+| `xodium.net` | No |
 | `xol.app` | Yes |
 | `xoldie.com` | No |
 | `xoldie.xyz` | No |
@@ -53929,8 +53930,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,527 |
-| Normal | 38,354 |
+| Cloudflare | 15,526 |
+| Normal | 38,356 |
 
 
 </details>
