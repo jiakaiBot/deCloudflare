@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,509 |
 | social | 4,875 |
-| net | 4,189 |
+| net | 4,190 |
 | org | 2,787 |
 | de | 2,702 |
 
@@ -9191,6 +9191,7 @@ Here's a list of public Fediverse services.
 | `cozynest.online` | No |
 | `cozysumo.space` | Yes |
 | `cozytronics.com` | No |
+| `cpafisud.net` | Yes |
 | `cphoelzchen.de` | No |
 | `cplong.org` | Yes |
 | `cplus.app` | Yes |
@@ -22781,7 +22782,7 @@ Here's a list of public Fediverse services.
 | `jointakahe.org` | Yes |
 | `jojess.net` | No |
 | `joji-ani.me` | Yes |
-| `jokertv.eu` | No |
+| `jokertv.eu` | Yes |
 | `joki.de` | No |
 | `jokiller230.tk` | Yes |
 | `jokin.fi` | No |
@@ -53927,8 +53928,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,527 |
-| Normal | 38,352 |
+| Cloudflare | 15,529 |
+| Normal | 38,351 |
 
 
 </details>
