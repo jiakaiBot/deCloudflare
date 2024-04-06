@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,513 |
 | social | 4,875 |
 | net | 4,193 |
-| org | 2,788 |
+| org | 2,789 |
 | de | 2,702 |
 
 
@@ -24334,6 +24334,7 @@ Here's a list of public Fediverse services.
 | `kl1pp3l.de` | No |
 | `klaaspier.nl` | No |
 | `klacker.net` | No |
+| `klacker.org` | No |
 | `klaewyss.fr` | No |
 | `klageweib.de` | No |
 | `klaki.net` | No |
@@ -53957,7 +53958,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,531 |
-| Normal | 38,377 |
+| Normal | 38,378 |
 
 
 </details>
