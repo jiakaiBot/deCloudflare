@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,513 |
+| com | 8,514 |
 | social | 4,875 |
 | net | 4,193 |
 | org | 2,791 |
@@ -39215,6 +39215,7 @@ Here's a list of public Fediverse services.
 | `rayci.st` | No |
 | `raygoon.tk` | No |
 | `raygungothic.xyz` | No |
+| `rayjc.com` | No |
 | `raykoworld.com` | No |
 | `raymondtec.com` | No |
 | `rayn.bo` | No |
@@ -51480,7 +51481,7 @@ Here's a list of public Fediverse services.
 | `wespol.org` | No |
 | `west.family` | Yes |
 | `westbrit.ie` | No |
-| `westbrook.social` | Yes |
+| `westbrook.social` | No |
 | `westchat.de` | No |
 | `westcoastplay.fun` | No |
 | `westen.social` | No |
@@ -53966,8 +53967,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,533 |
-| Normal | 38,385 |
+| Cloudflare | 15,532 |
+| Normal | 38,387 |
 
 
 </details>
