@@ -213,7 +213,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | technicule.info | Yes |
 | telekom.de | Yes |
 | thebuckners.org | No |
-| thetcs.eu.org | No |
 | tiar.app | No |
 | tiarap.org | Yes |
 | tigrons.ru | No |
@@ -242,7 +241,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 118 |
-| Normal | 104 |
+| Normal | 103 |
 
 
-### 53.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
