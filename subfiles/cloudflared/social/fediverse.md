@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 8,514 |
 | social | 4,875 |
 | net | 4,193 |
-| org | 2,791 |
-| de | 2,702 |
+| org | 2,792 |
+| de | 2,703 |
 
 
 - Mastodon, Pleroma, etc
@@ -9008,6 +9008,7 @@ Here's a list of public Fediverse services.
 | `coplus.social` | No |
 | `coppelab.net` | No |
 | `copperhead.cloud` | No |
+| `copyliu.org` | Yes |
 | `copyriot.xyz` | No |
 | `coq.social` | No |
 | `coqui.social` | No |
@@ -29363,6 +29364,7 @@ Here's a list of public Fediverse services.
 | `meis.space` | No |
 | `meissa-gmbh.de` | No |
 | `meissa.cf` | No |
+| `meissa.de` | No |
 | `meisskey.blue` | Yes |
 | `meisskey.one` | Yes |
 | `meissners.me` | No |
@@ -53967,8 +53969,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,532 |
-| Normal | 38,387 |
+| Cloudflare | 15,533 |
+| Normal | 38,388 |
 
 
 </details>
