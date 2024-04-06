@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,513 |
 | social | 4,875 |
 | net | 4,193 |
-| org | 2,790 |
+| org | 2,791 |
 | de | 2,702 |
 
 
@@ -14614,7 +14614,7 @@ Here's a list of public Fediverse services.
 | `federaatio.net` | No |
 | `federado.es` | No |
 | `federarks.xyz` | No |
-| `federatable.com` | Yes |
+| `federatable.com` | No |
 | `federate.cc` | Yes |
 | `federate.lol` | Yes |
 | `federate.me.uk` | No |
@@ -14846,7 +14846,7 @@ Here's a list of public Fediverse services.
 | `fedistat.com` | No |
 | `fedit.io` | No |
 | `fedit.pl` | Yes |
-| `feditalk.com` | No |
+| `feditalk.com` | Yes |
 | `fedithese.fr` | Yes |
 | `fedithese.net` | No |
 | `feditime.com` | No |
@@ -16328,6 +16328,7 @@ Here's a list of public Fediverse services.
 | `frinsocial.uk` | Yes |
 | `frinx.online` | No |
 | `frischesicht.de` | No |
+| `frish.org` | Yes |
 | `friskypaws.social` | Yes |
 | `friskywhiskersfiction.online` | No |
 | `frith.dev` | Yes |
@@ -18460,6 +18461,7 @@ Here's a list of public Fediverse services.
 | `grumble.social` | No |
 | `grumbles.org` | No |
 | `grumbulon.xyz` | No |
+| `grumpfff.info` | No |
 | `grumpy.world` | No |
 | `grumpyoldme.de` | No |
 | `grumpyoldtechie.com` | Yes |
@@ -20260,6 +20262,7 @@ Here's a list of public Fediverse services.
 | `hrmk.uk` | Yes |
 | `hrmtc.com` | Yes |
 | `hrmtc.io` | Yes |
+| `hrn.one` | No |
 | `hrnmtech.de` | No |
 | `hroy.eu` | No |
 | `hrsm.jp` | No |
@@ -26576,6 +26579,7 @@ Here's a list of public Fediverse services.
 | `littleroom.io` | No |
 | `littletheorem.com` | Yes |
 | `littletimemachine.com` | Yes |
+| `littletrips.me` | No |
 | `littleturnip.net` | Yes |
 | `littr.me` | Yes |
 | `litu.at` | No |
@@ -48237,6 +48241,7 @@ Here's a list of public Fediverse services.
 | `totepoi.com` | No |
 | `totheclouds.io` | No |
 | `tothepeople.eu` | No |
+| `toti.is` | No |
 | `totmin.ru` | No |
 | `totodile.net` | No |
 | `totoot.social` | No |
@@ -53961,8 +53966,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,532 |
-| Normal | 38,381 |
+| Cloudflare | 15,533 |
+| Normal | 38,385 |
 
 
 </details>
