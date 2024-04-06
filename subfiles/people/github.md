@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [response.headers.getSetCookie is not a function or its return value is not iterable](https://github.com/skymethod/denoflare/issues/74)
 - [sst init fails on js-cloudflare template](https://github.com/sst/ion/issues/190)
 - [WARP Plus is Blocked.](https://github.com/gjbae1212/hit-counter/issues/45)
 - [eget can't get correct filename from some CloudFlare mirror](https://github.com/Etersoft/eget/issues/1)
