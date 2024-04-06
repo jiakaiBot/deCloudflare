@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,513 |
 | social | 4,875 |
 | net | 4,193 |
-| org | 2,787 |
+| org | 2,788 |
 | de | 2,702 |
 
 
@@ -22792,7 +22792,7 @@ Here's a list of public Fediverse services.
 | `joji-ani.me` | Yes |
 | `jokertv.eu` | Yes |
 | `joki.de` | No |
-| `jokiller230.tk` | Yes |
+| `jokiller230.tk` | No |
 | `jokin.fi` | No |
 | `jokke.space` | No |
 | `jolheiser.com` | No |
@@ -36260,6 +36260,7 @@ Here's a list of public Fediverse services.
 | `pegg.net` | Yes |
 | `peggyheinkelwolfe.com` | No |
 | `pehnet.org` | No |
+| `peister.org` | No |
 | `peixe.co` | Yes |
 | `pejookaloo.com` | No |
 | `pejookaloo.social` | Yes |
@@ -53955,8 +53956,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,532 |
-| Normal | 38,375 |
+| Cloudflare | 15,531 |
+| Normal | 38,377 |
 
 
 </details>
