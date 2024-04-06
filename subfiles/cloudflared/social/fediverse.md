@@ -19929,7 +19929,7 @@ Here's a list of public Fediverse services.
 | `hoi.st` | No |
 | `hoijyun.com` | No |
 | `hokai.lol` | Yes |
-| `hoki.social` | Yes |
+| `hoki.social` | No |
 | `hokkaidoskey.com` | Yes |
 | `hokkaidosm.net` | No |
 | `hokuto.social` | No |
@@ -30687,7 +30687,6 @@ Here's a list of public Fediverse services.
 | `moewa.social` | No |
 | `moeyuki.works` | Yes |
 | `moeyy.cn` | Yes |
-| `moezx.cc` | Yes |
 | `mofgao.space` | No |
 | `mofmof.coffee` | No |
 | `mofu.one` | No |
@@ -53971,8 +53970,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,534 |
-| Normal | 38,389 |
+| Cloudflare | 15,532 |
+| Normal | 38,390 |
 
 
 </details>
