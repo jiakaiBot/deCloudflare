@@ -20046,6 +20046,7 @@ Here's a list of public Fediverse services.
 | `honk.best` | No |
 | `honk.city` | Yes |
 | `honk.farm` | Yes |
+| `honk.moe` | No |
 | `honking.online` | Yes |
 | `honks.io` | No |
 | `honksybonksy.com` | No |
@@ -28368,10 +28369,10 @@ Here's a list of public Fediverse services.
 | `mastodaix.de` | No |
 | `mastoden.com` | Yes |
 | `mastodev.net` | No |
-| `mastodimation.art` | Yes |
+| `mastodimation.art` | No |
 | `mastodn.eu.org` | Yes |
 | `mastodn.lol` | No |
-| `mastodn.social` | Yes |
+| `mastodn.social` | No |
 | `mastodns.net` | No |
 | `mastodo.fi` | No |
 | `mastodo.it` | No |
@@ -28403,7 +28404,7 @@ Here's a list of public Fediverse services.
 | `mastodon-nagano.info` | No |
 | `mastodon-network.com` | No |
 | `mastodon-nieuwspaal.nl` | Yes |
-| `mastodon-nrw.de` | Yes |
+| `mastodon-nrw.de` | No |
 | `mastodon-omoshiro.com` | No |
 | `mastodon-qu.net` | Yes |
 | `mastodon-robamimi.club` | No |
@@ -44595,7 +44596,7 @@ Here's a list of public Fediverse services.
 | `stealingyour.info` | No |
 | `stealthy.club` | No |
 | `steam-don.fun` | Yes |
-| `steamedbread.pro` | No |
+| `steamedbread.pro` | Yes |
 | `steamedfish.org` | Yes |
 | `steampunk.social` | Yes |
 | `steamstdn.com` | No |
@@ -45379,7 +45380,7 @@ Here's a list of public Fediverse services.
 | `svasta.net` | Yes |
 | `sveafur.se` | Yes |
 | `sveken.au` | Yes |
-| `svelte.gay` | Yes |
+| `svelte.gay` | No |
 | `sven-joerns.de` | No |
 | `svenbrier.de` | No |
 | `svenbrier.eu` | No |
@@ -53953,8 +53954,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,536 |
-| Normal | 38,369 |
+| Cloudflare | 15,533 |
+| Normal | 38,373 |
 
 
 </details>
