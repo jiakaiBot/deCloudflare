@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,514 |
 | social | 4,875 |
 | net | 4,193 |
-| org | 2,792 |
+| org | 2,793 |
 | de | 2,703 |
 
 
@@ -32372,6 +32372,7 @@ Here's a list of public Fediverse services.
 | `navinot.com` | No |
 | `navisocial.club` | No |
 | `navistream.tv` | No |
+| `naxdy.org` | No |
 | `nay.moe` | No |
 | `nayab.dev` | Yes |
 | `nayukana.info` | No |
@@ -35723,7 +35724,7 @@ Here's a list of public Fediverse services.
 | `pad23.com` | No |
 | `pad53.com` | No |
 | `padayon.net` | No |
-| `paddlefish.net` | No |
+| `paddlefish.net` | Yes |
 | `paddys.pub` | No |
 | `paderborn.social` | No |
 | `padovelli.com` | No |
@@ -39956,6 +39957,7 @@ Here's a list of public Fediverse services.
 | `ricorda.social` | No |
 | `ricostrongxxx.com` | Yes |
 | `ridernet.org` | No |
+| `ridesbik.es` | No |
 | `ridesskey.net` | Yes |
 | `ridetrans.it` | Yes |
 | `ridgebacks.social` | No |
@@ -53969,8 +53971,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,533 |
-| Normal | 38,388 |
+| Cloudflare | 15,534 |
+| Normal | 38,389 |
 
 
 </details>
