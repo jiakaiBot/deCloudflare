@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,513 |
 | social | 4,875 |
 | net | 4,193 |
-| org | 2,789 |
+| org | 2,790 |
 | de | 2,702 |
 
 
@@ -21864,6 +21864,7 @@ Here's a list of public Fediverse services.
 | `itslaura.eu` | No |
 | `itslit.bet` | Yes |
 | `itsme.lgbt` | No |
+| `itsmeow.cat` | Yes |
 | `itsmf.online` | No |
 | `itsmy.app` | Yes |
 | `itsmy.social` | Yes |
@@ -28260,7 +28261,7 @@ Here's a list of public Fediverse services.
 | `mastdc.com` | No |
 | `mastdn.ca` | Yes |
 | `mastdn.com` | No |
-| `mastdn.io` | No |
+| `mastdn.io` | Yes |
 | `mastdn.jp` | No |
 | `mastdn.net` | No |
 | `mastdn.social` | No |
@@ -32488,6 +32489,7 @@ Here's a list of public Fediverse services.
 | `neg9.org` | Yes |
 | `negative.social` | No |
 | `negativezero.link` | No |
+| `negeri.org` | Yes |
 | `negino.social` | Yes |
 | `negitoro.dev` | Yes |
 | `negset.com` | Yes |
@@ -39633,6 +39635,7 @@ Here's a list of public Fediverse services.
 | `renekey.jp` | Yes |
 | `renekey.net` | Yes |
 | `renem.net` | Yes |
+| `reneo.io` | No |
 | `renes-welt.de` | No |
 | `renesat.me` | No |
 | `renewablereads.com` | No |
@@ -43255,7 +43258,7 @@ Here's a list of public Fediverse services.
 | `slug.it` | Yes |
 | `sluga.xyz` | No |
 | `slugcapital.net` | No |
-| `slum.cloud` | Yes |
+| `slum.cloud` | No |
 | `slumpedoverkeyboarddead.com` | Yes |
 | `slurf.net` | Yes |
 | `slurfdier.nl` | No |
@@ -46264,7 +46267,7 @@ Here's a list of public Fediverse services.
 | `technomage.net` | No |
 | `technomancy.space` | No |
 | `technomancy.us` | No |
-| `technomystics.com` | Yes |
+| `technomystics.com` | No |
 | `technopagans.de` | No |
 | `technophobian.xyz` | No |
 | `technopolitic.social` | No |
@@ -53734,6 +53737,7 @@ Here's a list of public Fediverse services.
 | `zlendy.com` | Yes |
 | `zlg.space` | No |
 | `zlhub.xyz` | No |
+| `zlinux.ru` | No |
 | `zlma.org` | No |
 | `zlop.de` | No |
 | `zlucplayz.com` | Yes |
@@ -53957,8 +53961,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,531 |
-| Normal | 38,378 |
+| Cloudflare | 15,532 |
+| Normal | 38,381 |
 
 
 </details>
