@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [sst init fails on js-cloudflare template](https://github.com/sst/ion/issues/190)
 - [WARP Plus is Blocked.](https://github.com/gjbae1212/hit-counter/issues/45)
 - [eget can't get correct filename from some CloudFlare mirror](https://github.com/Etersoft/eget/issues/1)
 - [CloudFlare Elevated Workers 1105 Errors](https://github.com/SecOpsNews/news/issues/26937)
