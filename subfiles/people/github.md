@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [WARP Plus is Blocked.](https://github.com/gjbae1212/hit-counter/issues/45)
+- [eget can't get correct filename from some CloudFlare mirror](https://github.com/Etersoft/eget/issues/1)
 - [CloudFlare Elevated Workers 1105 Errors](https://github.com/SecOpsNews/news/issues/26937)
 - [Error: MD5 hashing failed. Connection refused for URI](https://github.com/TechnicPack/TechnicSolder/issues/720)
 - [Emails to multiple mailboxes is not always copied to all mailboxes](https://github.com/freescout-helpdesk/freescout/issues/3941)
