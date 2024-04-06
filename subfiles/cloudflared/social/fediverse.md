@@ -224,7 +224,7 @@ Here's a list of public Fediverse services.
 | `10don.xyz` | No |
 | `10hoch-6.de` | No |
 | `10leej.com` | No |
-| `10mb.at` | Yes |
+| `10mb.at` | No |
 | `10mb.social` | No |
 | `10minutepleroma.com` | No |
 | `10one.net` | No |
@@ -9774,7 +9774,7 @@ Here's a list of public Fediverse services.
 | `cutiepie.at` | No |
 | `cuties.cloud` | Yes |
 | `cuties.social` | No |
-| `cutieverse.social` | Yes |
+| `cutieverse.social` | No |
 | `cutievirus.com` | Yes |
 | `cutls.com` | Yes |
 | `cutls.dev` | No |
@@ -23363,6 +23363,7 @@ Here's a list of public Fediverse services.
 | `kaiser.wang` | No |
 | `kaiserflur.de` | No |
 | `kaiserslautern.chat` | No |
+| `kaiserslautern.events` | No |
 | `kaisin.cc` | Yes |
 | `kaitaia.life` | No |
 | `kaiteki.app` | No |
@@ -53585,7 +53586,7 @@ Here's a list of public Fediverse services.
 | `zenwillow.website` | No |
 | `zenzone.social` | Yes |
 | `zeonet.xyz` | No |
-| `zepa.org` | No |
+| `zepa.org` | Yes |
 | `zepfanman.com` | No |
 | `zepher.dev` | Yes |
 | `zephyr.place` | Yes |
@@ -53954,8 +53955,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,533 |
-| Normal | 38,373 |
+| Cloudflare | 15,532 |
+| Normal | 38,375 |
 
 
 </details>
