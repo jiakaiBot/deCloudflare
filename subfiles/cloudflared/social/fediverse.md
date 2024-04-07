@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,514 |
 | social | 4,875 |
-| net | 4,193 |
+| net | 4,194 |
 | org | 2,793 |
 | de | 2,703 |
 
@@ -430,7 +430,7 @@ Here's a list of public Fediverse services.
 | `2done.club` | Yes |
 | `2dx.red` | No |
 | `2enp.cc` | Yes |
-| `2enp.com` | No |
+| `2enp.com` | Yes |
 | `2heng.xin` | Yes |
 | `2hu-ch.org` | No |
 | `2hu.club` | No |
@@ -10051,7 +10051,7 @@ Here's a list of public Fediverse services.
 | `d3vi0us.com` | No |
 | `d3xx3r.de` | Yes |
 | `d4.social` | No |
-| `d49.link` | Yes |
+| `d49.link` | No |
 | `d4m.fr` | No |
 | `d5e.org` | No |
 | `d5o.eu` | No |
@@ -30787,7 +30787,7 @@ Here's a list of public Fediverse services.
 | `mond-basis.eu` | No |
 | `mondaykickoff.com` | Yes |
 | `mondoweiss.net` | Yes |
-| `mone.dev` | No |
+| `mone.dev` | Yes |
 | `monedalliure.org` | No |
 | `monero.house` | No |
 | `monero.im` | No |
@@ -38615,6 +38615,7 @@ Here's a list of public Fediverse services.
 | `quigs.blog` | Yes |
 | `quiltro.org` | No |
 | `quine.codes` | No |
+| `quiniou.net` | No |
 | `quinlan.cloud` | Yes |
 | `quinnter.net` | No |
 | `quinnwitz.house` | Yes |
@@ -41430,7 +41431,7 @@ Here's a list of public Fediverse services.
 | `scaringtheho.es` | No |
 | `scarlatti.de` | No |
 | `scarlet.house` | No |
-| `scarletheights.com` | No |
+| `scarletheights.com` | Yes |
 | `scarletsisters.xyz` | Yes |
 | `scarly.pink` | No |
 | `scarrott.uk` | No |
@@ -42103,7 +42104,7 @@ Here's a list of public Fediverse services.
 | `senpaisilver.com` | No |
 | `senryu.pub` | Yes |
 | `senselesswisdom.net` | No |
-| `senshoku.cc` | Yes |
+| `senshoku.cc` | No |
 | `sensibleowl.social` | Yes |
 | `sensin.eu` | No |
 | `sensor.community` | No |
@@ -43456,6 +43457,7 @@ Here's a list of public Fediverse services.
 | `snel.host` | No |
 | `snel.im` | No |
 | `snel.social` | No |
+| `snemeow.life` | Yes |
 | `snep.place` | No |
 | `snepi.space` | Yes |
 | `snet.blog` | No |
@@ -50806,7 +50808,7 @@ Here's a list of public Fediverse services.
 | `vries.dev` | Yes |
 | `vriezekolk.org` | No |
 | `vrifox.cc` | No |
-| `vrij.social` | Yes |
+| `vrij.social` | No |
 | `vrijbijmij.org` | No |
 | `vrije-mens.org` | No |
 | `vrilsoft.com` | No |
@@ -52264,7 +52266,7 @@ Here's a list of public Fediverse services.
 | `wubba.boo` | Yes |
 | `wubbel.social` | Yes |
 | `wubrg.social` | No |
-| `wuchencloud.de` | Yes |
+| `wuchencloud.de` | No |
 | `wud.me` | Yes |
 | `wue.social` | No |
 | `wuebbsy.com` | Yes |
@@ -53971,7 +53973,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,532 |
-| Normal | 38,390 |
+| Normal | 38,392 |
 
 
 </details>
