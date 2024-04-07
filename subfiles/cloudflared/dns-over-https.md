@@ -87,7 +87,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | familiamv.net | Yes |
 | fancyorg.at | No |
 | fdn.fr | No |
-| felipefalcao.ninja | Yes |
 | ffmuc.net | Yes |
 | flm9.net | No |
 | flylcc.cc | Yes |
@@ -153,7 +152,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | noridev.moe | No |
 | npsolution.it | No |
 | ofdoom.net | Yes |
-| omada.cafe | Yes |
 | openbld.net | No |
 | opendns.com | Yes |
 | oszx.co | No |
@@ -238,8 +236,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 118 |
+| Cloudflare | 116 |
 | Normal | 101 |
 
 
-### 53.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
