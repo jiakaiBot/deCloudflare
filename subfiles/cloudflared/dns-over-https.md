@@ -78,7 +78,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | domotik.us | Yes |
 | domyah.net | Yes |
 | dotnet.win | Yes |
-| dscloud.me | No |
 | dukun.de | No |
 | edgy-dns.com | No |
 | emiliyan.com | Yes |
@@ -241,7 +240,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 118 |
-| Normal | 103 |
+| Normal | 102 |
 
 
-### 53.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
