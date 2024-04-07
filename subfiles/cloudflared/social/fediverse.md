@@ -7455,6 +7455,7 @@ Here's a list of public Fediverse services.
 | `chagai.website` | No |
 | `chagratt.site` | No |
 | `chahut.social` | No |
+| `chai.guru` | No |
 | `chai.lat` | Yes |
 | `chai.wtf` | Yes |
 | `chainchat.eu` | No |
@@ -53992,7 +53993,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,534 |
-| Normal | 38,409 |
+| Normal | 38,410 |
 
 
 </details>
