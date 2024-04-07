@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [digitalocean_cdn custom domain certificate fails "invalid certificate issued by Cloudflare origin CA"](https://github.com/digitalocean/terraform-provider-digitalocean/issues/1135)
 - [Setup wizard not initializing](https://github.com/astrandb/miele/issues/463)
 - [Cloudflare: WebSocket connection to 'wss://{{trunk_address}}{{trunk_ws_base}}.well-known/trunk/ws' failed](https://github.com/trunk-rs/trunk/issues/762)
 - [Wrong Content-Type for some JSON responses like 404's](https://github.com/matrix-org/dendrite/issues/3354)
