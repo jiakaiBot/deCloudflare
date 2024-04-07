@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare: WebSocket connection to 'wss://{{trunk_address}}{{trunk_ws_base}}.well-known/trunk/ws' failed](https://github.com/trunk-rs/trunk/issues/762)
 - [Wrong Content-Type for some JSON responses like 404's](https://github.com/matrix-org/dendrite/issues/3354)
 - [cloudflare protection issues](https://github.com/dipu-bd/lightnovel-crawler/issues/2326)
 - [createCollection - invalid 'Content-Type'](https://github.com/rarible/sdk/issues/613)
