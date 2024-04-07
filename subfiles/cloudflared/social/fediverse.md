@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,514 |
+| com | 8,515 |
 | social | 4,875 |
 | net | 4,194 |
 | org | 2,793 |
@@ -8626,6 +8626,7 @@ Here's a list of public Fediverse services.
 | `colinramsay.co.uk` | Yes |
 | `colinschlueter.com` | No |
 | `colivre.net` | No |
+| `collabfc.com` | Yes |
 | `collabora.digital` | No |
 | `collado.eu` | Yes |
 | `collantes.social` | Yes |
@@ -20559,7 +20560,7 @@ Here's a list of public Fediverse services.
 | `i-am.nexus` | No |
 | `i-davis.co.uk` | No |
 | `i-fromjapan.com` | No |
-| `i-i.im` | No |
+| `i-i.im` | Yes |
 | `i-kaohsiung.com` | No |
 | `i-netz.ch` | No |
 | `i-nonaka.net` | No |
@@ -25143,6 +25144,7 @@ Here's a list of public Fediverse services.
 | `kyun.host` | Yes |
 | `kyunkyun.moe` | No |
 | `kyushojitsu.ca` | Yes |
+| `kyuuri.dev` | Yes |
 | `kyzune.com` | Yes |
 | `kzfk.win` | Yes |
 | `kzhub.cc` | No |
@@ -53741,6 +53743,7 @@ Here's a list of public Fediverse services.
 | `zkm.social` | No |
 | `zknt.org` | No |
 | `zkolar.xyz` | No |
+| `zky.party` | No |
 | `zlatex.club` | Yes |
 | `zlatiah-no.one` | No |
 | `zlatko.dev` | No |
@@ -53972,7 +53975,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,532 |
+| Cloudflare | 15,535 |
 | Normal | 38,392 |
 
 
