@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,517 |
 | social | 4,877 |
 | net | 4,194 |
-| org | 2,793 |
+| org | 2,795 |
 | de | 2,705 |
 
 
@@ -21099,7 +21099,7 @@ Here's a list of public Fediverse services.
 | `incidentally.social` | Yes |
 | `incipientjoy.com` | Yes |
 | `incitter.online` | No |
-| `incitter.vip` | Yes |
+| `incitter.vip` | No |
 | `inclementaviary.uk` | Yes |
 | `inclunet.com.br` | No |
 | `inclusion.cc` | No |
@@ -27828,6 +27828,7 @@ Here's a list of public Fediverse services.
 | `malfunctioning.technology` | No |
 | `malgranda.net` | No |
 | `maliach.fr` | No |
+| `malison.org` | No |
 | `maliweb.at` | Yes |
 | `maljaars.net` | No |
 | `maljaarsenzo.nl` | No |
@@ -27917,6 +27918,7 @@ Here's a list of public Fediverse services.
 | `mangadon.biz` | No |
 | `mangadon.info` | No |
 | `mangadon.net` | No |
+| `manganiello.blog` | No |
 | `manganiello.social` | No |
 | `manganiello.tech` | No |
 | `mangayoh.fr` | No |
@@ -34105,8 +34107,8 @@ Here's a list of public Fediverse services.
 | `nullable.space` | Yes |
 | `nullafati.xyz` | Yes |
 | `nullagilab.com` | Yes |
-| `nullc.at` | Yes |
-| `nullcat.moe` | Yes |
+| `nullc.at` | No |
+| `nullcat.moe` | No |
 | `nulled.llc` | Yes |
 | `nulled.network` | Yes |
 | `nulled.pink` | Yes |
@@ -47842,6 +47844,7 @@ Here's a list of public Fediverse services.
 | `tofulab.jp` | No |
 | `tog.scot` | No |
 | `togart.de` | No |
+| `togblog.org` | No |
 | `togen.xyz` | No |
 | `togethr.party` | Yes |
 | `togl.me` | No |
@@ -52738,6 +52741,7 @@ Here's a list of public Fediverse services.
 | `xnor.work` | No |
 | `xnu.kr` | Yes |
 | `xo.se` | No |
+| `xo0.ch` | No |
 | `xoddark.com` | No |
 | `xoddiel.net` | No |
 | `xodium.net` | No |
@@ -53987,8 +53991,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,537 |
-| Normal | 38,402 |
+| Cloudflare | 15,534 |
+| Normal | 38,409 |
 
 
 </details>
