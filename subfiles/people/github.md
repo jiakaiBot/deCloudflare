@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cloudflare protection issues](https://github.com/dipu-bd/lightnovel-crawler/issues/2326)
 - [createCollection - invalid 'Content-Type'](https://github.com/rarible/sdk/issues/613)
 - [Grimoire API not reachable](https://github.com/goniszewski/grimoire/issues/85)
 - [Image uploads failing](https://github.com/asimons04/tesseract/issues/2)
