@@ -36699,6 +36699,7 @@ Here's a list of public Fediverse services.
 | `picandocodigo.net` | No |
 | `picasoft.net` | No |
 | `pichowsky.de` | No |
+| `pichuchen.tw` | No |
 | `pickey.net` | No |
 | `pickle.zone` | Yes |
 | `piclub.social` | No |
@@ -44242,6 +44243,7 @@ Here's a list of public Fediverse services.
 | `sponheimer.com` | No |
 | `spontaneouscapybara.party` | Yes |
 | `spook.social` | No |
+| `spook.tube` | No |
 | `spooks.boo` | Yes |
 | `spooks.cyou` | No |
 | `spookum.com` | Yes |
@@ -53977,7 +53979,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,535 |
-| Normal | 38,393 |
+| Normal | 38,395 |
 
 
 </details>
