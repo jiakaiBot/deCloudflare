@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,517 |
-| social | 4,876 |
+| social | 4,877 |
 | net | 4,194 |
 | org | 2,793 |
-| de | 2,704 |
+| de | 2,705 |
 
 
 - Mastodon, Pleroma, etc
@@ -3141,7 +3141,7 @@ Here's a list of public Fediverse services.
 | `arsaga.jp` | No |
 | `arsenalfc.social` | No |
 | `arsh79.me` | Yes |
-| `arslantu.xyz` | No |
+| `arslantu.xyz` | Yes |
 | `arso.xyz` | No |
 | `arsrobotics.org` | Yes |
 | `arss.io` | Yes |
@@ -4428,6 +4428,7 @@ Here's a list of public Fediverse services.
 | `bayofislands.community` | Yes |
 | `baz.bar` | No |
 | `baz.com` | No |
+| `bazaar.co` | Yes |
 | `bazbaze.com` | No |
 | `bazurk.com` | No |
 | `bazza.blog` | No |
@@ -20424,6 +20425,7 @@ Here's a list of public Fediverse services.
 | `huntsvillain.com` | No |
 | `huntsyea.xyz` | No |
 | `hupel.info` | No |
+| `hurby.news` | No |
 | `hurgen.com` | No |
 | `hurley.page` | No |
 | `huron.social` | No |
@@ -35982,6 +35984,7 @@ Here's a list of public Fediverse services.
 | `pasay.social` | No |
 | `pascal-leinert.de` | Yes |
 | `pascalworks.com` | No |
+| `paschelinos-poesie.de` | No |
 | `pasdo.com` | Yes |
 | `pasero.net` | No |
 | `pash.moe` | No |
@@ -42246,6 +42249,7 @@ Here's a list of public Fediverse services.
 | `sexpolitics.co.uk` | No |
 | `sexpositivnet.com` | No |
 | `sexton-family.uk` | No |
+| `sexworkers.social` | Yes |
 | `sexworkisrealwork.quest` | No |
 | `sexyferret.science` | No |
 | `sexyspygirls.com` | No |
@@ -53983,8 +53987,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,534 |
-| Normal | 38,401 |
+| Cloudflare | 15,537 |
+| Normal | 38,402 |
 
 
 </details>
