@@ -25269,7 +25269,7 @@ Here's a list of public Fediverse services.
 | `lafroscia.com` | No |
 | `lag.cx` | Yes |
 | `lag.tf` | Yes |
-| `lagdecolors.cat` | Yes |
+| `lagdecolors.cat` | No |
 | `lagg-ev.de` | No |
 | `lagob.fr` | No |
 | `lagoonisfun.com` | No |
@@ -29901,6 +29901,7 @@ Here's a list of public Fediverse services.
 | `mieth.social` | No |
 | `miffnaz.org` | No |
 | `miffthefox.info` | No |
+| `mifle.eu` | No |
 | `mifritscher.de` | No |
 | `mig5.net` | No |
 | `mig5.pub` | No |
@@ -46878,7 +46879,7 @@ Here's a list of public Fediverse services.
 | `theepicblock.nl` | No |
 | `theepistle.net` | No |
 | `theergold.com` | Yes |
-| `theeum.org` | No |
+| `theeum.org` | Yes |
 | `theexpan.se` | No |
 | `theexplorographer.com` | Yes |
 | `thefaith.social` | No |
@@ -53976,7 +53977,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,535 |
-| Normal | 38,392 |
+| Normal | 38,393 |
 
 
 </details>
