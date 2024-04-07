@@ -189,7 +189,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | schlagheck.berlin | Yes |
 | seby.io | Yes |
 | serdcebolit.ru | No |
-| server.my.id | No |
 | shoupperuser.com | Yes |
 | shutgaming.net | Yes |
 | silen.org | Yes |
@@ -240,7 +239,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 118 |
-| Normal | 102 |
+| Normal | 101 |
 
 
-### 53.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
