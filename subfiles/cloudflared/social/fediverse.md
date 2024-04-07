@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,515 |
-| social | 4,875 |
+| com | 8,516 |
+| social | 4,876 |
 | net | 4,194 |
 | org | 2,793 |
 | de | 2,703 |
@@ -10375,6 +10375,7 @@ Here's a list of public Fediverse services.
 | `darnell.ooo` | No |
 | `darnell.tv` | No |
 | `darnell.xxx` | No |
+| `darnellclayton.com` | No |
 | `darnielle.me` | No |
 | `darosaweb.com.br` | No |
 | `darpsindustries.com` | No |
@@ -24177,7 +24178,7 @@ Here's a list of public Fediverse services.
 | `kinsta.cloud` | Yes |
 | `kintsugi-lab.com` | Yes |
 | `kinu.ee` | Yes |
-| `kinu.ml` | Yes |
+| `kinu.ml` | No |
 | `kinugasa.me` | No |
 | `kinuseka.us` | Yes |
 | `kinyu.cyou` | Yes |
@@ -28877,6 +28878,7 @@ Here's a list of public Fediverse services.
 | `mathan.org` | No |
 | `mathdacloud.ovh` | No |
 | `mathernalproductions.com` | No |
+| `mathers.fr` | No |
 | `matheson.it` | No |
 | `mathewingram.blog` | No |
 | `mathewson.social` | Yes |
@@ -46409,6 +46411,7 @@ Here's a list of public Fediverse services.
 | `teleyal.blog` | No |
 | `tellco.ca` | Yes |
 | `telleverybody.net` | No |
+| `tellyou.social` | No |
 | `tellytips.com` | No |
 | `telmina.com` | No |
 | `telmo.club` | No |
@@ -53978,8 +53981,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,535 |
-| Normal | 38,395 |
+| Cloudflare | 15,534 |
+| Normal | 38,399 |
 
 
 </details>
