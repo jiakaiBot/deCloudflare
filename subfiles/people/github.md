@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [createCollection - invalid 'Content-Type'](https://github.com/rarible/sdk/issues/613)
+- [Grimoire API not reachable](https://github.com/goniszewski/grimoire/issues/85)
 - [Image uploads failing](https://github.com/asimons04/tesseract/issues/2)
 - [Family Not Supported By Protocol](https://github.com/qdm12/gluetun/issues/2213)
 - [Loading, no locks displayed](https://github.com/relm923/MMM-August-Lock/issues/1)
