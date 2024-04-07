@@ -560,7 +560,7 @@ Here's a list of public Fediverse services.
 | `404.rip` | No |
 | `404.social` | No |
 | `404.taipei` | No |
-| `404oops.com` | No |
+| `404oops.com` | Yes |
 | `40to.ca` | No |
 | `40two.cloud` | No |
 | `40two.tube` | No |
@@ -7455,7 +7455,6 @@ Here's a list of public Fediverse services.
 | `chagai.website` | No |
 | `chagratt.site` | No |
 | `chahut.social` | No |
-| `chai.guru` | No |
 | `chai.lat` | Yes |
 | `chai.wtf` | Yes |
 | `chainchat.eu` | No |
@@ -53992,8 +53991,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,533 |
-| Normal | 38,411 |
+| Cloudflare | 15,534 |
+| Normal | 38,409 |
 
 
 </details>
