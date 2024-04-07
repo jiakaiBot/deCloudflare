@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Image uploads failing](https://github.com/asimons04/tesseract/issues/2)
 - [Family Not Supported By Protocol](https://github.com/qdm12/gluetun/issues/2213)
 - [Loading, no locks displayed](https://github.com/relm923/MMM-August-Lock/issues/1)
 - [response.headers.getSetCookie is not a function or its return value is not iterable](https://github.com/skymethod/denoflare/issues/74)
