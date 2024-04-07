@@ -7455,6 +7455,7 @@ Here's a list of public Fediverse services.
 | `chagai.website` | No |
 | `chagratt.site` | No |
 | `chahut.social` | No |
+| `chai.guru` | No |
 | `chai.lat` | Yes |
 | `chai.wtf` | Yes |
 | `chainchat.eu` | No |
@@ -9446,7 +9447,7 @@ Here's a list of public Fediverse services.
 | `crouchingpanda.co.za` | Yes |
 | `croustifed.net` | No |
 | `crovaxon.de` | No |
-| `crow-labs.uk` | Yes |
+| `crow-labs.uk` | No |
 | `crow.lol` | Yes |
 | `crowd.wales` | No |
 | `crowdagger.fr` | No |
@@ -53991,8 +53992,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,534 |
-| Normal | 38,409 |
+| Cloudflare | 15,533 |
+| Normal | 38,411 |
 
 
 </details>
