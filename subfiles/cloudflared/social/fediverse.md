@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,516 |
+| com | 8,517 |
 | social | 4,876 |
 | net | 4,194 |
 | org | 2,793 |
-| de | 2,703 |
+| de | 2,704 |
 
 
 - Mastodon, Pleroma, etc
@@ -18032,7 +18032,7 @@ Here's a list of public Fediverse services.
 | `googlediscovery.com` | Yes |
 | `googlemonde.com` | No |
 | `googoldon.net` | No |
-| `goomba.network` | Yes |
+| `goomba.network` | No |
 | `goonj.xyz` | Yes |
 | `goonytoons.com` | No |
 | `gooo.cloud` | Yes |
@@ -26481,6 +26481,7 @@ Here's a list of public Fediverse services.
 | `linuxhotel.social` | No |
 | `linuxine.net` | No |
 | `linuxinthenight.com` | No |
+| `linuxistcool.de` | No |
 | `linuxistsuper.de` | No |
 | `linuxjobs.social` | No |
 | `linuxkompis.se` | No |
@@ -27248,6 +27249,7 @@ Here's a list of public Fediverse services.
 | `lulz.blog` | No |
 | `lulz.foo` | No |
 | `lulz.win` | No |
+| `lumaeris.com` | Yes |
 | `lumaeris.me` | Yes |
 | `lumberjacks.social` | Yes |
 | `lumbung.space` | No |
@@ -31425,7 +31427,7 @@ Here's a list of public Fediverse services.
 | `mstdn.one` | Yes |
 | `mstdn.onl` | No |
 | `mstdn.online` | Yes |
-| `mstdn.org` | No |
+| `mstdn.org` | Yes |
 | `mstdn.osaka` | No |
 | `mstdn.paris` | No |
 | `mstdn.party` | Yes |
@@ -41209,7 +41211,7 @@ Here's a list of public Fediverse services.
 | `sanrizuka-struggle.com` | Yes |
 | `sanroccostudies.com` | No |
 | `sans-nuage.fr` | No |
-| `sans.fun` | Yes |
+| `sans.fun` | No |
 | `sans.pub` | No |
 | `sanskritm.xyz` | No |
 | `sansschatten.com` | No |
@@ -53982,7 +53984,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,534 |
-| Normal | 38,399 |
+| Normal | 38,401 |
 
 
 </details>
