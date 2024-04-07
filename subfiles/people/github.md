@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Wrong Content-Type for some JSON responses like 404's](https://github.com/matrix-org/dendrite/issues/3354)
 - [cloudflare protection issues](https://github.com/dipu-bd/lightnovel-crawler/issues/2326)
 - [createCollection - invalid 'Content-Type'](https://github.com/rarible/sdk/issues/613)
 - [Grimoire API not reachable](https://github.com/goniszewski/grimoire/issues/85)
