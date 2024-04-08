@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,519 |
+| com | 8,525 |
 | social | 4,877 |
 | net | 4,194 |
 | org | 2,796 |
@@ -21923,6 +21923,7 @@ Here's a list of public Fediverse services.
 | `ivie.cc` | No |
 | `ivn.cx` | Yes |
 | `ivobonthuis.com` | No |
+| `ivomota.com` | No |
 | `ivoor.eu` | No |
 | `ivor.org` | No |
 | `ivrianochi.com` | No |
@@ -24466,6 +24467,7 @@ Here's a list of public Fediverse services.
 | `knowledgehub.social` | No |
 | `knowltonwx.com` | Yes |
 | `known.directory` | Yes |
+| `knowprose.com` | No |
 | `knowscore.de` | No |
 | `knowscore.social` | No |
 | `knowsima.dog` | No |
@@ -24758,6 +24760,7 @@ Here's a list of public Fediverse services.
 | `kotobar.com` | No |
 | `kotocoop.org` | No |
 | `kotodama.space` | Yes |
+| `kotodu.io` | No |
 | `kotonoha.cafe` | No |
 | `kottman.xyz` | No |
 | `kotur.org` | No |
@@ -26416,6 +26419,7 @@ Here's a list of public Fediverse services.
 | `lindipravity.be` | No |
 | `lindroth.xyz` | Yes |
 | `lindsaybison.com` | Yes |
+| `lindsey-fam.com` | No |
 | `lindweiler.de` | Yes |
 | `linekszuka.pl` | Yes |
 | `linenoise.club` | No |
@@ -28441,6 +28445,7 @@ Here's a list of public Fediverse services.
 | `mastodon-sw.xyz` | Yes |
 | `mastodon-swiss.org` | No |
 | `mastodon-taro.com` | No |
+| `mastodon-test.com` | No |
 | `mastodon-test233.xyz` | No |
 | `mastodon-tiray.me` | No |
 | `mastodon-toyama.xyz` | No |
@@ -39334,6 +39339,7 @@ Here's a list of public Fediverse services.
 | `realitaetsverlust.rocks` | No |
 | `reality-tube.net` | No |
 | `reality2.social` | No |
+| `realityfragments.com` | No |
 | `realityranch.net` | No |
 | `realityridge.online` | No |
 | `realitysocial.live` | No |
@@ -51280,6 +51286,7 @@ Here's a list of public Fediverse services.
 | `webaard.nl` | Yes |
 | `webair.xyz` | No |
 | `webalpen.de` | No |
+| `webanditnews.com` | No |
 | `webarch.org.uk` | No |
 | `webassembly.social` | No |
 | `webblund.dev` | No |
@@ -54001,7 +54008,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,534 |
-| Normal | 38,418 |
+| Normal | 38,425 |
 
 
 </details>
