@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,525 |
+| com | 8,527 |
 | social | 4,877 |
 | net | 4,194 |
 | org | 2,796 |
@@ -5519,6 +5519,7 @@ Here's a list of public Fediverse services.
 | `blockvideo.live` | No |
 | `bloerp.org` | No |
 | `bloftin2.blog` | No |
+| `blog-and-destroy.com` | No |
 | `blog-de-michel.fr` | Yes |
 | `blog.edu.kg` | Yes |
 | `blogablocs.com` | No |
@@ -19642,6 +19643,7 @@ Here's a list of public Fediverse services.
 | `hiddenpalace.zone` | No |
 | `hide.expert` | Yes |
 | `hide.li` | Yes |
+| `hide10.com` | No |
 | `hidekisaito.com` | Yes |
 | `hidemyfap.com` | No |
 | `hiden.pw` | Yes |
@@ -49556,6 +49558,7 @@ Here's a list of public Fediverse services.
 | `ungra.dev` | No |
 | `ungrind.io` | Yes |
 | `ungzeit.de` | No |
+| `unhappysalt.life` | Yes |
 | `unhinged.social` | Yes |
 | `unholymemes.com` | No |
 | `uni-corn.me` | No |
@@ -54007,8 +54010,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,534 |
-| Normal | 38,425 |
+| Cloudflare | 15,535 |
+| Normal | 38,427 |
 
 
 </details>
