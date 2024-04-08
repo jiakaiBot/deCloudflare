@@ -10371,6 +10371,7 @@ Here's a list of public Fediverse services.
 | `darndt.de` | Yes |
 | `darnell.africa` | Yes |
 | `darnell.app` | No |
+| `darnell.co` | No |
 | `darnell.day` | No |
 | `darnell.fyi` | No |
 | `darnell.moe` | No |
@@ -53997,7 +53998,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,532 |
-| Normal | 38,416 |
+| Normal | 38,417 |
 
 
 </details>
