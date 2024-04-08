@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,517 |
+| com | 8,518 |
 | social | 4,877 |
 | net | 4,194 |
 | org | 2,796 |
@@ -32242,7 +32242,7 @@ Here's a list of public Fediverse services.
 | `nanoapp.io` | No |
 | `nanobyte.cafe` | No |
 | `nanocloud.solutions` | No |
-| `nanodawa.net` | Yes |
+| `nanodawa.net` | No |
 | `nanoscopic.de` | No |
 | `nanosector.nl` | Yes |
 | `nanoshinono.me` | Yes |
@@ -51547,6 +51547,7 @@ Here's a list of public Fediverse services.
 | `weyr.social` | Yes |
 | `wezerl.com` | Yes |
 | `wezm.net` | No |
+| `wf91st-street.com` | Yes |
 | `wfc.social` | No |
 | `wfh.pub` | No |
 | `wfmail.de` | No |
@@ -51662,7 +51663,7 @@ Here's a list of public Fediverse services.
 | `wickedtotally.com` | No |
 | `wickenberg.nu` | No |
 | `wicker.nz` | No |
-| `wickflix.online` | Yes |
+| `wickflix.online` | No |
 | `wicom.co.za` | No |
 | `wideboys.org` | Yes |
 | `widegamut.club` | No |
@@ -53994,8 +53995,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,532 |
-| Normal | 38,414 |
+| Cloudflare | 15,531 |
+| Normal | 38,416 |
 
 
 </details>
