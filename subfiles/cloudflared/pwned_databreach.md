@@ -720,10 +720,11 @@ Here's a list of breached sites.
 | Zoomcar | 3,589,795 | Yes |
 | Zoosk (Zoosk (2011)) | 52,578,183 | Yes |
 | Zoosk2020 (Zoosk (2020)) | 23,927,853 | Yes |
-| Zooville | 71,407 | Yes |
+| Zooville | 71,407 | No |
 | Zurich | 756,737 | No |
 | Zynga | 172,869,660 | Yes |
 | bigbasket | 24,500,011 | Yes |
+| boAt | 7,528,986 | Yes |
 | dBforums | 363,468 | Yes |
 | db8151dd (Covve) | 22,802,117 | Yes |
 | devkitPro | 1,508 | Yes |
@@ -749,10 +750,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 437 | 4,980,479,126 |
-| Normal | 291 | 4,199,085,895 |
+| Cloudflare | 437 | 4,987,936,705 |
+| Normal | 292 | 4,199,157,302 |
 
 
 
-### 60% of breached sites (pwned sites) are using Cloudflare.
+### 59.9% of breached sites (pwned sites) are using Cloudflare.
 ### 54.3% of leaked accounts are on Cloudflare sites.
