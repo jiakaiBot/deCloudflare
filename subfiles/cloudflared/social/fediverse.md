@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,527 |
+| com | 8,526 |
 | social | 4,877 |
-| net | 4,194 |
+| net | 4,193 |
 | org | 2,796 |
 | de | 2,705 |
 
@@ -1845,7 +1845,7 @@ Here's a list of public Fediverse services.
 | `alexsteiner.de` | No |
 | `alexswensen.io` | Yes |
 | `alextraterrestrial.com` | Yes |
-| `alextraterrestrial.net` | Yes |
+| `alextraterrestrial.net` | No |
 | `alexvan.in` | Yes |
 | `alexwacker.com` | Yes |
 | `alexwennerberg.com` | No |
@@ -23953,6 +23953,7 @@ Here's a list of public Fediverse services.
 | `kevinpadanhayes.com` | No |
 | `kevinr.fr` | No |
 | `kevinschachtschneider.net` | No |
+| `kevinthetechguy.ca` | Yes |
 | `kevinthomaseagan.com` | No |
 | `kevinvandam.me` | No |
 | `kevinweirauch.com` | No |
@@ -29381,7 +29382,6 @@ Here's a list of public Fediverse services.
 | `meinungsschauspieler.de` | No |
 | `meinungsschubla.de` | No |
 | `meinzeug24.de` | No |
-| `meiryo7743.net` | Yes |
 | `meis.space` | No |
 | `meissa-gmbh.de` | No |
 | `meissa.cf` | No |
@@ -36719,7 +36719,6 @@ Here's a list of public Fediverse services.
 | `picandocodigo.net` | No |
 | `picasoft.net` | No |
 | `pichowsky.de` | No |
-| `pichuchen.tw` | No |
 | `pickey.net` | No |
 | `pickle.zone` | Yes |
 | `piclub.social` | No |
@@ -39360,7 +39359,7 @@ Here's a list of public Fediverse services.
 | `realname.social` | No |
 | `realnephestate.xyz` | No |
 | `realscience.social` | No |
-| `realshellfish.tech` | Yes |
+| `realshellfish.tech` | No |
 | `realsocial.life` | No |
 | `realtime.fyi` | No |
 | `realworldsunny.name` | Yes |
@@ -45956,7 +45955,6 @@ Here's a list of public Fediverse services.
 | `tammang.world` | Yes |
 | `tammenpaa.com` | No |
 | `tams.tech` | No |
-| `tamsuki.com` | No |
 | `tamudon.com` | No |
 | `tamx.tk` | Yes |
 | `tanak3n.xyz` | No |
@@ -52771,7 +52769,7 @@ Here's a list of public Fediverse services.
 | `xonumi.com` | No |
 | `xophoros.com` | No |
 | `xor.social` | No |
-| `xorbit.me` | No |
+| `xorbit.me` | Yes |
 | `xorkle.com` | No |
 | `xorp.hu` | No |
 | `xoru.nl` | No |
@@ -54010,8 +54008,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,535 |
-| Normal | 38,427 |
+| Cloudflare | 15,534 |
+| Normal | 38,426 |
 
 
 </details>
