@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,526 |
-| social | 4,877 |
+| social | 4,878 |
 | net | 4,193 |
 | org | 2,796 |
 | de | 2,705 |
@@ -1688,6 +1688,7 @@ Here's a list of public Fediverse services.
 | `akkoma.net` | No |
 | `akkoma.net.eu.org` | No |
 | `akkoma.nl` | No |
+| `akkomane.social` | No |
 | `akkoremaji.club` | Yes |
 | `akkoverse.xyz` | Yes |
 | `aklp.club` | No |
@@ -50005,7 +50006,7 @@ Here's a list of public Fediverse services.
 | `v.nu` | Yes |
 | `v.st` | No |
 | `v01d.app` | No |
-| `v01d.nl` | Yes |
+| `v01d.nl` | No |
 | `v0idkr4ft.com` | Yes |
 | `v112.space` | No |
 | `v1p3rhax.com` | Yes |
@@ -54008,8 +54009,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,534 |
-| Normal | 38,426 |
+| Cloudflare | 15,533 |
+| Normal | 38,428 |
 
 
 </details>
