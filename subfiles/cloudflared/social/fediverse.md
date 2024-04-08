@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,518 |
+| com | 8,519 |
 | social | 4,877 |
 | net | 4,194 |
 | org | 2,796 |
@@ -5336,7 +5336,7 @@ Here's a list of public Fediverse services.
 | `blackcanediary.com` | No |
 | `blackcat.ca` | Yes |
 | `blackcat.cx` | Yes |
-| `blackcat.guru` | Yes |
+| `blackcat.guru` | No |
 | `blackcat.town` | No |
 | `blackcord.de` | Yes |
 | `blackdogs.social` | No |
@@ -13768,6 +13768,7 @@ Here's a list of public Fediverse services.
 | `esgeroth.org` | No |
 | `esglife.social` | No |
 | `eshopview.com` | No |
+| `eshumarneedi.com` | Yes |
 | `esi.is` | No |
 | `esiliati.org` | No |
 | `esjewett.com` | No |
@@ -16113,7 +16114,7 @@ Here's a list of public Fediverse services.
 | `freegaff.club` | No |
 | `freegamedev.net` | No |
 | `freego.network` | No |
-| `freeguntalk.com` | No |
+| `freeguntalk.com` | Yes |
 | `freehold.earth` | No |
 | `freehub.space` | No |
 | `freeipad.info` | Yes |
@@ -25641,7 +25642,7 @@ Here's a list of public Fediverse services.
 | `lealternative.net` | No |
 | `leam.ml` | No |
 | `leandr.in` | Yes |
-| `leaningleft.social` | Yes |
+| `leaningleft.social` | No |
 | `leaninto.it` | No |
 | `leanside.org` | No |
 | `learn-ai-ui.jp` | No |
@@ -43099,7 +43100,7 @@ Here's a list of public Fediverse services.
 | `skress.xyz` | No |
 | `skri.be` | No |
 | `skri.ga` | No |
-| `skribeworks.com` | No |
+| `skribeworks.com` | Yes |
 | `skriffle.social` | No |
 | `skrimmage.com` | Yes |
 | `skriptbu.de` | No |
@@ -49508,6 +49509,7 @@ Here's a list of public Fediverse services.
 | `underlap.org` | No |
 | `undernet.uy` | No |
 | `undernopretext.social` | No |
+| `underoot.dev` | No |
 | `undersco.re` | No |
 | `underscore.world` | No |
 | `understars.dev` | Yes |
@@ -51111,6 +51113,7 @@ Here's a list of public Fediverse services.
 | `wants.coffee` | No |
 | `wantscuddl.es` | No |
 | `wao.wtf` | No |
+| `waow.cat` | Yes |
 | `wapalta.mobi` | Yes |
 | `wapanafa.org` | No |
 | `wapnitsky.com` | No |
@@ -53997,8 +54000,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,532 |
-| Normal | 38,417 |
+| Cloudflare | 15,534 |
+| Normal | 38,418 |
 
 
 </details>
