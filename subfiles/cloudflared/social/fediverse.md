@@ -3235,6 +3235,7 @@ Here's a list of public Fediverse services.
 | `arutemilia.com` | Yes |
 | `arvr.social` | No |
 | `arxiv.social` | No |
+| `aryalaadi.xyz` | Yes |
 | `aryasenna.net` | Yes |
 | `as200950.com` | No |
 | `as200950.social` | No |
@@ -53995,7 +53996,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,531 |
+| Cloudflare | 15,532 |
 | Normal | 38,416 |
 
 
