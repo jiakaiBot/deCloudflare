@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Help 🤔 docker部署失败](https://github.com/Harry-zklcdc/go-proxy-bingai/issues/396)
+- [Data binding does't work when deploying to CloudFlare](https://github.com/analogjs/analog/issues/1015)
 - [onlySSG middleware not support Cloudflare worker](https://github.com/honojs/hono/issues/2476)
 - [Static site and __STATIC_CONTENT_MANIFEST with test framework](https://github.com/honojs/examples/issues/109)
 - [Error in execution of project Cloudflare workers](https://github.com/honojs/hono/issues/2474)
