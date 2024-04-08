@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Database connection problems](https://github.com/LuckPerms/LuckPerms/issues/3872)
 - [Help 🤔 docker部署失败](https://github.com/Harry-zklcdc/go-proxy-bingai/issues/396)
 - [Data binding does't work when deploying to CloudFlare](https://github.com/analogjs/analog/issues/1015)
 - [onlySSG middleware not support Cloudflare worker](https://github.com/honojs/hono/issues/2476)
