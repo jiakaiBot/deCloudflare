@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [onlySSG middleware not support Cloudflare worker](https://github.com/honojs/hono/issues/2476)
 - [Static site and __STATIC_CONTENT_MANIFEST with test framework](https://github.com/honojs/examples/issues/109)
 - [Error in execution of project Cloudflare workers](https://github.com/honojs/hono/issues/2474)
 - [digitalocean_cdn custom domain certificate fails "invalid certificate issued by Cloudflare origin CA"](https://github.com/digitalocean/terraform-provider-digitalocean/issues/1135)
