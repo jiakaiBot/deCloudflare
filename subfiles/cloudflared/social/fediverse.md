@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,517 |
 | social | 4,877 |
 | net | 4,194 |
-| org | 2,795 |
+| org | 2,796 |
 | de | 2,705 |
 
 
@@ -19035,7 +19035,7 @@ Here's a list of public Fediverse services.
 | `hardill.me.uk` | No |
 | `harding.dev` | No |
 | `hardlimit.com` | No |
-| `hardly.engineering` | Yes |
+| `hardly.engineering` | No |
 | `hardly.social` | No |
 | `hardr.social` | No |
 | `hardtoast.social` | No |
@@ -27833,7 +27833,7 @@ Here's a list of public Fediverse services.
 | `maliweb.at` | Yes |
 | `maljaars.net` | No |
 | `maljaarsenzo.nl` | No |
-| `mallegolhansen.com` | No |
+| `mallegolhansen.com` | Yes |
 | `mallettedavid.com` | Yes |
 | `mallio.se` | No |
 | `mallorn.de` | No |
@@ -39118,6 +39118,7 @@ Here's a list of public Fediverse services.
 | `raphting.dev` | No |
 | `raphus.social` | Yes |
 | `rapidblock.org` | Yes |
+| `rapidcow.org` | No |
 | `rapidsloth.xyz` | No |
 | `raplst.town` | No |
 | `rapotec.org` | No |
@@ -44417,7 +44418,7 @@ Here's a list of public Fediverse services.
 | `srv.space` | No |
 | `srv0.lol` | Yes |
 | `srvr.dev` | Yes |
-| `srvr.run` | Yes |
+| `srvr.run` | No |
 | `srweaver.com` | Yes |
 | `srxavi.me` | No |
 | `srytk.com` | Yes |
@@ -52993,7 +52994,7 @@ Here's a list of public Fediverse services.
 | `yba.dev` | Yes |
 | `ybk28.net` | No |
 | `ycare.de` | No |
-| `ych.lgbt` | Yes |
+| `ych.lgbt` | No |
 | `ycrack.net` | Yes |
 | `ycros.org` | Yes |
 | `ydenfrankl.in` | Yes |
@@ -53539,6 +53540,7 @@ Here's a list of public Fediverse services.
 | `zbecker.cc` | Yes |
 | `zbeul.fr` | No |
 | `zbeul.ist` | No |
+| `zbirdauniv.online` | No |
 | `zbop.xyz` | Yes |
 | `zbrx.org` | No |
 | `zbucaao2-liquidwebsites.com` | No |
@@ -53992,8 +53994,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,534 |
-| Normal | 38,410 |
+| Cloudflare | 15,532 |
+| Normal | 38,414 |
 
 
 </details>
