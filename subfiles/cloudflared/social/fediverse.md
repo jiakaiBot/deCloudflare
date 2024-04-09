@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,531 |
+| com | 8,532 |
 | social | 4,880 |
 | net | 4,195 |
 | org | 2,796 |
@@ -17741,7 +17741,7 @@ Here's a list of public Fediverse services.
 | `glie.town` | No |
 | `glindr.org` | Yes |
 | `glipglops.club` | No |
-| `glitch.cx` | Yes |
+| `glitch.cx` | No |
 | `glitch.lgbt` | No |
 | `glitch.me` | No |
 | `glitch.monster` | No |
@@ -18615,6 +18615,7 @@ Here's a list of public Fediverse services.
 | `gurupanguji.com` | No |
 | `gusballard.com` | No |
 | `guse.fr` | No |
+| `guskikalola.com` | Yes |
 | `gusl.org` | Yes |
 | `gustavlindqvist.se` | Yes |
 | `gustavosousa.eu` | No |
@@ -19337,6 +19338,7 @@ Here's a list of public Fediverse services.
 | `heffley.social` | No |
 | `heftehaufen.de` | No |
 | `hegde.me` | No |
+| `hegeman.me` | No |
 | `heggadrone.tk` | No |
 | `hehn.xyz` | No |
 | `hei.baby` | No |
@@ -21156,7 +21158,7 @@ Here's a list of public Fediverse services.
 | `indiebio.co.za` | No |
 | `indiecreatorhub.com` | Yes |
 | `indiefedi.party` | No |
-| `indiefilm.fun` | Yes |
+| `indiefilm.fun` | No |
 | `indiegamedev.online` | No |
 | `indiegames.online` | No |
 | `indiegamesdevel.com` | No |
@@ -54034,8 +54036,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,541 |
-| Normal | 38,445 |
+| Cloudflare | 15,540 |
+| Normal | 38,448 |
 
 
 </details>
