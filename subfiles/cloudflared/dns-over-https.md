@@ -191,7 +191,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | skrep.eu | No |
 | slinkyman.net | Yes |
 | spacedns.org | No |
-| spectrum.com | Yes |
 | spirio.fr | No |
 | sscw.win | Yes |
 | strassmair.org | Yes |
@@ -232,8 +231,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 113 |
+| Cloudflare | 112 |
 | Normal | 100 |
 
 
-### 53.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
