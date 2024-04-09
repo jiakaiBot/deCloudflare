@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,526 |
+| com | 8,527 |
 | social | 4,879 |
 | net | 4,193 |
 | org | 2,796 |
@@ -19305,7 +19305,7 @@ Here's a list of public Fediverse services.
 | `hecatoncheir.net` | No |
 | `hechtinsgefecht.de` | Yes |
 | `heck.beer` | Yes |
-| `heck.ooo` | Yes |
+| `heck.ooo` | No |
 | `heck.team` | No |
 | `heck.town` | No |
 | `hecke.rs` | No |
@@ -26894,7 +26894,7 @@ Here's a list of public Fediverse services.
 | `lonewolfcomic.com` | No |
 | `longcovid.social` | No |
 | `longden.me` | No |
-| `longhorns747.com` | No |
+| `longhorns747.com` | Yes |
 | `longlandclan.id.au` | No |
 | `longley.ws` | No |
 | `longlines.org` | No |
@@ -42516,6 +42516,7 @@ Here's a list of public Fediverse services.
 | `shino.one` | Yes |
 | `shinobu.cloud` | Yes |
 | `shinobu.space` | Yes |
+| `shinolabs.com` | Yes |
 | `shinomin.me` | Yes |
 | `shinomiya.group` | No |
 | `shinomoroll.net` | No |
@@ -53593,7 +53594,7 @@ Here's a list of public Fediverse services.
 | `zedshaw.com` | No |
 | `zedsocial.ca` | No |
 | `zee.li` | Yes |
-| `zeebo.social` | Yes |
+| `zeebo.social` | No |
 | `zeeborn.social` | No |
 | `zeekzack.com` | No |
 | `zeeland.social` | No |
@@ -54017,7 +54018,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,529 |
-| Normal | 38,439 |
+| Normal | 38,440 |
 
 
 </details>
