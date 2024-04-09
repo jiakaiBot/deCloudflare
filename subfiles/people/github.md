@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ["status: pending" persists forever after an ACME response was sent successfully](https://github.com/polhenarejos/acme_email/issues/40)
 - [Error, parse error near do' when trying to install MacOS](https://github.com/nvm-sh/nvm/issues/3330)
 - [Database connection problems](https://github.com/LuckPerms/LuckPerms/issues/3872)
 - [Help 🤔 docker部署失败](https://github.com/Harry-zklcdc/go-proxy-bingai/issues/396)
