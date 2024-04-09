@@ -3035,6 +3035,7 @@ Here's a list of public Fediverse services.
 | `arielfinn.social` | No |
 | `ariesmc21.com` | Yes |
 | `arihi.me` | No |
+| `arimelody.me` | Yes |
 | `arinbasu.online` | No |
 | `arint.me` | No |
 | `arion.social` | No |
@@ -7775,7 +7776,7 @@ Here's a list of public Fediverse services.
 | `chimera.website` | Yes |
 | `chimerae.org` | No |
 | `chin-co-ne.co` | No |
-| `china.al` | No |
+| `china.al` | Yes |
 | `china996.tk` | No |
 | `chinamstdn.com` | No |
 | `chinanews.social` | No |
@@ -9246,7 +9247,7 @@ Here's a list of public Fediverse services.
 | `craft-berries.town` | No |
 | `craftam.app` | No |
 | `craftbeer.social` | No |
-| `craftberries.town` | Yes |
+| `craftberries.town` | No |
 | `craftbru.com` | No |
 | `craftcat.dev` | Yes |
 | `craftcms.com` | Yes |
@@ -23684,7 +23685,7 @@ Here's a list of public Fediverse services.
 | `kawane.icu` | No |
 | `kawasaki-city.social` | No |
 | `kawauso.ml` | No |
-| `kawayo.moe` | Yes |
+| `kawayo.moe` | No |
 | `kawen.dance` | No |
 | `kawen.site` | No |
 | `kawen.space` | No |
@@ -42155,6 +42156,7 @@ Here's a list of public Fediverse services.
 | `septic.win` | No |
 | `sequel.space` | No |
 | `sequentialread.com` | No |
+| `sequoia.farm` | No |
 | `ser1.net` | No |
 | `serafuku.moe` | Yes |
 | `seraimu.me` | Yes |
@@ -42271,6 +42273,7 @@ Here's a list of public Fediverse services.
 | `sexworkers.social` | Yes |
 | `sexworkisrealwork.quest` | No |
 | `sexyferret.science` | No |
+| `sexypokemon.xyz` | Yes |
 | `sexyspygirls.com` | No |
 | `seyade.net` | No |
 | `seyfro.social` | No |
@@ -43846,7 +43849,7 @@ Here's a list of public Fediverse services.
 | `somaton.com` | No |
 | `some.institute` | Yes |
 | `some.rs` | No |
-| `someassholesopinion.com` | Yes |
+| `someassholesopinion.com` | No |
 | `somebetterplaceshell.gq` | No |
 | `someden.net` | Yes |
 | `somedevfox.ru` | No |
@@ -51272,7 +51275,7 @@ Here's a list of public Fediverse services.
 | `wearemastodon.com` | No |
 | `weareprolife.net` | No |
 | `weaselshit.com` | No |
-| `weatherbot.xyz` | Yes |
+| `weatherbot.xyz` | No |
 | `weatherby2378.social` | No |
 | `weatherishappening.network` | No |
 | `weaviate.community` | No |
@@ -54013,8 +54016,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,530 |
-| Normal | 38,435 |
+| Cloudflare | 15,529 |
+| Normal | 38,439 |
 
 
 </details>
