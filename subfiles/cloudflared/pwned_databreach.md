@@ -343,6 +343,7 @@ Here's a list of breached sites.
 | JustDate (Justdate.com) | 24,451,312 | No |
 | KMRU (KM.RU) | 1,476,783 | Yes |
 | Kaneva | 3,901,179 | No |
+| KasperskyClub (Kaspersky Club) | 55,971 | Yes |
 | Kickstarter | 5,176,463 | Yes |
 | Kimsufi | 504,565 | No |
 | KitchenPal | 98,726 | No |
@@ -724,7 +725,7 @@ Here's a list of breached sites.
 | Zurich | 756,737 | No |
 | Zynga | 172,869,660 | Yes |
 | bigbasket | 24,500,011 | Yes |
-| boAt | 7,528,986 | Yes |
+| boAt | 7,528,985 | Yes |
 | dBforums | 363,468 | Yes |
 | db8151dd (Covve) | 22,802,117 | Yes |
 | devkitPro | 1,508 | Yes |
@@ -750,10 +751,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 437 | 4,987,936,705 |
+| Cloudflare | 438 | 4,987,992,675 |
 | Normal | 292 | 4,199,157,302 |
 
 
 
-### 59.9% of breached sites (pwned sites) are using Cloudflare.
+### 60% of breached sites (pwned sites) are using Cloudflare.
 ### 54.3% of leaked accounts are on Cloudflare sites.
