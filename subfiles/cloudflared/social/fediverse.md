@@ -11977,7 +11977,6 @@ Here's a list of public Fediverse services.
 | `donkey.social` | No |
 | `donkeymedia.eu` | No |
 | `donky.social` | No |
-| `donley.io` | Yes |
 | `donmasto.xyz` | No |
 | `donmcgin.com` | No |
 | `donnacavalier.com` | No |
@@ -24717,7 +24716,7 @@ Here's a list of public Fediverse services.
 | `korrenkerren.com` | No |
 | `korrent.city` | Yes |
 | `korrigan.link` | No |
-| `korrigan.tech` | Yes |
+| `korrigan.tech` | No |
 | `korrigans.me` | No |
 | `korrupt.biz` | No |
 | `korv.es` | No |
@@ -27823,7 +27822,7 @@ Here's a list of public Fediverse services.
 | `makrgroup.com` | No |
 | `makrobytes.eu` | No |
 | `maksales.dev` | Yes |
-| `maksales.su` | Yes |
+| `maksales.su` | No |
 | `makzan.blog` | No |
 | `mal-richtig.de` | No |
 | `mal.systems` | No |
@@ -54013,8 +54012,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,532 |
-| Normal | 38,433 |
+| Cloudflare | 15,529 |
+| Normal | 38,435 |
 
 
 </details>
