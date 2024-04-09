@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,530 |
+| com | 8,531 |
 | social | 4,880 |
 | net | 4,195 |
 | org | 2,796 |
@@ -8525,7 +8525,7 @@ Here's a list of public Fediverse services.
 | `codesocial.org` | No |
 | `codespace.gay` | No |
 | `codespawn.space` | Yes |
-| `codestaff.io` | No |
+| `codestaff.io` | Yes |
 | `codethat.sucks` | No |
 | `codethings.it` | No |
 | `codethink.co.uk` | No |
@@ -23619,6 +23619,7 @@ Here's a list of public Fediverse services.
 | `kasper.app` | No |
 | `kasperaliteten.dk` | No |
 | `kasperfam.net` | Yes |
+| `kaspernymand.com` | No |
 | `kass.im` | Yes |
 | `kassel.social` | No |
 | `kassepied.org` | No |
@@ -54030,7 +54031,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,539 |
+| Cloudflare | 15,540 |
 | Normal | 38,443 |
 
 
