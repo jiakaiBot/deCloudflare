@@ -89,7 +89,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | fdn.fr | No |
 | ffmuc.net | Yes |
 | flm9.net | No |
-| flylcc.cc | Yes |
 | freyja.pw | Yes |
 | froth.zone | Yes |
 | ftp.sh | Yes |
@@ -196,7 +195,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | spirio.fr | No |
 | sscw.win | Yes |
 | strassmair.org | Yes |
-| streamvine.app | Yes |
 | sukidayo.eu.org | No |
 | sundalandia.pp.ua | Yes |
 | sunet.se | No |
@@ -234,8 +232,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 115 |
+| Cloudflare | 113 |
 | Normal | 100 |
 
 
-### 53.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
