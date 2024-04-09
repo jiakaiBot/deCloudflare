@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,527 |
-| social | 4,879 |
-| net | 4,194 |
+| com | 8,530 |
+| social | 4,880 |
+| net | 4,195 |
 | org | 2,796 |
 | de | 2,705 |
 
@@ -1337,6 +1337,7 @@ Here's a list of public Fediverse services.
 | `adrift.io` | Yes |
 | `adrift.social` | No |
 | `adriftonthenet.com` | No |
+| `adriy.be` | Yes |
 | `adsaminu.com` | No |
 | `adsb.pro` | No |
 | `adsei.org` | No |
@@ -2349,6 +2350,7 @@ Here's a list of public Fediverse services.
 | `ancr.club` | No |
 | `ancreport.com` | Yes |
 | `and-mate.me` | No |
+| `and.reisen` | No |
 | `andadinosaur.com` | No |
 | `andalucia.social` | No |
 | `andalys.com` | No |
@@ -4150,6 +4152,7 @@ Here's a list of public Fediverse services.
 | `bajax.us` | No |
 | `bajonczak.com` | Yes |
 | `bajsicki.com` | No |
+| `baka-no-laboratory.com` | No |
 | `baka.social` | Yes |
 | `bakdos.de` | No |
 | `bakedbean.xyz` | Yes |
@@ -5550,7 +5553,7 @@ Here's a list of public Fediverse services.
 | `blogsequenz.de` | No |
 | `blogsequenz.net` | No |
 | `blogsofwar.com` | Yes |
-| `blogsquad.org` | No |
+| `blogsquad.org` | Yes |
 | `blogsquad.social` | No |
 | `blogueur-de-france.fr` | No |
 | `bloguslibrus.fr` | No |
@@ -30908,6 +30911,7 @@ Here's a list of public Fediverse services.
 | `montpellier.buzz` | No |
 | `montpeyroux.social` | No |
 | `montreuillois.com` | No |
+| `montybevins.com` | No |
 | `monwebsite.ch` | Yes |
 | `monyet.cc` | No |
 | `monz.photos` | No |
@@ -31976,6 +31980,7 @@ Here's a list of public Fediverse services.
 | `myrkit.com` | Yes |
 | `myrkvi.no` | No |
 | `myrmidon.social` | Yes |
+| `myrndal.com` | No |
 | `myronland.com` | No |
 | `myrvog.net` | No |
 | `mysacredaltar.com` | No |
@@ -38515,6 +38520,7 @@ Here's a list of public Fediverse services.
 | `qua.name` | No |
 | `quaa.net` | No |
 | `quack.me` | Yes |
+| `quack.social` | No |
 | `quackhouse.uk` | No |
 | `quackshack.xyz` | No |
 | `quad.moe` | No |
@@ -38913,6 +38919,7 @@ Here's a list of public Fediverse services.
 | `raeffs.ch` | No |
 | `raeffs.dev` | Yes |
 | `raeuberwald.de` | No |
+| `raev.name` | No |
 | `raeven.net` | Yes |
 | `raeven.social` | No |
 | `raf.hamburg` | No |
@@ -49889,6 +49896,7 @@ Here's a list of public Fediverse services.
 | `usagi.love` | No |
 | `usagi.top` | No |
 | `usagicore.org` | Yes |
+| `usakoya.net` | Yes |
 | `usamin.cafe` | No |
 | `usan.us` | No |
 | `usans.in` | No |
@@ -51559,7 +51567,7 @@ Here's a list of public Fediverse services.
 | `wetofu.top` | No |
 | `wetoot.xyz` | No |
 | `wetshaving.social` | No |
-| `wetsnow.com` | No |
+| `wetsnow.com` | Yes |
 | `wetsnow.social` | No |
 | `wetube.moe` | No |
 | `wetubevid.online` | No |
@@ -53117,6 +53125,7 @@ Here's a list of public Fediverse services.
 | `yjmbo.net` | No |
 | `yjsnpi.club` | No |
 | `yjsnpi.nu` | No |
+| `yjsoft.me` | Yes |
 | `yka.moe` | Yes |
 | `ykiadon.net` | No |
 | `yknk.work` | No |
@@ -54021,8 +54030,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,534 |
-| Normal | 38,439 |
+| Cloudflare | 15,539 |
+| Normal | 38,443 |
 
 
 </details>
