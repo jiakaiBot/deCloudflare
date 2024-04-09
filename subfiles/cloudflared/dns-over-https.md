@@ -118,6 +118,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lavate.ch | Yes |
 | leadseason.eu | Yes |
 | lefolgoc.net | No |
+| levonet.sk | No |
 | lezainski.com | Yes |
 | libredns.gr | No |
 | lindung.pp.ua | Yes |
@@ -232,7 +233,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 112 |
-| Normal | 100 |
+| Normal | 101 |
 
 
-### 52.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
