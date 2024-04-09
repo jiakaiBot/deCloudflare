@@ -11977,6 +11977,7 @@ Here's a list of public Fediverse services.
 | `donkey.social` | No |
 | `donkeymedia.eu` | No |
 | `donky.social` | No |
+| `donley.io` | Yes |
 | `donmasto.xyz` | No |
 | `donmcgin.com` | No |
 | `donnacavalier.com` | No |
@@ -54012,7 +54013,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,529 |
+| Cloudflare | 15,530 |
 | Normal | 38,435 |
 
 
