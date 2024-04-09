@@ -219,7 +219,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tls-data.de | No |
 | truta.org | No |
 | tryk.app | Yes |
-| tu-bs.de | No |
 | twnic.tw | No |
 | txq.life | Yes |
 | umbrella.com | Yes |
@@ -242,7 +241,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 119 |
-| Normal | 103 |
+| Normal | 102 |
 
 
-### 53.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
