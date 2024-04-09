@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,527 |
 | social | 4,879 |
-| net | 4,193 |
+| net | 4,194 |
 | org | 2,796 |
 | de | 2,705 |
 
@@ -6781,6 +6781,7 @@ Here's a list of public Fediverse services.
 | `cafemilk.moe` | Yes |
 | `cafenya.one` | Yes |
 | `cafeobskur.de` | No |
+| `cafeout.in` | Yes |
 | `caff.tech` | Yes |
 | `caffeinated.computer` | No |
 | `caffeinated.social` | Yes |
@@ -10203,7 +10204,7 @@ Here's a list of public Fediverse services.
 | `dandys.space` | No |
 | `daneknecht.com` | Yes |
 | `daners.info` | No |
-| `danfoster.me` | No |
+| `danfoster.me` | Yes |
 | `danger.blue` | No |
 | `dangeroutside.com` | No |
 | `dangilbert.eu` | Yes |
@@ -20604,6 +20605,7 @@ Here's a list of public Fediverse services.
 | `iaia.moe` | No |
 | `ialis.me` | No |
 | `ialys.net` | Yes |
+| `iam.haus` | Yes |
 | `iam.mt` | Yes |
 | `iam.slg.br` | No |
 | `iamafard.ir` | Yes |
@@ -28454,6 +28456,7 @@ Here's a list of public Fediverse services.
 | `mastodon-swiss.org` | No |
 | `mastodon-taro.com` | No |
 | `mastodon-test.com` | No |
+| `mastodon-test2.net` | No |
 | `mastodon-test233.xyz` | No |
 | `mastodon-tiray.me` | No |
 | `mastodon-toyama.xyz` | No |
@@ -30472,7 +30475,7 @@ Here's a list of public Fediverse services.
 | `mizo.one` | No |
 | `mizucoffee.net` | No |
 | `mizunashi.work` | Yes |
-| `mj12.online` | No |
+| `mj12.online` | Yes |
 | `mj2p.co.uk` | No |
 | `mjanssen.nl` | No |
 | `mjb.im` | No |
@@ -36442,6 +36445,7 @@ Here's a list of public Fediverse services.
 | `pertur.be` | No |
 | `peruano.social` | No |
 | `peruki.dev` | Yes |
+| `pervert.rodeo` | Yes |
 | `pescada.pt` | No |
 | `peshane.net` | No |
 | `peshka.net` | Yes |
@@ -54017,8 +54021,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,529 |
-| Normal | 38,440 |
+| Cloudflare | 15,534 |
+| Normal | 38,439 |
 
 
 </details>
