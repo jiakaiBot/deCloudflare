@@ -14040,6 +14040,7 @@ Here's a list of public Fediverse services.
 | `evn.sh` | No |
 | `evolix.org` | No |
 | `evolution.codes` | Yes |
+| `evolution.lgbt` | No |
 | `evolved.systems` | Yes |
 | `evolvingdev.io` | No |
 | `evometamecha.com` | No |
@@ -23626,7 +23627,7 @@ Here's a list of public Fediverse services.
 | `kassel.social` | No |
 | `kassepied.org` | No |
 | `kassius.org` | No |
-| `kastaspuods.lt` | No |
+| `kastaspuods.lt` | Yes |
 | `kastelo.dev` | No |
 | `kastelo.social` | No |
 | `kastube.com` | No |
@@ -45629,7 +45630,7 @@ Here's a list of public Fediverse services.
 | `synfinner.blog` | No |
 | `synkosmos.org` | No |
 | `synn.one` | Yes |
-| `synnet.io` | Yes |
+| `synnet.io` | No |
 | `syno.social` | Yes |
 | `synology.me` | No |
 | `synos.ovh` | No |
@@ -54034,7 +54035,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,541 |
-| Normal | 38,444 |
+| Normal | 38,445 |
 
 
 </details>
