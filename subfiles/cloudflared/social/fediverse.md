@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,526 |
-| social | 4,878 |
+| social | 4,879 |
 | net | 4,193 |
 | org | 2,796 |
 | de | 2,705 |
@@ -3745,6 +3745,7 @@ Here's a list of public Fediverse services.
 | `avantwhatever.org` | No |
 | `avantwhatever.xyz` | No |
 | `avapxia.tk` | No |
+| `avara.dev` | Yes |
 | `avare.com.tr` | Yes |
 | `avareborn.de` | Yes |
 | `avata.social` | Yes |
@@ -11976,6 +11977,7 @@ Here's a list of public Fediverse services.
 | `donkey.social` | No |
 | `donkeymedia.eu` | No |
 | `donky.social` | No |
+| `donley.io` | Yes |
 | `donmasto.xyz` | No |
 | `donmcgin.com` | No |
 | `donnacavalier.com` | No |
@@ -35793,6 +35795,7 @@ Here's a list of public Fediverse services.
 | `palashbauri.in` | Yes |
 | `palau.pro` | No |
 | `palaven.space` | No |
+| `palcarajo.social` | No |
 | `paleodecor.com` | Yes |
 | `palepanda.club` | No |
 | `palepanda.com` | No |
@@ -54010,8 +54013,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,530 |
-| Normal | 38,432 |
+| Cloudflare | 15,532 |
+| Normal | 38,433 |
 
 
 </details>
