@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,880 |
 | net | 4,195 |
 | org | 2,796 |
-| de | 2,705 |
+| de | 2,706 |
 
 
 - Mastodon, Pleroma, etc
@@ -146,7 +146,7 @@ Here's a list of public Fediverse services.
 | `0x3e7.me` | No |
 | `0x40.au` | Yes |
 | `0x4001.com` | No |
-| `0x41.team` | No |
+| `0x41.team` | Yes |
 | `0x42.ch` | No |
 | `0x42.net` | No |
 | `0x4655.co.uk` | No |
@@ -5554,7 +5554,7 @@ Here's a list of public Fediverse services.
 | `blogsequenz.net` | No |
 | `blogsofwar.com` | Yes |
 | `blogsquad.org` | Yes |
-| `blogsquad.social` | No |
+| `blogsquad.social` | Yes |
 | `blogueur-de-france.fr` | No |
 | `bloguslibrus.fr` | No |
 | `blombus.com` | No |
@@ -5727,6 +5727,7 @@ Here's a list of public Fediverse services.
 | `bodybuilding.im` | No |
 | `boeck.social` | No |
 | `boeckli.net` | No |
+| `boeddhistischdagblad.nl` | No |
 | `boehmer.tech` | Yes |
 | `boehmke.net` | No |
 | `boelz.eu` | No |
@@ -22438,6 +22439,7 @@ Here's a list of public Fediverse services.
 | `jeng.co` | Yes |
 | `jenkins.cc` | No |
 | `jenkins.social` | Yes |
+| `jennelt.de` | No |
 | `jenniferking.me` | No |
 | `jennifilm.nz` | No |
 | `jennisspace.com` | Yes |
@@ -22489,7 +22491,7 @@ Here's a list of public Fediverse services.
 | `jes.xxx` | No |
 | `jeslo.app` | No |
 | `jess.coffee` | No |
-| `jesse-saenz.com` | Yes |
+| `jesse-saenz.com` | No |
 | `jessecrouch.com` | No |
 | `jesser.dev` | No |
 | `jesserizzo.com` | Yes |
@@ -54031,8 +54033,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,540 |
-| Normal | 38,443 |
+| Cloudflare | 15,541 |
+| Normal | 38,444 |
 
 
 </details>
