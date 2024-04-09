@@ -38,6 +38,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | bonis.de | No |
 | brahma.world | Yes |
 | bugz.fr | No |
+| caksono.com | Yes |
 | carestyle.org | Yes |
 | carson-family.com | Yes |
 | carter.me | Yes |
@@ -56,6 +57,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | daemon.za.net | Yes |
 | data.haus | No |
 | dekedin.me | No |
+| dev-umbrellagov.com | No |
 | digitale-gesellschaft.ch | No |
 | digitalsize.net | No |
 | disconnect.app | Yes |
@@ -93,6 +95,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ftp.sh | Yes |
 | fullaccesstointernet.jp.eu.org | No |
 | gac.edu | No |
+| gamban.com | Yes |
 | guard.io | Yes |
 | guidocioni.it | No |
 | hahnjo.de | No |
@@ -109,9 +112,11 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jackyes.ovh | No |
 | jnraptor.net | Yes |
 | justincounts.com | No |
+| kel.pe | No |
 | kernel-error.de | No |
 | ketan.dev | Yes |
 | konikoni428.com | Yes |
+| kooman.org | No |
 | krnl.eu | Yes |
 | lacontrevoie.fr | No |
 | lavate.ch | Yes |
@@ -126,6 +131,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lonet.org | Yes |
 | mandre.dev | No |
 | marschi.de | Yes |
+| maskab.com | Yes |
 | masters-of-cloud.de | No |
 | meddy94.de | No |
 | meexx.de | No |
@@ -151,6 +157,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ofdoom.net | Yes |
 | openbld.net | No |
 | opendns.com | Yes |
+| oryxlabs.com | Yes |
 | oszx.co | No |
 | paesa.es | Yes |
 | panszelescik.pl | Yes |
@@ -184,6 +191,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | schlagheck.berlin | Yes |
 | seby.io | Yes |
 | serdcebolit.ru | No |
+| sheggi.ch | Yes |
 | shoupperuser.com | Yes |
 | shutgaming.net | Yes |
 | silen.org | Yes |
@@ -204,6 +212,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | technicule.info | Yes |
 | telekom.de | Yes |
 | thebuckners.org | No |
+| thegoodsource.net | Yes |
 | tiar.app | No |
 | tiarap.org | Yes |
 | tigrons.ru | No |
@@ -216,6 +225,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | umbrella.com | Yes |
 | unstoppable.io | Yes |
 | unx.io | No |
+| us.to | Yes |
 | virga.pp.ua | Yes |
 | vtcuong.site | Yes |
 | wahr.top | Yes |
@@ -231,8 +241,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 112 |
-| Normal | 100 |
+| Cloudflare | 119 |
+| Normal | 103 |
 
 
-### 52.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
