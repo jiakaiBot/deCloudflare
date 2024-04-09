@@ -3707,7 +3707,7 @@ Here's a list of public Fediverse services.
 | `autogeree.net` | No |
 | `autogestion.org` | No |
 | `autogestioncitoyenne.org` | No |
-| `automa.sh` | Yes |
+| `automa.sh` | No |
 | `automagiska.se` | Yes |
 | `automaphoni.ca` | No |
 | `automario.eu` | No |
@@ -6527,6 +6527,7 @@ Here's a list of public Fediverse services.
 | `bunnyanarchy.org` | No |
 | `bunnycloud.ca` | No |
 | `bunnyhut.ch` | No |
+| `buns.pet` | No |
 | `bunt.social` | No |
 | `buntadon.jp` | No |
 | `buntcomm.com` | No |
@@ -8778,7 +8779,7 @@ Here's a list of public Fediverse services.
 | `compcube.info` | No |
 | `compensis.de` | No |
 | `compgen.de` | No |
-| `compi.lol` | Yes |
+| `compi.lol` | No |
 | `complacent.io` | No |
 | `complainthub.com` | No |
 | `complecwaft.com` | Yes |
@@ -34250,7 +34251,7 @@ Here's a list of public Fediverse services.
 | `nyaan.social` | Yes |
 | `nyac.at` | Yes |
 | `nyadobe.online` | No |
-| `nyago.cyou` | Yes |
+| `nyago.cyou` | No |
 | `nyahyun.com` | Yes |
 | `nyaight.me` | Yes |
 | `nyan.cafe` | No |
@@ -54009,8 +54010,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,533 |
-| Normal | 38,428 |
+| Cloudflare | 15,530 |
+| Normal | 38,432 |
 
 
 </details>
