@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,532 |
+| com | 8,533 |
 | social | 4,881 |
 | net | 4,195 |
 | org | 2,797 |
@@ -24184,6 +24184,7 @@ Here's a list of public Fediverse services.
 | `kinkpic.site` | Yes |
 | `kinks.wtf` | Yes |
 | `kinkster.dk` | No |
+| `kinktodd.com` | No |
 | `kinktroet.social` | No |
 | `kinkuroshideout.com` | No |
 | `kinkworks.com` | Yes |
@@ -31789,6 +31790,7 @@ Here's a list of public Fediverse services.
 | `mvolfik.com` | Yes |
 | `mvoss.eu` | No |
 | `mvp-demo.com` | Yes |
+| `mvpgame.dev` | No |
 | `mvskoke.social` | No |
 | `mvu.pl` | No |
 | `mw.social` | No |
@@ -54044,7 +54046,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,538 |
-| Normal | 38,457 |
+| Normal | 38,459 |
 
 
 </details>
