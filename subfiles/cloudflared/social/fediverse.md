@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,533 |
 | social | 4,881 |
-| net | 4,195 |
+| net | 4,196 |
 | org | 2,797 |
-| de | 2,706 |
+| de | 2,707 |
 
 
 - Mastodon, Pleroma, etc
@@ -6810,6 +6810,7 @@ Here's a list of public Fediverse services.
 | `cairobraga.com` | Yes |
 | `cakes.rocks` | Yes |
 | `calacademy.org` | Yes |
+| `caladan.dev` | Yes |
 | `caladona.org` | No |
 | `calamero.net` | No |
 | `calamity.world` | Yes |
@@ -20550,7 +20551,7 @@ Here's a list of public Fediverse services.
 | `hyperion.social` | Yes |
 | `hypermute.com` | Yes |
 | `hypernodemedia.com` | No |
-| `hyperpla.net` | Yes |
+| `hyperpla.net` | No |
 | `hyperplex.net` | No |
 | `hyperreal.coffee` | No |
 | `hyperreal.tube` | No |
@@ -22370,6 +22371,7 @@ Here's a list of public Fediverse services.
 | `jcsh.eu` | No |
 | `jcx.nu` | No |
 | `jcx.se` | No |
+| `jcxldn.net` | Yes |
 | `jczmz.com` | Yes |
 | `jdbnet.co.uk` | Yes |
 | `jdbsoft.com` | No |
@@ -24457,6 +24459,7 @@ Here's a list of public Fediverse services.
 | `kneegrows.top` | No |
 | `kneitzel.de` | No |
 | `knetworld.net` | No |
+| `knfetti.xyz` | No |
 | `knh.uno` | No |
 | `knickerghost.com` | No |
 | `knife.coffee` | No |
@@ -30415,6 +30418,7 @@ Here's a list of public Fediverse services.
 | `mister.computer` | No |
 | `misterbanal.net` | No |
 | `misterfpga.social` | No |
+| `mistergreen.info` | No |
 | `misterme.fr` | No |
 | `mistermi.me` | No |
 | `mistic.net` | No |
@@ -44154,6 +44158,7 @@ Here's a list of public Fediverse services.
 | `spatlo.com` | Yes |
 | `spatzenpost.eu` | No |
 | `spaz.org` | No |
+| `spd-garching.de` | No |
 | `spd.social` | No |
 | `spdd.me` | No |
 | `spdns.de` | No |
@@ -54045,8 +54050,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,538 |
-| Normal | 38,459 |
+| Cloudflare | 15,539 |
+| Normal | 38,463 |
 
 
 </details>
