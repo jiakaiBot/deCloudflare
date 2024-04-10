@@ -194,6 +194,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sarilouis.com | No |
 | sc-lezhi.com | No |
 | schlagheck.berlin | Yes |
+| sealyserver.com | Yes |
 | seby.io | Yes |
 | serdcebolit.ru | No |
 | sheggi.ch | Yes |
@@ -244,8 +245,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 120 |
+| Cloudflare | 121 |
 | Normal | 105 |
 
 
-### 53.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
