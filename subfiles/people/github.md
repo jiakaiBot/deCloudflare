@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Support for Cloudflare Wrangler](https://github.com/samchon/typia/issues/1022)
 - [Response 403: Cloudflare detected](https://github.com/xtekky/gpt4free/issues/1815)
 - [How can I speed up the reading of my file from my device?](https://github.com/birdofpreyru/react-native-fs/issues/34)
 - [The destination wallet didnot receive IBC token](https://github.com/informalsystems/hermes/issues/3941)
