@@ -2954,7 +2954,7 @@ Here's a list of public Fediverse services.
 | `archipell.xyz` | No |
 | `archipielago.uno` | No |
 | `architektur.social` | No |
-| `archive.org` | No |
+| `archive.org` | Yes |
 | `archived.software` | No |
 | `archivefedifor.fun` | No |
 | `archlinux.fyi` | Yes |
@@ -7146,6 +7146,7 @@ Here's a list of public Fediverse services.
 | `cat-from-outer.space` | No |
 | `cat-wo.men` | Yes |
 | `cat.broker` | No |
+| `cat.community` | Yes |
 | `cat.engineer` | No |
 | `cat.family` | No |
 | `cat.scot` | Yes |
@@ -54042,8 +54043,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,536 |
-| Normal | 38,458 |
+| Cloudflare | 15,538 |
+| Normal | 38,457 |
 
 
 </details>
