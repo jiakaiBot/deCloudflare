@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,535 |
+| com | 8,536 |
 | social | 4,881 |
 | net | 4,197 |
 | org | 2,797 |
@@ -3067,7 +3067,7 @@ Here's a list of public Fediverse services.
 | `arkm.de` | No |
 | `arkm.social` | No |
 | `arkmag.rocks` | No |
-| `arkproject.io` | Yes |
+| `arkproject.io` | No |
 | `arkros.net` | No |
 | `arks.cafe` | Yes |
 | `arks.social` | No |
@@ -3527,6 +3527,7 @@ Here's a list of public Fediverse services.
 | `atlanten.se` | Yes |
 | `atlanti.se` | No |
 | `atlas-media.co.uk` | Yes |
+| `atlbbs.com` | No |
 | `atm0sp33r.space` | No |
 | `atmasto.com` | No |
 | `atmoschem.org` | No |
@@ -12889,7 +12890,7 @@ Here's a list of public Fediverse services.
 | `ediot.social` | No |
 | `ediscovery.social` | No |
 | `edist.ro` | No |
-| `editing.fun` | Yes |
+| `editing.fun` | No |
 | `edition.social` | No |
 | `editors.place` | No |
 | `ediverse.vip` | Yes |
@@ -23877,7 +23878,7 @@ Here's a list of public Fediverse services.
 | `kemoshi.co` | No |
 | `kemoshiko.com` | No |
 | `kempkens.io` | Yes |
-| `kempten.social` | Yes |
+| `kempten.social` | No |
 | `kemuniku.com` | Yes |
 | `kendoo.eu` | No |
 | `kendoseinajoki.fi` | No |
@@ -26952,6 +26953,7 @@ Here's a list of public Fediverse services.
 | `looped.network` | Yes |
 | `loopfree.tech` | No |
 | `loophole.site` | No |
+| `loopinfinito.fr` | No |
 | `looplab.net` | No |
 | `looprock.com` | No |
 | `loopsaisei.ooo` | No |
@@ -46451,7 +46453,7 @@ Here's a list of public Fediverse services.
 | `teknorota.com` | Yes |
 | `teknostatik.co.uk` | No |
 | `tekolote.co` | Yes |
-| `tekton.network` | No |
+| `tekton.network` | Yes |
 | `tela.moe` | Yes |
 | `teldarpaper.com` | No |
 | `teleassist.fr` | No |
@@ -52566,7 +52568,7 @@ Here's a list of public Fediverse services.
 | `xfcab.com` | No |
 | `xffxe4.lol` | Yes |
 | `xfile.click` | No |
-| `xfk48.com` | No |
+| `xfk48.com` | Yes |
 | `xfrog.top` | No |
 | `xgix.net` | Yes |
 | `xgold.xyz` | No |
@@ -53494,7 +53496,7 @@ Here's a list of public Fediverse services.
 | `z0ne.social` | Yes |
 | `z0ne.stream` | Yes |
 | `z0r.co` | No |
-| `z0to1.com` | Yes |
+| `z0to1.com` | No |
 | `z1lk.net` | No |
 | `z27.ch` | No |
 | `z2h.dev` | No |
@@ -54059,8 +54061,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,544 |
-| Normal | 38,467 |
+| Cloudflare | 15,542 |
+| Normal | 38,471 |
 
 
 </details>
