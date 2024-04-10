@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,533 |
+| com | 8,535 |
 | social | 4,881 |
 | net | 4,196 |
 | org | 2,797 |
@@ -3756,6 +3756,7 @@ Here's a list of public Fediverse services.
 | `avatastic.uk` | Yes |
 | `avclub.camp` | No |
 | `avdi.codes` | Yes |
+| `avdsrj.ir` | Yes |
 | `ave5.dev` | No |
 | `avensio.de` | No |
 | `aventer.biz` | No |
@@ -6809,6 +6810,7 @@ Here's a list of public Fediverse services.
 | `cairnscustomcomputers.cloud` | Yes |
 | `cairobraga.com` | Yes |
 | `cakes.rocks` | Yes |
+| `cakey.me` | No |
 | `calacademy.org` | Yes |
 | `caladan.dev` | Yes |
 | `caladona.org` | No |
@@ -18285,6 +18287,7 @@ Here's a list of public Fediverse services.
 | `greenedgecloud.com` | No |
 | `greenfeathereddragon.com` | Yes |
 | `greenfield.social` | No |
+| `greenfrog.life` | Yes |
 | `greengame.dev` | No |
 | `greenhill.zone` | No |
 | `greenish.red` | Yes |
@@ -19621,6 +19624,7 @@ Here's a list of public Fediverse services.
 | `heystory.net` | Yes |
 | `heythere.cloud` | No |
 | `heythere.org` | No |
+| `heywoodlh.io` | Yes |
 | `heywoodlh.tech` | Yes |
 | `hezu.art` | Yes |
 | `hfranco.dev` | No |
@@ -20966,6 +20970,7 @@ Here's a list of public Fediverse services.
 | `ilovepunjabi.com` | No |
 | `ilovewasting.ink` | No |
 | `ils.org` | No |
+| `ilsix.xyz` | No |
 | `ilus.io` | Yes |
 | `ilustre.li` | Yes |
 | `ilvar.ru` | No |
@@ -22450,6 +22455,7 @@ Here's a list of public Fediverse services.
 | `jenniferking.me` | No |
 | `jennifilm.nz` | No |
 | `jennisspace.com` | Yes |
+| `jennjbrewer.com` | No |
 | `jenoki.net` | No |
 | `jenot.info` | No |
 | `jenovarain.com` | No |
@@ -40480,6 +40486,7 @@ Here's a list of public Fediverse services.
 | `rope-access-work.com` | No |
 | `ropeburn.social` | No |
 | `ropedrop.social` | No |
+| `roperoaventuras.com` | No |
 | `ropo.jp` | No |
 | `rorea.moe` | Yes |
 | `rororo.xyz` | Yes |
@@ -54050,8 +54057,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,539 |
-| Normal | 38,463 |
+| Cloudflare | 15,542 |
+| Normal | 38,467 |
 
 
 </details>
