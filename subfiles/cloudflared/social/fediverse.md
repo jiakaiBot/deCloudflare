@@ -3844,6 +3844,7 @@ Here's a list of public Fediverse services.
 | `awoo.fun` | No |
 | `awoo.fyi` | Yes |
 | `awoo.ing` | No |
+| `awoo.pet` | Yes |
 | `awoo.pub` | Yes |
 | `awoo.space` | No |
 | `awoo.st` | No |
@@ -35357,7 +35358,6 @@ Here's a list of public Fediverse services.
 | `osci.io` | No |
 | `osconjunction.net` | No |
 | `osd.dk` | No |
-| `osdn.jp` | No |
 | `osechin.co` | No |
 | `oseka.xyz` | No |
 | `osfast.com` | No |
@@ -54061,8 +54061,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,542 |
-| Normal | 38,471 |
+| Cloudflare | 15,543 |
+| Normal | 38,470 |
 
 
 </details>
