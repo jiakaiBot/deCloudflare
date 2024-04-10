@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Wrangler Deploy Fails After Adding FrogUI](https://github.com/wevm/frog/issues/240)
 - [Support for Cloudflare Wrangler](https://github.com/samchon/typia/issues/1022)
 - [Response 403: Cloudflare detected](https://github.com/xtekky/gpt4free/issues/1815)
 - [How can I speed up the reading of my file from my device?](https://github.com/birdofpreyru/react-native-fs/issues/34)
