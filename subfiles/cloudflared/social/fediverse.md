@@ -2954,7 +2954,7 @@ Here's a list of public Fediverse services.
 | `archipell.xyz` | No |
 | `archipielago.uno` | No |
 | `architektur.social` | No |
-| `archive.org` | Yes |
+| `archive.org` | No |
 | `archived.software` | No |
 | `archivefedifor.fun` | No |
 | `archlinux.fyi` | Yes |
@@ -4273,7 +4273,7 @@ Here's a list of public Fediverse services.
 | `barcelona.social` | No |
 | `barchet.eu` | No |
 | `barciauskas.com` | No |
-| `barclay.social` | Yes |
+| `barclay.social` | No |
 | `barcollo.space` | No |
 | `bardia.tech` | No |
 | `bardiharborow.com` | No |
@@ -14812,7 +14812,7 @@ Here's a list of public Fediverse services.
 | `fedimagazine.info` | Yes |
 | `fedimagazine.tokyo` | Yes |
 | `fedimaker.space` | No |
-| `fedimas.com` | Yes |
+| `fedimas.com` | No |
 | `fedimast.com` | No |
 | `fedimav.win` | Yes |
 | `fedimins.net` | No |
@@ -23930,7 +23930,7 @@ Here's a list of public Fediverse services.
 | `keskonfai.fr` | No |
 | `kessai-otaku.club` | Yes |
 | `kessoku.band` | Yes |
-| `kessoku.club` | Yes |
+| `kessoku.club` | No |
 | `kestrelsnest.social` | No |
 | `kesuek.de` | No |
 | `ketanjoshi.co` | No |
@@ -24689,6 +24689,7 @@ Here's a list of public Fediverse services.
 | `konzurovski.net` | No |
 | `koodaacraft.org` | Yes |
 | `koogle.sk` | Yes |
+| `kookie.space` | No |
 | `koolaidwithkaran.com` | No |
 | `koolkidsonly.club` | No |
 | `kooperatywa.tech` | No |
@@ -34518,7 +34519,7 @@ Here's a list of public Fediverse services.
 | `odon.ninja` | No |
 | `odon.space` | No |
 | `odorite.tokyo` | No |
-| `odous.app` | Yes |
+| `odous.app` | No |
 | `odragaover.de` | Yes |
 | `ody.si` | No |
 | `odysseus.social` | No |
@@ -47562,7 +47563,7 @@ Here's a list of public Fediverse services.
 | `tiflonet.com` | No |
 | `tifosi.social` | No |
 | `tifox.fr` | No |
-| `tigefa.space` | Yes |
+| `tigefa.space` | No |
 | `tigerbeetle.de` | No |
 | `tigercubden.com` | Yes |
 | `tigerden.xyz` | No |
@@ -54036,8 +54037,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,540 |
-| Normal | 38,448 |
+| Cloudflare | 15,534 |
+| Normal | 38,455 |
 
 
 </details>
