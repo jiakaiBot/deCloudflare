@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,532 |
-| social | 4,880 |
+| social | 4,881 |
 | net | 4,195 |
-| org | 2,796 |
+| org | 2,797 |
 | de | 2,706 |
 
 
@@ -37939,6 +37939,7 @@ Here's a list of public Fediverse services.
 | `privacyhub.xyz` | No |
 | `privacyinternational.org` | Yes |
 | `privacymatters.pro` | No |
+| `privacyminded.social` | No |
 | `privacyofficers.social` | No |
 | `privacyquest.net` | Yes |
 | `privacytools.io` | Yes |
@@ -42773,6 +42774,7 @@ Here's a list of public Fediverse services.
 | `sigint.sx` | No |
 | `sigma-project.jp` | Yes |
 | `sigma-star.io` | No |
+| `sigmadev.org` | Yes |
 | `sigmaenterprisesltd.com` | No |
 | `sigmaris.info` | Yes |
 | `sigmoid.social` | No |
@@ -42974,7 +42976,7 @@ Here's a list of public Fediverse services.
 | `sins.center` | No |
 | `siotter.tk` | No |
 | `siotter.xyz` | Yes |
-| `siou.ga` | Yes |
+| `siou.ga` | No |
 | `sip.sh` | No |
 | `sip3.de` | No |
 | `sipassa.gq` | No |
@@ -53731,6 +53733,7 @@ Here's a list of public Fediverse services.
 | `zevs.me` | No |
 | `zeweb.de` | No |
 | `zfadd.is` | No |
+| `zfov.ca` | No |
 | `zgasma.org` | No |
 | `zgjnas.top` | No |
 | `zgo.de` | No |
@@ -54039,7 +54042,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,534 |
-| Normal | 38,456 |
+| Normal | 38,459 |
 
 
 </details>
