@@ -112,6 +112,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jackyes.ovh | No |
 | jnraptor.net | Yes |
 | justincounts.com | No |
+| keke125.com | Yes |
 | kel.pe | No |
 | kernel-error.de | No |
 | ketan.dev | Yes |
@@ -127,6 +128,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | libredns.gr | No |
 | lindung.pp.ua | Yes |
 | lista.my.id | Yes |
+| lobbygod.com | No |
 | londonwebnerd.cloud | Yes |
 | lonet.org | Yes |
 | mandre.dev | No |
@@ -143,6 +145,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mydns.network | Yes |
 | mywire.org | Yes |
 | narl.app | No |
+| neilzone.co.uk | No |
 | nenam.eu | No |
 | nexific.it | Yes |
 | nic.cz | No |
@@ -152,6 +155,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | njal.la | No |
 | noaddns.com | No |
 | node15.com | Yes |
+| nordthreatprotection.com | Yes |
 | noridev.moe | No |
 | npsolution.it | No |
 | ofdoom.net | Yes |
@@ -159,6 +163,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | opendns.com | Yes |
 | oryxlabs.com | Yes |
 | oszx.co | No |
+| p3k.sk | No |
 | paesa.es | Yes |
 | panszelescik.pl | Yes |
 | pathofgrace.com | No |
@@ -240,8 +245,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 119 |
-| Normal | 102 |
+| Cloudflare | 121 |
+| Normal | 105 |
 
 
-### 53.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
