@@ -146,11 +146,11 @@ Top 10
 | _f5118cd9_ | 41,905 |
 | _b2e5020c_ | 41,373 |
 | _43f35922_ | 41,359 |
-| _c25a80cd_ | 41,122 |
+| _c25a80cd_ | 41,138 |
 | _4cb38ae1_ | 40,948 |
 | _56e46aa2_ | 40,740 |
 | _ff7fb3c9_ | 40,733 |
 
-- Total Score: 1,932,017
+- Total Score: 1,934,287
 
 ![](../../image/what_are_you_hunting_cloudflare.png)
