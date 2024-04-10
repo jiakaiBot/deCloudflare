@@ -3200,7 +3200,7 @@ Here's a list of public Fediverse services.
 | `artiss.blog` | No |
 | `artist.cx` | No |
 | `artist.exposed` | No |
-| `artistalley.space` | No |
+| `artistalley.space` | Yes |
 | `artistsinthe.cloud` | No |
 | `artivain.com` | Yes |
 | `artless.cc` | No |
@@ -3755,6 +3755,7 @@ Here's a list of public Fediverse services.
 | `avatastic.co.uk` | No |
 | `avatastic.uk` | Yes |
 | `avclub.camp` | No |
+| `avdi.codes` | Yes |
 | `ave5.dev` | No |
 | `avensio.de` | No |
 | `aventer.biz` | No |
@@ -54041,8 +54042,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,534 |
-| Normal | 38,459 |
+| Cloudflare | 15,536 |
+| Normal | 38,458 |
 
 
 </details>
