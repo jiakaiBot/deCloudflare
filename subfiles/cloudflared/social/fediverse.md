@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,535 |
 | social | 4,881 |
-| net | 4,196 |
+| net | 4,197 |
 | org | 2,797 |
 | de | 2,707 |
 
@@ -11767,6 +11767,7 @@ Here's a list of public Fediverse services.
 | `dlitz.net` | No |
 | `dll.nu` | No |
 | `dlowe.net` | No |
+| `dlsiteparadise.net` | Yes |
 | `dltq.org` | No |
 | `dlun.ch` | Yes |
 | `dlvn.cc` | No |
@@ -36101,6 +36102,7 @@ Here's a list of public Fediverse services.
 | `patrick.social` | Yes |
 | `patrick.wtf` | No |
 | `patrickv.be` | Yes |
+| `patryki.blog` | No |
 | `patternclub.org` | No |
 | `patty-gray.com` | No |
 | `patu.re` | No |
@@ -53448,7 +53450,7 @@ Here's a list of public Fediverse services.
 | `yuto-shin.net` | No |
 | `yutsuku.net` | Yes |
 | `yutu.nl` | Yes |
-| `yuu0918.net` | No |
+| `yuu0918.net` | Yes |
 | `yuu26.com` | No |
 | `yuuki.pictures` | No |
 | `yuukoma.online` | Yes |
@@ -54057,7 +54059,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,542 |
+| Cloudflare | 15,544 |
 | Normal | 38,467 |
 
 
