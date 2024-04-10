@@ -34849,6 +34849,7 @@ Here's a list of public Fediverse services.
 | `omtc.fr` | No |
 | `omx.nl` | No |
 | `omz13.com` | No |
+| `on-a-ps4.lol` | Yes |
 | `on-o.com` | No |
 | `on-t.work` | Yes |
 | `on-trails.com` | Yes |
@@ -53047,7 +53048,7 @@ Here's a list of public Fediverse services.
 | `yearning.gay` | No |
 | `yeatsj.com` | No |
 | `yee.camp` | No |
-| `yeeehaw.club` | Yes |
+| `yeeehaw.club` | No |
 | `yeehaw.town` | No |
 | `yeen.exposed` | No |
 | `yeen.info` | No |
@@ -54038,7 +54039,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,534 |
-| Normal | 38,455 |
+| Normal | 38,456 |
 
 
 </details>
