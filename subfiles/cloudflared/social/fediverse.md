@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,541 |
+| com | 8,542 |
 | social | 4,882 |
 | net | 4,198 |
 | org | 2,798 |
@@ -4727,6 +4727,7 @@ Here's a list of public Fediverse services.
 | `benjami.in` | Yes |
 | `benjamin-westland.de` | No |
 | `benjamin.social` | No |
+| `benjaminasimpson.com` | No |
 | `benjaminhollon.com` | Yes |
 | `benjaminturner.me` | Yes |
 | `benji.dog` | Yes |
@@ -20112,7 +20113,7 @@ Here's a list of public Fediverse services.
 | `hootiegibbon.co.uk` | No |
 | `hooves.social` | No |
 | `hopbox.net` | No |
-| `hopcount.nl` | Yes |
+| `hopcount.nl` | No |
 | `hope-pf27.moe` | Yes |
 | `hope.tube` | No |
 | `hopefullyread.com` | No |
@@ -20797,7 +20798,7 @@ Here's a list of public Fediverse services.
 | `idiot-garbage.tk` | No |
 | `idiot.sh` | Yes |
 | `idiotbagel.com` | No |
-| `idiots.chat` | No |
+| `idiots.chat` | Yes |
 | `idk.party` | No |
 | `idlesignal.com` | No |
 | `idlestate.org` | No |
@@ -24145,7 +24146,7 @@ Here's a list of public Fediverse services.
 | `kill-corporations.enterprises` | No |
 | `kill.yt` | No |
 | `killallcops.today` | No |
-| `killbox.social` | Yes |
+| `killbox.social` | No |
 | `killcops.lol` | No |
 | `killed.xyz` | No |
 | `killerkitty.ch` | No |
@@ -47449,7 +47450,7 @@ Here's a list of public Fediverse services.
 | `thisguy.wtf` | No |
 | `thishorsie.rocks` | No |
 | `thisiscapitalism.us` | No |
-| `thisiscowboy.io` | No |
+| `thisiscowboy.io` | Yes |
 | `thisisgoodcontent.com` | Yes |
 | `thisisgvrt.me` | Yes |
 | `thisishowidontdisappear.com` | No |
@@ -54086,7 +54087,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,546 |
-| Normal | 38,491 |
+| Normal | 38,492 |
 
 
 </details>
