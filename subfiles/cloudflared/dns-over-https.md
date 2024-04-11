@@ -113,7 +113,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jnraptor.net | Yes |
 | justincounts.com | No |
 | keke125.com | Yes |
-| kel.pe | No |
 | kernel-error.de | No |
 | ketan.dev | Yes |
 | konikoni428.com | Yes |
@@ -246,7 +245,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 121 |
-| Normal | 105 |
+| Normal | 104 |
 
 
-### 53.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
