@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,537 |
+| com | 8,538 |
 | social | 4,882 |
 | net | 4,198 |
 | org | 2,798 |
@@ -53547,6 +53547,7 @@ Here's a list of public Fediverse services.
 | `zackwu.com` | Yes |
 | `zaclys.com` | No |
 | `zacpwhite.social` | No |
+| `zacstraub.com` | No |
 | `zacwe.st` | Yes |
 | `zadankai.club` | Yes |
 | `zadi.social` | No |
@@ -54073,7 +54074,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,543 |
-| Normal | 38,481 |
+| Normal | 38,482 |
 
 
 </details>
