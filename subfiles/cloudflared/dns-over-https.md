@@ -14,6 +14,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Provider | Cloudflared |
 | --- | --- |
 | 00dani.me | No |
+| 3dns.eu | No |
 | 4-the.win | Yes |
 | 52306.org | Yes |
 | 8888.google | No |
@@ -33,6 +34,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | baishiyuan.cn | No |
 | bancuh.com | No |
 | bitdefender.net | Yes |
+| bitservices.io | No |
 | blaze-sk.ru | No |
 | blokada.org | Yes |
 | bonis.de | No |
@@ -104,12 +106,14 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hostme.co.il | Yes |
 | huque.com | No |
 | huseynov.work | Yes |
+| hypercute.eu | No |
 | iij.jp | Yes |
 | ikarosalpha.xyz | Yes |
 | in-berlin.de | No |
 | indybanipal.com | No |
 | inria.fr | No |
 | jackyes.ovh | No |
+| janl.eu | Yes |
 | jnraptor.net | Yes |
 | justincounts.com | No |
 | keke125.com | Yes |
@@ -126,7 +130,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lezainski.com | Yes |
 | libredns.gr | No |
 | lindung.pp.ua | Yes |
-| lista.my.id | Yes |
 | lobbygod.com | No |
 | londonwebnerd.cloud | Yes |
 | lonet.org | Yes |
@@ -211,6 +214,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sunet.se | No |
 | sunnygyl.com | No |
 | superstefan.win | Yes |
+| svoi.dev | Yes |
 | syshero.org | No |
 | t53.de | No |
 | technicule.info | Yes |
@@ -243,8 +247,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 121 |
-| Normal | 103 |
+| Cloudflare | 122 |
+| Normal | 106 |
 
 
-### 54% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 53.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
