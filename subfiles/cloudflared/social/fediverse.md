@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,538 |
+| com | 8,539 |
 | social | 4,882 |
 | net | 4,198 |
 | org | 2,798 |
@@ -2440,6 +2440,7 @@ Here's a list of public Fediverse services.
 | `andsmiled.com` | Yes |
 | `andstuff.us` | No |
 | `anduin.net` | No |
+| `andus.dev` | Yes |
 | `andx.lol` | No |
 | `andy-bell.com` | Yes |
 | `andyd.uk` | No |
@@ -14317,7 +14318,7 @@ Here's a list of public Fediverse services.
 | `fair-verhandeln.de` | No |
 | `fair.tube` | No |
 | `fairbairn.cloud` | No |
-| `fairdinkum.one` | Yes |
+| `fairdinkum.one` | No |
 | `fairground.moe` | No |
 | `fairilu.net` | No |
 | `fairly.social` | No |
@@ -32276,6 +32277,7 @@ Here's a list of public Fediverse services.
 | `nanasi-apps.xyz` | Yes |
 | `nanasina.com` | No |
 | `nanasina.net` | Yes |
+| `nanassa.com` | No |
 | `nanax.fr` | No |
 | `nanaya.net` | No |
 | `nanbon.eu` | No |
@@ -40386,6 +40388,7 @@ Here's a list of public Fediverse services.
 | `roguewave.observer` | No |
 | `rohangrey.net` | No |
 | `rohr.org` | No |
+| `rohrmoser.name` | No |
 | `roiarthurb.xyz` | No |
 | `roidesbulgares.rocks` | No |
 | `roishi.moe` | No |
@@ -54075,7 +54078,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,543 |
-| Normal | 38,483 |
+| Normal | 38,486 |
 
 
 </details>
