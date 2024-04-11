@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increase in caching errors](https://github.com/SecOpsNews/news/issues/27116)
+- [3.0.0-rc4: TCP connection error: i/o timeout](https://github.com/traefik/traefik/issues/10592)
 - [Blocked by Cloudflare](https://github.com/Razviar/marvelsnaptracker/issues/76)
 - [Wrangler Deploy Fails After Adding FrogUI](https://github.com/wevm/frog/issues/240)
 - [Support for Cloudflare Wrangler](https://github.com/samchon/typia/issues/1022)
