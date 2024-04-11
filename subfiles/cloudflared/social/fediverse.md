@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,536 |
 | social | 4,882 |
 | net | 4,198 |
-| org | 2,797 |
+| org | 2,798 |
 | de | 2,707 |
 
 
@@ -3024,6 +3024,7 @@ Here's a list of public Fediverse services.
 | `argyle.place` | No |
 | `argyle.systems` | No |
 | `ari-zone.com` | Yes |
+| `ari.lt` | No |
 | `aria.company` | No |
 | `aria.dog` | No |
 | `aria.rip` | No |
@@ -50293,6 +50294,7 @@ Here's a list of public Fediverse services.
 | `veganhighland.scot` | No |
 | `veganism.social` | Yes |
 | `veganmsp.com` | Yes |
+| `vegantheoryclub.org` | No |
 | `veganunity.me` | No |
 | `veganunity.rocks` | No |
 | `vegard.net` | No |
@@ -54067,7 +54069,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,544 |
-| Normal | 38,474 |
+| Normal | 38,476 |
 
 
 </details>
