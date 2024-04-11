@@ -162,7 +162,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | opendns.com | Yes |
 | oryxlabs.com | Yes |
 | oszx.co | No |
-| p3k.sk | No |
 | paesa.es | Yes |
 | panszelescik.pl | Yes |
 | pathofgrace.com | No |
@@ -245,7 +244,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 121 |
-| Normal | 104 |
+| Normal | 103 |
 
 
-### 53.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54% of DNS-over-HTTPS (DoH) are using Cloudflare.
