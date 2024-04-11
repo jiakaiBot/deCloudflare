@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,542 |
+| com | 8,541 |
 | social | 4,884 |
 | net | 4,198 |
 | org | 2,798 |
@@ -4727,7 +4727,6 @@ Here's a list of public Fediverse services.
 | `benjami.in` | Yes |
 | `benjamin-westland.de` | No |
 | `benjamin.social` | No |
-| `benjaminasimpson.com` | No |
 | `benjaminhollon.com` | Yes |
 | `benjaminturner.me` | Yes |
 | `benji.dog` | Yes |
@@ -36352,7 +36351,7 @@ Here's a list of public Fediverse services.
 | `pehnet.org` | No |
 | `peister.org` | No |
 | `peixe.co` | Yes |
-| `pejookaloo.com` | No |
+| `pejookaloo.com` | Yes |
 | `pejookaloo.social` | Yes |
 | `pekepeke.work` | No |
 | `pekkasipila.com` | No |
@@ -54088,8 +54087,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,547 |
-| Normal | 38,493 |
+| Cloudflare | 15,548 |
+| Normal | 38,491 |
 
 
 </details>
