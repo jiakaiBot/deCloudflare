@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,542 |
-| social | 4,883 |
+| social | 4,884 |
 | net | 4,198 |
 | org | 2,798 |
 | de | 2,707 |
@@ -25265,6 +25265,7 @@ Here's a list of public Fediverse services.
 | `labotadon.net` | No |
 | `labottegadelbarbieri.org` | No |
 | `labotter.com` | Yes |
+| `labour.social` | Yes |
 | `laboursocial.co` | No |
 | `laboutinerie.ovh` | No |
 | `labr.online` | No |
@@ -54087,7 +54088,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,546 |
+| Cloudflare | 15,547 |
 | Normal | 38,493 |
 
 
