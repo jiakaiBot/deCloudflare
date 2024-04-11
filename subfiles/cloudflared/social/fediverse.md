@@ -8400,6 +8400,7 @@ Here's a list of public Fediverse services.
 | `clustr.fun` | No |
 | `cly.wtf` | Yes |
 | `clyez.city` | No |
+| `clypeata.fr` | No |
 | `cm-en-transition.fr` | No |
 | `cm-social.com` | Yes |
 | `cmails.de` | No |
@@ -47774,6 +47775,7 @@ Here's a list of public Fediverse services.
 | `tjhowse.com` | Yes |
 | `tjm77.com` | No |
 | `tjpalanca.com` | Yes |
+| `tjs.is` | No |
 | `tjs360.com` | No |
 | `tkaefer.de` | No |
 | `tkammer.de` | No |
@@ -48023,7 +48025,7 @@ Here's a list of public Fediverse services.
 | `tongfamily.com` | No |
 | `tonholzpixel.de` | No |
 | `toni.im` | No |
-| `tonikawa.social` | Yes |
+| `tonikawa.social` | No |
 | `toniotti.be` | No |
 | `toniozz75.fr` | Yes |
 | `tonkku.me` | No |
@@ -54070,8 +54072,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,544 |
-| Normal | 38,478 |
+| Cloudflare | 15,543 |
+| Normal | 38,481 |
 
 
 </details>
