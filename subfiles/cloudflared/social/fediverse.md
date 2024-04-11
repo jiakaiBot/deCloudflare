@@ -28056,7 +28056,7 @@ Here's a list of public Fediverse services.
 | `marbledfennec.net` | No |
 | `marc1307.de` | Yes |
 | `marcel-waldvogel.ch` | No |
-| `marcel.io` | No |
+| `marcel.io` | Yes |
 | `marcelweiss.de` | No |
 | `marcg.pizza` | No |
 | `marcgoertz.de` | No |
@@ -32267,6 +32267,7 @@ Here's a list of public Fediverse services.
 | `nanaaki.com` | No |
 | `nanachi.store` | Yes |
 | `nanaka.love` | No |
+| `nanako-net.info` | No |
 | `nanakumo.xyz` | Yes |
 | `nanamachi.net` | No |
 | `nanamono.xyz` | No |
@@ -36059,7 +36060,7 @@ Here's a list of public Fediverse services.
 | `passivevoyeur.uk` | No |
 | `passivity.pub` | No |
 | `passthejoe.net` | No |
-| `passtodon.social` | Yes |
+| `passtodon.social` | No |
 | `passwd.org` | Yes |
 | `pasta.ga` | No |
 | `pasta.social` | Yes |
@@ -54074,7 +54075,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,543 |
-| Normal | 38,482 |
+| Normal | 38,483 |
 
 
 </details>
