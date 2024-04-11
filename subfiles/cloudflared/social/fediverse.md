@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,541 |
+| com | 8,542 |
 | social | 4,884 |
 | net | 4,198 |
 | org | 2,798 |
@@ -4727,6 +4727,7 @@ Here's a list of public Fediverse services.
 | `benjami.in` | Yes |
 | `benjamin-westland.de` | No |
 | `benjamin.social` | No |
+| `benjaminasimpson.com` | No |
 | `benjaminhollon.com` | Yes |
 | `benjaminturner.me` | Yes |
 | `benji.dog` | Yes |
@@ -25482,7 +25483,7 @@ Here's a list of public Fediverse services.
 | `lapuas.xyz` | No |
 | `lapuertaescrita.com` | No |
 | `lapunta.org` | No |
-| `lapy.kr` | No |
+| `lapy.kr` | Yes |
 | `lapy.link` | Yes |
 | `lapy.moe` | Yes |
 | `laradon.io` | No |
@@ -29983,7 +29984,6 @@ Here's a list of public Fediverse services.
 | `migueloteroiglesias.eu` | Yes |
 | `mihalis.net` | No |
 | `mii.codes` | Yes |
-| `mii.dev` | Yes |
 | `mii.gay` | No |
 | `miicat.eu` | Yes |
 | `miichelle.moe` | Yes |
