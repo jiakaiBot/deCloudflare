@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,536 |
+| com | 8,537 |
 | social | 4,882 |
 | net | 4,198 |
 | org | 2,798 |
@@ -47139,6 +47139,7 @@ Here's a list of public Fediverse services.
 | `thenewoil.xyz` | No |
 | `thenewsocial.de` | No |
 | `thenextbillion.com` | No |
+| `thenexus.today` | No |
 | `thenice.cafe` | No |
 | `thenintendo.shop` | No |
 | `thenks.social` | No |
@@ -47677,6 +47678,7 @@ Here's a list of public Fediverse services.
 | `timothyhay.org` | Yes |
 | `timowens.io` | No |
 | `timowensby.com` | No |
+| `timpowered.com` | No |
 | `timprobst.com` | No |
 | `timsherratt.org` | No |
 | `timshomepage.net` | No |
@@ -54069,7 +54071,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,544 |
-| Normal | 38,476 |
+| Normal | 38,478 |
 
 
 </details>
