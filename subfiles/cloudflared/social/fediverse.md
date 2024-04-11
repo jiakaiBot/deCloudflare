@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,542 |
-| social | 4,882 |
+| social | 4,883 |
 | net | 4,198 |
 | org | 2,798 |
 | de | 2,707 |
@@ -13636,6 +13636,7 @@ Here's a list of public Fediverse services.
 | `epicwhim.com` | Yes |
 | `epider.me` | No |
 | `epiktistes.com` | No |
+| `epiphania.social` | No |
 | `epiphyte.ie` | No |
 | `episcodon.net` | No |
 | `epistles.xyz` | No |
@@ -54087,7 +54088,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,546 |
-| Normal | 38,492 |
+| Normal | 38,493 |
 
 
 </details>
