@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,536 |
 | social | 4,882 |
-| net | 4,197 |
+| net | 4,198 |
 | org | 2,797 |
 | de | 2,707 |
 
@@ -24417,7 +24417,7 @@ Here's a list of public Fediverse services.
 | `klemm.one` | No |
 | `klemorali.guru` | No |
 | `kleph.eu` | No |
-| `kleptonix.com` | No |
+| `kleptonix.com` | Yes |
 | `klezmor.im` | No |
 | `klg-tree.jp` | No |
 | `kliberal.com` | Yes |
@@ -27688,7 +27688,7 @@ Here's a list of public Fediverse services.
 | `magically.cc` | No |
 | `magicalmirro.red` | Yes |
 | `magicannon.com` | No |
-| `magicfedi.su` | Yes |
+| `magicfedi.su` | No |
 | `magicflashystring.net` | No |
 | `magick.tech` | No |
 | `magicka.org` | No |
@@ -28187,6 +28187,7 @@ Here's a list of public Fediverse services.
 | `martian.social` | No |
 | `martianbase.net` | No |
 | `martijn.be` | No |
+| `martijnsch.net` | No |
 | `martin-benson.com` | No |
 | `martin-haehnel.de` | No |
 | `martin-peterdamm.com` | No |
@@ -29807,6 +29808,7 @@ Here's a list of public Fediverse services.
 | `miaetam4rok.com` | Yes |
 | `miantiao.me` | Yes |
 | `miao.dev` | Yes |
+| `miao.ninja` | Yes |
 | `miao.social` | Yes |
 | `miaochann.com` | Yes |
 | `miaomiao.li` | Yes |
@@ -29971,6 +29973,7 @@ Here's a list of public Fediverse services.
 | `migueloteroiglesias.eu` | Yes |
 | `mihalis.net` | No |
 | `mii.codes` | Yes |
+| `mii.dev` | Yes |
 | `mii.gay` | No |
 | `miicat.eu` | Yes |
 | `miichelle.moe` | Yes |
@@ -32435,7 +32438,7 @@ Here's a list of public Fediverse services.
 | `naxdy.org` | No |
 | `nay.moe` | No |
 | `nayab.dev` | Yes |
-| `nayukana.info` | No |
+| `nayukana.info` | Yes |
 | `nayya.org` | No |
 | `naz.vc` | No |
 | `naza.io` | No |
@@ -36883,6 +36886,7 @@ Here's a list of public Fediverse services.
 | `pinheirodeabrantes.net` | No |
 | `pinheirodeabrantes.pt` | No |
 | `pini.fr` | No |
+| `piningforthewest.co.uk` | No |
 | `pink-hair.studio` | No |
 | `pink.institute` | No |
 | `pinkdog.cc` | No |
@@ -54062,8 +54066,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,541 |
-| Normal | 38,473 |
+| Cloudflare | 15,544 |
+| Normal | 38,474 |
 
 
 </details>
