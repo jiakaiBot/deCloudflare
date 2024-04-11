@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ["Not Authorised" issue when directly applying Prisma generated migrations to Cloudflare D1](https://github.com/prisma/prisma/issues/23827)
 - [CloudFlare Increase in caching errors](https://github.com/SecOpsNews/news/issues/27116)
 - [3.0.0-rc4: TCP connection error: i/o timeout](https://github.com/traefik/traefik/issues/10592)
 - [Blocked by Cloudflare](https://github.com/Razviar/marvelsnaptracker/issues/76)
