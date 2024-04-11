@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,539 |
+| com | 8,541 |
 | social | 4,882 |
 | net | 4,198 |
 | org | 2,798 |
@@ -1854,6 +1854,7 @@ Here's a list of public Fediverse services.
 | `alexwlchan.net` | No |
 | `alexx.ml` | Yes |
 | `alexyang.me` | Yes |
+| `alexz.me` | No |
 | `alexzeecomedy.com` | No |
 | `alfalfa.social` | No |
 | `alfazema.club` | No |
@@ -10241,6 +10242,7 @@ Here's a list of public Fediverse services.
 | `danielehniss.de` | No |
 | `danielgil.page` | No |
 | `danieljwilson.me` | No |
+| `daniellay.cc` | Yes |
 | `daniellemarco.nl` | No |
 | `danielmaxson.com` | No |
 | `danielmoch.com` | No |
@@ -14152,6 +14154,7 @@ Here's a list of public Fediverse services.
 | `explorons.fr` | No |
 | `explosion.party` | No |
 | `expose.pw` | No |
+| `exposur.es` | No |
 | `expression.social` | No |
 | `expressional.social` | Yes |
 | `expshift.com` | No |
@@ -21290,6 +21293,7 @@ Here's a list of public Fediverse services.
 | `infoteck.ru` | No |
 | `infothema.net` | No |
 | `infotik.fr` | No |
+| `infoupar.com` | No |
 | `infowaste.xyz` | No |
 | `infozdrowie.tv` | No |
 | `infozoo.de` | No |
@@ -21520,6 +21524,7 @@ Here's a list of public Fediverse services.
 | `inthedeltawaves.blog` | No |
 | `inthedeltawaves.social` | No |
 | `intheirprime.moe` | No |
+| `inthekirameki.world` | No |
 | `inthenews.social` | No |
 | `inthenewsfeed.com` | No |
 | `intherain.club` | No |
@@ -32215,6 +32220,7 @@ Here's a list of public Fediverse services.
 | `naiw.jp` | No |
 | `nakadashi.life` | No |
 | `nakadashi.mobi` | No |
+| `nakadashi.photos` | No |
 | `nakadashi.rocks` | No |
 | `nakamoto.social` | Yes |
 | `nakamura.io` | No |
@@ -45885,6 +45891,7 @@ Here's a list of public Fediverse services.
 | `tailnet.xyz` | Yes |
 | `tailored.social` | No |
 | `tails.ch` | Yes |
+| `tailschannel.com` | Yes |
 | `tailsproject.co` | No |
 | `tailswish.industries` | No |
 | `taintedworld.org` | Yes |
@@ -47404,6 +47411,7 @@ Here's a list of public Fediverse services.
 | `thilo.app` | No |
 | `thilobuchholz.de` | No |
 | `thimic.no` | Yes |
+| `thin.computer` | Yes |
 | `thinaticsystem.com` | Yes |
 | `thinegen.eu` | No |
 | `thing-averse.com` | No |
@@ -54077,8 +54085,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,543 |
-| Normal | 38,486 |
+| Cloudflare | 15,546 |
+| Normal | 38,491 |
 
 
 </details>
