@@ -1,6 +1,6 @@
 const apiPublic = [
 '','',
-	'http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is/antitor/',
+	'https://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is/antitor/',
 	'https://karma.crimeflare.eu.org:1984/api/is/antitor/'
 ];
 let localUse = false,

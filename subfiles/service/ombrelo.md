@@ -4,7 +4,7 @@
 ![](../../image/ss-sercxi.png)
 
 
-**Ombrelo** (pronounce /omˈbrelo/) is the **world's first anti-cloudflare search engine** website primarily for [Tor](https://torproject.org) [users](http://ombrelo.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/) and [clearnet](https://en.wikipedia.org/wiki/Clearnet_(networking)) [users](https://ombrelo.crimeflare.eu.org/), operating since the [year 2016](https://addons.thunderbird.net/en-us/firefox/addon/searxes/). The primary focus of the project is to provide people with better search results which do not [waste](../addon/ismm.md) [their time](../../INSTRUCTION.md#website-is-rejecting-tor-visitor).
+**Ombrelo** (pronounce /omˈbrelo/) is the **world's first anti-cloudflare search engine** website primarily for [Tor](https://torproject.org) [users](https://ombrelo.crimeflare.eu.org/) and [clearnet](https://en.wikipedia.org/wiki/Clearnet_(networking)) [users](https://ombrelo.crimeflare.eu.org/), operating since the [year 2016](https://addons.thunderbird.net/en-us/firefox/addon/searxes/). The primary focus of the project is to provide people with better search results which do not [waste](../addon/ismm.md) [their time](../../INSTRUCTION.md#website-is-rejecting-tor-visitor).
 
 It is fed by quality sources and rank down [Cloudflare sites](../cloudflare_users/domains) to bottom by default, thus you [avoid the risk](../README.md) and [inconvenience](../PEOPLE.md) of having [MITM traps](../README.md) littered [throughout search results](../addon/ismm.md).
 You can also open a cached version of the page by clicking the icon of the search result.

@@ -11,7 +11,10 @@ Replace the `(base url)` to:
 | Type | URL |
 | -- | -- |
 | Clearnet | `https://karma.crimeflare.eu.org/api/` |
-| Tor | `http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/` |
+| Tor | `https://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/` |
+
+
+**To Tor User**: If your browser does not accept Onioncert, please use Clearnet instead.
 
 ----
 
