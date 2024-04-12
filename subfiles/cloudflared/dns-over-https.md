@@ -109,6 +109,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hypercute.eu | No |
 | iij.jp | Yes |
 | ikarosalpha.xyz | Yes |
+| iki.my.id | Yes |
 | in-berlin.de | No |
 | indybanipal.com | No |
 | inria.fr | No |
@@ -117,6 +118,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jnraptor.net | Yes |
 | justincounts.com | No |
 | keke125.com | Yes |
+| kerekes.xyz | Yes |
 | kernel-error.de | No |
 | ketan.dev | Yes |
 | konikoni428.com | Yes |
@@ -188,6 +190,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rin.sh | Yes |
 | rootlab.top | No |
 | rslvr.eu | No |
+| runsel.id | Yes |
 | saferbfc.org | Yes |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
@@ -238,6 +241,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wahr.top | Yes |
 | waifu.cz | Yes |
 | wang.art | Yes |
+| warma.me | Yes |
 | wikimedia-dns.org | No |
 | yatima.tv | Yes |
 | zburger.top | No |
@@ -247,8 +251,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 122 |
+| Cloudflare | 126 |
 | Normal | 106 |
 
 
-### 53.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
