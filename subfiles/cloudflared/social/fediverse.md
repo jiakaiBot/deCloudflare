@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,542 |
+| com | 8,543 |
 | social | 4,884 |
 | net | 4,198 |
-| org | 2,799 |
-| de | 2,707 |
+| org | 2,800 |
+| de | 2,709 |
 
 
 - Mastodon, Pleroma, etc
@@ -1814,6 +1814,7 @@ Here's a list of public Fediverse services.
 | `alexandra.is` | No |
 | `alexandrebadalo.pt` | Yes |
 | `alexandremottier.fr` | No |
+| `alexasia.de` | Yes |
 | `alexayers.com` | No |
 | `alexbelgraver.nl` | No |
 | `alexchabot.net` | No |
@@ -13262,6 +13263,7 @@ Here's a list of public Fediverse services.
 | `elliotali.com` | Yes |
 | `elliots.app` | No |
 | `elliottbernstein.com` | No |
+| `ellipsenpark.de` | No |
 | `ellipsis.fi` | No |
 | `ellipsiszine.com` | No |
 | `ellis.social` | No |
@@ -39676,6 +39678,7 @@ Here's a list of public Fediverse services.
 | `rel.re` | No |
 | `relate.social` | No |
 | `relativesanity.com` | No |
+| `relaxedmale.com` | No |
 | `relay.soy` | No |
 | `relaychat.party` | No |
 | `relayfm.social` | No |
@@ -50321,7 +50324,7 @@ Here's a list of public Fediverse services.
 | `veganhighland.scot` | No |
 | `veganism.social` | Yes |
 | `veganmsp.com` | Yes |
-| `vegantheoryclub.org` | No |
+| `vegantheoryclub.org` | Yes |
 | `veganunity.me` | No |
 | `veganunity.rocks` | No |
 | `vegard.net` | No |
@@ -53037,6 +53040,7 @@ Here's a list of public Fediverse services.
 | `yandere.cc` | Yes |
 | `yandere.love` | No |
 | `yang.social` | No |
+| `yangzhi.org` | Yes |
 | `yanick.ca` | No |
 | `yanix.jp` | Yes |
 | `yankee.social` | No |
@@ -54096,8 +54100,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,546 |
-| Normal | 38,502 |
+| Cloudflare | 15,549 |
+| Normal | 38,503 |
 
 
 </details>
