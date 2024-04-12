@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,542 |
 | social | 4,884 |
 | net | 4,198 |
-| org | 2,798 |
+| org | 2,799 |
 | de | 2,707 |
 
 
@@ -13340,6 +13340,7 @@ Here's a list of public Fediverse services.
 | `embassy.social` | No |
 | `ember.lgbt` | Yes |
 | `ember.li` | No |
+| `emberlift.house` | No |
 | `embers.social` | No |
 | `embersof.life` | No |
 | `emberswrit.ing` | No |
@@ -30007,7 +30008,7 @@ Here's a list of public Fediverse services.
 | `mikebourquin.de` | No |
 | `mikecoats.social` | Yes |
 | `mikedilger.com` | No |
-| `mikedunn.blog` | Yes |
+| `mikedunn.blog` | No |
 | `mikegerwitz.com` | No |
 | `mikehayn.es` | Yes |
 | `mikehaynes.blog` | No |
@@ -31274,7 +31275,7 @@ Here's a list of public Fediverse services.
 | `mrkiddle.co.uk` | No |
 | `mrkod.com` | Yes |
 | `mrks.network` | Yes |
-| `mrls.xyz` | Yes |
+| `mrls.xyz` | No |
 | `mrlungshot.com` | Yes |
 | `mrmoreira.com` | Yes |
 | `mrmts.com` | No |
@@ -34565,6 +34566,7 @@ Here's a list of public Fediverse services.
 | `oe7drt.com` | Yes |
 | `oedoinfo.com` | Yes |
 | `oegdi.at` | No |
+| `oeglobal.org` | No |
 | `oekaki.st` | No |
 | `oekakiskey.com` | Yes |
 | `oeks.de` | No |
@@ -36728,7 +36730,7 @@ Here's a list of public Fediverse services.
 | `photophrenic.online` | No |
 | `photosharing.work` | No |
 | `phouon.com` | Yes |
-| `phoxden.net` | No |
+| `phoxden.net` | Yes |
 | `phoxy.space` | Yes |
 | `php.org.es` | Yes |
 | `phparch.social` | Yes |
@@ -53062,7 +53064,7 @@ Here's a list of public Fediverse services.
 | `yaruki0.net` | No |
 | `yasa.gs` | No |
 | `yasaiseikatsu.net` | No |
-| `yasi2.com` | Yes |
+| `yasi2.com` | No |
 | `yaskey.tokyo` | No |
 | `yass.ee` | No |
 | `yastodon.xyz` | No |
@@ -53669,7 +53671,7 @@ Here's a list of public Fediverse services.
 | `zeeland.social` | No |
 | `zeero.dev` | No |
 | `zef.social` | No |
-| `zefirchik.xyz` | Yes |
+| `zefirchik.xyz` | No |
 | `zeguigui.com` | No |
 | `zehaeva.com` | Yes |
 | `zehdonut.com` | No |
@@ -54087,8 +54089,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,548 |
-| Normal | 38,491 |
+| Cloudflare | 15,545 |
+| Normal | 38,496 |
 
 
 </details>
