@@ -25,6 +25,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
 | ahadns.net | Yes |
+| alleesph.online | Yes |
 | andrewnw.xyz | Yes |
 | anudeep.me | Yes |
 | apad.pro | Yes |
@@ -110,9 +111,12 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | iij.jp | Yes |
 | ikarosalpha.xyz | Yes |
 | iki.my.id | Yes |
+| immanuelschaffer.de | No |
 | in-berlin.de | No |
+| indianets.net | Yes |
 | indybanipal.com | No |
 | inria.fr | No |
+| itsa.top | Yes |
 | jackyes.ovh | No |
 | janl.eu | Yes |
 | jnraptor.net | Yes |
@@ -164,6 +168,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | noridev.moe | No |
 | npsolution.it | No |
 | ofdoom.net | Yes |
+| oliviertv.co.za | Yes |
 | openbld.net | No |
 | opendns.com | Yes |
 | oryxlabs.com | Yes |
@@ -177,6 +182,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pietjacobs.be | No |
 | pooblet.co.za | Yes |
 | pragmasec.nl | No |
+| prima-solusindo.com | No |
 | puregeni.us | No |
 | qquack.org | Yes |
 | quad9.net | Yes |
@@ -191,6 +197,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rootlab.top | No |
 | rslvr.eu | No |
 | runsel.id | Yes |
+| rustsword.com | Yes |
 | saferbfc.org | Yes |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
@@ -251,8 +258,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 126 |
-| Normal | 106 |
+| Cloudflare | 131 |
+| Normal | 108 |
 
 
-### 54.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
