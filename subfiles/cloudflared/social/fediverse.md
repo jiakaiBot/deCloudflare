@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,543 |
 | social | 4,885 |
-| net | 4,199 |
+| net | 4,200 |
 | org | 2,800 |
 | de | 2,710 |
 
@@ -9690,6 +9690,7 @@ Here's a list of public Fediverse services.
 | `cultura.gov.br` | Yes |
 | `culturacanibal.com` | No |
 | `culturaeinnovacion.social` | No |
+| `culturavisual.cc` | No |
 | `culture0.cc` | Yes |
 | `cultureelpersbureau.nl` | No |
 | `culturewar.radio` | No |
@@ -40021,6 +40022,7 @@ Here's a list of public Fediverse services.
 | `ribes.ovh` | Yes |
 | `rican.ovh` | No |
 | `ricard.social` | No |
+| `ricardramon.net` | No |
 | `ricci.social` | No |
 | `rice.id.au` | Yes |
 | `ricearoni.org` | No |
@@ -50392,6 +50394,7 @@ Here's a list of public Fediverse services.
 | `verboseguacamole.com` | Yes |
 | `verbraucherzentrale.social` | No |
 | `verbrennung.org` | No |
+| `verbum.cc` | No |
 | `vercel.app` | No |
 | `verdantsquare.net` | No |
 | `verde-loro.com` | No |
@@ -54112,7 +54115,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,554 |
-| Normal | 38,509 |
+| Normal | 38,512 |
 
 
 </details>
