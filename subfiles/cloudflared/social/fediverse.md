@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,544 |
 | social | 4,885 |
-| net | 4,198 |
+| net | 4,199 |
 | org | 2,800 |
 | de | 2,709 |
 
@@ -34067,6 +34067,7 @@ Here's a list of public Fediverse services.
 | `nps.exchange` | No |
 | `nptcomputing.net` | No |
 | `nptcomputing.xyz` | Yes |
+| `nr-all.net` | Yes |
 | `nrd.li` | Yes |
 | `nrev.org` | No |
 | `nrg2.net` | No |
@@ -54106,7 +54107,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,553 |
+| Cloudflare | 15,554 |
 | Normal | 38,505 |
 
 
