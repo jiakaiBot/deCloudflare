@@ -281,6 +281,7 @@ Here's a list of breached sites.
 | GeniusU | 1,301,460 | Yes |
 | GetRevengeOnYourEx (Get Revenge On Your Ex) | 79,195 | No |
 | Gett (Ge.tt) | 2,481,121 | No |
+| GiantTiger | 2,842,669 | Yes |
 | GiveSendGo | 89,966 | Yes |
 | Glofox | 2,330,735 | Yes |
 | GoGames (Go Games) | 3,430,083 | Yes |
@@ -751,10 +752,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 438 | 4,987,992,675 |
+| Cloudflare | 439 | 4,990,835,344 |
 | Normal | 292 | 4,199,157,302 |
 
 
 
-### 60% of breached sites (pwned sites) are using Cloudflare.
+### 60.1% of breached sites (pwned sites) are using Cloudflare.
 ### 54.3% of leaked accounts are on Cloudflare sites.
