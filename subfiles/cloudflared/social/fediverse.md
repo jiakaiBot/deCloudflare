@@ -8078,6 +8078,7 @@ Here's a list of public Fediverse services.
 | `cinvestav.mx` | No |
 | `ciordia.info` | No |
 | `cipay.ca` | No |
+| `cipher.moe` | Yes |
 | `cipherbliss.com` | No |
 | `cipherdogs.net` | No |
 | `cipioshouse.xyz` | Yes |
@@ -22209,6 +22210,7 @@ Here's a list of public Fediverse services.
 | `janbruns.de` | No |
 | `janbudke.de` | No |
 | `jancborchardt.net` | No |
+| `jandavid.me` | No |
 | `jandhyala.co` | Yes |
 | `janeirl.dev` | Yes |
 | `janerationx.me` | No |
@@ -38516,6 +38518,7 @@ Here's a list of public Fediverse services.
 | `qemfd.net` | No |
 | `qfotografie.de` | Yes |
 | `qianmianyao.cn` | No |
+| `qic.one` | No |
 | `qiitadon.com` | No |
 | `qinvoy.com` | Yes |
 | `qip.wang` | No |
@@ -45426,6 +45429,7 @@ Here's a list of public Fediverse services.
 | `surf.nl` | No |
 | `surf.social` | No |
 | `surfhosted.net` | No |
+| `surfin.cc` | No |
 | `surfin.dog` | No |
 | `surfnet.space` | No |
 | `surfscape.cloud` | Yes |
@@ -54091,8 +54095,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,546 |
-| Normal | 38,497 |
+| Cloudflare | 15,547 |
+| Normal | 38,500 |
 
 
 </details>
