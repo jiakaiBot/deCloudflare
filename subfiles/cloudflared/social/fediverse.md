@@ -290,7 +290,7 @@ Here's a list of public Fediverse services.
 | `1641project.jp` | Yes |
 | `1641s.net` | Yes |
 | `1689.social` | No |
-| `1689fellowship.com` | Yes |
+| `1689fellowship.com` | No |
 | `1701home.com` | Yes |
 | `170908.xyz` | Yes |
 | `1745.info` | No |
@@ -8070,6 +8070,7 @@ Here's a list of public Fediverse services.
 | `cincodenada.com` | No |
 | `cincoseis.tech` | No |
 | `cincy.social` | No |
+| `cinderblock.moe` | Yes |
 | `cinematheque.social` | No |
 | `cinematheque.tube` | No |
 | `cinephile-social.me` | Yes |
@@ -9174,6 +9175,7 @@ Here's a list of public Fediverse services.
 | `counterprose.com` | No |
 | `countrycharmnews.com` | No |
 | `coupou.fr` | No |
+| `courage.quest` | No |
 | `courat.fr` | No |
 | `courbet.social` | No |
 | `courgett.es` | No |
@@ -54110,7 +54112,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,554 |
-| Normal | 38,507 |
+| Normal | 38,509 |
 
 
 </details>
