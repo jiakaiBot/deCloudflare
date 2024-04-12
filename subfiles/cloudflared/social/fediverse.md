@@ -27876,6 +27876,7 @@ Here's a list of public Fediverse services.
 | `malbak.fr` | No |
 | `malbela.net` | No |
 | `malcolmgin.com` | Yes |
+| `malding.online` | No |
 | `malegebi.de` | Yes |
 | `malenfant.net` | No |
 | `maleo.uk` | No |
@@ -49243,6 +49244,7 @@ Here's a list of public Fediverse services.
 | `tybx.jp` | No |
 | `tychi.me` | No |
 | `tycho.space` | No |
+| `tychosystems.uk` | Yes |
 | `tycrek.me` | No |
 | `tyds.fans` | No |
 | `tyflopodcast.net` | Yes |
@@ -54089,8 +54091,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,545 |
-| Normal | 38,496 |
+| Cloudflare | 15,546 |
+| Normal | 38,497 |
 
 
 </details>
