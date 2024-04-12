@@ -44132,6 +44132,7 @@ Here's a list of public Fediverse services.
 | `spacechris.com` | Yes |
 | `spacecowboy.cc` | No |
 | `spacefox.fr` | No |
+| `spacefun.ch` | No |
 | `spacegazebo.com` | Yes |
 | `spacegirl.nl` | No |
 | `spacehost.dev` | No |
@@ -54109,7 +54110,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,553 |
-| Normal | 38,507 |
+| Normal | 38,508 |
 
 
 </details>
