@@ -13,6 +13,7 @@
 - **Service**
   - [Karma API](service/karma_api.md)
   - [Ombrelo](service/ombrelo.md)
+  - [Dogs](service/dogs.md)
   - [Public DNS](service/dns.md)
   - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service/altlink.md)
