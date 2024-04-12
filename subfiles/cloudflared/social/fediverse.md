@@ -20066,6 +20066,7 @@ Here's a list of public Fediverse services.
 | `homoludensinmirrorshades.org` | No |
 | `homoo.social` | No |
 | `homothrive.com` | No |
+| `homserve.win` | Yes |
 | `homunyan.com` | Yes |
 | `homura.space` | Yes |
 | `honahuku.com` | Yes |
@@ -36169,7 +36170,7 @@ Here's a list of public Fediverse services.
 | `pawb.social` | Yes |
 | `pawbs.club` | No |
 | `pawbs.social` | Yes |
-| `pawdev.me` | Yes |
+| `pawdev.me` | No |
 | `paweljw.al` | Yes |
 | `pawelko.net` | No |
 | `pawesome.online` | Yes |
@@ -53777,7 +53778,7 @@ Here's a list of public Fediverse services.
 | `zeteo.me` | No |
 | `zeth.pw` | Yes |
 | `zetmus.fr` | Yes |
-| `zetsubou.xn--q9jyb4c` | Yes |
+| `zetsubou.xn--q9jyb4c` | No |
 | `zettas.space` | No |
 | `zettel.haus` | No |
 | `zettelkasten.social` | No |
@@ -54095,8 +54096,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,547 |
-| Normal | 38,500 |
+| Cloudflare | 15,546 |
+| Normal | 38,502 |
 
 
 </details>
