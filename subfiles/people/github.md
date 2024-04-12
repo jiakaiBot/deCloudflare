@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error by handling base64 webp image](https://github.com/fofr/cog-become-image/issues/10)
 - [1.8.133 after update, emails are not fetching.](https://github.com/freescout-helpdesk/freescout/issues/3960)
 - [GridJS package on unpkg is down, cant load files or css](https://github.com/grid-js/gridjs/issues/1440)
 - [The sample code is not working, Access to fetch from origin 'null' has been blocked by CORS policy](https://github.com/ashishagarwal2023/freegpt.js.org/issues/2)
