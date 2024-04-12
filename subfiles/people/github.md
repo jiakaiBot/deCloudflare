@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [After updating to 1.8.134 email with attachment or image body its not received by freescout - Error in /var/www/html/overrides/webklex/php-imap/src/Attachment.php](https://github.com/freescout-helpdesk/freescout/issues/3965)
 - [Error by handling base64 webp image](https://github.com/fofr/cog-become-image/issues/10)
 - [1.8.133 after update, emails are not fetching.](https://github.com/freescout-helpdesk/freescout/issues/3960)
 - [GridJS package on unpkg is down, cant load files or css](https://github.com/grid-js/gridjs/issues/1440)
