@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,543 |
-| social | 4,884 |
+| social | 4,885 |
 | net | 4,198 |
 | org | 2,800 |
 | de | 2,709 |
@@ -12399,6 +12399,7 @@ Here's a list of public Fediverse services.
 | `dscw.fr` | Yes |
 | `dsdrive.fr` | No |
 | `dsemy.com` | No |
+| `dship.biz` | Yes |
 | `dshk.pro` | No |
 | `dshm.me` | No |
 | `dsimon.com` | No |
@@ -18943,6 +18944,7 @@ Here's a list of public Fediverse services.
 | `halfstreet.social` | No |
 | `halhadus.rocks` | Yes |
 | `halibut.com` | No |
+| `halickman.dev` | No |
 | `halifaxsocial.ca` | No |
 | `halki.info` | No |
 | `halla-aho.net` | No |
@@ -18960,6 +18962,7 @@ Here's a list of public Fediverse services.
 | `halodub.xyz` | No |
 | `halstead.email` | No |
 | `halt.cl` | No |
+| `haltia.social` | No |
 | `halu.ink` | No |
 | `halvbrax.se` | No |
 | `halzi.one` | No |
@@ -21731,6 +21734,7 @@ Here's a list of public Fediverse services.
 | `is-here.com` | No |
 | `is-in.space` | Yes |
 | `is-pretty.gay` | No |
+| `is-probably.gay` | Yes |
 | `is-super.moe` | No |
 | `is.horse` | Yes |
 | `is4.site` | Yes |
@@ -33030,6 +33034,7 @@ Here's a list of public Fediverse services.
 | `newforest.social` | Yes |
 | `newfound.social` | No |
 | `newgas.net` | No |
+| `newgrounds.club` | Yes |
 | `newhaven.nu` | No |
 | `newind.info` | Yes |
 | `newjack.city` | Yes |
@@ -54100,8 +54105,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,549 |
-| Normal | 38,503 |
+| Cloudflare | 15,552 |
+| Normal | 38,505 |
 
 
 </details>
