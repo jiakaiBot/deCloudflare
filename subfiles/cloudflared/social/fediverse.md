@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,544 |
+| com | 8,543 |
 | social | 4,885 |
 | net | 4,199 |
 | org | 2,800 |
@@ -318,7 +318,7 @@ Here's a list of public Fediverse services.
 | `1a1a1a.xyz` | No |
 | `1a23.com` | Yes |
 | `1a23.studio` | Yes |
-| `1arry1iu.com` | No |
+| `1arry1iu.com` | Yes |
 | `1being.org` | No |
 | `1bit.se` | No |
 | `1bitsquared.com` | Yes |
@@ -23633,7 +23633,6 @@ Here's a list of public Fediverse services.
 | `kartoffel.cafe` | No |
 | `kartoffelcheetah.eu` | No |
 | `kartoffelwolke.de` | No |
-| `kartolitan.com` | Yes |
 | `kartonrad.de` | Yes |
 | `karukera.social` | No |
 | `kasa-tomo.com` | No |
@@ -54111,7 +54110,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,554 |
-| Normal | 38,508 |
+| Normal | 38,507 |
 
 
 </details>
