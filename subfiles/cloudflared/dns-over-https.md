@@ -158,6 +158,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | noaddns.com | No |
 | node15.com | Yes |
 | nordthreatprotection.com | Yes |
+| nordvpn.com | Yes |
 | noridev.moe | No |
 | npsolution.it | No |
 | ofdoom.net | Yes |
@@ -179,7 +180,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | quad9.net | Yes |
 | quydang.name.vn | Yes |
 | ral9005.org | Yes |
-| renardyre.com | Yes |
 | repinger.my.id | Yes |
 | restena.lu | No |
 | retakecs.com | Yes |
