@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,543 |
+| com | 8,544 |
 | social | 4,885 |
 | net | 4,198 |
 | org | 2,800 |
@@ -974,7 +974,7 @@ Here's a list of public Fediverse services.
 | `abbie.cc` | Yes |
 | `abbotsfurred.ca` | No |
 | `abbr.wtf` | No |
-| `abcang.net` | No |
+| `abcang.net` | Yes |
 | `abcde.social` | No |
 | `abcdefghijk.xyz` | No |
 | `abcric.net` | Yes |
@@ -4510,7 +4510,7 @@ Here's a list of public Fediverse services.
 | `bean.place` | Yes |
 | `beanlog.xyz` | No |
 | `beanofficial.co` | No |
-| `beans.do` | Yes |
+| `beans.do` | No |
 | `beantown.space` | No |
 | `bear.community` | No |
 | `bear.garden` | No |
@@ -20169,7 +20169,7 @@ Here's a list of public Fediverse services.
 | `horscategor.ie` | No |
 | `horse.app` | Yes |
 | `horse.band` | No |
-| `horse.im` | No |
+| `horse.im` | Yes |
 | `horsecr.app` | No |
 | `horsemans.online` | No |
 | `horsentiers.fr` | No |
@@ -42877,6 +42877,7 @@ Here's a list of public Fediverse services.
 | `silicon-dragon.com` | No |
 | `silicon.moe` | Yes |
 | `siliconfilter.com` | Yes |
+| `siliconflorist.com` | Yes |
 | `siliconvalley.social` | No |
 | `silicorn.social` | No |
 | `siljaxylia.moe` | No |
@@ -49440,7 +49441,7 @@ Here's a list of public Fediverse services.
 | `uit-flix.live` | No |
 | `uitrope.com` | Yes |
 | `uitsmijter.io` | No |
-| `uiuxdev.social` | Yes |
+| `uiuxdev.social` | No |
 | `uji.es` | No |
 | `ujwie.co` | No |
 | `uk.to` | Yes |
@@ -54105,7 +54106,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,552 |
+| Cloudflare | 15,553 |
 | Normal | 38,505 |
 
 
