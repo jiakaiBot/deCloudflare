@@ -29995,6 +29995,7 @@ Here's a list of public Fediverse services.
 | `migueloteroiglesias.eu` | Yes |
 | `mihalis.net` | No |
 | `mii.codes` | Yes |
+| `mii.dev` | Yes |
 | `mii.gay` | No |
 | `miicat.eu` | Yes |
 | `miichelle.moe` | Yes |
@@ -54109,7 +54110,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,553 |
+| Cloudflare | 15,554 |
 | Normal | 38,508 |
 
 
