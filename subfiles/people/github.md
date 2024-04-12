@@ -4,6 +4,11 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The sample code is not working, Access to fetch from origin 'null' has been blocked by CORS policy](https://github.com/ashishagarwal2023/freegpt.js.org/issues/2)
+- [Allowed memory size exhausted](https://github.com/freescout-helpdesk/freescout/issues/3956)
+- [unpkg links no longer working](https://github.com/metafizzy/isotope/issues/1668)
+- [CDN version is broken](https://github.com/tameemsafi/typewriterjs/issues/217)
+- [When post operation takes long time, and the connection times out before the server returns a timeout or error, the error dialog shows "angular variables" instead of a message](https://github.com/umbraco/Umbraco-CMS/issues/16041)
 - [Initial Tech Stack](https://github.com/desmaia/protopacha-app/issues/4)
 - ["Not Authorised" issue when directly applying Prisma generated migrations to Cloudflare D1](https://github.com/prisma/prisma/issues/23827)
 - [CloudFlare Increase in caching errors](https://github.com/SecOpsNews/news/issues/27116)
