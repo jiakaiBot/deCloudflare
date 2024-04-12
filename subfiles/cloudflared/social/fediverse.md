@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,885 |
 | net | 4,199 |
 | org | 2,800 |
-| de | 2,709 |
+| de | 2,710 |
 
 
 - Mastodon, Pleroma, etc
@@ -41778,7 +41778,7 @@ Here's a list of public Fediverse services.
 | `scotentblog.co.uk` | No |
 | `scotgate.org` | No |
 | `scotland.computer` | No |
-| `scots.network` | Yes |
+| `scots.network` | No |
 | `scott.ee` | Yes |
 | `scott.in.th` | Yes |
 | `scottawilliams.com` | No |
@@ -46009,6 +46009,7 @@ Here's a list of public Fediverse services.
 | `talktodan.com` | Yes |
 | `tall.coffee` | Yes |
 | `tallahasseesocial.org` | No |
+| `tallbike-stuttgart.de` | No |
 | `talldude.net` | No |
 | `tallgoblin.com` | No |
 | `tallgoblin.social` | No |
@@ -54107,8 +54108,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,554 |
-| Normal | 38,505 |
+| Cloudflare | 15,553 |
+| Normal | 38,507 |
 
 
 </details>
