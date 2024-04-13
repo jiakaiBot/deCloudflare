@@ -34213,6 +34213,7 @@ Here's a list of public Fediverse services.
 | `nullpointer.org` | No |
 | `nullpointer.social` | No |
 | `nullptr.eu` | No |
+| `nullptr.rehab` | No |
 | `nullreference.io` | Yes |
 | `nullrequest.com` | Yes |
 | `nullself.pw` | No |
@@ -43548,6 +43549,7 @@ Here's a list of public Fediverse services.
 | `sndm.me` | No |
 | `sndr.social` | No |
 | `sndw.ch` | Yes |
+| `sne.moe` | Yes |
 | `sneaas.no` | No |
 | `sneak.berlin` | Yes |
 | `sneak.ovh` | No |
@@ -48665,7 +48667,7 @@ Here's a list of public Fediverse services.
 | `trickyfoxy.ru` | Yes |
 | `tricorder.social` | No |
 | `tried-to-do.science` | Yes |
-| `trier.website` | Yes |
+| `trier.website` | No |
 | `triformine.dev` | Yes |
 | `trigaux.me` | No |
 | `triggeredtux.com` | No |
@@ -54120,7 +54122,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,552 |
-| Normal | 38,519 |
+| Normal | 38,521 |
 
 
 </details>
