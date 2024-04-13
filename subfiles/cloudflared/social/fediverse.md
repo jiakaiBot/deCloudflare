@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,546 |
-| social | 4,885 |
-| net | 4,200 |
+| com | 8,544 |
+| social | 4,882 |
+| net | 4,199 |
 | org | 2,800 |
-| de | 2,710 |
+| de | 2,706 |
 
 
 - Mastodon, Pleroma, etc
@@ -2558,7 +2558,6 @@ Here's a list of public Fediverse services.
 | `anjara.eu` | No |
 | `anji.nl` | No |
 | `anjos.red` | No |
-| `ankegruenow.com` | No |
 | `ankh.social` | No |
 | `ankhmorpork.host` | No |
 | `ankokunogrove.space` | Yes |
@@ -17589,7 +17588,6 @@ Here's a list of public Fediverse services.
 | `gifclip.info` | No |
 | `giftedmc.com` | No |
 | `gifu.lol` | No |
-| `gig-blog.net` | No |
 | `giga.is` | No |
 | `gigacorns.org` | No |
 | `gigalixirapp.com` | No |
@@ -32842,7 +32840,6 @@ Here's a list of public Fediverse services.
 | `nerdynate.io` | Yes |
 | `nerdynate.live` | Yes |
 | `nerdzoom.media` | No |
-| `nere.social` | No |
 | `nere9.help` | Yes |
 | `nerfed.net` | No |
 | `nerfherders.club` | No |
@@ -36637,7 +36634,6 @@ Here's a list of public Fediverse services.
 | `phantasma.cloud` | Yes |
 | `phante.com` | No |
 | `phantomthieves.net` | No |
-| `phar.social` | No |
 | `pharus.pt` | No |
 | `phase.org` | No |
 | `phasegate.icu` | No |
@@ -36701,7 +36697,6 @@ Here's a list of public Fediverse services.
 | `philpin.com` | Yes |
 | `philpot.org` | No |
 | `philtanner.com` | No |
-| `phinphins.de` | No |
 | `phirat.club` | No |
 | `phire.place` | No |
 | `phishermanswarf.com` | No |
@@ -37869,7 +37864,6 @@ Here's a list of public Fediverse services.
 | `pramari.de` | Yes |
 | `prankgo.de` | No |
 | `prantare.xyz` | No |
-| `prapsschnalinen.de` | No |
 | `praschnig.com` | No |
 | `pratikmhatre.com` | No |
 | `pratl.net` | No |
@@ -38631,7 +38625,6 @@ Here's a list of public Fediverse services.
 | `quasireal.ca` | Yes |
 | `quasivoid.net` | No |
 | `quass.social` | Yes |
-| `quasselfritze.de` | No |
 | `quasselkopf.de` | No |
 | `quasstodon.social` | Yes |
 | `quaylessed.icu` | No |
@@ -41008,7 +41001,6 @@ Here's a list of public Fediverse services.
 | `saadatmand.pk` | No |
 | `saadnpq.com` | No |
 | `saagarjha.com` | No |
-| `saar.social` | No |
 | `saarmupfel.de` | No |
 | `saartweet.de` | Yes |
 | `saas.yachts` | Yes |
@@ -46591,7 +46583,6 @@ Here's a list of public Fediverse services.
 | `tenshi.zip` | Yes |
 | `tenshicorn.dog` | Yes |
 | `tenshu.net` | No |
-| `tensorcat.com` | No |
 | `tenta.fun` | No |
 | `tentacle.expert` | No |
 | `tentacle.social` | No |
@@ -49347,7 +49338,6 @@ Here's a list of public Fediverse services.
 | `u.fail` | No |
 | `u0conveni.club` | Yes |
 | `u16.io` | Yes |
-| `u1l.de` | No |
 | `u1ocloud.de` | No |
 | `u2.social` | Yes |
 | `u222news.com` | No |
@@ -54131,7 +54121,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,555 |
-| Normal | 38,527 |
+| Normal | 38,517 |
 
 
 </details>
