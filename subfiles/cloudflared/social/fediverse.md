@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,543 |
+| com | 8,544 |
 | social | 4,885 |
 | net | 4,200 |
 | org | 2,800 |
@@ -8848,7 +8848,7 @@ Here's a list of public Fediverse services.
 | `comradesinarms.social` | No |
 | `comradical.net` | Yes |
 | `coms.hk` | Yes |
-| `comsao.com` | Yes |
+| `comsao.com` | No |
 | `comune.trento.it` | No |
 | `comunicacionabierta.net` | No |
 | `comunidade.fr` | No |
@@ -34793,6 +34793,7 @@ Here's a list of public Fediverse services.
 | `oldinternet.net` | No |
 | `oldkid.de` | No |
 | `oldkid.digital` | No |
+| `oldmangamers.com` | No |
 | `oldos.me` | No |
 | `oldpeople.cafe` | No |
 | `oldr.uk` | Yes |
@@ -39576,7 +39577,7 @@ Here's a list of public Fediverse services.
 | `redroot.xyz` | No |
 | `redrosa.social` | No |
 | `redrosewriter.com` | Yes |
-| `redrover.social` | Yes |
+| `redrover.social` | No |
 | `redsky.monster` | No |
 | `redsnake.io` | No |
 | `redsnow.io` | No |
@@ -54115,8 +54116,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,554 |
-| Normal | 38,513 |
+| Cloudflare | 15,552 |
+| Normal | 38,516 |
 
 
 </details>
