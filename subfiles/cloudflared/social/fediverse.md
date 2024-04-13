@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,545 |
+| com | 8,546 |
 | social | 4,885 |
 | net | 4,200 |
 | org | 2,800 |
@@ -1755,6 +1755,7 @@ Here's a list of public Fediverse services.
 | `alberniweather.ca` | No |
 | `albertj.info` | No |
 | `albertj.nl` | No |
+| `albertmin.com` | Yes |
 | `albertoluna.es` | Yes |
 | `albertoventurini.com` | No |
 | `albigro.com` | No |
@@ -33136,6 +33137,7 @@ Here's a list of public Fediverse services.
 | `ngeredwolf.me` | Yes |
 | `ngesot.com` | Yes |
 | `nghieng.net` | Yes |
+| `nglab.icu` | Yes |
 | `ngmx.com` | Yes |
 | `ngndn.jp` | No |
 | `ngonbay.com` | No |
@@ -36236,6 +36238,7 @@ Here's a list of public Fediverse services.
 | `pcgamers.win` | Yes |
 | `pcgaming.club` | No |
 | `pcglinks.com` | Yes |
+| `pcgt.link` | No |
 | `pch.net` | No |
 | `pchost.org` | No |
 | `pclmulqdq.dev` | Yes |
@@ -50450,6 +50453,7 @@ Here's a list of public Fediverse services.
 | `versionfeeds.com` | Yes |
 | `versme.net` | Yes |
 | `verstandlxs.com` | Yes |
+| `versun.me` | Yes |
 | `verteiltegedanken.de` | No |
 | `vertexspew.social` | No |
 | `vertinext.com` | No |
@@ -54126,8 +54130,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,552 |
-| Normal | 38,526 |
+| Cloudflare | 15,555 |
+| Normal | 38,527 |
 
 
 </details>
