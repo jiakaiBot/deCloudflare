@@ -30255,6 +30255,7 @@ Here's a list of public Fediverse services.
 | `mint.lgbt` | No |
 | `mintcream.blue` | Yes |
 | `minter.uno` | No |
+| `mintyriver.xyz` | No |
 | `minuit.xyz` | No |
 | `minuscule.space` | Yes |
 | `minuskel.de` | No |
@@ -54115,7 +54116,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,554 |
-| Normal | 38,512 |
+| Normal | 38,513 |
 
 
 </details>
