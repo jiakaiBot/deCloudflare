@@ -14,6 +14,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Provider | Cloudflared |
 | --- | --- |
 | 00dani.me | No |
+| 0x55.net | Yes |
 | 3dns.eu | No |
 | 4-the.win | Yes |
 | 52306.org | Yes |
@@ -78,7 +79,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | doh.lv | No |
 | doh.sb | Yes |
 | doh.xyz | Yes |
-| domotik.us | Yes |
 | domyah.net | Yes |
 | dotnet.win | Yes |
 | dukun.de | No |
@@ -120,6 +120,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | janl.eu | Yes |
 | jnraptor.net | Yes |
 | justincounts.com | No |
+| karfamily.net | Yes |
 | keke125.com | Yes |
 | kerekes.xyz | Yes |
 | kernel-error.de | No |
@@ -178,6 +179,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | paulo.nom.za | Yes |
 | pccoach.nl | Yes |
 | persiannit.net | Yes |
+| pesaventofilippo.com | Yes |
 | pietjacobs.be | No |
 | pooblet.co.za | Yes |
 | pragmasec.nl | No |
@@ -257,8 +259,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 131 |
+| Cloudflare | 133 |
 | Normal | 107 |
 
 
-### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
