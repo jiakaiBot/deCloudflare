@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,544 |
+| com | 8,545 |
 | social | 4,885 |
 | net | 4,200 |
 | org | 2,800 |
@@ -3818,6 +3818,7 @@ Here's a list of public Fediverse services.
 | `awcca.ca` | No |
 | `awcca.community` | No |
 | `awcook.com` | No |
+| `aweathermoment.com` | No |
 | `awes.one` | Yes |
 | `awesome.computer` | No |
 | `awesome.garden` | No |
@@ -32308,7 +32309,7 @@ Here's a list of public Fediverse services.
 | `nanbon.eu` | No |
 | `nancengka.com` | Yes |
 | `nancy.social` | No |
-| `nand.moe` | Yes |
+| `nand.moe` | No |
 | `nand.tk` | No |
 | `nandemoskey.com` | Yes |
 | `nandon.cc` | No |
@@ -54121,8 +54122,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,552 |
-| Normal | 38,521 |
+| Cloudflare | 15,551 |
+| Normal | 38,523 |
 
 
 </details>
