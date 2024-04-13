@@ -2137,6 +2137,7 @@ Here's a list of public Fediverse services.
 | `ama.ne.jp` | Yes |
 | `amaa.it` | No |
 | `amaderhaspatal.in` | No |
+| `amagalha.es` | No |
 | `amairo.space` | Yes |
 | `amaki.cc` | No |
 | `amanda.systems` | Yes |
@@ -38518,6 +38519,7 @@ Here's a list of public Fediverse services.
 | `qapp.cloud` | No |
 | `qaq.gay` | No |
 | `qaq.jp` | Yes |
+| `qaq.land` | Yes |
 | `qaq.rip` | No |
 | `qaq.social` | Yes |
 | `qaq.wiki` | Yes |
@@ -46144,6 +46146,7 @@ Here's a list of public Fediverse services.
 | `tardis.team` | Yes |
 | `tardis.world` | No |
 | `tardisproject.uk` | No |
+| `tardypad.me` | No |
 | `targaryen.house` | No |
 | `targetedindividuals.net` | No |
 | `taricorp.net` | No |
@@ -48641,6 +48644,7 @@ Here's a list of public Fediverse services.
 | `tretkowski.de` | No |
 | `treuchtlingen.de` | No |
 | `trev.club` | Yes |
+| `trev.is` | No |
 | `trev.pub` | No |
 | `trev.social` | Yes |
 | `trevena.info` | Yes |
@@ -54122,8 +54126,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,551 |
-| Normal | 38,523 |
+| Cloudflare | 15,552 |
+| Normal | 38,526 |
 
 
 </details>
