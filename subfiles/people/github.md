@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Workers AI Issues](https://github.com/SecOpsNews/news/issues/27246)
 - [panic: runtime error: index out of range 0 with length 0](https://github.com/sst/ion/issues/235)
 - [After updating to 1.8.134 email with attachment or image body its not received by freescout - Error in /var/www/html/overrides/webklex/php-imap/src/Attachment.php](https://github.com/freescout-helpdesk/freescout/issues/3965)
 - [Error by handling base64 webp image](https://github.com/fofr/cog-become-image/issues/10)
