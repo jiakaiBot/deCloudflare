@@ -51,7 +51,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | chenu.ch | No |
 | cira.ca | Yes |
 | circl.lu | No |
-| circumitor.de | No |
 | cloud88.com.au | Yes |
 | cloudflare-dns.com | Yes |
 | cloudku.technology | Yes |
@@ -259,7 +258,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 131 |
-| Normal | 108 |
+| Normal | 107 |
 
 
-### 54.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
