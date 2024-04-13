@@ -19226,6 +19226,7 @@ Here's a list of public Fediverse services.
 | `hawkridges.co.uk` | Yes |
 | `hawks.im` | No |
 | `hawol.xyz` | Yes |
+| `hawthorn.pub` | No |
 | `hax.social` | Yes |
 | `hax.technology` | Yes |
 | `hax.to` | Yes |
@@ -23147,6 +23148,7 @@ Here's a list of public Fediverse services.
 | `jugregator.org` | No |
 | `juhaliikala.com` | Yes |
 | `juhaliikala.fi` | No |
+| `juhl-johansen.eu` | No |
 | `juhlin.network` | Yes |
 | `juick.com` | Yes |
 | `juist.social` | No |
@@ -34200,7 +34202,7 @@ Here's a list of public Fediverse services.
 | `nullfu.org` | No |
 | `nulli.win` | No |
 | `nullio.net` | Yes |
-| `nullisland.social` | No |
+| `nullisland.social` | Yes |
 | `nullnet.us` | No |
 | `nullnummern.de` | No |
 | `nullnyat.house` | Yes |
@@ -39215,7 +39217,7 @@ Here's a list of public Fediverse services.
 | `rapotec.org` | No |
 | `rappappa.com` | No |
 | `rappet.xyz` | No |
-| `rapsons.co` | Yes |
+| `rapsons.co` | No |
 | `raptnrent.me` | No |
 | `raptol.net` | Yes |
 | `raptor-airways.de` | No |
@@ -49575,6 +49577,7 @@ Here's a list of public Fediverse services.
 | `unboxed.social` | No |
 | `uncanceledil.com` | No |
 | `uncate.org` | No |
+| `uncensored.photos` | No |
 | `uncensored.services` | No |
 | `uncensoredspeech.social` | No |
 | `uncensoredvoice.org` | No |
@@ -54117,7 +54120,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,552 |
-| Normal | 38,516 |
+| Normal | 38,519 |
 
 
 </details>
