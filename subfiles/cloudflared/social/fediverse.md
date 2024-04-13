@@ -16105,6 +16105,7 @@ Here's a list of public Fediverse services.
 | `free-social.net` | No |
 | `free-solutions.org` | No |
 | `free-streams.com` | No |
+| `free-warez.win` | No |
 | `free.as` | No |
 | `free.fr` | No |
 | `freeanduneasy.blog` | No |
@@ -53826,7 +53827,6 @@ Here's a list of public Fediverse services.
 | `zhenyapav.com` | No |
 | `zhix.in` | Yes |
 | `zho.pa` | No |
-| `zhoal.pw` | Yes |
 | `zholnay.name` | Yes |
 | `zhongguotese.net` | Yes |
 | `zhoudan.online` | No |
@@ -54120,8 +54120,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,555 |
-| Normal | 38,517 |
+| Cloudflare | 15,554 |
+| Normal | 38,518 |
 
 
 </details>
