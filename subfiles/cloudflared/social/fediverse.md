@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,547 |
+| com | 8,548 |
 | social | 4,885 |
-| net | 4,200 |
+| net | 4,201 |
 | org | 2,801 |
 | de | 2,710 |
 
@@ -1142,6 +1142,7 @@ Here's a list of public Fediverse services.
 | `acg.social` | No |
 | `acgdoge.net` | No |
 | `acgn.ca` | Yes |
+| `acguni.net` | Yes |
 | `ache.one` | No |
 | `achimmeurer.com` | No |
 | `achrilock.social` | No |
@@ -21479,6 +21480,7 @@ Here's a list of public Fediverse services.
 | `integrata-stiftung.de` | No |
 | `integritymo.de` | No |
 | `intellectuallusts.ovh` | No |
+| `intelligentia.tv` | No |
 | `intelme.com` | Yes |
 | `intensifi.es` | No |
 | `intentional.network` | No |
@@ -24402,6 +24404,7 @@ Here's a list of public Fediverse services.
 | `kjv.online` | No |
 | `kjwill.tech` | Yes |
 | `kjwon15.net` | Yes |
+| `kjz.ca` | No |
 | `kk4lpi.com` | No |
 | `kk7.uk` | Yes |
 | `kkdev.org` | Yes |
@@ -29708,6 +29711,7 @@ Here's a list of public Fediverse services.
 | `metadata.moe` | Yes |
 | `metadocs.cc` | No |
 | `metafilter.com` | No |
+| `metagameguides.com` | Yes |
 | `metagnosis.xyz` | Yes |
 | `metakaos.space` | No |
 | `metal3d.org` | No |
@@ -34499,6 +34503,7 @@ Here's a list of public Fediverse services.
 | `occitanie-decroissance.info` | No |
 | `occitanie.social` | No |
 | `occm.cc` | Yes |
+| `occm.online` | No |
 | `occommu.xyz` | No |
 | `occult-zuki.com` | No |
 | `occult.camp` | No |
@@ -47568,6 +47573,7 @@ Here's a list of public Fediverse services.
 | `thoughtshrapnel.com` | Yes |
 | `thoughtswordsaction.com` | No |
 | `thoughtworks.com` | Yes |
+| `thousand.fish` | No |
 | `thousand.rocks` | No |
 | `thp.moe` | No |
 | `thpd.io` | No |
@@ -54137,8 +54143,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,558 |
-| Normal | 38,531 |
+| Cloudflare | 15,560 |
+| Normal | 38,535 |
 
 
 </details>
