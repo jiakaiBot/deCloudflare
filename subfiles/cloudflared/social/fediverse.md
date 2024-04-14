@@ -2640,7 +2640,7 @@ Here's a list of public Fediverse services.
 | `anthro.asia` | Yes |
 | `anthro.cc` | No |
 | `anthro.fun` | No |
-| `anthro.in.th` | Yes |
+| `anthro.in.th` | No |
 | `anthro.social` | No |
 | `anthropi.st` | No |
 | `anthropogenesis.xyz` | No |
@@ -27986,6 +27986,7 @@ Here's a list of public Fediverse services.
 | `mandps.net` | No |
 | `mandra.us` | Yes |
 | `maneisacutie.club` | No |
+| `manes.blog` | No |
 | `manetheren.net` | No |
 | `manfre.net` | No |
 | `manfred-aretz.de` | No |
@@ -29588,6 +29589,7 @@ Here's a list of public Fediverse services.
 | `mention.earth` | No |
 | `menuel.eu` | No |
 | `menzel-it.social` | No |
+| `menzel.lol` | No |
 | `menzns.de` | No |
 | `menzocollabs.tv` | No |
 | `meo.ws` | Yes |
@@ -31984,7 +31986,7 @@ Here's a list of public Fediverse services.
 | `mylinux.cz` | No |
 | `mylittle.boutique` | Yes |
 | `mylittlenut.com` | Yes |
-| `mylocalnet.xyz` | Yes |
+| `mylocalnet.xyz` | No |
 | `myloko.xyz` | No |
 | `mymammoth.ch` | No |
 | `mymastadon.link` | No |
@@ -43917,7 +43919,7 @@ Here's a list of public Fediverse services.
 | `solidcharity.net` | No |
 | `solidcommunity.net` | No |
 | `solidev.net` | No |
-| `solido.space` | No |
+| `solido.space` | Yes |
 | `solimano.org` | No |
 | `solinge.eu` | No |
 | `solisoft.top` | No |
@@ -46153,7 +46155,7 @@ Here's a list of public Fediverse services.
 | `tardisproject.uk` | No |
 | `tardypad.me` | No |
 | `targaryen.house` | No |
-| `targetedindividuals.net` | No |
+| `targetedindividuals.net` | Yes |
 | `taricorp.net` | No |
 | `tarka.dev` | No |
 | `tarkiz.org` | No |
@@ -54132,7 +54134,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,555 |
-| Normal | 38,528 |
+| Normal | 38,530 |
 
 
 </details>
