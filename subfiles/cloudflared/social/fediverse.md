@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,546 |
+| com | 8,547 |
 | social | 4,885 |
 | net | 4,200 |
 | org | 2,801 |
@@ -21643,6 +21643,7 @@ Here's a list of public Fediverse services.
 | `iow.social` | Yes |
 | `iowadon.org` | No |
 | `iowntheinter.net` | No |
+| `ioxolabs.com` | Yes |
 | `ioxt.tk` | No |
 | `iozzo.me` | Yes |
 | `ip-central.ca` | No |
@@ -36895,7 +36896,7 @@ Here's a list of public Fediverse services.
 | `pilch.me` | No |
 | `pileus.ch` | No |
 | `pilgerweg-21.de` | No |
-| `piligrim.ml` | Yes |
+| `piligrim.ml` | No |
 | `pilipala.asia` | No |
 | `pilk.social` | Yes |
 | `pilk.space` | No |
@@ -54135,7 +54136,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,553 |
-| Normal | 38,533 |
+| Normal | 38,534 |
 
 
 </details>
