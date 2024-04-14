@@ -11292,6 +11292,7 @@ Here's a list of public Fediverse services.
 | `dezinezync.com` | No |
 | `dezucked.com` | Yes |
 | `dfaria.eu` | No |
+| `dfdx.io` | No |
 | `dffm.de` | No |
 | `dfir.social` | Yes |
 | `dflatmajor.social` | No |
@@ -45430,7 +45431,7 @@ Here's a list of public Fediverse services.
 | `superpromoplus.com` | No |
 | `superrad.dev` | Yes |
 | `superrad.social` | Yes |
-| `superradinternetbase.social` | Yes |
+| `superradinternetbase.social` | No |
 | `supersandro.de` | Yes |
 | `superseriousbusiness.org` | No |
 | `supershotgun.club` | No |
@@ -48408,7 +48409,7 @@ Here's a list of public Fediverse services.
 | `touhou.jp` | No |
 | `touhou.party` | No |
 | `touhou.vodka` | No |
-| `touitteur.net` | Yes |
+| `touitteur.net` | No |
 | `toukae.com` | No |
 | `toulouse.social` | No |
 | `tourcoder.com` | Yes |
@@ -54133,8 +54134,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,555 |
-| Normal | 38,530 |
+| Cloudflare | 15,553 |
+| Normal | 38,533 |
 
 
 </details>
