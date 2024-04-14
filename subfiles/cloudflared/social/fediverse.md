@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,548 |
+| com | 8,549 |
 | social | 4,885 |
 | net | 4,201 |
-| org | 2,801 |
+| org | 2,802 |
 | de | 2,710 |
 
 
@@ -5835,6 +5835,7 @@ Here's a list of public Fediverse services.
 | `bonito.cafe` | No |
 | `bonk.expert` | Yes |
 | `bonk.social` | No |
+| `bonn.digital` | No |
 | `bonn.jetzt` | No |
 | `bonn.jobs` | No |
 | `bonn.live` | No |
@@ -17327,6 +17328,7 @@ Here's a list of public Fediverse services.
 | `geist.is` | Yes |
 | `geisteskultur.de` | Yes |
 | `geistlib.xyz` | Yes |
+| `gejuchowo.pl` | No |
 | `gek.li` | Yes |
 | `gekidasa.ink` | No |
 | `gekka.sexy` | Yes |
@@ -38724,6 +38726,7 @@ Here's a list of public Fediverse services.
 | `quickbrb.social` | Yes |
 | `quickfix.es` | No |
 | `quickodon.social` | Yes |
+| `quico.org` | Yes |
 | `quiescent.nexus` | No |
 | `quiet.horse` | No |
 | `quiet.social` | Yes |
@@ -41023,7 +41026,7 @@ Here's a list of public Fediverse services.
 | `saagarjha.com` | No |
 | `saar.social` | No |
 | `saarmupfel.de` | No |
-| `saartweet.de` | Yes |
+| `saartweet.de` | No |
 | `saas.yachts` | Yes |
 | `saastisfy.com` | No |
 | `saastodon.social` | Yes |
@@ -47449,6 +47452,7 @@ Here's a list of public Fediverse services.
 | `thicc.horse` | No |
 | `thicc.site` | No |
 | `thick.rocks` | No |
+| `thickey.com` | No |
 | `thickrips.cloud` | No |
 | `thickskull.net` | No |
 | `thiele.work` | No |
@@ -54145,7 +54149,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,561 |
-| Normal | 38,535 |
+| Normal | 38,539 |
 
 
 </details>
