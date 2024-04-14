@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Custom element doesn't exist: mini-media-player - HACS installation](https://github.com/kalkih/mini-media-player/issues/840)
 - [【RSSHub Gateway】一个简单的解决方案，适用于Image Referer和严格反爬路由](https://github.com/DIYgod/RSSHub/issues/15230)
 - [Momento publish topic on Cloudflare Worker](https://github.com/momentohq/client-sdk-javascript/issues/1229)
 - [The future of connecting to cloudflare d1](https://github.com/dbeaver/dbeaver/issues/23423)
