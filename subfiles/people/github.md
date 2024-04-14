@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Momento publish topic on Cloudflare Worker](https://github.com/momentohq/client-sdk-javascript/issues/1229)
+- [The future of connecting to cloudflare d1](https://github.com/dbeaver/dbeaver/issues/23423)
 - [The Intel i226-v network card cannot enable TX flow control.](https://github.com/openwrt/openwrt/issues/15161)
 - [Add an ignore list, or a function that will be called on each url](https://github.com/HiDeoo/starlight-links-validator/issues/37)
 - [Prisma 5.12.1 client has errors accessing postgress db when using with cloudflare workers and the new { previewFeatures = "driverAdapters" }](https://github.com/prisma/prisma/issues/23855)
