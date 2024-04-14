@@ -773,6 +773,7 @@ Here's a list of public Fediverse services.
 | `7colou.red` | Yes |
 | `7d.gg` | No |
 | `7glen.cloud` | No |
+| `7graphics.studio` | Yes |
 | `7group.social` | Yes |
 | `7homas.de` | No |
 | `7io.org` | No |
@@ -30266,7 +30267,7 @@ Here's a list of public Fediverse services.
 | `mint.lgbt` | No |
 | `mintcream.blue` | Yes |
 | `minter.uno` | No |
-| `mintyriver.xyz` | No |
+| `mintyriver.xyz` | Yes |
 | `minuit.xyz` | No |
 | `minuscule.space` | Yes |
 | `minuskel.de` | No |
@@ -35736,7 +35737,7 @@ Here's a list of public Fediverse services.
 | `oyl.ink` | No |
 | `oyler.social` | No |
 | `oysta.au` | No |
-| `oyster.red` | Yes |
+| `oyster.red` | No |
 | `oyundijital.com` | Yes |
 | `oz.hn` | No |
 | `ozar.dev` | No |
@@ -54135,7 +54136,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,553 |
+| Cloudflare | 15,554 |
 | Normal | 38,534 |
 
 
