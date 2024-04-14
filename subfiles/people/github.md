@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Add an ignore list, or a function that will be called on each url](https://github.com/HiDeoo/starlight-links-validator/issues/37)
 - [Prisma 5.12.1 client has errors accessing postgress db when using with cloudflare workers and the new { previewFeatures = "driverAdapters" }](https://github.com/prisma/prisma/issues/23855)
 - [CloudFlare Cloudflare Workers AI Issues](https://github.com/SecOpsNews/news/issues/27246)
 - [panic: runtime error: index out of range 0 with length 0](https://github.com/sst/ion/issues/235)
