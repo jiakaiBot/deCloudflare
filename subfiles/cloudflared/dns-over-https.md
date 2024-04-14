@@ -27,7 +27,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | adrianlam.com | Yes |
 | ahadns.net | Yes |
 | alleesph.online | Yes |
-| amonsul.net | Yes |
 | andrewnw.xyz | Yes |
 | anudeep.me | Yes |
 | apad.pro | Yes |
@@ -107,7 +106,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | henek.ovh | Yes |
 | hostme.co.il | Yes |
 | huque.com | No |
-| huseynov.work | Yes |
 | hypercute.eu | No |
 | iij.jp | Yes |
 | ikarosalpha.xyz | Yes |
@@ -136,7 +134,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | leadseason.eu | Yes |
 | lefolgoc.net | No |
 | levonet.sk | No |
-| lezainski.com | Yes |
 | libredns.gr | No |
 | lindung.pp.ua | Yes |
 | lobbygod.com | No |
@@ -261,8 +258,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 134 |
+| Cloudflare | 131 |
 | Normal | 108 |
 
 
-### 55.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
