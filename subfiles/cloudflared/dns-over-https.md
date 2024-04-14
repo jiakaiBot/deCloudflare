@@ -169,7 +169,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | oliviertv.co.za | Yes |
 | openbld.net | No |
 | opendns.com | Yes |
-| oryxlabs.com | Yes |
 | oszx.co | No |
 | paesa.es | Yes |
 | panszelescik.pl | Yes |
@@ -256,8 +255,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 130 |
+| Cloudflare | 129 |
 | Normal | 107 |
 
 
-### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
