@@ -1450,7 +1450,7 @@ Here's a list of public Fediverse services.
 | `afroteca.org` | Yes |
 | `aftbit.com` | No |
 | `after-work-photo.eu` | No |
-| `afternoon.chat` | Yes |
+| `afternoon.chat` | No |
 | `afternoonauthor.online` | No |
 | `afternoonrobot.co.uk` | No |
 | `afterpod.com` | No |
@@ -2139,7 +2139,7 @@ Here's a list of public Fediverse services.
 | `ama.ne.jp` | Yes |
 | `amaa.it` | No |
 | `amaderhaspatal.in` | No |
-| `amagalha.es` | No |
+| `amagalha.es` | Yes |
 | `amairo.space` | Yes |
 | `amaki.cc` | No |
 | `amanda.systems` | Yes |
@@ -9568,7 +9568,7 @@ Here's a list of public Fediverse services.
 | `cryptstore.cloud` | No |
 | `crysp.org` | No |
 | `crystal-lang.social` | Yes |
-| `crystal.computer` | No |
+| `crystal.computer` | Yes |
 | `crystal.fish` | No |
 | `crystallake.camp` | No |
 | `crystals.rest` | No |
@@ -12712,7 +12712,7 @@ Here's a list of public Fediverse services.
 | `eanske.eu` | No |
 | `ear.li` | No |
 | `ear7h.net` | No |
-| `earfolds.com` | No |
+| `earfolds.com` | Yes |
 | `earldouglas.social` | No |
 | `earne.link` | No |
 | `earnestly.dev` | No |
@@ -39762,7 +39762,7 @@ Here's a list of public Fediverse services.
 | `rencher.industries` | No |
 | `rencontres-atelier.fr` | No |
 | `renedon.red` | Yes |
-| `renehsz.com` | No |
+| `renehsz.com` | Yes |
 | `renekey.blue` | Yes |
 | `renekey.jp` | Yes |
 | `renekey.net` | Yes |
@@ -42914,6 +42914,7 @@ Here's a list of public Fediverse services.
 | `silliness.observer` | No |
 | `silly.business` | Yes |
 | `silly.land` | Yes |
+| `silly.support` | Yes |
 | `sillydragon.ca` | No |
 | `sillymo.de` | No |
 | `silmaril.blue` | No |
@@ -54136,8 +54137,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,554 |
-| Normal | 38,534 |
+| Cloudflare | 15,558 |
+| Normal | 38,531 |
 
 
 </details>
