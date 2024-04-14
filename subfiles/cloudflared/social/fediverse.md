@@ -3451,6 +3451,7 @@ Here's a list of public Fediverse services.
 | `astrologer.cc` | No |
 | `astrolovy.com` | No |
 | `astrometrics.xyz` | No |
+| `astronautinews.it` | No |
 | `astronavis.net` | No |
 | `astronomicus.ca` | No |
 | `astronomique.de` | No |
@@ -23878,7 +23879,7 @@ Here's a list of public Fediverse services.
 | `kelleher.social` | No |
 | `kelliwic.net` | No |
 | `kellum.me` | No |
-| `kellygreening.co.uk` | No |
+| `kellygreening.co.uk` | Yes |
 | `kellygreeningmoore.co.uk` | No |
 | `kellyndelgado.com` | No |
 | `kelnet.social` | No |
@@ -25380,7 +25381,7 @@ Here's a list of public Fediverse services.
 | `lain.lu` | Yes |
 | `lain.moe` | No |
 | `lain.pw` | Yes |
-| `lain.sh` | No |
+| `lain.sh` | Yes |
 | `lain.social` | No |
 | `lainchan.gay` | No |
 | `lainia.net` | No |
@@ -32648,7 +32649,7 @@ Here's a list of public Fediverse services.
 | `nekocross.xyz` | Yes |
 | `nekodai.ski` | Yes |
 | `nekoea.red` | No |
-| `nekoeki.org` | Yes |
+| `nekoeki.org` | No |
 | `nekogata.com` | No |
 | `nekogenesis.com` | No |
 | `nekohack.me` | Yes |
@@ -54143,7 +54144,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,560 |
+| Cloudflare | 15,561 |
 | Normal | 38,535 |
 
 
