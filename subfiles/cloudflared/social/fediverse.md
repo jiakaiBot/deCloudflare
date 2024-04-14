@@ -21037,6 +21037,7 @@ Here's a list of public Fediverse services.
 | `imahbub.com` | No |
 | `imal.org` | No |
 | `imancommunity.de` | No |
+| `imaplatyp.us` | Yes |
 | `imarc.co.uk` | No |
 | `imas.fun` | Yes |
 | `imas.photo` | No |
@@ -22886,7 +22887,7 @@ Here's a list of public Fediverse services.
 | `jon-s.com` | No |
 | `jon.eus` | No |
 | `jonaharagon.net` | Yes |
-| `jonahthen.com` | Yes |
+| `jonahthen.com` | No |
 | `jonak.org` | No |
 | `jonamerica.com` | Yes |
 | `jonandtina.net` | Yes |
@@ -54149,7 +54150,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,561 |
-| Normal | 38,539 |
+| Normal | 38,540 |
 
 
 </details>
