@@ -7253,6 +7253,7 @@ Here's a list of public Fediverse services.
 | `catona.cloud` | No |
 | `catops.social` | No |
 | `catoptric.com` | No |
+| `catpost.ing` | Yes |
 | `catposter.club` | No |
 | `catposting.agency` | Yes |
 | `catpp.eu` | No |
@@ -20128,6 +20129,7 @@ Here's a list of public Fediverse services.
 | `hoodojo.com` | No |
 | `hoodratshit.org` | Yes |
 | `hookii.space` | No |
+| `hoopla.dev` | No |
 | `hoops.chat` | No |
 | `hooray.computer` | Yes |
 | `hoosier.social` | Yes |
@@ -46697,7 +46699,7 @@ Here's a list of public Fediverse services.
 | `terzet.lv` | Yes |
 | `terziu.xyz` | Yes |
 | `tesaguri.club` | No |
-| `tese.la` | Yes |
+| `tese.la` | No |
 | `tesgo.fr` | No |
 | `teslafans.ch` | No |
 | `teslafans.social` | No |
@@ -54152,7 +54154,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,560 |
-| Normal | 38,543 |
+| Normal | 38,545 |
 
 
 </details>
