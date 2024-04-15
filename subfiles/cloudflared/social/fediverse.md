@@ -3909,7 +3909,7 @@ Here's a list of public Fediverse services.
 | `ayano.jp` | No |
 | `ayarika.com` | Yes |
 | `ayatovr.com` | No |
-| `ayatovr.dev` | Yes |
+| `ayatovr.dev` | No |
 | `ayatovr.jp` | No |
 | `ayco.io` | No |
 | `ayden.life` | Yes |
@@ -9173,7 +9173,7 @@ Here's a list of public Fediverse services.
 | `cottoncandy.cafe` | No |
 | `cottongin.xyz` | Yes |
 | `couchet.org` | No |
-| `couchpotato.sexy` | Yes |
+| `couchpotato.sexy` | No |
 | `cougar.cat` | Yes |
 | `coukaratcha.fr` | No |
 | `could.cloud` | No |
@@ -10843,7 +10843,7 @@ Here's a list of public Fediverse services.
 | `deepwoodsocial.net` | No |
 | `deepzero.net` | No |
 | `deerfieldmartc.com` | No |
-| `deerofnara.net` | Yes |
+| `deerofnara.net` | No |
 | `deezclan.com` | Yes |
 | `deeznutz.gay` | Yes |
 | `def.social` | No |
@@ -21364,6 +21364,7 @@ Here's a list of public Fediverse services.
 | `inisidio.us` | No |
 | `init-c.de` | No |
 | `init.engineer` | Yes |
+| `init3.us` | Yes |
 | `initialization.tech` | No |
 | `initiate.space` | Yes |
 | `initiativegegendieverwendungvonvielzulangendomainnameniminter.net` | No |
@@ -54153,8 +54154,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,560 |
-| Normal | 38,545 |
+| Cloudflare | 15,558 |
+| Normal | 38,548 |
 
 
 </details>
