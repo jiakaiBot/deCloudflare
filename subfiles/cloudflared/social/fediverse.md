@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,553 |
-| social | 4,885 |
+| social | 4,886 |
 | net | 4,202 |
 | org | 2,802 |
 | de | 2,710 |
@@ -48468,6 +48468,7 @@ Here's a list of public Fediverse services.
 | `tpapak.com` | No |
 | `tpaschalis.me` | No |
 | `tpaw.org` | Yes |
+| `tpaw.social` | No |
 | `tpaw.video` | No |
 | `tpc3.org` | Yes |
 | `tpgc.me` | Yes |
@@ -54161,7 +54162,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,564 |
-| Normal | 38,548 |
+| Normal | 38,549 |
 
 
 </details>
