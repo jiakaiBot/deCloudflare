@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,551 |
+| com | 8,553 |
 | social | 4,885 |
-| net | 4,201 |
+| net | 4,202 |
 | org | 2,802 |
 | de | 2,710 |
 
@@ -404,6 +404,7 @@ Here's a list of public Fediverse services.
 | `272labs.com` | Yes |
 | `27b6.com` | Yes |
 | `27origin.com` | Yes |
+| `280562.com` | Yes |
 | `283.cloud` | Yes |
 | `283.li` | No |
 | `285252.xyz` | No |
@@ -6211,6 +6212,7 @@ Here's a list of public Fediverse services.
 | `brennand.net` | No |
 | `brennoflavio.com.br` | No |
 | `brentjanderson.com` | Yes |
+| `brentnatzle.com` | Yes |
 | `brentsch.com` | Yes |
 | `breowanthorpe.beer` | Yes |
 | `bres.cat` | No |
@@ -9737,7 +9739,7 @@ Here's a list of public Fediverse services.
 | `curiositydrive.org` | No |
 | `curiositykilledthebookworm.net` | No |
 | `curious.bio` | No |
-| `curious.social` | No |
+| `curious.social` | Yes |
 | `curiouscabbit.social` | No |
 | `curiousity.ca` | No |
 | `curiousminds.net` | No |
@@ -15475,6 +15477,7 @@ Here's a list of public Fediverse services.
 | `fkfd.me` | No |
 | `fkn-systems.de` | No |
 | `fkpk.org` | Yes |
+| `fl0.net` | No |
 | `fl00f.rocks` | No |
 | `fl0w.cc` | No |
 | `fl0w.fr` | No |
@@ -18960,7 +18963,7 @@ Here's a list of public Fediverse services.
 | `halfstreet.social` | No |
 | `halhadus.rocks` | Yes |
 | `halibut.com` | No |
-| `halickman.dev` | No |
+| `halickman.dev` | Yes |
 | `halifaxsocial.ca` | No |
 | `halki.info` | No |
 | `halla-aho.net` | No |
@@ -18978,7 +18981,7 @@ Here's a list of public Fediverse services.
 | `halodub.xyz` | No |
 | `halstead.email` | No |
 | `halt.cl` | No |
-| `haltia.social` | No |
+| `haltia.social` | Yes |
 | `halu.ink` | No |
 | `halvbrax.se` | No |
 | `halzi.one` | No |
@@ -32681,6 +32684,7 @@ Here's a list of public Fediverse services.
 | `nekonote.cc` | No |
 | `nekoplanet.xyz` | Yes |
 | `nekoport.com` | No |
+| `nekoq.top` | Yes |
 | `nekoruri.dev` | Yes |
 | `nekoruri.jp` | No |
 | `nekos.cloud` | Yes |
@@ -35728,6 +35732,7 @@ Here's a list of public Fediverse services.
 | `oxgoad.page` | No |
 | `oxhead.dev` | No |
 | `oxidized.systems` | Yes |
+| `oxk.ch` | No |
 | `oxlajujqanil.net` | No |
 | `oxom.co` | Yes |
 | `oxom.de` | Yes |
@@ -40190,6 +40195,7 @@ Here's a list of public Fediverse services.
 | `risma.app` | Yes |
 | `riso.dev` | No |
 | `risonchu.social` | No |
+| `risposteinformatiche.it` | No |
 | `rita.moe` | Yes |
 | `ritchie.social` | Yes |
 | `ritec.jp` | Yes |
@@ -54154,7 +54160,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,558 |
+| Cloudflare | 15,564 |
 | Normal | 38,548 |
 
 
