@@ -16580,7 +16580,7 @@ Here's a list of public Fediverse services.
 | `ful.social` | No |
 | `fulano.social` | No |
 | `fulda.social` | No |
-| `fulgur.xyz` | Yes |
+| `fulgur.xyz` | No |
 | `fulin.io` | Yes |
 | `full-cyber.com` | No |
 | `full-house.de` | No |
@@ -44040,6 +44040,7 @@ Here's a list of public Fediverse services.
 | `sopuli.xyz` | No |
 | `sopuzzled.com` | No |
 | `sora.pub` | No |
+| `soraharu.app` | Yes |
 | `soraharu.com` | Yes |
 | `soraneto.com` | No |
 | `sorasaki-ct.uk` | Yes |
@@ -54162,7 +54163,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,564 |
-| Normal | 38,549 |
+| Normal | 38,550 |
 
 
 </details>
