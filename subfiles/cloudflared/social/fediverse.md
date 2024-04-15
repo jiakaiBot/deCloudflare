@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,549 |
+| com | 8,550 |
 | social | 4,885 |
 | net | 4,201 |
 | org | 2,802 |
@@ -15690,7 +15690,7 @@ Here's a list of public Fediverse services.
 | `flxi.uk` | Yes |
 | `fly.dev` | No |
 | `flyand.chat` | Yes |
-| `flyaway.city` | Yes |
+| `flyaway.city` | No |
 | `flyemoji.moe` | Yes |
 | `flyerdonut.net` | Yes |
 | `flying-fishcan.com` | Yes |
@@ -18728,6 +18728,7 @@ Here's a list of public Fediverse services.
 | `h2x.us` | No |
 | `h3a.moe` | Yes |
 | `h3h3.club` | No |
+| `h3rb1.com` | No |
 | `h3rmi.de` | No |
 | `h3xtacy.party` | No |
 | `h3z.jp` | Yes |
@@ -28939,7 +28940,7 @@ Here's a list of public Fediverse services.
 | `masudadon.com` | No |
 | `masuei.net` | No |
 | `masuhr.social` | No |
-| `masutabedon.com` | Yes |
+| `masutabedon.com` | No |
 | `masutadon.com` | No |
 | `masutodon.net` | No |
 | `maswag.net` | No |
@@ -39729,7 +39730,7 @@ Here's a list of public Fediverse services.
 | `relms.dev` | Yes |
 | `relph.org` | Yes |
 | `reluctantly.social` | No |
-| `relyma.club` | Yes |
+| `relyma.club` | No |
 | `rem7.space` | No |
 | `remark.as` | No |
 | `remarkably.social` | No |
@@ -45989,7 +45990,7 @@ Here's a list of public Fediverse services.
 | `takios.de` | No |
 | `takiverse.tk` | No |
 | `tako774.net` | Yes |
-| `takosaba.com` | No |
+| `takosaba.com` | Yes |
 | `takoyaki.xyz` | No |
 | `takpika.jp` | Yes |
 | `taks.garden` | No |
@@ -54149,8 +54150,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,561 |
-| Normal | 38,540 |
+| Cloudflare | 15,559 |
+| Normal | 38,543 |
 
 
 </details>
