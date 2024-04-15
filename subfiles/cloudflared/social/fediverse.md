@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,550 |
+| com | 8,551 |
 | social | 4,885 |
 | net | 4,201 |
 | org | 2,802 |
@@ -53515,6 +53515,7 @@ Here's a list of public Fediverse services.
 | `yuri.place` | No |
 | `yuri.quest` | Yes |
 | `yurialbuquerque.dev` | No |
+| `yurigasaki.com` | Yes |
 | `yurikonanao.cloud` | No |
 | `yurina256.net` | No |
 | `yuriposter.club` | No |
@@ -54150,7 +54151,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,559 |
+| Cloudflare | 15,560 |
 | Normal | 38,543 |
 
 
