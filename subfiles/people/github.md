@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Repository creation failed. {Resource:Repository Field:name Code:custom Message:name already exists on this account}](https://github.com/kubefirst/kubefirst/issues/2153)
+- [Memory leak (outside home-assistant?)](https://github.com/home-assistant/operating-system/issues/3312)
 - [Run first Send/Receive test set alone](https://github.com/sillsdev/languageforge-lexbox/issues/723)
 - [Error 1101 Worker threw exception](https://github.com/zizifn/edgetunnel/issues/283)
 - [panic: close of closed channel](https://github.com/h2oai/wave/issues/2315)
