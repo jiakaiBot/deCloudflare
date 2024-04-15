@@ -5693,7 +5693,7 @@ Here's a list of public Fediverse services.
 | `bnuy.space` | No |
 | `bnuy.zone` | Yes |
 | `bnyrdn.net` | No |
-| `boanoiteinternet.com.br` | No |
+| `boanoiteinternet.com.br` | Yes |
 | `boanus.net` | No |
 | `boardgames.social` | No |
 | `boardmad.com` | No |
@@ -13151,6 +13151,7 @@ Here's a list of public Fediverse services.
 | `elb.cloud` | No |
 | `elbblick.org` | No |
 | `elbehnon.de` | No |
+| `elbereth.xyz` | No |
 | `elbespace.de` | No |
 | `elbfotos.de` | No |
 | `elbmatsch.de` | No |
@@ -14296,7 +14297,7 @@ Here's a list of public Fediverse services.
 | `facb69.tec.br` | No |
 | `faccionlatina.org` | No |
 | `faceborg.io` | No |
-| `facebourg.fr` | Yes |
+| `facebourg.fr` | No |
 | `facecrime.net` | No |
 | `facefeck.com` | No |
 | `facegirl.me` | No |
@@ -18874,7 +18875,7 @@ Here's a list of public Fediverse services.
 | `haeder.netfeatured` | No |
 | `haefele.family` | No |
 | `haetsal.me` | No |
-| `hafen.io` | No |
+| `hafen.io` | Yes |
 | `hafkehafke.org` | No |
 | `hafs.in` | Yes |
 | `hagale.net` | No |
@@ -24181,7 +24182,7 @@ Here's a list of public Fediverse services.
 | `kilinbox.net` | No |
 | `kilioa.net` | No |
 | `kilioa.org` | No |
-| `kill-corporations.enterprises` | No |
+| `kill-corporations.enterprises` | Yes |
 | `kill.yt` | No |
 | `killallcops.today` | No |
 | `killbox.social` | No |
@@ -54164,8 +54165,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,565 |
-| Normal | 38,551 |
+| Cloudflare | 15,567 |
+| Normal | 38,550 |
 
 
 </details>
