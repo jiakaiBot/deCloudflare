@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,553 |
-| social | 4,886 |
-| net | 4,202 |
+| social | 4,887 |
+| net | 4,203 |
 | org | 2,802 |
 | de | 2,710 |
 
@@ -3861,7 +3861,7 @@ Here's a list of public Fediverse services.
 | `awoo.st` | No |
 | `awoo.studio` | Yes |
 | `awoo.su` | Yes |
-| `awoo.today` | No |
+| `awoo.today` | Yes |
 | `awoo.town` | No |
 | `awoo.world` | Yes |
 | `awoonet.org` | No |
@@ -10392,6 +10392,7 @@ Here's a list of public Fediverse services.
 | `darkshade.social` | No |
 | `darksheep.social` | No |
 | `darksiders.me` | Yes |
+| `darksky.social` | No |
 | `darksocial.party` | No |
 | `darkstar.social` | No |
 | `darktable.org.es` | No |
@@ -17243,6 +17244,7 @@ Here's a list of public Fediverse services.
 | `gearheads.social` | Yes |
 | `gearlandia.haus` | Yes |
 | `gearpixel.xyz` | No |
+| `gebbl.net` | No |
 | `gebhardt.im` | No |
 | `gebloom.com` | Yes |
 | `gececibaykus.com` | No |
@@ -54162,8 +54164,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,564 |
-| Normal | 38,550 |
+| Cloudflare | 15,565 |
+| Normal | 38,551 |
 
 
 </details>
