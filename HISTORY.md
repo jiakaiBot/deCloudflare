@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-04-15: [Network Performance Issues in Warsaw](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/brm6vw0szdxj)
 - 2024-04-13: [Select Cloudflare Apps are temporarily disabled on select zones.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0sv4kwlrfjgr)
 - 2024-04-12: [Slow Response Times in Eastern Europe](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fjh89m55qxt7)
 - 2024-04-11: [Area 1 Horizon is down](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t12qtf6ydrq1)
