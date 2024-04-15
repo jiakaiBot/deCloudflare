@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error 1101 Worker threw exception](https://github.com/zizifn/edgetunnel/issues/283)
+- [panic: close of closed channel](https://github.com/h2oai/wave/issues/2315)
 - [region=CN not work](https://github.com/Gowee/lccal-worker/issues/25)
 - [cloudflare terraform deprecation and cloudflared failing](https://github.com/khuedoan/homelab/issues/154)
 - [Custom element doesn't exist: mini-media-player - HACS installation](https://github.com/kalkih/mini-media-player/issues/840)
