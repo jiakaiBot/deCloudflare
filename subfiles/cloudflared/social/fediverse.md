@@ -42145,6 +42145,7 @@ Here's a list of public Fediverse services.
 | `seibai.jp` | No |
 | `seibu-lions.love` | No |
 | `seichi.work` | No |
+| `seichijunrei.news` | Yes |
 | `seidr.fr` | No |
 | `seifert-online.eu` | No |
 | `seifert.id` | Yes |
@@ -54189,7 +54190,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,575 |
+| Cloudflare | 15,576 |
 | Normal | 38,566 |
 
 
