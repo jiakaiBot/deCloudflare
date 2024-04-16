@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,553 |
+| com | 8,554 |
 | social | 4,887 |
 | net | 4,203 |
 | org | 2,803 |
@@ -7484,6 +7484,7 @@ Here's a list of public Fediverse services.
 | `chadkohalyk.com` | Yes |
 | `chadland.net` | No |
 | `chadole.com` | Yes |
+| `chadthundercock.com` | Yes |
 | `chadwaltercummings.me` | Yes |
 | `chagai.website` | No |
 | `chagratt.site` | No |
@@ -13002,6 +13003,7 @@ Here's a list of public Fediverse services.
 | `efdn.club` | No |
 | `efdnet.com` | No |
 | `efe.kim` | No |
+| `efer.cc` | Yes |
 | `effata.info` | No |
 | `effektio.org` | No |
 | `effi.org` | No |
@@ -22398,6 +22400,7 @@ Here's a list of public Fediverse services.
 | `jazztodon.com` | No |
 | `jb-net.us` | No |
 | `jb.md` | Yes |
+| `jb3.fr` | Yes |
 | `jb55.com` | Yes |
 | `jbc-s.net` | No |
 | `jbc.ne.kr` | Yes |
@@ -54169,7 +54172,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,568 |
+| Cloudflare | 15,571 |
 | Normal | 38,553 |
 
 
