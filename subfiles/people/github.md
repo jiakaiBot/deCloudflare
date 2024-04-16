@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to Share Vehicle: This third party isn't registered with Tesla. We can't grant them access at the time.](https://github.com/llamafilm/tesla-http-proxy-addon/issues/83)
+- [Should I set CLOUDFLARE_ACCOUNT_ID? What is SECRET_DISCORD_WEBHOOK_URL?](https://github.com/yunsii/cf-worker-status-page-pro/issues/3)
 - [I'm blocked by devkitpro.org?](https://github.com/devkitPro/installer/issues/57)
 - [🚀 : Selective cache purges in Cloudflare after deploying with github actions](https://github.com/langxapp/website/issues/51)
 - [Repository creation failed. {Resource:Repository Field:name Code:custom Message:name already exists on this account}](https://github.com/kubefirst/kubefirst/issues/2153)
