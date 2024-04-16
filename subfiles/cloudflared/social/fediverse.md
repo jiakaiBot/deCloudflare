@@ -9062,7 +9062,7 @@ Here's a list of public Fediverse services.
 | `corduba.tech` | No |
 | `corduroy.biz` | Yes |
 | `cordx.cx` | Yes |
-| `corebreach.com` | No |
+| `corebreach.com` | Yes |
 | `corecoding.dev` | No |
 | `coredump.social` | No |
 | `corentin.eu` | Yes |
@@ -16346,7 +16346,7 @@ Here's a list of public Fediverse services.
 | `friendie.eu` | No |
 | `friendika.tk` | No |
 | `friendlica.de` | No |
-| `friendlies.social` | Yes |
+| `friendlies.social` | No |
 | `friendlydads.net` | No |
 | `friendlyground.com` | No |
 | `friendlyrobot.nyc` | No |
@@ -21512,6 +21512,7 @@ Here's a list of public Fediverse services.
 | `interferencias.tech` | No |
 | `interfesse.net` | No |
 | `interflow.org` | Yes |
+| `interfree.ca` | No |
 | `interfriender.org` | Yes |
 | `interfunt.com` | No |
 | `intergalactic.computer` | No |
@@ -40118,6 +40119,7 @@ Here's a list of public Fediverse services.
 | `riemann.social` | No |
 | `ries-web.de` | No |
 | `riesen.fail` | No |
+| `riesgos.club` | No |
 | `rievo.net` | No |
 | `riffel.family` | No |
 | `riffic.rocks` | Yes |
@@ -54166,7 +54168,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,567 |
-| Normal | 38,550 |
+| Normal | 38,552 |
 
 
 </details>
