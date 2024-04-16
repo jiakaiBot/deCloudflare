@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,558 |
+| com | 8,560 |
 | social | 4,888 |
 | net | 4,204 |
 | org | 2,803 |
@@ -8874,6 +8874,7 @@ Here's a list of public Fediverse services.
 | `con-centric.com.au` | No |
 | `con.sh` | Yes |
 | `conan.ooo` | No |
+| `conandaily.com` | No |
 | `conarro.com` | No |
 | `concernedphilosophers.org` | No |
 | `concho.bar` | No |
@@ -24641,6 +24642,7 @@ Here's a list of public Fediverse services.
 | `kogak.ninja` | No |
 | `kogak.xyz` | No |
 | `kogasa.de` | No |
+| `kohacraft.com` | No |
 | `kohan.pl` | Yes |
 | `kohanikin.com` | No |
 | `koharu.app` | Yes |
@@ -30558,6 +30560,7 @@ Here's a list of public Fediverse services.
 | `mixedmedia.page` | Yes |
 | `mixedwrestling.net` | No |
 | `mixer.lt` | No |
+| `mixh.jp` | No |
 | `mixin.love` | No |
 | `mixremix.cc` | No |
 | `mixsocial.network` | No |
@@ -54186,7 +54189,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,575 |
-| Normal | 38,562 |
+| Normal | 38,565 |
 
 
 </details>
