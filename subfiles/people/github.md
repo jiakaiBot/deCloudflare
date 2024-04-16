@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [connect() Socket API undefined](https://github.com/syumai/workers/issues/100)
+- [Installation script doesn't work and can't properly configure karmada](https://github.com/karmada-io/karmada/issues/4837)
 - [Manager button not appearing (maybe dumplicate)](https://github.com/ltdrdata/ComfyUI-Manager/issues/573)
 - [Unable to Share Vehicle: This third party isn't registered with Tesla. We can't grant them access at the time.](https://github.com/llamafilm/tesla-http-proxy-addon/issues/83)
 - [Should I set CLOUDFLARE_ACCOUNT_ID? What is SECRET_DISCORD_WEBHOOK_URL?](https://github.com/yunsii/cf-worker-status-page-pro/issues/3)
