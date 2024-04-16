@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,560 |
+| com | 8,561 |
 | social | 4,888 |
 | net | 4,204 |
 | org | 2,803 |
@@ -27633,6 +27633,7 @@ Here's a list of public Fediverse services.
 | `maciejbielec.com` | No |
 | `maciek.pics` | Yes |
 | `mackenba.ch` | No |
+| `mackners.com` | No |
 | `macks.uk` | Yes |
 | `macle-cure.com` | No |
 | `macleay.ca` | Yes |
@@ -54189,7 +54190,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,575 |
-| Normal | 38,565 |
+| Normal | 38,566 |
 
 
 </details>
