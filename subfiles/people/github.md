@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error solving the challenge](https://github.com/FlareSolverr/FlareSolverr/issues/1155)
 - [WiFi has disappeared after upgrading OS from 12.1 to 12.2](https://github.com/home-assistant/operating-system/issues/3313)
 - [Error 1101 panel not running](https://github.com/bia-pain-bache/BPB-Worker-Panel/issues/22)
 - [connect() Socket API undefined](https://github.com/syumai/workers/issues/100)
