@@ -23,6 +23,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | abd.ong | Yes |
 | abraservice.xyz | Yes |
 | adfilter.net | Yes |
+| adfreedns.top | Yes |
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
 | ahadns.net | Yes |
@@ -193,6 +194,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rin.sh | Yes |
 | rootlab.top | No |
 | rslvr.eu | No |
+| ruby.ci | Yes |
+| rueiliu.space | No |
 | runsel.id | Yes |
 | rustsword.com | Yes |
 | saferbfc.org | Yes |
@@ -248,14 +251,15 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wikimedia-dns.org | No |
 | yatima.tv | Yes |
 | zburger.top | No |
+| zpn.me | Yes |
 
 
 ----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 128 |
-| Normal | 107 |
+| Cloudflare | 131 |
+| Normal | 108 |
 
 
-### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
