@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error 1101 panel not running](https://github.com/bia-pain-bache/BPB-Worker-Panel/issues/22)
 - [connect() Socket API undefined](https://github.com/syumai/workers/issues/100)
 - [Installation script doesn't work and can't properly configure karmada](https://github.com/karmada-io/karmada/issues/4837)
 - [Manager button not appearing (maybe dumplicate)](https://github.com/ltdrdata/ComfyUI-Manager/issues/573)
