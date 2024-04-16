@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,553 |
 | social | 4,887 |
 | net | 4,203 |
-| org | 2,802 |
+| org | 2,803 |
 | de | 2,710 |
 
 
@@ -8713,6 +8713,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
+| `com41.win` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -54107,6 +54108,7 @@ Here's a list of public Fediverse services.
 | `zuyang.wtf` | Yes |
 | `zuzakistan.com` | No |
 | `zuzax.com` | No |
+| `zvava.org` | No |
 | `zvavybir.eu` | No |
 | `zveryok.pp.ua` | No |
 | `zvo.io` | No |
@@ -54167,8 +54169,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,567 |
-| Normal | 38,552 |
+| Cloudflare | 15,568 |
+| Normal | 38,553 |
 
 
 </details>
