@@ -17,8 +17,11 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 0x55.net | Yes |
 | 3dns.eu | No |
 | 4-the.win | Yes |
+| 4ch.my.id | Yes |
 | 52306.org | Yes |
 | 8888.google | No |
+| 9999.sg | No |
+| a47.me | No |
 | aa.net.uk | No |
 | abd.ong | Yes |
 | abraservice.xyz | Yes |
@@ -81,6 +84,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | doh.sb | Yes |
 | doh.xyz | Yes |
 | dotnet.win | Yes |
+| doubleangels.com | Yes |
 | dukun.de | No |
 | edgy-dns.com | No |
 | emiliyan.com | Yes |
@@ -123,10 +127,10 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | kerekes.xyz | Yes |
 | kernel-error.de | No |
 | ketan.dev | Yes |
-| kongjak.com | Yes |
 | konikoni428.com | Yes |
 | kooman.org | No |
 | krnl.eu | Yes |
+| kugoapps.com | No |
 | kukal.cz | No |
 | labnekotest.site | Yes |
 | lacontrevoie.fr | No |
@@ -151,6 +155,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mullvad.net | No |
 | mydns.network | Yes |
 | mywire.org | Yes |
+| naftalie.net | Yes |
 | narl.app | No |
 | neilzone.co.uk | No |
 | nenam.eu | No |
@@ -179,11 +184,13 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | persiannit.net | Yes |
 | pesaventofilippo.com | Yes |
 | pietjacobs.be | No |
+| pnh.my.id | Yes |
 | pooblet.co.za | Yes |
 | pragmasec.nl | No |
 | prima-solusindo.com | No |
 | puregeni.us | No |
 | qquack.org | Yes |
+| qtxd.net | No |
 | quad9.net | Yes |
 | quydang.name.vn | Yes |
 | ral9005.org | Yes |
@@ -215,6 +222,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | silentlybren.com | Yes |
 | skrep.eu | No |
 | slinkyman.net | Yes |
+| smartguard.io | No |
 | spacedns.org | No |
 | spirio.fr | No |
 | sscw.win | Yes |
@@ -259,8 +267,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 132 |
-| Normal | 108 |
+| Cloudflare | 135 |
+| Normal | 113 |
 
 
-### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
