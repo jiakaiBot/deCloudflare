@@ -31307,6 +31307,7 @@ Here's a list of public Fediverse services.
 | `mr.am` | Yes |
 | `mr.gy` | No |
 | `mr64.net` | No |
+| `mrah.live` | No |
 | `mrak.at` | No |
 | `mrakonet.cz` | No |
 | `mrandum.de` | No |
@@ -54191,7 +54192,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,575 |
-| Normal | 38,567 |
+| Normal | 38,568 |
 
 
 </details>
