@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-04-17: [Issues for Families and Securities using Cloudflare's public resolver via DoH and DoT](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4w7t7w611lrr)
 - 2024-04-17: [Network Performance Issues in London](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mkmgz7hfs175)
 - 2024-04-15: [Issues on Cloudflare AI Website](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gf917zgq7rrm)
 - 2024-04-15: [Network Performance Issues in Warsaw](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/brm6vw0szdxj)
