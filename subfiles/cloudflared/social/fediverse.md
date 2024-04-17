@@ -491,7 +491,7 @@ Here's a list of public Fediverse services.
 | `3615.computer` | Yes |
 | `3644859.xyz` | Yes |
 | `36c.nl` | No |
-| `36o.it` | Yes |
+| `36o.it` | No |
 | `36photos.de` | No |
 | `386898.xyz` | Yes |
 | `39.gy` | Yes |
@@ -25942,6 +25942,7 @@ Here's a list of public Fediverse services.
 | `lemmy.cafe` | No |
 | `lemmy.cat` | No |
 | `lemmy.click` | Yes |
+| `lemmy.co.nz` | Yes |
 | `lemmy.design` | No |
 | `lemmy.directory` | Yes |
 | `lemmy.eco.br` | Yes |
@@ -54201,7 +54202,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,576 |
-| Normal | 38,576 |
+| Normal | 38,577 |
 
 
 </details>
