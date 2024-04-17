@@ -1968,6 +1968,7 @@ Here's a list of public Fediverse services.
 | `allison.social` | No |
 | `allistodon.xyz` | Yes |
 | `alljoin.me` | No |
+| `allmende.io` | No |
 | `allmendenetz.de` | No |
 | `allmers.de` | No |
 | `allnutt.net` | No |
@@ -54192,7 +54193,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,575 |
-| Normal | 38,568 |
+| Normal | 38,569 |
 
 
 </details>
