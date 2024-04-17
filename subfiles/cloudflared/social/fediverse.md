@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,562 |
+| com | 8,563 |
 | social | 4,888 |
 | net | 4,204 |
 | org | 2,803 |
@@ -22834,6 +22834,7 @@ Here's a list of public Fediverse services.
 | `joeross.me` | No |
 | `joeshaw.org` | No |
 | `joespace.ca` | Yes |
+| `joestone.info` | Yes |
 | `joev.dev` | No |
 | `joewoods.dev` | Yes |
 | `joeyboon.nl` | No |
@@ -35793,6 +35794,7 @@ Here's a list of public Fediverse services.
 | `ozioso.online` | No |
 | `ozlabs.house` | No |
 | `ozoned.net` | No |
+| `ozor.es` | Yes |
 | `ozstream.net.au` | No |
 | `oztorah.com` | Yes |
 | `p-arte.org` | No |
@@ -37049,6 +37051,7 @@ Here's a list of public Fediverse services.
 | `pirouz.io` | No |
 | `pirsamti.com` | Yes |
 | `pirtube.cz` | No |
+| `piruett.se` | No |
 | `pirxpilot.me` | Yes |
 | `piscolabis.me` | No |
 | `pisino.it` | Yes |
@@ -50044,6 +50047,7 @@ Here's a list of public Fediverse services.
 | `uruk-hai.eu` | Yes |
 | `urusai.social` | No |
 | `urvogel.club` | Yes |
+| `urweibo.com` | No |
 | `uryokurin.net` | Yes |
 | `urzlab.com` | No |
 | `us.dev` | Yes |
@@ -54196,8 +54200,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,574 |
-| Normal | 38,574 |
+| Cloudflare | 15,576 |
+| Normal | 38,576 |
 
 
 </details>
