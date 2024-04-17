@@ -10820,6 +10820,7 @@ Here's a list of public Fediverse services.
 | `dedosdefrente.com` | Yes |
 | `deds.nl` | No |
 | `dedyn.io` | Yes |
+| `deedium.nl` | No |
 | `deeds.digital` | Yes |
 | `deef.tech` | Yes |
 | `deeloves.me` | No |
@@ -54194,7 +54195,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,574 |
-| Normal | 38,571 |
+| Normal | 38,572 |
 
 
 </details>
