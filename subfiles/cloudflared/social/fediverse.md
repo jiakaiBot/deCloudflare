@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,507 |
+| com | 8,505 |
 | social | 4,876 |
 | net | 4,189 |
 | org | 2,790 |
@@ -7091,7 +7091,6 @@ Here's a list of public Fediverse services.
 | `cas.social` | No |
 | `casablog.com` | No |
 | `casacamelia.xyz` | Yes |
-| `casares.blog` | No |
 | `casavaga.com` | No |
 | `casavant.org` | No |
 | `cascade.moe` | Yes |
@@ -14532,7 +14531,6 @@ Here's a list of public Fediverse services.
 | `fatpig.club` | No |
 | `fatpikachu.com` | No |
 | `fatsofa.eu` | No |
-| `fattosan.dev` | No |
 | `fatty-j.com` | No |
 | `faucher.social` | No |
 | `fauchereau.fr` | No |
@@ -24710,6 +24708,7 @@ Here's a list of public Fediverse services.
 | `koppe.social` | No |
 | `koppermann-itk.de` | No |
 | `koprulu.me` | No |
+| `kora.moe` | Yes |
 | `korako.me` | Yes |
 | `korange.work` | Yes |
 | `koray.al` | Yes |
@@ -30769,7 +30768,6 @@ Here's a list of public Fediverse services.
 | `moldyspam.com` | No |
 | `molina.jp` | Yes |
 | `molinasoler.xyz` | No |
-| `molinerosporelmundo.com` | No |
 | `mollejuo.com` | No |
 | `mollielpatterson.com` | Yes |
 | `mollys.social` | No |
@@ -32226,7 +32224,7 @@ Here's a list of public Fediverse services.
 | `namok.be` | No |
 | `namt.uk` | Yes |
 | `namtao.com` | No |
-| `namtari.com` | Yes |
+| `namtari.com` | No |
 | `namtsui.com` | No |
 | `namwen.me` | No |
 | `nan1.casa` | Yes |
@@ -38101,7 +38099,6 @@ Here's a list of public Fediverse services.
 | `prowl.social` | No |
 | `prowniesoftware.net` | No |
 | `prowrestling.space` | No |
-| `proximaescucha.com` | No |
 | `proximitysculptor.com` | Yes |
 | `proxion.de` | No |
 | `proxmox-lab.com` | Yes |
@@ -50301,7 +50298,6 @@ Here's a list of public Fediverse services.
 | `verboseguacamole.com` | Yes |
 | `verbraucherzentrale.social` | No |
 | `verbrennung.org` | No |
-| `verbum.cc` | No |
 | `vercel.app` | No |
 | `verdantsquare.net` | No |
 | `verde-loro.com` | No |
@@ -54016,7 +54012,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,524 |
-| Normal | 38,443 |
+| Normal | 38,439 |
 
 
 </details>
