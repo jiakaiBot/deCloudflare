@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,561 |
+| com | 8,562 |
 | social | 4,888 |
 | net | 4,204 |
 | org | 2,803 |
-| de | 2,711 |
+| de | 2,712 |
 
 
 - Mastodon, Pleroma, etc
@@ -5318,6 +5318,7 @@ Here's a list of public Fediverse services.
 | `bjhess.com` | Yes |
 | `bjmendelson.com` | No |
 | `bjo.my.id` | Yes |
+| `bjoern-tantau.de` | No |
 | `bjones.net` | No |
 | `bjorkbrant.com` | Yes |
 | `bjorkede.no` | No |
@@ -43393,6 +43394,7 @@ Here's a list of public Fediverse services.
 | `sleroq.link` | Yes |
 | `slerp.ch` | No |
 | `sleuth.world` | No |
+| `slexn.com` | No |
 | `sliek.social` | No |
 | `sliekcastopod.com` | No |
 | `sliekcasts.com` | No |
@@ -54195,7 +54197,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,574 |
-| Normal | 38,572 |
+| Normal | 38,574 |
 
 
 </details>
