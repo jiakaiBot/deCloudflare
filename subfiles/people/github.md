@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Consecutive OpenAI function calls would break OpenAI for vercel/ai version >= 3.0.20](https://github.com/vercel/ai/issues/1373)
 - [Prisma plugin failing on call to builder.prismaObject()](https://github.com/hayes/pothos/issues/1190)
 - [Cloudflare Status code 524](https://github.com/ollama/ollama/issues/3694)
 - [Loading a static Github Pages site in an iframe in Foundry Journal page results in Etag error - v10 and v11](https://github.com/foundryvtt/foundryvtt/issues/10649)
