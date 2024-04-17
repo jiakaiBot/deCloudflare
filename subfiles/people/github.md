@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [defaultHook not picked up in nested routes](https://github.com/honojs/hono/issues/2520)
 - [TypeError: XDR Write Error: object Object is not a ScVal](https://github.com/stellar/soroban-cli/issues/1285)
 - [RateLimitError: 429, cannot run main.js](https://github.com/kolbytn/mindcraft/issues/49)
 - [Consecutive OpenAI function calls would break OpenAI for vercel/ai version >= 3.0.20](https://github.com/vercel/ai/issues/1373)
