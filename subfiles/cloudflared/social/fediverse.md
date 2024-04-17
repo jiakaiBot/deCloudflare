@@ -19928,6 +19928,7 @@ Here's a list of public Fediverse services.
 | `hllr.xyz` | No |
 | `hlnt.de` | Yes |
 | `hlpme.de` | No |
+| `hlunke-und-socke.art` | No |
 | `hlut.win` | Yes |
 | `hmarquez.com` | No |
 | `hmbl.blog` | No |
@@ -38572,7 +38573,7 @@ Here's a list of public Fediverse services.
 | `qaq.jp` | Yes |
 | `qaq.land` | Yes |
 | `qaq.rip` | No |
-| `qaq.social` | Yes |
+| `qaq.social` | No |
 | `qaq.wiki` | Yes |
 | `qassim.uk` | No |
 | `qatuno.de` | No |
@@ -54192,8 +54193,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,575 |
-| Normal | 38,569 |
+| Cloudflare | 15,574 |
+| Normal | 38,571 |
 
 
 </details>
