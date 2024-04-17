@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Prisma plugin failing on call to builder.prismaObject()](https://github.com/hayes/pothos/issues/1190)
 - [Cloudflare Status code 524](https://github.com/ollama/ollama/issues/3694)
 - [Loading a static Github Pages site in an iframe in Foundry Journal page results in Etag error - v10 and v11](https://github.com/foundryvtt/foundryvtt/issues/10649)
 - [Cannot deploy Cloudflare WorkerEntrypoint workers](https://github.com/sst/ion/issues/256)
