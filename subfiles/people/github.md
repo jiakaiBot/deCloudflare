@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Loading a static Github Pages site in an iframe in Foundry Journal page results in Etag error - v10 and v11](https://github.com/foundryvtt/foundryvtt/issues/10649)
 - [Cannot deploy Cloudflare WorkerEntrypoint workers](https://github.com/sst/ion/issues/256)
 - [Error solving the challenge](https://github.com/FlareSolverr/FlareSolverr/issues/1155)
 - [WiFi has disappeared after upgrading OS from 12.1 to 12.2](https://github.com/home-assistant/operating-system/issues/3313)
