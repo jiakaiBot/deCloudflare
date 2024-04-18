@@ -281,7 +281,7 @@ Here's a list of breached sites.
 | GeniusU | 1,301,460 | Yes |
 | GetRevengeOnYourEx (Get Revenge On Your Ex) | 79,195 | No |
 | Gett (Ge.tt) | 2,481,121 | No |
-| GiantTiger | 2,842,669 | Yes |
+| GiantTiger (Giant Tiger) | 2,842,669 | Yes |
 | GiveSendGo | 89,966 | Yes |
 | Glofox | 2,330,735 | Yes |
 | GoGames (Go Games) | 3,430,083 | Yes |
@@ -360,6 +360,7 @@ Here's a list of breached sites.
 | Lanwar | 45,120 | No |
 | Lastfm (Last.fm) | 37,217,682 | Yes |
 | Lazada (Lazada RedMart) | 1,107,789 | No |
+| LeSlipFrancais (Le Slip Français) | 1,495,127 | Yes |
 | LeagueOfLegends (League of Legends) | 339,487 | Yes |
 | LeakedReality (Leaked Reality) | 114,907 | Yes |
 | Ledger | 1,075,241 | Yes |
@@ -752,7 +753,7 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 439 | 4,990,835,344 |
+| Cloudflare | 440 | 4,992,330,471 |
 | Normal | 292 | 4,199,157,302 |
 
 
