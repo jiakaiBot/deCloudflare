@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,564 |
+| com | 8,567 |
 | social | 4,889 |
 | net | 4,205 |
 | org | 2,803 |
@@ -358,6 +358,7 @@ Here's a list of public Fediverse services.
 | `1z28.com` | No |
 | `1zl.nl` | Yes |
 | `2-blog.net` | No |
+| `2000.moe` | No |
 | `2000cho.me` | Yes |
 | `20011012.xyz` | Yes |
 | `200418.xyz` | Yes |
@@ -3845,6 +3846,7 @@ Here's a list of public Fediverse services.
 | `awjeez.help` | No |
 | `awk.is` | No |
 | `awkward.company` | No |
+| `awkward.place` | No |
 | `awkwardly.social` | No |
 | `awm.jp` | No |
 | `awmb.uk` | Yes |
@@ -17428,6 +17430,7 @@ Here's a list of public Fediverse services.
 | `gensou.social` | No |
 | `gensoukyou.jp.net` | No |
 | `gentle.town` | No |
+| `gentleman-clubs.com` | No |
 | `gentleman-loser.com` | No |
 | `gentlemanloser.cafe` | No |
 | `gentlenumbat.com` | No |
@@ -28050,6 +28053,7 @@ Here's a list of public Fediverse services.
 | `mangin.com` | No |
 | `mango.vg` | Yes |
 | `mangoranch.lol` | No |
+| `mangosh.in` | No |
 | `manhater.io` | No |
 | `manheim.info` | No |
 | `manhole.club` | Yes |
@@ -33054,6 +33058,7 @@ Here's a list of public Fediverse services.
 | `neuman.fi` | No |
 | `neumeier.org` | Yes |
 | `neunetz.com` | Yes |
+| `neunetz.fm` | No |
 | `neural.nz` | No |
 | `neurario.com` | No |
 | `neurer.com` | No |
@@ -39262,6 +39267,7 @@ Here's a list of public Fediverse services.
 | `ranranhome.info` | Yes |
 | `ranranhome.site` | No |
 | `ransom.buzz` | No |
+| `ranstam.eu` | No |
 | `rant.li` | Yes |
 | `rant.lol` | No |
 | `rantoul.social` | No |
@@ -44959,6 +44965,7 @@ Here's a list of public Fediverse services.
 | `stevijo.me` | Yes |
 | `stezen.de` | Yes |
 | `stfu.social` | No |
+| `stfugafm.com` | Yes |
 | `stgraber.org` | No |
 | `stgt.social` | No |
 | `sthlm.social` | No |
@@ -47691,6 +47698,7 @@ Here's a list of public Fediverse services.
 | `thymrios.com` | Yes |
 | `thyra-inflatables.eu` | Yes |
 | `ti-fr.com` | No |
+| `ti1.it` | Yes |
 | `ti22.pro` | No |
 | `tiagos.cz` | No |
 | `tian-shen.pro` | Yes |
@@ -51824,6 +51832,7 @@ Here's a list of public Fediverse services.
 | `whinge.house` | No |
 | `whinge.town` | No |
 | `whiplashprinciples.club` | No |
+| `whippy.kr` | No |
 | `whisker.org.uk` | No |
 | `whiskey.town` | No |
 | `whiskeyvalley.space` | No |
@@ -53598,6 +53607,7 @@ Here's a list of public Fediverse services.
 | `yurutan.net` | No |
 | `yuruyuri.family` | No |
 | `yusaku.social` | No |
+| `yusiqo.com` | Yes |
 | `yussuv.com` | Yes |
 | `yusufipek.me` | Yes |
 | `yusuke.pub` | Yes |
@@ -54219,8 +54229,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,573 |
-| Normal | 38,598 |
+| Cloudflare | 15,576 |
+| Normal | 38,605 |
 
 
 </details>
