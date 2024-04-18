@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,563 |
+| com | 8,564 |
 | social | 4,889 |
 | net | 4,205 |
 | org | 2,803 |
@@ -24452,6 +24452,7 @@ Here's a list of public Fediverse services.
 | `kksg.net` | Yes |
 | `kksk.one` | Yes |
 | `kl1pp3l.de` | No |
+| `kla.tv` | No |
 | `klaaspier.nl` | Yes |
 | `klacker.net` | No |
 | `klacker.org` | No |
@@ -34563,7 +34564,7 @@ Here's a list of public Fediverse services.
 | `occultist.space` | No |
 | `occvltvm.co` | No |
 | `ocean.st` | No |
-| `oceanblue.social` | Yes |
+| `oceanblue.social` | No |
 | `oceand.org` | Yes |
 | `oceanplayground.social` | No |
 | `oceansidenevada.com` | No |
@@ -39944,6 +39945,7 @@ Here's a list of public Fediverse services.
 | `retortillo.ink` | No |
 | `retr0.id` | No |
 | `retr0.party` | No |
+| `retro-gaiden.com` | No |
 | `retro-ink.com` | No |
 | `retro.pizza` | No |
 | `retro.social` | No |
@@ -54215,10 +54217,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,574 |
-| Normal | 38,593 |
+| Cloudflare | 15,573 |
+| Normal | 38,596 |
 
 
 </details>
 
-### 28.8% of public Fediverse services are using Cloudflare.
+### 28.7% of public Fediverse services are using Cloudflare.
