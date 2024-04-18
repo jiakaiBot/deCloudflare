@@ -50700,6 +50700,7 @@ Here's a list of public Fediverse services.
 | `villadetezontepec.com` | Yes |
 | `village.icu` | No |
 | `village.one` | Yes |
+| `villagekid.online` | No |
 | `villains.live` | Yes |
 | `villamilla.com` | No |
 | `villanos.net` | No |
@@ -54215,7 +54216,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,574 |
-| Normal | 38,592 |
+| Normal | 38,593 |
 
 
 </details>
