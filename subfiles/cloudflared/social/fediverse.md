@@ -1026,7 +1026,7 @@ Here's a list of public Fediverse services.
 | `abnd.space` | No |
 | `abnormalfreq.com` | No |
 | `abnv.me` | Yes |
-| `abode.fyi` | Yes |
+| `abode.fyi` | No |
 | `abohiccups.com` | Yes |
 | `aboivin.com` | No |
 | `abolish.social` | No |
@@ -21636,7 +21636,7 @@ Here's a list of public Fediverse services.
 | `inzomnodon.xyz` | No |
 | `io-cantina.com` | No |
 | `io-milkbar.com` | No |
-| `io.day` | Yes |
+| `io.day` | No |
 | `io.lu` | Yes |
 | `io.seg.br` | No |
 | `io0288.cn` | No |
@@ -34688,7 +34688,7 @@ Here's a list of public Fediverse services.
 | `official.jp` | No |
 | `officially.social` | No |
 | `officials.social` | No |
-| `officiating.rocks` | No |
+| `officiating.rocks` | Yes |
 | `officiell-info.se` | No |
 | `officiell.info` | No |
 | `officinarebelde.it` | No |
@@ -36015,6 +36015,7 @@ Here's a list of public Fediverse services.
 | `pantsu.life` | No |
 | `panxatony.net` | No |
 | `panxl.net` | Yes |
+| `panz.link` | No |
 | `panz.online` | No |
 | `panzner.net` | No |
 | `pao.moe` | Yes |
@@ -47704,7 +47705,7 @@ Here's a list of public Fediverse services.
 | `tic-ac.org` | No |
 | `ticketzon.it` | No |
 | `ticos.social` | No |
-| `tictech.info` | No |
+| `tictech.info` | Yes |
 | `tictoc.social` | No |
 | `tiddy.city` | Yes |
 | `tiddyhonkers.com` | Yes |
@@ -54219,7 +54220,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,573 |
-| Normal | 38,597 |
+| Normal | 38,598 |
 
 
 </details>
