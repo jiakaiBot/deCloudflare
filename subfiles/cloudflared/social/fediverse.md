@@ -12241,6 +12241,7 @@ Here's a list of public Fediverse services.
 | `dragoncave.dev` | Yes |
 | `dragonchat.org` | No |
 | `dragonfleye.io` | No |
+| `dragonfly.eco` | No |
 | `dragonfruit.dev` | Yes |
 | `dragonhoard.network` | No |
 | `dragonpsi.xyz` | No |
@@ -54231,7 +54232,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,578 |
-| Normal | 38,604 |
+| Normal | 38,605 |
 
 
 </details>
