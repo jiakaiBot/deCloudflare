@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [vcc.vrcfury.com returns 500 if there is If-None-Match header.](https://github.com/VRCFury/VRCFury/issues/277)
 - [why am i getting an api error?. pls helpp](https://github.com/rsnlabs/rsnchat-js/issues/9)
 - [defaultHook not picked up in nested routes](https://github.com/honojs/hono/issues/2520)
 - [TypeError: XDR Write Error: object Object is not a ScVal](https://github.com/stellar/soroban-cli/issues/1285)
