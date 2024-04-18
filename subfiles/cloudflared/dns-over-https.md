@@ -59,6 +59,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cloud88.com.au | Yes |
 | cloudflare-dns.com | Yes |
 | cloudku.technology | Yes |
+| cnetwork.cloud | Yes |
 | cubedns.com | No |
 | cynthialabs.net | Yes |
 | daemon.za.net | Yes |
@@ -107,9 +108,11 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hahnjo.de | No |
 | hanniel.tech | No |
 | henek.ovh | Yes |
+| horcrux.vip | No |
 | hostme.co.il | Yes |
 | huque.com | No |
 | hypercute.eu | No |
+| ian.rocks | Yes |
 | iij.jp | Yes |
 | ikarosalpha.xyz | Yes |
 | iki.my.id | Yes |
@@ -183,6 +186,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pccoach.nl | Yes |
 | persiannit.net | Yes |
 | pesaventofilippo.com | Yes |
+| phillipjberry.net | No |
 | pietjacobs.be | No |
 | pnh.my.id | Yes |
 | pooblet.co.za | Yes |
@@ -258,6 +262,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wang.art | Yes |
 | warma.me | Yes |
 | wikimedia-dns.org | No |
+| xwdmw.xyz | Yes |
 | yatima.tv | Yes |
 | zburger.top | No |
 | zpn.me | Yes |
@@ -267,8 +272,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 135 |
-| Normal | 113 |
+| Cloudflare | 138 |
+| Normal | 115 |
 
 
-### 54.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
