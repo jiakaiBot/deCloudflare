@@ -26708,7 +26708,7 @@ Here's a list of public Fediverse services.
 | `littletheorem.com` | Yes |
 | `littletimemachine.com` | Yes |
 | `littletrips.me` | No |
-| `littleturnip.net` | Yes |
+| `littleturnip.net` | No |
 | `littr.me` | Yes |
 | `litu.at` | No |
 | `litui.net` | No |
@@ -31892,6 +31892,7 @@ Here's a list of public Fediverse services.
 | `mv2k.com` | No |
 | `mvalente.eu` | No |
 | `mvanmartijn.eu` | No |
+| `mven.nl` | Yes |
 | `mvh.dev` | Yes |
 | `mvion.fr` | No |
 | `mvolfik.com` | Yes |
@@ -54218,7 +54219,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,573 |
-| Normal | 38,596 |
+| Normal | 38,597 |
 
 
 </details>
