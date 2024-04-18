@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [receiver/cloudflare Integration tests failing to find expected files](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32532)
 - [Issue when running on machine with CaddyV2 installed](https://github.com/notthebee/ansible-easy-vpn/issues/290)
 - [Cannot read properties of undefined (reading 'find')](https://github.com/giorgi-o/SkinPeek/issues/103)
 - [gives me an error: PrismaClient is not configured to run in Cloudflare Workers. In order to run Prisma Client on edge runtime](https://github.com/prisma/prisma/issues/23882)
