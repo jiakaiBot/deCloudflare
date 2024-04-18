@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,567 |
 | social | 4,889 |
-| net | 4,205 |
+| net | 4,206 |
 | org | 2,803 |
 | de | 2,713 |
 
@@ -7801,7 +7801,7 @@ Here's a list of public Fediverse services.
 | `chilli.social` | No |
 | `chilliet.eu` | No |
 | `chillout.chat` | Yes |
-| `chillout.day` | Yes |
+| `chillout.day` | No |
 | `chillpeep.zone` | Yes |
 | `chillr.de` | No |
 | `chilly.cloud` | No |
@@ -13385,7 +13385,7 @@ Here's a list of public Fediverse services.
 | `embros.org` | Yes |
 | `emcomm.social` | No |
 | `emelyne.eu` | No |
-| `emerald.show` | No |
+| `emerald.show` | Yes |
 | `emeraldsocial.org` | No |
 | `emergeheart.info` | No |
 | `emergencyalerts.app` | No |
@@ -28074,7 +28074,7 @@ Here's a list of public Fediverse services.
 | `manji.dev` | Yes |
 | `manley.org` | No |
 | `manlycoffee.lol` | No |
-| `mann.blog` | No |
+| `mann.blog` | Yes |
 | `mannennet.eu` | No |
 | `mannheim.social` | No |
 | `manninet.de` | No |
@@ -33065,6 +33065,7 @@ Here's a list of public Fediverse services.
 | `neuro.cooking` | No |
 | `neurodifferent.me` | No |
 | `neurodiver.ge` | No |
+| `neurodiverseleader.net` | No |
 | `neurodiversity-in.au` | Yes |
 | `neurofrontiers.blog` | No |
 | `neurohack.net` | Yes |
@@ -50071,7 +50072,7 @@ Here's a list of public Fediverse services.
 | `uruk-hai.eu` | Yes |
 | `urusai.social` | No |
 | `urvogel.club` | Yes |
-| `urweibo.com` | No |
+| `urweibo.com` | Yes |
 | `uryokurin.net` | Yes |
 | `urzlab.com` | No |
 | `us.dev` | Yes |
@@ -54229,10 +54230,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,576 |
-| Normal | 38,605 |
+| Cloudflare | 15,578 |
+| Normal | 38,604 |
 
 
 </details>
 
-### 28.7% of public Fediverse services are using Cloudflare.
+### 28.8% of public Fediverse services are using Cloudflare.
