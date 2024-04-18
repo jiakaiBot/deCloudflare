@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,563 |
-| social | 4,888 |
+| social | 4,889 |
 | net | 4,205 |
 | org | 2,803 |
-| de | 2,712 |
+| de | 2,713 |
 
 
 - Mastodon, Pleroma, etc
@@ -6489,6 +6489,7 @@ Here's a list of public Fediverse services.
 | `bugle.lol` | No |
 | `bugplasma.de` | No |
 | `bugs.casa` | No |
+| `bugs.se` | No |
 | `bugs.social` | No |
 | `bugshack.de` | Yes |
 | `buhse.social` | No |
@@ -7044,6 +7045,7 @@ Here's a list of public Fediverse services.
 | `carck.co.uk` | Yes |
 | `carclub.social` | No |
 | `cardanodevelopment.com` | Yes |
+| `cardassia.social` | No |
 | `cardboard.construction` | No |
 | `cardiffmas.uk` | No |
 | `cardina1.red` | Yes |
@@ -11964,6 +11966,7 @@ Here's a list of public Fediverse services.
 | `dolciss.net` | Yes |
 | `dolec.fr` | No |
 | `dolezal.one` | No |
+| `doll.gl` | Yes |
 | `doll.moe` | No |
 | `doll.repair` | Yes |
 | `doll.social` | No |
@@ -16300,6 +16303,7 @@ Here's a list of public Fediverse services.
 | `freude.social` | No |
 | `freumh.org` | No |
 | `freunde-des-punk.de` | No |
+| `freunde-in-europa.de` | No |
 | `freundica.de` | No |
 | `freundliches.de` | Yes |
 | `freundtech.com` | No |
@@ -20616,6 +20620,7 @@ Here's a list of public Fediverse services.
 | `hyperpla.net` | No |
 | `hyperplex.net` | No |
 | `hyperreal.coffee` | No |
+| `hyperreal.cyou` | No |
 | `hyperreal.tube` | No |
 | `hypers.social` | No |
 | `hypertalk.io` | No |
@@ -43465,6 +43470,7 @@ Here's a list of public Fediverse services.
 | `slurfdier.nl` | No |
 | `slut.systems` | No |
 | `slut.town` | Yes |
+| `sluta.st` | No |
 | `slv-valbonne.fr` | No |
 | `slvn.social` | No |
 | `slvtv.fr` | No |
@@ -46928,6 +46934,7 @@ Here's a list of public Fediverse services.
 | `the9thcircle.club` | No |
 | `theabsolute.plus` | Yes |
 | `theadamcooper.com` | No |
+| `theaddict.club` | No |
 | `theaddict.ink` | No |
 | `theaddict.tech` | No |
 | `theaddict.xyz` | No |
@@ -52829,6 +52836,7 @@ Here's a list of public Fediverse services.
 | `xn--brd-zma.app` | No |
 | `xn--c1ad2baa4b0f.com` | No |
 | `xn--c28h.to` | Yes |
+| `xn--c8h.fm` | No |
 | `xn--canope-fva.quebec` | No |
 | `xn--chuchichschtli-dib.social` | No |
 | `xn--contrefaon-v6aa.fr` | No |
@@ -53631,6 +53639,7 @@ Here's a list of public Fediverse services.
 | `yzsdcm.top` | No |
 | `z-blog.tk` | No |
 | `z-flag.work` | No |
+| `z-ll.xyz` | No |
 | `z-n-a-k.net` | Yes |
 | `z.fail` | No |
 | `z.je` | No |
@@ -54205,8 +54214,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,573 |
-| Normal | 38,584 |
+| Cloudflare | 15,574 |
+| Normal | 38,592 |
 
 
 </details>
