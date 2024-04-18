@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot read properties of undefined (reading 'find')](https://github.com/giorgi-o/SkinPeek/issues/103)
 - [gives me an error: PrismaClient is not configured to run in Cloudflare Workers. In order to run Prisma Client on edge runtime](https://github.com/prisma/prisma/issues/23882)
 - [Problem with wrangler <3.49.0](https://github.com/bruceharrison1984/vite-wrangler-spa/issues/1)
 - [Nhentai Mobile app not working](https://github.com/Dar9586/NClientV2/issues/726)
