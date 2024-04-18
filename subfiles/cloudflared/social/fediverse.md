@@ -30009,6 +30009,7 @@ Here's a list of public Fediverse services.
 | `middangeard.ch` | No |
 | `midday.top` | Yes |
 | `middelered.world` | No |
+| `middle-earth.site` | No |
 | `middleearth.fr` | No |
 | `middleearth.social` | No |
 | `midgard.pm` | No |
@@ -54232,7 +54233,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,578 |
-| Normal | 38,605 |
+| Normal | 38,606 |
 
 
 </details>
