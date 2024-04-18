@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Problem with wrangler <3.49.0](https://github.com/bruceharrison1984/vite-wrangler-spa/issues/1)
+- [Nhentai Mobile app not working](https://github.com/Dar9586/NClientV2/issues/726)
 - [vcc.vrcfury.com returns 500 if there is If-None-Match header.](https://github.com/VRCFury/VRCFury/issues/277)
 - [why am i getting an api error?. pls helpp](https://github.com/rsnlabs/rsnchat-js/issues/9)
 - [defaultHook not picked up in nested routes](https://github.com/honojs/hono/issues/2520)
