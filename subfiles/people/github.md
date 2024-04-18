@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [An error occurred during installation....](https://github.com/Dhravya/supermemory/issues/25)
 - [receiver/cloudflare Integration tests failing to find expected files](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32532)
 - [Issue when running on machine with CaddyV2 installed](https://github.com/notthebee/ansible-easy-vpn/issues/290)
 - [Cannot read properties of undefined (reading 'find')](https://github.com/giorgi-o/SkinPeek/issues/103)
