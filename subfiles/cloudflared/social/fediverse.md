@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,571 |
-| social | 4,889 |
+| social | 4,890 |
 | net | 4,206 |
 | org | 2,803 |
 | de | 2,713 |
@@ -26640,6 +26640,7 @@ Here's a list of public Fediverse services.
 | `liolok.com` | Yes |
 | `lion.land` | No |
 | `lioncourt.social` | No |
+| `lionizers.social` | No |
 | `lipanisecurity.com` | No |
 | `lipilee.hu` | Yes |
 | `lipn.info` | No |
@@ -54241,7 +54242,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,579 |
-| Normal | 38,613 |
+| Normal | 38,614 |
 
 
 </details>
