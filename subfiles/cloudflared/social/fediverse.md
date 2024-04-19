@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,567 |
+| com | 8,568 |
 | social | 4,889 |
 | net | 4,206 |
 | org | 2,803 |
@@ -46393,6 +46393,7 @@ Here's a list of public Fediverse services.
 | `teamblackberry.jp` | No |
 | `teamblow.jp` | No |
 | `teambrej.com` | No |
+| `teamflashcord.com` | Yes |
 | `teamfmradio.com` | No |
 | `teamgallagher.social` | No |
 | `teamhuman.club` | No |
@@ -54233,7 +54234,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,577 |
+| Cloudflare | 15,578 |
 | Normal | 38,608 |
 
 
