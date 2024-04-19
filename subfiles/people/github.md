@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [An error occurred during installation "bun dev" doesn't work...](https://github.com/Dhravya/supermemory/issues/27)
 - [A hanging Promise was canceled on cloudflare](https://github.com/aymeric-giraudet/svelte-algolia-instantsearch/issues/38)
 - [Cert issue with cloudflare when pulling images](https://github.com/rancher/quickstart/issues/234)
 - [Error 500 when logging in with OIDC](https://github.com/TandoorRecipes/recipes/issues/3116)
