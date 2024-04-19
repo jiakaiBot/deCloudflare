@@ -12630,7 +12630,6 @@ Here's a list of public Fediverse services.
 | `dwntr.xyz` | No |
 | `dwscdv3.com` | Yes |
 | `dwx.social` | Yes |
-| `dx3906.one` | No |
 | `dxcibel.cyou` | No |
 | `dxcomplex.com` | No |
 | `dxlb.nl` | No |
@@ -21158,7 +21157,6 @@ Here's a list of public Fediverse services.
 | `imvegan.fyi` | No |
 | `imveganb.tw` | Yes |
 | `imverified.online` | Yes |
-| `imyip.dev` | No |
 | `imyip.net` | Yes |
 | `in-athens.gr` | No |
 | `in-berlin.de` | No |
@@ -30894,7 +30892,6 @@ Here's a list of public Fediverse services.
 | `mokomokohouse.com` | No |
 | `mokou.de` | No |
 | `mokum.icu` | No |
-| `mol.ink` | Yes |
 | `mol.lu` | Yes |
 | `molaguay.xyz` | No |
 | `moldyspam.com` | No |
@@ -50125,7 +50122,6 @@ Here's a list of public Fediverse services.
 | `usher.dev` | Yes |
 | `usmanity.com` | Yes |
 | `usne.social` | No |
-| `uso108.site` | No |
 | `usocial.fr` | No |
 | `usokkey.club` | No |
 | `usounds.work` | Yes |
@@ -52757,7 +52753,6 @@ Here's a list of public Fediverse services.
 | `xhec.dev` | Yes |
 | `xhmelo.net` | Yes |
 | `xhrpb.com` | No |
-| `xhxh.me` | No |
 | `xi.ht` | No |
 | `xiachong.ltd` | Yes |
 | `xial.xyz` | Yes |
@@ -53097,7 +53092,6 @@ Here's a list of public Fediverse services.
 | `xymoste.ch` | No |
 | `xynthxolarxylia.xyz` | No |
 | `xyntion.consulting` | No |
-| `xys.town` | Yes |
 | `xytes.net` | No |
 | `xyu.social` | Yes |
 | `xyzyx.org` | No |
@@ -53942,7 +53936,6 @@ Here's a list of public Fediverse services.
 | `zfadd.is` | No |
 | `zfov.ca` | No |
 | `zgasma.org` | No |
-| `zgjnas.top` | No |
 | `zgo.de` | No |
 | `zh.ht` | No |
 | `zhai.eu` | No |
@@ -54085,7 +54078,6 @@ Here's a list of public Fediverse services.
 | `zonepl.net` | No |
 | `zoner.gay` | No |
 | `zoner.work` | No |
-| `zongmeng.me` | Yes |
 | `zonurben.ch` | No |
 | `zoomer.photography` | No |
 | `zoomers.lol` | No |
@@ -54248,8 +54240,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,581 |
-| Normal | 38,619 |
+| Cloudflare | 15,578 |
+| Normal | 38,614 |
 
 
 </details>
