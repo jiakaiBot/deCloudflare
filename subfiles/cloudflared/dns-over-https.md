@@ -106,7 +106,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | guard.io | Yes |
 | guidocioni.it | No |
 | hahnjo.de | No |
-| hanniel.tech | No |
 | henek.ovh | Yes |
 | horcrux.vip | No |
 | hostme.co.il | Yes |
@@ -128,7 +127,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | karfamily.net | Yes |
 | keke125.com | Yes |
 | kerekes.xyz | Yes |
-| kernel-error.de | No |
 | ketan.dev | Yes |
 | konikoni428.com | Yes |
 | kooman.org | No |
@@ -215,7 +213,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | safesurfer.io | Yes |
 | sarilouis.com | No |
 | sc-lezhi.com | No |
-| schlagheck.berlin | Yes |
 | sealyserver.com | Yes |
 | seby.io | Yes |
 | serdcebolit.ru | No |
@@ -272,8 +269,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 138 |
-| Normal | 115 |
+| Cloudflare | 137 |
+| Normal | 113 |
 
 
-### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
