@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,570 |
+| com | 8,571 |
 | social | 4,889 |
 | net | 4,206 |
 | org | 2,803 |
@@ -30341,6 +30341,7 @@ Here's a list of public Fediverse services.
 | `mipuertorico.social` | No |
 | `mirabellug.org` | No |
 | `miradordemontepinar.net` | No |
+| `mirageisland.nl` | No |
 | `mirai.cafe` | Yes |
 | `miraiskey.net` | Yes |
 | `miraiv.net` | No |
@@ -40857,6 +40858,7 @@ Here's a list of public Fediverse services.
 | `ruhr.social` | No |
 | `ruhrpott.social` | No |
 | `ruhuna.jp` | No |
+| `ruiandrebatista.com` | No |
 | `ruin-the.world` | No |
 | `ruin.io` | No |
 | `ruinafriends.click` | No |
@@ -54239,7 +54241,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,579 |
-| Normal | 38,611 |
+| Normal | 38,613 |
 
 
 </details>
