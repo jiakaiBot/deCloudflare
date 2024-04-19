@@ -6484,6 +6484,7 @@ Here's a list of public Fediverse services.
 | `buffalomesh.net` | Yes |
 | `buffalopugs.org` | Yes |
 | `buffering.rocks` | No |
+| `buffets.kitchen` | No |
 | `bug-fix.net` | No |
 | `bug.expert` | Yes |
 | `bugarin.com.br` | Yes |
@@ -54251,7 +54252,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,580 |
-| Normal | 38,622 |
+| Normal | 38,623 |
 
 
 </details>
