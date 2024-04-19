@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,568 |
+| com | 8,569 |
 | social | 4,889 |
 | net | 4,206 |
 | org | 2,803 |
@@ -16248,7 +16248,7 @@ Here's a list of public Fediverse services.
 | `freetubeapp.io` | No |
 | `freetubehub.live` | Yes |
 | `freevariable.com` | No |
-| `freevoice.space` | Yes |
+| `freevoice.space` | No |
 | `freewahaextremist.com` | No |
 | `freewahaextremist.wtf` | No |
 | `freewall.fr` | Yes |
@@ -53494,6 +53494,7 @@ Here's a list of public Fediverse services.
 | `ysd.be` | No |
 | `ysfh.jp` | Yes |
 | `yshi.org` | Yes |
+| `ysizuku.com` | Yes |
 | `ysj.social` | No |
 | `ysmal.fr` | Yes |
 | `ysnr5102.com` | No |
@@ -54235,7 +54236,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,578 |
-| Normal | 38,608 |
+| Normal | 38,609 |
 
 
 </details>
