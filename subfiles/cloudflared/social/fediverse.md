@@ -498,7 +498,7 @@ Here's a list of public Fediverse services.
 | `39.gy` | Yes |
 | `39sounds.net` | No |
 | `3anctuary.xyz` | No |
-| `3bit.one` | Yes |
+| `3bit.one` | No |
 | `3bk.jp` | No |
 | `3cat.icu` | No |
 | `3cgw.de` | No |
@@ -6672,6 +6672,7 @@ Here's a list of public Fediverse services.
 | `bwoodford.xyz` | No |
 | `bwpost.online` | No |
 | `bx23.net` | Yes |
+| `bxe.io` | No |
 | `bxl.social` | No |
 | `by.tc` | No |
 | `by8.space` | Yes |
@@ -9277,7 +9278,7 @@ Here's a list of public Fediverse services.
 | `crablab.uk` | No |
 | `crabland.social` | No |
 | `crablettesare.life` | No |
-| `crabnetic.com` | Yes |
+| `crabnetic.com` | No |
 | `crabs.life` | Yes |
 | `crabsin.space` | No |
 | `crack.group` | No |
@@ -25588,7 +25589,7 @@ Here's a list of public Fediverse services.
 | `laserbeam.productions` | No |
 | `laserbeamh.com` | No |
 | `laserdisc.party` | No |
-| `laserjesus.se` | No |
+| `laserjesus.se` | Yes |
 | `lasersandal.club` | No |
 | `lasersare.fun` | No |
 | `lasershark.army` | No |
@@ -54232,10 +54233,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,578 |
-| Normal | 38,606 |
+| Cloudflare | 15,577 |
+| Normal | 38,608 |
 
 
 </details>
 
-### 28.8% of public Fediverse services are using Cloudflare.
+### 28.7% of public Fediverse services are using Cloudflare.
