@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,569 |
+| com | 8,570 |
 | social | 4,889 |
 | net | 4,206 |
 | org | 2,803 |
@@ -27882,6 +27882,7 @@ Here's a list of public Fediverse services.
 | `maitsu.social` | Yes |
 | `majak.de` | No |
 | `majestic.monster` | No |
+| `majestic12.airforce` | No |
 | `majimaconstruction.org` | No |
 | `majion.ga` | No |
 | `majorlinux.com` | Yes |
@@ -42521,6 +42522,7 @@ Here's a list of public Fediverse services.
 | `shadyvalley.net` | No |
 | `shadywebsite.website` | Yes |
 | `shahbazi.at` | No |
+| `shahinism.com` | Yes |
 | `shahu.ski` | Yes |
 | `shai.pink` | No |
 | `shakalaka.club` | No |
@@ -54235,8 +54237,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,578 |
-| Normal | 38,609 |
+| Cloudflare | 15,579 |
+| Normal | 38,610 |
 
 
 </details>
