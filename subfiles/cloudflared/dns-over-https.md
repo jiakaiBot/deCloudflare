@@ -210,7 +210,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | saferbfc.org | Yes |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
-| samonte.ovh | No |
+| samonte.ovh | Yes |
 | sarilouis.com | No |
 | sc-lezhi.com | No |
 | sealyserver.com | Yes |
@@ -270,8 +270,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 137 |
-| Normal | 114 |
+| Cloudflare | 138 |
+| Normal | 113 |
 
 
-### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
