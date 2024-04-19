@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issues with Deployment and Local Development with Cloudflare Workers](https://github.com/rhinobase/hono-rate-limiter/issues/8)
 - [An error occurred during installation....](https://github.com/Dhravya/supermemory/issues/25)
 - [receiver/cloudflare Integration tests failing to find expected files](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32532)
 - [Issue when running on machine with CaddyV2 installed](https://github.com/notthebee/ansible-easy-vpn/issues/290)
