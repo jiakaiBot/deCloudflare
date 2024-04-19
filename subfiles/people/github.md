@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [using wss instead of ws for opendevin through cloudflare tunnels](https://github.com/OpenDevin/OpenDevin/issues/1234)
+- [500 errors keep occuring](https://github.com/55gms/55GMS/issues/46)
 - [An error occurred during installation "bun dev" doesn't work...](https://github.com/Dhravya/supermemory/issues/27)
 - [A hanging Promise was canceled on cloudflare](https://github.com/aymeric-giraudet/svelte-algolia-instantsearch/issues/38)
 - [Cert issue with cloudflare when pulling images](https://github.com/rancher/quickstart/issues/234)
