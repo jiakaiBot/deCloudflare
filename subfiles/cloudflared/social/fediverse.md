@@ -20177,6 +20177,7 @@ Here's a list of public Fediverse services.
 | `hopeinthefield.net` | Yes |
 | `hopeph.com` | No |
 | `hopfenshop.ch` | No |
+| `hoplagenda.fr` | No |
 | `hopman.nl` | No |
 | `hopmann.xyz` | No |
 | `hoppclan.com` | No |
@@ -54238,7 +54239,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,579 |
-| Normal | 38,610 |
+| Normal | 38,611 |
 
 
 </details>
