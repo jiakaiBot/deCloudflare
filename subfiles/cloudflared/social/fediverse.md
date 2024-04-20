@@ -1176,6 +1176,7 @@ Here's a list of public Fediverse services.
 | `aconaway.com` | No |
 | `aconcaguared.com` | No |
 | `acor3.it` | No |
+| `acoret.online` | No |
 | `acornfarmer.dev` | No |
 | `acortech.it` | No |
 | `acos.tv` | No |
@@ -5910,7 +5911,7 @@ Here's a list of public Fediverse services.
 | `boop.network` | No |
 | `boop.town` | Yes |
 | `boopsnoot.de` | No |
-| `boopsnoot.gq` | Yes |
+| `boopsnoot.gq` | No |
 | `boora.ca` | No |
 | `boosted.science` | No |
 | `boosterfive.com` | No |
@@ -6074,6 +6075,7 @@ Here's a list of public Fediverse services.
 | `boyos.org` | No |
 | `boys-love.xyz` | No |
 | `boys.computer` | No |
+| `boyskissing.us` | No |
 | `boyslove.jp` | No |
 | `boyter.org` | No |
 | `boz.fi` | No |
@@ -43023,6 +43025,7 @@ Here's a list of public Fediverse services.
 | `silvaticus.org` | No |
 | `silveranubis.com` | No |
 | `silverark.social` | No |
+| `silvercat.org.ua` | No |
 | `silvercommunity.org` | No |
 | `silvereagle.dev` | Yes |
 | `silverfishdevelopment.com` | Yes |
@@ -54258,8 +54261,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,581 |
-| Normal | 38,629 |
+| Cloudflare | 15,580 |
+| Normal | 38,633 |
 
 
 </details>
