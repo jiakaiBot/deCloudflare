@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [how to set proxy when use docker chat-ollama?](https://github.com/sugarforever/chat-ollama/issues/314)
 - [using wss instead of ws for opendevin through cloudflare tunnels](https://github.com/OpenDevin/OpenDevin/issues/1234)
 - [500 errors keep occuring](https://github.com/55gms/55GMS/issues/46)
 - [An error occurred during installation "bun dev" doesn't work...](https://github.com/Dhravya/supermemory/issues/27)
