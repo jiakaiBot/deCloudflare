@@ -29920,6 +29920,7 @@ Here's a list of public Fediverse services.
 | `miau.vg` | Yes |
 | `miauuu.de` | No |
 | `miauws.life` | No |
+| `miawgogo.me` | No |
 | `miawinter.de` | No |
 | `mib.contact` | Yes |
 | `miblog.life` | No |
@@ -40778,7 +40779,7 @@ Here's a list of public Fediverse services.
 | `rss-parrot.net` | No |
 | `rss.town` | No |
 | `rssfeed.media` | No |
-| `rssto.social` | Yes |
+| `rssto.social` | No |
 | `rstats.me` | No |
 | `rstdn-p.com` | No |
 | `rsxo.de` | No |
@@ -44116,7 +44117,7 @@ Here's a list of public Fediverse services.
 | `soraneto.com` | No |
 | `sorasaki-ct.uk` | Yes |
 | `soratomo.info` | Yes |
-| `soraxedgemmder.me` | Yes |
+| `soraxedgemmder.me` | No |
 | `sorbit.no` | No |
 | `sorbonne-universite.fr` | Yes |
 | `sorcery.nexus` | No |
@@ -54251,8 +54252,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,580 |
-| Normal | 38,623 |
+| Cloudflare | 15,578 |
+| Normal | 38,626 |
 
 
 </details>
