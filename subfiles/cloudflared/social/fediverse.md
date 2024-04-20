@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,580 |
+| com | 8,581 |
 | social | 4,891 |
 | net | 4,209 |
 | org | 2,803 |
@@ -22427,6 +22427,7 @@ Here's a list of public Fediverse services.
 | `jazz-sax.com` | No |
 | `jazz.af` | No |
 | `jazzbutcher.com` | No |
+| `jazzlocal32.com` | No |
 | `jazzpages.de` | No |
 | `jazztodon.com` | No |
 | `jb-net.us` | No |
@@ -24321,7 +24322,6 @@ Here's a list of public Fediverse services.
 | `kiraako.work` | No |
 | `kiracollie.dog` | Yes |
 | `kirakiratter.com` | Yes |
-| `kirameki.cafe` | Yes |
 | `kiran.dog` | Yes |
 | `kirangaikwad.com` | No |
 | `kiranshila.com` | No |
@@ -51138,6 +51138,7 @@ Here's a list of public Fediverse services.
 | `vue.land` | No |
 | `vuillaume.ovh` | No |
 | `vuju.com` | No |
+| `vulcano8.es` | No |
 | `vulcantv.net` | No |
 | `vulgarisation-informatique.fr` | No |
 | `vulpes.directory` | No |
@@ -54264,8 +54265,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,580 |
-| Normal | 38,636 |
+| Cloudflare | 15,579 |
+| Normal | 38,638 |
 
 
 </details>
