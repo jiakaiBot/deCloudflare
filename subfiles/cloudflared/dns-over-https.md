@@ -120,7 +120,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | indianets.net | Yes |
 | indybanipal.com | No |
 | inria.fr | No |
-| itsa.top | Yes |
 | jackyes.ovh | No |
 | janl.eu | Yes |
 | justincounts.com | No |
@@ -154,7 +153,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mtsoln.com | Yes |
 | mullvad.net | No |
 | mydns.network | Yes |
-| mywire.org | Yes |
 | naftalie.net | Yes |
 | narl.app | No |
 | neilzone.co.uk | No |
@@ -270,8 +268,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 138 |
+| Cloudflare | 136 |
 | Normal | 113 |
 
 
-### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
