@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [启用 Multiplex 时，特定的路由条件会导致最终的 Dial 地址错误](https://github.com/SagerNet/sing-box/issues/1694)
 - [interactjs.io is down](https://github.com/taye/interact.js/issues/1036)
 - [Imagen Uploading Issue](https://github.com/freescout-helpdesk/freescout/issues/3987)
 - [how to set proxy when use docker chat-ollama?](https://github.com/sugarforever/chat-ollama/issues/314)
