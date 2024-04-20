@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No bare-urls when using _redirects file](https://github.com/DavidAnson/markdownlint/issues/1182)
 - [Does remix-flat-routes work with @remix-run/cloudflare ?](https://github.com/kiliman/remix-flat-routes/issues/117)
 - [启用 Multiplex 时，特定的路由条件会导致最终的 Dial 地址错误](https://github.com/SagerNet/sing-box/issues/1694)
 - [interactjs.io is down](https://github.com/taye/interact.js/issues/1036)
