@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [interactjs.io is down](https://github.com/taye/interact.js/issues/1036)
 - [Imagen Uploading Issue](https://github.com/freescout-helpdesk/freescout/issues/3987)
 - [how to set proxy when use docker chat-ollama?](https://github.com/sugarforever/chat-ollama/issues/314)
 - [using wss instead of ws for opendevin through cloudflare tunnels](https://github.com/OpenDevin/OpenDevin/issues/1234)
