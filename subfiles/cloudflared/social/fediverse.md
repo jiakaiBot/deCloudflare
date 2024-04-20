@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,577 |
+| com | 8,578 |
 | social | 4,891 |
-| net | 4,208 |
+| net | 4,209 |
 | org | 2,803 |
 | de | 2,713 |
 
@@ -11167,6 +11167,7 @@ Here's a list of public Fediverse services.
 | `desmu.fr` | No |
 | `desord.re` | No |
 | `despair.life` | No |
+| `desperate-living.com` | No |
 | `despise.computer` | Yes |
 | `dess.ga` | No |
 | `dessert.coffee` | No |
@@ -25112,6 +25113,7 @@ Here's a list of public Fediverse services.
 | `kumadrive.com` | No |
 | `kumano-ryo.tech` | No |
 | `kumarin.co` | No |
+| `kumasotakeru.net` | No |
 | `kumi.life` | No |
 | `kumi.tube` | No |
 | `kumi.zone` | No |
@@ -54255,7 +54257,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,578 |
-| Normal | 38,628 |
+| Normal | 38,630 |
 
 
 </details>
