@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,576 |
+| com | 8,577 |
 | social | 4,891 |
 | net | 4,208 |
 | org | 2,803 |
@@ -42668,6 +42668,7 @@ Here's a list of public Fediverse services.
 | `shigezen.com` | No |
 | `shiggy.fun` | Yes |
 | `shigoto.site` | No |
+| `shigure-chan.com` | No |
 | `shigusegubu.club` | No |
 | `shigyoudon.jp` | No |
 | `shihoya.tokyo` | No |
@@ -54254,7 +54255,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,578 |
-| Normal | 38,627 |
+| Normal | 38,628 |
 
 
 </details>
