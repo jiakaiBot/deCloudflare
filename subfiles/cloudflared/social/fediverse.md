@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,578 |
+| com | 8,579 |
 | social | 4,891 |
 | net | 4,209 |
 | org | 2,803 |
@@ -3846,7 +3846,7 @@ Here's a list of public Fediverse services.
 | `awjeez.help` | No |
 | `awk.is` | No |
 | `awkward.company` | No |
-| `awkward.place` | No |
+| `awkward.place` | Yes |
 | `awkwardly.social` | No |
 | `awm.jp` | No |
 | `awmb.uk` | Yes |
@@ -16705,7 +16705,7 @@ Here's a list of public Fediverse services.
 | `furfaggotry.com` | Yes |
 | `furhub.social` | No |
 | `furnu.org` | Yes |
-| `furoshiki.work` | Yes |
+| `furoshiki.work` | No |
 | `furpark.kr` | No |
 | `furred.social` | No |
 | `furred.tv` | No |
@@ -25084,7 +25084,7 @@ Here's a list of public Fediverse services.
 | `kuhla.cloud` | Yes |
 | `kuhnchris.eu` | No |
 | `kuhs.me` | Yes |
-| `kuinya.net` | Yes |
+| `kuinya.net` | No |
 | `kuiper.dev` | Yes |
 | `kuiper.dog` | Yes |
 | `kuja.xyz` | No |
@@ -44118,6 +44118,7 @@ Here's a list of public Fediverse services.
 | `sora.pub` | No |
 | `soraharu.app` | Yes |
 | `soraharu.com` | Yes |
+| `soranakiproject.com` | No |
 | `soraneto.com` | No |
 | `sorasaki-ct.uk` | Yes |
 | `soratomo.info` | Yes |
@@ -54256,8 +54257,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,578 |
-| Normal | 38,630 |
+| Cloudflare | 15,577 |
+| Normal | 38,632 |
 
 
 </details>
