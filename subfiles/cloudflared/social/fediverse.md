@@ -10939,7 +10939,7 @@ Here's a list of public Fediverse services.
 | `delaeuforia.com` | Yes |
 | `delalande.me` | No |
 | `delamunoza.es` | No |
-| `delange.us` | No |
+| `delange.us` | Yes |
 | `delat.net` | No |
 | `delaylama.de` | No |
 | `delayofgame.com` | Yes |
@@ -26874,7 +26874,7 @@ Here's a list of public Fediverse services.
 | `locahlost.net` | No |
 | `local-it.cloud` | No |
 | `local-rouze.org` | No |
-| `local.vn.ua` | No |
+| `local.vn.ua` | Yes |
 | `local106.com` | No |
 | `local704.co` | No |
 | `localecho.net` | Yes |
@@ -30200,7 +30200,7 @@ Here's a list of public Fediverse services.
 | `miloserver.com` | Yes |
 | `milosz.wtf` | No |
 | `milpamerica.org` | No |
-| `miltackink.space` | No |
+| `miltackink.space` | Yes |
 | `miltodon.social` | No |
 | `miltonkeynes.social` | No |
 | `milway.ca` | No |
@@ -46386,6 +46386,7 @@ Here's a list of public Fediverse services.
 | `teaandkittens.com` | No |
 | `teabag.ninja` | No |
 | `teacher.quest` | No |
+| `teachingdragon.online` | Yes |
 | `teachmaths.org` | No |
 | `teacoffee.life` | No |
 | `teacup.social` | Yes |
@@ -54257,8 +54258,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,577 |
-| Normal | 38,632 |
+| Cloudflare | 15,581 |
+| Normal | 38,629 |
 
 
 </details>
