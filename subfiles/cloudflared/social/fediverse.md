@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,579 |
+| com | 8,580 |
 | social | 4,891 |
 | net | 4,209 |
 | org | 2,803 |
@@ -8556,6 +8556,7 @@ Here's a list of public Fediverse services.
 | `codepenguin.io` | No |
 | `codeplumbers.eu` | No |
 | `coder.town` | Yes |
+| `coderblog.in` | No |
 | `coderdojo-saar.de` | No |
 | `coderdojo.social` | No |
 | `coders.social` | Yes |
@@ -21842,6 +21843,7 @@ Here's a list of public Fediverse services.
 | `ishygddt.xyz` | No |
 | `isibboi.de` | No |
 | `isidai.com` | No |
+| `isintu.fr` | No |
 | `isitjosh.com` | No |
 | `iskillingmusic.com` | No |
 | `iskr.jp` | No |
@@ -44230,6 +44232,7 @@ Here's a list of public Fediverse services.
 | `soysoftware.net` | No |
 | `soyuki.net` | No |
 | `soz.is` | Yes |
+| `sozdesozluk.com` | No |
 | `sozen.network` | No |
 | `sozial.social` | No |
 | `sozialdemokratie.social` | No |
@@ -54262,7 +54265,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,580 |
-| Normal | 38,633 |
+| Normal | 38,636 |
 
 
 </details>
