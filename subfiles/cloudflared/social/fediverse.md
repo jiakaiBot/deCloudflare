@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,575 |
+| com | 8,576 |
 | social | 4,891 |
 | net | 4,208 |
 | org | 2,803 |
@@ -42438,6 +42438,7 @@ Here's a list of public Fediverse services.
 | `seva.rocks` | Yes |
 | `seven-don.com` | No |
 | `sevenbyte.org` | No |
+| `sevenc7c.com` | Yes |
 | `sevenc7c.eu.org` | No |
 | `sevenn.fr` | Yes |
 | `sevensages.org` | No |
@@ -52600,7 +52601,7 @@ Here's a list of public Fediverse services.
 | `wyrd.social` | No |
 | `wyrd.systems` | Yes |
 | `wyrihaxim.us` | No |
-| `wyrm.one` | Yes |
+| `wyrm.one` | No |
 | `wyrmhord.org` | No |
 | `wyrms.de` | No |
 | `wyrmsign.org` | No |
@@ -54253,7 +54254,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,578 |
-| Normal | 38,626 |
+| Normal | 38,627 |
 
 
 </details>
