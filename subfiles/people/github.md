@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Imagen Uploading Issue](https://github.com/freescout-helpdesk/freescout/issues/3987)
 - [how to set proxy when use docker chat-ollama?](https://github.com/sugarforever/chat-ollama/issues/314)
 - [using wss instead of ws for opendevin through cloudflare tunnels](https://github.com/OpenDevin/OpenDevin/issues/1234)
 - [500 errors keep occuring](https://github.com/55gms/55GMS/issues/46)
