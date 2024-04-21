@@ -58,7 +58,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | circl.lu | No |
 | cloud88.com.au | Yes |
 | cloudflare-dns.com | Yes |
-| cloudku.technology | Yes |
 | cnetwork.cloud | Yes |
 | cubedns.com | No |
 | cynthialabs.net | Yes |
@@ -266,8 +265,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 135 |
+| Cloudflare | 134 |
 | Normal | 112 |
 
 
-### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
