@@ -16871,6 +16871,7 @@ Here's a list of public Fediverse services.
 | `fyle.uk` | Yes |
 | `fym.moe` | Yes |
 | `fynbo.social` | No |
+| `fynhslittle.space` | No |
 | `fyralabs.com` | Yes |
 | `fyreblock.com` | No |
 | `fyrefish.co.uk` | Yes |
@@ -54277,7 +54278,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,577 |
-| Normal | 38,651 |
+| Normal | 38,652 |
 
 
 </details>
