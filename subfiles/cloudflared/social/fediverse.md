@@ -400,6 +400,7 @@ Here's a list of public Fediverse services.
 | `254.network` | No |
 | `256.lt` | No |
 | `258990001.xyz` | No |
+| `2600.cloud` | No |
 | `2600hz.site` | No |
 | `260817.xyz` | Yes |
 | `272labs.com` | Yes |
@@ -44123,7 +44124,7 @@ Here's a list of public Fediverse services.
 | `sora.pub` | No |
 | `soraharu.app` | Yes |
 | `soraharu.com` | Yes |
-| `soranakiproject.com` | No |
+| `soranakiproject.com` | Yes |
 | `soraneto.com` | No |
 | `sorasaki-ct.uk` | Yes |
 | `soratomo.info` | Yes |
@@ -45825,7 +45826,7 @@ Here's a list of public Fediverse services.
 | `synesthesia.co.uk` | No |
 | `synfinner.blog` | No |
 | `synkosmos.org` | No |
-| `synn.one` | Yes |
+| `synn.one` | No |
 | `synnet.io` | No |
 | `syno.social` | Yes |
 | `synology.me` | No |
@@ -49976,7 +49977,7 @@ Here's a list of public Fediverse services.
 | `untildicedouspart.com` | Yes |
 | `untileternity.ca` | No |
 | `untitld.space` | No |
-| `untitled.lol` | Yes |
+| `untitled.lol` | No |
 | `untitledcyberpunkproject.com` | No |
 | `untone.uk` | Yes |
 | `untraceable.ch` | No |
@@ -54265,8 +54266,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,579 |
-| Normal | 38,638 |
+| Cloudflare | 15,578 |
+| Normal | 38,640 |
 
 
 </details>
