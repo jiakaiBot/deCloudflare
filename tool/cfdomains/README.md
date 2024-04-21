@@ -151,6 +151,6 @@ Top 10
 | _4cb38ae1_ | 46,420 |
 | _c25a80cd_ | 46,408 |
 
-- Total Score: 2,546,821
+- Total Score: 2,547,955
 
 ![](../../image/what_are_you_hunting_cloudflare.png)
