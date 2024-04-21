@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [@prisma/adapter-d1 is failing with an import error when called inside vitest tests](https://github.com/prisma/prisma/issues/23911)
+- [Triggered Cloudflare Bot Protection](https://github.com/crunchy-labs/crunchy-cli/issues/386)
 - [Failure sending EML attachment](https://github.com/freescout-helpdesk/freescout/issues/3989)
 - [Jetpack Boost: "Failed to generate Critical CSS" error with a 403 error code](https://github.com/Automattic/jetpack/issues/36997)
 - [i get this error anyone can tell me how can i solve this!](https://github.com/twilio-labs/call-gpt/issues/29)
