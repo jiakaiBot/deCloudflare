@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,581 |
 | social | 4,891 |
 | net | 4,209 |
-| org | 2,803 |
+| org | 2,804 |
 | de | 2,714 |
 
 
@@ -38424,6 +38424,7 @@ Here's a list of public Fediverse services.
 | `puhtahtoe.com` | Yes |
 | `pukeruabay.org.nz` | No |
 | `pukima.site` | Yes |
+| `pukkuk.org` | Yes |
 | `pukkuk.pp.ua` | Yes |
 | `pulala.net` | Yes |
 | `puliaiev.com` | No |
@@ -54275,7 +54276,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,577 |
+| Cloudflare | 15,578 |
 | Normal | 38,650 |
 
 
