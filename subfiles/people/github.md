@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Prisma 5.12 client for edge runtime disabled the Prisma.dmmf property for wasm client](https://github.com/prisma/prisma/issues/23913)
 - [@prisma/adapter-d1 is failing with an import error when called inside vitest tests](https://github.com/prisma/prisma/issues/23911)
 - [Triggered Cloudflare Bot Protection](https://github.com/crunchy-labs/crunchy-cli/issues/386)
 - [Failure sending EML attachment](https://github.com/freescout-helpdesk/freescout/issues/3989)
