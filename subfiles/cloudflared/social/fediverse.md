@@ -30420,7 +30420,7 @@ Here's a list of public Fediverse services.
 | `misfittoys.social` | No |
 | `mish.co` | Yes |
 | `misha.click` | Yes |
-| `miship.space` | Yes |
+| `miship.space` | No |
 | `mishkacloud.fun` | No |
 | `misjump.net` | No |
 | `misk.cf` | No |
@@ -49944,6 +49944,7 @@ Here's a list of public Fediverse services.
 | `unreliable.associates` | Yes |
 | `unroot.de` | No |
 | `unruhig.eu` | Yes |
+| `unryzer.eu` | Yes |
 | `uns.social` | No |
 | `unsafe.co` | No |
 | `unsafe.codes` | No |
@@ -54269,7 +54270,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,578 |
-| Normal | 38,642 |
+| Normal | 38,643 |
 
 
 </details>
