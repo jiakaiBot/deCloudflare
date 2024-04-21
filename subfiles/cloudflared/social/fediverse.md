@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,891 |
 | net | 4,209 |
 | org | 2,803 |
-| de | 2,713 |
+| de | 2,714 |
 
 
 - Mastodon, Pleroma, etc
@@ -1791,6 +1791,7 @@ Here's a list of public Fediverse services.
 | `aleana.xyz` | Yes |
 | `aleatoire.net` | No |
 | `alebit.com` | No |
+| `alecks.dev` | Yes |
 | `alecmuffett.com` | No |
 | `alejandromiranda.org` | No |
 | `alejandrosoriano.xyz` | Yes |
@@ -14432,6 +14433,7 @@ Here's a list of public Fediverse services.
 | `fallcounty.monster` | No |
 | `fallenbeck.com` | No |
 | `fallendemon.xyz` | No |
+| `fallenstar.de` | No |
 | `falles.online` | Yes |
 | `falschgold.net` | No |
 | `falsehood.social` | No |
@@ -51585,6 +51587,7 @@ Here's a list of public Fediverse services.
 | `webmink.com` | No |
 | `webmontag-kiel.de` | No |
 | `webnestify.org` | Yes |
+| `webofpower.xyz` | No |
 | `webopt.eu` | Yes |
 | `webos.direct` | No |
 | `weboslives.eu` | No |
@@ -54272,8 +54275,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,576 |
-| Normal | 38,648 |
+| Cloudflare | 15,577 |
+| Normal | 38,650 |
 
 
 </details>
