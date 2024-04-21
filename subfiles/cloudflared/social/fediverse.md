@@ -18760,6 +18760,7 @@ Here's a list of public Fediverse services.
 | `h-y-p-e-r.space` | No |
 | `h0lmes.com` | Yes |
 | `h0stname.net` | No |
+| `h0tline.miami` | No |
 | `h12r.de` | No |
 | `h1v3.de` | No |
 | `h2x.us` | No |
@@ -43583,6 +43584,7 @@ Here's a list of public Fediverse services.
 | `smittenkittens.xyz` | No |
 | `smnn.ch` | No |
 | `smnz.de` | Yes |
+| `smoitzheim.online` | No |
 | `smokecircle.co` | Yes |
 | `smokecommunity.com` | No |
 | `smokeout.cloud` | No |
@@ -54267,7 +54269,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,578 |
-| Normal | 38,640 |
+| Normal | 38,642 |
 
 
 </details>
