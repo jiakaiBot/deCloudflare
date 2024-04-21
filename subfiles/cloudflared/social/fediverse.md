@@ -17548,6 +17548,7 @@ Here's a list of public Fediverse services.
 | `geyikatlasi.com` | No |
 | `gezondemedia.nl` | Yes |
 | `gfault.ca` | No |
+| `gfc.rocks` | No |
 | `gfedi.uk` | No |
 | `gfhgfh.com` | Yes |
 | `gfk.social` | No |
@@ -54270,7 +54271,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,578 |
-| Normal | 38,643 |
+| Normal | 38,644 |
 
 
 </details>
