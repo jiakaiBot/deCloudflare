@@ -185,7 +185,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pnh.my.id | Yes |
 | pooblet.co.za | Yes |
 | pragmasec.nl | No |
-| prima-solusindo.com | No |
 | puregeni.us | No |
 | qquack.org | Yes |
 | qtxd.net | No |
@@ -266,7 +265,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 134 |
-| Normal | 112 |
+| Normal | 111 |
 
 
-### 54.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
