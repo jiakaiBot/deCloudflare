@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Jetpack Boost: "Failed to generate Critical CSS" error with a 403 error code](https://github.com/Automattic/jetpack/issues/36997)
 - [i get this error anyone can tell me how can i solve this!](https://github.com/twilio-labs/call-gpt/issues/29)
 - [不能连接 connection was forcibly closed by the remote host](https://github.com/3Kmfi6HP/EDtunnel/issues/149)
 - [No bare-urls when using _redirects file](https://github.com/DavidAnson/markdownlint/issues/1182)
