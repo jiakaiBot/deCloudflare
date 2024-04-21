@@ -13628,7 +13628,7 @@ Here's a list of public Fediverse services.
 | `entropysource.ru` | Yes |
 | `entwickler-gilde.de` | No |
 | `entwining.org` | No |
-| `enu8d.com` | Yes |
+| `enu8d.com` | No |
 | `enum.run` | No |
 | `envismo.social` | No |
 | `envs.net` | No |
@@ -14623,7 +14623,7 @@ Here's a list of public Fediverse services.
 | `fazbear.lol` | No |
 | `fbender.de` | No |
 | `fberriman.com` | No |
-| `fbi.pm` | Yes |
+| `fbi.pm` | No |
 | `fbievan.live` | No |
 | `fbk.moe` | Yes |
 | `fbmac.net` | Yes |
@@ -41230,6 +41230,7 @@ Here's a list of public Fediverse services.
 | `saitama-stdn.com` | No |
 | `saitama.one` | Yes |
 | `saiyajin.space` | No |
+| `sajin.life` | Yes |
 | `sakaba.space` | Yes |
 | `sakaki.win` | No |
 | `sakaki333.com` | No |
@@ -54270,8 +54271,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,578 |
-| Normal | 38,644 |
+| Cloudflare | 15,577 |
+| Normal | 38,646 |
 
 
 </details>
