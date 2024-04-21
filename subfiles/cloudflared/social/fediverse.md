@@ -13473,7 +13473,7 @@ Here's a list of public Fediverse services.
 | `ena-vocalp.com` | Yes |
 | `enafore.social` | Yes |
 | `enbi.es` | No |
-| `enbies.space` | Yes |
+| `enbies.space` | No |
 | `enby-box.de` | No |
 | `enby.army` | No |
 | `enby.city` | Yes |
@@ -30569,6 +30569,7 @@ Here's a list of public Fediverse services.
 | `mitchw.blog` | No |
 | `miteff.co` | No |
 | `mitente.club` | No |
+| `mitexleo.one` | No |
 | `mithril.re` | No |
 | `mithriltower.com` | No |
 | `mithuru.online` | Yes |
@@ -54271,8 +54272,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,577 |
-| Normal | 38,646 |
+| Cloudflare | 15,576 |
+| Normal | 38,648 |
 
 
 </details>
