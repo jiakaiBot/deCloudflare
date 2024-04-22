@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,581 |
+| com | 8,582 |
 | social | 4,891 |
 | net | 4,209 |
-| org | 2,805 |
+| org | 2,806 |
 | de | 2,714 |
 
 
@@ -7201,6 +7201,7 @@ Here's a list of public Fediverse services.
 | `catboy.cafe` | Yes |
 | `catboyindustries.co` | Yes |
 | `catboykey.xyz` | No |
+| `catboys.co` | Yes |
 | `catboys.org` | No |
 | `catbutts.today` | No |
 | `catcatnya.com` | No |
@@ -7585,7 +7586,7 @@ Here's a list of public Fediverse services.
 | `chaoticneutral.space` | No |
 | `chaoticqueers.org` | Yes |
 | `chaoticride.com` | No |
-| `chaotics.gay` | Yes |
+| `chaotics.gay` | No |
 | `chaotikum.org` | No |
 | `chaouane.xyz` | Yes |
 | `chaox.ro` | Yes |
@@ -7671,6 +7672,7 @@ Here's a list of public Fediverse services.
 | `chattervista.com` | Yes |
 | `chattingdarkly.org` | No |
 | `chattr.pub` | No |
+| `chattrbx.com` | No |
 | `chatty.monster` | No |
 | `chatu.app` | Yes |
 | `chaturbatefriendfinder.com` | No |
@@ -10191,7 +10193,7 @@ Here's a list of public Fediverse services.
 | `daism.io` | No |
 | `daize.xin` | No |
 | `daizhige.org` | No |
-| `daizin.net` | Yes |
+| `daizin.net` | No |
 | `dajiaweibo.com` | No |
 | `dakes.de` | No |
 | `dakkaz.net` | Yes |
@@ -15138,6 +15140,7 @@ Here's a list of public Fediverse services.
 | `fennec.online` | No |
 | `fennec.org.uk` | No |
 | `fennec.town` | No |
+| `fennel-lang.org` | No |
 | `fennell.dev` | No |
 | `fennet.rentals` | No |
 | `fenslaw.nl` | No |
@@ -24753,7 +24756,7 @@ Here's a list of public Fediverse services.
 | `komuna.digital` | No |
 | `kon.ink` | Yes |
 | `kona.moe` | No |
-| `konata.co` | Yes |
+| `konata.co` | No |
 | `konbini.social` | No |
 | `konc.wtf` | Yes |
 | `koncoguru.top` | No |
@@ -54278,8 +54281,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,580 |
-| Normal | 38,650 |
+| Cloudflare | 15,578 |
+| Normal | 38,655 |
 
 
 </details>
