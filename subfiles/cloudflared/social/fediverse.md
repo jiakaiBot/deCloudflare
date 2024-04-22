@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,585 |
+| com | 8,586 |
 | social | 4,891 |
 | net | 4,212 |
 | org | 2,808 |
@@ -14653,7 +14653,7 @@ Here's a list of public Fediverse services.
 | `fdlibre.eu` | No |
 | `fdn.fr` | No |
 | `fdom.social` | No |
-| `fdp.social` | Yes |
+| `fdp.social` | No |
 | `fdr8.us` | No |
 | `fdv.rs` | No |
 | `fdvrs.xyz` | No |
@@ -23842,6 +23842,7 @@ Here's a list of public Fediverse services.
 | `kazu634.com` | Yes |
 | `kazugmx.net` | Yes |
 | `kazuha.kr` | Yes |
+| `kazuiton.com` | Yes |
 | `kazuki.xyz` | Yes |
 | `kazuma.family` | No |
 | `kazv.moe` | No |
@@ -54304,7 +54305,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,588 |
-| Normal | 38,667 |
+| Normal | 38,668 |
 
 
 </details>
