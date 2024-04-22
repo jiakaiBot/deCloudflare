@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,582 |
 | social | 4,891 |
-| net | 4,210 |
-| org | 2,807 |
+| net | 4,211 |
+| org | 2,808 |
 | de | 2,714 |
 
 
@@ -47756,6 +47756,7 @@ Here's a list of public Fediverse services.
 | `tian-shen.pro` | Yes |
 | `tianshengli.me` | Yes |
 | `tiaozao.ga` | No |
+| `tiaplate.org` | No |
 | `tiarasnteakettles.com` | No |
 | `tibetansingingc.at` | No |
 | `tibia.life` | No |
@@ -50261,6 +50262,7 @@ Here's a list of public Fediverse services.
 | `v-elf.com` | Yes |
 | `v-insanity.com` | No |
 | `v-laboratory.com` | Yes |
+| `v-nr.net` | Yes |
 | `v-sli.me` | Yes |
 | `v.nu` | Yes |
 | `v.st` | No |
@@ -54286,8 +54288,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,580 |
-| Normal | 38,658 |
+| Cloudflare | 15,581 |
+| Normal | 38,659 |
 
 
 </details>
