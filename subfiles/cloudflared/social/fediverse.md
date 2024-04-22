@@ -8536,6 +8536,7 @@ Here's a list of public Fediverse services.
 | `code-bloggers.com` | No |
 | `code-feather.de` | No |
 | `code-in-space.dev` | Yes |
+| `code.blog` | No |
 | `code28.me` | No |
 | `code4lib.net` | No |
 | `code4lib.social` | No |
@@ -54284,7 +54285,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,579 |
-| Normal | 38,656 |
+| Normal | 38,657 |
 
 
 </details>
