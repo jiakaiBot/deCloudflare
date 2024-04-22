@@ -30507,6 +30507,7 @@ Here's a list of public Fediverse services.
 | `misskey.oita.jp` | No |
 | `misskey.one` | Yes |
 | `misskey.online` | Yes |
+| `misskey.pink` | Yes |
 | `misskey.pl` | Yes |
 | `misskey.pm` | No |
 | `misskey.pro` | Yes |
@@ -54284,7 +54285,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,579 |
+| Cloudflare | 15,580 |
 | Normal | 38,657 |
 
 
