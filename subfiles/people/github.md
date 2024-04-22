@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [receiver/cloudflare TestReceiverTLSIntegration integration test failing](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32600)
+- [D1_ERROR: Expression tree is too large (maximum depth 100)](https://github.com/prisma/prisma/issues/23919)
 - [Bingx : Having issues calling setLeverage in one way mode.](https://github.com/ccxt/ccxt/issues/22237)
 - [AWS LAMP Server getting slow](https://github.com/bitnami/vms/issues/1497)
 - [Sniffing doesn't work on the server side - ShadowTLS](https://github.com/SagerNet/sing-box/issues/1699)
