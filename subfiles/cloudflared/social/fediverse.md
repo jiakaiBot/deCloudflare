@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,581 |
 | social | 4,891 |
 | net | 4,209 |
-| org | 2,804 |
+| org | 2,805 |
 | de | 2,714 |
 
 
@@ -400,7 +400,7 @@ Here's a list of public Fediverse services.
 | `254.network` | No |
 | `256.lt` | No |
 | `258990001.xyz` | No |
-| `2600.cloud` | No |
+| `2600.cloud` | Yes |
 | `2600hz.site` | No |
 | `260817.xyz` | Yes |
 | `272labs.com` | Yes |
@@ -33485,6 +33485,7 @@ Here's a list of public Fediverse services.
 | `ninjawedding.org` | No |
 | `ninopeters.de` | No |
 | `nintendo-connect.de` | No |
+| `nintendo64.org` | Yes |
 | `nintendojo.fr` | No |
 | `nintendult.xyz` | No |
 | `ninth-sekai.monster` | No |
@@ -47033,7 +47034,7 @@ Here's a list of public Fediverse services.
 | `thebestinstance.com` | No |
 | `thebias.nl` | No |
 | `thebig.cc` | No |
-| `thebigeasy.life` | No |
+| `thebigeasy.life` | Yes |
 | `thebigeasy.space` | No |
 | `thebigowo.xyz` | Yes |
 | `thebingeful.com` | Yes |
@@ -54277,8 +54278,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,577 |
-| Normal | 38,652 |
+| Cloudflare | 15,580 |
+| Normal | 38,650 |
 
 
 </details>
