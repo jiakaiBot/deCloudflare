@@ -322,7 +322,7 @@ Here's a list of breached sites.
 | IIMJobs | 4,216,063 | No |
 | ILikeCheats | 188,847 | Yes |
 | Imavex | 878,209 | Yes |
-| IndiHome | 12,629,245 | No |
+| IndiHome | 12,629,245 | Yes |
 | IndiaMART | 20,154,583 | No |
 | IndianRailways (Indian Railways) | 583,377 | No |
 | InflateVids | 13,405 | Yes |
@@ -609,6 +609,7 @@ Here's a list of breached sites.
 | SweClockers (SweClockers.com) | 254,867 | No |
 | SwordFantasy | 2,690,657 | Yes |
 | Swvl | 4,195,918 | Yes |
+| T2 | 85,894 | Yes |
 | TAPAirPortugal (TAP Air Portugal) | 6,083,479 | Yes |
 | TGBUS | 10,371,766 | No |
 | TRAI (Telecom Regulatory Authority of India) | 107,776 | No |
@@ -753,10 +754,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 440 | 4,992,330,471 |
-| Normal | 292 | 4,199,157,302 |
+| Cloudflare | 442 | 5,005,045,610 |
+| Normal | 291 | 4,186,528,057 |
 
 
 
-### 60.1% of breached sites (pwned sites) are using Cloudflare.
-### 54.3% of leaked accounts are on Cloudflare sites.
+### 60.3% of breached sites (pwned sites) are using Cloudflare.
+### 54.5% of leaked accounts are on Cloudflare sites.
