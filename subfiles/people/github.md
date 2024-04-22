@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Bingx : Having issues calling setLeverage in one way mode.](https://github.com/ccxt/ccxt/issues/22237)
 - [AWS LAMP Server getting slow](https://github.com/bitnami/vms/issues/1497)
 - [Sniffing doesn't work on the server side - ShadowTLS](https://github.com/SagerNet/sing-box/issues/1699)
 - [Prisma 5.12 client for edge runtime disabled the Prisma.dmmf property for wasm client](https://github.com/prisma/prisma/issues/23913)
