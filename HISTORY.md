@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-04-22: [GraphQL Increased Latency](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7qjd30qtntjf)
 - 2024-04-17: [Network Performance Issues in Munich](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5ss4rddkf9f1)
 - 2024-04-17: [Cloudflare Peering Portal issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6fgljrj4z2vj)
 - 2024-04-17: [Issues for Families and Securities using Cloudflare's public resolver via DoH and DoT](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4w7t7w611lrr)
