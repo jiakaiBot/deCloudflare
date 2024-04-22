@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,891 |
 | net | 4,212 |
 | org | 2,808 |
-| de | 2,714 |
+| de | 2,715 |
 
 
 - Mastodon, Pleroma, etc
@@ -7237,7 +7237,7 @@ Here's a list of public Fediverse services.
 | `catgirl.solutions` | No |
 | `catgirl.space` | Yes |
 | `catgirl.website` | No |
-| `catgirl.win` | No |
+| `catgirl.win` | Yes |
 | `catgirl.works` | Yes |
 | `catgirl.zone` | No |
 | `catgirlin.space` | No |
@@ -49924,7 +49924,7 @@ Here's a list of public Fediverse services.
 | `unknowable.place` | No |
 | `unknowing.dance` | Yes |
 | `unknowngenius.com` | No |
-| `unknownrealm.org` | No |
+| `unknownrealm.org` | Yes |
 | `unknownsys.com` | Yes |
 | `unkomaker.info` | No |
 | `unkomaker.net` | No |
@@ -53164,6 +53164,7 @@ Here's a list of public Fediverse services.
 | `y-bbs.de` | No |
 | `y-gallery.net` | Yes |
 | `y-k.us` | Yes |
+| `y-space.de` | No |
 | `y-y.li` | No |
 | `y-zu.org` | Yes |
 | `y.community` | Yes |
@@ -54302,8 +54303,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,586 |
-| Normal | 38,668 |
+| Cloudflare | 15,588 |
+| Normal | 38,667 |
 
 
 </details>
