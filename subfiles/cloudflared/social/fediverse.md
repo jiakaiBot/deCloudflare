@@ -14901,6 +14901,7 @@ Here's a list of public Fediverse services.
 | `fedipage.com` | No |
 | `fedipen.xyz` | No |
 | `fediphilosophy.org` | No |
+| `fediphoto.art` | No |
 | `fediphoto.cc` | Yes |
 | `fedipix.de` | No |
 | `fediplants.club` | No |
@@ -17644,6 +17645,7 @@ Here's a list of public Fediverse services.
 | `gifclip.info` | No |
 | `giftedmc.com` | No |
 | `gifu.lol` | No |
+| `gifu.love` | Yes |
 | `gig-blog.net` | No |
 | `giga.is` | No |
 | `gigacorns.org` | No |
@@ -50749,6 +50751,7 @@ Here's a list of public Fediverse services.
 | `vijf.life` | Yes |
 | `vikavo.lt` | No |
 | `viking-gaming.community` | No |
+| `vikingkong.xyz` | No |
 | `vikings.net` | No |
 | `vikitv.app` | No |
 | `vikn.se` | No |
@@ -54288,8 +54291,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,581 |
-| Normal | 38,659 |
+| Cloudflare | 15,582 |
+| Normal | 38,661 |
 
 
 </details>
