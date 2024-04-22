@@ -17201,6 +17201,7 @@ Here's a list of public Fediverse services.
 | `gaydadon.jp` | No |
 | `gayest.cloud` | Yes |
 | `gayest.dev` | Yes |
+| `gayest.gay` | Yes |
 | `gayest.pro` | Yes |
 | `gayfr.online` | No |
 | `gayfr.social` | No |
@@ -54281,7 +54282,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,578 |
+| Cloudflare | 15,579 |
 | Normal | 38,655 |
 
 
