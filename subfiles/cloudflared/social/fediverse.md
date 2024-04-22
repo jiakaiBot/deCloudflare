@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,582 |
+| com | 8,585 |
 | social | 4,891 |
-| net | 4,211 |
+| net | 4,212 |
 | org | 2,808 |
 | de | 2,714 |
 
@@ -7237,6 +7237,7 @@ Here's a list of public Fediverse services.
 | `catgirl.solutions` | No |
 | `catgirl.space` | Yes |
 | `catgirl.website` | No |
+| `catgirl.win` | No |
 | `catgirl.works` | Yes |
 | `catgirl.zone` | No |
 | `catgirlin.space` | No |
@@ -7408,6 +7409,7 @@ Here's a list of public Fediverse services.
 | `celliern.io` | No |
 | `cellular.fm` | No |
 | `celp.de` | No |
+| `celsandcircuits.com` | No |
 | `celt.social` | No |
 | `celti.name` | No |
 | `celtic.blue` | Yes |
@@ -7894,6 +7896,7 @@ Here's a list of public Fediverse services.
 | `chokecherry.cc` | No |
 | `chomechome.jp` | No |
 | `chomp.life` | Yes |
+| `chongcher.com` | No |
 | `choochoo.social` | No |
 | `choochoo.space` | No |
 | `choohap.business` | No |
@@ -8716,6 +8719,7 @@ Here's a list of public Fediverse services.
 | `coloc-family.com` | No |
 | `colonelhosting.com` | Yes |
 | `colonelinux.org` | No |
+| `colonelkrud.com` | Yes |
 | `colonels.world` | No |
 | `colonthree.gay` | No |
 | `colony.red` | Yes |
@@ -9384,6 +9388,7 @@ Here's a list of public Fediverse services.
 | `creatorsunited.social` | Yes |
 | `creatrix.world` | No |
 | `creature.cafe` | Yes |
+| `creature.garden` | No |
 | `creature.social` | No |
 | `creatureofthehill.com` | No |
 | `creaturis.com` | No |
@@ -29396,6 +29401,7 @@ Here's a list of public Fediverse services.
 | `meattoothindustries.com` | No |
 | `meawchill.xyz` | No |
 | `mebitek.com` | Yes |
+| `mecanique-roliste.fr` | No |
 | `mecanis.me` | Yes |
 | `mech-misskey.com` | Yes |
 | `mecha.garden` | Yes |
@@ -30931,6 +30937,7 @@ Here's a list of public Fediverse services.
 | `mollys.social` | No |
 | `mollysdailykiss.com` | Yes |
 | `molodtsov.net` | Yes |
+| `molovo.co` | No |
 | `moltchanova.de` | No |
 | `molten.cloud` | No |
 | `moltenaether.com` | No |
@@ -39025,6 +39032,7 @@ Here's a list of public Fediverse services.
 | `racer159.com` | Yes |
 | `racf.guru` | Yes |
 | `racheklos.com` | No |
+| `rachelandrew.co.uk` | Yes |
 | `rachelemmanutrition.com` | No |
 | `rachelnorfolk.me` | No |
 | `racheltheparrot.tf` | No |
@@ -41433,6 +41441,7 @@ Here's a list of public Fediverse services.
 | `sanjuans.life` | Yes |
 | `sankaku.io` | No |
 | `sankara.me` | Yes |
+| `sanktgeorg.art` | No |
 | `sanlive.com` | No |
 | `sanma.men` | Yes |
 | `sanmathi.org` | No |
@@ -53995,6 +54004,7 @@ Here's a list of public Fediverse services.
 | `zhcode.fun` | Yes |
 | `zhenmei.li` | Yes |
 | `zhenyapav.com` | No |
+| `zhichai.net` | No |
 | `zhix.in` | Yes |
 | `zho.pa` | No |
 | `zholnay.name` | Yes |
@@ -54291,8 +54301,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,582 |
-| Normal | 38,661 |
+| Cloudflare | 15,584 |
+| Normal | 38,669 |
 
 
 </details>
