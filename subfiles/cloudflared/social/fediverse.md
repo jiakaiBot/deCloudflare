@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,582 |
 | social | 4,891 |
-| net | 4,209 |
+| net | 4,210 |
 | org | 2,807 |
 | de | 2,714 |
 
@@ -19796,7 +19796,7 @@ Here's a list of public Fediverse services.
 | `hiker.camp` | No |
 | `hiker.tips` | No |
 | `hikikomori.dev` | Yes |
-| `hikikomori.me` | Yes |
+| `hikikomori.me` | No |
 | `hikoukidon.com` | No |
 | `hikoukidon.jp` | No |
 | `hikse.net` | No |
@@ -36031,6 +36031,7 @@ Here's a list of public Fediverse services.
 | `panic.social` | No |
 | `panicking.net` | No |
 | `panix.com` | No |
+| `pannassh.net` | Yes |
 | `pano.community` | No |
 | `panoply.cx` | No |
 | `panoptic.onl` | No |
@@ -54286,7 +54287,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,580 |
-| Normal | 38,657 |
+| Normal | 38,658 |
 
 
 </details>
