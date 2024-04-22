@@ -18777,7 +18777,7 @@ Here's a list of public Fediverse services.
 | `h-y-p-e-r.space` | No |
 | `h0lmes.com` | Yes |
 | `h0stname.net` | No |
-| `h0tline.miami` | No |
+| `h0tline.miami` | Yes |
 | `h12r.de` | No |
 | `h1v3.de` | No |
 | `h2x.us` | No |
@@ -38524,6 +38524,7 @@ Here's a list of public Fediverse services.
 | `puscii.nl` | No |
 | `pushakar.com` | No |
 | `pushingelectrons.net` | No |
+| `pushtocast.com.br` | No |
 | `pussyhat.party` | No |
 | `pustule.org` | No |
 | `put.tf` | Yes |
@@ -54301,7 +54302,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,584 |
+| Cloudflare | 15,585 |
 | Normal | 38,669 |
 
 
