@@ -146,7 +146,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | masters-of-cloud.de | No |
 | meddy94.de | No |
 | meexx.de | No |
-| meganerd.nl | No |
 | moderateinfra.net | No |
 | modr.club | Yes |
 | mtsoln.com | Yes |
@@ -203,7 +202,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rueiliu.space | No |
 | runsel.id | Yes |
 | rustsword.com | Yes |
-| saferbfc.org | Yes |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
 | sarilouis.com | No |
@@ -264,8 +262,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 134 |
-| Normal | 111 |
+| Cloudflare | 133 |
+| Normal | 110 |
 
 
 ### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
