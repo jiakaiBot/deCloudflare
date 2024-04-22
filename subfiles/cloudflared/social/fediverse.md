@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,582 |
 | social | 4,891 |
 | net | 4,209 |
-| org | 2,806 |
+| org | 2,807 |
 | de | 2,714 |
 
 
@@ -15996,6 +15996,7 @@ Here's a list of public Fediverse services.
 | `foxden.social` | No |
 | `foxderg.de` | No |
 | `foxdn.net` | No |
+| `foxel.org` | No |
 | `foxes.life` | No |
 | `foxes.rocks` | Yes |
 | `foxesare.sexy` | Yes |
@@ -54283,7 +54284,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,579 |
-| Normal | 38,655 |
+| Normal | 38,656 |
 
 
 </details>
