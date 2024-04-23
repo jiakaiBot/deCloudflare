@@ -24022,6 +24022,7 @@ Here's a list of public Fediverse services.
 | `kent-dobias.com` | No |
 | `kentaro1043.com` | Yes |
 | `kentarokuribayashi.com` | No |
+| `keota.co.uk` | No |
 | `kepakovi.cz` | No |
 | `kephale.net` | Yes |
 | `ker.gay` | No |
@@ -54323,7 +54324,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,590 |
-| Normal | 38,684 |
+| Normal | 38,685 |
 
 
 </details>
