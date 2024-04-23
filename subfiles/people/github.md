@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Stack overflow error.](https://github.com/chrisjoyce911/esp32FOTA/issues/145)
 - [Middlewares: IpAllowList doesn't work with localhost](https://github.com/traefik/traefik/issues/10653)
 - [receiver/cloudflare TestReceiverTLSIntegration integration test failing](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32600)
 - [D1_ERROR: Expression tree is too large (maximum depth 100)](https://github.com/prisma/prisma/issues/23919)
