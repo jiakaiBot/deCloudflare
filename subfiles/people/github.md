@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [HAOS freeze randomly](https://github.com/home-assistant/operating-system/issues/3323)
 - [Stack overflow error.](https://github.com/chrisjoyce911/esp32FOTA/issues/145)
 - [Middlewares: IpAllowList doesn't work with localhost](https://github.com/traefik/traefik/issues/10653)
 - [receiver/cloudflare TestReceiverTLSIntegration integration test failing](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32600)
