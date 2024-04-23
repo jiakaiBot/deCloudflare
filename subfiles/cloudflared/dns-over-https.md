@@ -38,6 +38,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | asterimoon.com | Yes |
 | avastdns.com | No |
 | avdkishore.dev | Yes |
+| b-ii.com | No |
 | baishiyuan.cn | No |
 | bitdefender.net | Yes |
 | bitservices.io | No |
@@ -88,6 +89,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dukun.de | No |
 | edgy-dns.com | No |
 | emiliyan.com | Yes |
+| enzonix.com | Yes |
+| eq.md | Yes |
 | esnube.es | No |
 | extrawdw.net | Yes |
 | ezyss.id | Yes |
@@ -261,8 +264,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 133 |
-| Normal | 109 |
+| Cloudflare | 135 |
+| Normal | 110 |
 
 
-### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
