@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,586 |
+| com | 8,587 |
 | social | 4,891 |
 | net | 4,212 |
 | org | 2,808 |
@@ -38414,7 +38414,7 @@ Here's a list of public Fediverse services.
 | `pubsub.fun` | No |
 | `puck.moe` | No |
 | `puckett.contact` | Yes |
-| `puckett.social` | Yes |
+| `puckett.social` | No |
 | `puckipedia.com` | No |
 | `puczat.pl` | No |
 | `pud.im` | No |
@@ -42687,6 +42687,7 @@ Here's a list of public Fediverse services.
 | `sherblog.de` | No |
 | `sherlockholmes.social` | Yes |
 | `shermdog.com` | No |
+| `shernet.com` | No |
 | `sherpahat.com` | Yes |
 | `sherry.moe` | Yes |
 | `sheseeksnonfiction.blog` | No |
@@ -54304,8 +54305,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,588 |
-| Normal | 38,668 |
+| Cloudflare | 15,587 |
+| Normal | 38,670 |
 
 
 </details>
