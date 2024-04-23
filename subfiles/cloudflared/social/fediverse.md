@@ -9680,6 +9680,7 @@ Here's a list of public Fediverse services.
 | `ctx.red` | Yes |
 | `cu-it.de` | No |
 | `cu2d.com` | No |
+| `cuates.casa` | No |
 | `cuates.net` | No |
 | `cuatrolibertades.org` | No |
 | `cub.porn` | No |
@@ -51310,7 +51311,7 @@ Here's a list of public Fediverse services.
 | `wahrscheinlichkeitundmethode.de` | No |
 | `waifoo.net` | No |
 | `waifu.one` | No |
-| `waifu.social` | Yes |
+| `waifu.social` | No |
 | `waifu.space` | Yes |
 | `waifuappreciation.club` | No |
 | `waifuhub.lol` | No |
@@ -51966,7 +51967,7 @@ Here's a list of public Fediverse services.
 | `whut.social` | Yes |
 | `whydoesntmycode.work` | No |
 | `whymark.net` | Yes |
-| `whymark.social` | Yes |
+| `whymark.social` | No |
 | `whynotdrs.org` | Yes |
 | `whyso.social` | Yes |
 | `whytheyfight.com` | Yes |
@@ -54323,8 +54324,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,590 |
-| Normal | 38,685 |
+| Cloudflare | 15,588 |
+| Normal | 38,688 |
 
 
 </details>
