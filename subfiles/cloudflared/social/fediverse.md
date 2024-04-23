@@ -4709,6 +4709,7 @@ Here's a list of public Fediverse services.
 | `ben-on-vms.com` | Yes |
 | `ben.ie` | Yes |
 | `ben.land` | Yes |
+| `ben.lt` | Yes |
 | `ben.wtf` | Yes |
 | `benatar.ovh` | No |
 | `benaudalla.casa` | No |
@@ -10864,7 +10865,7 @@ Here's a list of public Fediverse services.
 | `deeproot.in` | No |
 | `deepsee.io` | Yes |
 | `deepskies.com` | Yes |
-| `deepspace.cafe` | No |
+| `deepspace.cafe` | Yes |
 | `deepspace.gay` | Yes |
 | `deepspace.social` | No |
 | `deepspacerose.garden` | No |
@@ -54305,8 +54306,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,587 |
-| Normal | 38,670 |
+| Cloudflare | 15,589 |
+| Normal | 38,669 |
 
 
 </details>
