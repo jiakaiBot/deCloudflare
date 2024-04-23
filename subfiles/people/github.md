@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No reactivity because manifest.json fail to load behind Cloudflare Access](https://github.com/chatwoot/chatwoot/issues/9281)
 - [HAOS freeze randomly](https://github.com/home-assistant/operating-system/issues/3323)
 - [Stack overflow error.](https://github.com/chrisjoyce911/esp32FOTA/issues/145)
 - [Middlewares: IpAllowList doesn't work with localhost](https://github.com/traefik/traefik/issues/10653)
