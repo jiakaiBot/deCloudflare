@@ -52600,6 +52600,7 @@ Here's a list of public Fediverse services.
 | `wsring.net` | No |
 | `wssmagazine.com` | Yes |
 | `wsup.social` | No |
+| `wszystkoconajwazniejsze.pl` | No |
 | `wt21.de` | No |
 | `wtal.social` | No |
 | `wtchwtch.boo` | No |
@@ -54343,7 +54344,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,591 |
-| Normal | 38,703 |
+| Normal | 38,704 |
 
 
 </details>
