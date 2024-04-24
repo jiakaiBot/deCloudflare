@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [question Does it work with subdomain?](https://github.com/giuseppelt/EmailFlare/issues/13)
 - [Look into pulling boost from boost.org links vs sourceforge.](https://github.com/libbitcoin/libbitcoin-build/issues/312)
 - [No reactivity because manifest.json fail to load behind Cloudflare Access](https://github.com/chatwoot/chatwoot/issues/9281)
 - [HAOS freeze randomly](https://github.com/home-assistant/operating-system/issues/3323)
