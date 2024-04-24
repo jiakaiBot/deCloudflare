@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2024-04-24: [Network Performance Issues in Helsinki (HEL)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pd9tqpzyw862)
 - 2024-04-24: [Network Performance Issues in Auckland (AKL) and Christchurch (CHC)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f0nls3331xbx)
 - 2024-04-24: [Network Performance Issues in Moscow](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nk0wdzkswn2q)
 - 2024-04-23: [Increased HTTP 525 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/x2hds92qrj56)
