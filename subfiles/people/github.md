@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to Integrate with Active Directory Federation Service (ADFS) SAML](https://github.com/9p4/jellyfin-plugin-sso/issues/184)
 - [Error on save SeoMatic settings](https://github.com/nystudio107/craft-seomatic/issues/1463)
 - [API Widgets Fail to Resolve Docker 26.0](https://github.com/gethomepage/homepage/issues/3361)
 - [Cloudflare Missing columns/tables](https://github.com/Azure/Azure-Sentinel/issues/10374)
