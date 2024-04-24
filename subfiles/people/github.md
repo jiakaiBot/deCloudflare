@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Storage Fail early for COPY mode storage field without source specified](https://github.com/skypilot-org/skypilot/issues/3477)
 - [Failed to Integrate with Active Directory Federation Service (ADFS) SAML](https://github.com/9p4/jellyfin-plugin-sso/issues/184)
 - [Error on save SeoMatic settings](https://github.com/nystudio107/craft-seomatic/issues/1463)
 - [API Widgets Fail to Resolve Docker 26.0](https://github.com/gethomepage/homepage/issues/3361)
