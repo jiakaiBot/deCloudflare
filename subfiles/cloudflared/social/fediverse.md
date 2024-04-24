@@ -325,6 +325,7 @@ Here's a list of public Fediverse services.
 | `1blu.de` | No |
 | `1codim.ru` | No |
 | `1d4.us` | Yes |
+| `1d6.icu` | Yes |
 | `1d6.lol` | Yes |
 | `1dot0.io` | No |
 | `1e400.net` | Yes |
@@ -7458,7 +7459,7 @@ Here's a list of public Fediverse services.
 | `cerulean.ink` | Yes |
 | `ceruleanstack.com` | No |
 | `cervid.ca` | No |
-| `cervidae.space` | Yes |
+| `cervidae.space` | No |
 | `cesarstwokwadratowe.com` | Yes |
 | `cescobarresi.it` | No |
 | `cesiandalex.com` | Yes |
@@ -19709,7 +19710,7 @@ Here's a list of public Fediverse services.
 | `hexe.net` | No |
 | `hexix.de` | No |
 | `hexolve.com` | No |
-| `hexside.net` | No |
+| `hexside.net` | Yes |
 | `hexsix.me` | Yes |
 | `hextcraft.dev` | No |
 | `hextestnet.eu` | Yes |
@@ -47804,6 +47805,7 @@ Here's a list of public Fediverse services.
 | `tiaozao.ga` | No |
 | `tiaplate.org` | No |
 | `tiarasnteakettles.com` | No |
+| `tib.eu` | No |
 | `tibetansingingc.at` | No |
 | `tibia.life` | No |
 | `tibidoo.com` | No |
@@ -54339,8 +54341,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,591 |
-| Normal | 38,700 |
+| Cloudflare | 15,592 |
+| Normal | 38,701 |
 
 
 </details>
