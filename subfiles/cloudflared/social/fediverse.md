@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,593 |
+| com | 8,594 |
 | social | 4,891 |
 | net | 4,212 |
 | org | 2,809 |
-| de | 2,717 |
+| de | 2,719 |
 
 
 - Mastodon, Pleroma, etc
@@ -17902,7 +17902,7 @@ Here's a list of public Fediverse services.
 | `glowing.garden` | No |
 | `glowing.surf` | No |
 | `glowingcu.be` | Yes |
-| `glownow.club` | Yes |
+| `glownow.club` | No |
 | `glowpen.eu` | No |
 | `gluck.cc` | No |
 | `glucose.rocks` | No |
@@ -18322,6 +18322,7 @@ Here's a list of public Fediverse services.
 | `grappler.social` | Yes |
 | `grappling.ca` | No |
 | `gras.social` | No |
+| `grass9.com` | No |
 | `grasserisen.de` | No |
 | `grassia.casa` | Yes |
 | `grassroot.space` | No |
@@ -25033,6 +25034,7 @@ Here's a list of public Fediverse services.
 | `kristofferjohansson.com` | Yes |
 | `krisu.eu` | No |
 | `krisztianfekete.org` | No |
+| `kritischerfehlschlag.de` | No |
 | `krivokuca.dev` | Yes |
 | `krivosik.cz` | No |
 | `kriwil.net` | No |
@@ -37329,6 +37331,7 @@ Here's a list of public Fediverse services.
 | `planningtransport.co.uk` | No |
 | `plant-based.place` | Yes |
 | `plantcm.com` | No |
+| `plantcuttings.uk` | No |
 | `plantdata.io` | No |
 | `plantex.top` | No |
 | `plantfriends.xyz` | Yes |
@@ -39821,6 +39824,7 @@ Here's a list of public Fediverse services.
 | `reisen-nach-spanien.com` | No |
 | `reisen-und-ankern.de` | No |
 | `reisen.church` | No |
+| `reiseshop-kiel.de` | No |
 | `reisetagebuch-podcast.de` | No |
 | `reisig.world` | Yes |
 | `reit-it.de` | Yes |
@@ -54326,8 +54330,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,586 |
-| Normal | 38,692 |
+| Cloudflare | 15,585 |
+| Normal | 38,697 |
 
 
 </details>
