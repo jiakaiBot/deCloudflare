@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,594 |
+| com | 8,597 |
 | social | 4,891 |
-| net | 4,212 |
-| org | 2,810 |
+| net | 4,214 |
+| org | 2,811 |
 | de | 2,719 |
 
 
@@ -2863,6 +2863,7 @@ Here's a list of public Fediverse services.
 | `appellate.ninja` | No |
 | `appellate.social` | No |
 | `appetizer.club` | No |
+| `appinn.net` | Yes |
 | `apple-user.club` | No |
 | `apple2.org.za` | No |
 | `appleontech.com` | No |
@@ -9860,6 +9861,7 @@ Here's a list of public Fediverse services.
 | `cuttlefi.sh` | No |
 | `cuvou.net` | No |
 | `cville.online` | No |
+| `cvrkut.com` | Yes |
 | `cwagner.me` | No |
 | `cwain.dk` | Yes |
 | `cwb.social` | No |
@@ -17606,6 +17608,7 @@ Here's a list of public Fediverse services.
 | `ghordano.com` | No |
 | `ghosh.pro` | Yes |
 | `ghost.cafe` | No |
+| `ghost.org` | Yes |
 | `ghost.supplies` | No |
 | `ghost.work` | No |
 | `ghost7.com` | No |
@@ -19139,6 +19142,7 @@ Here's a list of public Fediverse services.
 | `happytobehe.re` | No |
 | `happytoo.cyou` | Yes |
 | `happyvalley.social` | No |
+| `happyxiao.com` | Yes |
 | `hapyyr.com` | No |
 | `haqueers.com` | No |
 | `har.gay` | Yes |
@@ -26449,6 +26453,7 @@ Here's a list of public Fediverse services.
 | `librino.net` | No |
 | `libris.social` | No |
 | `libroj.org` | No |
+| `libropatica.com` | No |
 | `librosphere.fr` | No |
 | `libtar.de` | No |
 | `libutzki.de` | No |
@@ -29665,7 +29670,7 @@ Here's a list of public Fediverse services.
 | `memorablepress.com` | Yes |
 | `memories.am` | Yes |
 | `memoriski.cc` | Yes |
-| `memory-art.xyz` | No |
+| `memory-art.xyz` | Yes |
 | `memoryandthought.me` | No |
 | `memtech.social` | Yes |
 | `memtech.website` | Yes |
@@ -31256,6 +31261,7 @@ Here's a list of public Fediverse services.
 | `moskitohero.com` | Yes |
 | `moskovitz.co.nz` | Yes |
 | `moskva.tk` | No |
+| `moso.dev` | Yes |
 | `moso.io` | Yes |
 | `mosqueeto.net` | No |
 | `moss.church` | No |
@@ -41796,6 +41802,7 @@ Here's a list of public Fediverse services.
 | `schlot.at` | No |
 | `schlunker.com` | No |
 | `schmaker.eu` | No |
+| `schmalenstroer.net` | No |
 | `schmaller.de` | No |
 | `schmarrn.dev` | No |
 | `schmarty.net` | No |
@@ -44105,6 +44112,7 @@ Here's a list of public Fediverse services.
 | `somanydoors.ca` | Yes |
 | `somaton.com` | No |
 | `some.institute` | Yes |
+| `some.lc` | Yes |
 | `some.rs` | No |
 | `someassholesopinion.com` | No |
 | `somebetterplaceshell.gq` | No |
@@ -54331,8 +54339,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,584 |
-| Normal | 38,699 |
+| Cloudflare | 15,591 |
+| Normal | 38,700 |
 
 
 </details>
