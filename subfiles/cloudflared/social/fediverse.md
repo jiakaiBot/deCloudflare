@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,594 |
 | social | 4,891 |
 | net | 4,212 |
-| org | 2,809 |
+| org | 2,810 |
 | de | 2,719 |
 
 
@@ -16541,6 +16541,7 @@ Here's a list of public Fediverse services.
 | `fsck.com.ar` | Yes |
 | `fsck.jp` | No |
 | `fsdon.com` | No |
+| `fsebugoutzone.org` | No |
 | `fserv.eu` | Yes |
 | `fsf.org` | No |
 | `fsfe.org` | No |
@@ -52815,7 +52816,7 @@ Here's a list of public Fediverse services.
 | `xenti.nl` | Yes |
 | `xenua.me` | No |
 | `xenv.io` | No |
-| `xerg.ga` | Yes |
+| `xerg.ga` | No |
 | `xerimorph.net` | No |
 | `xeronith.com` | Yes |
 | `xerrem.xyz` | No |
@@ -54330,8 +54331,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,585 |
-| Normal | 38,697 |
+| Cloudflare | 15,584 |
+| Normal | 38,699 |
 
 
 </details>
