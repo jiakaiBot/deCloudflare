@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,597 |
+| com | 8,598 |
 | social | 4,891 |
 | net | 4,214 |
 | org | 2,811 |
@@ -13417,7 +13417,7 @@ Here's a list of public Fediverse services.
 | `emerald.show` | Yes |
 | `emeraldsocial.org` | No |
 | `emergeheart.info` | No |
-| `emergencyalerts.app` | No |
+| `emergencyalerts.app` | Yes |
 | `emergencyplumbery.com` | Yes |
 | `emergenzehack.info` | No |
 | `emerson.chat` | Yes |
@@ -28160,6 +28160,7 @@ Here's a list of public Fediverse services.
 | `maoh.company` | No |
 | `maop.mx` | Yes |
 | `maou-maou.fr` | No |
+| `maoumisskey.live` | Yes |
 | `map-le.net` | No |
 | `mapcommunity.org` | No |
 | `mapf.net` | No |
@@ -40620,6 +40621,7 @@ Here's a list of public Fediverse services.
 | `rollerderby.social` | No |
 | `rollforcupcakes.com` | No |
 | `rollingcode.org` | Yes |
+| `rollingkittens.com` | Yes |
 | `rollnotice.com` | Yes |
 | `roman.forum` | No |
 | `romancebooks.space` | No |
@@ -49028,7 +49030,7 @@ Here's a list of public Fediverse services.
 | `truthsocial.st` | No |
 | `truthsocialpro.org` | No |
 | `trutube.online` | Yes |
-| `trutz.online` | No |
+| `trutz.online` | Yes |
 | `trutz.social` | No |
 | `truxton.com` | No |
 | `trwnh.com` | Yes |
@@ -54343,8 +54345,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,591 |
-| Normal | 38,704 |
+| Cloudflare | 15,595 |
+| Normal | 38,702 |
 
 
 </details>
