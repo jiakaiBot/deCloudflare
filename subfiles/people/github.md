@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error on save SeoMatic settings](https://github.com/nystudio107/craft-seomatic/issues/1463)
+- [API Widgets Fail to Resolve Docker 26.0](https://github.com/gethomepage/homepage/issues/3361)
 - [Cloudflare Missing columns/tables](https://github.com/Azure/Azure-Sentinel/issues/10374)
 - [App crashes on iOS when opening websites with Cloudflare protection](https://github.com/react-native-webview/react-native-webview/issues/3412)
 - [About the DoH server](https://github.com/greatfire/envoy/issues/86)
