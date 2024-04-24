@@ -3384,7 +3384,7 @@ Here's a list of public Fediverse services.
 | `asozial.me` | No |
 | `aspectsof.love` | Yes |
 | `asphodel.rip` | Yes |
-| `aspie.space` | Yes |
+| `aspie.space` | No |
 | `aspiechattr.me` | Yes |
 | `aspirant.de` | No |
 | `aspiringknight.com` | No |
@@ -44728,6 +44728,7 @@ Here's a list of public Fediverse services.
 | `ssp-gt.de` | No |
 | `sspaeth.de` | No |
 | `sss-fc.com` | Yes |
+| `sssa.africa` | No |
 | `sssc.cc` | No |
 | `ssskako.com` | No |
 | `ssskkk.top` | Yes |
@@ -54341,8 +54342,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,592 |
-| Normal | 38,701 |
+| Cloudflare | 15,591 |
+| Normal | 38,703 |
 
 
 </details>
