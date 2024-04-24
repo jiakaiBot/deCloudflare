@@ -19986,6 +19986,7 @@ Here's a list of public Fediverse services.
 | `hmarquez.com` | No |
 | `hmbl.blog` | No |
 | `hmf.digital` | No |
+| `hmm.news` | No |
 | `hmm.st` | No |
 | `hmn.ist` | No |
 | `hmpf.club` | Yes |
@@ -54346,7 +54347,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,595 |
-| Normal | 38,702 |
+| Normal | 38,703 |
 
 
 </details>
