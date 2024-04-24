@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 8,593 |
 | social | 4,891 |
 | net | 4,212 |
-| org | 2,808 |
-| de | 2,716 |
+| org | 2,809 |
+| de | 2,717 |
 
 
 - Mastodon, Pleroma, etc
@@ -3189,6 +3189,7 @@ Here's a list of public Fediverse services.
 | `artemislena.eu` | No |
 | `artemlab.tk` | No |
 | `artermyss.com` | Yes |
+| `artfiles.de` | Yes |
 | `artfusion.social` | No |
 | `arthack.nz` | No |
 | `arthacker.su` | No |
@@ -23378,6 +23379,7 @@ Here's a list of public Fediverse services.
 | `jws.app` | Yes |
 | `jws.dev` | Yes |
 | `jws.news` | No |
+| `jwunited.org` | No |
 | `jxm.ca` | No |
 | `jxmsocial.xyz` | No |
 | `jxs.me` | Yes |
@@ -54324,8 +54326,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,585 |
-| Normal | 38,691 |
+| Cloudflare | 15,586 |
+| Normal | 38,692 |
 
 
 </details>
