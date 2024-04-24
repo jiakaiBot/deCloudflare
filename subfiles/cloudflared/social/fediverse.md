@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,598 |
+| com | 8,599 |
 | social | 4,891 |
-| net | 4,214 |
-| org | 2,811 |
+| net | 4,215 |
+| org | 2,812 |
 | de | 2,719 |
 
 
@@ -6209,6 +6209,7 @@ Here's a list of public Fediverse services.
 | `breisgaucave.de` | No |
 | `breitbach.tech` | No |
 | `breiteberg.de` | No |
+| `breitensteinart.com` | Yes |
 | `breizh.me` | Yes |
 | `breizh.pm` | No |
 | `breizh.social` | No |
@@ -16349,6 +16350,7 @@ Here's a list of public Fediverse services.
 | `freyhult.net` | No |
 | `freyrlepage.com` | Yes |
 | `freyssi.net` | No |
+| `freytes.org` | No |
 | `fribbledom.com` | No |
 | `fribby.social` | No |
 | `fribygda.no` | No |
@@ -41774,6 +41776,7 @@ Here's a list of public Fediverse services.
 | `schettler.net` | No |
 | `schichler.dev` | Yes |
 | `schicksal.im` | Yes |
+| `schiebener.net` | No |
 | `schieder.me` | No |
 | `schiessle.org` | No |
 | `schildt.social` | No |
@@ -54346,8 +54349,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,595 |
-| Normal | 38,703 |
+| Cloudflare | 15,596 |
+| Normal | 38,705 |
 
 
 </details>
