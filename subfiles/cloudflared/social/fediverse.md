@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,891 |
 | net | 4,218 |
 | org | 2,812 |
-| de | 2,721 |
+| de | 2,722 |
 
 
 - Mastodon, Pleroma, etc
@@ -28232,6 +28232,7 @@ Here's a list of public Fediverse services.
 | `marcinmalecki.pl` | No |
 | `marckalmes.com` | No |
 | `marcleroi.be` | No |
+| `marco-zehe.de` | No |
 | `marco.network` | No |
 | `marcoabis.it` | No |
 | `marcogiorgio.net` | Yes |
@@ -54368,7 +54369,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,594 |
-| Normal | 38,725 |
+| Normal | 38,726 |
 
 
 </details>
