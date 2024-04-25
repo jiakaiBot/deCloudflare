@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,599 |
+| com | 8,603 |
 | social | 4,891 |
-| net | 4,216 |
+| net | 4,218 |
 | org | 2,812 |
-| de | 2,720 |
+| de | 2,721 |
 
 
 - Mastodon, Pleroma, etc
@@ -702,6 +702,7 @@ Here's a list of public Fediverse services.
 | `5evo.fan` | No |
 | `5f5.org` | No |
 | `5f9.de` | No |
+| `5h1780x.xyz` | Yes |
 | `5hanayome.cyou` | No |
 | `5i.gs` | Yes |
 | `5july.net` | No |
@@ -4829,6 +4830,7 @@ Here's a list of public Fediverse services.
 | `berlin-berlin.de` | No |
 | `berlin.blue` | No |
 | `berlin.social` | No |
+| `berlinbuzzwords.de` | No |
 | `berliner-hoerspielfestival.de` | No |
 | `berliner-verkehr.de` | No |
 | `bermuda-delta.com` | No |
@@ -6084,7 +6086,7 @@ Here's a list of public Fediverse services.
 | `boyos.org` | No |
 | `boys-love.xyz` | No |
 | `boys.computer` | No |
-| `boyskissing.us` | No |
+| `boyskissing.us` | Yes |
 | `boyslove.jp` | No |
 | `boyter.org` | No |
 | `boz.fi` | No |
@@ -7531,6 +7533,7 @@ Here's a list of public Fediverse services.
 | `challenger.city` | No |
 | `chamba.social` | Yes |
 | `chambel.net` | No |
+| `chambers.computer` | No |
 | `chameth.com` | No |
 | `chamochi.club` | Yes |
 | `chamook.lol` | No |
@@ -10585,6 +10588,7 @@ Here's a list of public Fediverse services.
 | `davecarson.dev` | No |
 | `davecheney.com` | No |
 | `davehologram.com` | No |
+| `daveisnice.com` | No |
 | `davejansen.com` | Yes |
 | `daveking.app` | No |
 | `davepeck.org` | No |
@@ -13359,6 +13363,7 @@ Here's a list of public Fediverse services.
 | `elpiskey.xyz` | No |
 | `elqhost.net` | No |
 | `elquilosonriente.com` | No |
+| `elrant.team` | Yes |
 | `elreino.online` | No |
 | `elrod.me` | Yes |
 | `elrubius.fans` | No |
@@ -16884,6 +16889,7 @@ Here's a list of public Fediverse services.
 | `fx4.net` | No |
 | `fxcfdlabo.com` | No |
 | `fxmech.com` | Yes |
+| `fxworks.io` | No |
 | `fxxking.life` | Yes |
 | `fy.to` | Yes |
 | `fyber.space` | No |
@@ -16891,6 +16897,7 @@ Here's a list of public Fediverse services.
 | `fybuk.com` | No |
 | `fycth.com` | Yes |
 | `fyeshit.com` | No |
+| `fyfluiddynamics.com` | Yes |
 | `fyfy.eu.org` | No |
 | `fygod.life` | Yes |
 | `fygod.xyz` | No |
@@ -22424,6 +22431,7 @@ Here's a list of public Fediverse services.
 | `jauntypix.net` | No |
 | `java.nrw` | No |
 | `javabubble.social` | No |
+| `javahippie.net` | No |
 | `javant.xyz` | No |
 | `javasight-dev.online` | No |
 | `javask.xyz` | No |
@@ -29428,6 +29436,7 @@ Here's a list of public Fediverse services.
 | `meadowing.club` | Yes |
 | `meadowlark.cc` | Yes |
 | `mean.engineer` | No |
+| `meanwhileinparadise.com` | No |
 | `measure.chat` | Yes |
 | `meatbag.app` | Yes |
 | `meatball.lol` | No |
@@ -39573,6 +39582,7 @@ Here's a list of public Fediverse services.
 | `rdy.jp` | No |
 | `re-enthused.com` | No |
 | `re-medium.com` | No |
+| `reachableceo.com` | No |
 | `react.town` | No |
 | `read-read.net` | No |
 | `readalongaudiobible.com` | No |
@@ -43325,6 +43335,7 @@ Here's a list of public Fediverse services.
 | `skelly.social` | No |
 | `skepteis.social` | No |
 | `skeptics.social` | No |
+| `skepticsoft.net` | Yes |
 | `skeptikon.fr` | No |
 | `skeptube.fr` | No |
 | `sketcherville.art` | No |
@@ -54356,8 +54367,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,589 |
-| Normal | 38,719 |
+| Cloudflare | 15,594 |
+| Normal | 38,725 |
 
 
 </details>
