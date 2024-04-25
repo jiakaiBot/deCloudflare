@@ -34,6 +34,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | andrewnw.xyz | Yes |
 | anudeep.me | Yes |
 | apad.pro | Yes |
+| archuser.org | Yes |
 | artikel10.org | No |
 | asterimoon.com | Yes |
 | avastdns.com | No |
@@ -125,6 +126,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | janl.eu | Yes |
 | justincounts.com | No |
 | keke125.com | Yes |
+| kekew.info | No |
 | kerekes.xyz | Yes |
 | ketan.dev | Yes |
 | konikoni428.com | Yes |
@@ -132,6 +134,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | krnl.eu | Yes |
 | kugoapps.com | No |
 | kukal.cz | No |
+| kusoneko.moe | No |
 | labnekotest.site | Yes |
 | lacontrevoie.fr | No |
 | lavate.ch | Yes |
@@ -157,6 +160,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | narl.app | No |
 | neilzone.co.uk | No |
 | nenam.eu | No |
+| newpangea.de | Yes |
 | nexific.it | Yes |
 | nic.cz | No |
 | nic.lv | No |
@@ -262,8 +266,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 134 |
-| Normal | 109 |
+| Cloudflare | 136 |
+| Normal | 111 |
 
 
 ### 55.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
