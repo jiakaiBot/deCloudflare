@@ -162,6 +162,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nenam.eu | No |
 | newpangea.de | Yes |
 | nexific.it | Yes |
+| nhtsky.com | Yes |
 | nic.cz | No |
 | nic.lv | No |
 | niyawe.de | No |
@@ -172,6 +173,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nordvpn.com | Yes |
 | noridev.moe | No |
 | npsolution.it | No |
+| nullsproxy.com | Yes |
 | ofdoom.net | Yes |
 | oliviertv.co.za | Yes |
 | openbld.net | No |
@@ -195,6 +197,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | quad9.net | Yes |
 | quydang.name.vn | Yes |
 | ral9005.org | Yes |
+| rbn.gr | No |
 | repinger.my.id | Yes |
 | restena.lu | No |
 | retakecs.com | Yes |
@@ -266,8 +269,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 136 |
-| Normal | 111 |
+| Cloudflare | 138 |
+| Normal | 112 |
 
 
-### 55.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
