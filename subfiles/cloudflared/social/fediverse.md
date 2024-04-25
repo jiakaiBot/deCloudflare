@@ -25066,6 +25066,7 @@ Here's a list of public Fediverse services.
 | `ksrgte.ch` | Yes |
 | `ksu-mastodon.com` | No |
 | `kswk.org` | Yes |
+| `kt.al` | No |
 | `kt2003.info` | No |
 | `ktachibana.party` | Yes |
 | `ktistec.com` | No |
@@ -38741,7 +38742,7 @@ Here's a list of public Fediverse services.
 | `quaqoostore.net` | No |
 | `quarante-douze.net` | No |
 | `quarium.xyz` | No |
-| `quarterbacks.win` | Yes |
+| `quarterbacks.win` | No |
 | `quarteredcircle.net` | No |
 | `quasar.casa` | No |
 | `quasi.social` | No |
@@ -42417,6 +42418,7 @@ Here's a list of public Fediverse services.
 | `serrebiradio.com` | No |
 | `serv-ops.com` | No |
 | `serval.club` | No |
+| `servantsofallah.cc` | No |
 | `servantweb.fr` | No |
 | `servarr.com` | Yes |
 | `serve.moe` | Yes |
@@ -54295,8 +54297,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,578 |
-| Normal | 38,669 |
+| Cloudflare | 15,577 |
+| Normal | 38,672 |
 
 
 </details>
