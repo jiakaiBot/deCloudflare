@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,588 |
 | social | 4,890 |
-| net | 4,209 |
+| net | 4,210 |
 | org | 2,807 |
 | de | 2,717 |
 
@@ -5586,6 +5586,7 @@ Here's a list of public Fediverse services.
 | `blogsquad.social` | Yes |
 | `blogueur-de-france.fr` | No |
 | `bloguslibrus.fr` | No |
+| `blokkify.net` | Yes |
 | `blombus.com` | No |
 | `bloodfames.monster` | No |
 | `bloodmoon-network.de` | Yes |
@@ -17838,7 +17839,7 @@ Here's a list of public Fediverse services.
 | `glitch.wtf` | No |
 | `glitchbird.com` | Yes |
 | `glitchcity.cc` | No |
-| `glitchcityart.club` | Yes |
+| `glitchcityart.club` | No |
 | `glitchpie.gay` | Yes |
 | `glitchwit.ch` | No |
 | `glitchwitch.io` | Yes |
@@ -51837,7 +51838,7 @@ Here's a list of public Fediverse services.
 | `weyhe.social` | No |
 | `weyr.org.uk` | No |
 | `weyr.social` | Yes |
-| `wezerl.com` | Yes |
+| `wezerl.com` | No |
 | `wezm.net` | No |
 | `wf91st-street.com` | Yes |
 | `wfc.social` | No |
@@ -54294,8 +54295,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,579 |
-| Normal | 38,667 |
+| Cloudflare | 15,578 |
+| Normal | 38,669 |
 
 
 </details>
