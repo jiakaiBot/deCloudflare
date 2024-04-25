@@ -19210,6 +19210,7 @@ Here's a list of public Fediverse services.
 | `harvestasya.org` | Yes |
 | `harz.social` | No |
 | `harzpromoter.de` | No |
+| `has-massive-tits.lol` | No |
 | `has-no.solutions` | No |
 | `hasa.blog` | No |
 | `hasacow.com` | No |
@@ -33676,7 +33677,7 @@ Here's a list of public Fediverse services.
 | `nobelpunk.de` | No |
 | `nobert.zone` | No |
 | `nobigtech.es` | No |
-| `nobirds.social` | Yes |
+| `nobirds.social` | No |
 | `nobl.ink` | Yes |
 | `noblacksheep.org` | No |
 | `nobloat.ninja` | No |
@@ -42564,7 +42565,7 @@ Here's a list of public Fediverse services.
 | `shadows.rest` | No |
 | `shadowsocial.org` | No |
 | `shadowtoot.space` | Yes |
-| `shadowtoot.world` | Yes |
+| `shadowtoot.world` | No |
 | `shadowverdon.info` | No |
 | `shadowverse-mstdn.jp` | No |
 | `shadura.me` | No |
@@ -54299,8 +54300,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,577 |
-| Normal | 38,674 |
+| Cloudflare | 15,575 |
+| Normal | 38,677 |
 
 
 </details>
