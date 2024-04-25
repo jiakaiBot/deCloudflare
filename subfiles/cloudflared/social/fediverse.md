@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,603 |
-| social | 4,891 |
+| social | 4,892 |
 | net | 4,218 |
 | org | 2,812 |
 | de | 2,722 |
@@ -26997,7 +26997,7 @@ Here's a list of public Fediverse services.
 | `logoff.website` | No |
 | `logografos.com` | No |
 | `logomancy.net` | No |
-| `logorrhea.online` | Yes |
+| `logorrhea.online` | No |
 | `logoss.eu` | No |
 | `loguvone.com` | No |
 | `logzinga.com` | Yes |
@@ -47549,6 +47549,7 @@ Here's a list of public Fediverse services.
 | `thestarsetsociety.cn` | Yes |
 | `thestonedapes.com` | Yes |
 | `thestopbutton.com` | No |
+| `thestopbutton.social` | No |
 | `thestory.land` | No |
 | `thestory.store` | No |
 | `thestorygraph.com` | Yes |
@@ -54368,8 +54369,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,594 |
-| Normal | 38,726 |
+| Cloudflare | 15,593 |
+| Normal | 38,728 |
 
 
 </details>
