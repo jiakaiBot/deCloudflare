@@ -15933,6 +15933,7 @@ Here's a list of public Fediverse services.
 | `fortat.fr` | No |
 | `fortean.social` | No |
 | `forteller.net` | No |
+| `forth.garden` | No |
 | `forth.ml` | No |
 | `forth.work` | No |
 | `forth.works` | No |
@@ -27649,7 +27650,7 @@ Here's a list of public Fediverse services.
 | `m4cgyver.net` | No |
 | `m4fx.de` | Yes |
 | `m4rc3l.de` | Yes |
-| `m4sk.in` | Yes |
+| `m4sk.in` | No |
 | `m5.nz` | Yes |
 | `m510.net` | No |
 | `m544.net` | Yes |
@@ -32327,6 +32328,7 @@ Here's a list of public Fediverse services.
 | `naasat.in` | No |
 | `nabago.net` | No |
 | `nabber.org` | No |
+| `nabein.me` | No |
 | `naber.space` | No |
 | `nabi1080.net` | No |
 | `nacchan.ca` | Yes |
@@ -54368,8 +54370,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,592 |
-| Normal | 38,728 |
+| Cloudflare | 15,591 |
+| Normal | 38,731 |
 
 
 </details>
