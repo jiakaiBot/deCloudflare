@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,603 |
 | social | 4,892 |
-| net | 4,218 |
+| net | 4,217 |
 | org | 2,812 |
 | de | 2,722 |
 
@@ -36086,7 +36086,6 @@ Here's a list of public Fediverse services.
 | `panic.social` | No |
 | `panicking.net` | No |
 | `panix.com` | No |
-| `pannassh.net` | Yes |
 | `pano.community` | No |
 | `panoply.cx` | No |
 | `panoptic.onl` | No |
@@ -54369,7 +54368,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,593 |
+| Cloudflare | 15,592 |
 | Normal | 38,728 |
 
 
