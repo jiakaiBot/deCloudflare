@@ -18729,6 +18729,7 @@ Here's a list of public Fediverse services.
 | `gvisoc.com` | Yes |
 | `gwa.app` | No |
 | `gwah.social` | No |
+| `gwansangg.am` | No |
 | `gwcoffey.com` | No |
 | `gweep.cat` | No |
 | `gwei.cz` | Yes |
@@ -41630,6 +41631,7 @@ Here's a list of public Fediverse services.
 | `sb17.space` | No |
 | `sbargv2.com` | No |
 | `sbaron.fr` | No |
+| `sbball.co.uk` | No |
 | `sbbsystems.com` | No |
 | `sbcloud.cc` | Yes |
 | `sbea.in` | Yes |
@@ -54298,7 +54300,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,577 |
-| Normal | 38,672 |
+| Normal | 38,674 |
 
 
 </details>
