@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error on save SeoMatic settings](https://github.com/putyourlightson/craft-blitz/issues/656)
 - [certificate resource has no owner. refusing to update non-owned certificate resource for object](https://github.com/kubernetes/ingress-nginx/issues/11313)
 - [Astro DB: push with force-reset doesn't seem to work.](https://github.com/withastro/astro/issues/10873)
 - [Storage Fail early for COPY mode storage field without source specified](https://github.com/skypilot-org/skypilot/issues/3477)
