@@ -497,6 +497,7 @@ Here's a list of breached sites.
 | PetFlow | 990,919 | Yes |
 | Phoenix | 74,776 | Yes |
 | PhoneHouse (Phone House España) | 5,223,350 | Yes |
+| PipingRock (Piping Rock) | 2,103,100 | Yes |
 | PixelFederation (Pixel Federation) | 38,108 | Yes |
 | Pixlr | 1,906,808 | No |
 | PlanetCalypso (Planet Calypso) | 62,261 | No |
@@ -609,7 +610,7 @@ Here's a list of breached sites.
 | SweClockers (SweClockers.com) | 254,867 | No |
 | SwordFantasy | 2,690,657 | Yes |
 | Swvl | 4,195,918 | Yes |
-| T2 | 85,894 | Yes |
+| T2 | 94,584 | Yes |
 | TAPAirPortugal (TAP Air Portugal) | 6,083,479 | Yes |
 | TGBUS | 10,371,766 | No |
 | TRAI (Telecom Regulatory Authority of India) | 107,776 | No |
@@ -754,10 +755,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 442 | 5,005,045,610 |
+| Cloudflare | 443 | 5,007,157,400 |
 | Normal | 291 | 4,186,528,057 |
 
 
 
-### 60.3% of breached sites (pwned sites) are using Cloudflare.
+### 60.4% of breached sites (pwned sites) are using Cloudflare.
 ### 54.5% of leaked accounts are on Cloudflare sites.
