@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Some clients fail to fetch status due to missing content-length header in swapstatus response](https://github.com/BoltzExchange/boltz-backend/issues/537)
 - [feat: seperate max-age and s-maxage](https://github.com/wp-graphql/wp-graphql-smart-cache/issues/280)
 - [Settings not saving all of a sudden?](https://github.com/freescout-helpdesk/freescout/issues/3998)
 - [Unable to access torrentio.strem.fun, blocked by CloudFlare Protection.](https://github.com/dreulavelle/Prowlarr-Indexers/issues/28)
