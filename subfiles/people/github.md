@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Settings not saving all of a sudden?](https://github.com/freescout-helpdesk/freescout/issues/3998)
 - [Unable to access torrentio.strem.fun, blocked by CloudFlare Protection.](https://github.com/dreulavelle/Prowlarr-Indexers/issues/28)
 - [Error on save SeoMatic settings](https://github.com/putyourlightson/craft-blitz/issues/656)
 - [certificate resource has no owner. refusing to update non-owned certificate resource for object](https://github.com/kubernetes/ingress-nginx/issues/11313)
