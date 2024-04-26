@@ -17018,7 +17018,7 @@ Here's a list of public Fediverse services.
 | `galaxians.org` | No |
 | `galaxy-control.org` | No |
 | `galaxy.cat` | No |
-| `galaxy.lgbt` | Yes |
+| `galaxy.lgbt` | No |
 | `galaxy.quest` | No |
 | `galaxybound.com` | Yes |
 | `galaxybrain.co` | Yes |
@@ -19872,7 +19872,7 @@ Here's a list of public Fediverse services.
 | `hinaloe.net` | No |
 | `hinamisskey.com` | Yes |
 | `hinanawi.net` | Yes |
-| `hinanzyo.net` | Yes |
+| `hinanzyo.net` | No |
 | `hinarisskey.com` | Yes |
 | `hinasense.jp` | Yes |
 | `hinata.cz` | No |
@@ -30740,6 +30740,7 @@ Here's a list of public Fediverse services.
 | `mlhangout.social` | No |
 | `mlich.cz` | No |
 | `mlmie.net` | No |
+| `mln2310.dev` | No |
 | `mlny.info` | No |
 | `mlpol.net` | Yes |
 | `mls20.de` | No |
@@ -54371,8 +54372,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,582 |
-| Normal | 38,741 |
+| Cloudflare | 15,580 |
+| Normal | 38,744 |
 
 
 </details>
