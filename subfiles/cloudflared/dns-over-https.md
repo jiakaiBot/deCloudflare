@@ -17,7 +17,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 0x55.net | Yes |
 | 3dns.eu | No |
 | 4-the.win | Yes |
-| 4ch.my.id | Yes |
 | 52306.org | Yes |
 | 8888.google | No |
 | 9999.sg | No |
@@ -43,7 +42,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | baishiyuan.cn | No |
 | bitdefender.net | Yes |
 | bitservices.io | No |
-| blaze-sk.ru | No |
 | blokada.org | Yes |
 | bonis.de | No |
 | brahma.world | Yes |
@@ -173,7 +171,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nordvpn.com | Yes |
 | noridev.moe | No |
 | npsolution.it | No |
-| nullsproxy.com | Yes |
 | ofdoom.net | Yes |
 | oliviertv.co.za | Yes |
 | openbld.net | No |
@@ -269,8 +266,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 138 |
-| Normal | 112 |
+| Cloudflare | 136 |
+| Normal | 111 |
 
 
-### 55.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
