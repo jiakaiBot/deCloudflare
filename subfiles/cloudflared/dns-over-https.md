@@ -238,7 +238,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | thegoodsource.net | Yes |
 | tiar.app | No |
 | tiarap.org | Yes |
-| tigrons.ru | No |
 | tls-data.de | No |
 | truta.org | No |
 | tryk.app | Yes |
@@ -267,7 +266,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 136 |
-| Normal | 111 |
+| Normal | 110 |
 
 
-### 55.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
