@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Email Worker incomaptiblity](https://github.com/postalsys/imapflow/issues/193)
+- [any plans for supporting serverless support ?](https://github.com/romeerez/orchid-orm/issues/258)
 - [useLoaderData<typeof loader> returns type JsonifyObject<T> rather than T](https://github.com/remix-run/remix/issues/9321)
 - [Some clients fail to fetch status due to missing content-length header in swapstatus response](https://github.com/BoltzExchange/boltz-backend/issues/537)
 - [feat: seperate max-age and s-maxage](https://github.com/wp-graphql/wp-graphql-smart-cache/issues/280)
