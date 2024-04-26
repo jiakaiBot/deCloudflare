@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [feat: seperate max-age and s-maxage](https://github.com/wp-graphql/wp-graphql-smart-cache/issues/280)
 - [Settings not saving all of a sudden?](https://github.com/freescout-helpdesk/freescout/issues/3998)
 - [Unable to access torrentio.strem.fun, blocked by CloudFlare Protection.](https://github.com/dreulavelle/Prowlarr-Indexers/issues/28)
 - [Error on save SeoMatic settings](https://github.com/putyourlightson/craft-blitz/issues/656)
