@@ -39860,6 +39860,7 @@ Here's a list of public Fediverse services.
 | `reit-it.de` | Yes |
 | `reito.site` | No |
 | `reitomorisaki.com` | No |
+| `reitouko.cyou` | Yes |
 | `reitrace.ga` | No |
 | `reiuji.chat` | Yes |
 | `reiver.link` | Yes |
@@ -54372,7 +54373,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,580 |
+| Cloudflare | 15,581 |
 | Normal | 38,744 |
 
 
