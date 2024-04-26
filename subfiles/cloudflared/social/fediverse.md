@@ -16511,6 +16511,7 @@ Here's a list of public Fediverse services.
 | `frootmig.net` | No |
 | `frorayz.tech` | Yes |
 | `frosch03.de` | No |
+| `frost.kiwi` | No |
 | `frost.net` | No |
 | `frostbacks.win` | No |
 | `frostedechoes.com` | Yes |
@@ -50876,7 +50877,7 @@ Here's a list of public Fediverse services.
 | `vinilox.eu` | No |
 | `vino.blue` | Yes |
 | `vinodjam.com` | No |
-| `vintage-home-movies.co.uk` | Yes |
+| `vintage-home-movies.co.uk` | No |
 | `vintagemac1984.com` | No |
 | `vintagepointofsale.com` | No |
 | `vintageracing.social` | No |
@@ -54373,8 +54374,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,581 |
-| Normal | 38,744 |
+| Cloudflare | 15,580 |
+| Normal | 38,746 |
 
 
 </details>
