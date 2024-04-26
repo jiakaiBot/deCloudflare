@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,603 |
+| com | 8,604 |
 | social | 4,892 |
 | net | 4,217 |
 | org | 2,812 |
@@ -6321,7 +6321,7 @@ Here's a list of public Fediverse services.
 | `brocolis.party` | No |
 | `brocosoup.fr` | No |
 | `brodi.me` | Yes |
-| `brodi.space` | Yes |
+| `brodi.space` | No |
 | `brody.zone` | No |
 | `broers.me` | No |
 | `broforce.gay` | No |
@@ -19034,7 +19034,7 @@ Here's a list of public Fediverse services.
 | `halfelf.org` | No |
 | `halfey.moe` | Yes |
 | `halfling13.com` | No |
-| `halfmemories.com` | Yes |
+| `halfmemories.com` | No |
 | `halfmoon.jp` | No |
 | `halfon.me` | Yes |
 | `halfpastfour.club` | No |
@@ -23621,7 +23621,7 @@ Here's a list of public Fediverse services.
 | `kamima.online` | No |
 | `kamima.site` | No |
 | `kamima.xyz` | Yes |
-| `kamisato.xyz` | Yes |
+| `kamisato.xyz` | No |
 | `kamiyacho.net` | No |
 | `kammeratadam.dk` | No |
 | `kammeyer.me` | Yes |
@@ -31746,7 +31746,7 @@ Here's a list of public Fediverse services.
 | `mtm.social` | No |
 | `mtndevelopment.com` | No |
 | `mtnlss.co` | Yes |
-| `mtqm.me` | Yes |
+| `mtqm.me` | No |
 | `mtrichardson.com` | No |
 | `mtsd.info` | Yes |
 | `mtth.org` | Yes |
@@ -32801,7 +32801,7 @@ Here's a list of public Fediverse services.
 | `nekojita.moe` | No |
 | `nekokawa.net` | Yes |
 | `nekokaze.cc` | Yes |
-| `nekol.cc` | Yes |
+| `nekol.cc` | No |
 | `nekomi.one` | Yes |
 | `nekomimi.jp` | No |
 | `nekomimi.party` | Yes |
@@ -34696,7 +34696,7 @@ Here's a list of public Fediverse services.
 | `octo.im` | No |
 | `octobot.space` | Yes |
 | `octodon.social` | No |
-| `octofloofy.ink` | Yes |
+| `octofloofy.ink` | No |
 | `octoling.ink` | Yes |
 | `octopuce.fr` | No |
 | `octopusx.de` | Yes |
@@ -38801,7 +38801,7 @@ Here's a list of public Fediverse services.
 | `quass.social` | Yes |
 | `quasselfritze.de` | No |
 | `quasselkopf.de` | No |
-| `quasstodon.social` | Yes |
+| `quasstodon.social` | No |
 | `quaylessed.icu` | No |
 | `qub.io` | No |
 | `qube.ovh` | No |
@@ -39318,7 +39318,7 @@ Here's a list of public Fediverse services.
 | `rand0mise.it` | No |
 | `randbot.live` | Yes |
 | `randir.link` | No |
-| `randland.party` | Yes |
+| `randland.party` | No |
 | `randna.me` | Yes |
 | `rando.social` | No |
 | `rando.systems` | Yes |
@@ -50497,6 +50497,7 @@ Here's a list of public Fediverse services.
 | `vartist.fans` | Yes |
 | `vartkw.xyz` | No |
 | `varwest.fr` | No |
+| `vasco-shot.com` | No |
 | `vascowhite.co.uk` | No |
 | `vasi.li` | No |
 | `vasilakisfil.social` | No |
@@ -53531,7 +53532,7 @@ Here's a list of public Fediverse services.
 | `yorha.social` | Yes |
 | `yorishiro.space` | No |
 | `york.social` | Yes |
-| `yorklocal.org` | Yes |
+| `yorklocal.org` | No |
 | `yorkshire.social` | Yes |
 | `yorkshiregeek.xyz` | Yes |
 | `yoroshiku.net` | Yes |
@@ -54370,8 +54371,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,591 |
-| Normal | 38,731 |
+| Cloudflare | 15,582 |
+| Normal | 38,741 |
 
 
 </details>
