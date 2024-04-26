@@ -22051,6 +22051,7 @@ Here's a list of public Fediverse services.
 | `itsukey.jp` | No |
 | `itsukey.net` | No |
 | `itsumoonazicode.com` | Yes |
+| `itsvic.dev` | Yes |
 | `itsybitsysissy.eu` | No |
 | `itsysadm.in` | No |
 | `itsze.ro` | Yes |
@@ -54374,7 +54375,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,580 |
+| Cloudflare | 15,581 |
 | Normal | 38,746 |
 
 
