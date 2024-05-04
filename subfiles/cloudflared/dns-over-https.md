@@ -182,7 +182,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pooblet.co.za | Yes |
 | pragmasec.nl | No |
 | puregeni.us | No |
-| qtxd.net | No |
 | quad9.net | Yes |
 | quydang.name.vn | Yes |
 | ral9005.org | Yes |
@@ -190,7 +189,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | restena.lu | No |
 | retakecs.com | Yes |
 | rethinkdns.com | Yes |
-| rezhajul.io | No |
 | rin.sh | Yes |
 | rslvr.eu | No |
 | ruby.ci | Yes |
@@ -252,7 +250,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 127 |
-| Normal | 105 |
+| Normal | 103 |
 
 
-### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
