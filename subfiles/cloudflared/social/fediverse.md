@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,630 |
+| com | 8,629 |
 | social | 4,899 |
 | net | 4,222 |
-| org | 2,816 |
+| org | 2,815 |
 | de | 2,731 |
 
 
@@ -8541,7 +8541,6 @@ Here's a list of public Fediverse services.
 | `cochran.social` | Yes |
 | `cock.fish` | No |
 | `cock.social` | Yes |
-| `cock.tips` | No |
 | `cockandballtortu.re` | No |
 | `cockatoot.city` | No |
 | `cockb.ro` | No |
@@ -8971,7 +8970,7 @@ Here's a list of public Fediverse services.
 | `connect.cafe` | No |
 | `connected.so` | Yes |
 | `connectified.com` | No |
-| `connectingdotsblog.com` | No |
+| `connectingdotsblog.com` | Yes |
 | `connections.coach` | No |
 | `connectit.social` | No |
 | `connectop.us` | Yes |
@@ -13218,7 +13217,6 @@ Here's a list of public Fediverse services.
 | `el5.net` | Yes |
 | `elaine.is` | Yes |
 | `elandrion.net` | No |
-| `elangley.org` | No |
 | `elao.com` | No |
 | `elarial.tech` | No |
 | `elastic-dystopia.asia` | No |
@@ -25514,7 +25512,6 @@ Here's a list of public Fediverse services.
 | `lafriks.id.lv` | No |
 | `lafronz.com` | Yes |
 | `lafroscia.com` | No |
-| `lag.cx` | Yes |
 | `lag.tf` | Yes |
 | `lagdecolors.cat` | No |
 | `lagg-ev.de` | No |
@@ -28907,7 +28904,7 @@ Here's a list of public Fediverse services.
 | `mastodon.uk.com` | Yes |
 | `mastodon.uno` | Yes |
 | `mastodon.uy` | No |
-| `mastodon.uz` | Yes |
+| `mastodon.uz` | No |
 | `mastodon.vegas` | No |
 | `mastodon.vip` | No |
 | `mastodon.vlaanderen` | No |
@@ -41138,7 +41135,6 @@ Here's a list of public Fediverse services.
 | `ruxnor.net` | Yes |
 | `ruz.social` | No |
 | `ruzik.xyz` | Yes |
-| `ruzkuku.com` | No |
 | `rv.social` | No |
 | `rva.fyi` | No |
 | `rva.party` | No |
@@ -50494,7 +50490,6 @@ Here's a list of public Fediverse services.
 | `vaenner.net` | No |
 | `vagabunda.se` | No |
 | `vaguelydamp.com` | No |
-| `vah.sh` | Yes |
 | `vahera.social` | Yes |
 | `vajonet.org` | No |
 | `vakaruge.com` | No |
@@ -54176,7 +54171,6 @@ Here's a list of public Fediverse services.
 | `zetawing.com` | No |
 | `zete.tk` | No |
 | `zeteo.me` | No |
-| `zeth.pw` | Yes |
 | `zetmus.fr` | Yes |
 | `zetsubou.xn--q9jyb4c` | No |
 | `zettas.space` | No |
@@ -54497,8 +54491,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,586 |
-| Normal | 38,863 |
+| Cloudflare | 15,583 |
+| Normal | 38,860 |
 
 
 </details>
