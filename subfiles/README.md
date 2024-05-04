@@ -13,10 +13,10 @@
 - **Service**
   - [Karma API](service/karma_api.md)
   - [Ombrelo](service/ombrelo.md)
-  - [Dogs](service/dogs.md)
+    - [Dogs](service/dogs.md)
   - [Public DNS](service/dns.md)
   - [IAList](https://ialist.crimeflare.eu.org)
-  - [Alternative Link](service/altlink.md)
+  - [Alternative Link (MitiGator)](service/altlink.md)
   - [Local Area](https://services.crimeflare.eu.org/localarea/)
   - [Clearnet Onion](https://clearnetonion.eu.org)
     - [This repository as website](https://decloudflare.crimeflare.eu.org)
