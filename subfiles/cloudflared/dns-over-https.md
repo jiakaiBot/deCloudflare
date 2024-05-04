@@ -245,15 +245,14 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wikimedia-dns.org | No |
 | yatima.tv | Yes |
 | zburger.top | No |
-| zpn.me | Yes |
 
 
 ----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 128 |
+| Cloudflare | 127 |
 | Normal | 105 |
 
 
-### 54.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
