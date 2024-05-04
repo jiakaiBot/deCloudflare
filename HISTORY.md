@@ -743,6 +743,12 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 
 ## Other
 
+*2024.04.26*
+
+- **Censorship**: 0xacab.org, owned by [Riseup](https://riseup.net), silently blocked(banned) most of high-profile `cloudflare-tor` members from editing the repository [without warning nor starting a discussion](https://support.riseup.net/en/ticket/qRLUKiLt6DfroRjs).
+- Similar to Codeberg incident, it is dangerous to link git because of this malicious attack. Please link to `http://crimeflare.eu.org` instead.
+
+
 *2021.04.04*
 
 - **Censorship**: Codeberg.org silently deleted `cloudflare-tor` and all related forks from codeberg.org without joining the discussion.
