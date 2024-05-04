@@ -4,6 +4,14 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [AttributeError: module 'selenium' has no attribute 'webdriver'](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/1862)
+- [Cloudflare: Unable to properly delete a resource after manually deleting it](https://github.com/sst/ion/issues/359)
+- [@hono/sentry ESM support](https://github.com/honojs/middleware/issues/495)
+- [entity "watch charging" is never 'on'](https://github.com/Ludy87/xplora_watch/issues/418)
+- [Add "Troubleshooting Tips" page for Fermyon Cloud that includes CLI error response codes](https://github.com/fermyon/developer/issues/1269)
+- [CloudFlare DDoS Attack Protection configuration errors](https://github.com/SecOpsNews/news/issues/28072)
+- [Cloudflare blocking again](https://github.com/azoff/tockstalk/issues/5)
+- [Turnstile method appears to be broken.](https://github.com/2captcha/2captcha-go/issues/26)
 - [Cloudflare Email Worker incomaptiblity](https://github.com/postalsys/imapflow/issues/193)
 - [any plans for supporting serverless support ?](https://github.com/romeerez/orchid-orm/issues/258)
 - [useLoaderData<typeof loader> returns type JsonifyObject<T> rather than T](https://github.com/remix-run/remix/issues/9321)
