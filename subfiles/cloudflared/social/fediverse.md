@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,628 |
+| com | 8,629 |
 | social | 4,899 |
 | net | 4,222 |
 | org | 2,816 |
@@ -24329,6 +24329,7 @@ Here's a list of public Fediverse services.
 | `kill.yt` | No |
 | `killallcops.today` | No |
 | `killbox.social` | No |
+| `killcmd.com` | Yes |
 | `killcops.lol` | No |
 | `killed.xyz` | No |
 | `killerkitty.ch` | No |
@@ -48299,6 +48300,7 @@ Here's a list of public Fediverse services.
 | `toha.xyz` | No |
 | `toho.club` | Yes |
 | `toine.be` | No |
+| `toito.in` | Yes |
 | `toivioretki.fi` | Yes |
 | `tojan.icu` | No |
 | `tojo.tokyo` | No |
@@ -54492,7 +54494,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,587 |
+| Cloudflare | 15,589 |
 | Normal | 38,857 |
 
 
