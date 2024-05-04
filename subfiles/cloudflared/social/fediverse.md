@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,629 |
+| com | 8,628 |
 | social | 4,899 |
 | net | 4,222 |
-| org | 2,816 |
+| org | 2,815 |
 | de | 2,731 |
 
 
@@ -8541,7 +8541,6 @@ Here's a list of public Fediverse services.
 | `cochran.social` | Yes |
 | `cock.fish` | No |
 | `cock.social` | Yes |
-| `cock.tips` | No |
 | `cockandballtortu.re` | No |
 | `cockatoot.city` | No |
 | `cockb.ro` | No |
@@ -13218,7 +13217,6 @@ Here's a list of public Fediverse services.
 | `el5.net` | Yes |
 | `elaine.is` | Yes |
 | `elandrion.net` | No |
-| `elangley.org` | No |
 | `elao.com` | No |
 | `elarial.tech` | No |
 | `elastic-dystopia.asia` | No |
@@ -15199,7 +15197,7 @@ Here's a list of public Fediverse services.
 | `fennel-lang.org` | No |
 | `fennell.dev` | No |
 | `fennet.rentals` | No |
-| `fenslaw.nl` | No |
+| `fenslaw.nl` | Yes |
 | `fentanyl.ltd` | No |
 | `fenwick.pizza` | Yes |
 | `feo.ooo` | No |
@@ -17610,6 +17608,7 @@ Here's a list of public Fediverse services.
 | `getradicaldu.de` | No |
 | `getsummary.tech` | Yes |
 | `gettuph.com` | No |
+| `getup.gdn` | No |
 | `geturl.net` | No |
 | `getwild.online` | No |
 | `geveze.social` | No |
@@ -25513,7 +25512,6 @@ Here's a list of public Fediverse services.
 | `lafriks.id.lv` | No |
 | `lafronz.com` | Yes |
 | `lafroscia.com` | No |
-| `lag.cx` | Yes |
 | `lag.tf` | Yes |
 | `lagdecolors.cat` | No |
 | `lagg-ev.de` | No |
@@ -25929,7 +25927,7 @@ Here's a list of public Fediverse services.
 | `lectures-estivales.eu` | No |
 | `lecturify.net` | No |
 | `lecygnenoir.info` | No |
-| `leddit.social` | Yes |
+| `leddit.social` | No |
 | `ledeuns.net` | No |
 | `ledfan.be` | Yes |
 | `lediver.se` | No |
@@ -41136,7 +41134,6 @@ Here's a list of public Fediverse services.
 | `ruxnor.net` | Yes |
 | `ruz.social` | No |
 | `ruzik.xyz` | Yes |
-| `ruzkuku.com` | No |
 | `rv.social` | No |
 | `rva.fyi` | No |
 | `rva.party` | No |
@@ -50492,7 +50489,6 @@ Here's a list of public Fediverse services.
 | `vaenner.net` | No |
 | `vagabunda.se` | No |
 | `vaguelydamp.com` | No |
-| `vah.sh` | Yes |
 | `vahera.social` | Yes |
 | `vajonet.org` | No |
 | `vakaruge.com` | No |
@@ -54174,7 +54170,6 @@ Here's a list of public Fediverse services.
 | `zetawing.com` | No |
 | `zete.tk` | No |
 | `zeteo.me` | No |
-| `zeth.pw` | Yes |
 | `zetmus.fr` | Yes |
 | `zetsubou.xn--q9jyb4c` | No |
 | `zettas.space` | No |
@@ -54495,8 +54490,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,588 |
-| Normal | 38,859 |
+| Cloudflare | 15,585 |
+| Normal | 38,857 |
 
 
 </details>
