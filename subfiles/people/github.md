@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Blocked on cloudflare](https://github.com/nftstorage/nft.storage/issues/2623)
 - [Cloudflare detected for providers: You, OpenaiChat](https://github.com/xtekky/gpt4free/issues/1922)
 - [Artstation cloudflare block](https://github.com/mikf/gallery-dl/issues/5554)
 - [Aws cloudfront distribution has been incurring high costs after using imager-x plugin](https://github.com/spacecatninja/craft-imager-x/issues/262)
