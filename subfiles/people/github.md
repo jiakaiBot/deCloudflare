@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Aws cloudfront distribution has been incurring high costs after using imager-x plugin](https://github.com/spacecatninja/craft-imager-x/issues/262)
 - [AttributeError: module 'selenium' has no attribute 'webdriver'](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/1862)
 - [Cloudflare: Unable to properly delete a resource after manually deleting it](https://github.com/sst/ion/issues/359)
 - [@hono/sentry ESM support](https://github.com/honojs/middleware/issues/495)
