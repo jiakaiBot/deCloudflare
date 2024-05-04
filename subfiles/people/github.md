@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Providence V2 Rewrite](https://github.com/mrzzy/providence/issues/190)
 - [x86_64: 6.6 kernel: Intel i915 graphics card driver loading error](https://github.com/openwrt/openwrt/issues/15380)
 - [Blocked on cloudflare](https://github.com/nftstorage/nft.storage/issues/2623)
 - [Cloudflare detected for providers: You, OpenaiChat](https://github.com/xtekky/gpt4free/issues/1922)
