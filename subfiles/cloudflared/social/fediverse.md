@@ -21086,7 +21086,7 @@ Here's a list of public Fediverse services.
 | `iknox.com` | No |
 | `iko.soy` | Yes |
 | `ikubai.club` | No |
-| `ikx.kr` | Yes |
+| `ikx.kr` | No |
 | `il-magnifico.xyz` | No |
 | `ilammy.net` | No |
 | `ilbery.family` | No |
@@ -42955,6 +42955,7 @@ Here's a list of public Fediverse services.
 | `shitty.life` | Yes |
 | `shittyurl.org` | Yes |
 | `shivering-isles.com` | Yes |
+| `shizen.lol` | Yes |
 | `shizentai.jp` | No |
 | `shkolopendre.fr` | No |
 | `shkspr.mobi` | No |
@@ -48601,7 +48602,7 @@ Here's a list of public Fediverse services.
 | `tootpoint.com` | No |
 | `tootpro.xyz` | Yes |
 | `tootr.co` | Yes |
-| `tootr.io` | Yes |
+| `tootr.io` | No |
 | `toots.cc` | Yes |
 | `toots.ch` | No |
 | `toots.cl` | Yes |
@@ -54494,8 +54495,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,589 |
-| Normal | 38,857 |
+| Cloudflare | 15,588 |
+| Normal | 38,859 |
 
 
 </details>
