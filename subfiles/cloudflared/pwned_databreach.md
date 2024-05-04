@@ -248,7 +248,6 @@ Here's a list of breached sites.
 | Flashback | 40,256 | No |
 | FlexBooker | 3,756,794 | No |
 | Fling | 40,767,652 | No |
-| Flipkart | 552,094 | No |
 | Foodora | 582,578 | Yes |
 | Forbes | 1,057,819 | Yes |
 | ForumCommunity | 776,648 | Yes |
@@ -430,6 +429,7 @@ Here's a list of breached sites.
 | Moneycontrol | 762,874 | No |
 | MoreleNet (Morele.net) | 2,467,304 | Yes |
 | MortalOnline (Mortal Online) | 606,637 | Yes |
+| MovieBoxPro | 6,009,014 | Yes |
 | MovieForums (Movie Forums) | 39,914 | Yes |
 | MrExcel | 366,140 | No |
 | MrGreenGaming (Mr. Green Gaming) | 27,123 | Yes |
@@ -529,7 +529,7 @@ Here's a list of breached sites.
 | R2-2017 (R2 (2017 forum breach)) | 1,023,466 | No |
 | R2Games | 22,281,337 | No |
 | RaidForums | 478,604 | Yes |
-| RailYatri | 23,209,732 | No |
+| RailYatri | 23,209,732 | Yes |
 | Rambler | 91,436,280 | No |
 | Rankwatch (RankWatch) | 7,445,067 | Yes |
 | Raychat | 938,981 | No |
@@ -557,7 +557,7 @@ Here's a list of breached sites.
 | SHEIN | 39,086,762 | Yes |
 | SIAE (Società Italiana degli Autori ed Editori) | 14,609 | No |
 | Scentbird | 5,814,988 | Yes |
-| SchoolDistrict42 (School District 42) | 18,850 | No |
+| SchoolDistrict42 (School District 42) | 18,850 | Yes |
 | Seedpeer | 281,924 | No |
 | Sephora | 780,073 | No |
 | ServerPact | 73,587 | Yes |
@@ -713,7 +713,7 @@ Here's a list of breached sites.
 | Yahoo | 453,427 | Yes |
 | Yam | 13,258,797 | Yes |
 | Yandex (Yandex Dump) | 1,186,564 | No |
-| Yatra | 5,033,997 | No |
+| Yatra | 5,033,997 | Yes |
 | YoteprestoCom (yotepresto.com) | 1,444,629 | Yes |
 | YouNow | 18,241,518 | Yes |
 | YouPorn | 1,327,567 | Yes |
@@ -755,10 +755,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 443 | 5,007,157,400 |
-| Normal | 291 | 4,186,528,057 |
+| Cloudflare | 447 | 5,041,428,993 |
+| Normal | 287 | 4,157,713,384 |
 
 
 
-### 60.4% of breached sites (pwned sites) are using Cloudflare.
-### 54.5% of leaked accounts are on Cloudflare sites.
+### 60.9% of breached sites (pwned sites) are using Cloudflare.
+### 54.8% of leaked accounts are on Cloudflare sites.
