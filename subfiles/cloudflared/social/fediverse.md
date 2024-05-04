@@ -10204,7 +10204,7 @@ Here's a list of public Fediverse services.
 | `daftarin.net` | Yes |
 | `dafzthomas.com` | Yes |
 | `dagamant.com` | No |
-| `dagashiya.social` | Yes |
+| `dagashiya.social` | No |
 | `dagegenbewegen.social` | No |
 | `daggercat.gay` | No |
 | `daggerpath.com` | No |
@@ -28970,7 +28970,7 @@ Here's a list of public Fediverse services.
 | `mastodonkilledtwitter.tk` | No |
 | `mastodonlibre.ml` | No |
 | `mastodonlist.com` | Yes |
-| `mastodonmd.com` | Yes |
+| `mastodonmd.com` | No |
 | `mastodonmedia.xyz` | No |
 | `mastodonmusic.social` | No |
 | `mastodonnederland.online` | No |
@@ -28989,13 +28989,13 @@ Here's a list of public Fediverse services.
 | `mastodons.city` | No |
 | `mastodons.de` | Yes |
 | `mastodons.jp` | No |
-| `mastodons.lv` | Yes |
+| `mastodons.lv` | No |
 | `mastodonserv.com` | No |
 | `mastodonserver.eu` | No |
 | `mastodonserver.se` | No |
 | `mastodonslovak.sk` | No |
 | `mastodonsocial.app` | No |
-| `mastodonsocial.au` | Yes |
+| `mastodonsocial.au` | No |
 | `mastodonsocial.ca` | No |
 | `mastodonsocial.net` | No |
 | `mastodonsocial.nl` | No |
@@ -29021,7 +29021,7 @@ Here's a list of public Fediverse services.
 | `mastodonte.quebec` | No |
 | `mastodonte.red` | Yes |
 | `mastodonte.social` | Yes |
-| `mastodonte.tech` | Yes |
+| `mastodonte.tech` | No |
 | `mastodontech.de` | No |
 | `mastodonten.de` | No |
 | `mastodonter.se` | No |
@@ -29046,7 +29046,7 @@ Here's a list of public Fediverse services.
 | `mastodooooooon.xyz` | No |
 | `mastodos.com` | No |
 | `mastodosukoi.net` | No |
-| `mastodutchservers.com` | Yes |
+| `mastodutchservers.com` | No |
 | `mastoeuropa.eu` | No |
 | `mastofant.de` | No |
 | `mastofeeder.com` | Yes |
@@ -54492,8 +54492,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,593 |
-| Normal | 38,851 |
+| Cloudflare | 15,587 |
+| Normal | 38,857 |
 
 
 </details>
