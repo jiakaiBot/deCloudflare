@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,629 |
+| com | 8,630 |
 | social | 4,899 |
 | net | 4,222 |
 | org | 2,816 |
@@ -20650,7 +20650,7 @@ Here's a list of public Fediverse services.
 | `hvac-tf.net` | Yes |
 | `hvalhus.ca` | Yes |
 | `hvandenbergh.com` | Yes |
-| `hvddl.com` | Yes |
+| `hvddl.com` | No |
 | `hvhost.de` | No |
 | `hvn.network` | Yes |
 | `hw25.io` | Yes |
@@ -28325,6 +28325,7 @@ Here's a list of public Fediverse services.
 | `marimoko.biz` | No |
 | `marinbisson.fr` | No |
 | `marinintim.com` | Yes |
+| `marinthecatto.com` | No |
 | `mario.chat` | No |
 | `mariobonales.com` | No |
 | `mariobreskic.de` | No |
@@ -54496,8 +54497,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,587 |
-| Normal | 38,861 |
+| Cloudflare | 15,586 |
+| Normal | 38,863 |
 
 
 </details>
