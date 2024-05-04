@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,630 |
 | social | 4,899 |
-| net | 4,223 |
+| net | 4,224 |
 | org | 2,815 |
 | de | 2,732 |
 
@@ -236,6 +236,7 @@ Here's a list of public Fediverse services.
 | `110010.win` | Yes |
 | `1132don.com` | No |
 | `114514.xyz` | Yes |
+| `115upm.net` | No |
 | `117.social` | No |
 | `117net.co.uk` | Yes |
 | `11h22.be` | No |
@@ -5224,7 +5225,7 @@ Here's a list of public Fediverse services.
 | `birdtu.be` | No |
 | `biribiri.dev` | No |
 | `birla.io` | Yes |
-| `birming.com` | No |
+| `birming.com` | Yes |
 | `birming.se` | No |
 | `birth-online.de` | No |
 | `birthday.cat` | No |
@@ -49793,6 +49794,7 @@ Here's a list of public Fediverse services.
 | `uiae.at` | No |
 | `uibk.ac.at` | No |
 | `uid0.hu` | No |
+| `uii.pt` | Yes |
 | `uile.nl` | No |
 | `uilleann.pizza` | No |
 | `uir.org.uk` | No |
@@ -54500,7 +54502,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,587 |
+| Cloudflare | 15,589 |
 | Normal | 38,865 |
 
 
