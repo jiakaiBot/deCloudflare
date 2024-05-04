@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,630 |
 | social | 4,899 |
-| net | 4,224 |
+| net | 4,225 |
 | org | 2,815 |
 | de | 2,732 |
 
@@ -21005,6 +21005,7 @@ Here's a list of public Fediverse services.
 | `ifuncle.kr` | No |
 | `ifvg.info` | No |
 | `ifwo.eu` | No |
+| `igalog.net` | No |
 | `igate.pw` | No |
 | `igda.social` | No |
 | `igdamelbourne.au` | Yes |
@@ -41008,6 +41009,7 @@ Here's a list of public Fediverse services.
 | `rubbishsoftware.com` | No |
 | `rubdos.be` | No |
 | `rubedo.cloud` | No |
+| `rubedo.gay` | No |
 | `rubee.buzz` | No |
 | `rubenbos.co` | No |
 | `rubencito.net` | Yes |
@@ -54503,7 +54505,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,589 |
-| Normal | 38,865 |
+| Normal | 38,867 |
 
 
 </details>
