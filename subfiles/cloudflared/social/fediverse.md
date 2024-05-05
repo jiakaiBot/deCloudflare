@@ -22990,6 +22990,7 @@ Here's a list of public Fediverse services.
 | `johnleach.co.uk` | No |
 | `johnmark.org` | No |
 | `johnmastodon.eu` | No |
+| `johnmorris.name` | No |
 | `johnn.ie` | No |
 | `johnnybegood.fr` | Yes |
 | `johnnygrimmer.social` | No |
@@ -48035,7 +48036,7 @@ Here's a list of public Fediverse services.
 | `timapple.com` | Yes |
 | `timapple.dev` | Yes |
 | `timapple.me` | No |
-| `timbo.cc` | Yes |
+| `timbo.cc` | No |
 | `timbo.social` | No |
 | `timbyr.com` | No |
 | `timcast.club` | No |
@@ -54508,8 +54509,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,591 |
-| Normal | 38,869 |
+| Cloudflare | 15,590 |
+| Normal | 38,871 |
 
 
 </details>
