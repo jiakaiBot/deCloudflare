@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,631 |
+| com | 8,629 |
 | social | 4,899 |
 | net | 4,225 |
 | org | 2,815 |
-| de | 2,732 |
+| de | 2,733 |
 
 
 - Mastodon, Pleroma, etc
@@ -3780,6 +3780,7 @@ Here's a list of public Fediverse services.
 | `avali.ink` | No |
 | `avali.one` | No |
 | `avalos.me` | No |
+| `avalost.de` | No |
 | `avancee.agency` | No |
 | `avantwhatever.org` | No |
 | `avantwhatever.xyz` | No |
@@ -5656,7 +5657,6 @@ Here's a list of public Fediverse services.
 | `blueforest.cc` | Yes |
 | `bluefox.social` | Yes |
 | `bluegate.online` | No |
-| `bluehat.cc` | Yes |
 | `bluejay.social` | Yes |
 | `blueleaks.net` | No |
 | `blueline.mg` | No |
@@ -8954,6 +8954,7 @@ Here's a list of public Fediverse services.
 | `confraria.dev` | Yes |
 | `confraria.me` | Yes |
 | `confraria.xyz` | Yes |
+| `confused.kim` | No |
 | `confusedyeti.com` | No |
 | `confusi.one` | No |
 | `conglomer.net` | Yes |
@@ -11850,7 +11851,6 @@ Here's a list of public Fediverse services.
 | `dkm.cloud` | No |
 | `dkub.dev` | Yes |
 | `dkwall.social` | No |
-| `dkxpress.dk` | No |
 | `dl10yr.com` | No |
 | `dlants.me` | Yes |
 | `dlazaro.ca` | Yes |
@@ -12169,7 +12169,6 @@ Here's a list of public Fediverse services.
 | `dorsey.io` | No |
 | `dos-dingos.com` | No |
 | `dosei.fun` | No |
-| `doseofnews.com` | No |
 | `doserver.top` | Yes |
 | `dosgame.club` | No |
 | `doshi.re` | No |
@@ -20256,6 +20255,7 @@ Here's a list of public Fediverse services.
 | `hoodojo.com` | No |
 | `hoodratshit.org` | Yes |
 | `hookii.space` | No |
+| `hoopa-nsn.gov` | Yes |
 | `hoopla.dev` | No |
 | `hoops.chat` | No |
 | `hooray.computer` | Yes |
@@ -21878,7 +21878,6 @@ Here's a list of public Fediverse services.
 | `irrsinn.video` | No |
 | `irrwitz.com` | No |
 | `irsoluciones.social` | No |
-| `irth.tv` | Yes |
 | `irucabot.com` | Yes |
 | `irumina.net` | No |
 | `irunu.co` | Yes |
@@ -42605,7 +42604,6 @@ Here's a list of public Fediverse services.
 | `serviceco.re` | No |
 | `servidos.app` | Yes |
 | `servilo.xyz` | No |
-| `servingworlds.com` | No |
 | `servn.ca` | No |
 | `servperso.net` | Yes |
 | `servus.at` | No |
@@ -54321,6 +54319,7 @@ Here's a list of public Fediverse services.
 | `zohup.com` | Yes |
 | `zohup.ml` | No |
 | `zohup.net` | Yes |
+| `zohup.top` | Yes |
 | `zoinks.one` | No |
 | `zokni.xyz` | Yes |
 | `zoktalk.com` | No |
@@ -54511,7 +54510,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,591 |
-| Normal | 38,871 |
+| Normal | 38,870 |
 
 
 </details>
