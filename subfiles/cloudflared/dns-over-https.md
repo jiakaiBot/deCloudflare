@@ -194,7 +194,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ruby.ci | Yes |
 | rueiliu.space | No |
 | runsel.id | Yes |
-| rustsword.com | Yes |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
 | sarilouis.com | No |
@@ -249,8 +248,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 127 |
+| Cloudflare | 126 |
 | Normal | 103 |
 
 
-### 55.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 55% of DNS-over-HTTPS (DoH) are using Cloudflare.
