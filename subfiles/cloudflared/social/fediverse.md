@@ -16095,7 +16095,7 @@ Here's a list of public Fediverse services.
 | `fozztexx.com` | Yes |
 | `fpfle.de` | No |
 | `fpga.style` | No |
-| `fpl.social` | No |
+| `fpl.social` | Yes |
 | `fpotfk.org` | No |
 | `fprime.xyz` | No |
 | `fpsource.eu` | Yes |
@@ -34398,7 +34398,7 @@ Here's a list of public Fediverse services.
 | `nugen.me` | Yes |
 | `nugget.social` | No |
 | `nugol.net` | No |
-| `nuisance.site` | Yes |
+| `nuisance.site` | No |
 | `nuka.tech` | No |
 | `nukaya.net` | No |
 | `nuke.moe` | Yes |
@@ -45525,6 +45525,7 @@ Here's a list of public Fediverse services.
 | `subak.club` | No |
 | `subak.ovh` | No |
 | `subaud.io` | No |
+| `subby.solutions` | No |
 | `subcarrier.tv` | No |
 | `subcon.pub` | No |
 | `subculdon.com` | No |
@@ -46967,6 +46968,7 @@ Here's a list of public Fediverse services.
 | `termer.net` | No |
 | `terminal-gravity.com` | No |
 | `terminal.ink` | Yes |
+| `terminal.space` | No |
 | `terminalaberto.pt` | No |
 | `terminaldweller.com` | No |
 | `termine.saarland` | No |
@@ -54506,7 +54508,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,591 |
-| Normal | 38,866 |
+| Normal | 38,868 |
 
 
 </details>
