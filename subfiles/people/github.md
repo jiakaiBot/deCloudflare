@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issue with using Traefik](https://github.com/jwetzell/docker-guacamole/issues/45)
 - [Basic Auth not asking for login details, it instantly returns 401](https://github.com/honojs/hono/issues/2616)
 - [FS Chat Chat input glitches](https://github.com/FrankerFaceZ/Add-Ons/issues/217)
 - [OpenAI Blog 无法访问，因 OpenAI 网站变更](https://github.com/DIYgod/RSSHub/issues/15478)
