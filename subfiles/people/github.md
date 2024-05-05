@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Deploying Nuxt Mail to Cloudflare pages](https://github.com/dword-design/nuxt-mail/issues/236)
 - [Providence V2 Rewrite](https://github.com/mrzzy/providence/issues/190)
 - [x86_64: 6.6 kernel: Intel i915 graphics card driver loading error](https://github.com/openwrt/openwrt/issues/15380)
 - [Blocked on cloudflare](https://github.com/nftstorage/nft.storage/issues/2623)
