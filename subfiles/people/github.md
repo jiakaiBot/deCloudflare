@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Basic Auth not asking for login details, it instantly returns 401](https://github.com/honojs/hono/issues/2616)
+- [FS Chat Chat input glitches](https://github.com/FrankerFaceZ/Add-Ons/issues/217)
 - [OpenAI Blog 无法访问，因 OpenAI 网站变更](https://github.com/DIYgod/RSSHub/issues/15478)
 - [Cannot create sync with AntennaPod](https://github.com/bohwaz/micro-gpodder-server/issues/36)
 - [Deploying Nuxt Mail to Cloudflare pages](https://github.com/dword-design/nuxt-mail/issues/236)
