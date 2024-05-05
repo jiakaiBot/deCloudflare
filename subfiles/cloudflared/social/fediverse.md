@@ -6999,7 +6999,7 @@ Here's a list of public Fediverse services.
 | `canhelpme.com` | No |
 | `cani.win` | Yes |
 | `canic.us` | No |
-| `canica.pe` | No |
+| `canica.pe` | Yes |
 | `canicula.jp` | Yes |
 | `canid.one` | No |
 | `canids.de` | No |
@@ -20945,7 +20945,7 @@ Here's a list of public Fediverse services.
 | `identi.cat` | Yes |
 | `ideophone.org` | No |
 | `ides.club` | Yes |
-| `idevs.id` | No |
+| `idevs.id` | Yes |
 | `idf.social` | No |
 | `idi.moe` | No |
 | `idic.social` | No |
@@ -33229,6 +33229,7 @@ Here's a list of public Fediverse services.
 | `neurofrontiers.blog` | No |
 | `neurohack.net` | Yes |
 | `neurology.social` | Yes |
+| `neuromansser.tech` | Yes |
 | `neuromante.net` | No |
 | `neuromatch.social` | No |
 | `neuron.city` | No |
@@ -33520,7 +33521,7 @@ Here's a list of public Fediverse services.
 | `nigiri.dev` | No |
 | `nigreon.net` | No |
 | `nihao.pub` | Yes |
-| `nihar.page` | Yes |
+| `nihar.page` | No |
 | `nihars.in` | Yes |
 | `nihil.gay` | Yes |
 | `nihil.ws` | No |
@@ -54504,8 +54505,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,589 |
-| Normal | 38,867 |
+| Cloudflare | 15,591 |
+| Normal | 38,866 |
 
 
 </details>
