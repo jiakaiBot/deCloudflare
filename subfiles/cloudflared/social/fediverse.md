@@ -2150,6 +2150,7 @@ Here's a list of public Fediverse services.
 | `alypto.com` | No |
 | `alyve.be` | No |
 | `alyx.pink` | Yes |
+| `alyx.to` | No |
 | `alyxia.dev` | Yes |
 | `am-gen.org` | No |
 | `am-institute.swiss` | No |
@@ -54510,7 +54511,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,591 |
-| Normal | 38,870 |
+| Normal | 38,871 |
 
 
 </details>
