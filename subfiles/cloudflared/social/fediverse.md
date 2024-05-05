@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,630 |
+| com | 8,628 |
 | social | 4,899 |
 | net | 4,225 |
 | org | 2,815 |
@@ -5656,7 +5656,6 @@ Here's a list of public Fediverse services.
 | `blueforest.cc` | Yes |
 | `bluefox.social` | Yes |
 | `bluegate.online` | No |
-| `bluehat.cc` | Yes |
 | `bluejay.social` | Yes |
 | `blueleaks.net` | No |
 | `blueline.mg` | No |
@@ -11850,7 +11849,6 @@ Here's a list of public Fediverse services.
 | `dkm.cloud` | No |
 | `dkub.dev` | Yes |
 | `dkwall.social` | No |
-| `dkxpress.dk` | No |
 | `dl10yr.com` | No |
 | `dlants.me` | Yes |
 | `dlazaro.ca` | Yes |
@@ -12169,7 +12167,6 @@ Here's a list of public Fediverse services.
 | `dorsey.io` | No |
 | `dos-dingos.com` | No |
 | `dosei.fun` | No |
-| `doseofnews.com` | No |
 | `doserver.top` | Yes |
 | `dosgame.club` | No |
 | `doshi.re` | No |
@@ -21878,7 +21875,6 @@ Here's a list of public Fediverse services.
 | `irrsinn.video` | No |
 | `irrwitz.com` | No |
 | `irsoluciones.social` | No |
-| `irth.tv` | Yes |
 | `irucabot.com` | Yes |
 | `irumina.net` | No |
 | `irunu.co` | Yes |
@@ -42605,7 +42601,6 @@ Here's a list of public Fediverse services.
 | `serviceco.re` | No |
 | `servidos.app` | Yes |
 | `servilo.xyz` | No |
-| `servingworlds.com` | No |
 | `servn.ca` | No |
 | `servperso.net` | Yes |
 | `servus.at` | No |
@@ -54509,8 +54504,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,590 |
-| Normal | 38,871 |
+| Cloudflare | 15,588 |
+| Normal | 38,868 |
 
 
 </details>
