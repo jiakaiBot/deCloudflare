@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [OpenAI Blog 无法访问，因 OpenAI 网站变更](https://github.com/DIYgod/RSSHub/issues/15478)
+- [Cannot create sync with AntennaPod](https://github.com/bohwaz/micro-gpodder-server/issues/36)
 - [Deploying Nuxt Mail to Cloudflare pages](https://github.com/dword-design/nuxt-mail/issues/236)
 - [Providence V2 Rewrite](https://github.com/mrzzy/providence/issues/190)
 - [x86_64: 6.6 kernel: Intel i915 graphics card driver loading error](https://github.com/openwrt/openwrt/issues/15380)
