@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [unsupported application protocols (edgedb-binary)](https://github.com/traefik/traefik/issues/10696)
 - [ACME Let's Encrypt is failing](https://github.com/Dokploy/dokploy/issues/51)
 - [Issue with using Traefik](https://github.com/jwetzell/docker-guacamole/issues/45)
 - [Basic Auth not asking for login details, it instantly returns 401](https://github.com/honojs/hono/issues/2616)
