@@ -13559,6 +13559,7 @@ Here's a list of public Fediverse services.
 | `endaaman.me` | No |
 | `endeavr.de` | No |
 | `enderman.xyz` | Yes |
+| `endersonmaia.com.br` | No |
 | `enderwalk.gay` | No |
 | `endgameviable.com` | No |
 | `endgameviable.social` | No |
@@ -15997,6 +15998,7 @@ Here's a list of public Fediverse services.
 | `foss.technology` | Yes |
 | `foss.tube` | No |
 | `foss.video` | No |
+| `foss.wales` | No |
 | `fossdle.org` | No |
 | `fossee.net` | No |
 | `fossfarmers.company` | Yes |
@@ -19930,7 +19932,7 @@ Here's a list of public Fediverse services.
 | `hintertomb.net` | Yes |
 | `hintertupf.ing` | No |
 | `hintz.social` | Yes |
-| `hinusif.work` | No |
+| `hinusif.work` | Yes |
 | `hinzundcode.social` | No |
 | `hip-hop.social` | No |
 | `hiphop.horse` | No |
@@ -40796,7 +40798,7 @@ Here's a list of public Fediverse services.
 | `roos.co` | Yes |
 | `roosenmaallen.com` | No |
 | `roost.eu` | No |
-| `root-it.tech` | Yes |
+| `root-it.tech` | No |
 | `root-s.xyz` | No |
 | `root.casa` | No |
 | `root.se` | Yes |
@@ -54511,7 +54513,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,591 |
-| Normal | 38,871 |
+| Normal | 38,873 |
 
 
 </details>
