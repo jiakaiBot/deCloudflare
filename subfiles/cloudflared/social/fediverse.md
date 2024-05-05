@@ -277,6 +277,7 @@ Here's a list of public Fediverse services.
 | `14141004.xyz` | Yes |
 | `143420.xyz` | Yes |
 | `1435.es` | Yes |
+| `14chan.jp` | No |
 | `14kw13.com` | Yes |
 | `14r8.club` | No |
 | `15-15-15.social` | No |
@@ -54508,7 +54509,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,591 |
-| Normal | 38,868 |
+| Normal | 38,869 |
 
 
 </details>
