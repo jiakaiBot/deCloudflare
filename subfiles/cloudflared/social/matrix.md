@@ -80,7 +80,6 @@ Here's a list of public Matrix services.
 | nitro.chat | No |
 | nope.chat | No |
 | matrix.norge.chat | Yes |
-| matrix.oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
 | perthchat.org | Yes |
@@ -121,7 +120,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 25 |
-| Normal | 68 |
+| Normal | 67 |
 
 
-### 26.9% of public Matrix services are using Cloudflare.
+### 27.2% of public Matrix services are using Cloudflare.
