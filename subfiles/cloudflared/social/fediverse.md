@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,899 |
 | net | 4,225 |
 | org | 2,816 |
-| de | 2,733 |
+| de | 2,734 |
 
 
 - Mastodon, Pleroma, etc
@@ -32826,6 +32826,7 @@ Here's a list of public Fediverse services.
 | `negitoro.dev` | Yes |
 | `negset.com` | Yes |
 | `neguse.net` | No |
+| `nehukon.de` | No |
 | `neigepluie.net` | Yes |
 | `neigh.horse` | No |
 | `neighborli.xyz` | Yes |
@@ -54517,7 +54518,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,585 |
-| Normal | 38,883 |
+| Normal | 38,884 |
 
 
 </details>
