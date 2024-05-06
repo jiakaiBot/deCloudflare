@@ -23,8 +23,8 @@ Here's the result.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 20,133 |
-| Normal | 19,132 |
+| Cloudflare | 20,131 |
+| Normal | 19,134 |
 
 
 ### 51.3% of pornographic domains are using Cloudflare.
