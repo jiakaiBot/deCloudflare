@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,630 |
-| social | 4,900 |
+| social | 4,901 |
 | net | 4,226 |
 | org | 2,817 |
 | de | 2,734 |
@@ -41710,6 +41710,7 @@ Here's a list of public Fediverse services.
 | `sashich.ru` | No |
 | `sasix.it` | No |
 | `saskodon.ca` | No |
+| `sassafras.social` | No |
 | `sassy.pics` | No |
 | `sassyass.net` | No |
 | `sastry.co` | Yes |
@@ -54527,7 +54528,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,586 |
-| Normal | 38,892 |
+| Normal | 38,893 |
 
 
 </details>
