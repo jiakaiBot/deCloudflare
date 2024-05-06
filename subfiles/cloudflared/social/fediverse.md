@@ -2286,7 +2286,7 @@ Here's a list of public Fediverse services.
 | `amoteofbeing.blog` | No |
 | `amoved.es` | No |
 | `ampericus.net` | Yes |
-| `ampersandwich.co.uk` | No |
+| `ampersandwich.co.uk` | Yes |
 | `amphora.social` | No |
 | `amplifi.casa` | No |
 | `amplifie.red` | No |
@@ -5263,7 +5263,7 @@ Here's a list of public Fediverse services.
 | `bitcoinenemies.com` | No |
 | `bitcoiner.guide` | No |
 | `bitcoiner.social` | No |
-| `bitcoinersagainst.boats` | Yes |
+| `bitcoinersagainst.boats` | No |
 | `bitcoinhackers.org` | Yes |
 | `bitcoinlizard.net` | No |
 | `bitcoinmagazine.social` | No |
@@ -9278,7 +9278,7 @@ Here's a list of public Fediverse services.
 | `coy.soy` | No |
 | `coyote.name` | No |
 | `coyote.social` | No |
-| `coyotecrimes.dog` | Yes |
+| `coyotecrimes.dog` | No |
 | `coyotelot.us` | No |
 | `coyotesin.space` | Yes |
 | `coyotetracks.org` | No |
@@ -13063,6 +13063,7 @@ Here's a list of public Fediverse services.
 | `eepy.zone` | Yes |
 | `eepygirls.tech` | Yes |
 | `eerbeekseschaakclub.nl` | No |
+| `eerie.space` | No |
 | `eersteblik.nl` | No |
 | `eertu.be` | No |
 | `eeruwang.me` | Yes |
@@ -14859,7 +14860,7 @@ Here's a list of public Fediverse services.
 | `fedi.video` | No |
 | `fedi.vision` | No |
 | `fedi.wien` | No |
-| `fedi.wtf` | Yes |
+| `fedi.wtf` | No |
 | `fedi.xyz` | Yes |
 | `fedi1.net` | No |
 | `fedi196.gay` | No |
@@ -17069,7 +17070,7 @@ Here's a list of public Fediverse services.
 | `gall.family` | Yes |
 | `gallauner.fun` | No |
 | `gallegoiv.com` | Yes |
-| `gallifrey.es` | No |
+| `gallifrey.es` | Yes |
 | `gallifrey.social` | Yes |
 | `gallinula.com` | No |
 | `gallion.sh` | No |
@@ -17437,7 +17438,7 @@ Here's a list of public Fediverse services.
 | `geismar.paris` | No |
 | `geist.is` | Yes |
 | `geisteskultur.de` | Yes |
-| `geistlib.xyz` | Yes |
+| `geistlib.xyz` | No |
 | `gejuchowo.pl` | No |
 | `gek.li` | Yes |
 | `gekidasa.ink` | No |
@@ -28754,7 +28755,7 @@ Here's a list of public Fediverse services.
 | `mastodon.codes` | No |
 | `mastodon.coffee` | Yes |
 | `mastodon.com.au` | No |
-| `mastodon.com.br` | No |
+| `mastodon.com.br` | Yes |
 | `mastodon.com.de` | No |
 | `mastodon.com.pl` | Yes |
 | `mastodon.com.py` | Yes |
@@ -28984,7 +28985,7 @@ Here's a list of public Fediverse services.
 | `mastodonmedia.xyz` | No |
 | `mastodonmusic.social` | No |
 | `mastodonnederland.online` | No |
-| `mastodonners.nl` | No |
+| `mastodonners.nl` | Yes |
 | `mastodonners.online` | No |
 | `mastodonners.ovh` | No |
 | `mastodonofmystery.world` | No |
@@ -34673,7 +34674,7 @@ Here's a list of public Fediverse services.
 | `oberhauser.space` | Yes |
 | `obermui.de` | No |
 | `oberpfalz.social` | No |
-| `obese.cat` | Yes |
+| `obese.cat` | No |
 | `obey.photos` | No |
 | `obey.social` | Yes |
 | `obeya.social` | No |
@@ -54512,8 +54513,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,591 |
-| Normal | 38,873 |
+| Cloudflare | 15,590 |
+| Normal | 38,875 |
 
 
 </details>
