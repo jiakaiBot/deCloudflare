@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,631 |
 | social | 4,899 |
-| net | 4,225 |
+| net | 4,226 |
 | org | 2,816 |
 | de | 2,734 |
 
@@ -30509,6 +30509,7 @@ Here's a list of public Fediverse services.
 | `mirial.jp` | No |
 | `mirial.jp.net` | Yes |
 | `miriamrobern.com` | No |
+| `miriel.net` | Yes |
 | `mirko-schenk.de` | No |
 | `mirkwood.io` | No |
 | `miro-sv.net` | Yes |
@@ -35012,7 +35013,7 @@ Here's a list of public Fediverse services.
 | `okkikki.tokyo` | No |
 | `okko.io` | No |
 | `okla.social` | Yes |
-| `oklahomie.us` | Yes |
+| `oklahomie.us` | No |
 | `oklomsy.com` | Yes |
 | `oknrw.de` | No |
 | `oknwdn.com` | No |
@@ -54520,7 +54521,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,585 |
-| Normal | 38,886 |
+| Normal | 38,887 |
 
 
 </details>
