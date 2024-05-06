@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,631 |
+| com | 8,629 |
 | social | 4,899 |
 | net | 4,226 |
 | org | 2,816 |
@@ -19098,7 +19098,7 @@ Here's a list of public Fediverse services.
 | `hallen.kr` | Yes |
 | `hallertau.social` | No |
 | `halley.systems` | No |
-| `hallihan.net` | No |
+| `hallihan.net` | Yes |
 | `hallole.eu` | No |
 | `hallsofamenti.io` | Yes |
 | `hallucigenia.ga` | No |
@@ -34891,7 +34891,6 @@ Here's a list of public Fediverse services.
 | `offsign.nl` | No |
 | `offsite.guru` | No |
 | `offtopic.town` | No |
-| `ofliliesandremains.art` | No |
 | `ofloo.io` | No |
 | `oflosky.com` | Yes |
 | `ofm.bar` | No |
@@ -37591,7 +37590,6 @@ Here's a list of public Fediverse services.
 | `plot88.uk` | Yes |
 | `ploud.fr` | Yes |
 | `ploud.jp` | Yes |
-| `pls.pet` | No |
 | `plshug.me` | Yes |
 | `plsn.xyz` | No |
 | `plsnobully.me` | Yes |
@@ -38551,7 +38549,7 @@ Here's a list of public Fediverse services.
 | `publicgood.social` | No |
 | `publicgoods.social` | Yes |
 | `publichealth.space` | No |
-| `publicidentity.net` | No |
+| `publicidentity.net` | Yes |
 | `publicinfrastructure.org` | Yes |
 | `publicinterest.town` | Yes |
 | `publiclaw.space` | Yes |
@@ -41886,7 +41884,6 @@ Here's a list of public Fediverse services.
 | `schalke.social` | No |
 | `schallundstille.de` | No |
 | `schaltwerk.io` | No |
-| `scharfnado.com` | No |
 | `scharner.me` | No |
 | `scharom.de` | No |
 | `schattenwe.lt` | No |
@@ -45379,7 +45376,6 @@ Here's a list of public Fediverse services.
 | `strats.co` | Yes |
 | `stratus.family` | Yes |
 | `straub.cc` | No |
-| `straubserver.com` | Yes |
 | `strausmann.net` | Yes |
 | `straw.social` | Yes |
 | `strawberry-pudding.net` | Yes |
@@ -51016,7 +51012,6 @@ Here's a list of public Fediverse services.
 | `vinilox.eu` | No |
 | `vino.blue` | Yes |
 | `vinodjam.com` | No |
-| `vintage-home-movies.co.uk` | No |
 | `vintagemac1984.com` | No |
 | `vintagepointofsale.com` | No |
 | `vintageracing.social` | No |
@@ -54523,8 +54518,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,586 |
-| Normal | 38,889 |
+| Cloudflare | 15,587 |
+| Normal | 38,883 |
 
 
 </details>
