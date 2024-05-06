@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Declaration of Factory.createHandlers is not appropriate](https://github.com/honojs/hono/issues/2621)
 - [REALITY servers in Iran being abused as sort-of SNI proxies](https://github.com/net4people/bbs/issues/359)
 - [unsupported application protocols (edgedb-binary)](https://github.com/traefik/traefik/issues/10696)
 - [ACME Let's Encrypt is failing](https://github.com/Dokploy/dokploy/issues/51)
