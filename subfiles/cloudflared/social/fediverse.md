@@ -1598,6 +1598,7 @@ Here's a list of public Fediverse services.
 | `aiqwest.com` | No |
 | `air11.org` | Yes |
 | `air11.social` | Yes |
+| `airarenic.cc` | Yes |
 | `aircrew.rocks` | No |
 | `airdreams.ca` | No |
 | `aire.ml` | No |
@@ -3433,6 +3434,7 @@ Here's a list of public Fediverse services.
 | `astaluk.icu` | No |
 | `astar.moe` | No |
 | `astarbia.com` | Yes |
+| `astarion.ru` | Yes |
 | `astatide.xyz` | Yes |
 | `astatu.berlin` | No |
 | `astdn.tokyo` | No |
@@ -6389,7 +6391,7 @@ Here's a list of public Fediverse services.
 | `browntown.dev` | Yes |
 | `browser.org` | No |
 | `browsingpachyderm.net` | No |
-| `brrrt.eu` | Yes |
+| `brrrt.eu` | No |
 | `brrt.eu` | No |
 | `brsjrn.fr` | No |
 | `brso.social` | No |
@@ -23710,7 +23712,7 @@ Here's a list of public Fediverse services.
 | `kangoulya.org` | No |
 | `kangtaylor.com` | No |
 | `kanhuji.eu` | No |
-| `kani.social` | Yes |
+| `kani.social` | No |
 | `kanikani.ooo` | No |
 | `kanina.be` | No |
 | `kaniyam.com` | No |
@@ -31827,6 +31829,7 @@ Here's a list of public Fediverse services.
 | `mtnlss.co` | Yes |
 | `mtqm.me` | No |
 | `mtrichardson.com` | No |
+| `mtrnord.blog` | Yes |
 | `mtsd.info` | Yes |
 | `mtth.org` | Yes |
 | `mttv.it` | No |
@@ -54520,8 +54523,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,585 |
-| Normal | 38,887 |
+| Cloudflare | 15,586 |
+| Normal | 38,889 |
 
 
 </details>
