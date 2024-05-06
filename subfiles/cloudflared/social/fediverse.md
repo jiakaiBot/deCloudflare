@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,629 |
+| com | 8,631 |
 | social | 4,899 |
 | net | 4,225 |
-| org | 2,815 |
+| org | 2,816 |
 | de | 2,733 |
 
 
@@ -546,7 +546,7 @@ Here's a list of public Fediverse services.
 | `3rdstone.cc` | Yes |
 | `3rdstone.uk` | Yes |
 | `3rdwall.net` | Yes |
-| `3rensei.xyz` | Yes |
+| `3rensei.xyz` | No |
 | `3sn.ru` | No |
 | `3sparks.net` | Yes |
 | `3stadt.com` | No |
@@ -8308,6 +8308,7 @@ Here's a list of public Fediverse services.
 | `clever-rat.co.uk` | No |
 | `cleverangel.org` | No |
 | `cleverdevil.club` | No |
+| `cleverdomain.org` | Yes |
 | `cleverlibre.org` | No |
 | `cleversets.com` | No |
 | `cleverthis.com` | No |
@@ -11258,7 +11259,7 @@ Here's a list of public Fediverse services.
 | `deuill.org` | Yes |
 | `deus-exmachina.net` | No |
 | `deutrino.net` | No |
-| `deutsche-gamer-gemeinschaft.eu` | Yes |
+| `deutsche-gamer-gemeinschaft.eu` | No |
 | `deutschehipster.cyou` | No |
 | `deuxchevaux.org` | No |
 | `deuxfleurs.fr` | No |
@@ -14066,6 +14067,7 @@ Here's a list of public Fediverse services.
 | `eurostaryurtdisiegitim.net` | No |
 | `eurotrib.com` | No |
 | `eurovision.social` | No |
+| `eurovisiondrinking.com` | No |
 | `euroxs.org` | No |
 | `eus.jp` | No |
 | `euskarabildua.eus` | No |
@@ -31001,7 +31003,7 @@ Here's a list of public Fediverse services.
 | `mofu2charger-listenradio.net` | No |
 | `mofucloud.com` | No |
 | `mofumofu.me` | Yes |
-| `mofumofugarden.com` | Yes |
+| `mofumofugarden.com` | No |
 | `mog.blue` | Yes |
 | `mog.gg` | Yes |
 | `mogeko.moe` | No |
@@ -34364,7 +34366,7 @@ Here's a list of public Fediverse services.
 | `nthomas20.net` | No |
 | `nthp.me` | No |
 | `nti.social` | No |
-| `ntiago.space` | Yes |
+| `ntiago.space` | No |
 | `ntic.fr` | No |
 | `ntk.so` | No |
 | `ntnu.no` | Yes |
@@ -48566,13 +48568,13 @@ Here's a list of public Fediverse services.
 | `toot.zone` | Yes |
 | `toot24.de` | No |
 | `toot9.de` | No |
-| `tootafterdark.xyz` | Yes |
+| `tootafterdark.xyz` | No |
 | `tootally.me` | No |
 | `tootaloo.me` | No |
 | `tootbook.com` | No |
 | `tootbot.org` | Yes |
 | `tootbot.social` | No |
-| `tootchute.com` | Yes |
+| `tootchute.com` | No |
 | `tootcn.com` | No |
 | `toote.rs` | No |
 | `tooted.ca` | No |
@@ -52560,6 +52562,7 @@ Here's a list of public Fediverse services.
 | `wolter.house` | No |
 | `wolthera.info` | No |
 | `wolvar.net` | Yes |
+| `wolverion.com` | No |
 | `wolvesare.sexy` | No |
 | `wombat.online` | No |
 | `wombats.club` | No |
@@ -54513,8 +54516,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,590 |
-| Normal | 38,875 |
+| Cloudflare | 15,585 |
+| Normal | 38,883 |
 
 
 </details>
