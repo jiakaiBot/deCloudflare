@@ -135,7 +135,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | libredns.gr | No |
 | lindung.pp.ua | Yes |
 | lobbygod.com | No |
-| londonwebnerd.cloud | Yes |
 | lonet.org | Yes |
 | mandre.dev | No |
 | marschi.de | Yes |
@@ -247,8 +246,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 125 |
+| Cloudflare | 124 |
 | Normal | 103 |
 
 
-### 54.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
