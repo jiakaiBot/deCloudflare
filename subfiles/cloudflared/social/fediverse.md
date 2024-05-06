@@ -9490,6 +9490,7 @@ Here's a list of public Fediverse services.
 | `crissdepauvre.shop` | No |
 | `cristiano.cloud` | No |
 | `cristiioan.me` | Yes |
+| `crit.run` | Yes |
 | `critbase.net` | No |
 | `critcare.social` | No |
 | `critica.li` | No |
@@ -18759,7 +18760,7 @@ Here's a list of public Fediverse services.
 | `gunjobiyori.com` | Yes |
 | `gunju.de` | No |
 | `gunma.in` | No |
-| `gunmastodon.com` | Yes |
+| `gunmastodon.com` | No |
 | `gunnar.se` | Yes |
 | `gunnersshot.com` | No |
 | `gunter.de` | No |
@@ -28366,6 +28367,7 @@ Here's a list of public Fediverse services.
 | `markham.family` | No |
 | `markhughes.tech` | No |
 | `marki.cloud` | No |
+| `markiswrit.ing` | No |
 | `markjones.cloud` | No |
 | `markmcelroy.com` | No |
 | `markmckeague.com` | Yes |
@@ -54518,7 +54520,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,585 |
-| Normal | 38,884 |
+| Normal | 38,886 |
 
 
 </details>
