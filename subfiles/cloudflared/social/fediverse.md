@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,629 |
-| social | 4,899 |
+| com | 8,630 |
+| social | 4,900 |
 | net | 4,226 |
-| org | 2,816 |
+| org | 2,817 |
 | de | 2,734 |
 
 
@@ -1195,6 +1195,7 @@ Here's a list of public Fediverse services.
 | `acrion.social` | No |
 | `acromotivator.com` | No |
 | `acrylicjam.xyz` | No |
+| `acsel.cl` | No |
 | `act2restore.org` | No |
 | `acter.global` | Yes |
 | `acticiel.org` | No |
@@ -11873,7 +11874,7 @@ Here's a list of public Fediverse services.
 | `dlvn.cc` | No |
 | `dlx.pink` | No |
 | `dly.se` | Yes |
-| `dlyang.tk` | Yes |
+| `dlyang.tk` | No |
 | `dmaus.name` | No |
 | `dmca.club` | No |
 | `dmcblue.com` | No |
@@ -20738,6 +20739,7 @@ Here's a list of public Fediverse services.
 | `hyperreal.tube` | No |
 | `hypers.social` | No |
 | `hypertalk.io` | No |
+| `hypertesto.me` | No |
 | `hypertextcoffee.com` | Yes |
 | `hypervasis.com` | Yes |
 | `hypetrix.com` | Yes |
@@ -27405,6 +27407,7 @@ Here's a list of public Fediverse services.
 | `lubakiagenda.net` | No |
 | `lubar.me` | Yes |
 | `luc.cat` | Yes |
+| `luca-alloatti.eu` | No |
 | `luca-cazzulo.it` | No |
 | `luca.run` | Yes |
 | `luca0n.com` | No |
@@ -29897,6 +29900,7 @@ Here's a list of public Fediverse services.
 | `messurrection.com` | No |
 | `messydesk.social` | No |
 | `mesta.social` | No |
+| `mester.social` | No |
 | `mestizo.monster` | No |
 | `met-eaux.nl` | No |
 | `met-hardware.fr` | No |
@@ -34712,6 +34716,7 @@ Here's a list of public Fediverse services.
 | `obryan-net.com` | No |
 | `obrydd.com` | No |
 | `obscura-px.social` | No |
+| `obscura-px.work` | No |
 | `obscuravpn.io` | No |
 | `obscuritus.ca` | No |
 | `observationblogger.com` | No |
@@ -35607,6 +35612,7 @@ Here's a list of public Fediverse services.
 | `orthoheterodox.blog` | No |
 | `orthoheterodox.com` | No |
 | `orthy.de` | No |
+| `ortie.org` | No |
 | `orties.net` | No |
 | `ortion.xyz` | No |
 | `ortizmedia.net` | Yes |
@@ -36783,6 +36789,7 @@ Here's a list of public Fediverse services.
 | `pet123.club` | No |
 | `petbutler.club` | Yes |
 | `petch.rocks` | No |
+| `peteashton.com` | No |
 | `petecarr.net` | Yes |
 | `petehub.com` | Yes |
 | `petelambert.social` | No |
@@ -51141,6 +51148,7 @@ Here's a list of public Fediverse services.
 | `vnchich.cc` | Yes |
 | `vnchich.com` | Yes |
 | `vnchich.net` | Yes |
+| `vnchich.top` | No |
 | `vnecke.social` | No |
 | `vnil.de` | No |
 | `vnshow.cc` | No |
@@ -54518,8 +54526,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,587 |
-| Normal | 38,883 |
+| Cloudflare | 15,586 |
+| Normal | 38,892 |
 
 
 </details>
