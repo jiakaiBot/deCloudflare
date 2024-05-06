@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,630 |
-| social | 4,901 |
+| social | 4,902 |
 | net | 4,226 |
-| org | 2,817 |
+| org | 2,818 |
 | de | 2,734 |
 
 
@@ -7297,6 +7297,7 @@ Here's a list of public Fediverse services.
 | `cathrow.social` | Yes |
 | `catin.space` | Yes |
 | `cativa.net` | No |
+| `catlang.social` | No |
 | `catlog.jp` | Yes |
 | `catmargue.org` | No |
 | `catnest.net` | Yes |
@@ -25978,6 +25979,7 @@ Here's a list of public Fediverse services.
 | `leftist.work` | Yes |
 | `leftlibertarian.club` | No |
 | `leftodon.social` | No |
+| `leftopia.org` | No |
 | `leftoverpizza.rocks` | No |
 | `leftreality.com` | No |
 | `leftuseless.net` | No |
@@ -54528,7 +54530,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,586 |
-| Normal | 38,893 |
+| Normal | 38,895 |
 
 
 </details>
