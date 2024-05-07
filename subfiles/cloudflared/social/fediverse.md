@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,634 |
 | social | 4,902 |
 | net | 4,227 |
-| org | 2,820 |
+| org | 2,819 |
 | de | 2,735 |
 
 
@@ -4255,7 +4255,7 @@ Here's a list of public Fediverse services.
 | `balyuzi.uk` | No |
 | `bam.io` | Yes |
 | `bam.yt` | Yes |
-| `bamader.co.in` | Yes |
+| `bamader.co.in` | No |
 | `bambuch.cz` | No |
 | `bambus.social` | No |
 | `bambuswald.social` | No |
@@ -54237,7 +54237,6 @@ Here's a list of public Fediverse services.
 | `zeweb.de` | No |
 | `zfadd.is` | No |
 | `zfov.ca` | No |
-| `zgasma.org` | No |
 | `zgjnas.top` | No |
 | `zgo.de` | No |
 | `zh.ht` | No |
@@ -54546,7 +54545,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,590 |
+| Cloudflare | 15,589 |
 | Normal | 38,908 |
 
 
