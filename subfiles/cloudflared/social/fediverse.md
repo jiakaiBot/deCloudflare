@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,634 |
+| com | 8,635 |
 | social | 4,902 |
 | net | 4,228 |
 | org | 2,821 |
@@ -8793,6 +8793,7 @@ Here's a list of public Fediverse services.
 | `come-together.nl` | No |
 | `comedyclub.social` | No |
 | `comedyshow.nz` | No |
+| `comehavebreakfast.blog` | No |
 | `comelibros.club` | No |
 | `comerocudequemestalendo.com` | No |
 | `cometary.org` | No |
@@ -28091,6 +28092,7 @@ Here's a list of public Fediverse services.
 | `makrobytes.eu` | No |
 | `maksales.dev` | Yes |
 | `maksales.su` | No |
+| `maktverktyg.com` | No |
 | `makzan.blog` | No |
 | `mal-richtig.de` | No |
 | `mal.systems` | No |
@@ -33794,6 +33796,7 @@ Here's a list of public Fediverse services.
 | `nnrt.site` | No |
 | `nnt.space` | No |
 | `nnyx.xyz` | Yes |
+| `no-input.xyz` | No |
 | `no-ip.biz` | No |
 | `no-ip.bizfriendica` | No |
 | `no-ip.info` | No |
@@ -52854,7 +52857,7 @@ Here's a list of public Fediverse services.
 | `wurtshell.com` | No |
 | `wurzelmann.at` | No |
 | `wusz.org` | No |
-| `wuthering.online` | Yes |
+| `wuthering.online` | No |
 | `wuu.bi` | Yes |
 | `wuwox.com` | Yes |
 | `wvac.club` | No |
@@ -54549,8 +54552,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,591 |
-| Normal | 38,910 |
+| Cloudflare | 15,590 |
+| Normal | 38,914 |
 
 
 </details>
