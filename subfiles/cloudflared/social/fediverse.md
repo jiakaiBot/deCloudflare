@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,632 |
+| com | 8,633 |
 | social | 4,902 |
 | net | 4,226 |
 | org | 2,818 |
@@ -4228,6 +4228,7 @@ Here's a list of public Fediverse services.
 | `balerno.town` | No |
 | `balfolk.jetzt` | No |
 | `balfolk.social` | No |
+| `balki.me` | Yes |
 | `ballantine.family` | No |
 | `ballhaus.community` | No |
 | `ballhaus.dk` | No |
@@ -9026,6 +9027,7 @@ Here's a list of public Fediverse services.
 | `contacthi.org` | No |
 | `containment.space` | No |
 | `content.town` | No |
+| `contentcatnip.com` | No |
 | `contentecontent.com` | No |
 | `contentnation.net` | No |
 | `contentnotify.com` | No |
@@ -22219,6 +22221,7 @@ Here's a list of public Fediverse services.
 | `j51b5.me` | Yes |
 | `j62.de` | No |
 | `j621.net` | Yes |
+| `j7s.me` | No |
 | `j8.nu` | No |
 | `j9w.me` | No |
 | `ja-jp.org` | No |
@@ -54535,8 +54538,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,588 |
-| Normal | 38,899 |
+| Cloudflare | 15,589 |
+| Normal | 38,901 |
 
 
 </details>
