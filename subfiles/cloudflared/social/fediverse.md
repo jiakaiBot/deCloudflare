@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,633 |
 | social | 4,902 |
-| net | 4,226 |
+| net | 4,227 |
 | org | 2,818 |
 | de | 2,734 |
 
@@ -34566,7 +34566,7 @@ Here's a list of public Fediverse services.
 | `nxsux.xyz` | Yes |
 | `nxt.social` | No |
 | `nxte.org` | No |
-| `nxtgen.social` | Yes |
+| `nxtgen.social` | No |
 | `nya.coffee` | Yes |
 | `nya.gay` | No |
 | `nya.house` | No |
@@ -41576,6 +41576,7 @@ Here's a list of public Fediverse services.
 | `san.moe` | No |
 | `sanae.im` | Yes |
 | `sanae233.net` | No |
+| `sanael.net` | Yes |
 | `sanam.xyz` | No |
 | `sanantonio.lol` | No |
 | `sanao.dev` | Yes |
@@ -54539,7 +54540,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,589 |
-| Normal | 38,901 |
+| Normal | 38,902 |
 
 
 </details>
