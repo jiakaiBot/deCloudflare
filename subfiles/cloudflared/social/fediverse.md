@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,630 |
+| com | 8,631 |
 | social | 4,902 |
 | net | 4,226 |
 | org | 2,818 |
@@ -22036,6 +22036,7 @@ Here's a list of public Fediverse services.
 | `it-hilfe-leipzig.org` | No |
 | `it-infra.jp` | No |
 | `it-lin.de` | No |
+| `it.com` | Yes |
 | `itacfl.link` | No |
 | `italkedtostrangers.com` | Yes |
 | `italysec.com` | No |
@@ -54531,7 +54532,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,585 |
+| Cloudflare | 15,586 |
 | Normal | 38,898 |
 
 
