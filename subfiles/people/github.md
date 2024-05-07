@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [internal network error code 40333](https://github.com/germanoeich/nirn-proxy/issues/14)
 - [CloudFlare pages with NextJS support (specifically RSCs)](https://github.com/getsentry/sentry-javascript/issues/11920)
 - [Failing to add txt record.](https://github.com/opnsense/plugins/issues/3969)
 - [dts-gen doesn't work with cloudflare-video-element: require() of ES Module not supported.](https://github.com/microsoft/DefinitelyTyped-tools/issues/1001)
