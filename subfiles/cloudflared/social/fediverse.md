@@ -386,6 +386,7 @@ Here's a list of public Fediverse services.
 | `2248.live` | Yes |
 | `22decembre.eu` | No |
 | `22x22.ru` | Yes |
+| `23.nu` | No |
 | `23.social` | No |
 | `230029.xyz` | Yes |
 | `238c.org` | No |
@@ -9567,7 +9568,7 @@ Here's a list of public Fediverse services.
 | `crowleyclub.com` | No |
 | `crownel.monster` | Yes |
 | `crownet.eu` | No |
-| `crows.icu` | Yes |
+| `crows.icu` | No |
 | `crows.tokyo` | No |
 | `crowsnest.social` | No |
 | `crpg.info` | Yes |
@@ -25793,6 +25794,7 @@ Here's a list of public Fediverse services.
 | `lavatech.top` | Yes |
 | `lavcorps.xyz` | No |
 | `lavenby.site` | No |
+| `lavender.earth` | Yes |
 | `lavenderfield.xyz` | No |
 | `laverdu.re` | No |
 | `lavergne.online` | No |
@@ -42799,7 +42801,7 @@ Here's a list of public Fediverse services.
 | `sharetron.com` | No |
 | `shareworx.net` | No |
 | `sharivegas.com` | No |
-| `shark.community` | No |
+| `shark.community` | Yes |
 | `shark.moe` | No |
 | `sharkey.social` | No |
 | `sharkey.world` | No |
@@ -48715,7 +48717,7 @@ Here's a list of public Fediverse services.
 | `tormentasolar.win` | No |
 | `tormentnexus.dev` | No |
 | `tormentnexus.social` | No |
-| `toromaguro.xyz` | Yes |
+| `toromaguro.xyz` | No |
 | `toromino.de` | Yes |
 | `torontodiy.xyz` | Yes |
 | `torontomusic.cloud` | No |
@@ -51595,7 +51597,7 @@ Here's a list of public Fediverse services.
 | `wandel.social` | No |
 | `wanderers-waypoint.com` | Yes |
 | `wanderers.quest` | Yes |
-| `wanderia.online` | Yes |
+| `wanderia.online` | No |
 | `wandering.one` | No |
 | `wandering.shop` | No |
 | `wanderingjon.com` | Yes |
@@ -54529,8 +54531,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,586 |
-| Normal | 38,895 |
+| Cloudflare | 15,585 |
+| Normal | 38,898 |
 
 
 </details>
