@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,633 |
+| com | 8,634 |
 | social | 4,902 |
 | net | 4,227 |
-| org | 2,817 |
-| de | 2,734 |
+| org | 2,820 |
+| de | 2,735 |
 
 
 - Mastodon, Pleroma, etc
@@ -5804,6 +5804,7 @@ Here's a list of public Fediverse services.
 | `bogus.ee` | No |
 | `bohlenlabs.com` | No |
 | `bohmgillis.ca` | No |
+| `bohnenstrauch.org` | Yes |
 | `bohnstedt.org` | No |
 | `boiledscript.com` | Yes |
 | `boiler.social` | Yes |
@@ -14183,6 +14184,7 @@ Here's a list of public Fediverse services.
 | `evsyukov.org` | Yes |
 | `evu-group.de` | Yes |
 | `evulid.cc` | Yes |
+| `evveland.com` | No |
 | `evvk.fi` | Yes |
 | `ewaf.club` | No |
 | `ewancroft.uk` | No |
@@ -16245,6 +16247,7 @@ Here's a list of public Fediverse services.
 | `freeculture.org` | No |
 | `freeculturist.com` | No |
 | `freecumextremist.com` | No |
+| `freecyb.org` | Yes |
 | `freeddns.org` | Yes |
 | `freedica.org` | No |
 | `freediverse.com` | No |
@@ -26777,6 +26780,7 @@ Here's a list of public Fediverse services.
 | `linuxtube.space` | Yes |
 | `linuxuserspace.show` | No |
 | `linxx.net` | No |
+| `linxxnet.de` | No |
 | `linya.live` | No |
 | `linz.best` | No |
 | `linz.city` | No |
@@ -36009,6 +36013,7 @@ Here's a list of public Fediverse services.
 | `ozor.es` | Yes |
 | `ozstream.net.au` | No |
 | `oztorah.com` | Yes |
+| `ozturk.vip` | No |
 | `p-arte.org` | No |
 | `p-dev.net` | No |
 | `p-epsilon.com` | Yes |
@@ -36411,6 +36416,7 @@ Here's a list of public Fediverse services.
 | `patramsey.net` | No |
 | `patricia.no` | No |
 | `patriciadrive.com` | No |
+| `patriciavillela.com.br` | No |
 | `patrick.social` | Yes |
 | `patrick.wtf` | No |
 | `patrickv.be` | Yes |
@@ -54231,6 +54237,7 @@ Here's a list of public Fediverse services.
 | `zeweb.de` | No |
 | `zfadd.is` | No |
 | `zfov.ca` | No |
+| `zgasma.org` | No |
 | `zgjnas.top` | No |
 | `zgo.de` | No |
 | `zh.ht` | No |
@@ -54539,8 +54546,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,588 |
-| Normal | 38,903 |
+| Cloudflare | 15,590 |
+| Normal | 38,908 |
 
 
 </details>
