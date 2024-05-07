@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Node APIs not supporting twitter SDK](https://github.com/code100x/bounty-hook/issues/7)
 - [internal network error code 40333](https://github.com/germanoeich/nirn-proxy/issues/14)
 - [CloudFlare pages with NextJS support (specifically RSCs)](https://github.com/getsentry/sentry-javascript/issues/11920)
 - [Failing to add txt record.](https://github.com/opnsense/plugins/issues/3969)
