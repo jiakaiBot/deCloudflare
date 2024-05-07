@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,633 |
 | social | 4,902 |
 | net | 4,227 |
-| org | 2,817 |
+| org | 2,818 |
 | de | 2,734 |
 
 
@@ -12252,7 +12252,7 @@ Here's a list of public Fediverse services.
 | `downsouthfarm.com` | No |
 | `downtime.club` | No |
 | `dox.land` | Yes |
-| `dox.tf` | Yes |
+| `dox.tf` | No |
 | `doxa.jp` | No |
 | `doxa.team` | Yes |
 | `doxx.fr` | No |
@@ -17557,6 +17557,7 @@ Here's a list of public Fediverse services.
 | `geor.gs` | No |
 | `geordieguy.au` | No |
 | `geore.pub` | Yes |
+| `georesilience.fr` | No |
 | `georg-rosenbaum.de` | No |
 | `georgeb.net` | Yes |
 | `georgelsas.de` | No |
@@ -54230,6 +54231,7 @@ Here's a list of public Fediverse services.
 | `zeweb.de` | No |
 | `zfadd.is` | No |
 | `zfov.ca` | No |
+| `zgasma.org` | No |
 | `zgjnas.top` | No |
 | `zgo.de` | No |
 | `zh.ht` | No |
@@ -54538,8 +54540,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,588 |
-| Normal | 38,902 |
+| Cloudflare | 15,587 |
+| Normal | 38,905 |
 
 
 </details>
