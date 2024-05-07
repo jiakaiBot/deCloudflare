@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Infinite redirects in single user mode](https://github.com/manyfold3d/manyfold/issues/2147)
 - [ID token issued by a different provider - Error 404](https://github.com/goauthentik/authentik/issues/9622)
 - [Error: The package "@cloudflare/workerd-darwin-64" could not be found](https://github.com/Sh4yy/personal-ai/issues/5)
 - [getEnvironmentVariable utility always return undefined on Cloudflare Workers](https://github.com/langchain-ai/langchainjs/issues/5303)
