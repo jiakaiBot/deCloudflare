@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,633 |
 | social | 4,902 |
 | net | 4,227 |
-| org | 2,818 |
+| org | 2,817 |
 | de | 2,734 |
 
 
@@ -41478,7 +41478,7 @@ Here's a list of public Fediverse services.
 | `salastil.com` | Yes |
 | `saldemi.casa` | Yes |
 | `salecroix.fr` | No |
-| `salejandro.me` | No |
+| `salejandro.me` | Yes |
 | `salesforce.social` | No |
 | `salesforcebreak.com` | No |
 | `salle-s.org` | No |
@@ -54231,7 +54231,6 @@ Here's a list of public Fediverse services.
 | `zeweb.de` | No |
 | `zfadd.is` | No |
 | `zfov.ca` | No |
-| `zgasma.org` | No |
 | `zgjnas.top` | No |
 | `zgo.de` | No |
 | `zh.ht` | No |
@@ -54540,8 +54539,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,587 |
-| Normal | 38,905 |
+| Cloudflare | 15,588 |
+| Normal | 38,903 |
 
 
 </details>
