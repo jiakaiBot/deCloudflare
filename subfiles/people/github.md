@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare pages with NextJS support (specifically RSCs)](https://github.com/getsentry/sentry-javascript/issues/11920)
 - [Failing to add txt record.](https://github.com/opnsense/plugins/issues/3969)
 - [dts-gen doesn't work with cloudflare-video-element: require() of ES Module not supported.](https://github.com/microsoft/DefinitelyTyped-tools/issues/1001)
 - [Error when executing terraform plan that there is no matching CloudIntegration.](https://github.com/newrelic/terraform-provider-newrelic/issues/2652)
