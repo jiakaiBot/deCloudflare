@@ -164,7 +164,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nordvpn.com | Yes |
 | noridev.moe | No |
 | npsolution.it | No |
-| ofdoom.net | Yes |
 | oliviertv.co.za | Yes |
 | openbld.net | No |
 | opendns.com | Yes |
@@ -246,8 +245,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 124 |
+| Cloudflare | 123 |
 | Normal | 103 |
 
 
-### 54.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
