@@ -137,7 +137,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lobbygod.com | No |
 | lonet.org | Yes |
 | mandre.dev | No |
-| marschi.de | Yes |
 | maskab.com | Yes |
 | masters-of-cloud.de | No |
 | meddy94.de | No |
@@ -245,8 +244,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 123 |
+| Cloudflare | 122 |
 | Normal | 103 |
 
 
-### 54.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 54.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
