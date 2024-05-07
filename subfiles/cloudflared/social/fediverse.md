@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,634 |
 | social | 4,902 |
 | net | 4,227 |
-| org | 2,819 |
+| org | 2,820 |
 | de | 2,735 |
 
 
@@ -50009,6 +50009,7 @@ Here's a list of public Fediverse services.
 | `undernet.uy` | No |
 | `undernopretext.social` | No |
 | `underoot.dev` | No |
+| `underpowe.red` | No |
 | `undersco.re` | No |
 | `underscore.world` | No |
 | `understars.dev` | Yes |
@@ -54237,6 +54238,7 @@ Here's a list of public Fediverse services.
 | `zeweb.de` | No |
 | `zfadd.is` | No |
 | `zfov.ca` | No |
+| `zgasma.org` | No |
 | `zgjnas.top` | No |
 | `zgo.de` | No |
 | `zh.ht` | No |
@@ -54546,7 +54548,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15,589 |
-| Normal | 38,908 |
+| Normal | 38,910 |
 
 
 </details>
