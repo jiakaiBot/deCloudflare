@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failing to add txt record.](https://github.com/opnsense/plugins/issues/3969)
+- [dts-gen doesn't work with cloudflare-video-element: require() of ES Module not supported.](https://github.com/microsoft/DefinitelyTyped-tools/issues/1001)
 - [Error when executing terraform plan that there is no matching CloudIntegration.](https://github.com/newrelic/terraform-provider-newrelic/issues/2652)
 - [Infinite redirects in single user mode](https://github.com/manyfold3d/manyfold/issues/2147)
 - [ID token issued by a different provider - Error 404](https://github.com/goauthentik/authentik/issues/9622)
