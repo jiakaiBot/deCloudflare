@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [getEnvironmentVariable utility always return undefined on Cloudflare Workers](https://github.com/langchain-ai/langchainjs/issues/5303)
 - [Cloudflare provider rate limits cause a fatal error and pod restarts into CLBO](https://github.com/kubernetes-sigs/external-dns/issues/4434)
 - [Error: Error solving the challenge.](https://github.com/gl0zzy/flaresolverr-proxy/issues/1)
 - [Declaration of Factory.createHandlers is not appropriate](https://github.com/honojs/hono/issues/2621)
