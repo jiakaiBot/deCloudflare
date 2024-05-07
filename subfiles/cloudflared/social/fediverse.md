@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,631 |
+| com | 8,632 |
 | social | 4,902 |
 | net | 4,226 |
 | org | 2,818 |
@@ -9475,6 +9475,7 @@ Here's a list of public Fediverse services.
 | `crimsson.com` | No |
 | `cringe.cafe` | No |
 | `cringe.zip` | Yes |
+| `cringecollective.io` | No |
 | `crinklefur.club` | No |
 | `crinstamcamp.com` | No |
 | `criomagan.scot` | No |
@@ -12294,7 +12295,7 @@ Here's a list of public Fediverse services.
 | `dragon-lair.social` | No |
 | `dragon-night.net` | No |
 | `dragon.garden` | No |
-| `dragon.navy` | No |
+| `dragon.navy` | Yes |
 | `dragon.ooo` | No |
 | `dragon.style` | No |
 | `dragon2611.net` | Yes |
@@ -50832,6 +50833,7 @@ Here's a list of public Fediverse services.
 | `vertinext.com` | No |
 | `veru.moe` | No |
 | `verumsocial.com` | Yes |
+| `vervainglobal.com` | No |
 | `vervology.social` | Yes |
 | `verweg.com` | No |
 | `verweij.network` | No |
@@ -54532,8 +54534,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,586 |
-| Normal | 38,898 |
+| Cloudflare | 15,587 |
+| Normal | 38,899 |
 
 
 </details>
