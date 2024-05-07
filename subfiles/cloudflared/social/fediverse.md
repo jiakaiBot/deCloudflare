@@ -53457,6 +53457,7 @@ Here's a list of public Fediverse services.
 | `yamatodon.com` | No |
 | `yambal.net` | Yes |
 | `yambo.social` | No |
+| `yami.ski` | Yes |
 | `yampp.de` | No |
 | `yamr.cc` | No |
 | `yams.lol` | No |
@@ -54534,7 +54535,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,587 |
+| Cloudflare | 15,588 |
 | Normal | 38,899 |
 
 
