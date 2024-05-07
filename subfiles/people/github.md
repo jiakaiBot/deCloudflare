@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: The package "@cloudflare/workerd-darwin-64" could not be found](https://github.com/Sh4yy/personal-ai/issues/5)
 - [getEnvironmentVariable utility always return undefined on Cloudflare Workers](https://github.com/langchain-ai/langchainjs/issues/5303)
 - [Cloudflare provider rate limits cause a fatal error and pod restarts into CLBO](https://github.com/kubernetes-sigs/external-dns/issues/4434)
 - [Error: Error solving the challenge.](https://github.com/gl0zzy/flaresolverr-proxy/issues/1)
