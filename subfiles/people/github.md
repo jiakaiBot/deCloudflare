@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to deploy a website made through Primo.](https://github.com/primocms/primo/issues/388)
 - [Artstation Cloudflare challenge 403 error](https://github.com/mikf/gallery-dl/issues/5564)
 - [Node APIs not supporting twitter SDK](https://github.com/code100x/bounty-hook/issues/7)
 - [internal network error code 40333](https://github.com/germanoeich/nirn-proxy/issues/14)
