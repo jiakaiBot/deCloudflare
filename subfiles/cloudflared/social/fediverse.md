@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,635 |
 | social | 4,902 |
 | net | 4,228 |
-| org | 2,821 |
+| org | 2,820 |
 | de | 2,735 |
 
 
@@ -15800,7 +15800,7 @@ Here's a list of public Fediverse services.
 | `flx.cat` | No |
 | `flxi.uk` | Yes |
 | `fly.dev` | No |
-| `flyand.chat` | Yes |
+| `flyand.chat` | No |
 | `flyaway.city` | No |
 | `flyemoji.moe` | Yes |
 | `flyerdonut.net` | Yes |
@@ -22397,7 +22397,7 @@ Here's a list of public Fediverse services.
 | `jamwells.social` | Yes |
 | `jamwil.com` | Yes |
 | `jan-serve.de` | No |
-| `janboddez.tech` | Yes |
+| `janboddez.tech` | No |
 | `janbruns.de` | No |
 | `janbudke.de` | No |
 | `jancborchardt.net` | No |
@@ -54243,7 +54243,6 @@ Here's a list of public Fediverse services.
 | `zeweb.de` | No |
 | `zfadd.is` | No |
 | `zfov.ca` | No |
-| `zgasma.org` | No |
 | `zgjnas.top` | No |
 | `zgo.de` | No |
 | `zh.ht` | No |
@@ -54552,8 +54551,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 15,590 |
-| Normal | 38,914 |
+| Cloudflare | 15,588 |
+| Normal | 38,915 |
 
 
 </details>
